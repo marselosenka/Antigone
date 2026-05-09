@@ -1,4 +1,39 @@
-﻿/**
+﻿// for the controls icons : svg
+const createIcon = (type) => {
+    const svg = {
+        play: `<svg viewBox="0 0 24 24" width="20" height="20"
+                fill="none" stroke="currentColor" stroke-width="1.5"
+                stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="8,5 19,12 8,19" />
+              </svg>`,
+
+        pause: `<svg viewBox="0 0 24 24" width="20" height="20"
+                 fill="none" stroke="currentColor" stroke-width="1.5"
+                 stroke-linecap="round" stroke-linejoin="round">
+                 <rect x="6" y="5" width="2.5" height="14" rx="0.8" />
+                 <rect x="15.5" y="5" width="2.5" height="14" rx="0.8" />
+               </svg>`,
+
+        volumeHigh: `<svg viewBox="0 0 24 24" width="20" height="20"
+                      fill="none" stroke="currentColor" stroke-width="1.5"
+                      stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M6 9l3-3h1.5v12H9l-3-3H3V9h3z" />
+                      <path d="M15 10c1 1 1.8 2.2 1.8 3.5S16 16.5 15 17.5" />
+                      <path d="M18 8c2 1.8 3.5 4.5 3.5 7.5S20 22.2 18 24" />
+                    </svg>`,
+
+        volumeMute: `<svg viewBox="0 0 24 24" width="20" height="20"
+                       fill="none" stroke="currentColor" stroke-width="1.5"
+                       stroke-linecap="round" stroke-linejoin="round">
+                       <path d="M6 9l3-3h1.5v12H9l-3-3H3V9h3z" />
+                       <line x1="16" y1="9" x2="22" y2="15" />
+                       <line x1="22" y1="9" x2="16" y2="15" />
+                     </svg>`
+    };
+    return svg[type] || '';
+};
+
+/**
  * SETTING UP THE PLAYER
  * Initializes video controls. Timeline-related behavior has been removed.
  */
@@ -8,6 +43,7 @@ function initializeVideoControls() {
     const playIcon = document.getElementById('play-icon');
     const progressBar = document.getElementById('video-progress');
     const muteBtn = document.getElementById('mute-btn');
+    muteBtn.innerHTML = createIcon('volumeHigh');
     const volumeControl = document.getElementById('volume-control');
     const fullscreenBtn = document.getElementById('fullscreen-btn');
     const videoWrapper = document.getElementById('video-player');
@@ -27,13 +63,13 @@ function initializeVideoControls() {
 
     function updatePlayState() {
         if (videoElement.paused) {
-            playIcon.textContent = '?';
-            if (overlayIcon) overlayIcon.textContent = '?';
+            playIcon.innerHTML = createIcon('play');
+            if (overlayIcon) overlayIcon.innerHTML = createIcon('play');
             videoWrapper.classList.remove('playing');
             videoWrapper.classList.add('paused');
         } else {
-            playIcon.textContent = '?';
-            if (overlayIcon) overlayIcon.textContent = '?';
+            playIcon.innerHTML = createIcon('pause');
+            if (overlayIcon) overlayIcon.innerHTML = createIcon('pause');
             videoWrapper.classList.add('playing');
             videoWrapper.classList.remove('paused');
         }
@@ -60,7 +96,9 @@ function initializeVideoControls() {
     muteBtn.addEventListener('click', (e) => {
         e.stopPropagation();
         videoElement.muted = !videoElement.muted;
-        muteBtn.textContent = videoElement.muted ? '??' : '??';
+        muteBtn.innerHTML = videoElement.muted
+            ? createIcon('volumeMute')
+            : createIcon('volumeHigh');
     });
 
     volumeControl.addEventListener('input', (e) => {
@@ -78,6 +116,41 @@ function initializeVideoControls() {
     updatePlayState();
 }
 
+
+// automated sync: tracks video progress and auto-activate scenes
+const videoElementForSync = document.getElementById('video-element');
+
+videoElementForSync.addEventListener('timeupdate', () => {
+    const currentTime = videoElementForSync.currentTime;
+
+    const activeScene = playData.scenes.find(
+        s => currentTime >= s.start && currentTime <= s.end
+    );
+
+    if (activeScene && activeScene.id !== state.lastActiveSceneId) {
+        state.lastActiveSceneId = activeScene.id;
+        updateTextPanels(activeScene.text);
+        highlightRelatedItems(activeScene);
+        document.querySelectorAll('#scenes-container .tag').forEach(tag => {
+            tag.classList.remove('active');
+            if (tag.dataset.value === activeScene.id) {
+                tag.classList.add('active');
+            }
+        });
+        state.currentScenes = [activeScene];
+        updateAllDimensions();
+    }
+
+    if (!activeScene && state.lastActiveSceneId) {
+        state.lastActiveSceneId = null;
+        state.activeFilters.scenes.clear();
+        document.querySelectorAll('#scenes-container .tag').forEach(tag => {
+            tag.classList.remove('active');
+        });
+        applyFilters();
+        updateAllDimensions();
+    }
+});
 /**
  * When a user clicks a scene tag, update text and semantic highlights only.
  */
@@ -85,29 +158,15 @@ function handleSceneTagClick(sceneId) {
     const scene = playData.scenes.find(s => s.id === sceneId);
     if (!scene) return;
 
+    const video = document.getElementById('video-element');
+    if (video && video.duration) {
+        video.currentTime = scene.start;
+    }
+
     updateTextPanels(scene.text);
     highlightRelatedItems(scene);
-}
 
-/**
- * Timeline visualization removed.
- */
-function clearTimeline() {
-    return;
-}
-
-/**
- * Timeline visualization removed.
- */
-function displayCharacterTimeline(character) {
-    return;
-}
-
-/**
- * Timeline visualization removed.
- */
-function displayAllScenes() {
-    return;
+    state.lastActiveSceneId = sceneId;
 }
 
 /**

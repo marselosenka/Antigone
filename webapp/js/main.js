@@ -2,17 +2,17 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize State
     state.currentScenes = [...playData.scenes];
 
-    // 1. Render UI Elements
+    // 1Render UI Elements
     generateDynamicTags();
     renderCharacters();
 
-    // 2. Attach Global Listeners
+    // Attach Global Listeners
     attachEventListeners();
 
-    // 3. Initialize Visuals
+    // Initialize Visuals
     updateAllDimensions();
 
-    // 4. Initialize Controls
+    // Initialize Controls
     initializeVideoControls();
     initializeKeyboardShortcuts();
     sparqlLineNavigator.init();

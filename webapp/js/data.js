@@ -1,12 +1,11 @@
-
 // DATA DEFINITION
 const playData = {
     scenes: [
         {
             id: 'prologue',
             name: 'Prologue',
-            start: 0,
-            end: 362,
+            start: 173,
+            end: 465,
             characters: ['antigone', 'ismene'],
             emotions: ['anxiety', 'fear', 'courage'],
             themes: ['divine-law', 'family-duty', 'moral-conscience'],
@@ -20,8 +19,8 @@ const playData = {
         {
             id: 'parodos',
             name: 'Parodos',
-            start: 362,
-            end: 588,
+            start: 480,
+            end: 705,
             characters: ['chorus'],
             emotions: ['pride'],
             themes: ['authority', 'justice'],
@@ -35,8 +34,8 @@ const playData = {
         {
             id: 'episode1',
             name: 'Episode 01',
-            start: 589,
-            end: 1206,
+            start: 720,
+            end: 1350,
             characters: ['creon', 'chorus'],
             emotions: ['anger', 'defiance', 'courage'],
             themes: ['human-law', 'authority', 'divine-law'],
@@ -50,8 +49,8 @@ const playData = {
         {
             id: 'stasimon1',
             name: 'Stasimon 01',
-            start: 1206,
-            end: 1399,
+            start: 1420,
+            end: 1555,
             characters: ['chorus'],
             emotions: ['grief'],
             themes: ['justice', 'moral-conscience'],
@@ -65,8 +64,8 @@ const playData = {
         {
             id: 'episode2',
             name: 'Episode 02',
-            start: 1400,
-            end: 2122,
+            start: 1560,
+            end: 2230,
             characters: ['creon', 'chorus', 'antigone', 'ismene'],
             emotions: ['anger', 'grief', 'remorse'],
             themes: ['authority', 'family-duty', 'liberty'],
@@ -80,8 +79,8 @@ const playData = {
         {
             id: 'stasimon2',
             name: 'Stasimon 02',
-            start: 2124,
-            end: 2301,
+            start: 2231,
+            end: 2380,
             characters: ['chorus'],
             emotions: ['grief', 'fear'],
             themes: ['divine-law', 'justice'],
@@ -95,8 +94,8 @@ const playData = {
         {
             id: 'episode3',
             name: 'Episode 03',
-            start: 2303,
-            end: 2849,
+            start: 2381,
+            end: 2728,
             characters: ['creon', 'chorus', 'haemon'],
             emotions: ['fear', 'remorse', 'grief'],
             themes: ['divine-law', 'authority', 'self-sacrifice'],
@@ -110,8 +109,8 @@ const playData = {
         {
             id: 'stasimon3',
             name: 'Stasimon 03',
-            start: 2852,
-            end: 2941,
+            start: 2730,
+            end: 2867,
             characters: ['chorus'],
             emotions: ['awe', 'fear'],
             themes: ['divine-law', 'fate', 'justice'],
@@ -125,8 +124,8 @@ const playData = {
         {
             id: 'episode4',
             name: 'Episode 04',
-            start: 2943,
-            end: 3445,
+            start: 2868,
+            end: 3210,
             characters: ['antigone', 'chorus', 'creon'],
             emotions: ['grief', 'courage', 'loneliness'],
             themes: ['family-duty', 'divine-law', 'self-sacrifice'],
@@ -140,8 +139,8 @@ const playData = {
         {
             id: 'stasimon4',
             name: 'Stasimon 04',
-            start: 3447,
-            end: 3606,
+            start: 3216,
+            end: 3296,
             characters: ['chorus'],
             emotions: ['lament', 'foreboding'],
             themes: ['fate', 'suffering', 'justice'],
@@ -155,8 +154,8 @@ const playData = {
         {
             id: 'episode5',
             name: 'Episode 05',
-            start: 3608,
-            end: 4070,
+            start: 3302,
+            end: 3798,
             characters: ['creon', 'teiresias', 'chorus'],
             emotions: ['anger', 'fear', 'remorse'],
             themes: ['authority', 'divine-law', 'prophecy'],
@@ -170,8 +169,8 @@ const playData = {
         {
             id: 'hyporchema',
             name: 'Hyporchema',
-            start: 4073,
-            end: 4216,
+            start: 3804,
+            end: 3886,
             characters: ['chorus'],
             emotions: ['hope', 'urgency'],
             themes: ['prayer', 'divine-help'],
@@ -185,8 +184,8 @@ const playData = {
         {
             id: 'exodos',
             name: 'Exodos',
-            start: 4219,
-            end: 4939,
+            start: 3888,
+            end: 4897,
             characters: ['creon', 'chorus', 'teiresias'],
             emotions: ['grief', 'remorse'],
             themes: ['justice', 'self-sacrifice'],

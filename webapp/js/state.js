@@ -4,6 +4,7 @@
  */
 const state = {
     selectedCharacter: null,
+    lastActiveSceneId: null,
     activeFilters: {
         emotions: new Set(),
         themes: new Set(),

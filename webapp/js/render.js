@@ -51,6 +51,7 @@ function renderSceneTags(containerId, scenes) {
 function createTagElement(container, value, type, label = null) {
     const span = document.createElement('span');
     span.className = 'tag';
+    span.tabIndex = 0;
     span.dataset.type = type;
     span.dataset.value = value;
     span.textContent = label || formatLabel(value);
@@ -70,6 +71,7 @@ function renderCharacters() {
         const bubble = document.createElement('div');
         bubble.className = 'character-bubble';
         bubble.dataset.character = char.id;
+        bubble.tabIndex = 0;
         bubble.dataset.color = char.color;
         bubble.textContent = char.name;
 

@@ -23,12 +23,12 @@ function handleCharacterClick(bubble) {
 
     if (state.selectedCharacter === character) {
         state.selectedCharacter = null;
-        state.currentScenes = [...playData.scenes];
     } else {
         state.selectedCharacter = character;
         bubble.classList.add('active');
-        state.currentScenes = playData.scenes.filter(scene => scene.characters.includes(character));
     }
+
+    applyFilters();
     updateAllDimensions();
 }
 
