@@ -8,11 +8,9 @@
 :TV_Line_583_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Blessed is the life of he who has never tasted evil."^^xsd:string ;
     :relatedTo :Line_583 .
-
 :TV_Line_584_en a owl:NamedIndividual, :TranslationVariant ;
     :text "For those whose abode is shaken by the gods,"^^xsd:string ;
     :relatedTo :Line_584 .
-
 :TV_Line_585_en a owl:NamedIndividual, :TranslationVariant ;
     :text "No ruin is absent as it proceeds through the multitude of peoples,"^^xsd:string ;
     :relatedTo :Line_585 .

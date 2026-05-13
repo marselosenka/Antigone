@@ -219,6 +219,7 @@
     :canonicalReference "621"^^xsd:string ;
     :text "τὸ κακῶν δοκεῖν ποτὲ ἐσθλῶν"^^xsd:string ;
     :relatedTo :Effect_MoralBlindness ;
+    :hasTheme :Theme_DivineMadness ;
     :hasConflict :Conflict_EvilAppearingAsGood .
 
 :Line_622 a owl:NamedIndividual, :Line ;

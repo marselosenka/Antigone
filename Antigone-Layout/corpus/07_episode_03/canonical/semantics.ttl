@@ -1,0 +1,677 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode03-semantics a owl:Ontology .
+
+################################################################
+# CHARACTERS
+################################################################
+
+:Antigone a :Character .
+:Creon a :Character .
+
+:Antigone_Character_Antigone a :Character,
+        owl:NamedIndividual ;
+    :relatedTo :CreonDecision_EntombAntigoneAlive .
+
+
+################################################################
+# SCENES
+################################################################
+
+:Antigone_Scene_Stasimon_773_805 a :Scene,
+        owl:NamedIndividual ;
+    :developsTheme :Theme_DeathAndHadesReverence,
+        :Theme_ErosOverpowersReasonAndLaw ;
+    :hasConflict :Conflict_ErosVsJustice ;
+    :hasSpeech :Speech_Chorus_781_805,
+        :Speech_Creon_773_780 ;
+    :sceneNumber "Stasimon 3"^^xsd:string .
+
+
+################################################################
+# SPEECHES
+################################################################
+
+:Speech_Creon_631_634 a :Speech ;
+    :speechBy :Creon_Character_Creon ;
+    :containsLine :Line_631,
+        :Line_632,
+        :Line_633,
+        :Line_634 .
+
+:Speech_Haemon_635_638 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_635,
+        :Line_636,
+        :Line_637,
+        :Line_638 .
+
+:Speech_Creon_639_680 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_639,
+        :Line_640,
+        :Line_641,
+        :Line_642,
+        :Line_643,
+        :Line_644,
+        :Line_645,
+        :Line_646,
+        :Line_647,
+        :Line_648,
+        :Line_649,
+        :Line_650,
+        :Line_651,
+        :Line_652,
+        :Line_653,
+        :Line_654,
+        :Line_655,
+        :Line_656,
+        :Line_657,
+        :Line_658,
+        :Line_659,
+        :Line_660,
+        :Line_661,
+        :Line_662,
+        :Line_663,
+        :Line_664,
+        :Line_665,
+        :Line_666,
+        :Line_667,
+        :Line_668,
+        :Line_669,
+        :Line_670,
+        :Line_671,
+        :Line_672,
+        :Line_673,
+        :Line_674,
+        :Line_675,
+        :Line_676,
+        :Line_677,
+        :Line_678,
+        :Line_679,
+        :Line_680 .
+
+:Speech_Chorus_681_682 a :ChoralSong,
+        :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_681,
+        :Line_682 ;
+    :speechBy :Antigone_Character_Chorus .
+
+
+:Speech_Haemon_683_723 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_683,
+        :Line_684,
+        :Line_685,
+        :Line_686,
+        :Line_687,
+        :Line_688,
+        :Line_689,
+        :Line_690,
+        :Line_691,
+        :Line_692,
+        :Line_693,
+        :Line_694,
+        :Line_695,
+        :Line_696,
+        :Line_697,
+        :Line_698,
+        :Line_699,
+        :Line_700,
+        :Line_701,
+        :Line_702,
+        :Line_703,
+        :Line_704,
+        :Line_705,
+        :Line_706,
+        :Line_707,
+        :Line_708,
+        :Line_709,
+        :Line_710,
+        :Line_711,
+        :Line_712,
+        :Line_713,
+        :Line_714,
+        :Line_715,
+        :Line_716,
+        :Line_717,
+        :Line_718,
+        :Line_719,
+        :Line_720,
+        :Line_721,
+        :Line_722,
+        :Line_723 .
+
+:Speech_Chorus_724_725 a :ChoralSong,
+        :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_724,
+        :Line_725 ;
+    :speechBy :Antigone_Character_Chorus .
+
+:Speech_Creon_726_727 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_726,
+        :Line_727 .
+
+:Speech_Haemon_728_729 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_728,
+        :Line_729 .
+
+:Speech_Creon_730 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_730 .
+
+:Speech_Haemon_731 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_731 .
+
+:Speech_Creon_732 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_732 .
+
+:Speech_Haemon_733 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_733 . 
+
+:Speech_Creon_734 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_734 .
+
+:Speech_Haemon_735 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_735 .
+
+:Speech_Creon_736 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_736 .
+
+:Speech_Haemon_737 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_737 .
+
+:Speech_Creon_738 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_738 .
+
+:Speech_Haemon_739 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_739 .
+
+:Speech_Creon_740 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_740 .
+
+:Speech_Haemon_741 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_741 .
+
+:Speech_Creon_742 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_742 .
+
+:Speech_Haemon_743 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_743 .
+
+:Speech_Creon_744 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_744 .
+
+:Speech_Haemon_745 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_745 .
+
+:Speech_Creon_746 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_746 .
+
+:Speech_Haemon_747 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_747 .
+
+:Speech_Creon_748 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_748 .
+
+:Speech_Haemon_749 a :Speech ; 
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_749 .
+
+:Speech_Creon_750 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_750 .
+
+:Speech_Haemon_751 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_751 .
+
+:Speech_Creon_752 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_752 .
+
+:Speech_Haemon_753 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_753 .
+
+:Speech_Creon_754 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_754 .
+
+:Speech_Haemon_755 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_755 .
+
+:Speech_Creon_756 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_756 .
+
+:Speech_Haemon_757 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_757 .
+
+:Speech_Creon_758_761 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_758,
+        :Line_759,
+        :Line_760,
+        :Line_761 .
+
+:Speech_Haemon_762_765 a :Speech ;
+    :speechBy :Antigone_Character_Haemon ;
+    :containsLine :Line_762,
+        :Line_763,
+        :Line_764,
+        :Line_765 .
+
+:Speech_Chorus_766_767 a :ChoralSong,
+        :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_766,
+        :Line_767 ;
+    :speechBy :Antigone_Character_Chorus .
+
+:Speech_Creon_768_769 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_768,
+        :Line_769 .
+
+:Speech_Chorus_770 a :ChoralSong,
+        :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_770 ;
+    :speechBy :Antigone_Character_Chorus .
+
+:Speech_Creon_771 a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_771 .
+
+:Speech_Chorus_772 a :ChoralSong,
+        :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_772 ;
+    :speechBy :Antigone_Character_Chorus .
+
+:Speech_Creon_773_780 a :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_773,
+        :Line_774,
+        :Line_775,
+        :Line_776,
+        :Line_777,
+        :Line_778,
+        :Line_779,
+        :Line_780 ;
+    :hasTheme :Theme_CivicPurityAndMiasma,
+        :Theme_DeathAndHadesReverence ;
+    :speechBy :Creon_Character_Creon .
+
+#######################
+
+
+################################################################
+# CAUSES
+################################################################
+
+:Cause_AbsoluteTyranny :relatedTo :Effect_Wasteland .
+
+:Cause_ListeningToWomen a owl:Thing ;
+    :description "Taking sides with or being influenced by a woman, which Creon perceives as a weakness."^^xsd:string .
+
+:Cause_CivicObedience :relatedTo :Effect_PreservationOfLife .
+
+
+################################################################
+# THEMES
+################################################################
+
+:Theme_AbsoluteAuthority a :Theme ;
+    :description "The strict demand for unquestioning loyalty and obedience to the ruler's commands."^^xsd:string .
+
+:Cause_Disobedience :relatedTo :Effect_SocialCollapse .
+
+:Cause_CivicObedience a owl:Thing ;
+    :description "Obedience to authority when society is in good order."^^xsd:string .
+
+:Cause_DisobedientChildren a owl:Thing ;
+    :description "Raising hopeless and disobedient children."^^xsd:string .
+
+:Cause_DivineDeception a owl:Thing ;
+    :description "The gods leading a mortal's mind to ruin."^^xsd:string .
+
+:Cause_FalseHope a owl:Thing ;
+    :description "Hope acting as a trick of thoughtless lust."^^xsd:string .
+
+:Cause_FrightfulEye a owl:Thing ;
+    :description "Creon's intimidating presence and frightful eye."^^xsd:string .
+
+:Cause_KeptHandsClean :relatedTo :Effect_SparedFromDeath .
+
+:Theme_YouthfulRashness a :Theme ;
+    :description "The passionate, resentful, and impulsive nature of youth when confronted with trauma and pain."^^xsd:string .
+
+:Cause_ListeningToWomen :relatedTo :Effect_CloudedJudgement .
+
+:Theme_Tyranny a :Theme ;
+    :description "The destructive nature of absolute dictatorial rule and the dangerous belief that a city is the ruler's property."^^xsd:string .
+
+:Cause_LustForWoman :relatedTo :Effect_ColdMarriage .
+
+:Cause_TolerateFamilyDisobedience a owl:Thing ;
+    :description "Allowing one's own relatives to walk all over authority."^^xsd:string .
+
+:Cause_PiousBurial :relatedTo :Effect_DeservingHonor .
+
+:Cause_RigidStubbornness a owl:Thing ;
+    :description "A tree refusing to yield to a swollen stream, or a captain tying his sail too tight."^^xsd:string .
+
+:Cause_RigidStubbornness :relatedTo :Effect_Destruction .
+
+:Cause_YieldingToForce a owl:Thing ;
+    :description "A tree yielding its smaller branches to the fresh snowmelt."^^xsd:string .
+
+:Cause_TolerateFamilyDisobedience :relatedTo :Effect_GeneralAnarchy .
+
+:Cause_Disobedience a owl:Thing ;
+    :description "The crime of breaking or cheapening the law."^^xsd:string .
+
+:Cause_YieldingToForce :relatedTo :Effect_Survival .
+
+:Theme_DivineGiftOfReason a :Theme ;
+    :description "The concept that the gods endow mankind with reason as their supreme trait."^^xsd:string .
+
+:Chorus a :Character .
+:Haemon a :Character .
+
+:Chorus_Character_Chorus a :Character,
+        owl:NamedIndividual ;
+    :experiencesEmotion :ChorusEmotion_AweAtErosPower,
+        :ChorusEmotion_TearsAndPityForAntigone .
+
+
+################################################################
+# EMOTIONS
+################################################################
+
+:ChorusEmotion_AweAtErosPower a :Emotion,
+        owl:NamedIndividual ;
+    :description "Awe at Eros as an invincible power that drives all to madness."^^xsd:string .
+
+:ChorusEmotion_TearsAndPityForAntigone a :Emotion,
+        owl:NamedIndividual ;
+    :description "Tears and pity at the sight of Antigone going to the all-shared bridal chamber (death)."^^xsd:string .
+
+:City a :Character .
+:Antigone a :Character .
+
+:CommonMan :experiencesEmotion :Emotion_FearOfTyrant .
+
+:Emotion_PublicMourning a :Emotion ;
+    :description "The sorrow and mourning of the city for Antigone's unjust condemnation."^^xsd:string .
+
+
+################################################################
+# CONFLICTS
+################################################################
+
+:Conflict_AutocracyVsCollectiveCity a :Conflict ;
+    :description "The clash between Creon's dictatorial view that the ruler owns the city and Haemon's view that a city belongs to all."^^xsd:string ;
+    :conflictBetween :Creon, :Haemon .
+
+:Conflict_ErosVsJustice a :Conflict,
+        owl:NamedIndividual ;
+    :conflictBetween :EthicalPrinciple_ErosDesire,
+        :EthicalPrinciple_Justice ;
+    :description "Eros overthrows just minds, turning the just toward injustice and stirring kin-strife."^^xsd:string .
+
+:Conflict_HumanAuthorityVsDivineLaw a :Conflict ;
+    :description "The conflict between Creon worshiping his own human authority and respecting the fundamental laws of the gods."^^xsd:string ;
+    :conflictBetween :Creon, :Theme_DivineLaw .
+
+:Conflict_LoyaltyVsLove a :Conflict ;
+    :description "The tension between Haemon's romantic bond with Antigone and his filial duty to Creon."^^xsd:string ;
+    :conflictBetween :Antigone, :Creon .
+
+:Conflict_MaleAuthorityVsFemaleDefiance a :Conflict ;
+    :description "The tension surrounding gender roles, as Creon refuses to be seen as weaker than a woman."^^xsd:string ;
+    :conflictBetween :Creon, :Antigone .
+
+:Conflict_RigidityVsFlexibility a :Conflict ;
+    :description "The clash between holding a single uncompromising view and the willingness to learn and adapt."^^xsd:string ;
+    :conflictBetween :Theme_Stubbornness, :Theme_Flexibility .
+
+:Creon :hasMotivation :Motivation_AssessSonLoyalty .
+
+
+################################################################
+# ETHICAL PRINCIPLES
+################################################################
+
+:EthicalPrinciple_FilialLoyalty a :EthicalPrinciple ;
+    :description "The principle that a son should act as an unconditional ally to his father through all circumstances."^^xsd:string .
+
+:Creon_Character_Creon a :Character,
+        owl:NamedIndividual ;
+    :advocatesFor :EthicalPrinciple_AvoidMiasma,
+        :EthicalPrinciple_CivicPurity ;
+    :hasMotivation :CreonMotivation_AvoidMiasmaForCity ;
+    :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
+
+
+################################################################
+# MORAL DECISIONS
+################################################################
+
+:CreonDecision_EntombAntigoneAlive a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "Creon decides to hide Antigone alive in a rocky underground chamber with minimal food."^^xsd:string ;
+    :relatedTo :CreonMotivation_AvoidMiasmaForCity .
+
+
+################################################################
+# MOTIVATIONS
+################################################################
+
+:CreonMotivation_AvoidMiasmaForCity a :Motivation,
+        owl:NamedIndividual ;
+    :description "To ensure the city escapes pollution by shifting responsibility to Hades and isolating the condemned."^^xsd:string .
+
+
+################################################################
+# EFFECTS
+################################################################
+
+:Effect_CloudedJudgement a owl:Thing ;
+    :description "The assumption that one's judgement has been clouded by emotions or slavery to a woman."^^xsd:string .
+
+:Effect_ColdMarriage a owl:Thing ;
+    :description "Finding a wretched, cold woman in one's bed and home."^^xsd:string .
+
+:Effect_DeservingHonor a owl:Thing ;
+    :description "The city's conclusion that Antigone deserves a share of gilded honor."^^xsd:string .
+
+:Effect_Destruction a owl:Thing ;
+    :description "Being washed away roots and all, or snapping the mast in half."^^xsd:string .
+
+:Effect_EnemyMockery a owl:Thing ;
+    :description "Creating trouble for oneself and giving enemies an excuse to mock."^^xsd:string .
+
+:Effect_GeneralAnarchy a owl:Thing ;
+    :description "Everyone else following suit and breaking the law."^^xsd:string .
+
+:Effect_InevitableRuin a owl:Thing ;
+    :description "The mortal falling into ruin shortly after losing moral clarity."^^xsd:string .
+
+:Effect_MoralBlindness a owl:Thing ;
+    :description "Evil appearing as good to the deceived mortal."^^xsd:string .
+
+:Effect_PreservationOfLife a owl:Thing ;
+    :description "Saving many lives and defending the order of things."^^xsd:string .
+
+:Effect_SocialCollapse a owl:Thing ;
+    :description "Toppling cities, making fugitives of families, and putting armies to flight."^^xsd:string .
+
+:Effect_SparedFromDeath a owl:Thing ;
+    :description "Ismene being spared from the execution originally meant for both sisters."^^xsd:string .
+
+:Effect_SuppressedSpeech a owl:Thing ;
+    :description "The common man withholding displeasing truths and speaking only in dim whispers."^^xsd:string .
+
+:Effect_Survival a owl:Thing ;
+    :description "The tree saving itself from destruction."^^xsd:string .
+
+:Effect_UnexpectedPain a owl:Thing ;
+    :description "A victim unknowingly crying out from a foot blazing with fire."^^xsd:string .
+
+:Effect_Wasteland a owl:Thing ;
+    :description "The city effectively becoming an empty wasteland without its people's voice."^^xsd:string .
+
+:Emotion_Anger :relatedTo :Event_StormingOut .
+
+:Cause_KeptHandsClean a owl:Thing ;
+    :description "Ismene keeping her hands clean of the burial act."^^xsd:string .
+
+:EthicalPrinciple_AbsoluteCivicObedience a :EthicalPrinciple ;
+    :description "The belief that citizens must obey the city's chosen leader in all matters, large and small, just and unjust."^^xsd:string .
+
+:EthicalPrinciple_AvoidMiasma a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Avoidance of ritual pollution (μίασμα) as a public danger."^^xsd:string .
+
+:EthicalPrinciple_CivicPurity a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Protection of the polis from pollution; prioritizing civic well-being."^^xsd:string .
+
+:EthicalPrinciple_ErosDesire a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Eros/desire as a compelling force that bends minds and actions."^^xsd:string .
+
+:EthicalPrinciple_Justice a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Commitment to what is just (δίκαια) in judgment and action."^^xsd:string .
+
+
+################################################################
+# EVENTS
+################################################################
+
+:Event_AnotherDeath a owl:Thing ;
+    :description "The consequent death of another person, representing Haemon's veiled suicide threat."^^xsd:string .
+
+:Event_AntigonesDeath a owl:Thing ;
+    :description "The impending death of Antigone."^^xsd:string .
+
+:Event_FinalVote :relatedTo :Emotion_Grief .
+:Event_FinalVote :relatedTo :Emotion_Raving .
+
+:Event_Resentment a owl:Thing ;
+    :description "The mind growing resentful and turning to anger."^^xsd:string .
+
+:Event_YouthfulPain a owl:Thing ;
+    :description "A young mind experiencing severe emotional pain."^^xsd:string .
+
+:Haemon :hasMotivation :Motivation_MournBride .
+
+:Motivation_AssessSonLoyalty a :Motivation ;
+    :description "Creon's intention to determine if his son remains a faithful ally after hearing of his bride's condemnation."^^xsd:string .
+
+:Motivation_AbandonFather a :Motivation ;
+    :description "Haemon's intention to permanently sever ties with his father so Creon will never look upon his face again."^^xsd:string .
+
+:Motivation_FollowFathersGuidance a :Motivation ;
+    :description "Haemon's intention to prioritize his father's wise guidance over any marriage."^^xsd:string .
+
+:Motivation_HelpFather a :Motivation ;
+    :description "Haemon's intention to help his father avoid making a mistake and angering the gods."^^xsd:string .
+
+:Motivation_InformAndProtectFather a :Motivation ;
+    :description "Haemon's intention to look out for his father by secretly listening to and reporting the city's true opinions."^^xsd:string .
+
+:Motivation_MournBride a :Motivation ;
+    :description "Haemon's supposed intention to mourn the fate of his bride Antigone and grieve his lost marriage."^^xsd:string .
+
+################################################################
+# THEMES (CONTINUED)
+################################################################
+
+:Theme_AgeVsYouth a :Theme ;
+    :description "The generational tension between the traditional, rigid authority of elders and the adaptive wisdom of youth."^^xsd:string .
+
+:Theme_CivicOrderVsAnarchy a :Theme ;
+    :description "The contrast between the protective nature of societal order and the destructive chaos of disobedience."^^xsd:string .
+
+:Theme_CivicPurityAndMiasma a :Theme,
+        owl:NamedIndividual ;
+    :description "Civic anxiety about ritual pollution and the attempt to protect the polis from miasma."^^xsd:string .
+
+:Theme_DeathAndHadesReverence a :Theme,
+        owl:NamedIndividual ;
+    :description "The logic of death: appeal to Hades and the futility or cost of revering the underworld."^^xsd:string .
+
+:Theme_DivineLaw a :Theme ;
+    :description "The absolute supremacy of the gods' laws over human arrogance and self-worship."^^xsd:string .
+
+:Theme_DivineMadness a :Theme ;
+    :description "The gods distorting human perception to make evil seem good before bringing swift ruin."^^xsd:string .
+
+:Theme_ErosOverpowersReasonAndLaw a :Theme,
+        owl:NamedIndividual ;
+    :description "Eros as an irresistible force that subverts reason, justice, and social order."^^xsd:string .
+
+:Theme_FalseHope a :Theme ;
+    :description "Hope as a wandering illusion that acts as a trick of lust and leads unknowingly to pain."^^xsd:string .
+
+:Theme_FilialDuty a :Theme ;
+    :description "The expectation of unconditional allegiance from a son to his father."^^xsd:string .
+
+:Theme_FilialPiety a :Theme ;
+    :description "The structural expectation of a son's total allegiance to his father's will and enmities."^^xsd:string .
+
+:Theme_Flexibility a :Theme ;
+    :description "The wisdom of adaptability, yielding, and continuous learning, contrasted with destructive rigidity."^^xsd:string .
+
+:Theme_GuiltAndInnocence a :Theme ;
+    :description "The demarcation between guilt and innocence, represented by the physical metaphor of keeping one's hands clean."^^xsd:string .
+
+:Theme_Misogyny a :Theme ;
+    :description "The deep-seated prejudice against women, used by Creon to invalidate Haemon's logical arguments."^^xsd:string .
+
+:Theme_Patriarchy a :Theme ;
+    :description "The rigid adherence to male dominance and the societal fear of female empowerment."^^xsd:string .
+
+:Theme_PublicOpinionVsTyranny a :Theme ;
+    :description "The hidden murmurings of the citizens who recognize justice but are silenced by a ruler's intimidation."^^xsd:string .
+
+:Theme_Stubbornness a :Theme ;
+    :description "The arrogance of single-mindedness and believing one has no equal, which leads to ruin."^^xsd:string .
+
+:Theme_TearsAndPityAtBridalChamberOfDeath a :Theme,
+        owl:NamedIndividual ;
+    :description "Pathos: tears at Antigone's approach to the 'bridal chamber' of death."^^xsd:string .
+
+:Theme_TyrantIsolation a :Theme ;
+    :description "The isolation of the tyrant, left to rant and rave only to compliant friends after driving away his own son."^^xsd:string .

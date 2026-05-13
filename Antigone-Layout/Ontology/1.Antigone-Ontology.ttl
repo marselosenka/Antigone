@@ -705,6 +705,50 @@
     rdfs:label "Prologue" ;
     rdfs:subClassOf :Scene .
 
+:Parodos a owl:Class ;
+    rdfs:label "Parodos" ;
+    rdfs:subClassOf :Scene .
+
+:Episode_01 a owl:Class ;
+    rdfs:label "Episode 1" ;
+    rdfs:subClassOf :Scene .
+
+:Stasimon_01 a owl:Class ;
+    rdfs:label "Stasimon 1" ;
+    rdfs:subClassOf :Scene .
+
+:Episode_02 a owl:Class ;
+    rdfs:label "Episode 2" ;
+    rdfs:subClassOf :Scene .
+
+:Stasimon_02 a owl:Class ;
+    rdfs:label "Stasimon 2" ;
+    rdfs:subClassOf :Scene .
+
+:Episode_03 a owl:Class ;
+    rdfs:label "Episode 3" ;
+    rdfs:subClassOf :Scene .
+
+:Stasimon_03 a owl:Class ;
+    rdfs:label "Stasimon 3" ;
+    rdfs:subClassOf :Scene .
+
+:Episode_04 a owl:Class ;
+    rdfs:label "Episode 4" ;
+    rdfs:subClassOf :Scene .
+
+:Stasimon_04 a owl:Class ;
+    rdfs:label "Stasimon 4" ;
+    rdfs:subClassOf :Scene .
+
+:Episode_05 a owl:Class ;
+    rdfs:label "Episode 5" ;
+    rdfs:subClassOf :Scene .
+
+:Hyporchema a owl:Class ;
+    rdfs:label "Hyporchema" ;
+    rdfs:subClassOf :Scene .
+
 :Exodus a owl:Class ;
     rdfs:label "Exodus" ;
     rdfs:subClassOf :Scene .
