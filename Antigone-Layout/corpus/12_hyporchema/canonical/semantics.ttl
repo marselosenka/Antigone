@@ -29,6 +29,28 @@
                   :Line_1145, :Line_1146, :Line_1147, :Line_1148, :Line_1149,
                   :Line_1150, :Line_1151, :Line_1152, :Line_1153, :Line_1154 .
 
+## Manual Scenes 
+
+:Speech_Chorus_1115_1125
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1115, :Line_1116, :Line_1117, :Line_1118, :Line_1119, :Line_1120, :Line_1121, :Line_1122, :Line_1125 .
+
+:Speech_Chorus_1126_1135
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1126, :Line_1127, :Line_1128, :Line_1130, :Line_1131, :Line_1132, :Line_1133, :Line_1134, :Line_1135 .
+
+:Speech_Chorus_1137_1145
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1137, :Line_1138, :Line_1140, :Line_1141, :Line_1142, :Line_1145 .
+
+:Speech_Chorus_1146_1152
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1146, :Line_1147, :Line_1148, :Line_1149, :Line_1150, :Line_1151, :Line_1152 .
+
 # ==========================
 # Characters & Entities
 # ==========================

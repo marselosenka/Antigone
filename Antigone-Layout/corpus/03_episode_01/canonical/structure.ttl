@@ -16,6 +16,7 @@
     :lineNumber 163 ;
     :canonicalReference "163"^^xsd:string ;
     :hasTheme :Theme_CivicStabilityAfterCrisis ;
+    :relatedTo :Event_CityThreatenedByHavoc ;
     :text "πολλῷ σάλῳ σείσαντες ὤρθωσαν πάλιν·"^^xsd:string .
 
 # --- 164 ---
@@ -240,6 +241,10 @@
     :text "τοιοῖσδ ̓ ἐγὼ νόμοισι τήνδ ̓ αὔξω πόλιν."^^xsd:string .
 
 # 192 missing
+:Line_192 a owl:NamedIndividual, :Line ;
+    :lineNumber 192 ;
+    :canonicalReference "192"^^xsd:string ;
+    :text "καὶ νῦν ἀδελφὰ τῶνδε κηρύξας ἔχω"^^xsd:string . 
 
 # --- 193 ---
 :Line_193 a owl:NamedIndividual, :Line ;
@@ -1158,3 +1163,9 @@
     :lineNumber 330 ; 
     :canonicalReference "330"^^xsd:string ;
     :text "Καὶ νῦν γὰρ ἐκτὸς ἐλπίδος γνώμης τ ̓ ἐμῆς"^^xsd:string .
+
+# --- 331 ---
+:Line_331 a owl:NamedIndividual, :Line ; 
+    :lineNumber 331 ; 
+    :canonicalReference "331"^^xsd:string ;
+    :text "σωθεὶς ὀφείλω τοῖς θεοῖς πολλὴν χάριν."^^xsd:string .

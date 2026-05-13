@@ -8,128 +8,84 @@
 
 :TV_Line_141_en a :TranslationVariant ;
 :text "For seven commanders at seven gates"^^xsd:string ;
-:relatedTo :Line_141 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving .
+:relatedTo :Line_141 .
 
 :TV_Line_142_en a :TranslationVariant ;
 :text "Set against equals, left behind"^^xsd:string ;
-:relatedTo :Line_142 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving .
+:relatedTo :Line_142 .
 
 :TV_Line_143_en a :TranslationVariant ;
 :text "Their all-bronze offerings to Zeus of victory,"^^xsd:string ;
-:relatedTo :Line_143 ;
-:referencesMyth :Myth_ZeusTropaios ;
-:hasTheme :Theme_ThebanVictoryThanksgiving .
+:relatedTo :Line_143 .
 
 :TV_Line_144_en a :TranslationVariant ;
 :text "Except for those two hateful men, born of one father"^^xsd:string ;
-:relatedTo :Line_144 ;
-:hasTheme :Theme_FraternalCivilWar ;
-:hasConflict :Conflict_BrothersMutualDeath .
+:relatedTo :Line_144 .
 
 :TV_Line_145_en a :TranslationVariant ;
 :text "And one mother, who against each other"^^xsd:string ;
-:relatedTo :Line_145 ;
-:hasTheme :Theme_FraternalCivilWar ;
-:hasConflict :Conflict_BrothersMutualDeath .
+:relatedTo :Line_145 .
 
 :TV_Line_146_en a :TranslationVariant ;
 :text "Raised their two conquering spears"^^xsd:string ;
-:relatedTo :Line_146 ;
-:hasTheme :Theme_FraternalCivilWar ;
-:hasConflict :Conflict_BrothersMutualDeath .
+:relatedTo :Line_146 .
 
 :TV_Line_147_en a :TranslationVariant ;
 :text "And both received a share of common death."^^xsd:string ;
-:relatedTo :Line_147 ;
-:hasTheme :Theme_FraternalCivilWar ;
-:hasConflict :Conflict_BrothersMutualDeath .
+:relatedTo :Line_147 .
 
 :TV_Line_148_en a :TranslationVariant ;
 :text "But now great-named Victory has come"^^xsd:string ;
-:relatedTo :Line_148 ;
-:referencesMyth :Myth_NikeVictory ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:relatedTo :Event_VictoryArrivesAtThebes .
+:relatedTo :Line_148 .
 
 :TV_Line_149_en a :TranslationVariant ;
 :text "To chariot-rich Thebes, rejoicing in her joy,"^^xsd:string ;
-:relatedTo :Line_149 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:relatedTo :Event_VictoryArrivesAtThebes .
+:relatedTo :Line_149 .
 
 :TV_Line_150_en a :TranslationVariant ;
 :text "So now, after these wars,"^^xsd:string ;
-:relatedTo :Line_150 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:relatedTo :Motivation_CelebrateVictoryWithChorusDances .
+:relatedTo :Line_150 .
 
 :TV_Line_151_en a :TranslationVariant ;
 :text "Let us place forgetfulness upon them,"^^xsd:string ;
-:relatedTo :Line_151 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:relatedTo :Motivation_CelebrateVictoryWithChorusDances .
+:relatedTo :Line_151 .
 
 :TV_Line_152_en a :TranslationVariant ;
 :text "And go to all the temples of the gods"^^xsd:string ;
-:relatedTo :Line_152 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:relatedTo :Motivation_CelebrateVictoryWithChorusDances .
+:relatedTo :Line_152 .
 
 :TV_Line_153_en a :TranslationVariant ;
 :text "With all-night dances."^^xsd:string ;
-:relatedTo :Line_153 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:relatedTo :Motivation_CelebrateVictoryWithChorusDances .
+:relatedTo :Line_153 .
 
 :TV_Line_154_en a :TranslationVariant ;
 :text "And let the Bacchic god, who shakes Thebes,"^^xsd:string ;
-:relatedTo :Line_154 ;
-:referencesMyth :Myth_Bacchus ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:relatedTo :Motivation_CelebrateVictoryWithChorusDances .
+:relatedTo :Line_154 .
 
 :TV_Line_155_en a :TranslationVariant ;
 :text "Lead the dance."^^xsd:string ;
-:relatedTo :Line_155 ;
-:hasTheme :Theme_ThebanVictoryThanksgiving ;
-:referencesMyth :Myth_Bacchus ;
-:relatedTo :Motivation_CelebrateVictoryWithChorusDances .
+:relatedTo :Line_155 .
 
 :TV_Line_156_en a :TranslationVariant ;
 :text "But here comes the king of the land,"^^xsd:string ;
-:relatedTo :Line_156 ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :Event_CreonApproachesAsNewRuler .
+:relatedTo :Line_156 .
 
 :TV_Line_157_en a :TranslationVariant ;
 :text "Creon, son of Menoeceus, newly come"^^xsd:string ;
-:relatedTo :Line_157 ;
-:referencesMyth :Antigone_Character_Creon ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :Event_CreonApproachesAsNewRuler .
+:relatedTo :Line_157 .
 
 :TV_Line_158_en a :TranslationVariant ;
 :text "By the fresh fortunes sent by the gods."^^xsd:string ;
-:relatedTo :Line_158 ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :Event_CreonApproachesAsNewRuler .
+:relatedTo :Line_158 .
 
 :TV_Line_159_en a :TranslationVariant ;
 :text "He comes, steering some new counsel,"^^xsd:string ;
-:relatedTo :Line_159 ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :Motivation_CreonConveneEldersCouncil .
+:relatedTo :Line_159 .
 
 :TV_Line_160_en a :TranslationVariant ;
 :text "Since he has summoned this council of elders"^^xsd:string ;
-:relatedTo :Line_160 ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :MoralDecision_SummonEldersByCommonProclamation .
+:relatedTo :Line_160 .
 
 :TV_Line_161_en a :TranslationVariant ;
 :text "By sending a common proclamation?"^^xsd:string ;
-:relatedTo :Line_161 ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :MoralDecision_SummonEldersByCommonProclamation .
+:relatedTo :Line_161 .

@@ -8,159 +8,104 @@
 
 :TV_Line_115_en a :TranslationVariant ;
 :text "With many weapons"^^xsd:string ;
-:relatedTo :Line_115 ;
-:hasTheme :Theme_InvasionThreat ;
-:referencesMyth :Myth_ArgiveEagleAssault .
+:relatedTo :Line_115 .
 
 :TV_Line_116_en a :TranslationVariant ;
 :text "And horse-haired helmets."^^xsd:string ;
-:relatedTo :Line_116 ;
-:hasTheme :Theme_InvasionThreat ;
-:referencesMyth :Myth_ArgiveEagleAssault .
+:relatedTo :Line_116 .
 
 :TV_Line_117_en a :TranslationVariant ;
 :text "Standing above our roofs with blood-hungry"^^xsd:string ;
-:relatedTo :Line_117 ;
-:hasTheme :Theme_InvasionThreat ;
-:hasSymbol :Symbol_EagleInvader ;
-:referencesMyth :Myth_ArgiveEagleAssault .
+:relatedTo :Line_117 .
 
 :TV_Line_118_en a :TranslationVariant ;
 :text "Jaws gaping all around,"^^xsd:string ;
-:relatedTo :Line_118 ;
-:hasTheme :Theme_InvasionThreat ;
-:hasSymbol :Symbol_EagleInvader ;
-:referencesMyth :Myth_ArgiveEagleAssault .
+:relatedTo :Line_118 .
 
 :TV_Line_119_en a :TranslationVariant ;
 :text "At the seven-gated mouth with spears,"^^xsd:string ;
-:relatedTo :Line_119 ;
-:hasTheme :Theme_ThebesDefense ;
-:hasSymbol :Symbol_SevenSpears ;
-:referencesMyth :Myth_SevenGates .
+:relatedTo :Line_119 .
 
 :TV_Line_120_en a :TranslationVariant ;
 :text "He withdrew before ever"^^xsd:string ;
-:relatedTo :Line_120 ;
-:hasTheme :Theme_ThebesDefense ;
-:referencesMyth :Myth_SevenGates .
+:relatedTo :Line_120 .
 
 :TV_Line_121_en a :TranslationVariant ;
 :text "His jaws were filled with our blood"^^xsd:string ;
-:relatedTo :Line_121 ;
-:hasTheme :Theme_WarViolence .
+:relatedTo :Line_121 .
 
 :TV_Line_122_en a :TranslationVariant ;
 :text "Or he seized the crown of our towers"^^xsd:string ;
-:relatedTo :Line_122 ;
-:hasTheme :Theme_ThebesDefense ;
-:referencesMyth :Myth_SevenGates .
+:relatedTo :Line_122 .
 
 :TV_Line_123_en a :TranslationVariant ;
 :text "With pine-fed Hephaestus’ fire."^^xsd:string ;
-:relatedTo :Line_123 ;
-:hasTheme :Theme_WarViolence ;
-:hasSymbol :Symbol_FireBrand ;
-:referencesMyth :Myth_HephaestusFire .
+:relatedTo :Line_123 .
 
 :TV_Line_124_en a :TranslationVariant ;
 :text "Such was the clash stretched round his back,"^^xsd:string ;
-:relatedTo :Line_124 ;
-:hasTheme :Theme_WarViolence ;
-:referencesMyth :Myth_AresWarClash .
+:relatedTo :Line_124 .
 
 :TV_Line_125_en a :TranslationVariant ;
 :text "The crash of Ares,"^^xsd:string ;
-:relatedTo :Line_125 ;
-:hasTheme :Theme_WarViolence ;
-:referencesMyth :Myth_AresWarClash .
+:relatedTo :Line_125 .
 
 :TV_Line_126_en a :TranslationVariant ;
 :text "Hard for the opposing dragon to master."^^xsd:string ;
-:relatedTo :Line_126 ;
-:hasTheme :Theme_WarViolence ;
-:referencesMyth :Myth_DragonDefender .
+:relatedTo :Line_126 .
 
 :TV_Line_127_en a :TranslationVariant ;
 :text "For Zeus utterly hates the boasts of a great tongue,"^^xsd:string ;
-:relatedTo :Line_127 ;
-:hasTheme :Theme_ZeusSupremacy ;
-:hasConflict :Conflict_HubrisVsDivineOrder ;
-:referencesMyth :Myth_ZeusLightningStrike .
+:relatedTo :Line_127 .
 
 :TV_Line_128_en a :TranslationVariant ;
 :text "And when he saw them"^^xsd:string ;
-:relatedTo :Line_128 ;
-:hasTheme :Theme_ZeusSupremacy ;
-:hasConflict :Conflict_HubrisVsDivineOrder ;
-:referencesMyth :Myth_ZeusLightningStrike .
+:relatedTo :Line_128 .
 
 :TV_Line_129_en a :TranslationVariant ;
 :text "Rushing on in a great flood,"^^xsd:string ;
-:relatedTo :Line_129 ;
-:hasTheme :Theme_DivineIntervention ;
-:referencesMyth :Myth_ZeusLightningStrike .
+:relatedTo :Line_129 .
 
 :TV_Line_130_en a :TranslationVariant ;
 :text "Arrogant in the clamor of gold,"^^xsd:string ;
-:relatedTo :Line_130 ;
-:hasTheme :Theme_ZeusSupremacy ;
-:hasConflict :Conflict_HubrisVsDivineOrder ;
-:referencesMyth :Myth_ZeusLightningStrike .
+:relatedTo :Line_130 .
 
 :TV_Line_131_en a :TranslationVariant ;
 :text "He hurled his blazing thunderbolt"^^xsd:string ;
-:relatedTo :Line_131 ;
-:hasTheme :Theme_DivineIntervention ;
-:hasSymbol :Symbol_FireBrand ;
-:referencesMyth :Myth_ZeusLightningStrike .
+:relatedTo :Line_131 .
 
 :TV_Line_132_en a :TranslationVariant ;
 :text "Against the man already"^^xsd:string ;
-:relatedTo :Line_132 ;
-:hasTheme :Theme_DivineIntervention .
+:relatedTo :Line_132 .
 
 :TV_Line_133_en a :TranslationVariant ;
 :text "Rushing to shout victory"^^xsd:string ;
-:relatedTo :Line_133 ;
-:hasTheme :Theme_InvasionThreat ;
-:hasConflict :Conflict_HubrisVsDivineOrder ;
-:referencesMyth :Myth_ZeusLightningStrike .
+:relatedTo :Line_133 .
 
 :TV_Line_134_en a :TranslationVariant ;
 :text "But he crashed upon the resisting earth,"^^xsd:string ;
-:relatedTo :Line_134 ;
-:hasTheme :Theme_DivineIntervention ;
-:referencesMyth :Myth_ZeusLightningStrike .
+:relatedTo :Line_134 .
 
 :TV_Line_135_en a :TranslationVariant ;
 :text "The fire-bearing one, who then"^^xsd:string ;
-:relatedTo :Line_135 ;
-:hasTheme :Theme_WarViolence ;
-:hasSymbol :Symbol_FireBrand .
+:relatedTo :Line_135 .
 
 :TV_Line_136_en a :TranslationVariant ;
 :text "In raging frenzy breathed"^^xsd:string ;
-:relatedTo :Line_136 ;
-:hasTheme :Theme_WarViolence .
+:relatedTo :Line_136 .
 
 :TV_Line_137_en a :TranslationVariant ;
 :text "Like blasts of hateful winds."^^xsd:string ;
-:relatedTo :Line_137 ;
-:hasTheme :Theme_WarViolence .
+:relatedTo :Line_137 .
 
 :TV_Line_138_en a :TranslationVariant ;
 :text "Yet the outcome turned elsewhere,"^^xsd:string ;
-:relatedTo :Line_138 ;
-:hasTheme :Theme_WarViolence .
+:relatedTo :Line_138 .
 
 :TV_Line_139_en a :TranslationVariant ;
 :text "And against others he raged in turn,"^^xsd:string ;
-:relatedTo :Line_139 ;
-:hasTheme :Theme_WarViolence .
+:relatedTo :Line_139 .
 
 :TV_Line_140_en a :TranslationVariant ;
 :text "Great Ares striking on the right flank."^^xsd:string ;
-:relatedTo :Line_140 ;
-:hasTheme :Theme_WarViolence ;
-:referencesMyth :Myth_AresWarClash .
+:relatedTo :Line_140 .

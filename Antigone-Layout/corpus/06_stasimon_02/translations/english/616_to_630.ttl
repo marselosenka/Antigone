@@ -7,30 +7,23 @@
 
 :TV_Line_616_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Behold that much-wandering hope; to many a benefit, yet to others a trick of thoughtless lust."^^xsd:string ;
-    :relatedTo :Line_616 ;
-    :hasTheme :Theme_FalseHope .
+    :relatedTo :Line_616 .
 
 :TV_Line_617_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Its victim is unknowing, before he touches his foot to a blazing fire."^^xsd:string ;
-    :relatedTo :Line_617 ;
-    :relatedTo :Cause_FalseHope .
+    :relatedTo :Line_617 .
 
 :TV_Line_620_en a owl:NamedIndividual, :TranslationVariant ;
     :text "For with wisdom was the famous saying once revealed:"^^xsd:string ;
-    :relatedTo :Line_620 ;
-    :relatedTo :Effect_UnexpectedPain ;
-    :hasTheme :Theme_DivineMadness .
+    :relatedTo :Line_620 .
 
 :TV_Line_621_en a owl:NamedIndividual, :TranslationVariant ;
     :text "That evil can sometimes seem good to the one"^^xsd:string ;
-    :relatedTo :Line_621 ;
-    :relatedTo :Effect_MoralBlindness ;
-    :hasConflict :Conflict_EvilAppearingAsGood .
+    :relatedTo :Line_621 .
 
 :TV_Line_622_en a owl:NamedIndividual, :TranslationVariant ;
     :text "whose mind and senses"^^xsd:string ;
-    :relatedTo :Line_622 ;
-    :relatedTo :Cause_DivineDeception .
+    :relatedTo :Line_622 .
 
 :TV_Line_623_en a owl:NamedIndividual, :TranslationVariant ;
     :text "the gods are leading toward ruin."^^xsd:string ;
@@ -38,8 +31,7 @@
 
 :TV_Line_625_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet he goes about free from destruction for only the shortest time."^^xsd:string ;
-    :relatedTo :Line_625 ;
-    :relatedTo :Effect_InevitableRuin .
+    :relatedTo :Line_625 .
 
 :TV_Line_626_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Behold! Here is Haemon, the youngest of your children;"^^xsd:string ;
@@ -51,10 +43,8 @@
 
 :TV_Line_628_en a owl:NamedIndividual, :TranslationVariant ;
     :text "of his promised bride, Antigone,"^^xsd:string ;
-    :relatedTo :Line_628 ;
-    :hasMotivation :Motivation_MournBride .
+    :relatedTo :Line_628 .
 
 :TV_Line_630_en a owl:NamedIndividual, :TranslationVariant ;
     :text "anguished by the deception of his marriage bed?"^^xsd:string ;
-    :relatedTo :Line_630 ;
-    :experiencesEmotion :Emotion_Grief .
+    :relatedTo :Line_630 .

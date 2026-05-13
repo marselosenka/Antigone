@@ -93,6 +93,8 @@
     :lineNumber 109 ; 
     :canonicalReference "109"^^xsd:string ; 
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
+    :hasTheme :Theme_WarAftermath ;
+    :referencesMyth :Myth_ArgiveArmy ;
     :text "κινήσασα χαλινῷ."^^xsd:string .
 
 # --- 110 ---

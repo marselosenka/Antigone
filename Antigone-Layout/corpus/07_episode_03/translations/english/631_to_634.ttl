@@ -12,18 +12,12 @@
 
 :TV_Line_632_en a owl:NamedIndividual, :TranslationVariant ;
     :text "O child, have you heard that the final vote has been cast"^^xsd:string ;
-    :relatedTo :Line_632 ;
-    :experiencesEmotion :Emotion_Raving .
+    :relatedTo :Line_632 .
 
 :TV_Line_633_en a owl:NamedIndividual, :TranslationVariant ;
     :text "and come here raving at your father about your bride-to-be?"^^xsd:string ;
-    :relatedTo :Line_633 ;
-    :relatedTo :Event_FinalVote .
+    :relatedTo :Line_633 .
 
 :TV_Line_634_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Or am I ever yours, your ally through thick and thin?"^^xsd:string ;
-    :relatedTo :Line_634 ;
-    :hasMotivation :Motivation_AssessSonLoyalty ;
-    :advocatesFor :EthicalPrinciple_FilialLoyalty ;
-    :hasTheme :Theme_FilialDuty ;
-    :hasConflict :Conflict_LoyaltyVsLove .
+    :relatedTo :Line_634 .

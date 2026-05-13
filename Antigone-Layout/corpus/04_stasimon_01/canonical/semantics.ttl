@@ -5,12 +5,12 @@
 
 :stasimon01-semantics a owl:Ontology .
 
-:Antigone_Scene_Stasimon_1_331_383
+:Antigone_Scene_Stasimon_1_332_383
   a :Scene ;
   :sceneNumber "Stasimon 1 (331-383)"^^xsd:string ;
   :hasSpeech :Speech_Guard_327_331,
-             :Speech_Chorus_332_361,
-             :Speech_Chorus_362_382,
+             :Speech_Chorus_333_361,
+             :Speech_Chorus_362_383,
              :Speech_Guard_383 ;
   :developsTheme :Theme_HumanPowerAndLimits,
                  :Theme_LawAndCity,
@@ -25,8 +25,8 @@
   rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 
 :Speech_Guard_327_331 a :Speech ; :speechBy :Antigone_Character_Guard .
-:Speech_Chorus_332_361 a :Speech ; :speechBy :Antigone_Character_Chorus .
-:Speech_Chorus_362_382 a :Speech ; :speechBy :Antigone_Character_Chorus .
+:Speech_Chorus_333_361 a :Speech ; :speechBy :Antigone_Character_Chorus .
+:Speech_Chorus_362_383 a :Speech ; :speechBy :Antigone_Character_Chorus .
 :Speech_Guard_383 a :Speech ; :speechBy :Antigone_Character_Guard .
 
 :Theme_HumanPowerAndLimits a :Theme ;

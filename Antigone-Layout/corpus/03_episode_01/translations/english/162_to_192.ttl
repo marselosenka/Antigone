@@ -8,76 +8,55 @@
 
 :TV_Line_162_en a :TranslationVariant ;
     :text "Men, the gods have at last set our city safely upright"^^xsd:string ;
-    :relatedTo :Line_162 ;
-    :hasTheme :Theme_CivicStabilityAfterCrisis .
+    :relatedTo :Line_162 .
 
 :TV_Line_163_en a :TranslationVariant ;
     :text "After shaking it in great storms, they have set it upright again."^^xsd:string ;
-    :relatedTo :Line_163 ;
-    :hasTheme :Theme_CivicStabilityAfterCrisis ;
-    :relatedTo :Event_CityThreatenedByHavoc .
+    :relatedTo :Line_163 .
 
 :TV_Line_164_en a :TranslationVariant ;
 :text "And I have sent for you, apart from all others,"^^xsd:string ;
-:relatedTo :Line_164 ;
-:hasTheme :Theme_LeadershipAndLaw ;
-:relatedTo :Motivation_TestLeadersByOffice .
+:relatedTo :Line_164 .
 
 :TV_Line_165_en a :TranslationVariant ;
 :text "First because I know that you have always honored"^^xsd:string ;
-:relatedTo :Line_165 ;
-:hasTheme :Theme_LeadershipAndLaw .
+:relatedTo :Line_165 .
 
 :TV_Line_166_en a :TranslationVariant ;
 :text "The authority of Laius’ throne,"^^xsd:string ;
-:relatedTo :Line_166 ;
-:hasTheme :Theme_LeadershipAndLaw .
+:relatedTo :Line_166 .
 
 :TV_Line_167_en a :TranslationVariant ;
 :text "And again when Oedipus set the city upright,"^^xsd:string ;
-:relatedTo :Line_167 ;
-:hasTheme :Theme_CivicStabilityAfterCrisis .
+:relatedTo :Line_167 .
 
 :TV_Line_168_en a :TranslationVariant ;
 :text "And after he died, you remained loyal"^^xsd:string ;
-:relatedTo :Line_168 ;
-:hasTheme :Theme_CivicStabilityAfterCrisis ;
-:relatedTo :Event_CreonAccession .
+:relatedTo :Line_168 .
 
 :TV_Line_169_en a :TranslationVariant ;
 :text "To his children with steadfast hearts."^^xsd:string ;
-:relatedTo :Line_169 ;
-:hasTheme :Theme_LeadershipAndLaw .
+:relatedTo :Line_169 .
 
 :TV_Line_170_en a :TranslationVariant ;
 :text "But when those two in one day"^^xsd:string ;
-:relatedTo :Line_170 ;
-:hasTheme :Theme_CivicStabilityAfterCrisis ;
-:relatedTo :Event_BrothersDeathPollution .
+:relatedTo :Line_170 .
 
 :TV_Line_171_en a :TranslationVariant ;
 :text "Perished by a double fate,"^^xsd:string ;
-:relatedTo :Line_171 ;
-:hasTheme :Theme_CivicStabilityAfterCrisis ;
-:relatedTo :Event_BrothersDeathPollution .
+:relatedTo :Line_171 .
 
 :TV_Line_172_en a :TranslationVariant ;
 :text "Striking and struck by their own hands in blood-guilt,"^^xsd:string ;
-:relatedTo :Line_172 ;
-:hasTheme :Theme_CivicStabilityAfterCrisis ;
-:relatedTo :Event_BrothersDeathPollution .
+:relatedTo :Line_172 .
 
 :TV_Line_173_en a :TranslationVariant ;
 :text "I now hold all the powers and the throne"^^xsd:string ;
-:relatedTo :Line_173 ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :Event_CreonAccession .
+:relatedTo :Line_173 .
 
 :TV_Line_174_en a :TranslationVariant ;
 :text "By closeness of kin to those who have died."^^xsd:string ;
-:relatedTo :Line_174 ;
-:hasTheme :Theme_PoliticalTransitionToCreon ;
-:relatedTo :Event_CreonAccession .
+:relatedTo :Line_174 .
 
 :TV_Line_175_en a :TranslationVariant ;
 :text "But you never really know the heart,"^^xsd:string ;

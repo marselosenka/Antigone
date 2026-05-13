@@ -8,142 +8,88 @@
 
 :TV_Line_020_en a :TranslationVariant ;
     :text "What is it? There seems to be a storm in you."^^xsd:string ;
-    :relatedTo :Line_020 ;
-    :experiencesEmotion :Emotion_Turmoil ;
-    :hasTheme :Theme_EmotionalTurmoil .
+    :relatedTo :Line_020 .
 
 :TV_Line_021_en a :TranslationVariant ;
     :text "Hasn’t Creon honored one of our"^^xsd:string ;
-    :relatedTo :Line_021 ;
-    :refersToCharacter :Creon ;
-    :hasTheme :Theme_StateLaw ;
-    :hasTheme :Theme_BurialRites .
+    :relatedTo :Line_021 .
 
 :TV_Line_022_en a :TranslationVariant ;
     :text "Brothers in burial, but not the other?"^^xsd:string ;
-    :relatedTo :Line_022 ;
-    :hasTheme :Theme_BurialRites ;
-    :hasTheme :Theme_FamilyDuty ;
-    :hasConflict :Conflict_BurialRitesVsCreonEdict .
+    :relatedTo :Line_022 .
 
 :TV_Line_023_en a :TranslationVariant ;
     :text "Eteocles, they say, has been tucked away"^^xsd:string ;
-    :relatedTo :Line_023 ;
-    :refersToCharacter :Eteocles ;
-    :hasTheme :Theme_BurialRites .
+    :relatedTo :Line_023 .
 
 :TV_Line_024_en a :TranslationVariant ;
     :text "Beneath the earth, honored among the dead below"^^xsd:string ;
-    :relatedTo :Line_024 ;
-    :hasTheme :Theme_BurialRites ;
-    :hasTheme :Theme_HonorForTheDead .
+    :relatedTo :Line_024 .
 
 :TV_Line_025_en a :TranslationVariant ;
     :text "With formal observation of rite and custom."^^xsd:string ;
-    :relatedTo :Line_025 ;
-    :hasTheme :Theme_BurialRites ;
-    :hasTheme :Theme_RitualObservance ;
-    :advocatesFor :EthicalPrinciple_BurialRites .
+    :relatedTo :Line_025 .
 
 :TV_Line_026_en a :TranslationVariant ;
     :text "But Creon has proclaimed"^^xsd:string ;
-    :relatedTo :Line_026 ;
-    :refersToCharacter :Creon ;
-    :relatedTo :Law_CreonBurialEdict ;
-    :hasTheme :Theme_StateLaw ;
-    :hasTheme :Theme_PoliticalAuthority .
+    :relatedTo :Line_026 .
 
 :TV_Line_027_en a :TranslationVariant ;
     :text "That no one shall grieve nor lay to rest"^^xsd:string ;
-    :relatedTo :Line_027 ;
-    :relatedTo :Law_CreonBurialEdict ;
-    :hasTheme :Theme_BurialRites ;
-    :hasTheme :Theme_Prohibition ;
-    :hasConflict :Conflict_BurialRitesVsCreonEdict .
+    :relatedTo :Line_027 .
 
 :TV_Line_028_en a :TranslationVariant ;
     :text "That tortured corpse I still call Polyneices—"^^xsd:string ;
-    :relatedTo :Line_028 ;
-    :refersToCharacter :Polyneices ;
-    :hasTheme :Theme_FamilyDuty ;
-    :hasTheme :Theme_BurialRites ;
-    :hasTheme :Theme_DishonorOfTheDead .
+    :relatedTo :Line_028 .
 
 :TV_Line_029_en a :TranslationVariant ;
     :text "He shall be left unwept, unburied, a sweet treasure"^^xsd:string ;
-    :relatedTo :Line_029 ;
-    :relatedTo :Law_CreonBurialEdict ;
-    :hasTheme :Theme_BurialRites ;
-    :hasTheme :Theme_DenialOfMourning ;
-    :hasConflict :Conflict_BurialRitesVsCreonEdict ;
-    :experiencesEmotion :Emotion_Horror .
+    :relatedTo :Line_029 .
 
 :TV_Line_030_en a :TranslationVariant ;
     :text "For the vultures as they search for the grace of flesh."^^xsd:string ;
-    :relatedTo :Line_030 ;
-    :hasTheme :Theme_BurialRites ;
-    :hasTheme :Theme_ExposureOfTheCorpse ;
-    :hasTheme :Theme_DishonorOfTheDead ;
-    :experiencesEmotion :Emotion_Horror .
+    :relatedTo :Line_030 .
 
 :TV_Line_031_en a :TranslationVariant ;
     :text "Good Creon has denied you and me—"^^xsd:string ;
-    :relatedTo :Line_031 ;
-    :relatedTo :Law_CreonBurialEdict ;
-    :experiencesEmotion :Emotion_Indignation .
+    :relatedTo :Line_031 .
 
 :TV_Line_032_en a :TranslationVariant ;
     :text "Even me!—this rite."^^xsd:string ;
-    :relatedTo :Line_032 ;
-    :advocatesFor :EthicalPrinciple_BurialRites ;
-    :hasConflict :Conflict_BurialRitesVsCreonEdict .
+    :relatedTo :Line_032 .
 
 :TV_Line_033_en a :TranslationVariant ;
     :text "He’s coming here to proclaim it publicly"^^xsd:string ;
-    :relatedTo :Line_033 ;
-    :hasTheme :Theme_StateLaw ;
-    :relatedTo :Law_CreonBurialEdict .
+    :relatedTo :Line_033 .
 
 :TV_Line_034_en a :TranslationVariant ;
     :text "So none are ignorant, and these are not"^^xsd:string ;
-    :relatedTo :Line_034 ;
-    :hasTheme :Theme_StateLaw .
+    :relatedTo :Line_034 .
 
 :TV_Line_035_en a :TranslationVariant ;
     :text "just words—he means to act."^^xsd:string ;
-    :relatedTo :Line_035 ;
-    :hasTheme :Theme_StateLaw .
+    :relatedTo :Line_035 .
 
 :TV_Line_036_en a :TranslationVariant ;
     :text "The punishment shall be death by public stoning."^^xsd:string ;
-    :relatedTo :Line_036 ;
-    :hasTheme :Theme_PunishmentThreat ;
-    :relatedTo :Event_PublicStoningPunishment ;
-    :relatedTo :Law_CreonBurialEdict .
+    :relatedTo :Line_036 .
 
 :TV_Line_037_en a :TranslationVariant ;
     :text "This is the trouble you’re in, and you will soon reveal"^^xsd:string ;
-    :relatedTo :Line_037 ;
-    :hasTheme :Theme_FamilyDuty .
+    :relatedTo :Line_037 .
 
 :TV_Line_038_en a :TranslationVariant ;
     :text "Whether the virtue of our ancestors runs through your veins."^^xsd:string ;
-    :relatedTo :Line_038 ;
-    :hasTheme :Theme_FamilyDuty .
+    :relatedTo :Line_038 .
 
 :TV_Line_039_en a :TranslationVariant ;
     :text "Oh my poor sister, if this is true,"^^xsd:string ;
-    :relatedTo :Line_039 ;
-    :experiencesEmotion :Emotion_Concern .
+    :relatedTo :Line_039 .
 
 :TV_Line_040_en a :TranslationVariant ;
     :text "What’s the point in meddling?"^^xsd:string ;
-    :relatedTo :Line_040 ;
-    :experiencesEmotion :Emotion_Fear ;
-    :hasTheme :Theme_Prudence .
+    :relatedTo :Line_040 .
 
 :TV_Line_041_en a :TranslationVariant ;
     :text "Consider whether you’ll help me."^^xsd:string ;
-    :relatedTo :Line_041 ;
-    :hasMotivation :Motivation_SeekIsmeneHelp ;
-    :hasTheme :Theme_FamilyDuty .
+    :relatedTo :Line_041 .

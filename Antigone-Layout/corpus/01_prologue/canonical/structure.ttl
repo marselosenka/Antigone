@@ -138,6 +138,8 @@ a :Scene ;
     :lineNumber 20 ;
     :canonicalReference "20"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :experiencesEmotion :Emotion_Turmoil ;
+    :hasTheme :Theme_EmotionalTurmoil ;
     :text "Τί δ ̓ ἔστι; δηλοῖς γάρ τι καλχαίνουσ ̓ ἔπος."^^xsd:string .
 
 # --- 021 ---
@@ -145,6 +147,9 @@ a :Scene ;
     :lineNumber 21 ;
     :canonicalReference "21"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Antigone_Character_Creon ;
+    :hasTheme :Theme_StateLaw ;
+    :hasTheme :Theme_BurialRites ;
     :text "Οὐ γὰρ τάφου νῷν τὼ κασιγνήτω Κρέων"^^xsd:string .
 
 # --- 022 ---
@@ -152,6 +157,9 @@ a :Scene ;
     :lineNumber 22 ;
     :canonicalReference "22"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_BurialRites ;
+    :hasTheme :Theme_FamilyDuty ;
+    :hasConflict :Conflict_BurialRitesVsCreonEdict ;
     :text "τὸν μὲν προτίσας, τὸν δ ̓ ἀτιμάσας ἔχει;"^^xsd:string .
 
 # --- 023 ---
@@ -159,6 +167,8 @@ a :Scene ;
     :lineNumber 23 ;
     :canonicalReference "23"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Antigone_Character_Eteocles ;
+    :hasTheme :Theme_BurialRites ;
     :text "Ἐτεοκλέα μέν, ὡς λέγουσι, σὺν δίκῃ"^^xsd:string .
 
 # --- 024 ---
@@ -166,6 +176,8 @@ a :Scene ;
     :lineNumber 24 ;
     :canonicalReference "24"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_BurialRites ;
+    :hasTheme :Theme_HonorForTheDead ;
     :text "χρησθεὶς δικαίᾳ καὶ νόμῳ, κατὰ χθονὸς"^^xsd:string .
 
 # --- 025 ---
@@ -173,6 +185,9 @@ a :Scene ;
     :lineNumber 25 ;
     :canonicalReference "25"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_BurialRites ;
+    :hasTheme :Theme_RitualObservance ;
+    :advocatesFor :EthicalPrinciple_BurialRites ;
     :text "ἔκρυψε τοῖς ἔνερθεν ἔντιμον νεκροῖς,"^^xsd:string .
 
 # --- 026 ---
@@ -180,6 +195,10 @@ a :Scene ;
     :lineNumber 26 ;
     :canonicalReference "26"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Antigone_Character_Creon ;
+    :relatedTo :Law_CreonBurialEdict ;
+    :hasTheme :Theme_StateLaw ;
+    :hasTheme :Theme_PoliticalAuthority ;
     :text "τὸν δ ̓ ἀθλίως θανόντα Πολυνείκους νέκυν"^^xsd:string .
 
 # --- 027 ---
@@ -187,6 +206,10 @@ a :Scene ;
     :lineNumber 27 ;
     :canonicalReference "27"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Law_CreonBurialEdict ;
+    :hasTheme :Theme_BurialRites ;
+    :hasTheme :Theme_Prohibition ;
+    :hasConflict :Conflict_BurialRitesVsCreonEdict ;
     :text "ἀστοῖσί φασιν ἐκκεκηρῦχθαι τὸ μὴ"^^xsd:string .
 
 # --- 028 ---
@@ -194,6 +217,10 @@ a :Scene ;
     :lineNumber 28 ;
     :canonicalReference "28"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Antigone_Character_Polyneices ;
+    :hasTheme :Theme_FamilyDuty ;
+    :hasTheme :Theme_BurialRites ;
+    :hasTheme :Theme_DishonorOfTheDead ;
     :text "τάφῳ καλύψαι μηδὲ κωκῦσαί τινα,"^^xsd:string .
 
 # --- 029 ---
@@ -201,6 +228,11 @@ a :Scene ;
     :lineNumber 29 ;
     :canonicalReference "29"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Law_CreonBurialEdict ;
+    :hasTheme :Theme_BurialRites ;
+    :hasTheme :Theme_DenialOfMourning ;
+    :hasConflict :Conflict_BurialRitesVsCreonEdict ;
+    :experiencesEmotion :Emotion_Horror ;
     :text "ἐᾶν δ ̓ ἄκλαυτον, ἄταφον, οἰωνοῖς γλυκὺν"^^xsd:string .
 
 # --- 030 ---
@@ -208,6 +240,10 @@ a :Scene ;
     :lineNumber 30 ;
     :canonicalReference "30"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_BurialRites ;
+    :hasTheme :Theme_ExposureOfTheCorpse ;
+    :hasTheme :Theme_DishonorOfTheDead ;
+    :experiencesEmotion :Emotion_Horror ;
     :text "θησαυρὸν εἰσορῶσι πρὸς χάριν βορᾶς."^^xsd:string .
 
 # --- 031 ---
@@ -215,6 +251,8 @@ a :Scene ;
     :lineNumber 31 ;
     :canonicalReference "31"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Law_CreonBurialEdict ;
+    :experiencesEmotion :Emotion_Indignation ;
     :text "Τοιαῦτά φασι τὸν ἀγαθὸν Κρέοντα σοὶ"^^xsd:string .
 
 # --- 032 ---
@@ -222,6 +260,8 @@ a :Scene ;
     :lineNumber 32 ;
     :canonicalReference "32"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :advocatesFor :EthicalPrinciple_BurialRites ;
+    :hasConflict :Conflict_BurialRitesVsCreonEdict ;
     :text "κἀμοί, λέγω γὰρ κἀμέ, κηρύξαντ ̓ ἔχειν,"^^xsd:string .
 
 # --- 033 ---
@@ -229,6 +269,8 @@ a :Scene ;
     :lineNumber 33 ;
     :canonicalReference "33"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :relatedTo :Law_CreonBurialEdict ;
+    :hasTheme :Theme_StateLaw ;
     :text "καὶ δεῦρο νεῖσθαι ταῦτα τοῖσι μὴ εἰδόσιν"^^xsd:string .
 
 # --- 034 ---
@@ -236,6 +278,7 @@ a :Scene ;
     :lineNumber 34 ;
     :canonicalReference "34"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_StateLaw ;
     :text "σαφῆ προκηρύξοντα, καὶ τὸ πρᾶγμ ̓ ἄγειν"^^xsd:string .
 
 # --- 035 ---
@@ -243,6 +286,7 @@ a :Scene ;
     :lineNumber 35 ;
     :canonicalReference "35"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_StateLaw ;
     :text "οὐχ ὡς παρ ̓ οὐδέν, ἀλλ ̓ ὃς ἂν τούτων τι δρᾷ"^^xsd:string .
 
 # --- 036 ---
@@ -250,6 +294,9 @@ a :Scene ;
     :lineNumber 36 ;
     :canonicalReference "36"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_PunishmentThreat ;
+    :relatedTo :Event_PublicStoningPunishment ;
+    :relatedTo :Law_CreonBurialEdict ;
     :text "φόνον προκεῖσθαι δημόλευστον ἐν πόλει."^^xsd:string .
 
 # --- 037 ---
@@ -257,6 +304,7 @@ a :Scene ;
     :lineNumber 37 ;
     :canonicalReference "37"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_FamilyDuty ;
     :text "Οὕτως ἔχει σοι ταῦτα, καὶ δείξεις τάχα"^^xsd:string .
 
 # --- 038 ---
@@ -264,6 +312,7 @@ a :Scene ;
     :lineNumber 38 ;
     :canonicalReference "38"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasTheme :Theme_FamilyDuty ;
     :text "εἴτ ̓ εὐγενὴς πὲφυκας εἴτ ̓ ἐσθλῶν κακή."^^xsd:string .
 
 # --- 039 ---
@@ -271,6 +320,7 @@ a :Scene ;
     :lineNumber 39 ;
     :canonicalReference "39"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :experiencesEmotion :Emotion_Concern ;
     :text "Τί δ ̓, ὦ ταλαῖφρον, εἰ τάδ ̓ ἐν τούτοις, ἐγὼ"^^xsd:string .
 
 # --- 040 ---
@@ -278,6 +328,8 @@ a :Scene ;
     :lineNumber 40 ;
     :canonicalReference "40"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :experiencesEmotion :Emotion_Fear ;
+    :hasTheme :Theme_Prudence ;
     :text "λύουσ ̓ ἂν εἴθ ̓ ἅπτουσα προσθείμην πλέον;"^^xsd:string .
 
 # --- 041 ---
@@ -285,6 +337,8 @@ a :Scene ;
     :lineNumber 41 ;
     :canonicalReference "41"^^xsd:string ;
     :partOfScene :Antigone_Scene_Dialogue_20_41 ;
+    :hasMotivation :Motivation_SeekIsmeneHelp ;
+    :hasTheme :Theme_FamilyDuty ;
     :text "Εἰ ξυμπονήσεις καὶ ξυνεργάσῃ σκόπει."^^xsd:string .
 
 
