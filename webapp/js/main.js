@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize State
     state.currentScenes = [...playData.scenes];
 
-    // 1Render UI Elements
+    // Render UI Elements
     generateDynamicTags();
     renderCharacters();
 
@@ -14,6 +14,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Initialize Controls
     initializeVideoControls();
+
+    document.querySelectorAll('.speak-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const panelId = btn.dataset.panel;
+            const lang = btn.dataset.lang;
+            tts.speakFromElement(panelId, lang, btn);
+        });
+    });
     initializeKeyboardShortcuts();
     sparqlLineNavigator.init();
 });

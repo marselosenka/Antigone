@@ -140,3 +140,49 @@
     outline-offset: 2px;
     box-shadow: 0 0 0 4px rgba(192, 86, 64, 0.25);
 }
+
+/* speaker button */
+
+.panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid var(--border-faint);
+    padding-bottom: 5px;
+}
+
+.panel-header h4 {
+    margin-bottom: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+    text-align: left;               /* override center if needed */
+}
+
+.speak-btn {
+    width: 28px;
+    height: 28px;
+    font-size: 12px;
+    border-radius: 50%;
+    background: transparent;
+    border: 1px solid var(--border-faint);
+    color: var(--aegean);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}
+
+.speak-btn:hover {
+    background: var(--aegean);
+    color: #fff;
+    border-color: var(--aegean);
+}
+
+
+.speak-btn.speaking {
+    background: var(--terracotta);
+    color: #fff;
+    border-color: var(--terracotta);
+}
