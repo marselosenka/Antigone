@@ -32,20 +32,310 @@
 :Speech_Block_384_440 a :Speech ;
   :speechBy :Antigone_Character_Guard, :Antigone_Character_Creon, :Antigone_Character_Antigone .
 
-:Speech_Block_441_479 a :Speech ;
-  :speechBy :Antigone_Character_Creon, :Antigone_Character_Antigone, :Antigone_Character_Chorus .
+## Manual Annotation
 
-:Speech_Block_480_507 a :Speech ;
-  :speechBy :Antigone_Character_Creon, :Antigone_Character_Antigone .
+:Speech_Guard_384_385 a :Speech ;
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_384, :Line_385 ;
+  :partOfScene :Antigone_Scene_Episode_2_384_581 .
 
-:Speech_Block_508_535 a :Speech ;
-  :speechBy :Antigone_Character_Creon, :Antigone_Character_Antigone, :Antigone_Character_Chorus .
+:Speech_Chorus_386 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_386 ;
+  :partOfScene :Antigone_Scene_Episode_2_384_581 . 
 
-:Speech_Block_536_562 a :Speech ;
-  :speechBy :Antigone_Character_Ismene, :Antigone_Character_Antigone, :Antigone_Character_Creon .
+:Speech_Chorus_387 a :Speech ; 
+  :speechBy :Antigone_Scene_Episode_2_384_581 ;
+  :containsLine :Line_387 . 
 
-:Speech_Block_563_581 a :Speech ;
-  :speechBy :Antigone_Character_Ismene, :Antigone_Character_Creon, :Antigone_Character_Chorus .
+:Speech_Chorus_388_400 a :Speech ; 
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_388, :Line_389, :Line_390, :Line_391, :Line_392, :Line_393, :Line_394, :Line_395, :Line_396, :Line_397, :Line_398, :Line_399, :Line_400 .
+
+:Speech_Creon_401 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_401 . 
+
+:Speech_Guard_402 a :Speech ; 
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_402 . 
+
+:Speech_Creon_403 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_403 .
+
+:Speech_Guard_404_405 a :Speech ; 
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_404, :Line_405 . 
+
+:Speech_Creon_406 a :Speech ; 
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_406 . 
+
+:Speech_Guard_407_440 a :Speech ; 
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_407, :Line_408, :Line_409, :Line_410, :Line_411, :Line_412, :Line_413, :Line_414, :Line_415, :Line_416, :Line_417, :Line_418, :Line_419, :Line_420, :Line_421, :Line_422, :Line_423, :Line_424, :Line_425, :Line_426, :Line_427, :Line_428, :Line_429, :Line_430, :Line_431, :Line_432, :Line_433, :Line_434, :Line_435, :Line_436, :Line_437, :Line_438, :Line_439, :Line_440 . 
+
+:Speech_Creon_441_442 a :Speech ; 
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_441, :Line_442 . 
+
+:Speech_Antigone_443 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_443 . 
+
+:Speech_Creon_444_447 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_444, :Line_445, :Line_446, :Line_447 . 
+
+:Speech_Antigone_448 a :Speech ; 
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_448 .
+
+:Speech_Creon_449 a :Speech ; 
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_449 . 
+
+:Speech_Antigone_450_470 a :Speech ; 
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_450, :Line_451, :Line_452, :Line_453, :Line_454, :Line_455, :Line_456, :Line_457, :Line_458, :Line_459, :Line_460, :Line_461, :Line_462, :Line_463, :Line_464, :Line_465, :Line_466, :Line_467, :Line_468, :Line_469, :Line_470 . 
+
+:Speech_Chorus_471_472 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_471, :Line_472 . 
+
+:Speech_Creon_473_496 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_473, :Line_474, :Line_475, :Line_476, :Line_477, :Line_478, :Line_479, :Line_480, :Line_481, :Line_482, :Line_483, :Line_484, :Line_485, :Line_486, :Line_487, :Line_488, :Line_489, :Line_490, :Line_491, :Line_492, :Line_493, :Line_494, :Line_495, :Line_496 . 
+
+:Speech_Antigone_497 a :Speech ; 
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_497 .
+
+:Speech_Creon_498 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_498 .
+
+:Speech_Antigone_499_507 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_499, :Line_500, :Line_501, :Line_502, :Line_503, :Line_504, :Line_505, :Line_506, :Line_507 .
+
+:Speech_Creon_508 a :Speech ; 
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_508 .
+
+:Speech_Antigone_509 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_509 . 
+
+:Speech_Creon_510 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_510 . 
+
+:Speech_Antigone_511 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_511 .
+
+:Speech_Creon_512 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_512 .
+
+:Speeech_Antigone_513 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_513 .
+
+:Speech_Creon_514 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_514 .
+
+:Speech_Antigone_515 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_515 . 
+
+:Speech_Creon_516 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_516 .
+
+:Speech_Antigone_517 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_517 .
+
+:Speech_Creon_518 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_518 .
+
+:Speech_Antigone_519 a :Speech ; 
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_519 .
+
+:Speech_Creon_520 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_520 .
+
+:Speech_Antigone_521 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_521 .
+
+:Speech_Creon_522 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_522 .
+
+:Speech_Antigone_523 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_523 .
+
+:Speech_Creon_524_525 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_524, :Line_525 .
+
+:Speech_Chorus_526_530 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_526, :Line_527, :Line_528, :Line_529, :Line_530 .
+
+:Speech_Creon_531_535 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_531, :Line_532, :Line_533, :Line_534, :Line_535 .
+
+:Speech_Ismene_536_537 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_536, :Line_537 .
+
+:Speech_Antigone_538_539 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_538, :Line_539 .
+
+:Speech_Ismene_540_541 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_540, :Line_541 .
+
+:Speech_Antigone_542_543 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_542, :Line_543 .
+
+:Speech_Ismene_544_545 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_544, :Line_545 .
+  
+:Speech_Antigone_546_547 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_546, :Line_547 .
+
+:Speech_Ismene_548 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_548 .
+
+:Speech_Antigone_549 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_549 .
+
+:Speech_Ismene_550 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_550 .
+
+:Speech_Antigone_551 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_551 .
+
+:Speech_Ismene_552 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_552 .
+
+:Speech_Antigone_553 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_553 .
+
+:Speech_Ismene_554 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_554 .
+
+:Speech_Antigone_555 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_555 .
+
+:Speech_Ismene_556 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_556 .
+
+:Speech_Antigone_557 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_557 .
+
+:Speech_Ismene_558 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_558 .
+
+:Speech_Antigone_559_560 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_559, :Line_560 .
+
+:Speech_Creon_561_562 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_561, :Line_562 .
+
+:Speech_Ismene_563_564 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_563, :Line_564 .
+
+:Speech_Creon_565 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_565 .
+
+:Speech_Ismene_566 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_566 .
+
+:Speech_Creon_567 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_567 .
+
+:Speech_Ismene_568 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_568 .
+
+:Speech_Creon_569 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_569 .
+
+:Speech_Ismene_570 a :Speech ;
+  :speechBy :Antigone_Character_Ismene ;
+  :containsLine :Line_570 .
+
+:Speech_Creon_571 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_571 .
+
+:Speech_Antigone_572 a :Speech ;
+  :speechBy :Antigone_Character_Antigone ;
+  :containsLine :Line_572 .
+
+:Speech_Creon_573 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_573 .
+
+:Speech_Chorus_574 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_574 .
+
+:Speech_Creon_575 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_575 .
+
+:Speech_Chorus_576 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_576 .
+
+:Speech_Creon_577_581 a :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_577, :Line_578, :Line_579, :Line_580, :Line_581 .
+
+# :Speech_Block_508_535 a :Speech ;
+#  :speechBy :Antigone_Character_Creon, :Antigone_Character_Antigone, :Antigone_Character_Chorus .
+
+#:Speech_Block_536_562 a :Speech ;
+#  :speechBy :Antigone_Character_Ismene, :Antigone_Character_Antigone, :Antigone_Character_Creon .
+
+#:Speech_Block_563_581 a :Speech ;
+#  :speechBy :Antigone_Character_Ismene, :Antigone_Character_Creon, :Antigone_Character_Chorus .
 
 :Theme_DivineLaw a :Theme ;
   :description "Antigone privileges unwritten divine law over royal decree."^^xsd:string .

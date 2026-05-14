@@ -1,0 +1,205 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon02-semantics a owl:Ontology .
+
+################################################################
+# CHARACTERS
+################################################################
+
+:Chorus a :Character .
+:Zeus a :Character .
+:Mankind a :Character .
+################################################################
+# STASIMON SCENE
+################################################################
+
+:Antigone_Scene_Stasimon_02_582_630
+  a :Scene ;
+  :hasSpeeches :Speech_Chorus_583_591, :Speech_Chorus_592_602, :Speech_Chorus_605_614, :Speech_Chorus_615_623, :Speech_Chorus_625, :Speech_Chorus_626_630 .
+
+################################################################
+# SPEECHES
+################################################################
+
+:Speech_Chorus_583_591 a :Speech ; 
+    :speechBy :Chorus ;
+    :containsLines: :Line_583, :Line_584, :Line_585, :Line_586, :Line_587, :Line_588, :Line_589, :Line_590, :Line_591 .
+
+:Speech_Chorus_592_602 a :Speech ; 
+    :speechBy :Chorus ;
+    :containsLines: :Line_592, :Line_593, :Line_594, :Line_595, :Line_596, :Line_597, :Line_598, :Line_599, :Line_600, :Line_601, :Line_602 .
+
+:Speech_Chorus_605_614 a :Speech ; 
+    :speechBy :Chorus ;
+    :containsLines: :Line_605, :Line_606, :Line_607, :Line_608, :Line_609, :Line_610, :Line_611, :Line_612, :Line_613, :Line_614 .
+
+:Speech_Chorus_615_623 a :Speech ; 
+    :speechBy :Chorus ;
+    :containsLines: :Line_615, :Line_616, :Line_617, :Line_618, :Line_619, :Line_620, :Line_621, :Line_622, :Line_623 .
+
+:Speech_Chorus_625 a :Speech ; 
+    :speechBy :Chorus ;
+    :containsLines: :Line_625 .
+
+:Speech_Chorus_626_630 a :Speech ; 
+    :speechBy :Chorus ;
+    :containsLines: :Line_626, :Line_627, :Line_628, :Line_630 .
+
+################################################################
+# MOTIVATIONS
+################################################################
+:Motivation_MaintainAbsolutePower a :Motivation ;
+    :description "Η πρόθεση του Δία να διατηρήσει την αιώνια και αγέραστη εξουσία του πάνω στους θνητούς."^^xsd:string .
+:Zeus :hasMotivation :Motivation_MaintainAbsolutePower .
+
+################################################################
+# ETHICAL PRINCIPLES
+################################################################
+
+:EthicalPrinciple_GreatnessBringsRuin a :EthicalPrinciple ;
+    :description "Ο αιώνιος νόμος ότι τίποτα το σπουδαίο δεν έρχεται στη ζωή των θνητών χωρίς την καταστροφή (άτη)."^^xsd:string .
+:Chorus :advocatesFor :EthicalPrinciple_GreatnessBringsRuin .
+
+################################################################
+# EMOTIONS
+################################################################
+
+:Emotion_AweAndReverence a :Emotion ;
+    :description "Το δέος και ο σεβασμός απέναντι στην ανυπέρβλητη και παντοτινή δύναμη του Δία, την οποία δεν δαμάζει ο ύπνος ούτε ο χρόνος."^^xsd:string .
+:Chorus :experiencesEmotion :Emotion_AweAndReverence .
+:Emotion_Despair a :Emotion ;
+    :description "Η απελπισία για τα αρχαία πάθη του οίκου των Λαβδακιδών που συσσωρεύονται αδυσώπητα από γενιά σε γενιά."^^xsd:string .
+:Chorus :experiencesEmotion :Emotion_Despair .
+
+################################################################
+# CONFLICTS
+################################################################
+
+:Conflict_DivineOmnipotenceVsHumanAspiration a :Conflict ;
+    :description "Η σύγκρουση ανάμεσα στην απόλυτη εξουσία των θεών και την ανθρώπινη υπέρβαση (υπερβασία) που προκαλεί την τιμωρία."^^xsd:string ;
+    :conflictBetween :Zeus, :Mankind .
+
+################################################################
+# EVENTS, CAUSES, EFFECTS
+################################################################
+
+:Event_DivineIntervention a owl:Thing ;
+    :description "Ο κλονισμός ενός οίκου από τους θεούς (σεισθῇ θεόθεν δόμος)."^^xsd:string .
+:Event_GenerationalRuin a owl:Thing ;
+    :description "Η συμφορά που εξαπλώνεται και χτυπά αλύπητα τις γενιές, όμοια με τα άγρια κύματα του πελάγους."^^xsd:string .
+:Event_DivineIntervention :relatedTo :Event_GenerationalRuin .
+:Event_TransgressionOfPower a owl:Thing ;
+    :description "Ένας θνητός που διαπράττει ύβρη και υπέρβαση ενάντια στη δύναμη του Δία."^^xsd:string .
+:Event_InevitableRuin a owl:Thing ;
+    :description "Η καταστροφή που ακολουθεί αναπόφευκτα το ανθρώπινο μεγαλείο ή την υπέρβαση."^^xsd:string .
+:Event_TransgressionOfPower :relatedTo :Event_InevitableRuin .
+:Cause_FollyAndFrenzy a owl:Thing ;
+    :description "Η αιματηρή σκόνη των χθόνιων θεών, η άνοια του λόγου και η Ερινύα των φρενών."^^xsd:string .
+:Effect_DestructionOfOedipusHouse a owl:Thing ;
+    :description "Το κόψιμο της τελευταίας ρίζας και του φωτός στον οίκο του Οιδίποδα."^^xsd:string .
+:Cause_FollyAndFrenzy :relatedTo :Effect_DestructionOfOedipusHouse .
+
+################################################################
+# THEMES
+################################################################
+
+:Theme_GenerationalCurse a :Theme ;
+    :description "Η κατάρα που μεταβιβάζεται αναπόδραστα από γενιά σε γενιά (οὐδ' ἀπαλλάσσει γενεὰν γένος) στον οίκο των Λαβδακιδών."^^xsd:string .
+:Theme_DivineOmnipotence a :Theme ;
+    :description "Η ανίκητη και αιώνια δύναμη του Δία και των θεών, την οποία δεν αγγίζει ούτε ο ύπνος ούτε τα γηρατειά."^^xsd:string .
+:Theme_HumanFrailty a :Theme ;
+    :description "Η τραγική ανθρώπινη μοίρα, όπου το μεγαλείο φέρνει πάντα την καταστροφή (ἐκτὸς ἄτας)."^^xsd:string .
+
+################################################################
+# CHARACTERS (EPISODE TRANSITION CONTEXT)
+################################################################
+
+:Haemon a :Character .
+:Antigone a :Character .
+:Creon a :Character .
+
+
+################################################################
+# EPISODE TRANSITION SEMANTICS (GREEK)
+################################################################
+
+################################################################
+# MOTIVATIONS
+################################################################
+:Motivation_MournBride a :Motivation ;
+    :description "Η υποτιθέμενη πρόθεση του Αίμονα να θρηνήσει τη μοίρα της νύφης του Αντιγόνης και να πενθήσει για τον χαμένο του γάμο."^^xsd:string .
+:Haemon :hasMotivation :Motivation_MournBride .
+:Motivation_AssessSonLoyalty a :Motivation ;
+    :description "Η πρόθεση του Κρέοντα να διαπιστώσει αν ο γιος του παραμένει πιστός σύμμαχος (φίλος) αφού άκουσε για την καταδίκη της νύφης του."^^xsd:string .
+:Creon :hasMotivation :Motivation_AssessSonLoyalty .
+
+################################################################
+# ETHICAL PRINCIPLES
+################################################################
+
+:EthicalPrinciple_FilialLoyalty a :EthicalPrinciple ;
+    :description "Η αρχή ότι ένας γιος πρέπει να παραμένει άνευ όρων σύμμαχος στον πατέρα του σε κάθε περίσταση (πανταχῇ δρῶντες φίλοι)."^^xsd:string .
+:Creon :advocatesFor :EthicalPrinciple_FilialLoyalty .
+
+################################################################
+# EMOTIONS
+################################################################
+
+:Emotion_Grief a :Emotion ;
+    :description "Η θλίψη (ἀχνύμενος) και το πένθος για τη μοίρα μιας νύφης και η υπερβολική οδύνη για την απώλεια του συζυγικού κρεβατιού (ἀπάτας λεχέων ὑπεραλγῶν)."^^xsd:string .
+:Haemon :experiencesEmotion :Emotion_Grief .
+:Emotion_Raving a :Emotion ;
+    :description "Ο παράφορος θυμός και η μανία (λυσσαίνων) για την απώλεια της μελλοντικής νύφης."^^xsd:string .
+:Haemon :experiencesEmotion :Emotion_Raving .
+
+################################################################
+# CONFLICTS
+################################################################
+
+:Conflict_EvilAppearingAsGood a :Conflict ;
+    :description "Η γνωστική και ηθική αντίφαση όπου το κακό φαίνεται ως καλό (τὸ κακὸν δοκεῖν ποτ' ἐσθλὸν) σε ένα μυαλό που οδηγείται στην καταστροφή."^^xsd:string ;
+    :conflictBetween :Theme_FalseHope, :Event_InevitableRuin .
+:Conflict_LoyaltyVsLove a :Conflict ;
+    :description "Η ένταση ανάμεσα στον ρομαντικό δεσμό του Αίμονα με την Αντιγόνη και τη συγγενική του υποχρέωση προς τον Κρέοντα."^^xsd:string ;
+    :conflictBetween :Antigone, :Creon .
+
+################################################################
+# CAUSES AND EFFECTS
+################################################################
+
+:Cause_DivineDeception a owl:Thing ;
+    :description "Οι θεοί που οδηγούν το μυαλό ενός θνητού στην καταστροφή (ὅτῳ φρένας θεὸς ἄγει πρὸς ἄταν)."^^xsd:string .
+:Effect_MoralBlindness a owl:Thing ;
+    :description "Το κακό που φαίνεται ως καλό στον εξαπατημένο θνητό."^^xsd:string .
+:Effect_InevitableRuin a owl:Thing ;
+    :description "Ο θνητός που παραμένει ελεύθερος από την καταστροφή για ελάχιστο μόνο χρόνο."^^xsd:string .
+:Cause_DivineDeception :relatedTo :Effect_MoralBlindness .
+:Effect_MoralBlindness :relatedTo :Effect_InevitableRuin .
+:Cause_FalseHope a owl:Thing ;
+    :description "Η περιπλανώμενη ελπίδα που λειτουργεί ως απάτη επιπόλαιων επιθυμιών (ἀπάτα κουφονόων ἐρώτων)."^^xsd:string .
+:Effect_UnexpectedPain a owl:Thing ;
+    :description "Το ανύποπτο θύμα που καίει το πόδι του σε καυτή φωτιά (πυρὶ θερμῷ πόδα τις προσαύσῃ)."^^xsd:string .
+:Cause_FalseHope :relatedTo :Effect_UnexpectedPain .
+
+################################################################
+# EVENTS
+################################################################
+
+:Event_FinalVote a owl:Thing ;
+    :description "Η ρίψη της τελικής ψήφου (τελείαν ψῆφον) που καταδικάζει την Αντιγόνη."^^xsd:string .
+:Event_FinalVote :relatedTo :Emotion_Grief .
+:Event_FinalVote :relatedTo :Emotion_Raving .
+
+################################################################
+# THEMES
+################################################################
+
+:Theme_FalseHope a :Theme ;
+    :description "Η ελπίδα ως πλάνη που ξεγελά τις επιπόλαιες επιθυμίες και οδηγεί ανεπίγνωστα στον πόνο."^^xsd:string .
+:Theme_DivineMadness a :Theme ;
+    :description "Η διαστρέβλωση της ανθρώπινης αντίληψης από τους θεούς, ώστε να φαίνεται το κακό ως καλό πριν από την καταστροφή."^^xsd:string .
+:Theme_FilialDuty a :Theme ;
+    :description "Η προσδοκία της απόλυτης πίστης και συμμαχίας ενός γιου προς τον πατέρα του."^^xsd:string .

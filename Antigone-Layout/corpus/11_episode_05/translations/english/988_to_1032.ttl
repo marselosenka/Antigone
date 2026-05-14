@@ -12,8 +12,7 @@
 
 :TV_Line_989_en a :TranslationVariant ;
     :text "Two seeing by the eyes of one; for for the blind,"^^xsd:string ;
-    :relatedTo :Line_989 ;
-    :hasTheme :Theme_BlindnessVsSight .
+    :relatedTo :Line_989 .
 
 :TV_Line_990_en a :TranslationVariant ;
     :text "This path comes by means of a guide."^^xsd:string ;
@@ -29,8 +28,7 @@
 
 :TV_Line_993_en a :TranslationVariant ;
     :text "Indeed, I never before turned away from your counsel."^^xsd:string ;
-    :relatedTo :Line_993 ;
-    :hasMotivation :Motivation_HeedProphet .
+    :relatedTo :Line_993 .
 
 :TV_Line_994_en a :TranslationVariant ;
     :text "And so you have been steering this city on a straight course."^^xsd:string ;
@@ -42,13 +40,11 @@
 
 :TV_Line_996_en a :TranslationVariant ;
     :text "Take care: now once again you stand upon fortune’s razor-edge."^^xsd:string ;
-    :relatedTo :Line_996 ;
-    :containsRhetoricalDevice :Device_Metaphor_RazorEdge .
+    :relatedTo :Line_996 .
 
 :TV_Line_997_en a :TranslationVariant ;
     :text "What is it? I shudder at your words."^^xsd:string ;
-    :relatedTo :Line_997 ;
-    :experiencesEmotion :Emotion_TremblingFear .
+    :relatedTo :Line_997 .
 
 :TV_Line_998_en a :TranslationVariant ;
     :text "You shall know, when you hear the signs of my art."^^xsd:string ;
@@ -64,8 +60,7 @@
 
 :TV_Line_1001_en a :TranslationVariant ;
     :text "I heard the strange cry of birds,"^^xsd:string ;
-    :relatedTo :Line_1001 ;
-    :hasSymbol :Symbol_FightingBirds .
+    :relatedTo :Line_1001 .
 
 :TV_Line_1002_en a :TranslationVariant ;
     :text "Shrieking in evil and barbarized frenzy;"^^xsd:string ;
@@ -85,13 +80,11 @@
 
 :TV_Line_1006_en a :TranslationVariant ;
     :text "Upon the altars blazing on every side; but from the victims"^^xsd:string ;
-    :relatedTo :Line_1006 ;
-    :experiencesEmotion :Emotion_PropheticDread .
+    :relatedTo :Line_1006 .
 
 :TV_Line_1007_en a :TranslationVariant ;
     :text "Hephaestus did not shine; instead, upon the ashes"^^xsd:string ;
-    :relatedTo :Line_1007 ;
-    :hasSymbol :Symbol_FailedSacrifice .
+    :relatedTo :Line_1007 .
 
 :TV_Line_1008_en a :TranslationVariant ;
     :text "The melting fat from the thighs was wasting away"^^xsd:string ;
@@ -123,8 +116,7 @@
 
 :TV_Line_1015_en a :TranslationVariant ;
     :text "And because of your mind, this city is diseased;"^^xsd:string ;
-    :relatedTo :Line_1015 ;
-    :hasTheme :Theme_CivicPollution .
+    :relatedTo :Line_1015 .
 
 :TV_Line_1016_en a :TranslationVariant ;
     :text "For all our altars and our hearths are completely"^^xsd:string ;
@@ -140,8 +132,7 @@
 
 :TV_Line_1019_en a :TranslationVariant ;
     :text "And so the gods no longer accept from us"^^xsd:string ;
-    :relatedTo :Line_1019 ;
-    :hasTheme :Theme_DivineSilence .
+    :relatedTo :Line_1019 .
 
 :TV_Line_1020_en a :TranslationVariant ;
     :text "Sacrificial prayers nor the flame of thigh-offerings,"^^xsd:string ;
@@ -161,9 +152,7 @@
 
 :TV_Line_1024_en a :TranslationVariant ;
     :text "For it is common to all men to make mistakes;"^^xsd:string ;
-    :relatedTo :Line_1024 ;
-    :advocatesFor :Ethical_Amends ;
-    :hasTheme :Theme_WisdomFlexibility .
+    :relatedTo :Line_1024 .
 
 :TV_Line_1025_en a :TranslationVariant ;
     :text "But when a man has erred, he is no longer witless"^^xsd:string ;
@@ -183,8 +172,7 @@
 
 :TV_Line_1029_en a :TranslationVariant ;
     :text "Yield to the dead, and do not strike at one who is gone."^^xsd:string ;
-    :relatedTo :Line_1029 ;
-    :advocatesFor :Ethical_Amends .
+    :relatedTo :Line_1029 .
 
 :TV_Line_1030_en a :TranslationVariant ;
     :text "What courage is there in killing the dead again?"^^xsd:string ;

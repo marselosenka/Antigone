@@ -8,8 +8,7 @@
 
 :TV_Line_1115_en a :TranslationVariant ;
     :text "O many-named one, glory of the Cadmean bride,"^^xsd:string ;
-    :relatedTo :Line_1115 ;
-    :hasIntertextualReference :Myth_Semele .
+    :relatedTo :Line_1115 .
 
 :TV_Line_1116_en a :TranslationVariant ;
     :text "And offspring of loud-thundering Zeus,"^^xsd:string ;
@@ -29,8 +28,7 @@
 
 :TV_Line_1120_en a :TranslationVariant ;
     :text "Deo, Bacchus, leader of Bacchants,"^^xsd:string ;
-    :relatedTo :Line_1120 ;
-    :referencesMyth :Antigone_Character_Dionysus .
+    :relatedTo :Line_1120 .
 
 :TV_Line_1121_en a :TranslationVariant ;
     :text "You who dwell in your mother-city Thebes"^^xsd:string ;
@@ -54,8 +52,7 @@
 
 :TV_Line_1128_en a :TranslationVariant ;
     :text "Bacchants, the nymphs, go in procession;"^^xsd:string ;
-    :relatedTo :Line_1128 ;
-    :hasTheme :Theme_DionysianWorship .
+    :relatedTo :Line_1128 .
 
 :TV_Line_1130_en a :TranslationVariant ;
     :text "And the Castalian spring."^^xsd:string ;
@@ -67,8 +64,7 @@
 
 :TV_Line_1132_en a :TranslationVariant ;
     :text "Of the Nysian hills and the green shore"^^xsd:string ;
-    :relatedTo :Line_1132 ;
-    :hasIntertextualReference :Myth_Nysa .
+    :relatedTo :Line_1132 .
 
 :TV_Line_1133_en a :TranslationVariant ;
     :text "Rich with grapes send onward,"^^xsd:string ;
@@ -88,13 +84,11 @@
 
 :TV_Line_1138_en a :TranslationVariant ;
     :text "Along with your lightning-struck mother;"^^xsd:string ;
-    :relatedTo :Line_1138 ;
-    :hasIntertextualReference :Myth_Semele .
+    :relatedTo :Line_1138 .
 
 :TV_Line_1140_en a :TranslationVariant ;
     :text "And now, when the whole people of the city is gripped"^^xsd:string ;
-    :relatedTo :Line_1140 ;
-    :hasTheme :Theme_CivicPollution .
+    :relatedTo :Line_1140 .
 
 :TV_Line_1141_en a :TranslationVariant ;
     :text "By violent plague,"^^xsd:string ;
@@ -130,8 +124,7 @@
 
 :TV_Line_1151_en a :TranslationVariant ;
     :text "Of Thyiads, who in their frenzy"^^xsd:string ;
-    :relatedTo :Line_1151 ;
-    :hasTheme :Theme_DionysianWorship .
+    :relatedTo :Line_1151 .
 
 :TV_Line_1152_en a :TranslationVariant ;
     :text "Dance all night for you, Iacchus their steward."^^xsd:string ;

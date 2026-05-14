@@ -7,9 +7,7 @@
 
 :TV_Line_635_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Father, I am yours, and you know me well,"^^xsd:string ;
-    :relatedTo :Line_635 ;
-    :hasMotivation :Motivation_FollowFathersGuidance ;
-    :advocatesFor :EthicalPrinciple_FilialPiety .
+    :relatedTo :Line_635 .
 
 :TV_Line_636_en a owl:NamedIndividual, :TranslationVariant ;
     :text "You set me on the right path, and I am following it."^^xsd:string ;
@@ -29,9 +27,7 @@
 
 :TV_Line_640_en a owl:NamedIndividual, :TranslationVariant ;
     :text "And you must support your father’s judgement, always."^^xsd:string ;
-    :relatedTo :Line_640 ;
-    :hasMotivation :Motivation_DemandObedience ;
-    :hasTheme :Theme_FilialPiety .
+    :relatedTo :Line_640 .
 
 :TV_Line_641_en a owl:NamedIndividual, :TranslationVariant ;
     :text "This is the very reason why parents pray"^^xsd:string ;
@@ -51,8 +47,7 @@
 
 :TV_Line_645_en a owl:NamedIndividual, :TranslationVariant ;
     :text "But for someone who raises hopeless children,"^^xsd:string ;
-    :relatedTo :Line_645 ;
-    :relatedTo :Cause_DisobedientChildren .
+    :relatedTo :Line_645 .
 
 :TV_Line_646_en a owl:NamedIndividual, :TranslationVariant ;
     :text "What else can you say they’ve done but make"^^xsd:string ;
@@ -60,18 +55,15 @@
 
 :TV_Line_647_en a owl:NamedIndividual, :TranslationVariant ;
     :text "More trouble for themselves, and give their enemies"^^xsd:string ;
-    :relatedTo :Line_647 ;
-    :relatedTo :Effect_EnemyMockery .
+    :relatedTo :Line_647 .
 
 :TV_Line_648_en a owl:NamedIndividual, :TranslationVariant ;
     :text "An excuse to mock them. Now my son, don’t you ever"^^xsd:string ;
-    :relatedTo :Line_648 ;
-    :experiencesEmotion :Emotion_FearOfMockery .
+    :relatedTo :Line_648 .
 
 :TV_Line_649_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Lose your head for the pleasure of a woman:"^^xsd:string ;
-    :relatedTo :Line_649 ;
-    :relatedTo :Cause_LustForWoman .
+    :relatedTo :Line_649 .
 
 :TV_Line_650_en a owl:NamedIndividual, :TranslationVariant ;
     :text "You’ll watch this once-beloved grow cold to you,"^^xsd:string ;
@@ -79,8 +71,7 @@
 
 :TV_Line_651_en a owl:NamedIndividual, :TranslationVariant ;
     :text "A wretched woman in your bed and in your home."^^xsd:string ;
-    :relatedTo :Line_651 ;
-    :relatedTo :Effect_ColdMarriage .
+    :relatedTo :Line_651 .
 
 :TV_Line_652_en a owl:NamedIndividual, :TranslationVariant ;
     :text "What could carve a deeper wound than a false friend?"^^xsd:string ;
@@ -88,8 +79,7 @@
 
 :TV_Line_653_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Dismiss this girl as though she were your enemy,"^^xsd:string ;
-    :relatedTo :Line_653 ;
-    :experiencesEmotion :Emotion_Contempt .
+    :relatedTo :Line_653 .
 
 :TV_Line_654_en a owl:NamedIndividual, :TranslationVariant ;
     :text "So she can be married off to someone in the house of Hades."^^xsd:string ;
@@ -97,8 +87,7 @@
 
 :TV_Line_655_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I caught her, openly disobeying"^^xsd:string ;
-    :relatedTo :Line_655 ;
-    :hasConflict :Conflict_StateAuthorityVsIndividualDefiance .
+    :relatedTo :Line_655 .
 
 :TV_Line_656_en a owl:NamedIndividual, :TranslationVariant ;
     :text "My commands (alone among of the whole city)."^^xsd:string ;
@@ -110,18 +99,15 @@
 
 :TV_Line_658_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I will kill her. Let her sing a prayer to Zeus"^^xsd:string ;
-    :relatedTo :Line_658 ;
-    :makesMoralDecision :MoralDecision_ExecuteAntigone .
+    :relatedTo :Line_658 .
 
 :TV_Line_659_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Who rules over families. If I allow my own relatives"^^xsd:string ;
-    :relatedTo :Line_659 ;
-    :relatedTo :Cause_TolerateFamilyDisobedience .
+    :relatedTo :Line_659 .
 
 :TV_Line_660_en a owl:NamedIndividual, :TranslationVariant ;
     :text "To walk all over me, everyone will follow suit:"^^xsd:string ;
-    :relatedTo :Line_660 ;
-    :relatedTo :Effect_GeneralAnarchy .
+    :relatedTo :Line_660 .
 
 :TV_Line_661_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Who would trust a man to run a city"^^xsd:string ;
@@ -129,8 +115,7 @@
 
 :TV_Line_662_en a owl:NamedIndividual, :TranslationVariant ;
     :text "If he can’t keep his own house in order?"^^xsd:string ;
-    :relatedTo :Line_662 ;
-    :advocatesFor :EthicalPrinciple_HouseholdGovernance .
+    :relatedTo :Line_662 .
 
 :TV_Line_663_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Whoever breaks or cheapens the law or feels"^^xsd:string ;
@@ -146,9 +131,7 @@
 
 :TV_Line_666_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Everyone must obey the city’s chosen leader,"^^xsd:string ;
-    :relatedTo :Line_666 ;
-    :advocatesFor :EthicalPrinciple_AbsoluteCivicObedience ;
-    :hasTheme :Theme_AbsoluteAuthority .
+    :relatedTo :Line_666 .
 
 :TV_Line_667_en a owl:NamedIndividual, :TranslationVariant ;
     :text "In matters large and small, just and unjust."^^xsd:string ;
@@ -172,13 +155,11 @@
 
 :TV_Line_672_en a owl:NamedIndividual, :TranslationVariant ;
     :text "There is no greater crime than disobedience:"^^xsd:string ;
-    :relatedTo :Line_672 ;
-    :relatedTo :Cause_Disobedience .
+    :relatedTo :Line_672 .
 
 :TV_Line_673_en a owl:NamedIndividual, :TranslationVariant ;
     :text "It topples cities, it makes fugitives"^^xsd:string ;
-    :relatedTo :Line_673 ;
-    :relatedTo :Effect_SocialCollapse .
+    :relatedTo :Line_673 .
 
 :TV_Line_674_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Out of families, it puts armies to flight."^^xsd:string ;
@@ -190,10 +171,7 @@
 
 :TV_Line_676_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Obedience to authority saves many lives."^^xsd:string ;
-    :relatedTo :Line_676 ;
-    :relatedTo :Cause_CivicObedience ;
-    :relatedTo :Effect_PreservationOfLife ;
-    :hasTheme :Theme_CivicOrderVsAnarchy .
+    :relatedTo :Line_676 .
 
 :TV_Line_677_en a owl:NamedIndividual, :TranslationVariant ;
     :text "One must defend the order of things in society,"^^xsd:string ;
@@ -201,8 +179,7 @@
 
 :TV_Line_678_en a owl:NamedIndividual, :TranslationVariant ;
     :text "And so we can’t let ourselves be seduced by women."^^xsd:string ;
-    :relatedTo :Line_678 ;
-    :hasMotivation :Motivation_MaintainPatriarchalDominance .
+    :relatedTo :Line_678 .
 
 :TV_Line_679_en a owl:NamedIndividual, :TranslationVariant ;
     :text "It’s a better legacy to be deposed, if it must be so,"^^xsd:string ;
@@ -210,6 +187,4 @@
 
 :TV_Line_680_en a owl:NamedIndividual, :TranslationVariant ;
     :text "By a man than to be rightly called weaker than women."^^xsd:string ;
-    :relatedTo :Line_680 ;
-    :hasTheme :Theme_Patriarchy ;
-    :hasConflict :Conflict_MaleAuthorityVsFemaleDefiance .
+    :relatedTo :Line_680 .

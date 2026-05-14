@@ -9,6 +9,7 @@
     :lineNumber 1115 ;
     :canonicalReference "Stasimon5.1115"^^xsd:string ;
     :text "πολυώνυμε, Καδμείας νύμφας ἄγαλμα"^^xsd:string ;
+    :hasIntertextualReference :Myth_Semele ;
     :referencesMyth :MythologicalBackground_Semele ;
     :hasTheme :Theme_DivineIntervention .
 
@@ -41,7 +42,8 @@
     a owl:NamedIndividual, :Line ;
     :lineNumber 1120 ;
     :canonicalReference "Stasimon5.1120"^^xsd:string ;
-    :text "Δῃοῦς ἐν κόλποις, Βακχεῦ Βακχᾶν"^^xsd:string .
+    :text "Δῃοῦς ἐν κόλποις, Βακχεῦ Βακχᾶν"^^xsd:string ;
+    :referencesMyth :Antigone_Character_Dionysus .
 
 :Line_1121
     a owl:NamedIndividual, :Line ;
@@ -80,7 +82,8 @@
     a owl:NamedIndividual, :Line ;
     :lineNumber 1128 ;
     :canonicalReference "Stasimon5.1128"^^xsd:string ;
-    :text "στείχουσι νύμφαι Βακχίδες,"^^xsd:string .
+    :text "στείχουσι νύμφαι Βακχίδες,"^^xsd:string ;
+    :hasTheme :Theme_DionysianWorship .
 
 # 1129 does not exist in the text
 
@@ -100,7 +103,8 @@
     a owl:NamedIndividual, :Line ;
     :lineNumber 1132 ;
     :canonicalReference "Stasimon5.1132"^^xsd:string ;
-    :text "κισσήρεις ὄχθαι χλωρά τʼ ἀκτὰ"^^xsd:string .
+    :text "κισσήρεις ὄχθαι χλωρά τʼ ἀκτὰ"^^xsd:string ;
+    :hasIntertextualReference :Myth_Nysa .
 
 :Line_1133
     a owl:NamedIndividual, :Line ;
@@ -134,6 +138,7 @@
     :lineNumber 1138 ;
     :canonicalReference "Stasimon5.1138"^^xsd:string ;
     :text "ματρὶ σὺν κεραυνίᾳ·"^^xsd:string ;
+    :hasIntertextualReference :Myth_Semele ;
     :referencesMyth :MythologicalBackground_Semele .
 
 :Line_1140
@@ -141,6 +146,7 @@
     :lineNumber 1140 ;
     :canonicalReference "Stasimon5.1140"^^xsd:string ;
     :text "καὶ νῦν, ὡς βιαίας ἔχεται"^^xsd:string ;
+    :hasTheme :Theme_CivicPollution ;
     :hasConflict :Conflict_ThebesVsPlague .
 
 :Line_1141
@@ -200,6 +206,7 @@ a owl:NamedIndividual, :Line ;
     :lineNumber 1151 ;
     :canonicalReference "Stasimon5.1151"^^xsd:string ;
     :text "Θυίαισιν, αἵ σε μαινόμεναι"^^xsd:string ;
+    :hasTheme :Theme_DionysianWorship ;
     :hasTheme :Theme_DionysiacWorship .
 
 :Line_1152

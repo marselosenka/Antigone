@@ -39,7 +39,7 @@
              :Speech_Creon_322,
              :Speech_Guard_323,
              :Speech_Creon_324_326,
-             :Speech_Guard_327_330 ;
+             :Speech_Guard_327_331 ;
   :developsTheme :Theme_AuthorityAndLaw,
                  :Theme_BurialEdict,
                  :Theme_FearAndResponsibility,
@@ -57,6 +57,7 @@
   a :Character ;
   rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 
+# Need to add all lines , themes etc
 :Speech_Chorus_211_214 a :Speech ; :speechBy :Antigone_Character_Chorus .
 :Speech_Creon_215 a :Speech ; :speechBy :Antigone_Character_Creon .
 :Speech_Chorus_216 a :Speech ; :speechBy :Antigone_Character_Chorus .
@@ -73,8 +74,8 @@
 :Speech_Creon_244 a :Speech ; :speechBy :Antigone_Character_Creon .
 :Speech_Guard_245_247 a :Speech ; :speechBy :Antigone_Character_Guard .
 :Speech_Creon_248 a :Speech ; :speechBy :Antigone_Character_Creon .
-:Speech_Guard_249_252 a :Speech ; :speechBy :Antigone_Character_Guard .
-:Speech_Guard_253_277 a :Speech ; :speechBy :Antigone_Character_Guard .
+:Speech_Guard_249_252 a :Speech ; :speechBy :Antigone_Character_Guard . # Merge 
+:Speech_Guard_253_277 a :Speech ; :speechBy :Antigone_Character_Guard . # Merge
 :Speech_Chorus_278_279 a :Speech ; :speechBy :Antigone_Character_Chorus .
 :Speech_Creon_280_301 a :Speech ; :speechBy :Antigone_Character_Creon .
 :Speech_Creon_302_314 a :Speech ; :speechBy :Antigone_Character_Creon .
@@ -88,7 +89,7 @@
 :Speech_Creon_322 a :Speech ; :speechBy :Antigone_Character_Creon .
 :Speech_Guard_323 a :Speech ; :speechBy :Antigone_Character_Guard .
 :Speech_Creon_324_326 a :Speech ; :speechBy :Antigone_Character_Creon .
-:Speech_Guard_327_330 a :Speech ; :speechBy :Antigone_Character_Guard .
+:Speech_Guard_327_331 a :Speech ; :speechBy :Antigone_Character_Guard .
 
 :Theme_AuthorityAndLaw a :Theme ;
   :description "Creon asserts political authority through strict civic law."^^xsd:string .

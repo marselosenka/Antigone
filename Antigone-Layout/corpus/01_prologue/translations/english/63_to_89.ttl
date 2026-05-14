@@ -8,182 +8,108 @@
 
 :TV_Line_063_en a :TranslationVariant ;
 :text "Then too, since we are ruled by those stronger than we are,"^^xsd:string ;
-:relatedTo :Line_063 ;
-:hasTheme :Theme_ObedienceToAuthority .
+:relatedTo :Line_063 .
 
 :TV_Line_064_en a :TranslationVariant ;
 :text "We must obey these orders—and even harsher ones."^^xsd:string ;
-:relatedTo :Line_064 ;
-:hasTheme :Theme_ObedienceToAuthority ;
-:experiencesEmotion :Emotion_Resignation .
+:relatedTo :Line_064 .
 
 :TV_Line_065_en a :TranslationVariant ;
 :text "So I, begging those below the earth"^^xsd:string ;
-:relatedTo :Line_065 ;
-:hasTheme :Theme_DivineLaw ;
-:experiencesEmotion :Emotion_Resignation ;
-:relatedTo :Motivation_ObeyAuthorities .
+:relatedTo :Line_065 .
 
 :TV_Line_066_en a :TranslationVariant ;
 :text "To grant forgiveness, since I am being forced in this,"^^xsd:string ;
-:relatedTo :Line_066 ;
-:hasTheme :Theme_ObedienceToAuthority ;
-:experiencesEmotion :Emotion_Resignation ;
-:relatedTo :Motivation_AvoidForcedAction .
+:relatedTo :Line_066 .
 
 :TV_Line_067_en a :TranslationVariant ;
 :text "Will obey those who stand in power; for"^^xsd:string ;
-:relatedTo :Line_067 ;
-:hasTheme :Theme_ObedienceToAuthority ;
-:makesMoralDecision :MoralDecision_SubmitToRulers ;
-:relatedTo :Law_CivicBurialBan .
+:relatedTo :Line_067 .
 
 :TV_Line_068_en a :TranslationVariant ;
 :text "To do too much makes no sense at all."^^xsd:string ;
-:relatedTo :Line_068 ;
-:hasTheme :Theme_ObedienceToAuthority ;
-:hasTheme :Theme_PrudenceAndModeration .
+:relatedTo :Line_068 .
 
 :TV_Line_069_en a :TranslationVariant ;
 :text "I would not urge you, nor—even if you still wished"^^xsd:string ;
-:relatedTo :Line_069 ;
-:hasTheme :Theme_SisterlyDivision ;
-:hasConflict :Conflict_SisterlyDivision .
+:relatedTo :Line_069 .
 
 :TV_Line_070_en a :TranslationVariant ;
 :text "To act—would you do it gladly with my approval."^^xsd:string ;
-:relatedTo :Line_070 ;
-:hasTheme :Theme_SisterlyDivision ;
-:hasConflict :Conflict_SisterlyDivision .
+:relatedTo :Line_070 .
 
 :TV_Line_071_en a :TranslationVariant ;
 :text "Be as you wish; I will bury him."^^xsd:string ;
-:relatedTo :Line_071 ;
-:hasTheme :Theme_BurialDuty ;
-:experiencesEmotion :Emotion_Resolve ;
-:hasMotivation :Motivation_BuryBrotherDespiteRisk .
+:relatedTo :Line_071 .
 
 :TV_Line_072_en a :TranslationVariant ;
 :text "It is noble for me to die doing this."^^xsd:string ;
-:relatedTo :Line_072 ;
-:hasTheme :Theme_BurialDuty ;
-:hasTheme :Theme_DeathAsHonor ;
-:makesMoralDecision :MoralDecision_BuryBrotherAndAcceptDeath ;
-:experiencesEmotion :Emotion_DefiantCourage .
+:relatedTo :Line_072 .
 
 :TV_Line_073_en a :TranslationVariant ;
 :text "I shall lie with him, loved by the one I loved,"^^xsd:string ;
-:relatedTo :Line_073 ;
-:hasTheme :Theme_LoyaltyToDead ;
-:experiencesEmotion :Emotion_ReverentDuty .
+:relatedTo :Line_073 .
 
 :TV_Line_074_en a :TranslationVariant ;
 :text "Holy in my crime; for longer"^^xsd:string ;
-:relatedTo :Line_074 ;
-:hasTheme :Theme_DivineLaw ;
-:advocatesFor :EthicalPrinciple_DivineHonorForDead ;
-:experiencesEmotion :Emotion_ReverentDuty .
+:relatedTo :Line_074 .
 
 :TV_Line_075_en a :TranslationVariant ;
 :text "Must I please those below than those here above."^^xsd:string ;
-:relatedTo :Line_075 ;
-:hasTheme :Theme_LoyaltyToDead ;
-:hasMotivation :Motivation_PleaseUnderworld .
+:relatedTo :Line_075 .
 
 :TV_Line_076_en a :TranslationVariant ;
 :text "For there I shall lie forever. But if you wish,"^^xsd:string ;
-:relatedTo :Line_076 ;
-:hasTheme :Theme_LoyaltyToDead ;
-:experiencesEmotion :Emotion_Resolve .
+:relatedTo :Line_076 .
 
 :TV_Line_077_en a :TranslationVariant ;
 :text "Go on dishonoring what the gods honor."^^xsd:string ;
-:relatedTo :Line_077 ;
-:hasTheme :Theme_DivineLaw ;
-:hasConflict :Conflict_DivineLawVsCivicAuthority ;
-:advocatesFor :EthicalPrinciple_DivineHonorForDead .
+:relatedTo :Line_077 .
 
 :TV_Line_078_en a :TranslationVariant ;
 :text "I am not dishonoring them, but"^^xsd:string ;
-:relatedTo :Line_078 ;
-:hasTheme :Theme_DivineLaw ;
-:experiencesEmotion :Emotion_Resignation .
+:relatedTo :Line_078 .
 
 :TV_Line_079_en a :TranslationVariant ;
 :text "I am powerless to act by force against the citizens."^^xsd:string ;
-:relatedTo :Line_079 ;
-:hasTheme :Theme_ObedienceToAuthority ;
-:hasMotivation :Motivation_AvoidForcedAction ;
-:experiencesEmotion :Emotion_Resignation ;
-:relatedTo :Law_CivicBurialBan .
+:relatedTo :Line_079 .
 
 :TV_Line_080_en a :TranslationVariant ;
 :text "You may make that your excuse; but I"^^xsd:string ;
-:relatedTo :Line_080 ;
-:hasTheme :Theme_BurialDuty ;
-:hasConflict :Conflict_SisterlyDivision ;
-:experiencesEmotion :Emotion_Resolve .
+:relatedTo :Line_080 .
 
 :TV_Line_081_en a :TranslationVariant ;
 :text "Will go to heap a grave over my dearest brother."^^xsd:string ;
-:relatedTo :Line_081 ;
-:hasTheme :Theme_BurialDuty ;
-:hasMotivation :Motivation_BuryBrotherDespiteRisk ;
-:makesMoralDecision :MoralDecision_BuryBrotherAndAcceptDeath ;
-:experiencesEmotion :Emotion_Resolve .
+:relatedTo :Line_081 .
 
 :TV_Line_082_en a :TranslationVariant ;
 :text "Ah, unhappy girl, how deeply I fear for you."^^xsd:string ;
-:relatedTo :Line_082 ;
-:experiencesEmotion :Emotion_FearForAntigone ;
-:hasTheme :Theme_SisterlyCare .
+:relatedTo :Line_082 .
 
 :TV_Line_083_en a :TranslationVariant ;
 :text "Do not fear for me; set your own fate straight."^^xsd:string ;
-:relatedTo :Line_083 ;
-:hasTheme :Theme_SisterlyDivision ;
-:experiencesEmotion :Emotion_DefiantCourage .
+:relatedTo :Line_083 .
 
 :TV_Line_084_en a :TranslationVariant ;
 :text "At least tell no one of this deed,"^^xsd:string ;
-:relatedTo :Line_084 ;
-:hasTheme :Theme_SecrecyVsPublicDeclaration ;
-:hasMotivation :Motivation_KeepPlanSecret ;
-:makesMoralDecision :MoralDecision_RequestSecrecy ;
-:hasConflict :Conflict_SecrecyVsWitness .
+:relatedTo :Line_084 .
 
 :TV_Line_085_en a :TranslationVariant ;
 :text "But keep it hidden; I will do the same."^^xsd:string ;
-:relatedTo :Line_085 ;
-:hasTheme :Theme_SecrecyVsPublicDeclaration ;
-:hasMotivation :Motivation_KeepPlanSecret ;
-:hasConflict :Conflict_SecrecyVsWitness .
+:relatedTo :Line_085 .
 
 :TV_Line_086_en a :TranslationVariant ;
 :text "Ah no—proclaim it! You will be far more hated"^^xsd:string ;
-:relatedTo :Line_086 ;
-:hasTheme :Theme_SecrecyVsPublicDeclaration ;
-:experiencesEmotion :Emotion_ContemptForSilence ;
-:hasMotivation :Motivation_PublicWitnessForJustice ;
-:hasConflict :Conflict_SecrecyVsWitness .
+:relatedTo :Line_086 .
 
 :TV_Line_087_en a :TranslationVariant ;
 :text "If you keep silent, unless you announce this to all."^^xsd:string ;
-:relatedTo :Line_087 ;
-:hasTheme :Theme_SecrecyVsPublicDeclaration ;
-:hasMotivation :Motivation_PublicWitnessForJustice ;
-:hasConflict :Conflict_SecrecyVsWitness .
+:relatedTo :Line_087 .
 
 :TV_Line_088_en a :TranslationVariant ;
 :text "You have a warm heart for cold deeds."^^xsd:string ;
-:relatedTo :Line_088 ;
-:hasTheme :Theme_SisterlyCare ;
-:experiencesEmotion :Emotion_WarmHeartedConcern .
+:relatedTo :Line_088 .
 
 :TV_Line_089_en a :TranslationVariant ;
 :text "But I know I am pleasing those whom I must please most."^^xsd:string ;
-:relatedTo :Line_089 ;
-:hasTheme :Theme_LoyaltyToDead ;
-:hasTheme :Theme_DivineLaw ;
-:hasMotivation :Motivation_PleaseUnderworld ;
-:experiencesEmotion :Emotion_ReverentDuty .
+:relatedTo :Line_089 .

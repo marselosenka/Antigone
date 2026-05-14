@@ -21,8 +21,7 @@
 
 :TV_Line_1067_en a :TranslationVariant ;
     :text "One corpse in exchange for corpses,"^^xsd:string ;
-    :relatedTo :Line_1067 ;
-    :hasTheme :Theme_DivineRetribution .
+    :relatedTo :Line_1067 .
 
 :TV_Line_1068_en a :TranslationVariant ;
     :text "Because you have thrust one of those above down below,"^^xsd:string ;
@@ -30,8 +29,7 @@
 
 :TV_Line_1069_en a :TranslationVariant ;
     :text "And dishonorably lodged a living soul in a grave,"^^xsd:string ;
-    :relatedTo :Line_1069 ;
-    :hasConflict :Conflict_UpperLowerWorlds .
+    :relatedTo :Line_1069 .
 
 :TV_Line_1070_en a :TranslationVariant ;
     :text "And because you keep here, in turn, from the gods below"^^xsd:string ;
@@ -55,8 +53,7 @@
 
 :TV_Line_1075_en a :TranslationVariant ;
     :text "The Furies of Hades and of the gods lie in wait for you,"^^xsd:string ;
-    :relatedTo :Line_1075 ;
-    :referencesMyth :Antigone_Character_Furies .
+    :relatedTo :Line_1075 .
 
 :TV_Line_1076_en a :TranslationVariant ;
     :text "So that you may be caught in these very same evils."^^xsd:string ;
@@ -76,8 +73,7 @@
 
 :TV_Line_1080_en a :TranslationVariant ;
     :text "And all the cities are stirred to hatred,"^^xsd:string ;
-    :relatedTo :Line_1080 ;
-    :hasTheme :Theme_CivicPollution .
+    :relatedTo :Line_1080 .
 
 :TV_Line_1081_en a :TranslationVariant ;
     :text "Whose mangled remains the dogs have purified,"^^xsd:string ;
@@ -93,8 +89,7 @@
 
 :TV_Line_1084_en a :TranslationVariant ;
     :text "Such are the arrows I have loosed at you—for you provoke me, like an archer—"^^xsd:string ;
-    :relatedTo :Line_1084 ;
-    :containsRhetoricalDevice :Device_Metaphor_Arrows .
+    :relatedTo :Line_1084 .
 
 :TV_Line_1085_en a :TranslationVariant ;
     :text "Missiles from my heart in anger,"^^xsd:string ;
@@ -134,13 +129,11 @@
 
 :TV_Line_1094_en a :TranslationVariant ;
     :text "That he has never yet spoken falsehood to this city."^^xsd:string ;
-    :relatedTo :Line_1094 ;
-    :advocatesFor :Principle_PropheticTruth .
+    :relatedTo :Line_1094 .
 
 :TV_Line_1095_en a :TranslationVariant ;
     :text "I know it—and it fills me with fear."^^xsd:string ;
-    :relatedTo :Line_1095 ;
-    :experiencesEmotion :Emotion_TerrifiedHesitation .
+    :relatedTo :Line_1095 .
 
 :TV_Line_1096_en a :TranslationVariant ;
     :text "It is terrible to yield, but more terrible still"^^xsd:string ;
@@ -148,8 +141,7 @@
 
 :TV_Line_1097_en a :TranslationVariant ;
     :text "To resist and strike my soul against disaster."^^xsd:string ;
-    :relatedTo :Line_1097 ;
-    :hasConflict :Conflict_InternalCreon .
+    :relatedTo :Line_1097 .
 
 :TV_Line_1098_en a :TranslationVariant ;
     :text "What then do you command? Speak. I will obey."^^xsd:string ;
@@ -185,8 +177,7 @@
 
 :TV_Line_1106_en a :TranslationVariant ;
     :text "My resolve; I must not fight necessity."^^xsd:string ;
-    :relatedTo :Line_1106 ;
-    :makesMoralDecision :Decision_RevokeEdict .
+    :relatedTo :Line_1106 .
 
 :TV_Line_1107_en a :TranslationVariant ;
     :text "Go then, and do these things at once."^^xsd:string ;
@@ -219,5 +210,4 @@
 
 :TV_Line_1114_en a :TranslationVariant ;
     :text "To keep the established laws to the end of life."^^xsd:string ;
-    :relatedTo :Line_1114 ;
-    :advocatesFor :Ethical_TraditionalLaws .
+    :relatedTo :Line_1114 .

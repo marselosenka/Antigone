@@ -1,0 +1,117 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon03-semantics a owl:Ontology .
+
+:Antigone_Character_Antigone a :Character,
+        owl:NamedIndividual ;
+    :relatedTo :CreonDecision_EntombAntigoneAlive .
+
+:Antigone_Scene_ThirdStasimon_773_805 a :Scene,
+        owl:NamedIndividual ;
+    :developsTheme :Theme_DeathAndHadesReverence,
+        :Theme_ErosOverpowersReasonAndLaw ;
+    :hasConflict :Conflict_ErosVsJustice ;
+    :hasSpeech :Speech_Chorus_781_805,
+        :Speech_Creon_773_780 ;
+    :sceneNumber "Stasimon 3"^^xsd:string .
+
+:Chorus_Character_Chorus a :Character,
+        owl:NamedIndividual ;
+    :experiencesEmotion :ChorusEmotion_AweAtErosPower,
+        :ChorusEmotion_TearsAndPityForAntigone .
+
+:ChorusEmotion_AweAtErosPower a :Emotion,
+        owl:NamedIndividual ;
+    :description "Awe at Eros as an invincible power that drives all to madness."^^xsd:string .
+
+:ChorusEmotion_TearsAndPityForAntigone a :Emotion,
+        owl:NamedIndividual ;
+    :description "Tears and pity at the sight of Antigone going to the all-shared bridal chamber (death)."^^xsd:string .
+
+:Conflict_ErosVsJustice a :Conflict,
+        owl:NamedIndividual ;
+    :conflictBetween :EthicalPrinciple_ErosDesire,
+        :EthicalPrinciple_Justice ;
+    :description "Eros overthrows just minds, turning the just toward injustice and stirring kin-strife."^^xsd:string .
+
+:Creon_Character_Creon a :Character,
+        owl:NamedIndividual ;
+    :advocatesFor :EthicalPrinciple_AvoidMiasma,
+        :EthicalPrinciple_CivicPurity ;
+    :hasMotivation :CreonMotivation_AvoidMiasmaForCity ;
+    :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
+
+:CreonDecision_EntombAntigoneAlive a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "Creon decides to hide Antigone alive in a rocky underground chamber with minimal food."^^xsd:string ;
+    :relatedTo :CreonMotivation_AvoidMiasmaForCity .
+
+:CreonMotivation_AvoidMiasmaForCity a :Motivation,
+        owl:NamedIndividual ;
+    :description "To ensure the city escapes pollution by shifting responsibility to Hades and isolating the condemned."^^xsd:string .
+
+:EthicalPrinciple_AvoidMiasma a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Avoidance of ritual pollution (μίασμα) as a public danger."^^xsd:string .
+
+:EthicalPrinciple_CivicPurity a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Protection of the polis from pollution; prioritizing civic well-being."^^xsd:string .
+
+:EthicalPrinciple_ErosDesire a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Eros/desire as a compelling force that bends minds and actions."^^xsd:string .
+
+:EthicalPrinciple_Justice a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Commitment to what is just (δίκαια) in judgment and action."^^xsd:string .
+
+:Speech_Chorus_781_805 a :ChoralSong,
+        :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_781,
+        :Line_782,
+        :Line_783,
+        :Line_784,
+        :Line_785,
+        :Line_786,
+        :Line_787,
+        :Line_788,
+        :Line_789,
+        :Line_790,
+        :Line_791,
+        :Line_792,
+        :Line_793,
+        :Line_794,
+        :Line_795,
+        :Line_796,
+        :Line_797,
+        :Line_798,
+        :Line_799,
+        :Line_800,
+        :Line_801,
+        :Line_802,
+        :Line_803,
+        :Line_804,
+        :Line_805 ;
+    :hasTheme :Theme_ErosOverpowersReasonAndLaw,
+        :Theme_TearsAndPityAtBridalChamberOfDeath ;
+    :speechBy :Chorus_Character_Chorus .
+
+:Theme_CivicPurityAndMiasma a :Theme,
+        owl:NamedIndividual ;
+    :description "Civic anxiety about ritual pollution and the attempt to protect the polis from miasma."^^xsd:string .
+
+:Theme_DeathAndHadesReverence a :Theme,
+        owl:NamedIndividual ;
+    :description "The logic of death: appeal to Hades and the futility or cost of revering the underworld."^^xsd:string .
+
+:Theme_ErosOverpowersReasonAndLaw a :Theme,
+        owl:NamedIndividual ;
+    :description "Eros as an irresistible force that subverts reason, justice, and social order."^^xsd:string .
+
+:Theme_TearsAndPityAtBridalChamberOfDeath a :Theme,
+        owl:NamedIndividual ;
+    :description "Pathos: tears at Antigone's approach to the 'bridal chamber' of death."^^xsd:string .

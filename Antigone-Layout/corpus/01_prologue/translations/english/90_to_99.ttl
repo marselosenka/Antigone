@@ -8,67 +8,40 @@
 
 :TV_Line_090_en a :TranslationVariant ;
     :text "You may perhaps succeed—but you are in love with the impossible."^^xsd:string ;
-    :relatedTo :Line_090 ;
-    :hasTheme :Theme_ImpossibleAction ;
-    :hasMotivation :Motivation_IsmeneDiscourageImpossible ;
-    :experiencesEmotion :Emotion_IsmeneConcern ;
-    :hasConflict :Conflict_PrudenceVsHonor .
+    :relatedTo :Line_090 .
 
 :TV_Line_091_en a :TranslationVariant ;
 :text "Then when I no longer have the strength, I will stop."^^xsd:string ;
-:relatedTo :Line_091 ;
-:hasTheme :Theme_NobleDeath ;
-:hasMotivation :Motivation_AntigonePersistUntilNoStrength ;
-:experiencesEmotion :Emotion_AntigoneResolve .
+:relatedTo :Line_091 .
 
 :TV_Line_092_en a :TranslationVariant ;
 :text "But one should not begin by hunting the impossible."^^xsd:string ;
-:relatedTo :Line_092 ;
-:hasTheme :Theme_ImpossibleAction ;
-:hasMotivation :Motivation_IsmeneDiscourageImpossible .
+:relatedTo :Line_092 .
 
 :TV_Line_093_en a :TranslationVariant ;
 :text "If you say that, you will earn my hatred"^^xsd:string ;
-:relatedTo :Line_093 ;
-:hasTheme :Theme_SisterlyConflict ;
-:experiencesEmotion :Emotion_AntigoneDefiance .
+:relatedTo :Line_093 .
 
 :TV_Line_094_en a :TranslationVariant ;
 :text "And you will rightly stand hateful to the dead man."^^xsd:string ;
-:relatedTo :Line_094 ;
-:hasTheme :Theme_HonorDead ;
-:advocatesFor :EthicalPrinciple_HonorDead ;
-:hasConflict :Conflict_PrudenceVsHonor .
+:relatedTo :Line_094 .
 
 :TV_Line_095_en a :TranslationVariant ;
 :text "But leave me, and my own misguided judgment,"^^xsd:string ;
-:relatedTo :Line_095 ;
-:hasTheme :Theme_NobleDeath ;
-:hasMotivation :Motivation_AntigoneAcceptConsequences ;
-:experiencesEmotion :Emotion_AntigoneResolve .
+:relatedTo :Line_095 .
 
 :TV_Line_096_en a :TranslationVariant ;
 :text "To suffer this terrible thing; for I shall suffer nothing"^^xsd:string ;
-:relatedTo :Line_096 ;
-:hasTheme :Theme_NobleDeath ;
-:hasMotivation :Motivation_AntigoneAcceptConsequences ;
-:hasConflict :Conflict_LoyaltyToDeadVsFear .
+:relatedTo :Line_096 .
 
 :TV_Line_097_en a :TranslationVariant ;
 :text "So terrible as not to die nobly."^^xsd:string ;
-:relatedTo :Line_097 ;
-:hasTheme :Theme_NobleDeath ;
-:makesMoralDecision :MoralDecision_DieNoblyForHonor ;
-:experiencesEmotion :Emotion_AntigoneResolve .
+:relatedTo :Line_097 .
 
 :TV_Line_098_en a :TranslationVariant ;
 :text "Well then, if it seems best to you, go—but know this:"^^xsd:string ;
-:relatedTo :Line_098 ;
-:hasTheme :Theme_SisterlyConflict ;
-:experiencesEmotion :Emotion_IsmeneConcern .
+:relatedTo :Line_098 .
 
 :TV_Line_099_en a :TranslationVariant ;
 :text "You go foolishly, yet to your loved ones you are rightly dear."^^xsd:string ;
-:relatedTo :Line_099 ;
-:hasTheme :Theme_LoyalFriendship ;
-:hasMotivation :Motivation_IsmeneReluctantConsent .
+:relatedTo :Line_099 .

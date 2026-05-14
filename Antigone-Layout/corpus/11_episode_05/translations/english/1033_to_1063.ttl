@@ -8,8 +8,7 @@
 
 :TV_Line_1033_en a :TranslationVariant ;
     :text "Old man, all of you, like archers at a target,"^^xsd:string ;
-    :relatedTo :Line_1033 ;
-    :containsRhetoricalDevice :Device_Simile_Archers .
+    :relatedTo :Line_1033 .
 
 :TV_Line_1034_en a :TranslationVariant ;
     :text "Are shooting at this man; and from prophecy too"^^xsd:string ;
@@ -21,13 +20,11 @@
 
 :TV_Line_1036_en a :TranslationVariant ;
     :text "I have long since been sold off and trafficked like cargo."^^xsd:string ;
-    :relatedTo :Line_1036 ;
-    :experiencesEmotion :Emotion_Paranoia .
+    :relatedTo :Line_1036 .
 
 :TV_Line_1037_en a :TranslationVariant ;
     :text "Make your profit then; trade in the electrum of Sardis,"^^xsd:string ;
-    :relatedTo :Line_1037 ;
-    :hasTheme :Theme_Corruption .
+    :relatedTo :Line_1037 .
 
 :TV_Line_1038_en a :TranslationVariant ;
     :text "If you wish, and in the gold of India too;"^^xsd:string ;
@@ -39,13 +36,11 @@
 
 :TV_Line_1040_en a :TranslationVariant ;
     :text "Not even if the eagles of Zeus should wish"^^xsd:string ;
-    :relatedTo :Line_1040 ;
-    :containsRhetoricalDevice :Device_Hyperbole_Eagles .
+    :relatedTo :Line_1040 .
 
 :TV_Line_1041_en a :TranslationVariant ;
     :text "To snatch him up and carry him as food to Zeus’ throne,"^^xsd:string ;
-    :relatedTo :Line_1041 ;
-    :hasTheme :Theme_Hybris .
+    :relatedTo :Line_1041 .
 
 :TV_Line_1042_en a :TranslationVariant ;
     :text "Not even then would I, in fear of that pollution,"^^xsd:string ;
@@ -57,8 +52,7 @@
 
 :TV_Line_1044_en a :TranslationVariant ;
     :text "No human being has the power to pollute the gods."^^xsd:string ;
-    :relatedTo :Line_1044 ;
-    :advocatesFor :Principle_DivineInvulnerability .
+    :relatedTo :Line_1044 .
 
 :TV_Line_1045_en a :TranslationVariant ;
     :text "Men fall, old Teiresias, even among mortals"^^xsd:string ;
@@ -82,9 +76,7 @@
 
 :TV_Line_1050_en a :TranslationVariant ;
     :text "How much the best of possessions is good judgment?"^^xsd:string ;
-    :relatedTo :Line_1050 ;
-    :hasTheme :Theme_WisdomVsFolly ;
-    :advocatesFor :Principle_PrimacyOfReason .
+    :relatedTo :Line_1050 .
 
 :TV_Line_1051_en a :TranslationVariant ;
     :text "By just so much, I think, lack of judgment is the greatest harm."^^xsd:string ;
@@ -109,13 +101,11 @@
 
 :TV_Line_1056_en a :TranslationVariant ;
     :text "And the race of tyrants loves shameful gain."^^xsd:string ;
-    :relatedTo :Line_1056 ;
-    :hasTheme :Theme_StateVsProphecy .
+    :relatedTo :Line_1056 .
 
 :TV_Line_1057_en a :TranslationVariant ;
     :text "Do you know that in saying this you speak to your ruler?"^^xsd:string ;
-    :relatedTo :Line_1057 ;
-    :hasMotivation :Motivation_AssertAuthority .
+    :relatedTo :Line_1057 .
 
 :TV_Line_1058_en a :TranslationVariant ;
     :text "I know it; for through me you have this city preserved."^^xsd:string ;
@@ -127,8 +117,7 @@
 
 :TV_Line_1060_en a :TranslationVariant ;
     :text "You will drive me to speak the fixed things in my mind."^^xsd:string ;
-    :relatedTo :Line_1060 ;
-    :hasMotivation :Motivation_RevealTruth .
+    :relatedTo :Line_1060 .
 
 :TV_Line_1061_en a :TranslationVariant ;
     :text "Speak then, only do not speak for profit."^^xsd:string ;
@@ -140,5 +129,4 @@
 
 :TV_Line_1063_en a :TranslationVariant ;
     :text "Know this: you will not bargain away my judgment."^^xsd:string ;
-    :relatedTo :Line_1063 ;
-    :hasConflict :Conflict_ProfitVsTruth .
+    :relatedTo :Line_1063 .

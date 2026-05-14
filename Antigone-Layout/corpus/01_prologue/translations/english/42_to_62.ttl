@@ -8,144 +8,84 @@
 
 :TV_Line_042_en a :TranslationVariant ;
 :text "What danger is this? What are you thinking?"^^xsd:string ;
-:relatedTo :Line_042 ;
-:experiencesEmotion :Emotion_Alarm ;
-:hasTheme :Theme_SurvivalPrudence .
+:relatedTo :Line_042 .
 
 :TV_Line_043_en a :TranslationVariant ;
 :text "Will you help this hand lift the corpse?"^^xsd:string ;
-:relatedTo :Line_043 ;
-:hasTheme :Theme_BurialRites ;
-:hasMotivation :Motivation_BuryBrother .
+:relatedTo :Line_043 .
 
 :TV_Line_044_en a :TranslationVariant ;
 :text "Do you really mean to bury him, though the city forbids it?"^^xsd:string ;
-:relatedTo :Line_044 ;
-:hasTheme :Theme_BurialRites ;
-:hasTheme :Theme_TyrannicalLaw ;
-:hasConflict :Conflict_BurialRitesVsCreonEdict ;
-:relatedTo :Law_CreonBurialEdict .
+:relatedTo :Line_044 .
 
 :TV_Line_045_en a :TranslationVariant ;
 :text "At least my brother—and yours too, if you will not—"^^xsd:string ;
-:relatedTo :Line_045 ;
-:hasTheme :Theme_BurialRites ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Resolve ;
-:hasMotivation :Motivation_RefuseBetrayal .
+:relatedTo :Line_045 .
 
 :TV_Line_046_en a :TranslationVariant ;
 :text "I will not be caught betraying my brother."^^xsd:string ;
-:relatedTo :Line_046 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Resolve ;
-:hasMotivation :Motivation_RefuseBetrayal .
+:relatedTo :Line_046 .
 
 :TV_Line_047_en a :TranslationVariant ;
 :text "You reckless girl! When Creon has forbidden it?"^^xsd:string ;
-:relatedTo :Line_047 ;
-:hasTheme :Theme_TyrannicalLaw ;
-:experiencesEmotion :Emotion_Alarm ;
-:relatedTo :Law_CreonBurialEdict ;
-:hasConflict :Conflict_BurialRitesVsCreonEdict .
+:relatedTo :Line_047 .
 
 :TV_Line_048_en a :TranslationVariant ;
 :text "He has no right to keep me from my own."^^xsd:string ;
-:relatedTo :Line_048 ;
-:experiencesEmotion :Emotion_Defiance ;
-:hasTheme :Theme_BurialRites ;
-:hasConflict :Conflict_BurialRitesVsCreonEdict ;
-:relatedTo :Law_CreonBurialEdict ;
-:makesMoralDecision :MoralDecision_DefyEdictForBurial .
+:relatedTo :Line_048 .
 
 :TV_Line_049_en a :TranslationVariant ;
 :text "Ah me—remember, sister,"^^xsd:string ;
-:relatedTo :Line_049 ;
-:experiencesEmotion :Emotion_Grief ;
-:hasTheme :Theme_SurvivalPrudence ;
-:hasMotivation :Motivation_ProtectSister .
+:relatedTo :Line_049 .
 
 :TV_Line_050_en a :TranslationVariant ;
 :text "How our father died, hated and in disgrace."^^xsd:string ;
-:relatedTo :Line_050 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief ;
-:relatedTo :Antigone_Character_Oedipus .
+:relatedTo :Line_050 .
 
 :TV_Line_051_en a :TranslationVariant ;
 :text "When he discovered the sins of his past,"^^xsd:string ;
-:relatedTo :Line_051 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_051 .
 
 :TV_Line_052_en a :TranslationVariant ;
 :text "He struck out his eyes with his own hand."^^xsd:string ;
-:relatedTo :Line_052 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_052 .
 
 :TV_Line_053_en a :TranslationVariant ;
 :text "Then his mother—and wife, a double name—"^^xsd:string ;
-:relatedTo :Line_053 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_053 .
 
 :TV_Line_054_en a :TranslationVariant ;
 :text "Destroyed her life with a woven noose."^^xsd:string ;
-:relatedTo :Line_054 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_054 .
 
 :TV_Line_055_en a :TranslationVariant ;
 :text "And third, our two brothers on a single day"^^xsd:string ;
-:relatedTo :Line_055 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_055 .
 
 :TV_Line_056_en a :TranslationVariant ;
 :text "Brought about their miserable fate,"^^xsd:string ;
-:relatedTo :Line_056 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_056 .
 
 :TV_Line_057_en a :TranslationVariant ;
 :text "Working out their common death by each other’s hands."^^xsd:string ;
-:relatedTo :Line_057 ;
-:hasTheme :Theme_FamilyCurse ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_057 .
 
 :TV_Line_058_en a :TranslationVariant ;
 :text "And now we two are left alone—consider well"^^xsd:string ;
-:relatedTo :Line_058 ;
-:hasTheme :Theme_SurvivalPrudence ;
-:experiencesEmotion :Emotion_Fear .
+:relatedTo :Line_058 .
 
 :TV_Line_059_en a :TranslationVariant ;
 :text "How terribly we shall perish if by force of law"^^xsd:string ;
-:relatedTo :Line_059 ;
-:hasTheme :Theme_TyrannicalLaw ;
-:hasTheme :Theme_SurvivalPrudence ;
-:experiencesEmotion :Emotion_Fear ;
-:relatedTo :Law_CreonBurialEdict .
+:relatedTo :Line_059 .
 
 :TV_Line_060_en a :TranslationVariant ;
 :text "We break the tyrant’s decree or his authority."^^xsd:string ;
-:relatedTo :Line_060 ;
-:hasTheme :Theme_TyrannicalLaw ;
-:experiencesEmotion :Emotion_Fear ;
-:hasMotivation :Motivation_AvoidDefyingTyrant ;
-:relatedTo :Law_CreonBurialEdict .
+:relatedTo :Line_060 .
 
 :TV_Line_061_en a :TranslationVariant ;
 :text "We must remember first that we are women,"^^xsd:string ;
-:relatedTo :Line_061 ;
-:hasTheme :Theme_GenderConstraint ;
-:hasConflict :Conflict_GenderVsAuthority ;
-:makesMoralDecision :MoralDecision_UrgePrudence .
+:relatedTo :Line_061 .
 
 :TV_Line_062_en a :TranslationVariant ;
 :text "Not made to fight against men."^^xsd:string ;
-:relatedTo :Line_062 ;
-:hasTheme :Theme_GenderConstraint ;
-:hasConflict :Conflict_GenderVsAuthority ;
-:experiencesEmotion :Emotion_Fear .
+:relatedTo :Line_062 .

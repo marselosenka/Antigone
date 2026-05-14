@@ -52,6 +52,159 @@
     :hasTheme :Theme_WisdomThroughSuffering, :Theme_InevitabilityOfFate, :Theme_AnnihilationOfSelf ;
     :containsLine :Line_1306, :Line_1314, :Line_1320, :Line_1325, :Line_1334, :Line_1347, :Line_1350, :Line_1353 .
 
+# Manual Speeches
+
+:Speech_Eurydice_1183_1191_Detail
+    a :Speech ;
+    :speechBy :Antigone_Character_Eurydice ;
+    :containsLine :Line_1183, :Line_1184, :Line_1185, :Line_1186, :Line_1187, :Line_1188, :Line_1189, :Line_1190, :Line_1191 .
+
+:Speech_Messenger_1192_1218_Detail
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1192, :Line_1193, :Line_1194, :Line_1195, :Line_1196, :Line_1197, :Line_1198, :Line_1199, :Line_1200, :Line_1201, :Line_1202, :Line_1203, :Line_1204, :Line_1205, :Line_1206, :Line_1207, :Line_1208, :Line_1209, :Line_1210, :Line_1211, :Line_1212, :Line_1213, :Line_1214, :Line_1215, :Line_1216, :Line_1217, :Line_1218 .
+
+:Speech_Messenger_1219_1243_Detail
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1219, :Line_1220, :Line_1221, :Line_1222, :Line_1223, :Line_1224, :Line_1225, :Line_1226, :Line_1227, :Line_1228, :Line_1229, :Line_1230, :Line_1231, :Line_1232, :Line_1233, :Line_1234, :Line_1235, :Line_1236, :Line_1237, :Line_1238, :Line_1239, :Line_1240, :Line_1241, :Line_1242, :Line_1243 .
+
+:Speech_Chorus_1244_1245
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1244, :Line_1245 .
+
+:Speech_Messenger_1246_1250
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1246, :Line_1247, :Line_1248, :Line_1249, :Line_1250 .
+
+:Speech_Chorus_1251_1252
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1251, :Line_1252 .
+
+:Speech_Messenger_1253_1256
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1253, :Line_1254, :Line_1255, :Line_1256 .
+
+:Speech_Chorus_1257_1260
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1257, :Line_1258, :Line_1259, :Line_1260 .
+
+:Speech_Creon_1261_1269
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1261, :Line_1262, :Line_1263, :Line_1264, :Line_1265, :Line_1266, :Line_1267, :Line_1268, :Line_1269 .
+
+:Speech_Chorus_1270
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1270 .
+
+:Speech_Creon_1271_1276
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1271, :Line_1272, :Line_1273, :Line_1274, :Line_1275, :Line_1276 .
+
+:Speech_Messenger_1278_1280
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1278, :Line_1279, :Line_1280 .
+
+:Speech_Creon_1281
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1281 .
+
+:Speech_Messenger_1282_1283
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1282, :Line_1283 .
+
+:Speech_Creon_1284_1292
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1284, :Line_1285, :Line_1286, :Line_1287, :Line_1288, :Line_1289, :Line_1290, :Line_1291, :Line_1292 .
+
+:Speech_Chorus_1293
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1293 .
+
+:Speech_Creon_1294_1300
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1294, :Line_1295, :Line_1296, :Line_1297, :Line_1298, :Line_1300 .
+
+:Speech_Messenger_1301_1305
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1301, :Line_1302, :Line_1303, :Line_1304, :Line_1305 .
+
+:Speech_Creon_1306_1311
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1306, :Line_1307, :Line_1308, :Line_1310, :Line_1311 .
+
+:Speech_Messenger_1312_1313
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1312, :Line_1313 .
+
+:Speech_Creon_1314
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1314 .
+
+:Speech_Messenger_1315_1316
+    a :Speech ;
+    :speechBy :Antigone_Character_Messenger ;
+    :containsLine :Line_1315, :Line_1316 .
+
+:Speech_Creon_1317_1325
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1317, :Line_1318, :Line_1319, :Line_1320, :Line_1321, :Line_1325 .
+
+:Speech_Chorus_1326_1327
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1326, :Line_1327 .
+
+:Speech_Creon_1328_1332
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1328, :Line_1329, :Line_1330, :Line_1331, :Line_1332 .
+
+:Speech_Chorus_1334_1335
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1334, :Line_1335 .
+
+:Speech_Creon_1336
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1336 .
+
+:Speech_Chorus_1337_1338
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1337, :Line_1338 .
+
+:Speech_Creon_1339_1346
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_1339, :Line_1340, :Line_1341, :Line_1342, :Line_1345, :Line_1346 .
+
+:Speech_Chorus_1347_1352
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1347, :Line_1348, :Line_1350, :Line_1351, :Line_1352 .
+
+
 # ==========================
 # Characters & Roles
 # ==========================

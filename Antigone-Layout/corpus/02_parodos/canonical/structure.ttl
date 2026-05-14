@@ -7,84 +7,86 @@
 
 # --- 100 ---
 :Line_100 a :Line ;
-    :lineNumber 100 ; 
-    :canonicalReference "100"^^xsd:string ; 
+    :lineNumber 100 ;
+    :canonicalReference "100"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_DawnHope ; 
-    :hasSymbol :Symbol_SunRay ; 
+    :hasTheme :Theme_DawnHope ;
+    :hasSymbol :Symbol_SunRay ;
     :referencesMyth :Myth_Sunlight ;
     :text "Ἀκτὶς ἀελίου, τὸ κάλλιστον"^^xsd:string .
 
 # --- 101 ---
 :Line_101 a :Line ;
-    :lineNumber 101 ; 
-    :canonicalReference "101"^^xsd:string ; 
+    :lineNumber 101 ;
+    :canonicalReference "101"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_DawnHope ; 
-    :referencesMyth :Myth_ThebesSevenGates ;
+    :hasTheme :Theme_DawnHope ;
+    :hasSymbol :Symbol_SunRay ;
+    :referencesMyth :Myth_ThebesSevenGates, :Myth_Sunlight ;
     :text "ἑπταπύλῳ φανὲν"^^xsd:string .
 
 # --- 102 ---
 :Line_102 a :Line ;
-    :lineNumber 102 ; 
+    :lineNumber 102 ;
     :canonicalReference "102"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_DawnHope ; 
+    :hasTheme :Theme_DawnHope ;
     :referencesMyth :Myth_ThebesSevenGates ;
-    :text "Θήβᾳ τῶν πρότερον φάος,"^^xsd:string .
+    :text "Θήβᾳ τῶν πρότερον φάος, "^^xsd:string .
 
 # --- 103 ---
-:Line_103 a :Line ; 
-    :lineNumber 103 ; 
-    :canonicalReference "103"^^xsd:string ; 
+:Line_103 a :Line ;
+    :lineNumber 103 ;
+    :canonicalReference "103"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_DawnHope ; 
-    :referencesMyth :Myth_Sunlight ;
+    :hasTheme :Theme_DawnHope ;
     :hasSymbol :Symbol_SunRay ;
+    :referencesMyth :Myth_Sunlight, :Myth_ThebesSevenGates ;
     :text "ἐφάνθης ποτ ̓, ὦ χρυσέας"^^xsd:string .
 
 # --- 104 ---
-:Line_104 a :Line ; 
-    :lineNumber 104 ; 
-    :canonicalReference "104"^^xsd:string ; 
+:Line_104 a :Line ;
+    :lineNumber 104 ;
+    :canonicalReference "104"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_DawnHope ; 
-    :referencesMyth :Myth_DirceStreams ;
+    :hasTheme :Theme_DawnHope ;
+    :hasSymbol :Symbol_SunRay ;
+    :referencesMyth :Myth_DirceStreams, :Myth_Sunlight ;
     :text "ἁμέρας βλέφαρον, Διρκαίων"^^xsd:string .
 
 # --- 105 ---
-:Line_105 a :Line ; 
-    :lineNumber 105 ; 
-    :canonicalReference "105"^^xsd:string ; 
+:Line_105 a :Line ;
+    :lineNumber 105 ;
+    :canonicalReference "105"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_DawnHope ; 
+    :hasTheme :Theme_DawnHope ;
     :referencesMyth :Myth_DirceStreams ;
-    :text "ὑπὲρ ῥεέθρων μολοῦσα,"^^xsd:string .
+    :text "ὑπὲρ ῥεέθρων μολοῦσα, "^^xsd:string .
 
 # --- 106 ---
-:Line_106 a :Line ; 
-    :lineNumber 106 ; 
-    :canonicalReference "106"^^xsd:string ; 
+:Line_106 a :Line ;
+    :lineNumber 106 ;
+    :canonicalReference "106"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_WarAftermath ; 
-    :referencesMyth :Myth_ArgiveArmy ;
+    :hasTheme :Theme_WarAftermath ;
+    :referencesMyth :Myth_ArgiveArmy, :Myth_DirceStreams ;
     :text "τὸν λεύκασπιν Ἀργόθεν"^^xsd:string .
 
 # --- 107 ---
-:Line_107 a :Line ; 
-    :lineNumber 107 ; 
-    :canonicalReference "107"^^xsd:string ; 
+:Line_107 a :Line ;
+    :lineNumber 107 ;
+    :canonicalReference "107"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_WarAftermath ; 
+    :hasTheme :Theme_WarAftermath ;
     :referencesMyth :Myth_ArgiveArmy ;
     :text "φῶτα, βάντα πανσαγίᾳ"^^xsd:string .
 
 # --- 108 ---
-:Line_108 a :Line ; 
-    :lineNumber 108 ; 
-    :canonicalReference "108"^^xsd:string ; 
+:Line_108 a :Line ;
+    :lineNumber 108 ;
+    :canonicalReference "108"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_WarAftermath ; 
+    :hasTheme :Theme_WarAftermath ;
     :referencesMyth :Myth_ArgiveArmy ;
     :text "φυγάδα πρόδρομον, ὀξυτέρῳ"^^xsd:string .
 
@@ -93,286 +95,301 @@
     :lineNumber 109 ; 
     :canonicalReference "109"^^xsd:string ; 
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
+    :hasTheme :Theme_WarAftermath ;
+    :referencesMyth :Myth_ArgiveArmy ;
     :text "κινήσασα χαλινῷ."^^xsd:string .
 
 # --- 110 ---
-:Line_110 a :Line ; 
-    :lineNumber 110 ; 
-    :canonicalReference "110"^^xsd:string ; 
+:Line_110 a :Line ;
+    :lineNumber 110 ;
+    :canonicalReference "110"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_WarAftermath ; 
+    :hasTheme :Theme_WarAftermath ;
     :referencesMyth :Myth_PolyneicesAttack ;
     :text "Ὃν ἐφ ̓ ἡμετέρᾳ γῇ Πολυνείκης"^^xsd:string .
 
 # --- 111 ---
-:Line_111 a :Line ; 
-    :lineNumber 111 ; 
-    :canonicalReference "111"^^xsd:string ; 
+:Line_111 a :Line ;
+    :lineNumber 111 ;
+    :canonicalReference "111"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_WarAftermath ; 
+    :hasTheme :Theme_WarAftermath ;
     :referencesMyth :Myth_PolyneicesAttack ;
     :text "ἀρθεὶς νεικέων ἐξ ἀμφιλόγων"^^xsd:string .
 
 # --- 112 ---
-:Line_112 a :Line ; 
-    :lineNumber 112 ; 
-    :canonicalReference "112"^^xsd:string ; 
+:Line_112 a :Line ;
+    :lineNumber 112 ;
+    :canonicalReference "112"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_WarAftermath ; 
+    :hasTheme :Theme_WarAftermath ;
     :referencesMyth :Myth_PolyneicesAttack ;
     :text "[ἤγαγεν ἐχθρόν· ὁ δ ̓] ὀξέα κλάζων"^^xsd:string .
 
 # --- 113 ---
-:Line_113 a :Line ; 
-    :lineNumber 113 ; 
-    :canonicalReference "113"^^xsd:string ; 
+:Line_113 a :Line ;
+    :lineNumber 113 ;
+    :canonicalReference "113"^^xsd:string ;
     :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :hasTheme :Theme_WarAftermath ; 
+    :hasTheme :Theme_WarAftermath ;
     :referencesMyth :Myth_PolyneicesAttack ;
-    :text "αἰετὸς εἰς γῆν ὣς ὑπερέπτα,"^^xsd:string .
+    :text "αἰετὸς εἰς γῆν ὣς ὑπερέπτα, "^^xsd:string .
     
 # --- 114 ---
-:Line_114 a :Line ; 
-    :lineNumber 114 ; 
-    :canonicalReference "114"^^xsd:string ; 
+:Line_114 a :Line ;
+    :lineNumber 114 ;
+    :canonicalReference "114"^^xsd:string ;
     :text "λευκῆς χιόνος πτέρυγι στεγανός"^^xsd:string . 
 
 # --- 115 ---
-:Line_115 a :Line ; 
-    :lineNumber 115 ; 
-    :canonicalReference "115"^^xsd:string ; 
+:Line_115 a :Line ;
+    :lineNumber 115 ;
+    :canonicalReference "115"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_InvasionThreat ; 
+    :hasTheme :Theme_InvasionThreat ;
+    :hasSymbol :Symbol_EagleInvader ;
     :referencesMyth :Myth_ArgiveEagleAssault ;
     :text "πολλῶν μεθ᾽ ὅπλων"^^xsd:string .
 
 # --- 116 ---
-:Line_116 a :Line ; 
-    :lineNumber 116 ; 
-    :canonicalReference "116"^^xsd:string ; 
+:Line_116 a :Line ;
+    :lineNumber 116 ;
+    :canonicalReference "116"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_InvasionThreat ; 
+    :hasTheme :Theme_InvasionThreat ;
     :referencesMyth :Myth_ArgiveEagleAssault ;
-    :text "ξὺν θ᾽ ἱπποκόμοις κορύθεσσιν."^^xsd:string .
+    :text "ξὺν θ᾽ ἱπποκόμοις κορύθεσσιν ."^^xsd:string .
 
 # --- 117 ---
-:Line_117 a :Line ; 
-    :lineNumber 117 ; 
-    :canonicalReference "117"^^xsd:string ; 
+:Line_117 a :Line ;
+    :lineNumber 117 ;
+    :canonicalReference "117"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_InvasionThreat ; 
-    :hasSymbol :Symbol_EagleInvader ; 
+    :hasTheme :Theme_InvasionThreat ;
+    :hasSymbol :Symbol_EagleInvader ;
     :referencesMyth :Myth_ArgiveEagleAssault ;
     :text "Στὰς δ᾽ ὑπὲρ μελάθρων φονώσασιν"^^xsd:string .
 
 # --- 118 ---
-:Line_118 a :Line ; 
-    :lineNumber 118 ; 
-    :canonicalReference "118"^^xsd:string ; 
+:Line_118 a :Line ;
+    :lineNumber 118 ;
+    :canonicalReference "118"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_InvasionThreat ; 
-    :hasSymbol :Symbol_EagleInvader ; 
+    :hasTheme :Theme_InvasionThreat ;
+    :hasSymbol :Symbol_EagleInvader ;
     :referencesMyth :Myth_ArgiveEagleAssault ;
     :text "ἀμφιχανὼν κύκλῳ"^^xsd:string .
 
 # --- 119 ---
-:Line_119 a :Line ; 
-    :lineNumber 119 ; 
-    :canonicalReference "119"^^xsd:string ; 
+:Line_119 a :Line ;
+    :lineNumber 119 ;
+    :canonicalReference "119"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ThebesDefense ; 
-    :hasSymbol :Symbol_SevenSpears ; 
+    :hasTheme :Theme_ThebesDefense ;
+    :hasSymbol :Symbol_SevenSpears, :Symbol_EagleInvader ;
     :referencesMyth :Myth_SevenGates ;
     :text "λόγχαις ἑπτάπυλον στόμα"^^xsd:string .
 
 # --- 120 ---
-:Line_120 a :Line ; 
-    :lineNumber 120 ; 
-    :canonicalReference "120"^^xsd:string ; 
+:Line_120 a :Line ;
+    :lineNumber 120 ;
+    :canonicalReference "120"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ThebesDefense ; 
+    :hasTheme :Theme_ThebesDefense ;
+    :hasSymbol :Symbol_EagleInvader ;
     :referencesMyth :Myth_SevenGates ;
     :text "ἔβα, πρὶν ποθ᾽ ἁμετέρων"^^xsd:string .
 
 # --- 121 ---
-:Line_121 a :Line ; 
-    :lineNumber 121 ; 
-    :canonicalReference "121"^^xsd:string ; 
+:Line_121 a :Line ;
+    :lineNumber 121 ;
+    :canonicalReference "121"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ; 
+    :hasTheme :Theme_WarViolence ;
+    :hasSymbol :Symbol_SevenSpears ;
+    :referencesMyth :Myth_SevenGates ;
     :text "αἱμάτων γένυσιν πλησθῆναι"^^xsd:string .
 
 # --- 122 ---
-:Line_122 a :Line ; 
-    :lineNumber 122 ; 
-    :canonicalReference "122"^^xsd:string ; 
+:Line_122 a :Line ;
+    :lineNumber 122 ;
+    :canonicalReference "122"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ThebesDefense ; 
+    :hasTheme :Theme_ThebesDefense ;
     :referencesMyth :Myth_SevenGates ;
     :text "τε καὶ στεφάνωμα πύργων"^^xsd:string .
 
 # --- 123 ---
-:Line_123 a :Line ; 
-    :lineNumber 123 ; 
-    :canonicalReference "123"^^xsd:string ; 
+:Line_123 a :Line ;
+    :lineNumber 123 ;
+    :canonicalReference "123"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ; 
-    :hasSymbol :Symbol_FireBrand ; 
+    :hasTheme :Theme_WarViolence ;
+    :hasSymbol :Symbol_FireBrand ;
     :referencesMyth :Myth_HephaestusFire ;
-    :text "πευκάενθ᾽ Ἥφαιστον ἑλεῖν."^^xsd:string .
+    :text "πευκάενθ᾽ Ἥφαιστον ἑλεῖν ."^^xsd:string .
 
 # --- 124 ---
-:Line_124 a :Line ; 
-    :lineNumber 124 ; 
-    :canonicalReference "124"^^xsd:string ; 
+:Line_124 a :Line ;
+    :lineNumber 124 ;
+    :canonicalReference "124"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ; 
-    :referencesMyth :Myth_AresWarClash ;
+    :hasTheme :Theme_WarViolence ;
+    :referencesMyth :Myth_AresWarClash, :Myth_SevenGates ;
     :text "Τοῖος ἀμφὶ νῶτ᾽ ἐτάθη"^^xsd:string .
 
 # --- 125 ---
-:Line_125 a :Line ; 
-    :lineNumber 125 ; 
-    :canonicalReference "125"^^xsd:string ; 
+:Line_125 a :Line ;
+    :lineNumber 125 ;
+    :canonicalReference "125"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ; 
-    :referencesMyth :Myth_AresWarClash ;
+    :hasTheme :Theme_WarViolence ;
+    :hasSymbol :Symbol_FireBrand ;
+    :referencesMyth :Myth_AresWarClash, :Myth_HephaestusFire ;
     :text "πάταγος Ἄρεος, ἀντιπάλου"^^xsd:string .
 
 # --- 126 ---
-:Line_126 a :Line ; 
-    :lineNumber 126 ; 
-    :canonicalReference "126"^^xsd:string ; 
+:Line_126 a :Line ;
+    :lineNumber 126 ;
+    :canonicalReference "126"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ; 
-    :referencesMyth :Myth_DragonDefender ;
-    :text "δυσχείρωμα δράκοντος."^^xsd:string .
+    :hasTheme :Theme_WarViolence ;
+    :referencesMyth :Myth_DragonDefender, :Myth_AresWarClash ;
+    :text "δυσχείρωμα δράκοντος ."^^xsd:string .
 
 # --- 127 ---
-:Line_127 a :Line ; 
-    :lineNumber 127 ; 
-    :canonicalReference "127"^^xsd:string ; 
+:Line_127 a :Line ;
+    :lineNumber 127 ;
+    :canonicalReference "127"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ZeusSupremacy ; 
-    :hasConflict :Conflict_HubrisVsDivineOrder ; 
-    :referencesMyth :Myth_ZeusLightningStrike ;
+    :hasTheme :Theme_ZeusSupremacy ;
+    :referencesMyth :Myth_ZeusLightningStrike, :Myth_AresWarClash ;
+    :hasConflict :Conflict_HubrisVsDivineOrder ;
     :text "Ζεὺς γὰρ μεγάλης γλώσσης κόμπους"^^xsd:string .
 
 # --- 128 ---
-:Line_128 a :Line ; 
-    :lineNumber 128 ; 
-    :canonicalReference "128"^^xsd:string ; 
+:Line_128 a :Line ;
+    :lineNumber 128 ;
+    :canonicalReference "128"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ZeusSupremacy ; 
-    :hasConflict :Conflict_HubrisVsDivineOrder ; 
-    :referencesMyth :Myth_ZeusLightningStrike ;
+    :hasTheme :Theme_ZeusSupremacy ;
+    :referencesMyth :Myth_ZeusLightningStrike, :Myth_DragonDefender ;
+    :hasConflict :Conflict_HubrisVsDivineOrder ;
     :text "ὑπερεχθαίρει, καί σφας ἐσιδὼν"^^xsd:string .
 
 # --- 129 ---
-:Line_129 a :Line ; 
-    :lineNumber 129 ; 
-    :canonicalReference "129"^^xsd:string ; 
+:Line_129 a :Line ;
+    :lineNumber 129 ;
+    :canonicalReference "129"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_DivineIntervention ; 
+    :hasTheme :Theme_DivineIntervention ;
     :referencesMyth :Myth_ZeusLightningStrike ;
-    :text "πολλῷ ῥεύματι προσνισσομένους,"^^xsd:string .
+    :hasConflict :Conflict_HubrisVsDivineOrder ;
+    :text "πολλῷ ῥεύματι προσνισσομένους, "^^xsd:string .
 
 # --- 130 ---
-:Line_130 a :Line ; 
-    :lineNumber 130 ; 
-    :canonicalReference "130"^^xsd:string ; 
+:Line_130 a :Line ;
+    :lineNumber 130 ;
+    :canonicalReference "130"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ZeusSupremacy ; 
-    :hasConflict :Conflict_HubrisVsDivineOrder ; 
+    :hasTheme :Theme_ZeusSupremacy ;
     :referencesMyth :Myth_ZeusLightningStrike ;
-    :text "χρυσοῦ καναχῆς ὑπερόπτας,"^^xsd:string .
+    :hasConflict :Conflict_HubrisVsDivineOrder ;
+    :text "χρυσοῦ καναχῆς ὑπερόπτας, "^^xsd:string .
 
 # --- 131 ---
-:Line_131 a :Line ; 
-    :lineNumber 131 ; 
-    :canonicalReference "131"^^xsd:string ; 
+:Line_131 a :Line ;
+    :lineNumber 131 ;
+    :canonicalReference "131"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_DivineIntervention ; 
-    :hasSymbol :Symbol_FireBrand ; 
+    :hasTheme :Theme_DivineIntervention ;
+    :hasSymbol :Symbol_FireBrand ;
     :referencesMyth :Myth_ZeusLightningStrike ;
     :text "παλτῷ ῥιπτεῖ πυρὶ βαλβίδων"^^xsd:string .
 
 # --- 132 ---
-:Line_132 a :Line ; 
-    :lineNumber 132 ; 
-    :canonicalReference "132"^^xsd:string ; 
+:Line_132 a :Line ;
+    :lineNumber 132 ;
+    :canonicalReference "132"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_DivineIntervention ;
+    :referencesMyth :Myth_ZeusLightningStrike ;
+    :hasConflict :Conflict_HubrisVsDivineOrder ;
     :text "ἐπ᾽ ἄκρων ἤδη"^^xsd:string .
 
 # --- 133 ---
-:Line_133 a :Line ; 
-    :lineNumber 133 ; 
-    :canonicalReference "133"^^xsd:string ; 
+:Line_133 a :Line ;
+    :lineNumber 133 ;
+    :canonicalReference "133"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_InvasionThreat ; 
-    :hasConflict :Conflict_HubrisVsDivineOrder ; 
+    :hasTheme :Theme_InvasionThreat ;
+    :hasSymbol :Symbol_FireBrand ;
     :referencesMyth :Myth_ZeusLightningStrike ;
+    :hasConflict :Conflict_HubrisVsDivineOrder ;
     :text "νίκην ὁρμῶντ᾽ ἀλαλάξαι·"^^xsd:string .
 
 # --- 134 ---
-:Line_134 a :Line ; 
-    :lineNumber 134 ; 
-    :canonicalReference "134"^^xsd:string ; 
+:Line_134 a :Line ;
+    :lineNumber 134 ;
+    :canonicalReference "134"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_DivineIntervention ; 
+    :hasTheme :Theme_DivineIntervention ;
     :referencesMyth :Myth_ZeusLightningStrike ;
     :text "ἀντιτύπᾳ δ᾽ ἐπὶ γᾷ πέσε τανταλωθεὶς"^^xsd:string .
 
 # --- 135 ---
-:Line_135 a :Line ; 
-    :lineNumber 135 ; 
-    :canonicalReference "135"^^xsd:string ; 
+:Line_135 a :Line ;
+    :lineNumber 135 ;
+    :canonicalReference "135"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ; 
+    :hasTheme :Theme_WarViolence ;
     :hasSymbol :Symbol_FireBrand ;
+    :referencesMyth :Myth_ZeusLightningStrike ;
+    :hasConflict :Conflict_HubrisVsDivineOrder ;
     :text "πυρφόρος ὃς τότε μαινομένᾳ ξὺν ὁρμᾷ"^^xsd:string .
 
 # --- 136 ---
-:Line_136 a :Line ; 
-    :lineNumber 136 ; 
-    :canonicalReference "136"^^xsd:string ; 
+:Line_136 a :Line ;
+    :lineNumber 136 ;
+    :canonicalReference "136"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_WarViolence ;
+    :referencesMyth :Myth_ZeusLightningStrike ;
     :text "βακχεύων ἐπέπνει"^^xsd:string .
 
 # --- 137 ---
-:Line_137 a :Line ; 
-    :lineNumber 137 ; 
-    :canonicalReference "137"^^xsd:string ; 
+:Line_137 a :Line ;
+    :lineNumber 137 ;
+    :canonicalReference "137"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_WarViolence ;
-    :text "ῥιπαῖς ἐχθίστων ἀνέμων."^^xsd:string .
+    :hasSymbol :Symbol_FireBrand ;
+    :text "ῥιπαῖς ἐχθίστων ἀνέμων ."^^xsd:string .
 
 # --- 138 ---
-:Line_138 a :Line ; 
-    :lineNumber 138 ; 
-    :canonicalReference "138"^^xsd:string ; 
+:Line_138 a :Line ;
+    :lineNumber 138 ;
+    :canonicalReference "138"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_WarViolence ;
-    :text "εἶχε δ᾽ ἄλλα τὰ μέν,"^^xsd:string .
+    :text "εἶχε δ᾽ ἄλλα τὰ μέν, "^^xsd:string .
 
 # --- 139 ---
-:Line_139 a :Line ; 
-    :lineNumber 139 ; 
-    :canonicalReference "139"^^xsd:string ; 
+:Line_139 a :Line ;
+    :lineNumber 139 ;
+    :canonicalReference "139"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_WarViolence ;
     :text "ἄλλα δ᾽ ἐπ᾽ ἄλλοις ἐπενώμα στυφελίζων"^^xsd:string .
 
 # --- 140 ---
-:Line_140 a :Line ; 
-    :lineNumber 140 ; 
-    :canonicalReference "140"^^xsd:string ; 
+:Line_140 a :Line ;
+    :lineNumber 140 ;
+    :canonicalReference "140"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ; 
+    :hasTheme :Theme_WarViolence ;
     :referencesMyth :Myth_AresWarClash ;
-    :text "μέγας Ἄρης δεξιόσειρος."^^xsd:string .
+    :text "μέγας Ἄρης δεξιόσειρος ."^^xsd:string .
 
 # --- 141 ---
 :Line_141 a owl:NamedIndividual, :Line ;
@@ -392,9 +409,9 @@
 :Line_143 a owl:NamedIndividual, :Line ;
     :lineNumber 143 ;
     :canonicalReference "143"^^xsd:string ;
-    :referencesMyth :Myth_ZeusTropaios ;
     :hasTheme :Theme_ThebanVictoryThanksgiving ;
-    :text "Ζηνὶ τροπαίῳ πάγχαλκα τέλη,"^^xsd:string .
+    :referencesMyth :Myth_ZeusTropaios ;
+    :text "Ζηνὶ τροπαίῳ πάγχαλκα τέλη, "^^xsd:string .
 
 # --- 144 ---
 :Line_144 a owl:NamedIndividual, :Line ;
@@ -426,14 +443,14 @@
     :canonicalReference "147"^^xsd:string ;
     :hasTheme :Theme_FraternalCivilWar ;
     :hasConflict :Conflict_BrothersMutualDeath ;
-    :text "κοινοῦ θανάτου μέρος ἄμφω."^^xsd:string .
+    :text "κοινοῦ θανάτου μέρος ἄμφω ."^^xsd:string .
 
 # --- 148 ---
 :Line_148 a owl:NamedIndividual, :Line ;
     :lineNumber 148 ;
     :canonicalReference "148"^^xsd:string ;
-    :referencesMyth :Myth_NikeVictory ;
     :hasTheme :Theme_ThebanVictoryThanksgiving ;
+    :referencesMyth :Myth_NikeVictory ;
     :relatedTo :Event_VictoryArrivesAtThebes ;
     :text "ἀλλὰ γὰρ ἁ μεγαλώνυμος ἦλθε Νίκα"^^xsd:string .
 
@@ -443,7 +460,7 @@
     :canonicalReference "149"^^xsd:string ;
     :hasTheme :Theme_ThebanVictoryThanksgiving ;
     :relatedTo :Event_VictoryArrivesAtThebes ;
-    :text "τᾷ πολυαρμάτῳ ἀντιχαρεῖσα Θήβᾳ,"^^xsd:string .
+    :text "τᾷ πολυαρμάτῳ ἀντιχαρεῖσα Θήβᾳ, "^^xsd:string .
 
 # --- 150 ---
 :Line_150 a owl:NamedIndividual, :Line ;
@@ -459,7 +476,7 @@
     :canonicalReference "151"^^xsd:string ;
     :hasTheme :Theme_ThebanVictoryThanksgiving ;
     :relatedTo :Motivation_CelebrateVictoryWithChorusDances ;
-    :text "τῶν νῦν θέσθαι λησμοσύναν,"^^xsd:string .
+    :text "τῶν νῦν θέσθαι λησμοσύναν, "^^xsd:string .
 
 # --- 152 ---
 :Line_152 a owl:NamedIndividual, :Line ;
@@ -493,7 +510,7 @@
     :hasTheme :Theme_ThebanVictoryThanksgiving ;
     :referencesMyth :Myth_Bacchus ;
     :relatedTo :Motivation_CelebrateVictoryWithChorusDances ;
-    :text "Βάκχιος ἄρχοι."^^xsd:string .
+    :text "Βάκχιος ἄρχοι ."^^xsd:string .
 
 # --- 156 ---
 :Line_156 a owl:NamedIndividual, :Line ;
@@ -501,16 +518,16 @@
     :canonicalReference "156"^^xsd:string ;
     :hasTheme :Theme_PoliticalTransitionToCreon ;
     :relatedTo :Event_CreonApproachesAsNewRuler ;
-    :text "ἀλλ ̓, ὅδε γὰρ δὴ βασιλεὺς χώρας,"^^xsd:string .
+    :text "ἀλλ ̓, ὅδε γὰρ δὴ βασιλεὺς χώρας, "^^xsd:string .
 
 # --- 157 ---
 :Line_157 a owl:NamedIndividual, :Line ;
     :lineNumber 157 ;
     :canonicalReference "157"^^xsd:string ;
-    :referencesMyth :Antigone_Character_Creon ;
     :hasTheme :Theme_PoliticalTransitionToCreon ;
+    :referencesMyth :Antigone_Character_Creon ;
     :relatedTo :Event_CreonApproachesAsNewRuler ;
-    :text "Κρέων ὁ Μενοικέως,.....νεοχμὸς"^^xsd:string .
+    :text "Κρέων ὁ Μενοικέως,  .....νεοχμὸς"^^xsd:string .
 
 # --- 158 ---
 :Line_158 a owl:NamedIndividual, :Line ;
@@ -526,7 +543,7 @@
     :canonicalReference "159"^^xsd:string ;
     :hasTheme :Theme_PoliticalTransitionToCreon ;
     :relatedTo :Motivation_CreonConveneEldersCouncil ;
-    :text "χωρεῖ, τίνα δὴ μῆτιν ἐρέσσων,"^^xsd:string .
+    :text "χωρεῖ, τίνα δὴ μῆτιν ἐρέσσων, "^^xsd:string .
 
 # --- 160 ---
 :Line_160 a owl:NamedIndividual, :Line ;
@@ -542,4 +559,4 @@
     :canonicalReference "161"^^xsd:string ;
     :hasTheme :Theme_PoliticalTransitionToCreon ;
     :relatedTo :MoralDecision_SummonEldersByCommonProclamation ;
-    :text "προὔθετο λέσχην,κοινῷ κηρύγματι πέμψας;"^^xsd:string .
+    :text "προὔθετο λέσχην, κοινῷ κηρύγματι πέμψας" .

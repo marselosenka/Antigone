@@ -15,9 +15,7 @@
 
 :TV_Line_683_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Father, the gods endow mankind with reason,"^^xsd:string ;
-    :relatedTo :Line_683 ;
-    :hasTheme :Theme_DivineGiftOfReason ;
-    :advocatesFor :EthicalPrinciple_SupremacyOfReason .
+    :relatedTo :Line_683 .
 
 :TV_Line_684_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Supreme among all the traits man can hope to possess."^^xsd:string ;
@@ -37,8 +35,7 @@
 
 :TV_Line_688_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Of opinions. Now, as your son, I am obliged to look out for you"^^xsd:string ;
-    :relatedTo :Line_688 ;
-    :hasMotivation :Motivation_InformAndProtectFather .
+    :relatedTo :Line_688 .
 
 :TV_Line_689_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Every time a person speaks or acts or points his finger at you."^^xsd:string ;
@@ -46,14 +43,11 @@
 
 :TV_Line_690_en a owl:NamedIndividual, :TranslationVariant ;
     :text "For your eye is frightful to the common man when he must"^^xsd:string ;
-    :relatedTo :Line_690 ;
-    :relatedTo :Cause_FrightfulEye ;
-    :experiencesEmotion :Emotion_FearOfTyrant .
+    :relatedTo :Line_690 .
 
 :TV_Line_691_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Tell you things which he knows you won’t be pleased to hear."^^xsd:string ;
-    :relatedTo :Line_691 ;
-    :relatedTo :Effect_SuppressedSpeech .
+    :relatedTo :Line_691 .
 
 :TV_Line_692_en a owl:NamedIndividual, :TranslationVariant ;
     :text "But I listen under cover of darkness, and I hear"^^xsd:string ;
@@ -61,8 +55,7 @@
 
 :TV_Line_693_en a owl:NamedIndividual, :TranslationVariant ;
     :text "How the city mourns for this young girl,"^^xsd:string ;
-    :relatedTo :Line_693 ;
-    :experiencesEmotion :Emotion_PublicMourning .
+    :relatedTo :Line_693 .
 
 :TV_Line_694_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Saying that of all women she deserves least of all"^^xsd:string ;
@@ -74,8 +67,7 @@
 
 :TV_Line_696_en a owl:NamedIndividual, :TranslationVariant ;
     :text "All because she wouldn’t allow her own brother,"^^xsd:string ;
-    :relatedTo :Line_696 ;
-    :relatedTo :Cause_PiousBurial .
+    :relatedTo :Line_696 .
 
 :TV_Line_697_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Lying unburied in the gore where he fell, to be torn"^^xsd:string ;
@@ -87,15 +79,11 @@
 
 :TV_Line_699_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Doesn’t she deserve to get a share of the gilded honor?"^^xsd:string ;
-    :relatedTo :Line_699 ;
-    :relatedTo :Effect_DeservingHonor ;
-    :advocatesFor :EthicalPrinciple_HonorForPiousDeeds .
+    :relatedTo :Line_699 .
 
 :TV_Line_700_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Dim whispers to this point circulate in the otherwise silent city."^^xsd:string ;
-    :relatedTo :Line_700 ;
-    :hasTheme :Theme_PublicOpinionVsTyranny ;
-    :hasConflict :Conflict_TyrantVsPublicOpinion .
+    :relatedTo :Line_700 .
 
 :TV_Line_701_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I can think of no treasure more precious,"^^xsd:string ;
@@ -115,8 +103,7 @@
 
 :TV_Line_705_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Now don’t reserve just one way of thinking for yourself,"^^xsd:string ;
-    :relatedTo :Line_705 ;
-    :hasTheme :Theme_Stubbornness .
+    :relatedTo :Line_705 .
 
 :TV_Line_706_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Saying that this is correct, and nothing else."^^xsd:string ;
@@ -136,8 +123,7 @@
 
 :TV_Line_710_en a owl:NamedIndividual, :TranslationVariant ;
     :text "But even if a man is wise, there’s no shame in him"^^xsd:string ;
-    :relatedTo :Line_710 ;
-    :advocatesFor :EthicalPrinciple_ValueOfFlexibility .
+    :relatedTo :Line_710 .
 
 :TV_Line_711_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Straying from the path and picking things up as he goes."^^xsd:string ;
@@ -145,18 +131,15 @@
 
 :TV_Line_712_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Look how one tree on the riverbank yields its smaller branches"^^xsd:string ;
-    :relatedTo :Line_712 ;
-    :relatedTo :Cause_YieldingToForce .
+    :relatedTo :Line_712 .
 
 :TV_Line_713_en a owl:NamedIndividual, :TranslationVariant ;
     :text "To the stream that’s gorged with fresh snowmelt, and saves itself,"^^xsd:string ;
-    :relatedTo :Line_713 ;
-    :relatedTo :Effect_Survival .
+    :relatedTo :Line_713 .
 
 :TV_Line_714_en a owl:NamedIndividual, :TranslationVariant ;
     :text "While another that’s just too rigid is washed away,"^^xsd:string ;
-    :relatedTo :Line_714 ;
-    :relatedTo :Cause_RigidStubbornness .
+    :relatedTo :Line_714 .
 
 :TV_Line_715_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Roots and all. Likewise the captain who’s tied his ship’s sail"^^xsd:string ;
@@ -168,13 +151,11 @@
 
 :TV_Line_717_en a owl:NamedIndividual, :TranslationVariant ;
     :text "The rest of the way with oars once he’s snapped his mast in half."^^xsd:string ;
-    :relatedTo :Line_717 ;
-    :relatedTo :Effect_Destruction .
+    :relatedTo :Line_717 .
 
 :TV_Line_718_en a owl:NamedIndividual, :TranslationVariant ;
     :text "So yield and let your wrath subside."^^xsd:string ;
-    :relatedTo :Line_718 ;
-    :hasMotivation :Motivation_PersuadeToYield .
+    :relatedTo :Line_718 .
 
 :TV_Line_719_en a owl:NamedIndividual, :TranslationVariant ;
     :text "If I’m allowed to have an opinion (though I’m just a young man),"^^xsd:string ;
@@ -194,6 +175,4 @@
 
 :TV_Line_723_en a owl:NamedIndividual, :TranslationVariant ;
     :text "It is still good to learn from a thought well spoken."^^xsd:string ;
-    :relatedTo :Line_723 ;
-    :hasTheme :Theme_Flexibility ;
-    :hasConflict :Conflict_RigidityVsFlexibility .
+    :relatedTo :Line_723 .

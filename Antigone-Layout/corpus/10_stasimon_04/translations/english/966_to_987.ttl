@@ -15,13 +15,11 @@
 
 :TV_Line_970_en a :TranslationVariant ;
 :text "Salmydessus, where neighboring Ares"^^xsd:string ;
-:relatedTo :Line_970 ;
-:referencesMyth :Antigone_Character_Ares .
+:relatedTo :Line_970 .
 
 :TV_Line_971_en a :TranslationVariant ;
 :text "Saw for the two sons of Phineus"^^xsd:string ;
-:relatedTo :Line_971 ;
-:referencesMyth :Antigone_Character_Phineids .
+:relatedTo :Line_971 .
 
 :TV_Line_972_en a :TranslationVariant ;
 :text "The accursed wound,"^^xsd:string ;
@@ -38,8 +36,7 @@
 
 :TV_Line_975_en a :TranslationVariant ;
 :text "Torn out by bloody"^^xsd:string ;
-:relatedTo :Line_975 ;
-:hasSymbol :Symbol_Blood .
+:relatedTo :Line_975 .
 
 :TV_Line_976_en a :TranslationVariant ;
 :text "Hands and the sharp points of shuttles."^^xsd:string ;
@@ -47,13 +44,11 @@
 
 :TV_Line_977_en a :TranslationVariant ;
 :text "And they, wasting away, miserable in their misery,"^^xsd:string ;
-:relatedTo :Line_977 ;
-:experiencesEmotion :Emotion_Misery .
+:relatedTo :Line_977 .
 
 :TV_Line_980_en a :TranslationVariant ;
 :text "Wept, having for mother a mother of unwed birth;"^^xsd:string ;
-:relatedTo :Line_980 ;
-:experiencesEmotion :Emotion_Grief .
+:relatedTo :Line_980 .
 
 :TV_Line_981_en a :TranslationVariant ;
 :text "And she was descended from the ancient race"^^xsd:string ;
@@ -61,8 +56,7 @@
 
 :TV_Line_982_en a :TranslationVariant ;
 :text "Of the Erechtheids,"^^xsd:string ;
-:relatedTo :Line_982 ;
-:referencesMyth :Antigone_Character_Cleopatra .
+:relatedTo :Line_982 .
 
 :TV_Line_983_en a :TranslationVariant ;
 :text "And in far-off caves"^^xsd:string ;
@@ -74,8 +68,7 @@
 
 :TV_Line_985_en a :TranslationVariant ;
 :text "A child of Boreas, swift as horses over the steep crags,"^^xsd:string ;
-:relatedTo :Line_985 ;
-:referencesMyth :Antigone_Character_Boreas .
+:relatedTo :Line_985 .
 
 :TV_Line_986_en a :TranslationVariant ;
 :text "A child of the gods; but even upon her"^^xsd:string ;
@@ -83,6 +76,4 @@
 
 :TV_Line_987_en a :TranslationVariant ;
 :text "The long-lived Fates took hold, O child."^^xsd:string ;
-:relatedTo :Line_987 ;
-:hasTheme :Theme_FateInevitability ;
-:relatedTo :Antigone_Character_Fates .
+:relatedTo :Line_987 .

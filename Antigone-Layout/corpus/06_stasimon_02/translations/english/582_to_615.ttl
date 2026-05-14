@@ -7,14 +7,10 @@
 
 :TV_Line_583_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Blessed is the life of he who has never tasted evil."^^xsd:string ;
-    :relatedTo :Line_583 ;
-    :hasTheme :Theme_HumanFrailty .
-
+    :relatedTo :Line_583 .
 :TV_Line_584_en a owl:NamedIndividual, :TranslationVariant ;
     :text "For those whose abode is shaken by the gods,"^^xsd:string ;
-    :relatedTo :Line_584 ;
-    :relatedTo :Event_DivineIntervention .
-
+    :relatedTo :Line_584 .
 :TV_Line_585_en a owl:NamedIndividual, :TranslationVariant ;
     :text "No ruin is absent as it proceeds through the multitude of peoples,"^^xsd:string ;
     :relatedTo :Line_585 .
@@ -37,14 +33,11 @@
 
 :TV_Line_593_en a owl:NamedIndividual, :TranslationVariant ;
     :text "The ancient miseries of the house of Labdacus, I see, fall"^^xsd:string ;
-    :relatedTo :Line_593 ;
-    :hasTheme :Theme_GenerationalCurse ;
-    :experiencesEmotion :Emotion_Despair .
+    :relatedTo :Line_593 .
 
 :TV_Line_595_en a owl:NamedIndividual, :TranslationVariant ;
     :text "On top of the miseries of the dead."^^xsd:string ;
-    :relatedTo :Line_595 ;
-    :relatedTo :Event_GenerationalRuin .
+    :relatedTo :Line_595 .
 
 :TV_Line_596_en a owl:NamedIndividual, :TranslationVariant ;
     :text "One generation cannot set a people free, since some god will throw them down"^^xsd:string ;
@@ -56,13 +49,11 @@
 
 :TV_Line_600_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Which had shone itself over the furthest roots in the house of Oedipus,"^^xsd:string ;
-    :relatedTo :Line_600 ;
-    :relatedTo :Cause_FollyAndFrenzy .
+    :relatedTo :Line_600 .
 
 :TV_Line_601_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Now the bloody dust of the gods of hell cuts it down,"^^xsd:string ;
-    :relatedTo :Line_601 ;
-    :relatedTo :Effect_DestructionOfOedipusHouse .
+    :relatedTo :Line_601 .
 
 :TV_Line_602_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Through folly of speech and a frenzy of thought."^^xsd:string ;
@@ -70,14 +61,11 @@
 
 :TV_Line_605_en a owl:NamedIndividual, :TranslationVariant ;
     :text "O Zeus, what transgression of men could restrain your power?"^^xsd:string ;
-    :relatedTo :Line_605 ;
-    :relatedTo :Event_TransgressionOfPower ;
-    :hasConflict :Conflict_DivineOmnipotenceVsHumanAspiration .
+    :relatedTo :Line_605 .
 
 :TV_Line_606_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Neither sleep, which ensnares all, can ever take it away,"^^xsd:string ;
-    :relatedTo :Line_606 ;
-    :hasTheme :Theme_DivineOmnipotence .
+    :relatedTo :Line_606 .
 
 :TV_Line_607_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Nor the unwearying months of the gods; but unaging in time"^^xsd:string ;
@@ -85,8 +73,7 @@
 
 :TV_Line_610_en a owl:NamedIndividual, :TranslationVariant ;
     :text "As Lord, you hold fast Olympus�s sparkled, marbled glory."^^xsd:string ;
-    :relatedTo :Line_610 ;
-    :experiencesEmotion :Emotion_AweAndReverence .
+    :relatedTo :Line_610 .
 
 :TV_Line_611_en a owl:NamedIndividual, :TranslationVariant ;
     :text "For the time that is to come and the time that is past"^^xsd:string ;
@@ -102,11 +89,8 @@
 
 :TV_Line_614_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Without ruin."^^xsd:string ;
-    :relatedTo :Line_614 ;
-    :advocatesFor :EthicalPrinciple_GreatnessBringsRuin ;
-    :relatedTo :Event_InevitableRuin .
+    :relatedTo :Line_614 .
 
 :TV_Line_615_en a owl:NamedIndividual, :TranslationVariant ;
     :text "For wandering hope is a benefit to many men,"^^xsd:string ;
-    :relatedTo :Line_615 ;
-    :hasTheme :Theme_FalseHope .
+    :relatedTo :Line_615 .
