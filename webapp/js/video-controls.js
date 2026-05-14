@@ -117,6 +117,7 @@ function initializeVideoControls() {
 }
 
 
+
 // automated sync: tracks video progress and auto-activate scenes
 const videoElementForSync = document.getElementById('video-element');
 
