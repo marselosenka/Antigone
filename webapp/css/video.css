@@ -230,7 +230,7 @@ input[type=range]:focus {
 .line-tag {
     font-family: var(--font-heading);
     font-size: 12px;
-    letter-spacing: 1.1px;
+    letter-spacing: 1px;
     color: #f7ecd8;
     border: 1px solid rgba(240, 225, 187, 0.4);
     border-radius: 999px;
