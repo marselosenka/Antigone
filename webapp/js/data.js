@@ -1,4 +1,6 @@
+ 
 // DATA DEFINITION
+
 const playData = {
     scenes: [
         {
@@ -199,11 +201,11 @@ const playData = {
     ],
 
     characters: [
-        { id: 'antigone', name: 'Antigone', importance: 35, color: '#c05640' },
-        { id: 'creon', name: 'Creon', importance: 30, color: '#0e4d92' },
-        { id: 'ismene', name: 'Ismene', importance: 15, color: '#556b2f' },
-        { id: 'haemon', name: 'Haemon', importance: 12, color: '#66023c' },
-        { id: 'chorus', name: 'Chorus', importance: 20, color: '#b8860b' },
-        { id: 'teiresias', name: 'Teiresias', importance: 8, color: '#4b3621' }
+        { id: 'antigone',  name: 'Antigone',  importance: 35, color: '#c05640' },
+        { id: 'creon',     name: 'Creon',     importance: 30, color: '#0e4d92' },
+        { id: 'ismene',    name: 'Ismene',    importance: 15, color: '#556b2f' },
+        { id: 'haemon',    name: 'Haemon',    importance: 12, color: '#66023c' },
+        { id: 'chorus',    name: 'Chorus',    importance: 20, color: '#b8860b' },
+        { id: 'teiresias', name: 'Teiresias', importance:  8, color: '#4b3621' }
     ]
 };

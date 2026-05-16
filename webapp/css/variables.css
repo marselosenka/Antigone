@@ -1,29 +1,28 @@
 /* Variables & Global Reset */
 :root {
     /* Texture & Backgrounds */
-    --bg-papyrus: #fdfbf7;
-    --bg-parchment: #f0e6d2;
-    --bg-texture-overlay: rgba(0,0,0,0.02);
+    --bg-papyrus: #ede0c8;           /* was #f5ede0 – deep warm sand, cards pop */
+    --bg-parchment: #d9c49a;         /* was #e8d5b7 – rich aged parchment */
+    --bg-texture-overlay: rgba(0,0,0,0.06);  /* was 0.04 – grid clearly visible */
 
     /* The Palette of Antiquity */
-    --text-ink: #2c241b;
-    --terracotta: #c05640;
-    --terracotta-dark: #8d3b2b;
-    --olive: #708238;
-    --aegean: #1f4e79;
-    --gold: #c5a059;
-    --gold-dim: #997b40;
-    --slate: #475569;
+    --text-ink: #120a02;             /* was #1e1208 – near black, max readability */
+    --terracotta: #a83a20;           /* was #b84a30 – deep fired clay */
+    --terracotta-dark: #6b2010;      /* was #7a2e1e – dark ember */
+    --olive: #445820;                /* was #5a6e2a – forest olive */
+    --aegean: #082444;               /* was #0d3560 – deep Aegean night */
+    --gold: #a67520;                 /* was #b8893a – antique hammered gold */
+    --gold-dim: #7a5010;             /* was #8a6520 – bronze shadow */
+    --slate: #1e2d3d;                /* was #334155 – almost dark navy */
 
-    --border-soft: rgba(153, 123, 64, 0.4);
-    --border-faint: rgba(153, 123, 64, 0.2);
-    --shadow-diffuse: 0 4px 20px rgba(44, 36, 27, 0.08);
+    --border-soft: rgba(130, 95, 30, 0.95);   /* was 0.8 – fully visible bronze */
+    --border-faint: rgba(130, 95, 30, 0.65);  /* was 0.5 – clearly there */
+    --shadow-diffuse: 0 6px 24px rgba(30, 18, 8, 0.28);  /* was 0.18 – real depth */
 
     /* Typography */
     --font-heading: 'Cinzel', serif;
     --font-body: 'Crimson Text', serif;
 }
-
 * {
     margin: 0;
     padding: 0;
@@ -39,6 +38,7 @@ body {
     background-size: 40px 40px;
     color: var(--text-ink);
     overflow-x: hidden;
+    font-weight: 600;
 }
 
 /* Animation & Scrollbars */
@@ -47,18 +47,7 @@ body {
     50% { transform: scale(1.05); box-shadow: 0 0 15px rgba(192, 86, 64, 0.4); }
 }
 
-*::-webkit-scrollbar {
-    width: 6px;
-}
-
-*::-webkit-scrollbar-track {
-    background: transparent;
-}
-
-*::-webkit-scrollbar-thumb {
-    background: rgba(153, 123, 64, 0.3); border-radius: 3px;
-}
-
-*::-webkit-scrollbar-thumb:hover {
-    background: rgba(153, 123, 64, 0.6);
-}
+*::-webkit-scrollbar { width: 6px; }
+*::-webkit-scrollbar-track { background: transparent; }
+*::-webkit-scrollbar-thumb { background: rgba(153, 123, 64, 0.3); border-radius: 3px; }
+*::-webkit-scrollbar-thumb:hover { background: rgba(153, 123, 64, 0.6); }

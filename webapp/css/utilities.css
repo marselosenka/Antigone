@@ -1,4 +1,4 @@
-/*Tooltips & Help */
+/*  TOOLTIPS & HELP PANEL */
 .character-tooltip {
     position: fixed;
     transform: translate(-50%, -100%);
@@ -29,8 +29,7 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 40px;
-    height: 40px;
+    width: 40px; height: 40px;
     background: #fff;
     color: var(--aegean);
     border: 1px solid var(--border-soft);
@@ -40,9 +39,7 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     z-index: 999;
     font-family: var(--font-heading);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: flex; align-items: center; justify-content: center;
     transition: transform 0.2s;
 }
 
@@ -53,8 +50,7 @@
 
 .keyboard-help {
     position: fixed;
-    bottom: 75px;
-    right: 20px;
+    bottom: 75px; right: 20px;
     background: #fff;
     border: 1px solid var(--border-soft);
     color: var(--text-ink);
@@ -66,9 +62,8 @@
     max-width: 280px;
     display: none;
 }
-.keyboard-help.show {
-    display: block;
-}
+
+.keyboard-help.show { display: block; }
 
 .keyboard-help h4 {
     margin-bottom: 12px;
@@ -79,9 +74,7 @@
     font-size: 12px;
 }
 
-.keyboard-help ul {
-    list-style: none;
-}
+.keyboard-help ul { list-style: none; }
 
 .keyboard-help li {
     margin: 8px 0;
@@ -89,6 +82,7 @@
     justify-content: space-between;
     align-items: center;
 }
+
 .keyboard-help kbd {
     background: #f4f4f4;
     padding: 3px 8px;

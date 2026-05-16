@@ -1,27 +1,20 @@
-document.addEventListener('DOMContentLoaded', function() {
-    // Initialize State
+ 
+// MAIN  –  Application entry point
+document.addEventListener('DOMContentLoaded', () => {
+
+    // Initialise global state
     state.currentScenes = [...playData.scenes];
 
-    // Render UI Elements
+    // Generate all dynamic tags (both pages share the same data)
     generateDynamicTags();
+
+    // Render character bubbles (page 3)
     renderCharacters();
 
-    // Attach Global Listeners
-    attachEventListeners();
-
-    // Initialize Visuals
-    updateAllDimensions();
-
-    // Initialize Controls
-    initializeVideoControls();
-
-    document.querySelectorAll('.speak-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const panelId = btn.dataset.panel;
-            const lang = btn.dataset.lang;
-            tts.speakFromElement(panelId, lang, btn);
-        });
-    });
+    // Global keyboard shortcuts (works across all pages)
     initializeKeyboardShortcuts();
-    sparqlLineNavigator.init();
+
+    // 5. Boot the page manager – this triggers first-visit init
+    //    for whichever page is shown first
+    pageManager.init();
 });
