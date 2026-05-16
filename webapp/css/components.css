@@ -152,7 +152,7 @@
 .speak-btn:hover   { background: var(--aegean); color: #fff; border-color: var(--aegean); }
 .speak-btn.speaking { background: var(--terracotta); color: #fff; border-color: var(--terracotta); }
 
-/* FOCUS RINGS (accessibility)*/
+/* FOCUS RINGS */
 .tag:focus-visible,
 .character-bubble:focus-visible,
 .sparql-btn:focus-visible,

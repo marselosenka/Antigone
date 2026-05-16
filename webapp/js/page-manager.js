@@ -1,5 +1,5 @@
  
-// PAGE MANAGER  –  Single-page navigation (display toggling)
+// PAGE MANAGER  –  Single-page navigation
 const pageManager = (() => {
 
     const initialised = new Set();

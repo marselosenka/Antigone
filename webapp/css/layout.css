@@ -12,7 +12,7 @@
     box-shadow: var(--shadow-diffuse);
 }
 
-/* PAGE 3  –  Semantics / Video  (original grid layout) */
+/* PAGE 3  –  Semantics / Video  */
 .semantics-grid {
     display: grid;
     grid-template-columns: 240px 1fr 240px;

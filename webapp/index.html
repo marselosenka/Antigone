@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Antigone: 5D Interactive</title>
+    <title>Antigone</title>
+    <link rel="icon" href="data:,">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
-    <!-- Stylesheets -->
+    <!-- Stylesheets - order important -->
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/layout.css">
@@ -24,7 +25,7 @@
     <button class="nav-btn" data-page="page1">Information</button>
     <button class="nav-btn active" data-page="page2">Scenes + Lines</button>
     <button class="nav-btn" data-page="page3">Semantics / Video</button>
-    <button class="nav-btn" data-page="page4">More Info</button>
+    <button class="nav-btn" data-page="page4">Statistics</button>
 </nav>
 
 
@@ -169,7 +170,7 @@
 </div>
 
 
-<!-- PAGE 4 – More Info -->
+<!-- PAGE 4 – Statistics -->
 <div id="page4" class="page-container">
     <!-- statistics etc. -->
 </div>
@@ -190,7 +191,7 @@
 </div>
 
 
-<!-- SCRIPTS  (load order matters) -->
+<!-- SCRIPTS  (load order important) -->
 <script src="js/data.js"></script>
 <script src="js/state.js"></script>
 <script src="js/tts.js"></script>

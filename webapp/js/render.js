@@ -155,7 +155,7 @@ function updateTagsDisplay(containerId, counts, type) {
 }
 
 /**
- * TEXT FORMATTING  –  'divine-law' → 'Divine Law'
+ * TEXT FORMATTING  –  'divine-law' to 'Divine Law'
  */
 function formatLabel(slug) {
     return slug.split('-')

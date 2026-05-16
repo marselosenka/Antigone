@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Global keyboard shortcuts (works across all pages)
     initializeKeyboardShortcuts();
 
-    // 5. Boot the page manager – this triggers first-visit init
-    //    for whichever page is shown first
+    // Boot the page manager – this triggers first-visit init for whichever page is shown first
     pageManager.init();
 });
