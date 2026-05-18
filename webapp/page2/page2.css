@@ -1,141 +1,15 @@
-/* VIDEO PLAYER  (page 3 only) */
-.video-container {
-    background: #1e1e1e;
-    border: 1px solid #333;
+/* PAGE 2  –  Scenes + Lines */
+.scenes-frame {
+    margin: 20px 25px 0;
+}
+
+.lines-container {
+    margin: 16px 25px 25px;
+    background: var(--bg-papyrus);
+    border: 1px solid var(--border-soft);
     border-radius: 4px;
-    padding: 3px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    overflow: visible;
-    max-height: none;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.2);
-}
-
-.video-player {
-    width: 100%;
-    background: #000;
-    height: 400px;
-    min-height: 400px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    cursor: pointer;
-    border: none;
-    border-radius: 2px;
-}
-
-.video-overlay {
-    position: absolute;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background: rgba(0,0,0,0.4);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    pointer-events: none;
-    z-index: 10;
-}
-
-.video-player:hover .video-overlay,
-.video-player.paused .video-overlay { opacity: 1; }
-.video-player.playing .video-overlay { opacity: 0; }
-
-.video-overlay-icon {
-    font-size: 40px;
-    color: #fff;
-    width: 70px; height: 70px;
-    border-radius: 50%;
-    border: 1px solid rgba(255,255,255,0.3);
-    background: rgba(0,0,0,0.4);
-    backdrop-filter: blur(4px);
-    display: flex; align-items: center; justify-content: center;
-    padding-left: 4px;
-}
-
- 
-/*  Controls bar */
-.video-controls {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    padding: 10px 15px;
-    flex-shrink: 0;
-    background: #2a2a2a;
-    border: 1px solid #3d3d3d;
-    border-radius: 4px;
-}
-
-.control-btn {
-    background: transparent;
-    border: 1px solid rgba(255,255,255,0.1);
-    border-radius: 50%;
-    width: 36px; height: 36px;
-    display: flex; align-items: center; justify-content: center;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    font-size: 14px;
-    color: #ccc;
-}
-
-.control-btn:hover {
-    background: rgba(255,255,255,0.1);
-    color: #fff;
-    border-color: rgba(255,255,255,0.3);
-}
-
-.time-display {
-    font-family: var(--font-heading);
-    font-weight: 500;
-    min-width: 90px;
-    text-align: center;
-    color: #aaa;
-    font-size: 12px;
-}
-
- 
-/*  Custom range sliders */
- 
-input[type=range]       { -webkit-appearance: none; }
-input[type=range]:focus { outline: none; }
-
-.progress-bar {
-    flex: 1;
-    height: 4px;
-    border-radius: 2px;
-    background: #666;
-    border: none;
-    cursor: pointer;
-}
-
-.progress-bar::-webkit-slider-thumb {
-    -webkit-appearance: none;
-    height: 12px; width: 12px;
-    border-radius: 50%;
-    background: var(--gold);
-    cursor: pointer;
-    margin-top: -4px;
-    box-shadow: 0 0 10px rgba(197, 160, 89, 0.4);
-}
-
-.volume-slider {
-    width: 70px;
-    height: 4px;
-    border-radius: 2px;
-    background: #444;
-    border: none;
-    cursor: pointer;
-}
-
-.volume-slider::-webkit-slider-thumb {
-    -webkit-appearance: none;
-    height: 10px; width: 10px;
-    border-radius: 50%;
-    background: #ccc;
-    cursor: pointer;
-    margin-top: -3px;
+    padding: 15px 20px 20px;
+    box-shadow: var(--shadow-diffuse);
 }
 
 /*  SPARQL TOOLBAR  (Page 2) */
@@ -281,4 +155,11 @@ input[type=range]:focus { outline: none; }
     color: #333;
     font-family: var(--font-body);
     font-weight: 600;
+}
+
+/* Mobile Responsive */
+@media (max-width: 968px) {
+    .lines-container { margin: 10px 12px 20px; }
+    .scenes-frame    { margin: 12px 12px 0; }
+    .text-grid       { grid-template-columns: 1fr; }
 }

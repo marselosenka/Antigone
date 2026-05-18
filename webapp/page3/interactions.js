@@ -1,4 +1,4 @@
- 
+
 // INTERACTIONS  –  Event listeners & filter logic
 
 /**
@@ -51,23 +51,6 @@ function handleTagClick(tag) {
 
     applyFilters();
     updateAllDimensions();
-}
-
-/**
- * PAGE 2  –  Scene tag click: update text panels ONLY (no video seek)
- * Also deactivates all other scene tags on page 2 and activates this one.
- */
-function handleSceneTagClickPage2(sceneId, clickedTag) {
-    const scene = playData.scenes.find(s => s.id === sceneId);
-    if (!scene) return;
-
-    // Toggle active state visually
-    const allPage2Tags = document.querySelectorAll('#scenes-container-page2 .tag');
-    allPage2Tags.forEach(t => t.classList.remove('active'));
-    if (clickedTag) clickedTag.classList.add('active');
-
-    // Update the page 2 text panels
-    updateTextPanels(scene.text, '-page2');
 }
 
 /**
@@ -131,4 +114,75 @@ function updateAllDimensions() {
     state.currentScenes.forEach(scene => sceneCounts[scene.id] = 1);
     updateTagsDisplay('scenes-container', sceneCounts, 'scene');
 
+}
+
+/**
+ * DYNAMIC UI UPDATES
+ * Refreshes the look of tags based on current filtered scenes.
+ */
+function updateTagsDisplay(containerId, counts, type) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    const tags = container.querySelectorAll('.tag');
+    if (!tags.length) return;
+
+    const tagArray = Array.from(tags).map(tag => ({
+        element: tag,
+        value:   tag.dataset.value,
+        count:   counts[tag.dataset.value] || 0
+    })).sort((a, b) => b.count - a.count);
+
+    tagArray.forEach(tagData => {
+        const tag     = tagData.element;
+        const count   = tagData.count;
+        const isActive = state.activeFilters[type + 's']
+            ? state.activeFilters[type + 's'].has(tagData.value)
+            : false;
+
+        if (count > 0 || isActive) {
+            tag.style.opacity       = '1';
+            tag.style.pointerEvents = 'auto';
+            tag.style.display       = 'inline-block';
+
+            tag.classList.remove('large', 'medium');
+            if (count >= 4)      tag.classList.add('large');
+            else if (count >= 2) tag.classList.add('medium');
+
+            isActive ? tag.classList.add('active') : tag.classList.remove('active');
+        } else {
+            tag.style.opacity       = '0.3';
+            tag.style.pointerEvents = 'none';
+            tag.classList.remove('active');
+        }
+    });
+}
+
+/**
+ * HOVER TOOLTIP for character bubbles
+ */
+function showTooltip(bubble) {
+    const character = bubble.dataset.character;
+    const charData  = playData.characters.find(c => c.id === character);
+    if (!charData) return;
+
+    let tooltip = document.getElementById('character-tooltip');
+    if (!tooltip) {
+        tooltip           = document.createElement('div');
+        tooltip.id        = 'character-tooltip';
+        tooltip.className = 'character-tooltip';
+        document.body.appendChild(tooltip);
+    }
+
+    const sceneCount   = playData.scenes.filter(s => s.characters.includes(character)).length;
+    tooltip.innerHTML  = `<strong>${charData.name}</strong><br>Speaking time: ${charData.importance}%<br>Appears in: ${sceneCount} scenes`;
+
+    const rect          = bubble.getBoundingClientRect();
+    tooltip.style.left  = (rect.left + rect.width / 2) + 'px';
+    tooltip.style.top   = (rect.top - 10) + 'px';
+    tooltip.style.opacity = '1';
+}
+
+function hideTooltip() {
+    const tooltip = document.getElementById('character-tooltip');
+    if (tooltip) tooltip.style.opacity = '0';
 }

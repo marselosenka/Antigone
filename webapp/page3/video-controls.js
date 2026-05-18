@@ -1,4 +1,4 @@
- 
+
 // VIDEO CONTROLS  (Page 3 only)
 const createIcon = (type) => {
     const svg = {
@@ -109,16 +109,11 @@ function initializeVideoControls() {
 }
 
 // Automated scene sync (Page 3 only)
-// Guarded: only runs when page 3 is the active page
 function initVideoSceneSync() {
     const videoElement = document.getElementById('video-element');
     if (!videoElement) return;
 
     videoElement.addEventListener('timeupdate', () => {
-        // Only sync when page 3 is visible
-        const page3 = document.getElementById('page3');
-        if (!page3 || !page3.classList.contains('active')) return;
-
         const currentTime = videoElement.currentTime;
 
         const activeScene = playData.scenes.find(
