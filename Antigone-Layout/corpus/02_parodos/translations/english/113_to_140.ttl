@@ -6,6 +6,16 @@
 :parodos-translations-113-140-english a owl:Ontology .
 # English translation variants extracted from 113_to_140.ttl
 
+# To be translated 
+:TV_Line_113_en a :TranslationVariant ; 
+:text ""^^xsd:string ; 
+:relatedTo :Line_113 . 
+
+# To be translated 
+:TV_Line_114_en a :TranslationVariant ; 
+:text ""^^xsd:string ;
+:relatedTo :Line_114 .
+
 :TV_Line_115_en a :TranslationVariant ;
 :text "With many weapons"^^xsd:string ;
 :relatedTo :Line_115 .

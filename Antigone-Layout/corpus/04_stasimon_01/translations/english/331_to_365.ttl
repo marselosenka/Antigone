@@ -15,7 +15,7 @@
   :text "more marvelous than man exists."^^xsd:string .
 
 :TV_Line_334_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_334 ;
-  :text "This power even across the grey"^^xsd:string .
+  :text "This one also across the grey sea"^^xsd:string .
 
 :TV_Line_335_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_335 ;
   :text "sea in the wintry storm,"^^xsd:string .
@@ -27,7 +27,7 @@
   :text "passing under the waves; and of the gods,"^^xsd:string .
 
 :TV_Line_338_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_338 ;
-  :text "the eldest, Earth (Gaia) the supreme,"^^xsd:string .
+  :text "and the supreme Earth,"^^xsd:string .
 
 :TV_Line_339_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_339 ;
   :text "immortal and tireless, he wears away,"^^xsd:string .

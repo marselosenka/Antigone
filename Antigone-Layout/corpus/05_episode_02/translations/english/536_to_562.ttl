@@ -5,21 +5,85 @@
 :episode_02-translations-536-562-english a owl:Ontology .
 # English translation variants extracted from 536_to_562.ttl
 
+:TV_Line_536_En a :TranslationVariant ;
+    :text "I did the deed, if she also agrees with me."^^xsd:string ;
+    :relatedTo :Line_536 .
+
 :TV_Line_537_en a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_537 ;
   :text "I both share in the deed and bear the blame."^^xsd:string .
+
+:TV_Line_538_En a :TranslationVariant ;
+    :text "But justice will not allow you this, since"^^xsd:string ;
+    :relatedTo :Line_538 .
+
+:TV_Line_539_En a :TranslationVariant ;
+    :text "you neither wished it, nor did I make you my partner in it."^^xsd:string ;
+    :relatedTo :Line_539 .
+
+:TV_Line_540_En a :TranslationVariant ;
+    :text "Yet in your misfortunes I do not feel ashamed"^^xsd:string ;
+    :relatedTo :Line_540 .
+
+:TV_Line_541_En a :TranslationVariant ;
+    :text "to make myself a sharer in your suffering."^^xsd:string ;
+    :relatedTo :Line_541 .
+
+:TV_Line_542_En a :TranslationVariant ;
+    :text "Who carried out the deed is known to Hades and the gods below;"^^xsd:string ;
+    :relatedTo :Line_542 .
+
+:TV_Line_543_En a :TranslationVariant ;
+    :text "but with words alone I do not accept love from a friend who does not love through actions."^^xsd:string ;
+    :relatedTo :Line_543 .
+
+:TV_Line_544_En a :TranslationVariant ;
+    :text "Do not dishonor me, sister, by refusing to"^^xsd:string ;
+    :relatedTo :Line_544 .
 
 :TV_Line_545_en a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_545 ;
   :text "to die with you and to sanctify the dead."^^xsd:string .
 
+:TV_Line_546_En a :TranslationVariant ; 
+  :text "Do not share in my death, and do not make your own"^^xsd:string ; 
+  :relatedTo :Line_546 .
+
 :TV_Line_547_en a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_547 ;
   :text "make yours. I, dying, will be enough."^^xsd:string .
 
+:TV_Line_548_En a :TranslationVariant ;
+    :text "And what life would be dear to me, if I remain without you?"^^xsd:string ;
+    :relatedTo :Line_548 .
+
+:TV_Line_549_En a :TranslationVariant ;
+    :text "Ask Creon; it is for him that you care."^^xsd:string ;
+    :relatedTo :Line_549 .
+
+:TV_Line_550_En a :TranslationVariant ;
+    :text "Why do you grieve me with these words, while helping in nothing?"^^xsd:string ;
+    :relatedTo :Line_550 .
+
 :TV_Line_551_en a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_551 ;
   :text "If I mock you, I do so with a pained heart."^^xsd:string .
+
+:TV_Line_552_En a :TranslationVariant ;
+    :text "What else, then, could I now do to help you?"^^xsd:string ;
+    :relatedTo :Line_552 .
+
+:TV_Line_553_En a :TranslationVariant ;
+    :text "Save yourself; I do not begrudge your escape."^^xsd:string ;
+    :relatedTo :Line_553 .
+
+:TV_Line_554_En a :TranslationVariant ;
+    :text "Alas for me, unhappy one — shall I lose your fate as well?"^^xsd:string ;
+    :relatedTo :Line_554 .
+
+:TV_Line_555_En a :TranslationVariant ;
+    :text "You chose to live, but I chose to die."^^xsd:string ;
+    :relatedTo :Line_555 .
 
 :TV_Line_556_en a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_556 ;
@@ -29,6 +93,10 @@
   :relatedTo :Line_557 ;
   :text "You seemed wise to some, but I to others."^^xsd:string .
 
+:TV_Line_558_En a :TranslationVariant ;
+    :text "And yet the fault is equal for us both."^^xsd:string ;
+    :relatedTo :Line_558 .
+    
 :TV_Line_559_en a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_559 ;
   :text "Take heart: you live, but my soul long ago"^^xsd:string .

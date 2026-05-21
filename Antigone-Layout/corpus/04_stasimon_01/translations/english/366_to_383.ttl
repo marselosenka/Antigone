@@ -27,7 +27,7 @@
   :text "this: how can I, knowing the truth, deny"^^xsd:string .
 
 :TV_Line_378_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_378 ;
-  :text "that this girl is the child Antigone?"^^xsd:string .
+  :text "that this is not the girl Antigone?"^^xsd:string .
 
 :TV_Line_379_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_379 ;
   :text "O unfortunate woman,"^^xsd:string .

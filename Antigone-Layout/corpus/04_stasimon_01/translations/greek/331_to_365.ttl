@@ -29,11 +29,11 @@
     :relatedTo :Line_336 .
 
 :TV_Line_337_gr a :TranslationVariant ;
-    :text "κύματα· κι ακόμη τη Γη, από τους θεούς"^^xsd:string ;
+    :text "περνώντας κάτω από τα κύματα, των θεών"^^xsd:string ;
     :relatedTo :Line_337 .
 
 :TV_Line_338_gr a :TranslationVariant ;
-    :text "την ύψιστη και αρχαιότερη,"^^xsd:string ;
+    :text "και την ύψιστη Γη,"^^xsd:string ;
     :relatedTo :Line_338 .
 
 :TV_Line_339_gr a :TranslationVariant ;
@@ -76,9 +76,9 @@
     :text "με τεχνάσματα το αγροδίαιτο"^^xsd:string ;
     :relatedTo :Line_348 .
 
-:TV_Line_349_gr a :TranslationVariant ;
-    :text "θηρίο που βαδίζει στα όρη, και το πυκνότριχο"^^xsd:string ;
-    :relatedTo :Line_349 .
+#:TV_Line_349_gr a :TranslationVariant ;
+#    :text "θηρίο που βαδίζει στα όρη, και το πυκνότριχο"^^xsd:string ;
+#    :relatedTo :Line_349 .
 
 :TV_Line_350_gr a :TranslationVariant ;
     :text "θηρίο που βαδίζει στα όρη, και το πυκνότριχο"^^xsd:string ;
@@ -92,13 +92,13 @@
     :text "και τον ακούραστο ορεινό ταύρο."^^xsd:string ;
     :relatedTo :Line_352 .
 
-:TV_Line_353_gr a :TranslationVariant ;
-    :text "Και νου, και πολιτειακές"^^xsd:string ;
-    :relatedTo :Line_353 .
+#:TV_Line_353_gr a :TranslationVariant ;
+#    :text "Και νου, και πολιτειακές"^^xsd:string ;
+#    :relatedTo :Line_353 .
 
-:TV_Line_354_gr a :TranslationVariant ;
-    :text "ορμές έμαθε ο ίδιος, και από τις αφιλόξενες"^^xsd:string ;
-    :relatedTo :Line_354 .
+#:TV_Line_354_gr a :TranslationVariant ;
+#    :text "ορμές έμαθε ο ίδιος, και από τις αφιλόξενες"^^xsd:string ;
+#    :relatedTo :Line_354 .
 
 :TV_Line_355_gr a :TranslationVariant ;
     :text "και φωνή, και ανεμόπνοο φρόνημα, και πολιτειακές"^^xsd:string ;

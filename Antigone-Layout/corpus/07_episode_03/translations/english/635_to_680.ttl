@@ -22,7 +22,7 @@
     :relatedTo :Line_638 .
 
 :TV_Line_639_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Good, because this is how I have to handle the situation,"^^xsd:string ;
+    :text "For thus, my son, one must hold firmly within the heart,"^^xsd:string ;
     :relatedTo :Line_639 .
 
 :TV_Line_640_en a owl:NamedIndividual, :TranslationVariant ;
@@ -42,7 +42,7 @@
     :relatedTo :Line_643 .
 
 :TV_Line_644_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "And still honor their loved ones—just as their father would."^^xsd:string ;
+    :text "and honor their friends equally with their father."^^xsd:string ;
     :relatedTo :Line_644 .
 
 :TV_Line_645_en a owl:NamedIndividual, :TranslationVariant ;

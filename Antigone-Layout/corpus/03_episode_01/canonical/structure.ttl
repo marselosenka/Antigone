@@ -1163,9 +1163,3 @@
     :lineNumber 330 ; 
     :canonicalReference "330"^^xsd:string ;
     :text "Καὶ νῦν γὰρ ἐκτὸς ἐλπίδος γνώμης τ ̓ ἐμῆς"^^xsd:string .
-
-# --- 331 ---
-:Line_331 a owl:NamedIndividual, :Line ; 
-    :lineNumber 331 ; 
-    :canonicalReference "331"^^xsd:string ;
-    :text "σωθεὶς ὀφείλω τοῖς θεοῖς πολλὴν χάριν."^^xsd:string .

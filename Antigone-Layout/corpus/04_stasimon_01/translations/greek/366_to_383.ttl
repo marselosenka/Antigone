@@ -12,9 +12,9 @@
     :text "τιμώντας τους νόμους της γης και τη θεώνυμη δικαιοσύνη των θεών,"^^xsd:string ;
     :relatedTo :Line_367 .
 
-:TV_Line_368_gr a :TranslationVariant ;
-    :text "μα αυτό εδώ· πώς, ενώ το γνωρίζω, να αντιμιλήσω;"^^xsd:string ;
-    :relatedTo :Line_368 .
+#:TV_Line_368_gr a :TranslationVariant ;
+#    :text "μα αυτό εδώ· πώς, ενώ το γνωρίζω, να αντιμιλήσω;"^^xsd:string ;
+#    :relatedTo :Line_368 .
 
 :TV_Line_370_gr a :TranslationVariant ;
     :text "υψίπολις είναι· άπολις εκείνος που με το μη καλό"^^xsd:string ;
@@ -24,9 +24,9 @@
     :text "συνδέεται, χάρη στην τόλμη του· ούτε σε μένα σύντροφος της εστίας"^^xsd:string ;
     :relatedTo :Line_371 .
 
-:TV_Line_372_gr a :TranslationVariant ;
+:TV_Line_375_gr a :TranslationVariant ;
     :text "να γίνει, ούτε ίσος στο φρόνημα, όποιος αυτά πράττει."^^xsd:string ;
-    :relatedTo :Line_372 .
+    :relatedTo :Line_375 .
 
 :TV_Line_376_gr a :TranslationVariant ;
     :text "Μπροστά σε δαιμόνιο τέρας ταλαντεύομαι,"^^xsd:string ;
@@ -49,7 +49,7 @@
     :relatedTo :Line_380 .
 
 :TV_Line_381_gr a :TranslationVariant ;
-    :text "τι συμβαίνει λοιπόν; δεν είναι δυνατόν εσένα"^^xsd:string ;
+    :text "τι ποτέ; δεν είσαι εσύ βέβαια ανυπάκουη"^^xsd:string ;
     :relatedTo :Line_381 .
 
 :TV_Line_382_gr a :TranslationVariant ;
