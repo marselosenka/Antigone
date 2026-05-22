@@ -77,6 +77,7 @@ function initializeVideoControls() {
     }
 
     playPauseBtn.addEventListener('click', e => { e.stopPropagation(); togglePlay(); });
+    document.querySelector('.video-controls')?.addEventListener('click', e => e.stopPropagation());
     videoWrapper.addEventListener('click', togglePlay);
     videoElement.addEventListener('play',  updatePlayState);
     videoElement.addEventListener('pause', updatePlayState);

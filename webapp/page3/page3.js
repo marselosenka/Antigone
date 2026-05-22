@@ -35,7 +35,7 @@ function renderCharacters() {
         bubble.dataset.color     = char.color;
         bubble.textContent       = char.name;
 
-        const size = 100 + (char.importance * 2);
+        const size = Math.round(50 + char.importance * 1.3);
         bubble.style.width  = `${size}px`;
         bubble.style.height = `${size}px`;
         bubble.style.setProperty('--char-color', char.color);
