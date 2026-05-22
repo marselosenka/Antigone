@@ -5,6 +5,9 @@
 
 :episode02-semantics a owl:Ontology .
 
+# ==========================================================================
+# SCENE INFORMATION
+# ==========================================================================
 :Antigone_Scene_Episode_2_384_581
   a :Scene ;
   :sceneNumber "Episode 2 (384-581)"^^xsd:string ;
@@ -23,16 +26,22 @@
                  :Theme_Authority,
                  :Theme_BurialRites .
 
+# ==========================================================================
+# CHARACTERS
+# ==========================================================================
+
 :Antigone_Character_Guard a :Character ; rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 :Antigone_Character_Creon a :Character ; rdfs:label "ΚΡ (Κρέων)"^^xsd:string .
 :Antigone_Character_Antigone a :Character ; rdfs:label "Ἀντιγόνη"^^xsd:string .
 :Antigone_Character_Ismene a :Character ; rdfs:label "Ἰσμήνη"^^xsd:string .
 :Antigone_Character_Chorus a :Character ; rdfs:label "ΧΟ (Χορός)"^^xsd:string .
 
+# =========================================================================
+# SPEECHES
+# =========================================================================
 :Speech_Block_384_440 a :Speech ;
-  :speechBy :Antigone_Character_Guard, :Antigone_Character_Creon, :Antigone_Character_Antigone .
-
-## Manual Annotation
+  :speechBy :Antigone_Character_Guard, 
+  :Antigone_Character_Creon, :Antigone_Character_Antigone .
 
 :Speech_Guard_384_385 a :Speech ;
   :speechBy :Antigone_Character_Guard ;
@@ -337,6 +346,9 @@
 #:Speech_Block_563_581 a :Speech ;
 #  :speechBy :Antigone_Character_Ismene, :Antigone_Character_Creon, :Antigone_Character_Chorus .
 
+# =========================================================================
+# THEMES & CONFLICTS
+# =========================================================================
 :Theme_DivineLaw a :Theme ;
   :description "Antigone privileges unwritten divine law over royal decree."^^xsd:string .
 

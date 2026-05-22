@@ -4,9 +4,9 @@
 
 :stasimon03-semantics a owl:Ontology .
 
-:Antigone_Character_Antigone a :Character,
-        owl:NamedIndividual ;
-    :relatedTo :CreonDecision_EntombAntigoneAlive .
+# ===================================================
+# SCENE INFORMATION
+# ===================================================
 
 :Antigone_Scene_ThirdStasimon_773_805 a :Scene,
         owl:NamedIndividual ;
@@ -17,11 +17,55 @@
         :Speech_Creon_773_780 ;
     :sceneNumber "Stasimon 3"^^xsd:string .
 
+# ===================================================
+# CHARACTERS
+# ===================================================
+:Antigone_Character_Antigone a :Character,
+        owl:NamedIndividual ;
+    :relatedTo :CreonDecision_EntombAntigoneAlive .
+
 :Chorus_Character_Chorus a :Character,
         owl:NamedIndividual ;
     :experiencesEmotion :ChorusEmotion_AweAtErosPower,
         :ChorusEmotion_TearsAndPityForAntigone .
 
+# ===================================================
+# SPEECHES
+# ===================================================
+:Speech_Chorus_781_805 a :ChoralSong,
+        :Speech,
+        owl:NamedIndividual ;
+    :containsLine :Line_781,
+        :Line_782,
+        :Line_783,
+        :Line_784,
+        :Line_785,
+        :Line_786,
+        :Line_787,
+        :Line_788,
+        :Line_789,
+        :Line_790,
+        :Line_791,
+        :Line_792,
+        :Line_793,
+        :Line_794,
+        :Line_795,
+        :Line_796,
+        :Line_797,
+        :Line_798,
+        :Line_799,
+        :Line_800,
+        :Line_801,
+        :Line_802,
+        :Line_803,
+        :Line_804,
+        :Line_805 ;
+    :hasTheme :Theme_ErosOverpowersReasonAndLaw,
+        :Theme_TearsAndPityAtBridalChamberOfDeath ;
+    :speechBy :Chorus_Character_Chorus . 
+# ===================================================
+# THEMES, CONFLICTS, ETHICAL PRINCIPLES, EMOTIONS, MOTIVATIONS, AND MORAL DECISIONS
+# ===================================================
 :ChorusEmotion_AweAtErosPower a :Emotion,
         owl:NamedIndividual ;
     :description "Awe at Eros as an invincible power that drives all to madness."^^xsd:string .
@@ -67,38 +111,6 @@
 :EthicalPrinciple_Justice a :EthicalPrinciple,
         owl:NamedIndividual ;
     :description "Commitment to what is just (δίκαια) in judgment and action."^^xsd:string .
-
-:Speech_Chorus_781_805 a :ChoralSong,
-        :Speech,
-        owl:NamedIndividual ;
-    :containsLine :Line_781,
-        :Line_782,
-        :Line_783,
-        :Line_784,
-        :Line_785,
-        :Line_786,
-        :Line_787,
-        :Line_788,
-        :Line_789,
-        :Line_790,
-        :Line_791,
-        :Line_792,
-        :Line_793,
-        :Line_794,
-        :Line_795,
-        :Line_796,
-        :Line_797,
-        :Line_798,
-        :Line_799,
-        :Line_800,
-        :Line_801,
-        :Line_802,
-        :Line_803,
-        :Line_804,
-        :Line_805 ;
-    :hasTheme :Theme_ErosOverpowersReasonAndLaw,
-        :Theme_TearsAndPityAtBridalChamberOfDeath ;
-    :speechBy :Chorus_Character_Chorus .
 
 :Theme_CivicPurityAndMiasma a :Theme,
         owl:NamedIndividual ;

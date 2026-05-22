@@ -1,8 +1,9 @@
 @prefix : <http://example.org/antigone#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
 # ==========================
-# Ancient Greek [ 1 - 19 ]
+# CHARACTERS
 # ==========================
 :Antigone_Character_Antigone
 a :Character ;
@@ -12,6 +13,10 @@ a :Character ;
 :Antigone_Character_Ismene
 a :Character ;
 :experiencesEmotion :Emotion_Uncertainty, :Emotion_Grief .
+
+# =========================
+# SPEECHES
+# =========================
 
 :Speech_Antigone_1_10
 a :Speech ;
@@ -31,6 +36,227 @@ a :Speech ;
 :speechBy :Antigone_Character_Antigone ;
 :containsLine :Line_018, :Line_019 ;
 :developsTheme :Theme_SecrecyAndTrust .
+
+:Speech_Ismene_20
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_020 ;
+:partOfScene :Antigone_Scene_Dialogue_20_41 ;
+:developsTheme :Theme_EmotionalTurmoil .
+
+:Speech_Antigone_21_38
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_021, :Line_022, :Line_023, :Line_024, :Line_025, :Line_026, :Line_027, :Line_028, :Line_029, :Line_030, :Line_031, :Line_032, :Line_033, :Line_034, :Line_035, :Line_036, :Line_037, :Line_038 ;
+:partOfScene :Antigone_Scene_Dialogue_20_41 ;
+:developsTheme :Theme_BurialRites, :Theme_StateEdict, :Theme_PunishmentThreat, :Theme_FamilyDuty ;
+:hasConflict :Conflict_BurialRitesVsCreonEdict .
+
+:Speech_Ismene_39_40
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_039, :Line_040 ;
+:partOfScene :Antigone_Scene_Dialogue_20_41 ;
+:developsTheme :Theme_Prudence, :Theme_FearOfConsequences .
+
+:Speech_Antigone_41
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_041 ;
+:partOfScene :Antigone_Scene_Dialogue_20_41 ;
+:developsTheme :Theme_FamilyDuty ;
+:hasMotivation :Motivation_SeekIsmeneCooperation .
+
+:Speech_Ismene_42
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_042 ;
+:developsTheme :Theme_SurvivalPrudence ;
+:experiencesEmotion :Emotion_Alarm .
+
+:Speech_Antigone_43
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_043 ;
+:developsTheme :Theme_BurialRites ;
+:hasMotivation :Motivation_BuryBrother .
+
+:Speech_Ismene_44
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_044 ;
+:developsTheme :Theme_TyrannicalLaw ;
+:hasConflict :Conflict_BurialRitesVsCreonEdict .
+
+:Speech_Antigone_45_46
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_045, :Line_046 ;
+:developsTheme :Theme_BurialRites, :Theme_FamilyCurse ;
+:hasMotivation :Motivation_RefuseBetrayal ;
+:experiencesEmotion :Emotion_Resolve .
+
+:Speech_Ismene_47
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_047 ;
+:developsTheme :Theme_TyrannicalLaw ;
+:experiencesEmotion :Emotion_Alarm ;
+:relatedTo :Law_CreonBurialEdict .
+
+:Speech_Antigone_48
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_048 ;
+:developsTheme :Theme_BurialRites ;
+:experiencesEmotion :Emotion_Defiance ;
+:hasConflict :Conflict_BurialRitesVsCreonEdict .
+
+:Speech_Ismene_49_68
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_049, :Line_050, :Line_051, :Line_052, :Line_053, :Line_054, :Line_055, :Line_056, :Line_057, :Line_058, :Line_059, :Line_060, :Line_061, :Line_062, :Line_063, :Line_064, :Line_065, :Line_066, :Line_067, :Line_068 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_FamilyCurse, :Theme_TyrannicalLaw, :Theme_SurvivalPrudence, :Theme_GenderConstraint, :Theme_ObedienceToAuthority ;
+:hasMotivation :Motivation_AvoidDefyingTyrant, :Motivation_ProtectSister ;
+:makesMoralDecision :MoralDecision_UrgePrudence, :MoralDecision_SubmitToRulers ;
+:experiencesEmotion :Emotion_Grief, :Emotion_Fear, :Emotion_Resignation ;
+:hasConflict :Conflict_GenderVsAuthority .
+
+:Speech_Antigone_69_77
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_069, :Line_070, :Line_071, :Line_072, :Line_073, :Line_074, :Line_075, :Line_076, :Line_077 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_BurialDuty, :Theme_DivineLaw, :Theme_DeathAsHonor, :Theme_LoyaltyToDead ;
+:hasConflict :Conflict_DivineLawVsCivicAuthority ;
+:makesMoralDecision :MoralDecision_BuryBrotherAndAcceptDeath ;
+:hasMotivation :Motivation_BuryBrotherDespiteRisk, :Motivation_PleaseUnderworld ;
+:experiencesEmotion :Emotion_Resolve, :Emotion_ReverentDuty, :Emotion_DefiantCourage .
+
+:Speech_Ismene_78_79
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_078, :Line_079 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_DivineLaw, :Theme_ObedienceToAuthority ;
+:experiencesEmotion :Emotion_Resignation ;
+:hasMotivation :Motivation_AvoidForcedAction .
+
+:Speech_Antigone_80_81
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_080, :Line_081 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_BurialDuty ;
+:hasMotivation :Motivation_BuryBrotherDespiteRisk ;
+:experiencesEmotion :Emotion_Resolve .
+
+:Speech_Ismene_82
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_082 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_SisterlyCare ;
+:experiencesEmotion :Emotion_FearForAntigone ;
+:hasMotivation :Motivation_ProtectAntigone .
+
+:Speech_Antigone_83
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_083 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_SisterlyDivision ;
+:experiencesEmotion :Emotion_DefiantCourage .
+
+:Speech_Ismene_84_85
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_084, :Line_085 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_SecrecyVsPublicDeclaration ;
+:hasMotivation :Motivation_KeepPlanSecret ;
+:makesMoralDecision :MoralDecision_RequestSecrecy ;
+:hasConflict :Conflict_SecrecyVsWitness .
+
+:Speech_Antigone_86_87
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_086, :Line_087 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_LoyaltyToDead, :Theme_DivineLaw ;
+:hasMotivation :Motivation_PleaseUnderworld ;
+:experiencesEmotion :Emotion_ReverentDuty, :Emotion_Resolve .
+
+:Speech_Ismene_88
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_088 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_SecrecyVsPublicDeclaration ;
+:experiencesEmotion :Emotion_WarmHeartedConcern .
+
+:Speech_Antigone_89
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_089 ;
+:partOfScene :Antigone_Scene_Dialogue_63_89 ;
+:developsTheme :Theme_LoyaltyToDead, :Theme_DivineLaw ;
+:hasMotivation :Motivation_PleaseUnderworld ;
+:experiencesEmotion :Emotion_ReverentDuty .
+
+:Speech_Ismene_90
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_090 ;
+:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
+:developsTheme :Theme_ImpossibleAction ;
+:hasMotivation :Motivation_IsmeneDiscourageImpossible ;
+:experiencesEmotion :Emotion_IsmeneConcern ;
+:hasConflict :Conflict_PrudenceVsHonor .
+
+:Speech_Antigone_91
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_091 ;
+:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
+:developsTheme :Theme_NobleDeath ;
+:hasMotivation :Motivation_AntigonePersistUntilNoStrength ;
+:experiencesEmotion :Emotion_AntigoneResolve .
+
+:Speech_Ismene_92
+a :Speech ;
+:speechBy :Antigone_Character_Ismene ;
+:containsLine :Line_092 ;
+:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
+:developsTheme :Theme_ImpossibleAction ;
+:hasMotivation :Motivation_IsmeneDiscourageImpossible .
+
+:Speech_Antigone_93_97
+a :Speech ;
+:speechBy :Antigone_Character_Antigone ;
+:containsLine :Line_093, :Line_094, :Line_095, :Line_096, :Line_097 ;
+:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
+:developsTheme :Theme_HonorDead, :Theme_NobleDeath, :Theme_SisterlyConflict ;
+:advocatesFor :EthicalPrinciple_HonorDead ;
+:makesMoralDecision :MoralDecision_DieNoblyForHonor ;
+:hasMotivation :Motivation_AntigoneAcceptConsequences ;
+:experiencesEmotion :Emotion_AntigoneDefiance ;
+:hasConflict :Conflict_PrudenceVsHonor, :Conflict_LoyaltyToDeadVsFear .
+
+:Speech_Ismene_98_99
+    a :Speech ;
+    :speechBy :Antigone_Character_Ismene ;
+    :containsLine :Line_098, :Line_099 ;
+    :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
+    :developsTheme :Theme_LoyalFriendship, :Theme_SisterlyConflict ;
+    :hasMotivation :Motivation_IsmeneReluctantConsent ;
+    :experiencesEmotion :Emotion_IsmeneConcern ;
+    :hasConflict :Conflict_PrudenceVsHonor .
+
+# =========================
+# THEMES, MOTIVATIONS, EMOTIONS, CONFLICTS, MYTHOLOGICAL BACKGROUND, EVENTS
+# =========================
 
 :Motivation_SeekNewsAndDecree
 a :Motivation ;
@@ -109,7 +335,7 @@ a owl:Thing ;
 :relatedTo :Event_ArgiveHostGone .
 
 # ==========================
-# Ancient Greek [ 20 - 41 ]
+# NEED TO MERGE CHARACTERS
 # ==========================
 
 :Antigone_Character_Antigone
@@ -127,35 +353,6 @@ a :Character ;
 :Antigone_Character_Eteocles a :Character .
 :Antigone_Character_Polyneices a :Character .
 
-:Speech_Ismene_20
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_020 ;
-:partOfScene :Antigone_Scene_Dialogue_20_41 ;
-:developsTheme :Theme_EmotionalTurmoil .
-
-:Speech_Antigone_21_38
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_021, :Line_022, :Line_023, :Line_024, :Line_025, :Line_026, :Line_027, :Line_028, :Line_029, :Line_030, :Line_031, :Line_032, :Line_033, :Line_034, :Line_035, :Line_036, :Line_037, :Line_038 ;
-:partOfScene :Antigone_Scene_Dialogue_20_41 ;
-:developsTheme :Theme_BurialRites, :Theme_StateEdict, :Theme_PunishmentThreat, :Theme_FamilyDuty ;
-:hasConflict :Conflict_BurialRitesVsCreonEdict .
-
-:Speech_Ismene_39_40
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_039, :Line_040 ;
-:partOfScene :Antigone_Scene_Dialogue_20_41 ;
-:developsTheme :Theme_Prudence, :Theme_FearOfConsequences .
-
-:Speech_Antigone_41
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_041 ;
-:partOfScene :Antigone_Scene_Dialogue_20_41 ;
-:developsTheme :Theme_FamilyDuty ;
-:hasMotivation :Motivation_SeekIsmeneCooperation .
 
 :Law_CreonBurialEdict
 a :Law ;
@@ -323,61 +520,7 @@ a :Conflict ;
 :description "Σύγκρουσις ἀνάμεσα στὸν περιορισμὸ γυναικῶν καὶ τὴν ἀνδρικὴ/τυραννικὴ ἐξουσία."^^xsd:string ;
 :conflictBetween :Theme_GenderConstraint, :Theme_TyrannicalLaw .
 
-:Speech_Ismene_42
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_042 ;
-:developsTheme :Theme_SurvivalPrudence ;
-:experiencesEmotion :Emotion_Alarm .
 
-:Speech_Antigone_43
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_043 ;
-:developsTheme :Theme_BurialRites ;
-:hasMotivation :Motivation_BuryBrother .
-
-:Speech_Ismene_44
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_044 ;
-:developsTheme :Theme_TyrannicalLaw ;
-:hasConflict :Conflict_BurialRitesVsCreonEdict .
-
-:Speech_Antigone_45_46
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_045, :Line_046 ;
-:developsTheme :Theme_BurialRites, :Theme_FamilyCurse ;
-:hasMotivation :Motivation_RefuseBetrayal ;
-:experiencesEmotion :Emotion_Resolve .
-
-:Speech_Ismene_47
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_047 ;
-:developsTheme :Theme_TyrannicalLaw ;
-:experiencesEmotion :Emotion_Alarm ;
-:relatedTo :Law_CreonBurialEdict .
-
-:Speech_Antigone_48
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_048 ;
-:developsTheme :Theme_BurialRites ;
-:experiencesEmotion :Emotion_Defiance ;
-:hasConflict :Conflict_BurialRitesVsCreonEdict .
-
-:Speech_Ismene_49_68
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_049, :Line_050, :Line_051, :Line_052, :Line_053, :Line_054, :Line_055, :Line_056, :Line_057, :Line_058, :Line_059, :Line_060, :Line_061, :Line_062, :Line_063, :Line_064, :Line_065, :Line_066, :Line_067, :Line_068 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_FamilyCurse, :Theme_TyrannicalLaw, :Theme_SurvivalPrudence, :Theme_GenderConstraint, :Theme_ObedienceToAuthority ;
-:hasMotivation :Motivation_AvoidDefyingTyrant, :Motivation_ProtectSister ;
-:makesMoralDecision :MoralDecision_UrgePrudence, :MoralDecision_SubmitToRulers ;
-:experiencesEmotion :Emotion_Grief, :Emotion_Fear, :Emotion_Resignation ;
-:hasConflict :Conflict_GenderVsAuthority .
 
 # ==========================
 # Ancient Greek [ 63 - 89 ]
@@ -530,137 +673,8 @@ a :Conflict ;
 :description "Conflict between Ismene's request for secrecy and Antigone's demand for public proclamation."^^xsd:string ;
 :conflictBetween :Motivation_KeepPlanSecret, :Motivation_PublicWitnessForJustice .
 
-:Speech_Antigone_69_77
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_069, :Line_070, :Line_071, :Line_072, :Line_073, :Line_074, :Line_075, :Line_076, :Line_077 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_BurialDuty, :Theme_DivineLaw, :Theme_DeathAsHonor, :Theme_LoyaltyToDead ;
-:hasConflict :Conflict_DivineLawVsCivicAuthority ;
-:makesMoralDecision :MoralDecision_BuryBrotherAndAcceptDeath ;
-:hasMotivation :Motivation_BuryBrotherDespiteRisk, :Motivation_PleaseUnderworld ;
-:experiencesEmotion :Emotion_Resolve, :Emotion_ReverentDuty, :Emotion_DefiantCourage .
-
-:Speech_Ismene_78_79
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_078, :Line_079 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_DivineLaw, :Theme_ObedienceToAuthority ;
-:experiencesEmotion :Emotion_Resignation ;
-:hasMotivation :Motivation_AvoidForcedAction .
-
-:Speech_Antigone_80_81
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_080, :Line_081 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_BurialDuty ;
-:hasMotivation :Motivation_BuryBrotherDespiteRisk ;
-:experiencesEmotion :Emotion_Resolve .
-
-:Speech_Ismene_82
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_082 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_SisterlyCare ;
-:experiencesEmotion :Emotion_FearForAntigone ;
-:hasMotivation :Motivation_ProtectAntigone .
-
-:Speech_Antigone_83
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_083 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_SisterlyDivision ;
-:experiencesEmotion :Emotion_DefiantCourage .
-
-:Speech_Ismene_84_85
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_084, :Line_085 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_SecrecyVsPublicDeclaration ;
-:hasMotivation :Motivation_KeepPlanSecret ;
-:makesMoralDecision :MoralDecision_RequestSecrecy ;
-:hasConflict :Conflict_SecrecyVsWitness .
-
-:Speech_Antigone_86_87
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_086, :Line_087 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_LoyaltyToDead, :Theme_DivineLaw ;
-:hasMotivation :Motivation_PleaseUnderworld ;
-:experiencesEmotion :Emotion_ReverentDuty, :Emotion_Resolve .
-
-:Speech_Ismene_88
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_088 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_SecrecyVsPublicDeclaration ;
-:experiencesEmotion :Emotion_WarmHeartedConcern .
-
-:Speech_Antigone_89
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_089 ;
-:partOfScene :Antigone_Scene_Dialogue_63_89 ;
-:developsTheme :Theme_LoyaltyToDead, :Theme_DivineLaw ;
-:hasMotivation :Motivation_PleaseUnderworld ;
-:experiencesEmotion :Emotion_ReverentDuty .
 
 # ==========================
 # Ancient Greek [ 90 - 99 ]
 # ==========================
 
-:Speech_Ismene_90
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_090 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_ImpossibleAction ;
-:hasMotivation :Motivation_IsmeneDiscourageImpossible ;
-:experiencesEmotion :Emotion_IsmeneConcern ;
-:hasConflict :Conflict_PrudenceVsHonor .
-
-:Speech_Antigone_91
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_091 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_NobleDeath ;
-:hasMotivation :Motivation_AntigonePersistUntilNoStrength ;
-:experiencesEmotion :Emotion_AntigoneResolve .
-
-:Speech_Ismene_92
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_092 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_ImpossibleAction ;
-:hasMotivation :Motivation_IsmeneDiscourageImpossible .
-
-:Speech_Antigone_93_97
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_093, :Line_094, :Line_095, :Line_096, :Line_097 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_HonorDead, :Theme_NobleDeath, :Theme_SisterlyConflict ;
-:advocatesFor :EthicalPrinciple_HonorDead ;
-:makesMoralDecision :MoralDecision_DieNoblyForHonor ;
-:hasMotivation :Motivation_AntigoneAcceptConsequences ;
-:experiencesEmotion :Emotion_AntigoneDefiance ;
-:hasConflict :Conflict_PrudenceVsHonor, :Conflict_LoyaltyToDeadVsFear .
-
-:Speech_Ismene_98_99
-    a :Speech ;
-    :speechBy :Antigone_Character_Ismene ;
-    :containsLine :Line_098, :Line_099 ;
-    :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-    :developsTheme :Theme_LoyalFriendship, :Theme_SisterlyConflict ;
-    :hasMotivation :Motivation_IsmeneReluctantConsent ;
-    :experiencesEmotion :Emotion_IsmeneConcern ;
-    :hasConflict :Conflict_PrudenceVsHonor .

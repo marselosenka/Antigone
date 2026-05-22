@@ -5,7 +5,9 @@
 
 :episode01-semantics a owl:Ontology .
 
-
+# ===========================================================================
+# SCENE INFORMATION
+# ===========================================================================
 
 :Antigone_Scene_Episode_1_211_330
   a :Scene ;
@@ -47,6 +49,9 @@
                  :Theme_FearAndResponsibility,
                  :Theme_CorruptionByMoney .
 
+# ===========================================================================
+# CHARACTERS
+# ===========================================================================
 :Antigone_Character_Chorus
   a :Character ;
   rdfs:label "ΧΟ (Χορός)"^^xsd:string .
@@ -59,7 +64,10 @@
   a :Character ;
   rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 
-# Need to add all lines , themes etc
+# ===========================================================================
+# SPEECHES
+# ===========================================================================
+
 :Speech_Chorus_211_214 a :Speech ; :speechBy :Antigone_Character_Chorus .
 :Speech_Creon_215 a :Speech ; :speechBy :Antigone_Character_Creon .
 :Speech_Chorus_216 a :Speech ; :speechBy :Antigone_Character_Chorus .
@@ -92,6 +100,10 @@
 :Speech_Guard_323 a :Speech ; :speechBy :Antigone_Character_Guard .
 :Speech_Creon_324_326 a :Speech ; :speechBy :Antigone_Character_Creon .
 :Speech_Guard_327_331 a :Speech ; :speechBy :Antigone_Character_Guard .
+
+# ===========================================================================
+# THEMES
+# ===========================================================================
 
 :Theme_AuthorityAndLaw a :Theme ;
   :description "Creon asserts political authority through strict civic law."^^xsd:string .

@@ -2,9 +2,9 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# ==========================
-# Exodus Scene Structure
-# ==========================
+# ===============================================================================================
+# SCENE INFORMATION
+# ===============================================================================================
 
 :Antigone_Scene_Exodus
     a :Scene ;
@@ -17,9 +17,52 @@
                     :Theme_WisdomThroughSuffering, :Theme_DivineMadness, :Theme_LivingCorpse ;
     :hasConflict :Conflict_HaemonVsCreon, :Conflict_FortuneVsProphecy, :Conflict_ArroganceVsWisdom .
 
+
 # ==========================
-# Speeches (Consolidated)
+# Characters & Roles
 # ==========================
+
+:Antigone_Character_Messenger
+    a :Character ;
+    :role "Messenger (Άγγελος/Εξάγγελος)"^^xsd:string ;
+    :hasMotivation :Motivation_ReportDownfall, :Motivation_AbsoluteTruth, :Motivation_CheckEurydice ;
+    :experiencesEmotion :Emotion_PhilosophicalSorrow, :Emotion_Fatalism, :Emotion_Suspicion .
+
+:Antigone_Character_Creon
+    a :Character ;
+    :role "Creon (Κρέων)"^^xsd:string ;
+    :status "King (Tyrannos)"^^xsd:string ;
+    :makesMoralDecision :Decision_ConfessGuilt, :Decision_AcceptTotalBlame ;
+    :experiencesEmotion :Emotion_Lamentation, :Emotion_SelfLoathing, :Emotion_Agony, :Emotion_Annihilation, :Emotion_ShatteredIdentity ;
+    :hasMotivation :Motivation_RescueSon, :Motivation_PublicLament, :Motivation_DeathWish .
+
+:Antigone_Character_Eurydice
+    a :Character ;
+    :role "Eurydice (Ευρυδίκη)"^^xsd:string ;
+    :makesMoralDecision :Decision_FinalSuicide ;
+    :experiencesEmotion :Emotion_MaternalGrief, :Emotion_Terror, :Emotion_Misery, :Emotion_Bitterness ;
+    :hasMotivation :Motivation_SeekTruth, :Motivation_CurseCreon .
+
+:Antigone_Character_Haemon
+    a :Character ;
+    :role "Haemon (Αίμων)"^^xsd:string ;
+    :makesMoralDecision :Decision_Suicide_Revenge ;
+    :experiencesEmotion :Emotion_Rage, :Emotion_Despair, :Emotion_Grief ;
+    :hasMotivation :Motivation_RevengeAgainstFather .
+
+:Antigone_Character_Chorus
+    a :Character ;
+    :role "Chorus of Theban Elders (Χορός Θηβαίων Γερόντων)"^^xsd:string ;
+    :experiencesEmotion :Emotion_Anxiety, :Emotion_Foreboding, :Emotion_SternMoralizing ;
+    :advocatesFor :EthicalPrinciple_Wisdom, :EthicalPrinciple_Humility, :EthicalPrinciple_Phronein .
+
+:Antigone_Character_Megareus
+    a :Character ;
+    :description "Elder son of Creon, whose prior death is lamented by Eurydice."^^xsd:string .
+
+# ===========================================================================================
+# SPEECHES
+# ===========================================================================================
 
 :Speech_Messenger_1155_1171
     a :Speech ;
@@ -204,48 +247,6 @@
     :speechBy :Antigone_Character_Chorus ;
     :containsLine :Line_1347, :Line_1348, :Line_1350, :Line_1351, :Line_1352 .
 
-
-# ==========================
-# Characters & Roles
-# ==========================
-
-:Antigone_Character_Messenger
-    a :Character ;
-    :role "Messenger (Άγγελος/Εξάγγελος)"^^xsd:string ;
-    :hasMotivation :Motivation_ReportDownfall, :Motivation_AbsoluteTruth, :Motivation_CheckEurydice ;
-    :experiencesEmotion :Emotion_PhilosophicalSorrow, :Emotion_Fatalism, :Emotion_Suspicion .
-
-:Antigone_Character_Creon
-    a :Character ;
-    :role "Creon (Κρέων)"^^xsd:string ;
-    :status "King (Tyrannos)"^^xsd:string ;
-    :makesMoralDecision :Decision_ConfessGuilt, :Decision_AcceptTotalBlame ;
-    :experiencesEmotion :Emotion_Lamentation, :Emotion_SelfLoathing, :Emotion_Agony, :Emotion_Annihilation, :Emotion_ShatteredIdentity ;
-    :hasMotivation :Motivation_RescueSon, :Motivation_PublicLament, :Motivation_DeathWish .
-
-:Antigone_Character_Eurydice
-    a :Character ;
-    :role "Eurydice (Ευρυδίκη)"^^xsd:string ;
-    :makesMoralDecision :Decision_FinalSuicide ;
-    :experiencesEmotion :Emotion_MaternalGrief, :Emotion_Terror, :Emotion_Misery, :Emotion_Bitterness ;
-    :hasMotivation :Motivation_SeekTruth, :Motivation_CurseCreon .
-
-:Antigone_Character_Haemon
-    a :Character ;
-    :role "Haemon (Αίμων)"^^xsd:string ;
-    :makesMoralDecision :Decision_Suicide_Revenge ;
-    :experiencesEmotion :Emotion_Rage, :Emotion_Despair, :Emotion_Grief ;
-    :hasMotivation :Motivation_RevengeAgainstFather .
-
-:Antigone_Character_Chorus
-    a :Character ;
-    :role "Chorus of Theban Elders (Χορός Θηβαίων Γερόντων)"^^xsd:string ;
-    :experiencesEmotion :Emotion_Anxiety, :Emotion_Foreboding, :Emotion_SternMoralizing ;
-    :advocatesFor :EthicalPrinciple_Wisdom, :EthicalPrinciple_Humility, :EthicalPrinciple_Phronein .
-
-:Antigone_Character_Megareus
-    a :Character ;
-    :description "Elder son of Creon, whose prior death is lamented by Eurydice."^^xsd:string .
 
 # ==========================
 # Themes & Concepts

@@ -2,9 +2,9 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# ==========================
-# Stasimon 5 Scene Structure
-# ==========================
+# ===================================================================================
+# SCENE INFORMATION
+# ===================================================================================
 
 :Antigone_Scene_Stasimon5
     a :Scene ;
@@ -14,6 +14,25 @@
     :hasConflict :Conflict_ThebesVsPlague ;
     :hasHistoricalContext :Context_ThebanPlague .
 
+# =============================================================================================
+# CHARACTERS
+# =============================================================================================
+
+:Antigone_Character_Chorus
+    a :Character ;
+    :role "Chorus of Theban Elders"^^xsd:string ;
+    :hasMotivation :Motivation_CleanseThebes, :Motivation_InvokeHealer ;
+    :experiencesEmotion :Emotion_ReligiousFervor, :Emotion_DesperateHope, :Emotion_DesperateReverence ;
+    :referencesMyth :Myth_Semele, :Myth_DragonsTeeth, :Myth_Nysa .
+
+:Antigone_Character_Dionysus
+    a :Character ;
+    :role "Deity (Invoked)"^^xsd:string ;
+    :description "The god Dionysus (Bacchus, Iacchus), protector and patron of Thebes, invoked to heal the city."^^xsd:string .
+
+# ===================================================================================
+# SPEECHES
+# ===================================================================================
 :Speech_Chorus_1115_1154
     a :Speech ;
     :speechBy :Antigone_Character_Chorus ;
@@ -50,22 +69,6 @@
     a :Speech ;
     :speechBy :Antigone_Character_Chorus ;
     :containsLine :Line_1146, :Line_1147, :Line_1148, :Line_1149, :Line_1150, :Line_1151, :Line_1152 .
-
-# ==========================
-# Characters & Entities
-# ==========================
-
-:Antigone_Character_Chorus
-    a :Character ;
-    :role "Chorus of Theban Elders"^^xsd:string ;
-    :hasMotivation :Motivation_CleanseThebes, :Motivation_InvokeHealer ;
-    :experiencesEmotion :Emotion_ReligiousFervor, :Emotion_DesperateHope, :Emotion_DesperateReverence ;
-    :referencesMyth :Myth_Semele, :Myth_DragonsTeeth, :Myth_Nysa .
-
-:Antigone_Character_Dionysus
-    a :Character ;
-    :role "Deity (Invoked)"^^xsd:string ;
-    :description "The god Dionysus (Bacchus, Iacchus), protector and patron of Thebes, invoked to heal the city."^^xsd:string .
 
 # ==========================
 # Themes & Motivations

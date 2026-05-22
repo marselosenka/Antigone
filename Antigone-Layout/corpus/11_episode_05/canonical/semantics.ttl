@@ -2,9 +2,9 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# ==========================
-# Episode 5 Scene Structure
-# ==========================
+# ====================================================================================
+# SCENE INFORMATION
+# ====================================================================================
 
 :Antigone_Scene_Episode5
     a :Scene ;
@@ -27,9 +27,55 @@
     :developsTheme :Theme_DivineRetribution, :Theme_Peripeteia, :Theme_CivicPollution, :Theme_NaturalOrder ;
     :hasConflict :Conflict_UpperLowerWorlds, :Conflict_InternalCreon .
 
-# ==========================
-# Speeches (Lines 988 - 1114)
-# ==========================
+# ===============================================================================
+# CHARACTERS
+# ===========================================================================
+
+:Antigone_Character_Teiresias
+    a :Character ;
+    :role "Seer/Prophet"^^xsd:string ;
+    :status "Priest"^^xsd:string ;
+    :hasMotivation :Motivation_WarnCreon, :Motivation_RestoreRitualOrder, :Motivation_RevealTruth, :Motivation_PronounceDoom ;
+    :experiencesEmotion :Emotion_PropheticDread, :Emotion_Indignation, :Emotion_RighteousAnger ;
+    :advocatesFor :Ethical_Amends, :Principle_PrimacyOfReason .
+
+:Antigone_Character_Creon
+    a :Character ;
+    :role "King of Thebes"^^xsd:string ;
+    :hasMotivation :Motivation_HeedProphet, :Motivation_DismissProphecy, :Motivation_AssertAuthority, :Motivation_AvoidRuin ;
+    :experiencesEmotion :Emotion_TremblingFear, :Emotion_Paranoia, :Emotion_DefensiveAnger, :Emotion_TerrifiedHesitation, :Emotion_Regret ;
+    :makesMoralDecision :Decision_ListenToSeer, :Decision_RevokeEdict ;
+    :advocatesFor :Principle_DivineInvulnerability, :Ethical_TraditionalLaws ;
+    :tragicFlaw "Stubbornness/Hybris"^^xsd:string ;
+    :relatedTo :Event_Peripeteia .
+
+:Antigone_Character_Hephaestus
+    a :Character ;
+    :role "God of Fire/Forge"^^xsd:string ;
+    :description "Ἥφαιστος (Hephaestus), metonymy for the sacrificial fire that failed to ignite."^^xsd:string .
+
+:Antigone_Character_Boy
+    a :Character ;
+    :role "Guide to Teiresias"^^xsd:string ;
+    :description "The eyes for the blind prophet."^^xsd:string .
+
+:Antigone_Character_Polyneices
+    a :Character ;
+    :role "Deceased"^^xsd:string ;
+    :description "The unburied corpse causing the miasma/pollution."^^xsd:string .
+
+:Antigone_Character_Furies
+    a :Character ;
+    :role "Deities of Vengeance"^^xsd:string ;
+    :description "θεῶν Ἐρινύες (Furies), vengeful executioners of Hades who lie in ambush."^^xsd:string .
+
+:Antigone_Character_Haemon
+    a :Character ;
+    :description "The 'corpse sprung from your own flesh' prophesied by Teiresias."^^xsd:string .
+
+# ===========================================================================
+# SPEECHES
+# ===========================================================================
 
 :Speech_Teiresias_Ep5_Part1
     a :Speech ;
@@ -82,8 +128,6 @@
     :containsLine :Line_1095, :Line_1096, :Line_1097, :Line_1098, :Line_1099, :Line_1100, :Line_1101, :Line_1102, :Line_1103, :Line_1104, :Line_1105, :Line_1106, :Line_1107, :Line_1108, :Line_1109, :Line_1110, :Line_1111, :Line_1112, :Line_1113, :Line_1114 ;
     :hasMotivation :Motivation_AvoidRuin ;
     :makesMoralDecision :Decision_RevokeEdict .
-
-## Manual Speeches fix
 
 :Speech_Teiresias_988_990 a :Speech;
     :speechby :Antigone_Character_Teiresias ;
@@ -233,51 +277,6 @@
     :speechBy :Antigone_Character_Creon ;
     :containsLine :Line_1108, :Line_1109, :Line_1110, :Line_1111, :Line_1112, :Line_1113, :Line_1114 .
 
-# ==========================
-# Characters
-# ==========================
-
-:Antigone_Character_Teiresias
-    a :Character ;
-    :role "Seer/Prophet"^^xsd:string ;
-    :status "Priest"^^xsd:string ;
-    :hasMotivation :Motivation_WarnCreon, :Motivation_RestoreRitualOrder, :Motivation_RevealTruth, :Motivation_PronounceDoom ;
-    :experiencesEmotion :Emotion_PropheticDread, :Emotion_Indignation, :Emotion_RighteousAnger ;
-    :advocatesFor :Ethical_Amends, :Principle_PrimacyOfReason .
-
-:Antigone_Character_Creon
-    a :Character ;
-    :role "King of Thebes"^^xsd:string ;
-    :hasMotivation :Motivation_HeedProphet, :Motivation_DismissProphecy, :Motivation_AssertAuthority, :Motivation_AvoidRuin ;
-    :experiencesEmotion :Emotion_TremblingFear, :Emotion_Paranoia, :Emotion_DefensiveAnger, :Emotion_TerrifiedHesitation, :Emotion_Regret ;
-    :makesMoralDecision :Decision_ListenToSeer, :Decision_RevokeEdict ;
-    :advocatesFor :Principle_DivineInvulnerability, :Ethical_TraditionalLaws ;
-    :tragicFlaw "Stubbornness/Hybris"^^xsd:string ;
-    :relatedTo :Event_Peripeteia .
-
-:Antigone_Character_Hephaestus
-    a :Character ;
-    :role "God of Fire/Forge"^^xsd:string ;
-    :description "Ἥφαιστος (Hephaestus), metonymy for the sacrificial fire that failed to ignite."^^xsd:string .
-
-:Antigone_Character_Boy
-    a :Character ;
-    :role "Guide to Teiresias"^^xsd:string ;
-    :description "The eyes for the blind prophet."^^xsd:string .
-
-:Antigone_Character_Polyneices
-    a :Character ;
-    :role "Deceased"^^xsd:string ;
-    :description "The unburied corpse causing the miasma/pollution."^^xsd:string .
-
-:Antigone_Character_Furies
-    a :Character ;
-    :role "Deities of Vengeance"^^xsd:string ;
-    :description "θεῶν Ἐρινύες (Furies), vengeful executioners of Hades who lie in ambush."^^xsd:string .
-
-:Antigone_Character_Haemon
-    a :Character ;
-    :description "The 'corpse sprung from your own flesh' prophesied by Teiresias."^^xsd:string .
 
 # ==========================
 # Themes & Principles

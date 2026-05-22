@@ -5,6 +5,13 @@
 
 :stasimon02-semantics a owl:Ontology .
 
+# ====================================================================
+# SCENE INFORMATION
+# ====================================================================
+:Antigone_Scene_Stasimon_02_582_630
+    a :Scene ;
+    :hasSpeeches :Speech_Chorus_583_591, :Speech_Chorus_592_602, :Speech_Chorus_605_614, :Speech_Chorus_615_623, :Speech_Chorus_625, :Speech_Chorus_626_630 .
+
 ################################################################
 # CHARACTERS
 ################################################################
@@ -12,13 +19,12 @@
 :Chorus a :Character .
 :Zeus a :Character .
 :Mankind a :Character .
-################################################################
-# STASIMON SCENE
-################################################################
 
-:Antigone_Scene_Stasimon_02_582_630
-  a :Scene ;
-  :hasSpeeches :Speech_Chorus_583_591, :Speech_Chorus_592_602, :Speech_Chorus_605_614, :Speech_Chorus_615_623, :Speech_Chorus_625, :Speech_Chorus_626_630 .
+# Note: The following characters are not explicitly mentioned in 
+# the stasimon but are relevant for the motivations and conflicts described
+:Haemon a :Character .
+:Antigone a :Character .
+:Creon a :Character .
 
 ################################################################
 # SPEECHES
@@ -113,13 +119,12 @@
 :Theme_HumanFrailty a :Theme ;
     :description "Η τραγική ανθρώπινη μοίρα, όπου το μεγαλείο φέρνει πάντα την καταστροφή (ἐκτὸς ἄτας)."^^xsd:string .
 
-################################################################
-# CHARACTERS (EPISODE TRANSITION CONTEXT)
-################################################################
-
-:Haemon a :Character .
-:Antigone a :Character .
-:Creon a :Character .
+:Theme_FalseHope a :Theme ;
+    :description "Η ελπίδα ως πλάνη που ξεγελά τις επιπόλαιες επιθυμίες και οδηγεί ανεπίγνωστα στον πόνο."^^xsd:string .
+:Theme_DivineMadness a :Theme ;
+    :description "Η διαστρέβλωση της ανθρώπινης αντίληψης από τους θεούς, ώστε να φαίνεται το κακό ως καλό πριν από την καταστροφή."^^xsd:string .
+:Theme_FilialDuty a :Theme ;
+    :description "Η προσδοκία της απόλυτης πίστης και συμμαχίας ενός γιου προς τον πατέρα του."^^xsd:string .
 
 
 ################################################################
@@ -192,14 +197,3 @@
     :description "Η ρίψη της τελικής ψήφου (τελείαν ψῆφον) που καταδικάζει την Αντιγόνη."^^xsd:string .
 :Event_FinalVote :relatedTo :Emotion_Grief .
 :Event_FinalVote :relatedTo :Emotion_Raving .
-
-################################################################
-# THEMES
-################################################################
-
-:Theme_FalseHope a :Theme ;
-    :description "Η ελπίδα ως πλάνη που ξεγελά τις επιπόλαιες επιθυμίες και οδηγεί ανεπίγνωστα στον πόνο."^^xsd:string .
-:Theme_DivineMadness a :Theme ;
-    :description "Η διαστρέβλωση της ανθρώπινης αντίληψης από τους θεούς, ώστε να φαίνεται το κακό ως καλό πριν από την καταστροφή."^^xsd:string .
-:Theme_FilialDuty a :Theme ;
-    :description "Η προσδοκία της απόλυτης πίστης και συμμαχίας ενός γιου προς τον πατέρα του."^^xsd:string .

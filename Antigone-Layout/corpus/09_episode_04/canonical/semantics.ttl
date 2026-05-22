@@ -4,12 +4,21 @@
 
 :episode04-semantics a owl:Ontology .
 
-:Antigone_Character_Antigone a :Character,
+# ===================================================================
+# SCENE INFORMATION
+# ==================================================================
+
+# Scenes seem problematic, need to merge into one.
+
+# This is incorrect, Stasimon is the next play..
+:Antigone_Scene_Stasimon4 a :Scene,
         owl:NamedIndividual ;
-    :experiencesEmotion :AntigoneEmotion_LamentAndDespair ;
-    :hasMotivation :AntigoneMotivation_AddressCitizensAsWitnesses ;
-    :makesMoralDecision :AntigoneDecision_AcceptDeathAsAcheronBride ;
-    :relatedTo :Theme_DeathAsMarriage .
+    :developsTheme :Theme_DeathAsMarriage,
+        :Theme_IsolationAndFameInDeath ;
+    :hasConflict :Conflict_LifeVsDeathTransition ;
+    :hasSpeech :Speech_Antigone_806_815,
+        :Speech_Chorus_816_822 ;
+    :sceneNumber "Stasimon 4"^^xsd:string .
 
 :Antigone_Scene_872_928 a :Scene,
         owl:NamedIndividual ;
@@ -22,27 +31,6 @@
         :Speech_Chorus_872_875,
         :Speech_Creon_883_890 ;
     :sceneNumber "872-928"^^xsd:string .
-
-:Antigone_Scene_Stasimon4 a :Scene,
-        owl:NamedIndividual ;
-    :developsTheme :Theme_DeathAsMarriage,
-        :Theme_IsolationAndFameInDeath ;
-    :hasConflict :Conflict_LifeVsDeathTransition ;
-    :hasSpeech :Speech_Antigone_806_815,
-        :Speech_Chorus_816_822 ;
-    :sceneNumber "Stasimon 4"^^xsd:string .
-
-:Antigone_Scene_Stasimon4_ExodosTransition a :Scene,
-        owl:NamedIndividual ;
-    :developsTheme :Theme_DivineVsMortalCondition,
-        :Theme_FamilyCurseOfLabdacids,
-        :Theme_LivingDeathAndExile ;
-    :hasConflict :Conflict_AntigoneVsChorusOnDivineComparison ;
-    :hasSpeech :Speech_Antigone_823_853,
-        :Speech_Antigone_856_871,
-        :Speech_Chorus_854_855 ;
-    :sceneNumber "Kommos/lyric exchange (Antigone with Chorus), lines 823-871"^^xsd:string ;
-    :setting "Before the palace at Thebes; Antigone led toward her living tomb (implied by text)."^^xsd:string .
 
 :Antigone_Scene_Unknown_929_965 a :Scene,
         owl:NamedIndividual ;
@@ -58,191 +46,44 @@
         :Speech_Creon_935_935 ;
     :sceneNumber "929-965"^^xsd:string .
 
-:AntigoneDecision_AcceptBeingLed a :MoralDecision,
-        owl:NamedIndividual ;
-    :description "Antigone acknowledges she is being led away and will no longer delay, accepting the immediate course toward death."^^xsd:string ;
-    :relatedTo :AntigoneMotivation_AffirmPietyBeforeDeath .
 
-:AntigoneDecision_AcceptDeathAsAcheronBride a :MoralDecision,
+:Antigone_Scene_Stasimon4_ExodosTransition a :Scene,
         owl:NamedIndividual ;
-    :description "Ἀντὶ γάμου ἐν νυμφείοις, Ἀχέροντι νυμφεύσεσθαι: ἀποδέχεται τὴν κάθοδον ὡς 'γάμον' πρὸς τὸν κάτω κόσμον."^^xsd:string ;
+    :developsTheme :Theme_DivineVsMortalCondition,
+        :Theme_FamilyCurseOfLabdacids,
+        :Theme_LivingDeathAndExile ;
+    :hasConflict :Conflict_AntigoneVsChorusOnDivineComparison ;
+    :hasSpeech :Speech_Antigone_823_853,
+        :Speech_Antigone_856_871,
+        :Speech_Chorus_854_855 ;
+    :sceneNumber "Kommos/lyric exchange (Antigone with Chorus), lines 823-871"^^xsd:string ;
+    :setting "Before the palace at Thebes; Antigone led toward her living tomb (implied by text)."^^xsd:string .
+
+
+# ==========================================================
+# CHARACTERS
+# ==========================================================
+
+:Antigone_Character_Antigone a :Character,
+        owl:NamedIndividual ;
+    :experiencesEmotion :AntigoneEmotion_LamentAndDespair ;
+    :hasMotivation :AntigoneMotivation_AddressCitizensAsWitnesses ;
+    :makesMoralDecision :AntigoneDecision_AcceptDeathAsAcheronBride ;
     :relatedTo :Theme_DeathAsMarriage .
-
-:AntigoneDecision_PrioritizeBrotherOverPotentialHusbandOrChildren a :MoralDecision,
-        owl:NamedIndividual ;
-    :description "She declares she would not have taken such toil for a dead husband or for children, since those could be replaced, but not a brother once parents are in Hades."^^xsd:string ;
-    :relatedTo :AntigoneMotivation_HonorPolyneicesWithBurialRites .
-
-:AntigoneEmotion_HopeForFamilyAcceptanceInDeath a :Emotion,
-        owl:NamedIndividual ;
-    :description "She nourishes hope that she will come dear to her father, mother, and brother in Hades because she performed burial rites for them."^^xsd:string .
-
-:AntigoneEmotion_HumiliationAtMockery a :Emotion,
-        owl:NamedIndividual ;
-    :description "Antigone feels mocked and dishonoured ('γελῶμαι', 'ὑβρίζεις') while still visible and not yet gone."^^xsd:string .
-
-:AntigoneEmotion_IndignationAtInjustice a :Emotion,
-        owl:NamedIndividual ;
-    :description "She questions what divine justice she has transgressed and protests that she has gained 'δυσσέβειαν' by acting piously."^^xsd:string .
-
-:AntigoneEmotion_LamentAndDespair a :Emotion,
-        owl:NamedIndividual ;
-    :description "Θρῆνος καὶ ἀπόγνωσις: ὁρᾶται βαδίζουσα τὴν νεάταν ὁδόν, ἀπολείπουσα τὸ φέγγος ἡλίου, ἄνευ ὑμεναίων."^^xsd:string .
-
-:AntigoneEmotion_LamentAndDread a :Emotion,
-        owl:NamedIndividual ;
-    :description "Antigone laments (οἴμοι) and recognizes the nearness of death as she is led away."^^xsd:string .
-
-:AntigoneEmotion_LamentAndIsolation a :Emotion,
-        owl:NamedIndividual ;
-    :description "Antigone laments being led away 'ἄκλαυτος, ἄφιλος, ἀνυμέναιος' and deprived of the light; she notes no friend mourns her fate."^^xsd:string .
-
-:AntigoneEmotion_LamentationAndDespair a :Emotion,
-        owl:NamedIndividual ;
-    :description "Lament for her fate as neither among the living nor the dead; grief over family curse and isolation."^^xsd:string .
-
-:AntigoneMotivation_AddressCitizensAsWitnesses a :Motivation,
-        owl:NamedIndividual ;
-    :description "Βούλεται τοὺς πολίτας μάρτυρας ποιήσασθαι τῆς ἐσχάτης πορείας καὶ τῆς ἀδικίας/μοίρας τῆς ἄγουσας."^^xsd:string .
-
-:AntigoneMotivation_AffirmPietyBeforeDeath a :Motivation,
-        owl:NamedIndividual ;
-    :description "Antigone seeks to bear witness to her suffering and to frame it as the result of honoring piety (εὐσέβεια) as she is led away."^^xsd:string .
-
-:AntigoneMotivation_AppealToCityAsWitness a :Motivation,
-        owl:NamedIndividual ;
-    :description "She calls on Thebes (Dirce's springs, the grove) and its citizens as witnesses to her unwept, friendless march to the tomb."^^xsd:string .
-
-:AntigoneMotivation_HonorPolyneicesWithBurialRites a :Motivation,
-        owl:NamedIndividual ;
-    :description "To honor Polyneices by washing, adorning, and giving tomb-offerings; she claims this is why she now suffers."^^xsd:string .
-
-:AntigoneMotivation_InterpretFateAsDivineLullingToRest a :Motivation,
-        owl:NamedIndividual ;
-    :description "She interprets her situation through the paradigm of Niobe and says a daimon 'lulls' her into a similar rest—seeking meaning in divine causation."^^xsd:string .
 
 :Chorus_Character_Chorus a :Character,
         owl:NamedIndividual ;
     :experiencesEmotion :ChorusEmotion_AweAndPity ;
     :relatedTo :Theme_IsolationAndFameInDeath .
 
-:ChorusEmotion_AustereAdmonition a :Emotion,
-        owl:NamedIndividual ;
-    :description "Sober, admonitory stance: stresses mortal limits and frames Antigone's suffering as consequence of daring against Justice."^^xsd:string .
-
-:ChorusEmotion_AweAndPity a :Emotion,
-        owl:NamedIndividual ;
-    :description "Θαῦμα καὶ οἶκτος: κλεινὴ καὶ ἔπαινον ἔχουσα, αὐτόνομος ζῶσα μόνη καταβαίνει πρὸς Ἅιδην."^^xsd:string .
-
-:ChorusEmotion_ConcernAtPersistentGrief a :Emotion,
-        owl:NamedIndividual ;
-    :description "The Chorus notes the same gusts of the soul still persist, implying ongoing agitation and grief."^^xsd:string .
-
-:ChorusEmotion_ReproachAtSelfWilledAnger a :Emotion,
-        owl:NamedIndividual ;
-    :description "The Chorus attributes Antigone's ruin to 'αὐτόγνωτος ... ὀργά' while acknowledging piety."^^xsd:string .
-
-:ChorusFateEvent_MoiridiaPower a owl:NamedIndividual,
-        owl:Thing ;
-    :description "The Chorus asserts that a certain allotted power (μοιριδία δύνασις) is terrible and inescapable."^^xsd:string ;
-    :relatedTo :Theme_InevitabilityOfFate .
-
-:Conflict_AntigonePietyVsCreonAuthority a :Conflict,
-        owl:NamedIndividual ;
-    :conflictBetween :Antigone_Character_Antigone,
-        :Creon_Character_Creon,
-        :EthicalPrinciple_CivicAuthority,
-        :EthicalPrinciple_Piety ;
-    :description "Opposition between Antigone's claim to piety (εὐσέβεια) and Creon's insistence on civic authority and the confirmed sentence."^^xsd:string .
-
-:Conflict_AntigonePietyVsCreonDecree a :Conflict,
-        owl:NamedIndividual ;
-    :conflictBetween :Antigone_Character_Antigone,
-        :Creon_Character_Creon,
-        :EthicalPrinciple_PietyTowardDeadAndFamily,
-        :Law_CreonDecreeAgainstPolyneicesBurial ;
-    :description "Opposition between Antigone's pious familial duty and Creon's civic decree/punishment."^^xsd:string .
-
-:Conflict_AntigoneVsChorusOnDivineComparison a :Conflict,
-        owl:NamedIndividual ;
-    :conflictBetween :Antigone_Character_Antigone,
-        :Chorus_Character_Chorus,
-        :EthicalPrinciple_MortalHumilityBeforeGods ;
-    :description "Antigone's self-comparison to Niobe and appeal to divine framing clashes with the Chorus' insistence on mortal humility and separation from the divine."^^xsd:string .
-
-:Conflict_LifeVsDeathTransition a :Conflict,
-        owl:NamedIndividual ;
-    :conflictBetween :EthicalPrinciple_Life,
-        :FateConcept_DeathInevitability ;
-    :description "Ἀντίθεσις μεταξὺ τοῦ φέγγους ἡλίου (βίος) καὶ τοῦ παγκοίτου Ἅιδου/Ἀχέροντος (θάνατος), ὡς ἀναγκαστικὴ μετάβασις."^^xsd:string .
-
 :Creon_Character_Creon a :Character,
         owl:NamedIndividual ;
     :hasMotivation :CreonMotivation_EnforcePunishmentByEntombment ;
     :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
 
-:CreonDecision_ConfirmSentence a :MoralDecision,
-        owl:NamedIndividual ;
-    :description "Creon refuses to offer reassurance and insists the outcome will be confirmed as decided."^^xsd:string .
-
-:CreonDecision_EntombAntigoneAlive a :MoralDecision,
-        owl:NamedIndividual ;
-    :description "He orders Antigone to be taken quickly and enclosed in a covered tomb, left solitary to die or live entombed."^^xsd:string ;
-    :relatedTo :AntigoneEmotion_LamentAndIsolation .
-
-:CreonEmotion_UnyieldingResolve a :Emotion,
-        owl:NamedIndividual ;
-    :description "Creon shows firmness and lack of consolation; he will not be persuaded otherwise."^^xsd:string .
-
-:CreonMotivation_EnforcePunishmentByEntombment a :Motivation,
-        owl:NamedIndividual ;
-    :description "To carry out the ordered punishment: shut Antigone in a roofed tomb, leave her alone, and remove the city's direct responsibility for her death."^^xsd:string .
-
-:CreonMotivation_PunishDelayAndProceed a :Motivation,
-        owl:NamedIndividual ;
-    :description "Creon intends that those leading Antigone away will have lamentation as a consequence of their slowness; he presses the process forward."^^xsd:string .
-
-:EthicalPrinciple_CivicAuthority a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "The ruler's authority and enforcement of civic order as a moral priority."^^xsd:string .
-
-:EthicalPrinciple_Life a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Ἀξία τοῦ ζῆν καὶ τοῦ ὁρᾶν τὸ φέγγος ἡλίου."^^xsd:string .
-
-:EthicalPrinciple_MortalHumilityBeforeGods a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Humans are mortal and must not claim equality with gods; divine status is separate from human fate."^^xsd:string .
-
-:EthicalPrinciple_Piety a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Reverence toward gods and ancestral/divine obligations (εὐσέβεια) as a guiding moral claim."^^xsd:string .
-
-:EthicalPrinciple_PietyTowardDeadAndFamily a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Eusebeia expressed as duty to the dead and to kin: burial, offerings, and honoring family even against civic judgment."^^xsd:string .
-
-:EthicalPrinciple_RespectForAncestralGodsAndCity a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Appeal to ancestral gods and the civic community as moral witnesses; insistence on being judged within sacred/civic frameworks."^^xsd:string .
-
-:EthicalPrinciple_SubmissionToFate a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Recognition that allotted destiny (μοῖρα) is inescapable and must be endured."^^xsd:string .
-
-:Event_AntigoneLedToLivingTomb a :MoralDecision,
-        owl:NamedIndividual ;
-    :description "Antigone is taken toward the 'τυμβόχωστον ἕργμα'—a tomb-like enclosure while alive."^^xsd:string ;
-    :relatedTo :Theme_LivingDeathAndExile .
-
-:FateConcept_DeathInevitability a :FateConcept,
-        owl:NamedIndividual ;
-    :description "Ἀναπόδραστος κάθοδος πρὸς Ἅιδην· ὁ θάνατος ὡς ἀνάγκη."^^xsd:string ;
-    :determinesOutcomeOf :Conflict_LifeVsDeathTransition .
-
-:Law_CreonDecreeAgainstPolyneicesBurial a :Law,
-        owl:NamedIndividual ;
-    :description "Creon's civic prohibition/punitive stance regarding Polyneices' burial, implied by Antigone's claim that Creon judged her acts as wrongdoing."^^xsd:string .
+# =========================================================
+# SPEECHES
+# =========================================================
 
 :Speech_Antigone_806_815 a :ChoralSong,
         :Speech,
@@ -489,6 +330,189 @@
     :containsLine :Line_935 ;
     :hasTheme :Theme_ResolveToEnforceDecision ;
     :speechBy :Creon_Character_Creon .
+    
+
+# =============================================================================
+# DECISIONS, EMOTIONS, MOTIVATIONS, CONFLICTS, THEMES
+# =============================================================================
+
+
+:AntigoneDecision_AcceptBeingLed a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "Antigone acknowledges she is being led away and will no longer delay, accepting the immediate course toward death."^^xsd:string ;
+    :relatedTo :AntigoneMotivation_AffirmPietyBeforeDeath .
+
+:AntigoneDecision_AcceptDeathAsAcheronBride a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "Ἀντὶ γάμου ἐν νυμφείοις, Ἀχέροντι νυμφεύσεσθαι: ἀποδέχεται τὴν κάθοδον ὡς 'γάμον' πρὸς τὸν κάτω κόσμον."^^xsd:string ;
+    :relatedTo :Theme_DeathAsMarriage .
+
+:AntigoneDecision_PrioritizeBrotherOverPotentialHusbandOrChildren a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "She declares she would not have taken such toil for a dead husband or for children, since those could be replaced, but not a brother once parents are in Hades."^^xsd:string ;
+    :relatedTo :AntigoneMotivation_HonorPolyneicesWithBurialRites .
+
+:AntigoneEmotion_HopeForFamilyAcceptanceInDeath a :Emotion,
+        owl:NamedIndividual ;
+    :description "She nourishes hope that she will come dear to her father, mother, and brother in Hades because she performed burial rites for them."^^xsd:string .
+
+:AntigoneEmotion_HumiliationAtMockery a :Emotion,
+        owl:NamedIndividual ;
+    :description "Antigone feels mocked and dishonoured ('γελῶμαι', 'ὑβρίζεις') while still visible and not yet gone."^^xsd:string .
+
+:AntigoneEmotion_IndignationAtInjustice a :Emotion,
+        owl:NamedIndividual ;
+    :description "She questions what divine justice she has transgressed and protests that she has gained 'δυσσέβειαν' by acting piously."^^xsd:string .
+
+:AntigoneEmotion_LamentAndDespair a :Emotion,
+        owl:NamedIndividual ;
+    :description "Θρῆνος καὶ ἀπόγνωσις: ὁρᾶται βαδίζουσα τὴν νεάταν ὁδόν, ἀπολείπουσα τὸ φέγγος ἡλίου, ἄνευ ὑμεναίων."^^xsd:string .
+
+:AntigoneEmotion_LamentAndDread a :Emotion,
+        owl:NamedIndividual ;
+    :description "Antigone laments (οἴμοι) and recognizes the nearness of death as she is led away."^^xsd:string .
+
+:AntigoneEmotion_LamentAndIsolation a :Emotion,
+        owl:NamedIndividual ;
+    :description "Antigone laments being led away 'ἄκλαυτος, ἄφιλος, ἀνυμέναιος' and deprived of the light; she notes no friend mourns her fate."^^xsd:string .
+
+:AntigoneEmotion_LamentationAndDespair a :Emotion,
+        owl:NamedIndividual ;
+    :description "Lament for her fate as neither among the living nor the dead; grief over family curse and isolation."^^xsd:string .
+
+:AntigoneMotivation_AddressCitizensAsWitnesses a :Motivation,
+        owl:NamedIndividual ;
+    :description "Βούλεται τοὺς πολίτας μάρτυρας ποιήσασθαι τῆς ἐσχάτης πορείας καὶ τῆς ἀδικίας/μοίρας τῆς ἄγουσας."^^xsd:string .
+
+:AntigoneMotivation_AffirmPietyBeforeDeath a :Motivation,
+        owl:NamedIndividual ;
+    :description "Antigone seeks to bear witness to her suffering and to frame it as the result of honoring piety (εὐσέβεια) as she is led away."^^xsd:string .
+
+:AntigoneMotivation_AppealToCityAsWitness a :Motivation,
+        owl:NamedIndividual ;
+    :description "She calls on Thebes (Dirce's springs, the grove) and its citizens as witnesses to her unwept, friendless march to the tomb."^^xsd:string .
+
+:AntigoneMotivation_HonorPolyneicesWithBurialRites a :Motivation,
+        owl:NamedIndividual ;
+    :description "To honor Polyneices by washing, adorning, and giving tomb-offerings; she claims this is why she now suffers."^^xsd:string .
+
+:AntigoneMotivation_InterpretFateAsDivineLullingToRest a :Motivation,
+        owl:NamedIndividual ;
+    :description "She interprets her situation through the paradigm of Niobe and says a daimon 'lulls' her into a similar rest—seeking meaning in divine causation."^^xsd:string .
+
+:ChorusEmotion_AustereAdmonition a :Emotion,
+        owl:NamedIndividual ;
+    :description "Sober, admonitory stance: stresses mortal limits and frames Antigone's suffering as consequence of daring against Justice."^^xsd:string .
+
+:ChorusEmotion_AweAndPity a :Emotion,
+        owl:NamedIndividual ;
+    :description "Θαῦμα καὶ οἶκτος: κλεινὴ καὶ ἔπαινον ἔχουσα, αὐτόνομος ζῶσα μόνη καταβαίνει πρὸς Ἅιδην."^^xsd:string .
+
+:ChorusEmotion_ConcernAtPersistentGrief a :Emotion,
+        owl:NamedIndividual ;
+    :description "The Chorus notes the same gusts of the soul still persist, implying ongoing agitation and grief."^^xsd:string .
+
+:ChorusEmotion_ReproachAtSelfWilledAnger a :Emotion,
+        owl:NamedIndividual ;
+    :description "The Chorus attributes Antigone's ruin to 'αὐτόγνωτος ... ὀργά' while acknowledging piety."^^xsd:string .
+
+:ChorusFateEvent_MoiridiaPower a owl:NamedIndividual,
+        owl:Thing ;
+    :description "The Chorus asserts that a certain allotted power (μοιριδία δύνασις) is terrible and inescapable."^^xsd:string ;
+    :relatedTo :Theme_InevitabilityOfFate .
+
+:Conflict_AntigonePietyVsCreonAuthority a :Conflict,
+        owl:NamedIndividual ;
+    :conflictBetween :Antigone_Character_Antigone,
+        :Creon_Character_Creon,
+        :EthicalPrinciple_CivicAuthority,
+        :EthicalPrinciple_Piety ;
+    :description "Opposition between Antigone's claim to piety (εὐσέβεια) and Creon's insistence on civic authority and the confirmed sentence."^^xsd:string .
+
+:Conflict_AntigonePietyVsCreonDecree a :Conflict,
+        owl:NamedIndividual ;
+    :conflictBetween :Antigone_Character_Antigone,
+        :Creon_Character_Creon,
+        :EthicalPrinciple_PietyTowardDeadAndFamily,
+        :Law_CreonDecreeAgainstPolyneicesBurial ;
+    :description "Opposition between Antigone's pious familial duty and Creon's civic decree/punishment."^^xsd:string .
+
+:Conflict_AntigoneVsChorusOnDivineComparison a :Conflict,
+        owl:NamedIndividual ;
+    :conflictBetween :Antigone_Character_Antigone,
+        :Chorus_Character_Chorus,
+        :EthicalPrinciple_MortalHumilityBeforeGods ;
+    :description "Antigone's self-comparison to Niobe and appeal to divine framing clashes with the Chorus' insistence on mortal humility and separation from the divine."^^xsd:string .
+
+:Conflict_LifeVsDeathTransition a :Conflict,
+        owl:NamedIndividual ;
+    :conflictBetween :EthicalPrinciple_Life,
+        :FateConcept_DeathInevitability ;
+    :description "Ἀντίθεσις μεταξὺ τοῦ φέγγους ἡλίου (βίος) καὶ τοῦ παγκοίτου Ἅιδου/Ἀχέροντος (θάνατος), ὡς ἀναγκαστικὴ μετάβασις."^^xsd:string .
+
+:CreonDecision_ConfirmSentence a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "Creon refuses to offer reassurance and insists the outcome will be confirmed as decided."^^xsd:string .
+
+:CreonDecision_EntombAntigoneAlive a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "He orders Antigone to be taken quickly and enclosed in a covered tomb, left solitary to die or live entombed."^^xsd:string ;
+    :relatedTo :AntigoneEmotion_LamentAndIsolation .
+
+:CreonEmotion_UnyieldingResolve a :Emotion,
+        owl:NamedIndividual ;
+    :description "Creon shows firmness and lack of consolation; he will not be persuaded otherwise."^^xsd:string .
+
+:CreonMotivation_EnforcePunishmentByEntombment a :Motivation,
+        owl:NamedIndividual ;
+    :description "To carry out the ordered punishment: shut Antigone in a roofed tomb, leave her alone, and remove the city's direct responsibility for her death."^^xsd:string .
+
+:CreonMotivation_PunishDelayAndProceed a :Motivation,
+        owl:NamedIndividual ;
+    :description "Creon intends that those leading Antigone away will have lamentation as a consequence of their slowness; he presses the process forward."^^xsd:string .
+
+:EthicalPrinciple_CivicAuthority a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "The ruler's authority and enforcement of civic order as a moral priority."^^xsd:string .
+
+:EthicalPrinciple_Life a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Ἀξία τοῦ ζῆν καὶ τοῦ ὁρᾶν τὸ φέγγος ἡλίου."^^xsd:string .
+
+:EthicalPrinciple_MortalHumilityBeforeGods a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Humans are mortal and must not claim equality with gods; divine status is separate from human fate."^^xsd:string .
+
+:EthicalPrinciple_Piety a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Reverence toward gods and ancestral/divine obligations (εὐσέβεια) as a guiding moral claim."^^xsd:string .
+
+:EthicalPrinciple_PietyTowardDeadAndFamily a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Eusebeia expressed as duty to the dead and to kin: burial, offerings, and honoring family even against civic judgment."^^xsd:string .
+
+:EthicalPrinciple_RespectForAncestralGodsAndCity a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Appeal to ancestral gods and the civic community as moral witnesses; insistence on being judged within sacred/civic frameworks."^^xsd:string .
+
+:EthicalPrinciple_SubmissionToFate a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Recognition that allotted destiny (μοῖρα) is inescapable and must be endured."^^xsd:string .
+
+:Event_AntigoneLedToLivingTomb a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "Antigone is taken toward the 'τυμβόχωστον ἕργμα'—a tomb-like enclosure while alive."^^xsd:string ;
+    :relatedTo :Theme_LivingDeathAndExile .
+
+:FateConcept_DeathInevitability a :FateConcept,
+        owl:NamedIndividual ;
+    :description "Ἀναπόδραστος κάθοδος πρὸς Ἅιδην· ὁ θάνατος ὡς ἀνάγκη."^^xsd:string ;
+    :determinesOutcomeOf :Conflict_LifeVsDeathTransition .
+
+:Law_CreonDecreeAgainstPolyneicesBurial a :Law,
+        owl:NamedIndividual ;
+    :description "Creon's civic prohibition/punitive stance regarding Polyneices' burial, implied by Antigone's claim that Creon judged her acts as wrongdoing."^^xsd:string .
+
 
 :Theme_ApproachOfDeath a :Theme,
         owl:NamedIndividual ;

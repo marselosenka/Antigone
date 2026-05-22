@@ -5,18 +5,6 @@
 :episode03-semantics a owl:Ontology .
 
 ################################################################
-# CHARACTERS
-################################################################
-
-:Antigone a :Character .
-:Creon a :Character .
-
-:Antigone_Character_Antigone a :Character,
-        owl:NamedIndividual ;
-    :relatedTo :CreonDecision_EntombAntigoneAlive .
-
-
-################################################################
 # SCENES
 ################################################################
 
@@ -28,6 +16,40 @@
     :hasSpeech :Speech_Chorus_781_805,
         :Speech_Creon_773_780 ;
     :sceneNumber "Stasimon 3"^^xsd:string .
+
+################################################################
+# CHARACTERS
+################################################################
+
+:Antigone a :Character .
+:Creon a :Character .
+
+:Antigone_Character_Antigone a :Character,
+        owl:NamedIndividual ;
+    :relatedTo :CreonDecision_EntombAntigoneAlive .
+
+:Chorus a :Character .
+:Haemon a :Character .
+
+# Those two need to be merged with the Characters.
+:Creon :hasMotivation :Motivation_AssessSonLoyalty .
+:Haemon :hasMotivation :Motivation_MournBride .
+# ===================================================
+:Chorus_Character_Chorus a :Character,
+        owl:NamedIndividual ;
+    :experiencesEmotion :ChorusEmotion_AweAtErosPower,
+        :ChorusEmotion_TearsAndPityForAntigone .
+
+:City a :Character .
+:Antigone a :Character .
+
+:Creon_Character_Creon a :Character,
+        owl:NamedIndividual ;
+    :advocatesFor :EthicalPrinciple_AvoidMiasma,
+        :EthicalPrinciple_CivicPurity ;
+    :hasMotivation :CreonMotivation_AvoidMiasmaForCity ;
+    :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
+
 
 
 ################################################################
@@ -330,11 +352,11 @@
         :Theme_DeathAndHadesReverence ;
     :speechBy :Creon_Character_Creon .
 
-#######################
+
 
 
 ################################################################
-# CAUSES
+# CAUSES 
 ################################################################
 
 :Cause_AbsoluteTyranny :relatedTo :Effect_Wasteland .
@@ -404,14 +426,6 @@
 :Theme_DivineGiftOfReason a :Theme ;
     :description "The concept that the gods endow mankind with reason as their supreme trait."^^xsd:string .
 
-:Chorus a :Character .
-:Haemon a :Character .
-
-:Chorus_Character_Chorus a :Character,
-        owl:NamedIndividual ;
-    :experiencesEmotion :ChorusEmotion_AweAtErosPower,
-        :ChorusEmotion_TearsAndPityForAntigone .
-
 
 ################################################################
 # EMOTIONS
@@ -424,9 +438,6 @@
 :ChorusEmotion_TearsAndPityForAntigone a :Emotion,
         owl:NamedIndividual ;
     :description "Tears and pity at the sight of Antigone going to the all-shared bridal chamber (death)."^^xsd:string .
-
-:City a :Character .
-:Antigone a :Character .
 
 :CommonMan :experiencesEmotion :Emotion_FearOfTyrant .
 
@@ -464,7 +475,6 @@
     :description "The clash between holding a single uncompromising view and the willingness to learn and adapt."^^xsd:string ;
     :conflictBetween :Theme_Stubbornness, :Theme_Flexibility .
 
-:Creon :hasMotivation :Motivation_AssessSonLoyalty .
 
 
 ################################################################
@@ -473,13 +483,6 @@
 
 :EthicalPrinciple_FilialLoyalty a :EthicalPrinciple ;
     :description "The principle that a son should act as an unconditional ally to his father through all circumstances."^^xsd:string .
-
-:Creon_Character_Creon a :Character,
-        owl:NamedIndividual ;
-    :advocatesFor :EthicalPrinciple_AvoidMiasma,
-        :EthicalPrinciple_CivicPurity ;
-    :hasMotivation :CreonMotivation_AvoidMiasmaForCity ;
-    :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
 
 
 ################################################################
@@ -594,7 +597,6 @@
 :Event_YouthfulPain a owl:Thing ;
     :description "A young mind experiencing severe emotional pain."^^xsd:string .
 
-:Haemon :hasMotivation :Motivation_MournBride .
 
 :Motivation_AssessSonLoyalty a :Motivation ;
     :description "Creon's intention to determine if his son remains a faithful ally after hearing of his bride's condemnation."^^xsd:string .

@@ -1,12 +1,20 @@
-# antigone-webapp
+# FUSEKI INSTALLATION
+- Install Fuseki from their website ( https://jena.apache.org/download/index.cgi )
+- Ideally `apache-jena-fuseki-6.0.0`
+- Inside fuseki folder, after the installation, there is a bat file, start it `./fuseki-server.bat`
 
-## Webapp Architecture
 
-* **index.html**: The core application shell and video player structure.
-* **css/**: Modular stylesheets for layout, UI components, and custom video controls.
-* **js/**: 
-    * `main.js`: The central application controller.
-    * `render.js` & `state.js`: Managed UI rendering and application state logic.
-    * `interactions.js` & `video-controls.js`: User interaction handling and custom video player functionality.
-    * `data.js`: Local data structures supporting the interface.
+# LOAD TRIPLETS TO FUSEKI
 
+- `cd C:\University\CS561\antigone-webapp`
+- Run the following command: 
+Get-ChildItem -Path .\Antigone-Layout -Recurse -Filter *.ttl | ForEach-Object {
+  Invoke-RestMethod `
+    -Uri "http://localhost:3030/antigone/data" `
+    -Method Post `
+    -ContentType "text/turtle" `
+    -InFile $_.FullName
+}
+
+# START WEBAPP
+- `python3 -m http.server 8000`

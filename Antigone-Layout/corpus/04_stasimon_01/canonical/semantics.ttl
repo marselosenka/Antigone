@@ -5,6 +5,9 @@
 
 :stasimon01-semantics a owl:Ontology .
 
+# ==========================================================================
+# SCENE INFORMATION
+# ==========================================================================
 :Antigone_Scene_Stasimon_1_332_383
   a :Scene ;
   :sceneNumber "Stasimon 1 (331-383)"^^xsd:string ;
@@ -16,6 +19,9 @@
                  :Theme_LawAndCity,
                  :Theme_ForeshadowingAntigone .
 
+# ==========================================================================
+# CHARACTERS
+# ==========================================================================
 :Antigone_Character_Chorus
   a :Character ;
   rdfs:label "ΧΟ (Χορός)"^^xsd:string .
@@ -24,11 +30,17 @@
   a :Character ;
   rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 
+# =========================================================================
+# SPEECHES
+# ==========================================================================
 :Speech_Guard_327_331 a :Speech ; :speechBy :Antigone_Character_Guard .
 :Speech_Chorus_333_361 a :Speech ; :speechBy :Antigone_Character_Chorus .
 :Speech_Chorus_362_383 a :Speech ; :speechBy :Antigone_Character_Chorus .
 :Speech_Guard_383 a :Speech ; :speechBy :Antigone_Character_Guard .
 
+# =========================================================================
+# THEMES
+# =========================================================================
 :Theme_HumanPowerAndLimits a :Theme ;
   :description "The ode celebrates human ingenuity while stressing moral and existential limits."^^xsd:string .
 
