@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Antigone</title>
+    <title>Antigone - Statistics</title>
     <link rel="icon" href="data:,">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
-    <!-- Stylesheets - order important -->
     <link rel="stylesheet" href="../shared/css/variables.css">
     <link rel="stylesheet" href="../shared/css/nav.css">
     <link rel="stylesheet" href="../shared/css/frame.css">
@@ -20,15 +19,60 @@
 </head>
 <body data-page="page4">
 
-<!-- NAVIGATION BAR-->
 <nav id="nav-root"></nav>
 
-<!-- PAGE 4 – Statistics -->
-<main>
-    <!-- statistics etc. -->
+<main class="stats-grid">
+
+    <!-- KEY NUMBERS -->
+    <div class="stats-summary">
+        <div class="stat-card">
+            <div class="stat-value" id="stat-triples">—</div>
+            <div class="stat-label">Triples</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="stat-sections">—</div>
+            <div class="stat-label">Sections</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="stat-characters">—</div>
+            <div class="stat-label">Characters</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="stat-emotions">—</div>
+            <div class="stat-label">Emotions</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="stat-lines">—</div>
+            <div class="stat-label">Lines</div>
+        </div>
+    </div>
+
+    <!-- HEATMAP -->
+    <div class="frame heatmap-frame">
+        <h3>Emotions by Section</h3>
+        <div id="heatmap-container"></div>
+    </div>
+
+    <!-- NETWORK GRAPH -->
+    <div class="frame network-frame">
+        <h3>Knowledge Network — Characters · Emotions · Themes</h3>
+        <p class="frame-hint">Drag nodes to rearrange. Hover to highlight connections.</p>
+        <div class="network-controls">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="character">Characters</button>
+            <button class="filter-btn" data-filter="emotion">Emotions</button>
+            <button class="filter-btn" data-filter="theme">Themes</button>
+        </div>
+        <div class="network-legend">
+            <span class="legend-item"><span class="legend-dot" style="background:#0e4d92"></span>Characters</span>
+            <span class="legend-item"><span class="legend-dot" style="background:#a83a20"></span>Emotions</span>
+            <span class="legend-item"><span class="legend-dot" style="background:#445820"></span>Themes</span>
+        </div>
+        <div id="network-container"></div>
+    </div>
+
 </main>
 
-<!-- SCRIPTS  (load order important) -->
 <script src="../shared/js/data.js"></script>
 <script src="../shared/js/state.js"></script>
 <script src="../shared/js/nav.js"></script>

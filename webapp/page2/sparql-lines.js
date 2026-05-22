@@ -1,4 +1,3 @@
- 
 // SPARQL LINE NAVIGATOR  (Page 2)
 const sparqlLineNavigator = (() => {
     const state = {
@@ -81,6 +80,11 @@ ORDER BY ?n
         }, '-page2');
 
         updateNavigationControls();
+
+        // Notify any external listener (e.g. context sidebar, scene reader highlight)
+        if (typeof api.onLineChange === 'function') {
+            try { api.onLineChange(line.lineNumber); } catch (_) {}
+        }
     }
 
 
@@ -238,5 +242,9 @@ ORDER BY ?n
         });
     }
 
-    return { init };
+    /* Public API.  External listeners can assign:
+         sparqlLineNavigator.onLineChange = (lineNumber) => { ... }
+       and it will be called whenever the current line changes. */
+    const api = { init, onLineChange: null };
+    return api;
 })();

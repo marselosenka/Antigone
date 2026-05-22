@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Antigone</title>
+    <title>Antigone - Scenes/Lines</title>
     <link rel="icon" href="data:,">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
 
     <!-- Stylesheets - order important -->
     <link rel="stylesheet" href="../shared/css/variables.css">
@@ -32,7 +32,21 @@
         <div id="scenes-container-page2"></div>
     </div>
 
-    <!-- LINES: SPARQL navigator + three translation panels -->
+    <!-- SCENE READER (lines side-by-side for the selected scene) -->
+    <div class="frame scene-reader-frame" id="scene-reader-frame" style="display:none;">
+        <h3 id="scene-reader-title">Scene Reader</h3>
+        <div class="reader-toolbar">
+            <div class="reader-status" id="reader-status">Click a scene to load its full text.</div>
+            <div class="reader-controls">
+                <label class="lang-toggle">
+                    <input type="checkbox" id="toggle-chinese"> <span>中文</span>
+                </label>
+            </div>
+        </div>
+        <div id="reader-container"></div>
+    </div>
+
+    <!-- LINES: SPARQL navigator + three translation panels + context -->
     <div class="lines-container">
 
         <div class="sparql-toolbar">
@@ -47,39 +61,73 @@
             <div id="sparql-status" class="sparql-status">SPARQL not loaded</div>
         </div>
 
-        <div class="text-grid">
-            <div class="text-panel">
-                <div class="panel-header">
-                    <h4>Ancient Greek</h4>
-                    <button class="speak-btn control-btn"
-                            data-panel="ancient-text-page2"
-                            data-lang="el"
-                            title="Read aloud">🔊</button>
+        <div class="lines-grid-wrapper">
+            <div class="text-grid">
+                <div class="text-panel">
+                    <div class="panel-header">
+                        <h4>Ancient Greek</h4>
+                        <button class="speak-btn control-btn"
+                                data-panel="ancient-text-page2"
+                                data-lang="el"
+                                title="Read aloud">🔊</button>
+                    </div>
+                    <p id="ancient-text-page2"></p>
                 </div>
-                <p id="ancient-text-page2">Ὦ κοινὸν αὐτάδελφον Ἰσμήνης κάρα...</p>
+
+                <div class="text-panel">
+                    <div class="panel-header">
+                        <h4>Modern Greek</h4>
+                        <button class="speak-btn control-btn"
+                                data-panel="modern-text-page2"
+                                data-lang="el"
+                                title="Read aloud">🔊</button>
+                    </div>
+                    <p id="modern-text-page2"></p>
+                </div>
+
+                <div class="text-panel">
+                    <div class="panel-header">
+                        <h4>English</h4>
+                        <button class="speak-btn control-btn"
+                                data-panel="english-text-page2"
+                                data-lang="en-US"
+                                title="Read aloud">🔊</button>
+                    </div>
+                    <p id="english-text-page2"></p>
+                </div>
             </div>
 
-            <div class="text-panel">
-                <div class="panel-header">
-                    <h4>Modern Greek</h4>
-                    <button class="speak-btn control-btn"
-                            data-panel="modern-text-page2"
-                            data-lang="el"
-                            title="Read aloud">🔊</button>
+            <!-- CONTEXT SIDEBAR -->
+            <aside class="context-sidebar" id="context-sidebar">
+                <h4 class="context-title">Context</h4>
+                <div class="context-empty" id="context-empty">Navigate to a line to see who speaks, themes, and references.</div>
+                <div class="context-body" id="context-body" style="display:none;">
+                    <div class="context-block">
+                        <div class="context-label">Speaker</div>
+                        <div class="context-value" id="ctx-speaker">—</div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Scene</div>
+                        <div class="context-value" id="ctx-scene">—</div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Themes</div>
+                        <div class="context-pills" id="ctx-themes"></div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Conflict</div>
+                        <div class="context-pills" id="ctx-conflict"></div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Myths referenced</div>
+                        <div class="context-pills" id="ctx-myths"></div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Motivations</div>
+                        <div class="context-pills" id="ctx-motivations"></div>
+                    </div>
                 </div>
-                <p id="modern-text-page2">Ω κοινή αδελφή μου Ισμήνη...</p>
-            </div>
-
-            <div class="text-panel">
-                <div class="panel-header">
-                    <h4>English</h4>
-                    <button class="speak-btn control-btn"
-                            data-panel="english-text-page2"
-                            data-lang="en-US"
-                            title="Read aloud">🔊</button>
-                </div>
-                <p id="english-text-page2">O sister of my own blood, Ismene...</p>
-            </div>
+            </aside>
         </div>
 
     </div>
@@ -91,6 +139,7 @@
 <script src="../shared/js/tts.js"></script>
 <script src="../shared/js/render-helpers.js"></script>
 <script src="../shared/js/nav.js"></script>
+<script src="scene-reader.js"></script>
 <script src="sparql-lines.js"></script>
 <script src="page2.js"></script>
 </body>
