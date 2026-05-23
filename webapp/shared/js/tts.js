@@ -1,4 +1,3 @@
- 
 // TEXT-TO-SPEECH  (Web Speech API)
 const tts = (() => {
 
@@ -11,6 +10,10 @@ const tts = (() => {
     let currentButton    = null;
 
     function speak(text, lang, buttonElement) {
+        if (!window.speechSynthesis || typeof SpeechSynthesisUtterance === 'undefined') {
+            console.warn('Text-to-Speech is not supported in this browser.');
+            return;
+        }
         window.speechSynthesis.cancel();
 
         // If the same button was clicked while speaking, just stop

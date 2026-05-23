@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="../shared/css/frame.css">
     <link rel="stylesheet" href="../shared/css/components.css">
     <link rel="stylesheet" href="../shared/css/utilities.css">
+    <link rel="stylesheet" href="../shared/css/footer.css">
     <link rel="stylesheet" href="page4.css">
 </head>
 <body data-page="page4">
@@ -54,21 +55,55 @@
     </div>
 
     <!-- NETWORK GRAPH -->
-    <div class="frame network-frame">
-        <h3>Knowledge Network — Characters · Emotions · Themes</h3>
-        <p class="frame-hint">Drag nodes to rearrange. Hover to highlight connections.</p>
+    <div class="frame network-frame" id="network-frame">
+        <h3>Knowledge Network</h3>
+
         <div class="network-controls">
-            <button class="filter-btn active" data-filter="all">All</button>
-            <button class="filter-btn" data-filter="character">Characters</button>
-            <button class="filter-btn" data-filter="emotion">Emotions</button>
-            <button class="filter-btn" data-filter="theme">Themes</button>
+            <div class="level-row">
+                <button class="level-btn active" data-level="1" title="Characters only">
+                    <span class="level-num">1</span>
+                    <span class="level-label">Characters</span>
+                </button>
+                <button class="level-btn" data-level="2" title="Add emotions">
+                    <span class="level-num">2</span>
+                    <span class="level-label">+ Emotions</span>
+                </button>
+                <button class="level-btn" data-level="3" title="Add themes">
+                    <span class="level-num">3</span>
+                    <span class="level-label">+ Themes</span>
+                </button>
+                <button class="level-btn" data-level="4" title="Add events">
+                    <span class="level-num">4</span>
+                    <span class="level-label">+ Events</span>
+                </button>
+                <button class="level-btn" data-level="5" title="Full detail with scenes">
+                    <span class="level-num">5</span>
+                    <span class="level-label">Full</span>
+                </button>
+            </div>
+            <button class="fullscreen-btn" id="fullscreen-btn" title="Toggle fullscreen">
+                <span class="fs-icon">⛶</span>
+            </button>
         </div>
-        <div class="network-legend">
-            <span class="legend-item"><span class="legend-dot" style="background:#0e4d92"></span>Characters</span>
-            <span class="legend-item"><span class="legend-dot" style="background:#a83a20"></span>Emotions</span>
-            <span class="legend-item"><span class="legend-dot" style="background:#445820"></span>Themes</span>
+
+        <!-- Filter chips — appear only on Level 5 -->
+        <div class="network-filters" id="network-filters" style="display:none;">
+            <span class="filter-label">Show:</span>
+            <button class="filter-chip active" data-filter="all">All</button>
+            <button class="filter-chip" data-filter="character">Characters</button>
+            <button class="filter-chip" data-filter="emotion">Emotions</button>
+            <button class="filter-chip" data-filter="theme">Themes</button>
+            <button class="filter-chip" data-filter="event">Events</button>
+            <button class="filter-chip" data-filter="scene">Scenes</button>
         </div>
+
         <div id="network-container"></div>
+
+        <!-- Legend + info compact, below the graph -->
+        <div class="network-footer">
+            <div class="network-legend" id="network-legend"></div>
+            <div class="network-info" id="network-info"></div>
+        </div>
     </div>
 
 </main>

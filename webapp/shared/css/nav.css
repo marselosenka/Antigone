@@ -2,6 +2,7 @@
 .nav-bar {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 4px;
     padding: 10px 20px;
     background: var(--bg-papyrus);
@@ -10,6 +11,19 @@
     position: sticky;
     top: 0;
     z-index: 500;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .nav-btn {
@@ -25,6 +39,9 @@
     cursor: pointer;
     transition: all 0.2s ease;
     font-weight: 600;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
 }
 
 .nav-btn:hover {
@@ -46,12 +63,50 @@
     outline-offset: 2px;
 }
 
-/*  PAGE CONTAINERS  (show / hide logic) */
+/* Help button — different styling so it stands apart from the page tabs */
+.nav-help-btn {
+    border: 1px solid rgba(168, 58, 32, 0.6);
+    background: rgba(230, 221, 208, 0.7);
+    gap: 7px;
+}
+.nav-help-btn:hover {
+    background: #fff;
+    color: var(--terracotta);
+    border-color: var(--terracotta);
+}
+.nav-help-btn .help-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: var(--terracotta);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    font-family: var(--font-heading);
+}
+
+/* PAGE CONTAINERS  (show / hide logic) */
 .page-container {
     display: none;
     min-height: calc(100vh - 55px);
 }
-
 .page-container.active {
     display: block;
+}
+
+/* Error fallback if footer fetch fails */
+.footer-error {
+    font-family: var(--font-body);
+    text-align: center;
+    padding: 20px;
+    color: var(--terracotta);
+    font-style: italic;
+}
+
+@media (max-width: 720px) {
+    .nav-bar { padding: 8px 12px; }
+    .nav-btn { padding: 7px 12px; font-size: 11px; }
 }
