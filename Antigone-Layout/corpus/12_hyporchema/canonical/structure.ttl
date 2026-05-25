@@ -189,11 +189,7 @@ a owl:NamedIndividual, :Line ;
     :canonicalReference "Stasimon5.1148"^^xsd:string ;
     :text "παῖ Διὸς γένεθλον,"^^xsd:string .
 
-:Line_1149
-    a owl:NamedIndividual, :Line ;
-    :lineNumber 1149 ;
-    :canonicalReference "Stasimon5.1149"^^xsd:string ;
-    :text "προφάνηθ ̓,"^^xsd:string .
+# 1149 does not exist in Antigone
 
 :Line_1150
     a owl:NamedIndividual, :Line ;
