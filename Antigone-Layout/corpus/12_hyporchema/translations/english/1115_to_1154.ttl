@@ -111,12 +111,8 @@
     :relatedTo :Line_1147 .
 
 :TV_Line_1148_en a :TranslationVariant ;
-    :text "Child begotten of Zeus,"^^xsd:string ;
+    :text "Child begotten of Zeus, Appear,"^^xsd:string ;
     :relatedTo :Line_1148 .
-
-:TV_Line_1149_en a :TranslationVariant ;
-    :text "Appear,"^^xsd:string ;
-    :relatedTo :Line_1149 .
 
 :TV_Line_1150_en a :TranslationVariant ;
     :text "My lord, with your attendant band"^^xsd:string ;
