@@ -141,23 +141,23 @@
     :relatedTo :Line_1097 .
 
 :TV_Line_1098_gr a :TranslationVariant ;
-    :text "Τι λοιπόν προστάζεις; Μίλα. Θα υπακούσω."^^xsd:string ;
+    :text "Ελίξου συνετά, παιδί του Μενοικέα."^^xsd:string ;
     :relatedTo :Line_1098 .
 
 :TV_Line_1099_gr a :TranslationVariant ;
-    :text "Πήγαινε και λύσε την κόρη από τον πετρόχτιστο θάλαμο,"^^xsd:string ;
+    :text "Τι λοιπόν προστάζεις; Μίλα. Θα υπακούσω."^^xsd:string ;
     :relatedTo :Line_1099 .
 
 :TV_Line_1100_gr a :TranslationVariant ;
-    :text "και φτιάξε τάφο για το πτώμα που μένει άταφο."^^xsd:string ;
+    :text "Πήγαινε και λύσε την κόρη από τον πετρόχτιστο θάλαμο,"^^xsd:string ;
     :relatedTo :Line_1100 .
 
 :TV_Line_1101_gr a :TranslationVariant ;
-    :text "Αυτή είναι η συμβουλή σου;"^^xsd:string ;
+    :text "και φτιάξε τάφο για το πτώμα που μένει άταφο."^^xsd:string ;
     :relatedTo :Line_1101 .
 
 :TV_Line_1102_gr a :TranslationVariant ;
-    :text "Να υποχωρήσω;"^^xsd:string ;
+    :text "Αυτή είναι η συμβουλή σου; Να υποχωρήσω;"^^xsd:string ;
     :relatedTo :Line_1102 .
 
 :TV_Line_1103_gr a :TranslationVariant ;
