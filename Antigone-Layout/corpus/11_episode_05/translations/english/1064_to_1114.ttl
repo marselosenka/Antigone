@@ -144,23 +144,23 @@
     :relatedTo :Line_1097 .
 
 :TV_Line_1098_en a :TranslationVariant ;
-    :text "What then do you command? Speak. I will obey."^^xsd:string ;
+    :text "Son of Menoeceus, one must take good counsel."^^xsd:string ;
     :relatedTo :Line_1098 .
 
 :TV_Line_1099_en a :TranslationVariant ;
-    :text "Go and release the girl from her rocky chamber,"^^xsd:string ;
+    :text "What then do you command? Speak. I will obey."^^xsd:string ;
     :relatedTo :Line_1099 .
 
 :TV_Line_1100_en a :TranslationVariant ;
-    :text "And make a tomb for the corpse that lies unburied."^^xsd:string ;
+    :text "Go and release the girl from her rocky chamber,"^^xsd:string ;
     :relatedTo :Line_1100 .
 
 :TV_Line_1101_en a :TranslationVariant ;
-    :text "This is your advice?"^^xsd:string ;
+    :text "And make a tomb for the corpse that lies unburied."^^xsd:string ;
     :relatedTo :Line_1101 .
 
 :TV_Line_1102_en a :TranslationVariant ;
-    :text "That I should yield?"^^xsd:string ;
+    :text "This is your advice? That I should yield?"^^xsd:string ;
     :relatedTo :Line_1102 .
 
 :TV_Line_1103_en a :TranslationVariant ;
