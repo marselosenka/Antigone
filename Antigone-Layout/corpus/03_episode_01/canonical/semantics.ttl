@@ -85,7 +85,8 @@
                :Conflict_DivineProvidenceVsDenial,
                :Conflict_BriberyVsPietyExplanation,
                :Conflict_PunishmentAsTeaching,
-               :Conflict_InnocenceVsBriberyAccusation ;
+               :Conflict_InnocenceVsBriberyAccusation,
+               :Conflict_DemandVsChance ;
   :referencesMyth :Myth_ZeusAllSeeing ;
   :relatedTo :Motivation_GovernCitySafely,
              :Motivation_TestLeadersByOffice,
@@ -144,6 +145,7 @@
              :Motivation_DeterGreed,
              :Motivation_Guard_SeekPermission,
              :Motivation_Guard_DenyGuilt,
+             :Motivation_Guard_AvoidReturn,
              :Emotion_Guard_FearAndHesitation,
              :Emotion_Creon_Suspicion,
              :Emotion_Guard_Unwillingness,
@@ -171,6 +173,8 @@
              :Event_DisclosureOfPerpetrator,
              :Event_ShamefulProfitSeeking,
              :Event_LoseMoreThanGain,
+             :Event_ChanceDecides,
+             :Event_GuardNotSeenAgain,
              :Emotion_Creon_Irritation,
              :Emotion_Guard_Frustration .
 
@@ -215,7 +219,7 @@
 
 :Antigone_Character_Guard
   a :Character ;
-  :hasMotivation :Motivation_Guard_SelfPreservation, :Motivation_Guard_ReportToAuthority, :Motivation_Guards_FindExplanation, :Motivation_Guards_AvoidBlame, :Motivation_Guard_ComplyAfterLot, :Motivation_Guard_SeekPermission, :Motivation_Guard_DenyGuilt ;
+  :hasMotivation :Motivation_Guard_SelfPreservation, :Motivation_Guard_ReportToAuthority, :Motivation_Guards_FindExplanation, :Motivation_Guards_AvoidBlame, :Motivation_Guard_ComplyAfterLot, :Motivation_Guard_SeekPermission, :Motivation_Guard_DenyGuilt, :Motivation_Guard_AvoidReturn ;
   :makesMoralDecision :MoralDecision_Guard_ComeAndSpeak, :MoralDecision_Guards_SwearInnocence, :MoralDecision_ReportToCreon ;
   :advocatesFor :EthicalPrinciple_UnjustPunishmentWrong, :EthicalPrinciple_DeedNotToBeHidden, :EthicalPrinciple_OathAsProof ;
   :experiencesEmotion :Emotion_Guard_FearAndHesitation, :Emotion_Guard_Unwillingness, :Emotion_Guards_SuspicionAndAnger, :Emotion_Guard_Frustration ;
@@ -379,11 +383,15 @@ a owl:NamedIndividual, :Character .
   :speechBy :Antigone_Character_Guard ;
   :containsLine :Line_323 .
 
-:Speech_Creon_324_326 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+:Speech_Creon_324_326
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_324, :Line_325, :Line_326 .
 
-:Speech_Guard_327_331 a :Speech ; 
-  :speechBy :Antigone_Character_Guard .
+:Speech_Guard_327_331
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_327, :Line_328, :Line_329, :Line_330, :Line_331 .
 
 ################################################################
 # THEMES
@@ -575,6 +583,10 @@ a :Motivation ;
 :Motivation_Guard_DenyGuilt
   a owl:NamedIndividual, :Motivation ;
   :description "Insist he did not do the deed."^^xsd:string .
+
+:Motivation_Guard_AvoidReturn
+  a owl:NamedIndividual, :Motivation ;
+  :description "State he will not be seen here again; frame capture/non-capture as decided by chance/fate."^^xsd:string .
 
 ################################################################
 # MORAL DECISIONS 
@@ -827,6 +839,11 @@ a :Conflict ;
   :description "Guard denies doing the deed, while Creon asserts he has sold his soul for money."^^xsd:string ;
   :conflictBetween :Antigone_Character_Guard, :Antigone_Character_Creon .
 
+:Conflict_DemandVsChance
+  a owl:NamedIndividual, :Conflict ;
+  :description "Creon presses for revelation; the guard frames capture as decided by τύχη (chance/fate)."^^xsd:string ;
+  :conflictBetween :Antigone_Character_Creon, :Antigone_Character_Guard .
+
 ################################################################
 # MYTH
 ################################################################
@@ -995,3 +1012,12 @@ a owl:NamedIndividual, owl:Thing ;
   :description "One loses more than one gains in shameful pursuits."^^xsd:string .
 
 :Event_ThreatOfHanging :relatedTo :Event_DisclosureOfPerpetrator .
+
+:Event_ChanceDecides
+  a owl:NamedIndividual, owl:Thing ;
+  :description "τύχη decides whether the doer is caught or not."^^xsd:string ;
+  :relatedTo :Event_GuardNotSeenAgain .
+
+:Event_GuardNotSeenAgain
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Guard declares he will not be seen coming here again."^^xsd:string .
