@@ -6,19 +6,19 @@
 # English translation variants extracted from 944_to_965.ttl
 
 :TV_Line_944_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Also did Danaë dare to trade away the sky’s light for the enclosure of bronze walls;"^^xsd:string ;
+    :text "Danaë too endured exchanging the heavenly light"^^xsd:string ;
     :relatedTo :Line_944 .
 
 :TV_Line_945_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Though she was hidden,"^^xsd:string ;
+    :text "for her body enclosed in bronze-bound chambers;"^^xsd:string ;
     :relatedTo :Line_945 .
 
 :TV_Line_946_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Trapped as if in a grave."^^xsd:string ;
+    :text "hidden in a tomb-like chamber, she was confined."^^xsd:string ;
     :relatedTo :Line_946 .
 
 :TV_Line_947_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Yet she was of noble lineage, oh child, darling, and kept safe"^^xsd:string ;
+    :text "And yet she was honored in birth, O child, child,"^^xsd:string ;
     :relatedTo :Line_947 .
 
 :TV_Line_950_en a owl:NamedIndividual, :TranslationVariant ;
@@ -42,7 +42,7 @@
     :relatedTo :Line_955 .
 
 :TV_Line_956_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Was tempered and shut up"^^xsd:string ;
+    :text "king of the Edonians, because of his mocking rage"^^xsd:string ;
     :relatedTo :Line_956 .
 
 :TV_Line_957_en a owl:NamedIndividual, :TranslationVariant ;
@@ -50,21 +50,21 @@
     :relatedTo :Line_957 .
 
 :TV_Line_958_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "In such a way did the terror of his madness"^^xsd:string ;
+    :text "In this way the terrible force of madness"^^xsd:string ;
     :relatedTo :Line_958 .
 
 :TV_Line_960_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "And brilliant might recede. That man soon met that very same god"^^xsd:string ;
+    :text "and its blooming strength drained away. That man learned in his madness"^^xsd:string ;
     :relatedTo :Line_960 .
 
 :TV_Line_961_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Whom he once pestered in his mania with biting words."^^xsd:string ;
+    :text "that he had touched the god with mocking words."^^xsd:string ;
     :relatedTo :Line_961 .
 
 :TV_Line_962_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "For he kept trying to halt the frenzied Bacchantes and the fire of Apollo,"^^xsd:string ;
+    :text "For he used to restrain the god-possessed women and the Bacchic fire,"^^xsd:string ;
     :relatedTo :Line_962 .
 
 :TV_Line_965_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Provoking the flute-loving Muses."^^xsd:string ;
+    :text "and he provoked the flute-loving Muses."^^xsd:string ;
     :relatedTo :Line_965 .
