@@ -66,13 +66,16 @@
                  :Theme_DefianceOfEdict,
                  :Theme_RitualAndBurial,
                  :Theme_MysteryOfAction,
-                 :Theme_AbsenceOfEvidence ;
+                 :Theme_AbsenceOfEvidence,
+                 :Theme_DivineAgency ;
   :hasConflict :Conflict_FriendVsFatherland,
                :Conflict_FearSilenceVsBestCounsel,
                :Conflict_HonorWickedVsJust,
                :Conflict_ShiftBurdenVsAlreadyGuarded,
                :Conflict_Guard_InnocenceVsSuspicion,
-               :Conflict_Guard_Internal ;
+               :Conflict_Guard_Internal,
+               :Conflict_HideVsReport,
+               :Conflict_HumanAgencyVsDivineAgency ;
   :referencesMyth :Myth_ZeusAllSeeing ;
   :relatedTo :Motivation_GovernCitySafely,
              :Motivation_TestLeadersByOffice,
@@ -86,6 +89,8 @@
              :MoralDecision_HonorLoyalToCityLivingAndDead,
              :MoralDecision_Guard_ComeAndSpeak,
              :MoralDecision_Creon_DemandDisclosure,
+             :MoralDecision_Guards_SwearInnocence,
+             :MoralDecision_ReportToCreon,
              :EthicalPrinciple_FrankCounsel,
              :EthicalPrinciple_LawfulGovernance,
              :EthicalPrinciple_Patriotism,
@@ -96,6 +101,8 @@
              :EthicalPrinciple_GreedLeadsToRuin,
              :EthicalPrinciple_NoHonorForWickedOverJust,
              :EthicalPrinciple_UnjustPunishmentWrong,
+             :EthicalPrinciple_DeedNotToBeHidden,
+             :EthicalPrinciple_OathAsProof,
              :Event_BrothersDeathPollution,
              :Event_CityThreatenedByHavoc,
              :Event_CreonAccession,
@@ -107,11 +114,24 @@
              :Event_UnauthorizedBurial,
              :Event_CreonInterrogation,
              :Event_GuardComesToSpeak,
+             :Event_ThinDustCovering,
+             :Event_NoTracksOrTearing,
+             :Event_AccusationsAmongGuards,
+             :Event_OathsAndOrdeals,
+             :Event_ReportNotHide,
+             :Event_LotSelectsMessenger,
+             :Event_GuardArrivesUnwilling,
              :Motivation_Guard_SelfPreservation,
              :Motivation_Guard_ReportToAuthority,
              :Motivation_Creon_IdentifyPerpetrator,
+             :Motivation_Guards_FindExplanation,
+             :Motivation_Guards_AvoidBlame,
+             :Motivation_Guard_ComplyAfterLot,
+             :Motivation_Chorus_SuspectDivineCause,
              :Emotion_Guard_FearAndHesitation,
-             :Emotion_Creon_Suspicion .
+             :Emotion_Creon_Suspicion,
+             :Emotion_Guard_Unwillingness,
+             :Emotion_Guards_SuspicionAndAnger .
 
 
 # ===========================================================================
@@ -119,7 +139,7 @@
 # ===========================================================================
 :Antigone_Character_Chorus
   a :Character ;
-  :hasMotivation :Motivation_ShiftBurden ;
+  :hasMotivation :Motivation_ShiftBurden, :Motivation_Chorus_SuspectDivineCause ;
   :advocatesFor :EthicalPrinciple_RulerMayUseLaw ;
   rdfs:label "ΧΟ (Χορός)"^^xsd:string .
 
@@ -145,10 +165,10 @@
 
 :Antigone_Character_Guard
   a :Character ;
-  :hasMotivation :Motivation_Guard_SelfPreservation, :Motivation_Guard_ReportToAuthority ;
-  :makesMoralDecision :MoralDecision_Guard_ComeAndSpeak ;
-  :advocatesFor :EthicalPrinciple_UnjustPunishmentWrong ;
-  :experiencesEmotion :Emotion_Guard_FearAndHesitation ;
+  :hasMotivation :Motivation_Guard_SelfPreservation, :Motivation_Guard_ReportToAuthority, :Motivation_Guards_FindExplanation, :Motivation_Guards_AvoidBlame, :Motivation_Guard_ComplyAfterLot ;
+  :makesMoralDecision :MoralDecision_Guard_ComeAndSpeak, :MoralDecision_Guards_SwearInnocence, :MoralDecision_ReportToCreon ;
+  :advocatesFor :EthicalPrinciple_UnjustPunishmentWrong, :EthicalPrinciple_DeedNotToBeHidden, :EthicalPrinciple_OathAsProof ;
+  :experiencesEmotion :Emotion_Guard_FearAndHesitation, :Emotion_Guard_Unwillingness, :Emotion_Guards_SuspicionAndAnger ;
   rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 
 :Antigone_Character_Eteocles
@@ -374,6 +394,10 @@ a :Theme ;
   a owl:NamedIndividual, :Theme ;
   :description "No physical traces are left to identify the perpetrator."^^xsd:string .
 
+:Theme_DivineAgency
+  a owl:NamedIndividual, :Theme ;
+  :description "The deed may be driven by divine agency rather than ordinary human action."^^xsd:string .
+
 ################################################################
 # MOTIVATIONS
 ################################################################
@@ -412,6 +436,22 @@ a :Motivation ;
 :Motivation_Creon_IdentifyPerpetrator
   a owl:NamedIndividual, :Motivation ;
   :description "Discover who dared to bury the corpse and assert control over the violation."^^xsd:string .
+
+:Motivation_Guards_FindExplanation
+  a owl:NamedIndividual, :Motivation ;
+  :description "Determine how the burial occurred when clear signs and traces are missing."^^xsd:string .
+
+:Motivation_Guards_AvoidBlame
+  a owl:NamedIndividual, :Motivation ;
+  :description "Avoid being held responsible while denying knowledge of the doer."^^xsd:string .
+
+:Motivation_Guard_ComplyAfterLot
+  a owl:NamedIndividual, :Motivation ;
+  :description "Serve as messenger because the lot selects him, despite reluctance."^^xsd:string .
+
+:Motivation_Chorus_SuspectDivineCause
+  a owl:NamedIndividual, :Motivation ;
+  :description "Consider that the deed may be divinely driven."^^xsd:string .
 
 ################################################################
 # MORAL DECISIONS 
@@ -454,6 +494,14 @@ a :MoralDecision ;
 :MoralDecision_Creon_DemandDisclosure
   a owl:NamedIndividual, :MoralDecision ;
   :description "Press the guard to disclose the matter and identify the offender."^^xsd:string .
+
+:MoralDecision_Guards_SwearInnocence
+  a owl:NamedIndividual, :MoralDecision ;
+  :description "Offer oaths and ordeals as proof that they did not do the deed and do not know the doer."^^xsd:string .
+
+:MoralDecision_ReportToCreon
+  a owl:NamedIndividual, :MoralDecision ;
+  :description "Decide the deed must be reported to Creon and not concealed."^^xsd:string .
 
 ################################################################
 # ETHICAL PRINCIPLES
@@ -500,6 +548,14 @@ a :EthicalPrinciple ;
   a owl:NamedIndividual, :EthicalPrinciple ;
   :description "It is not right to suffer punishment for a deed one did not commit or witness."^^xsd:string .
 
+:EthicalPrinciple_DeedNotToBeHidden
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "The deed must be reported to the ruler and not concealed."^^xsd:string .
+
+:EthicalPrinciple_OathAsProof
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "Oaths and ordeals can be invoked as proof of innocence and non-complicity."^^xsd:string .
+
 
 ################################################################
 # EMOTIONS
@@ -520,6 +576,14 @@ a :Emotion ;
 :Emotion_Creon_Suspicion
   a owl:NamedIndividual, :Emotion ;
   :description "Suspicion that the guard brings troubling news and is shielding himself."^^xsd:string .
+
+:Emotion_Guard_Unwillingness
+  a owl:NamedIndividual, :Emotion ;
+  :description "Reluctance to act as messenger and bear bad news."^^xsd:string .
+
+:Emotion_Guards_SuspicionAndAnger
+  a owl:NamedIndividual, :Emotion ;
+  :description "Mutual suspicion and anger among guards, leading to accusations."^^xsd:string .
 
 
 
@@ -557,6 +621,16 @@ a :Conflict ;
   a owl:NamedIndividual, :Conflict ;
   :description "Guard's self-preservation clashes with his need to report the burial to authority."^^xsd:string ;
   :conflictBetween :Motivation_Guard_SelfPreservation, :Motivation_Guard_ReportToAuthority .
+
+:Conflict_HideVsReport
+  a owl:NamedIndividual, :Conflict ;
+  :description "The impulse to conceal a dangerous deed conflicts with the decision to report it to Creon."^^xsd:string ;
+  :conflictBetween :Motivation_Guards_AvoidBlame, :MoralDecision_ReportToCreon .
+
+:Conflict_HumanAgencyVsDivineAgency
+  a owl:NamedIndividual, :Conflict ;
+  :description "Uncertainty whether the deed is committed by humans or driven by divine agency."^^xsd:string ;
+  :conflictBetween :Motivation_Guards_FindExplanation, :Motivation_Chorus_SuspectDivineCause .
 
 ################################################################
 # MYTH
@@ -637,3 +711,35 @@ a owl:NamedIndividual, owl:Thing ;
   :description "The guard ultimately comes before Creon to report what has happened."^^xsd:string .
 
 :Motivation_Guard_ReportToAuthority :relatedTo :Event_GuardComesToSpeak .
+
+:Event_ThinDustCovering
+  a owl:NamedIndividual, owl:Thing ;
+  :description "A thin layer of dust covers the corpse, as if to avoid pollution."^^xsd:string .
+
+:Event_NoTracksOrTearing
+  a owl:NamedIndividual, owl:Thing ;
+  :description "No signs of beasts, dogs, or tearing appear around the body."^^xsd:string ;
+  :relatedTo :Event_ThinDustCovering .
+
+:Event_AccusationsAmongGuards
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Mutual accusations and quarrels arise among the guards."^^xsd:string ;
+  :relatedTo :Event_OathsAndOrdeals .
+
+:Event_OathsAndOrdeals
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Guards propose oaths and ordeals to prove innocence."^^xsd:string ;
+  :relatedTo :Event_ReportNotHide .
+
+:Event_ReportNotHide
+  a owl:NamedIndividual, owl:Thing ;
+  :description "The deed is judged reportable to Creon and not to be concealed."^^xsd:string .
+
+:Event_LotSelectsMessenger
+  a owl:NamedIndividual, owl:Thing ;
+  :description "The lot selects the guard to act as messenger."^^xsd:string ;
+  :relatedTo :Event_GuardArrivesUnwilling .
+
+:Event_GuardArrivesUnwilling
+  a owl:NamedIndividual, owl:Thing ;
+  :description "The guard arrives unwillingly to deliver unwelcome news."^^xsd:string .
