@@ -5,7 +5,7 @@
 :episode_04-translations-823-871-greek a owl:Ontology .
 
 :TV_Line_823_gr a :TranslationVariant ;
-    :text "Άκουσα πως πολύ θλιβερά χάθηκε η ξένη Φρυγία,"^^xsd:string ;
+    :text "Άκουσα πως πολύ θλιβερά χάθηκε η Φρυγία ξένη,"^^xsd:string ;
     :relatedTo :Line_823 .
 
 :TV_Line_825_gr a :TranslationVariant ;
@@ -17,15 +17,15 @@
     :relatedTo :Line_826 .
 
 :TV_Line_827_gr a :TranslationVariant ;
-    :text "κι εκείνη, όπως λένε οι άνθρωποι, λιώνει,"^^xsd:string ;
+    :text "όπως λένε οι άνθρωποι,"^^xsd:string ;
     :relatedTo :Line_827 .
 
 :TV_Line_830_gr a :TranslationVariant ;
-    :text "κι ούτε βροχή ούτε χιόνι την αφήνουν· με παντοτινά δάκρυα"^^xsd:string ;
+    :text "και το χιόνι ποτέ δεν την αφήνει· κάτω από τα γεμάτα δάκρυα φρύδια της βρέχει"^^xsd:string ;
     :relatedTo :Line_830 .
 
 :TV_Line_831_gr a :TranslationVariant ;
-    :text "βρέχει τις πλαγιές. Σε όμοιο ύπνο κι εμένα με πλαγιάζει ο δαίμονας."^^xsd:string ;
+    :text "τις πλαγιές· τόσο όμοια με εκείνη με πλαγιάζει κι εμένα ο δαίμονας."^^xsd:string ;
     :relatedTo :Line_831 .
 
 :TV_Line_834_gr a :TranslationVariant ;
@@ -73,11 +73,11 @@
     :relatedTo :Line_846 .
 
 :TV_Line_847_gr a :TranslationVariant ;
-    :text "πηγαίνω στο χωστοφραγμένο φράγμα του τάφου, στον πρωτόγνωρο τάφο."^^xsd:string ;
+    :text "πηγαίνω στο χωμάτινο φράγμα του παράξενου τάφου μου."^^xsd:string ;
     :relatedTo :Line_847 .
 
 :TV_Line_850_gr a :TranslationVariant ;
-    :text "ούτε με τους νεκρούς κατοικώ ως νεκρή"^^xsd:string ;
+    :text "οούτε νεκρή ανάμεσα στους νεκρούς"^^xsd:string ;
     :relatedTo :Line_850 .
 
 :TV_Line_851_gr a :TranslationVariant ;
@@ -97,7 +97,7 @@
     :relatedTo :Line_855 .
 
 :TV_Line_856_gr a :TranslationVariant ;
-    :text "πληρώνεις κάποιο πατρικό χρέος."^^xsd:string ;
+    :text "πληρώνεις κάποιο πατρικό τίμημα."^^xsd:string ;
     :relatedTo :Line_856 .
 
 :TV_Line_858_gr a :TranslationVariant ;
@@ -105,7 +105,7 @@
     :relatedTo :Line_858 .
 
 :TV_Line_859_gr a :TranslationVariant ;
-    :text "τον τριπλά θρηνημένο οίκτο του πατέρα"^^xsd:string ;
+    :text "τον τριπλά θρηνημένο πόνο του πατέρα"^^xsd:string ;
     :relatedTo :Line_859 .
 
 :TV_Line_860_gr a :TranslationVariant ;
@@ -117,7 +117,7 @@
     :relatedTo :Line_861 .
 
 :TV_Line_865_gr a :TranslationVariant ;
-    :text "οι συμφορές, και η αιμομικτική ένωση του πατέρα μου με τη δύσμοιρη μητέρα του,"^^xsd:string ;
+    :text "οι συμφορές και οι αυτογέννητες ενώσεις του πατέρα μου με τη δύσμοιρη μητέρα του,"^^xsd:string ;
     :relatedTo :Line_865 .
 
 :TV_Line_866_gr a :TranslationVariant ;
@@ -133,6 +133,6 @@
     :relatedTo :Line_870 .
 
 :TV_Line_871_gr a :TranslationVariant ;
-    :text "πεθαμένος ακόμα με σκότωσες ενώ ζω."^^xsd:string ;
+    :text "πεθαίνοντας, με σκότωσες ενώ ακόμη ζω."^^xsd:string ;
     :relatedTo :Line_871 .
 

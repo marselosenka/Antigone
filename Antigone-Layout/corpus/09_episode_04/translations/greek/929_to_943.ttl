@@ -21,19 +21,19 @@
     :relatedTo :Line_932 .
 
 :TV_Line_933_gr a :TranslationVariant ;
-    :text "Αλίμονο, ο λόγος αυτός"^^xsd:string ;
+    :text "Αλίμονο, αυτός ο λόγος έφτασε πολύ κοντά"^^xsd:string ;
     :relatedTo :Line_933 .
 
 :TV_Line_934_gr a :TranslationVariant ;
-    :text "έφτασε πάρα πολύ κοντά στον θάνατο."^^xsd:string ;
+    :text "στον θάνατο."^^xsd:string ;
     :relatedTo :Line_934 .
 
 :TV_Line_935_gr a :TranslationVariant ;
-    :text "Δεν έχω καμιά παρηγοριά να σας δώσω,"^^xsd:string ;
+    :text "Δεν σου δίνω καμιά παρηγοριά να ελπίζεις"^^xsd:string ;
     :relatedTo :Line_935 .
 
 :TV_Line_936_gr a :TranslationVariant ;
-    :text "πως δεν θα της συμβούν αυτά."^^xsd:string ;
+    :text "πως αυτά δεν θα γίνουν έτσι."^^xsd:string ;
     :relatedTo :Line_936 .
 
 :TV_Line_937_gr a :TranslationVariant ;
@@ -41,7 +41,7 @@
     :relatedTo :Line_937 .
 
 :TV_Line_938_gr a :TranslationVariant ;
-    :text "και θεοί προγεννήτορες,"^^xsd:string ;
+    :text "και θεοί των προγόνων μου,"^^xsd:string ;
     :relatedTo :Line_938 .
 
 :TV_Line_939_gr a :TranslationVariant ;
@@ -61,6 +61,6 @@
     :relatedTo :Line_942 .
 
 :TV_Line_943_gr a :TranslationVariant ;
-    :text "επειδή σεβάστηκα την ευσέβεια!"^^xsd:string ;
+    :text "επειδή τίμησα την ευσέβεια."^^xsd:string ;
     :relatedTo :Line_943 .
 
