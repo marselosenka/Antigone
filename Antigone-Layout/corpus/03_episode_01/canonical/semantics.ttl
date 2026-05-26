@@ -67,7 +67,13 @@
                  :Theme_RitualAndBurial,
                  :Theme_MysteryOfAction,
                  :Theme_AbsenceOfEvidence,
-                 :Theme_DivineAgency ;
+                 :Theme_DivineAgency,
+                 :Theme_GreedAndRuin,
+                 :Theme_PoliticalDissent,
+                 :Theme_Impiety,
+                 :Theme_StrictEnforcement,
+                 :Theme_DeathAsDeterrent,
+                 :Theme_CoercionAndThreats ;
   :hasConflict :Conflict_FriendVsFatherland,
                :Conflict_FearSilenceVsBestCounsel,
                :Conflict_HonorWickedVsJust,
@@ -75,7 +81,11 @@
                :Conflict_Guard_InnocenceVsSuspicion,
                :Conflict_Guard_Internal,
                :Conflict_HideVsReport,
-               :Conflict_HumanAgencyVsDivineAgency ;
+               :Conflict_HumanAgencyVsDivineAgency,
+               :Conflict_DivineProvidenceVsDenial,
+               :Conflict_BriberyVsPietyExplanation,
+               :Conflict_PunishmentAsTeaching,
+               :Conflict_InnocenceVsBriberyAccusation ;
   :referencesMyth :Myth_ZeusAllSeeing ;
   :relatedTo :Motivation_GovernCitySafely,
              :Motivation_TestLeadersByOffice,
@@ -128,10 +138,41 @@
              :Motivation_Guards_AvoidBlame,
              :Motivation_Guard_ComplyAfterLot,
              :Motivation_Chorus_SuspectDivineCause,
+             :Motivation_RejectDivineCareClaim,
+             :Motivation_IdentifyBribedActors,
+             :Motivation_ForceDisclosure,
+             :Motivation_DeterGreed,
+             :Motivation_Guard_SeekPermission,
+             :Motivation_Guard_DenyGuilt,
              :Emotion_Guard_FearAndHesitation,
              :Emotion_Creon_Suspicion,
              :Emotion_Guard_Unwillingness,
-             :Emotion_Guards_SuspicionAndAnger .
+             :Emotion_Guards_SuspicionAndAnger,
+             :Emotion_Anger,
+             :Emotion_Contempt,
+             :MoralDecision_AttributeDeedToBribery,
+             :MoralDecision_ThreatenHanging,
+             :EthicalPrinciple_DivineCareForDead,
+             :EthicalPrinciple_GodsDoNotHonorWicked,
+             :EthicalPrinciple_MoneyCorrupts,
+             :EthicalPrinciple_BribedMenMustPay,
+             :EthicalPrinciple_ProfitHasLimits,
+             :EthicalPrinciple_ShamefulGainRuinsMost,
+             :EthicalPrinciple_AccusationOfBribery,
+             :Event_SecretGrumbling,
+             :Event_BriberyForDeed,
+             :Event_MoneyAsEvilCurrency,
+             :Event_CitiesCorrupted,
+             :Event_MenDrivenFromHomes,
+             :Event_MindsSeducedToSavagery,
+             :Event_WickednessTaught,
+             :Event_ActsUngodly,
+             :Event_ThreatOfHanging,
+             :Event_DisclosureOfPerpetrator,
+             :Event_ShamefulProfitSeeking,
+             :Event_LoseMoreThanGain,
+             :Emotion_Creon_Irritation,
+             :Emotion_Guard_Frustration .
 
 
 # ===========================================================================
@@ -148,27 +189,36 @@
   :hasMotivation :Motivation_TestLeadersByOffice, :Motivation_RewardDefenderAndPunishTraitor, 
   :Motivation_StrictControl,
   :Motivation_GovernCitySafely,
-  :Motivation_Creon_IdentifyPerpetrator ;
+  :Motivation_Creon_IdentifyPerpetrator,
+  :Motivation_RejectDivineCareClaim,
+  :Motivation_IdentifyBribedActors,
+  :Motivation_ForceDisclosure,
+  :Motivation_DeterGreed ;
   :makesMoralDecision :MoralDecision_PrioritizeCityOverPrivateFriendship, :MoralDecision_SpeakAgainstRuin,
   :MoralDecision_HonorLoyalToCityLivingAndDead,
   :MoralDecision_BuryEteoclesWithHonors,
   :MoralDecision_PublicDecreePrinciples,
-  :MoralDecision_Creon_DemandDisclosure;
+  :MoralDecision_Creon_DemandDisclosure,
+  :MoralDecision_AttributeDeedToBribery,
+  :MoralDecision_ThreatenHanging;
   :advocatesFor :EthicalPrinciple_Patriotism, 
   :EthicalPrinciple_NoYieldTodisobedient,
   :EthicalPrinciple_FrankCounsel,
   :EthicalPrinciple_JusticeByMerit,
   :EthicalPrinciple_CivicLoyalty, :EthicalPrinciple_NoHonorForWickedOverJust, :EthicalPrinciple_LawfulGovernance,
-  :EthicalPrinciple_RulerMayUseLaw, :EthicalPrinciple_NoYieldToDisobedient, :EthicalPrinciple_GreedLeadsToRuin ;
-  :experiencesEmotion :Emotion_ResolveToProtectCity, :Emotion_SternResolve, :Emotion_Creon_Suspicion ;
+  :EthicalPrinciple_RulerMayUseLaw, :EthicalPrinciple_NoYieldToDisobedient, :EthicalPrinciple_GreedLeadsToRuin,
+  :EthicalPrinciple_GodsDoNotHonorWicked, :EthicalPrinciple_MoneyCorrupts, :EthicalPrinciple_BribedMenMustPay,
+  :EthicalPrinciple_ProfitHasLimits, :EthicalPrinciple_ShamefulGainRuinsMost, :EthicalPrinciple_AccusationOfBribery ;
+  :experiencesEmotion :Emotion_ResolveToProtectCity, :Emotion_SternResolve, :Emotion_Creon_Suspicion,
+  :Emotion_Anger, :Emotion_Contempt, :Emotion_Creon_Irritation ;
   rdfs:label "ΚΡ (Κρέων)"^^xsd:string .
 
 :Antigone_Character_Guard
   a :Character ;
-  :hasMotivation :Motivation_Guard_SelfPreservation, :Motivation_Guard_ReportToAuthority, :Motivation_Guards_FindExplanation, :Motivation_Guards_AvoidBlame, :Motivation_Guard_ComplyAfterLot ;
+  :hasMotivation :Motivation_Guard_SelfPreservation, :Motivation_Guard_ReportToAuthority, :Motivation_Guards_FindExplanation, :Motivation_Guards_AvoidBlame, :Motivation_Guard_ComplyAfterLot, :Motivation_Guard_SeekPermission, :Motivation_Guard_DenyGuilt ;
   :makesMoralDecision :MoralDecision_Guard_ComeAndSpeak, :MoralDecision_Guards_SwearInnocence, :MoralDecision_ReportToCreon ;
   :advocatesFor :EthicalPrinciple_UnjustPunishmentWrong, :EthicalPrinciple_DeedNotToBeHidden, :EthicalPrinciple_OathAsProof ;
-  :experiencesEmotion :Emotion_Guard_FearAndHesitation, :Emotion_Guard_Unwillingness, :Emotion_Guards_SuspicionAndAnger ;
+  :experiencesEmotion :Emotion_Guard_FearAndHesitation, :Emotion_Guard_Unwillingness, :Emotion_Guards_SuspicionAndAnger, :Emotion_Guard_Frustration ;
   rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 
 :Antigone_Character_Eteocles
@@ -271,38 +321,63 @@ a owl:NamedIndividual, :Character .
   :speechBy :Antigone_Character_Chorus ;
   :containsLine :Line_278, :Line_279 .
 
-:Speech_Creon_280_301 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+:Speech_Creon_280_301
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_280, :Line_281, :Line_282, :Line_283, :Line_284, :Line_285, :Line_286, :Line_287, :Line_288, :Line_289,
+                :Line_290, :Line_291, :Line_292, :Line_293, :Line_294, :Line_295, :Line_296, :Line_297, :Line_298, :Line_299,
+                :Line_300, :Line_301 .
+                
+:Speech_Creon_302_314
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_302, :Line_303, :Line_304, :Line_305, :Line_306, :Line_307, :Line_308, :Line_309,
+                :Line_310, :Line_311, :Line_312, :Line_313, :Line_314 .
 
-:Speech_Creon_302_314 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+:Speech_Guard_315
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_315 .
 
-:Speech_Guard_315 a :Speech ; 
-  :speechBy :Antigone_Character_Guard .
+:Speech_Creon_316
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_316 .
 
-:Speech_Creon_316 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+:Speech_Guard_317
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_317 .
 
-:Speech_Guard_317 a :Speech ; 
-  :speechBy :Antigone_Character_Guard .
+:Speech_Creon_318
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_318 .
 
-:Speech_Creon_318 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+:Speech_Guard_319
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_319 .
 
-:Speech_Guard_319 a :Speech ; 
-  :speechBy :Antigone_Character_Guard .
+:Speech_Creon_320
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_320 .
 
-:Speech_Creon_320 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+:Speech_Guard_321
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_321 .
 
-:Speech_Guard_321 a :Speech ; 
-  :speechBy :Antigone_Character_Guard .
+:Speech_Creon_322
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Creon ;
+  :containsLine :Line_322 .
 
-:Speech_Creon_322 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
-
-:Speech_Guard_323 a :Speech ; 
-  :speechBy :Antigone_Character_Guard .
+:Speech_Guard_323
+  a owl:NamedIndividual, :Speech ;
+  :speechBy :Antigone_Character_Guard ;
+  :containsLine :Line_323 .
 
 :Speech_Creon_324_326 a :Speech ; 
   :speechBy :Antigone_Character_Creon .
@@ -398,6 +473,30 @@ a :Theme ;
   a owl:NamedIndividual, :Theme ;
   :description "The deed may be driven by divine agency rather than ordinary human action."^^xsd:string .
 
+:Theme_GreedAndRuin
+  a owl:NamedIndividual, :Theme ;
+  :description "Greed drives corruption and ruin at both civic and personal levels."^^xsd:string .
+
+:Theme_PoliticalDissent
+  a owl:NamedIndividual, :Theme ;
+  :description "Hidden civic dissent and refusal of open submission undermine political authority."^^xsd:string .
+
+:Theme_Impiety
+  a owl:NamedIndividual, :Theme ;
+  :description "Acts of sacrilege and ungodliness are framed as moral and political threats."^^xsd:string .
+
+:Theme_StrictEnforcement
+  a owl:NamedIndividual, :Theme ;
+  :description "Authority is exercised through uncompromising enforcement and severe consequences."^^xsd:string .
+
+:Theme_DeathAsDeterrent
+  a owl:NamedIndividual, :Theme ;
+  :description "Threat of death is used as a deterrent against disobedience and concealment."^^xsd:string .
+
+:Theme_CoercionAndThreats
+  a owl:NamedIndividual, :Theme ;
+  :description "Coercive threats are used to force compliance and extract disclosure."^^xsd:string .
+
 ################################################################
 # MOTIVATIONS
 ################################################################
@@ -453,6 +552,30 @@ a :Motivation ;
   a owl:NamedIndividual, :Motivation ;
   :description "Consider that the deed may be divinely driven."^^xsd:string .
 
+:Motivation_RejectDivineCareClaim
+  a owl:NamedIndividual, :Motivation ;
+  :description "Reject the claim that gods provide care for this corpse and deny divine honor for such a dead man."^^xsd:string .
+
+:Motivation_IdentifyBribedActors
+  a owl:NamedIndividual, :Motivation ;
+  :description "Identify those believed to have been persuaded by pay to carry out the deed."^^xsd:string .
+
+:Motivation_ForceDisclosure
+  a owl:NamedIndividual, :Motivation ;
+  :description "Force the guards to reveal the perpetrator of the burial by threatening extreme punishment."^^xsd:string .
+
+:Motivation_DeterGreed
+  a owl:NamedIndividual, :Motivation ;
+  :description "Deter pursuit of shameful gain by warning that most lose more than they gain."^^xsd:string .
+
+:Motivation_Guard_SeekPermission
+  a owl:NamedIndividual, :Motivation ;
+  :description "Seek permission to speak further or leave."^^xsd:string .
+
+:Motivation_Guard_DenyGuilt
+  a owl:NamedIndividual, :Motivation ;
+  :description "Insist he did not do the deed."^^xsd:string .
+
 ################################################################
 # MORAL DECISIONS 
 ################################################################
@@ -502,6 +625,14 @@ a :MoralDecision ;
 :MoralDecision_ReportToCreon
   a owl:NamedIndividual, :MoralDecision ;
   :description "Decide the deed must be reported to Creon and not concealed."^^xsd:string .
+
+:MoralDecision_AttributeDeedToBribery
+  a owl:NamedIndividual, :MoralDecision ;
+  :description "Judge that the deed was carried out through bribery and corruption rather than divine prompting."^^xsd:string .
+
+:MoralDecision_ThreatenHanging
+  a owl:NamedIndividual, :MoralDecision ;
+  :description "Threaten hanging as coercion until the perpetrator is revealed."^^xsd:string .
 
 ################################################################
 # ETHICAL PRINCIPLES
@@ -556,6 +687,34 @@ a :EthicalPrinciple ;
   a owl:NamedIndividual, :EthicalPrinciple ;
   :description "Oaths and ordeals can be invoked as proof of innocence and non-complicity."^^xsd:string .
 
+:EthicalPrinciple_DivineCareForDead
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "A claim that divine powers may hold providential care for the dead."^^xsd:string .
+
+:EthicalPrinciple_GodsDoNotHonorWicked
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "Gods do not honor the wicked, especially those who attack temples, land, and civic order."^^xsd:string .
+
+:EthicalPrinciple_MoneyCorrupts
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "Money corrupts cities and persons, teaching wrongdoing and fostering ungodly acts."^^xsd:string .
+
+:EthicalPrinciple_BribedMenMustPay
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "Those who act for bribes must eventually pay the penalty."^^xsd:string .
+
+:EthicalPrinciple_ProfitHasLimits
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "One must not love profiting from every source; gain has a boundary and a cost."^^xsd:string .
+
+:EthicalPrinciple_ShamefulGainRuinsMost
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "From shameful takings, most people are ruined rather than saved."^^xsd:string .
+
+:EthicalPrinciple_AccusationOfBribery
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "Creonâ€™s charge: the guard has sold his soul for money."^^xsd:string .
+
 
 ################################################################
 # EMOTIONS
@@ -584,6 +743,22 @@ a :Emotion ;
 :Emotion_Guards_SuspicionAndAnger
   a owl:NamedIndividual, :Emotion ;
   :description "Mutual suspicion and anger among guards, leading to accusations."^^xsd:string .
+
+:Emotion_Anger
+  a owl:NamedIndividual, :Emotion ;
+  :description "Anger rises in response to the claim and drives a harsh rebuke."^^xsd:string .
+
+:Emotion_Contempt
+  a owl:NamedIndividual, :Emotion ;
+  :description "Contempt is shown toward the claim of divine protection for the corpse."^^xsd:string .
+
+:Emotion_Creon_Irritation
+  a owl:NamedIndividual, :Emotion ;
+  :description "Irritation at the guard's manner of speech and continued exchange."^^xsd:string .
+
+:Emotion_Guard_Frustration
+  a owl:NamedIndividual, :Emotion ;
+  :description "Frustration and distress at being falsely suspected."^^xsd:string .
 
 
 
@@ -631,6 +806,26 @@ a :Conflict ;
   a owl:NamedIndividual, :Conflict ;
   :description "Uncertainty whether the deed is committed by humans or driven by divine agency."^^xsd:string ;
   :conflictBetween :Motivation_Guards_FindExplanation, :Motivation_Chorus_SuspectDivineCause .
+
+:Conflict_DivineProvidenceVsDenial
+  a owl:NamedIndividual, :Conflict ;
+  :description "Tension between the claim of divine care for the corpse and the denial that gods honor the wicked."^^xsd:string ;
+  :conflictBetween :EthicalPrinciple_DivineCareForDead, :EthicalPrinciple_GodsDoNotHonorWicked .
+
+:Conflict_BriberyVsPietyExplanation
+  a owl:NamedIndividual, :Conflict ;
+  :description "The deed is explained as bribery and corruption rather than as a pious or divine act."^^xsd:string ;
+  :conflictBetween :MoralDecision_AttributeDeedToBribery, :EthicalPrinciple_DivineCareForDead .
+
+:Conflict_PunishmentAsTeaching
+  a owl:NamedIndividual, :Conflict ;
+  :description "Harsh punishment is framed as instruction about profit and wrongdoing."^^xsd:string ;
+  :conflictBetween :EthicalPrinciple_BribedMenMustPay, :MoralDecision_ThreatenHanging .
+
+:Conflict_InnocenceVsBriberyAccusation
+  a owl:NamedIndividual, :Conflict ;
+  :description "Guard denies doing the deed, while Creon asserts he has sold his soul for money."^^xsd:string ;
+  :conflictBetween :Antigone_Character_Guard, :Antigone_Character_Creon .
 
 ################################################################
 # MYTH
@@ -743,3 +938,60 @@ a owl:NamedIndividual, owl:Thing ;
 :Event_GuardArrivesUnwilling
   a owl:NamedIndividual, owl:Thing ;
   :description "The guard arrives unwillingly to deliver unwelcome news."^^xsd:string .
+
+:Event_SecretGrumbling
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Men of the city grumble in secret and resist open submission."^^xsd:string ;
+  :relatedTo :Event_BriberyForDeed .
+
+:Event_BriberyForDeed
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Men are believed to be persuaded by wages to do the deed."^^xsd:string .
+
+:Event_MoneyAsEvilCurrency
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Money is cast as a destructive force among humans."^^xsd:string ;
+  :relatedTo :Event_CitiesCorrupted,
+             :Event_MenDrivenFromHomes,
+             :Event_MindsSeducedToSavagery,
+             :Event_WickednessTaught,
+             :Event_ActsUngodly .
+
+:Event_CitiesCorrupted
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Cities are corrupted and damaged by money."^^xsd:string .
+
+:Event_MenDrivenFromHomes
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Men are driven from their homes by money."^^xsd:string .
+
+:Event_MindsSeducedToSavagery
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Minds are seduced and trained toward savage conduct."^^xsd:string .
+
+:Event_WickednessTaught
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Wickedness is taught and normalized among people."^^xsd:string .
+
+:Event_ActsUngodly
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Human actions are rendered ungodly."^^xsd:string .
+
+:Event_ThreatOfHanging
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Threat to hang the guards alive until the outrage is disclosed."^^xsd:string .
+
+:Event_DisclosureOfPerpetrator
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Demand that the doer of the burial be found and brought into Creonâ€™s sight."^^xsd:string .
+
+:Event_ShamefulProfitSeeking
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Pursuit of profit from shameful sources."^^xsd:string ;
+  :relatedTo :Event_LoseMoreThanGain .
+
+:Event_LoseMoreThanGain
+  a owl:NamedIndividual, owl:Thing ;
+  :description "One loses more than one gains in shameful pursuits."^^xsd:string .
+
+:Event_ThreatOfHanging :relatedTo :Event_DisclosureOfPerpetrator .
