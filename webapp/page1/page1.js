@@ -20,4 +20,25 @@ document.addEventListener('DOMContentLoaded', () => {
             document.querySelector(`.theme-panel-text[data-theme="${key}"]`).classList.remove('hidden');
         });
     });
+
+    const pages = document.querySelectorAll('.char-page');
+    const dots  = document.querySelectorAll('.char-dot');
+    const prev  = document.querySelector('.char-prev');
+    const next  = document.querySelector('.char-next');
+    let current = 0;
+
+    function showPage(idx) {
+        pages[current].classList.remove('active');
+        dots[current].classList.remove('active');
+        current = idx;
+        pages[current].classList.add('active');
+        dots[current].classList.add('active');
+        prev.disabled = current === 0;
+        next.disabled = current === pages.length - 1;
+    }
+
+    prev.disabled = true;
+    next.addEventListener('click', () => { if (current < pages.length - 1) showPage(current + 1); });
+    prev.addEventListener('click', () => { if (current > 0) showPage(current - 1); });
+    dots.forEach((dot, i) => dot.addEventListener('click', () => showPage(i)));
 });
