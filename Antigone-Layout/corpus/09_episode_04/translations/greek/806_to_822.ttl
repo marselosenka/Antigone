@@ -12,6 +12,8 @@
     :text "και να κοιτάζω το τελευταίο φως του ήλιου,"^^xsd:string ;
     :relatedTo :Line_807 .
 
+# Line 808, 809 do not exist in Antigone
+
 :TV_Line_810_gr a :TranslationVariant ;
     :text "ποτέ πια ξανά· αλλά ο Άδης που όλους κοιμίζει με οδηγεί ζωντανή"^^xsd:string ;
     :relatedTo :Line_810 .
@@ -23,6 +25,8 @@
 :TV_Line_812_gr a :TranslationVariant ;
     :text "την ακτή, χωρίς μερίδιο σε γαμήλιους ύμνους, ούτε σε νυφικά τελετουργικά."^^xsd:string ;
     :relatedTo :Line_812 .
+
+# Line 813, 814 do not exist in Antigone
 
 :TV_Line_815_gr a :TranslationVariant ;
     :text "Κανένας ύμνος δεν τραγουδήθηκε ποτέ για μένα στους γάμους· τον Αχέροντα θα νυμφευτώ."^^xsd:string ;

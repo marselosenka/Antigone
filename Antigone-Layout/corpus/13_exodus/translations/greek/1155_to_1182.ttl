@@ -5,113 +5,113 @@
 :exodus-translations-1155-1182-greek a owl:Ontology .
 
 :TV_Line_1155_gr a :TranslationVariant ;
-    :text "Γείτονες του οίκου του Κάδμου και του Αμφίονα,"^^xsd:string ;
+    :text "Κάτοικοι της γης του Κάδμου και των σπιτιών του Αμφίονα,"^^xsd:string ;
     :relatedTo :Line_1155 .
 
 :TV_Line_1156_gr a :TranslationVariant ;
-    :text "κανένας δρόμος ζωής δεν είναι τόσο ίσιος ώστε"^^xsd:string ;
+    :text "δεν υπάρχει ανθρώπινη ζωή που, όσο στέκει,"^^xsd:string ;
     :relatedTo :Line_1156 .
 
 :TV_Line_1157_gr a :TranslationVariant ;
-    :text "να τολμώ να τον πω καλό ή κακό."^^xsd:string ;
+    :text "θα μπορούσα ποτέ ούτε να την παινέσω ούτε να την κατηγορήσω."^^xsd:string ;
     :relatedTo :Line_1157 .
 
 :TV_Line_1158_gr a :TranslationVariant ;
-    :text "Γιατί η τύχη πάντα σηκώνει ψηλά και"^^xsd:string ;
+    :text "Γιατί η τύχη σηκώνει όρθιο τον άνθρωπο και η τύχη τον γκρεμίζει"^^xsd:string ;
     :relatedTo :Line_1158 .
 
 :TV_Line_1159_gr a :TranslationVariant ;
-    :text "γκρεμίζει εξίσου και τους τυχερούς και τους άτυχους·"^^xsd:string ;
+    :text "και τον ευτυχισμένο και τον δυστυχισμένο, πάντα."^^xsd:string ;
     :relatedTo :Line_1159 .
 
 :TV_Line_1160_gr a :TranslationVariant ;
-    :text "κανένας μάντης δεν λέει με βεβαιότητα τη μοίρα του θνητού."^^xsd:string ;
+    :text "Και κανένας μάντης δεν γνωρίζει τι είναι ορισμένο για τους θνητούς."^^xsd:string ;
     :relatedTo :Line_1160 .
 
 :TV_Line_1161_gr a :TranslationVariant ;
-    :text "Ο Κρέοντας ήταν ευτυχισμένος, όσο μπορώ να κρίνω·"^^xsd:string ;
+    :text "Γιατί ο Κρέοντας κάποτε ήταν αξιοζήλευτος, όπως μου φαινόταν,"^^xsd:string ;
     :relatedTo :Line_1161 .
 
 :TV_Line_1162_gr a :TranslationVariant ;
-    :text "έσωσε τη γη του Κάδμου από τους εχθρούς της,"^^xsd:string ;
+    :text "αφού έσωσε αυτήν εδώ τη γη των Καδμείων από τους εχθρούς,"^^xsd:string ;
     :relatedTo :Line_1162 .
 
 :TV_Line_1163_gr a :TranslationVariant ;
-    :text "πήρε μόνος την εξουσία αυτής της χώρας, την κυβέρνησε καλά,"^^xsd:string ;
+    :text "και παίρνοντας την απόλυτη εξουσία της χώρας,"^^xsd:string ;
     :relatedTo :Line_1163 .
 
 :TV_Line_1164_gr a :TranslationVariant ;
-    :text "και απέκτησε πολλά ευγενικά παιδιά."^^xsd:string ;
+    :text "την κυβερνούσε, ανθίζοντας με ευγενική γενιά παιδιών."^^xsd:string ;
     :relatedTo :Line_1164 .
 
 :TV_Line_1165_gr a :TranslationVariant ;
-    :text "Τώρα όμως όλα χάθηκαν. Όταν ο άνθρωπος"^^xsd:string ;
+    :text "Και τώρα όλα χάθηκαν. Γιατί όταν οι άνθρωποι χάσουν"^^xsd:string ;
     :relatedTo :Line_1165 .
 
 :TV_Line_1166_gr a :TranslationVariant ;
-    :text "αποχαιρετήσει όλη του τη χαρά, δεν τον λογαριάζω"^^xsd:string ;
+    :text "τις χαρές τους, εγώ δεν θεωρώ έναν τέτοιο άνθρωπο"^^xsd:string ;
     :relatedTo :Line_1166 .
 
 :TV_Line_1167_gr a :TranslationVariant ;
-    :text "ζωντανό· είναι ζωντανό πτώμα."^^xsd:string ;
+    :text "ζωντανό, αλλά τον λογαριάζω για νεκρό που ακόμα αναπνέει."^^xsd:string ;
     :relatedTo :Line_1167 .
 
 :TV_Line_1168_gr a :TranslationVariant ;
-    :text "Γέμισε το σπίτι σου πλούτη, αν θέλεις·"^^xsd:string ;
+    :text "Ας έχει μεγάλα πλούτη στο σπίτι του, αν θέλεις,"^^xsd:string ;
     :relatedTo :Line_1168 .
 
 :TV_Line_1169_gr a :TranslationVariant ;
-    :text "φαίνεσαι σε όλο τον κόσμο μεγάλος τύραννος·"^^xsd:string ;
+    :text "και ας ζει έχοντας την όψη βασιλιά· αν όμως λείπει"^^xsd:string ;
     :relatedTo :Line_1169 .
 
 :TV_Line_1170_gr a :TranslationVariant ;
-    :text "αν δεν υπάρχει χαρά μέσα σε αυτά,"^^xsd:string ;
+    :text "η χαρά από αυτά, όλα τα άλλα δεν θα τα αγόραζα"^^xsd:string ;
     :relatedTo :Line_1170 .
 
 :TV_Line_1171_gr a :TranslationVariant ;
-    :text "δεν θα έδινα ούτε τη σκιά του καπνού για όλα αυτά."^^xsd:string ;
+    :text "από κανέναν άνθρωπο ούτε για σκιά καπνού, μπροστά στην ευτυχία."^^xsd:string ;
     :relatedTo :Line_1171 .
 
 :TV_Line_1172_gr a :TranslationVariant ;
-    :text "Ποιο είναι το τελευταίο νέο για τα βασιλικά βάσανα;"^^xsd:string ;
+    :text "Τι βάρος συμφοράς για το βασιλικό σπίτι φέρνεις τώρα;"^^xsd:string ;
     :relatedTo :Line_1172 .
 
 :TV_Line_1173_gr a :TranslationVariant ;
-    :text "Είναι νεκροί, και φταίνε οι ζωντανοί."^^xsd:string ;
+    :text "Είναι νεκροί· και οι ζωντανοί είναι αίτιοι για τον θάνατό τους."^^xsd:string ;
     :relatedTo :Line_1173 .
 
 :TV_Line_1174_gr a :TranslationVariant ;
-    :text "Και ποιος σκότωσε; ποιος κείται νεκρός; πες το!"^^xsd:string ;
+    :text "Και ποιος σκότωσε; Ποιος είναι ο νεκρός; Μίλα."^^xsd:string ;
     :relatedTo :Line_1174 .
 
 :TV_Line_1175_gr a :TranslationVariant ;
-    :text "Ο Αίμονας τελείωσε, ματωμένος από το ίδιο του το χέρι."^^xsd:string ;
+    :text "Ο Αίμων χάθηκε· το ίδιο του το χέρι τον μάτωσε."^^xsd:string ;
     :relatedTo :Line_1175 .
 
 :TV_Line_1176_gr a :TranslationVariant ;
-    :text "Από το χέρι του πατέρα του ή το δικό του;"^^xsd:string ;
+    :text "Από το χέρι του πατέρα του ή από το δικό του;"^^xsd:string ;
     :relatedTo :Line_1176 .
 
 :TV_Line_1177_gr a :TranslationVariant ;
-    :text "Από το δικό του, για πείσμα στον φονιά πατέρα."^^xsd:string ;
+    :text "Από το δικό του, οργισμένος με τον πατέρα του για τον φόνο."^^xsd:string ;
     :relatedTo :Line_1177 .
 
 :TV_Line_1178_gr a :TranslationVariant ;
-    :text "Ω μάντη, πόσο αληθινά ακούγονται τώρα τα λόγια σου!"^^xsd:string ;
+    :text "Ω μάντη, πόσο σωστά βγήκε ο λόγος σου."^^xsd:string ;
     :relatedTo :Line_1178 .
 
 :TV_Line_1179_gr a :TranslationVariant ;
-    :text "Με τα πράγματα όπως είναι, έχεις κι άλλα να σκεφτείς."^^xsd:string ;
+    :text "Αφού έτσι έχουν τα πράγματα, τώρα πρέπει να σκεφτούμε τα υπόλοιπα."^^xsd:string ;
     :relatedTo :Line_1179 .
 
 :TV_Line_1180_gr a :TranslationVariant ;
-    :text "Να, βλέπω εδώ κοντά τη δύστυχη Ευρυδίκη,"^^xsd:string ;
+    :text "Και τώρα βλέπω την άμοιρη Ευρυδίκη εδώ κοντά,"^^xsd:string ;
     :relatedTo :Line_1180 .
 
 :TV_Line_1181_gr a :TranslationVariant ;
-    :text "τη γυναίκα του Κρέοντα· ή ξέρει τι έγινε με τον γιο της,"^^xsd:string ;
+    :text "τη γυναίκα του Κρέοντα, να βγαίνει από το παλάτι,"^^xsd:string ;
     :relatedTo :Line_1181 .
 
 :TV_Line_1182_gr a :TranslationVariant ;
-    :text "ή τυχαίνει απλώς να βγαίνει τώρα από το σπίτι."^^xsd:string ;
+    :text "είτε επειδή άκουσε για τον γιο της είτε από τύχη."^^xsd:string ;
     :relatedTo :Line_1182 .

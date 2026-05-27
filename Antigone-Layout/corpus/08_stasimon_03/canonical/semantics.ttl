@@ -4,17 +4,13 @@
 
 :stasimon03-semantics a owl:Ontology .
 
-# ===================================================
-# SCENE INFORMATION
-# ===================================================
-
-:Antigone_Scene_ThirdStasimon_773_805 a :Scene,
+:Antigone_Stasimon_03 a :Stasimon_03,
         owl:NamedIndividual ;
     :developsTheme :Theme_DeathAndHadesReverence,
         :Theme_ErosOverpowersReasonAndLaw ;
     :hasConflict :Conflict_ErosVsJustice ;
-    :hasSpeech :Speech_Chorus_781_805,
-        :Speech_Creon_773_780 ;
+    :hasSpeech :Speech_Chorus_781_805 ;
+
     :sceneNumber "Stasimon 3"^^xsd:string .
 
 # ===================================================
@@ -24,10 +20,17 @@
         owl:NamedIndividual ;
     :relatedTo :CreonDecision_EntombAntigoneAlive .
 
-:Chorus_Character_Chorus a :Character,
+:Antigone_Character_Chorus a :Character,
         owl:NamedIndividual ;
     :experiencesEmotion :ChorusEmotion_AweAtErosPower,
         :ChorusEmotion_TearsAndPityForAntigone .
+
+:Antigone_Character_Creon a :Character,
+        owl:NamedIndividual ;
+    :advocatesFor :EthicalPrinciple_AvoidMiasma,
+        :EthicalPrinciple_CivicPurity ;
+    :hasMotivation :CreonMotivation_AvoidMiasmaForCity ;
+    :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
 
 # ===================================================
 # SPEECHES
@@ -62,7 +65,9 @@
         :Line_805 ;
     :hasTheme :Theme_ErosOverpowersReasonAndLaw,
         :Theme_TearsAndPityAtBridalChamberOfDeath ;
-    :speechBy :Chorus_Character_Chorus . 
+    :speechBy :Antigone_Character_Chorus . 
+
+
 # ===================================================
 # THEMES, CONFLICTS, ETHICAL PRINCIPLES, EMOTIONS, MOTIVATIONS, AND MORAL DECISIONS
 # ===================================================
@@ -79,13 +84,6 @@
     :conflictBetween :EthicalPrinciple_ErosDesire,
         :EthicalPrinciple_Justice ;
     :description "Eros overthrows just minds, turning the just toward injustice and stirring kin-strife."^^xsd:string .
-
-:Creon_Character_Creon a :Character,
-        owl:NamedIndividual ;
-    :advocatesFor :EthicalPrinciple_AvoidMiasma,
-        :EthicalPrinciple_CivicPurity ;
-    :hasMotivation :CreonMotivation_AvoidMiasmaForCity ;
-    :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
 
 :CreonDecision_EntombAntigoneAlive a :MoralDecision,
         owl:NamedIndividual ;

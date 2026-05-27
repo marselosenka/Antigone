@@ -13,6 +13,7 @@
     :text "on my last journey, as I gaze upon my last sunlight,"^^xsd:string ;
     :relatedTo :Line_807 .
 
+# Line 808, 809 do not exist in Antigone
 :TV_Line_810_en a owl:NamedIndividual, :TranslationVariant ;
     :text "and never again; but Hades, who puts all to sleep, leads me, still living,"^^xsd:string ;
     :relatedTo :Line_810 .
@@ -25,6 +26,7 @@
     :text "shore, without any share in bridal songs or wedding rites,"^^xsd:string ;
     :relatedTo :Line_812 .
 
+# Line 813, 814 do not exist in Antigone
 :TV_Line_815_en a owl:NamedIndividual, :TranslationVariant ;
     :text "No song has been sung for me at my marriage, but instead I shall wed Acheron."^^xsd:string ;
     :relatedTo :Line_815 .

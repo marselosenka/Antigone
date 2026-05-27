@@ -21,6 +21,7 @@
     :text "as the story goes,"^^xsd:string ;
     :relatedTo :Line_827 .
 
+# Line 828 and 829 do not exist in Antigone.
 :TV_Line_830_en a owl:NamedIndividual, :TranslationVariant ;
     :text "and snow never leave her; beneath her tearful brows she dampens"^^xsd:string ;
     :relatedTo :Line_830 .
@@ -28,6 +29,8 @@
 :TV_Line_831_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I am most like her, as the god leads me to my sleep."^^xsd:string ;
     :relatedTo :Line_831 .
+
+# Line 832 and 833 do not exist in Antigone.
 
 :TV_Line_834_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet she was a goddess herself, and god-born,"^^xsd:string ;
@@ -65,6 +68,7 @@
     :text "ah, springs of Dirce,"^^xsd:string ;
     :relatedTo :Line_842 .
 
+# Line 843 and 844 do not exist in Antigone
 :TV_Line_845_en a owl:NamedIndividual, :TranslationVariant ;
     :text "and grove of Thebes of many chariots, you at least I can count on as witnesses,"^^xsd:string ;
     :relatedTo :Line_845 .
@@ -77,6 +81,8 @@
     :text "to my rock-heaped prison, to my strange tomb."^^xsd:string ;
     :relatedTo :Line_847 .
 
+# Line 848 and 849 do not exist in Antigone.
+
 :TV_Line_850_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I neither live among mortals nor shades, neither with the living nor the dead."^^xsd:string ;
     :relatedTo :Line_850 .
@@ -84,6 +90,9 @@
 :TV_Line_851_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I neither live among mortals nor shades, neither with the living nor the dead."^^xsd:string ;
     :relatedTo :Line_851 .
+
+# Line 852 do not exist in Antigone.
+
 
 :TV_Line_853_en a owl:NamedIndividual, :TranslationVariant ;
     :text "You rushed through the depths of recklessness"^^xsd:string ;
@@ -101,6 +110,8 @@
     :text "Now you pay for your father’s crimes."^^xsd:string ;
     :relatedTo :Line_856 .
 
+# Line 857 does not exist in Antigone.
+
 :TV_Line_858_en a owl:NamedIndividual, :TranslationVariant ;
     :text "You have touched upon my most painful memory,"^^xsd:string ;
     :relatedTo :Line_858 .
@@ -117,6 +128,7 @@
     :text "Oh, our mother’s disaster of a marriage!"^^xsd:string ;
     :relatedTo :Line_861 .
 
+# Lines 862,863 and 864 do not exist in Antigone.
 :TV_Line_865_en a owl:NamedIndividual, :TranslationVariant ;
     :text "and my father’s incestuous intercourse with his ill-fated mother!"^^xsd:string ;
     :relatedTo :Line_865 .
@@ -129,6 +141,7 @@
     :text "I go to them to live, accursed, unmarried."^^xsd:string ;
     :relatedTo :Line_867 .
 
+# Line 868 and 869 do not exist in Antigone.
 :TV_Line_870_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Ah, my brother, who secured an ill-fated marriage,"^^xsd:string ;
     :relatedTo :Line_870 .

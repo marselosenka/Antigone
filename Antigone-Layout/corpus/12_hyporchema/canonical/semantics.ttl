@@ -2,6 +2,13 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+
+:Antigone_Hyporchema a :Hyporchema ;
+    :hasSpeech 
+        :Speech_Chorus_1115_1125, 
+        :Speech_Chorus_1126_1135, 
+        :Speech_Chorus_1137_1145, 
+        :Speech_Chorus_1146_1152 .
 # ===================================================================================
 # SCENE INFORMATION
 # ===================================================================================
@@ -76,15 +83,15 @@
 
 :Theme_DivineIntervention
     a :Theme ;
-    :description "The reliance on gods to cure civic ailments (plague/miasma) that human agency cannot fix."^^xsd:string .
+    :description "The reliance on gods to cure civic ailments that human agency cannot fix."^^xsd:string .
 
 :Theme_CivicPollution
     a :Theme ;
-    :description "Miasma: The concept of the city being infected by a moral or physical disease mirroring the royal house's corruption."^^xsd:string .
+    :description "The concept of the city being infected by a moral or physical miasma (noxious disease)."^^xsd:string .
 
 :Theme_DionysianWorship
     a :Theme ;
-    :description "Ritualistic elements: dancing, fire, night-wandering, and frenzy associated with Bacchus."^^xsd:string .
+    :description "Ritualistic elements associated with Bacchus: dancing, fire, night, and frenzy."^^xsd:string .
 
 :Theme_Hope
     a :Theme ;
@@ -92,7 +99,7 @@
 
 :Motivation_CleanseThebes
     a :Motivation ;
-    :description "The urgent desire to purify the city and invoke a healer to remove the curse."^^xsd:string .
+    :description "The urgent desire to purify the city of its current plague or curse."^^xsd:string .
 
 :Motivation_InvokeHealer
     a :Motivation ;
@@ -105,6 +112,7 @@
 :Emotion_ReligiousFervor
     a :Emotion ;
     :description "Intense, frenzied devotion and praise directed at the deity."^^xsd:string .
+
 
 :Emotion_DesperateHope
     a :Emotion ;
