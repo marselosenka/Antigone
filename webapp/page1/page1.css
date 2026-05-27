@@ -156,25 +156,94 @@ html {
 
 .structure-list li .part-num {
     font-family: var(--font-heading);
-    font-size: 10px;
+    font-size: 14px;
     color: var(--gold-dim);
     letter-spacing: 1px;
-    min-width: 24px;
+    min-width: 28px;
 }
 
 .structure-list li .part-name {
     font-weight: 600;
     color: var(--aegean);
     font-family: var(--font-heading);
-    font-size: 12px;
+    font-size: 15px;
     letter-spacing: 0.5px;
 }
 
 .structure-list li .part-desc {
     color: #5a4a38;
-    font-size: 13px;
+    font-size: 17px;
     font-style: italic;
     margin-left: 4px;
+}
+
+.char-carousel {
+    position: relative;
+}
+
+.char-page {
+    display: none;
+}
+
+.char-page.active {
+    display: block;
+}
+
+.char-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 18px;
+}
+
+.char-arrow {
+    font-size: 18px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1px solid var(--border-soft);
+    background: rgba(255,255,255,0.35);
+    color: var(--aegean);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+.char-arrow:hover {
+    background: var(--aegean);
+    color: #fdf6ec;
+    border-color: var(--aegean);
+    box-shadow: 0 3px 10px rgba(8, 36, 68, 0.25);
+}
+
+.char-arrow:disabled {
+    opacity: 0.3;
+    cursor: default;
+    pointer-events: none;
+}
+
+.char-dots {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.char-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--border-soft);
+    transition: background 0.2s, transform 0.2s;
+    cursor: pointer;
+}
+
+.char-dot.active {
+    background: var(--aegean);
+    transform: scale(1.3);
 }
 
 .char-grid {
