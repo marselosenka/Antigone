@@ -5,69 +5,79 @@
 # ==========================
 # CHARACTERS
 # ==========================
-:Antigone_Character_Antigone
-a :Character ;
-:hasMotivation :Motivation_SeekNewsAndDecree, :Motivation_PrivateDisclosure ;
-:experiencesEmotion :Emotion_Anxiety, :Emotion_Lamentation .
-
-:Antigone_Character_Ismene
-a :Character ;
-:experiencesEmotion :Emotion_Uncertainty, :Emotion_Grief .
-
-# ==========================
-# THOSE WITH THE ABOVE NEED MERGE
-# ==========================
-
-:Antigone_Character_Antigone
-a :Character ;
-:hasMotivation :Motivation_UpholdBurialRites, :Motivation_SeekIsmeneCooperation ;
-:makesMoralDecision :MoralDecision_DefyCreonEdict ;
-:advocatesFor :EthicalPrinciple_BurialRites ;
-:experiencesEmotion :Emotion_Indignation, :Emotion_Urgency .
-
-:Antigone_Character_Ismene
-a :Character ;
-:experiencesEmotion :Emotion_Concern, :Emotion_Hesitation .
-
-:Antigone_Character_Creon a :Character .
-:Antigone_Character_Eteocles a :Character .
-:Antigone_Character_Polyneices a :Character .
-
-# ALSO THOSE NEED MERGE
-
-:Antigone_Character_Antigone
-a :Character ;
-:hasMotivation :Motivation_BuryBrother, :Motivation_RefuseBetrayal ;
-:makesMoralDecision :MoralDecision_DefyEdictForBurial ;
-:advocatesFor :EthicalPrinciple_BurialRites ;
-:experiencesEmotion :Emotion_Resolve, :Emotion_Defiance ;
-:relatedTo :Law_CreonBurialEdict .
-
-:Antigone_Character_Ismene
-a :Character ;
-:hasMotivation :Motivation_AvoidDefyingTyrant, :Motivation_ProtectSister ;
-:makesMoralDecision :MoralDecision_UrgePrudence ;
-:experiencesEmotion :Emotion_Fear, :Emotion_Alarm, :Emotion_Grief ;
-:relatedTo :Law_CreonBurialEdict .
-
-:Antigone_Character_Creon a :Character .
-:Antigone_Character_Oedipus a :Character .
-:Antigone_Character_Polyneices a :Character .
 
 :Antigone_Character_Antigone
     a :Character ;
-    :hasMotivation :Motivation_BuryBrotherDespiteRisk, :Motivation_PleaseUnderworld, :Motivation_PublicWitnessForJustice ;
-    :makesMoralDecision :MoralDecision_BuryBrotherAndAcceptDeath ;
-    :advocatesFor :EthicalPrinciple_DivineHonorForDead ;
-    :experiencesEmotion :Emotion_Resolve, :Emotion_ReverentDuty, :Emotion_DefiantCourage, :Emotion_ContemptForSilence ;
-    :relatedTo :Law_CivicBurialBan, :EthicalPrinciple_DivineHonorForDead .
+    :hasMotivation 
+        :Motivation_SeekNewsAndDecree,
+        :Motivation_UpholdBurialRites,
+        :Motivation_SeekIsmeneCooperation,
+        :Motivation_PrivateDisclosure,
+        :Motivation_BuryBrother,
+        :Motivation_RefuseBetrayal,
+        :Motivation_BuryBrotherDespiteRisk,
+        :Motivation_PleaseUnderworld,
+        :Motivation_PublicWitnessForJustice ;
+    :makesMoralDecision 
+        :MoralDecision_DefyCreonEdict,
+        :MoralDecision_DefyEdictForBurial,
+        :MoralDecision_BuryBrotherAndAcceptDeath ;
+    :advocatesFor 
+        :EthicalPrinciple_BurialRites,
+        :EthicalPrinciple_DivineHonorForDead ;
+    :relatedTo 
+        :Law_CreonBurialEdict,
+        :Law_CivicBurialBan,
+        :EthicalPrinciple_DivineHonorForDead ;
+    :experiencesEmotion 
+        :Emotion_Anxiety,
+        :Emotion_Lamentation,
+        :Emotion_Indignation,
+        :Emotion_Urgency, # Cant find where this is...
+        :Emotion_Resolve,
+        :Emotion_Defiance,
+        :Emotion_ReverentDuty,
+        :Emotion_DefiantCourage,
+        :Emotion_ContemptForSilence .
 
 :Antigone_Character_Ismene
-a :Character ;
-:hasMotivation :Motivation_ObeyAuthorities, :Motivation_AvoidForcedAction, :Motivation_KeepPlanSecret, :Motivation_ProtectAntigone ;
-:makesMoralDecision :MoralDecision_SubmitToRulers, :MoralDecision_RequestSecrecy ;
-:experiencesEmotion :Emotion_Resignation, :Emotion_FearForAntigone, :Emotion_Anxiety, :Emotion_WarmHeartedConcern ;
-:relatedTo :Law_CivicBurialBan .
+    a :Character ;
+    :hasMotivation 
+        :Motivation_AvoidDefyingTyrant,
+        :Motivation_ProtectSister,
+        :Motivation_ObeyAuthorities,
+        :Motivation_AvoidForcedAction,
+        :Motivation_KeepPlanSecret,
+        :Motivation_ProtectAntigone ;
+    :makesMoralDecision 
+        :MoralDecision_UrgePrudence,
+        :MoralDecision_SubmitToRulers,
+        :MoralDecision_RequestSecrecy ;
+    :experiencesEmotion 
+        :Emotion_Uncertainty,
+        :Emotion_Concern,
+        :Emotion_Fear,
+        :Emotion_Alarm,
+        :Emotion_Grief,
+        :Emotion_Hesitation,
+        :Emotion_Resignation,
+        :Emotion_FearForAntigone,
+        :Emotion_Anxiety,
+        :Emotion_WarmHeartedConcern ;
+    :relatedTo 
+        :Law_CreonBurialEdict,
+        :Law_CivicBurialBan .
+
+# Referenced , not present.
+:Antigone_Character_Creon 
+    a :Character .
+:Antigone_Character_Eteocles 
+    a :Character .
+:Antigone_Character_Polyneices 
+    a :Character .
+
+# ALSO THOSE NEED MERGE
+
 
 :Antigone_Character_Brother a :Character ;
 :description "The brother to be buried (Polyneices implied but not named in this passage)."^^xsd:string .
@@ -334,19 +344,19 @@ a :Motivation ;
 
 :Motivation_BuryBrother
 a :Motivation ;
-:description "Ἡ Ἀντιγόνη ζητεῖ τὴν Ἰσμήνης χεῖρα ξυνοίσειν πρὸς τὸ κουφίζειν/θάπτειν τὸν νεκρόν."^^xsd:string .
+:description "Antigone asks for Ismene's help in lifting and burying the dead body."^^xsd:string .
 
 :Motivation_RefuseBetrayal
 a :Motivation ;
-:description "Ἡ Ἀντιγόνη δηλοῖ ὅτι οὐ προδοῦσα ἁλώσεται: προτιμᾷ τὸ μὴ προδιδόναι τὸν ἀδελφόν."^^xsd:string .
+:description "Antigone declares that she will not be caught betraying him: she prefers not to betray her brother."^^xsd:string .
 
 :Motivation_AvoidDefyingTyrant
 a :Motivation ;
-:description "Ἡ Ἰσμήνη ἐπικαλεῖται τὸν νόμον καὶ τὴν ψῆφον τυράννων, φοβουμένη τὸ κάκιστον ὄλεθρον ἐὰν παραβῶσι."^^xsd:string .
+:description "Ismene appeals to the law and the decree of rulers, fearing the worst destruction if they disobey."^^xsd:string .
 
 :Motivation_ProtectSister
 a :Motivation ;
-:description "Ἡ Ἰσμήνη παρακαλεῖ 'φρόνησον' καὶ ἐπιχειρεῖ νουθετεῖν τὴν Ἀντιγόνην πρὸς σωτηρίαν."^^xsd:string .
+:description "Ismene urges Antigone to think carefully and tries to advise her toward safety."^^xsd:string .
 
 :Motivation_BuryBrotherDespiteRisk
 a :Motivation ;
@@ -419,19 +429,19 @@ a :Motivation ;
 
 :Emotion_Alarm
     a :Emotion ;
-    :description "Ἡ Ἰσμήνη ἐκπλήσσεται καὶ ἐρωτᾷ περὶ κινδύνου καὶ γνώμης."^^xsd:string .
+    :description "Ismene is alarmed and asks about the danger and wisdom."^^xsd:string .
 
 :Emotion_Resolve
     a :Emotion ;
-    :description "Σταθερὰ βούλησις τῆς Ἀντιγόνης πρὸς τὴν ταφὴν, ἔστω καὶ μόνη."^^xsd:string .
+    :description "Antigone's firm determination to perform the burial, even if she must do it alone."^^xsd:string .
 
 :Emotion_Defiance
     a :Emotion ;
-    :description "Πρόκλησις/ἀνυπακοὴ πρὸς Κρέοντα: 'οὐδὲν αὐτῷ ... εἴργειν'."^^xsd:string .
+    :description "Defiance and disobedience toward Creon: 'he has no right to keep me from my own.'"^^xsd:string .
 
 :Emotion_Grief
     a :Emotion ;
-    :description "Θρῆνος μνήμης τῶν οἰκείων κακῶν: πατρός, μητρός, καὶ τῶν ἀδελφῶν."^^xsd:string .
+    :description "Griefful remembrance of the family's sufferings: her father, mother, and brothers."^^xsd:string .
 
 :Emotion_Resignation
     a :Emotion ;
@@ -500,7 +510,7 @@ a :Theme ;
 
 :Theme_StateEdict
 a :Theme ;
-:description "Τὸ δημόσιον κήρυγμα τοῦ στρατηγοῦ (Κρέοντος) ὡς ἐπιταγή πόλεως."^^xsd:string .
+:description "The public proclamation of the general, Creon, as an official command of the city."^^xsd:string .
 
 :Theme_BurialRites
 a :Theme ;
@@ -532,19 +542,19 @@ a :Theme ;
 
 :Theme_TyrannicalLaw
 a :Theme ;
-:description "Νόμου βία καὶ ψῆφος τυράννων ὡς ἀνώτερη πολιτικὴ δύναμις."^^xsd:string .
+:description "The use of force and votes by tyrants as a higher political power."^^xsd:string .
 
 :Theme_FamilyCurse
 a :Theme ;
-:description "Ἡ καταστροφὴ τοῦ οἴκου (Οἰδίπους, μήτηρ, ἀδελφοί) ὡς ἀδιάκοπον κακόν."^^xsd:string .
+:description "The destruction of the family house, Oedipus, the mother, and the brothers, as an unbroken chain of suffering."^^xsd:string .
 
 :Theme_SurvivalPrudence
 a :Theme ;
-:description "Φρόνησις καὶ αὐτοσυντήρησις: ἀποφυγὴ ὀλέθρου ἐν ὑποταγῇ."^^xsd:string .
+:description "Prudence and self-preservation: avoiding destruction through submission."^^xsd:string .
 
 :Theme_GenderConstraint
 a :Theme ;
-:description "Ἡ Ἰσμήνη προβάλλει ὅτι γυναῖκες ἔφυμεν καὶ οὐ μαχουμέναι πρὸς ἄνδρας."^^xsd:string .
+:description "Ismene argues that they are women by nature and are not meant to fight against men."^^xsd:string .
 
 :Theme_BurialDuty
 a :Theme ;
@@ -587,12 +597,12 @@ a :Conflict ;
 
 :Conflict_BurialRitesVsCreonEdict
 a :Conflict ;
-:description "Σύγκρουσις ἀνάμεσα στὸ χρέος ταφῆς καὶ τὸ ἀπόρρητον πόλει/Κρέοντος ἀντείρημα."^^xsd:string ;
+:description "Conflict between the duty of burial and the forbidden act opposed by the city and Creon."^^xsd:string ;
 :conflictBetween :EthicalPrinciple_BurialRites, :Law_CreonBurialEdict .
 
 :Conflict_GenderVsAuthority
 a :Conflict ;
-:description "Σύγκρουσις ἀνάμεσα στὸν περιορισμὸ γυναικῶν καὶ τὴν ἀνδρικὴ/τυραννικὴ ἐξουσία."^^xsd:string ;
+:description "Conflict between the limitation placed on women and male or tyrannical authority."^^xsd:string ;
 :conflictBetween :Theme_GenderConstraint, :Theme_TyrannicalLaw .
 
 :Conflict_DivineLawVsCivicAuthority
@@ -678,13 +688,13 @@ a :Law ;
 
 :MoralDecision_DefyEdictForBurial
 a :MoralDecision ;
-:description "Ἡ Ἀντιγόνη ἀποφασίζει θάπτειν τὸν ἀδελφόν, κἂν ἀπόρρητον πόλει καὶ Κρέοντος ἀντειρηκότος."^^xsd:string ;
+:description "Antigone decides to bury her brother, even though it is forbidden by the city and opposed by Creon's decree."^^xsd:string ;
 :relatedTo :Law_CreonBurialEdict ;
 :relatedTo :EthicalPrinciple_BurialRites .
 
 :MoralDecision_UrgePrudence
 a :MoralDecision ;
-:description "Ἡ Ἰσμήνη ἀντιτάσσει φρόνησιν καὶ ὑποχώρησιν ἔναντι νόμου/τυράννων, ἐπικαλουμένη τὸ παλαιὸν οἴκων κακόν."^^xsd:string ;
+:description "Ismene argues for prudence and submission before the law and the rulers, referring to the old suffering of their family house."^^xsd:string ;
 :relatedTo :Law_CreonBurialEdict ;
 :relatedTo :Motivation_AvoidDefyingTyrant .
 

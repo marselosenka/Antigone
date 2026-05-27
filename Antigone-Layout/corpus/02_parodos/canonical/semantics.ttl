@@ -9,29 +9,25 @@
 # SCENE INFORMATION
 # =================================================================
 
+:Antigone_Parodos a :Parodos ;
+    :partOfPlay :Antigone ;
+    :hasSpeech :Speech_Chorus_Parodos_100_161 ;
+    :hasCharacter :Antigone_Character_Antigone, :Antigone_Character_Ismene, :Antigone_Character_Chorus, :Antigone_Character_Creon,
+    :Antigone_Character_Eteocles, :Antigone_Character_Polyneices ;
+    :developsTheme 
+        :Theme_ImpossibleAction, 
+        :Theme_NobleDeath, 
+        :Theme_HonorDead, 
+        :Theme_SisterlyConflict, 
+        :Theme_LoyalFriendship, 
+        :Theme_DawnHope, 
+        :Theme_ThebanVictoryThanksgiving,
+        :Theme_FraternalCivilWar,
+        :Theme_PoliticalTransitionToCreon,
+        :Theme_WarAftermath ;
+    :developsTheme :Theme_InvasionThreat, :Theme_DivineIntervention, :Theme_WarViolence, :Theme_ZeusSupremacy, :Theme_ThebesDefense ;
+    :hasConflict :Conflict_PrudenceVsHonor, :Conflict_LoyaltyToDeadVsFear, :Conflict_HubrisVsDivineOrder, :Conflict_BrothersMutualDeath .
 
-
-:Antigone_Scene_DialogueAndParodos_90_113
-a :Scene ;
-:sceneNumber "Dialogue+Parodos 90-113"^^xsd:string ;
-:hasSpeech :Speech_Ismene_90, :Speech_Antigone_91, :Speech_Ismene_92, :Speech_Antigone_93_97, :Speech_Ismene_98_99, :Speech_Chorus_101_113 ;
-:developsTheme :Theme_ImpossibleAction, :Theme_NobleDeath, :Theme_HonorDead, :Theme_SisterlyConflict, :Theme_LoyalFriendship, :Theme_DawnHope, :Theme_WarAftermath ;
-:hasConflict :Conflict_PrudenceVsHonor, :Conflict_LoyaltyToDeadVsFear .
-
-# remove the GR later
-:Antigone_Scene_Parodos_StropheA_115_140_GR
-a :Scene ;
-:sceneNumber "Parodos (Strophe/Antistrophe) 115-140"^^xsd:string ;
-:hasSpeech :Speech_Chorus_Parodos_115_140_GR ;
-:developsTheme :Theme_InvasionThreat, :Theme_DivineIntervention, :Theme_WarViolence, :Theme_ZeusSupremacy, :Theme_ThebesDefense ;
-:hasConflict :Conflict_HubrisVsDivineOrder .
-
-:Antigone_Scene_Parodos_AntistropheB_141_162
-a owl:NamedIndividual, :Scene ;
-:sceneNumber "Parodos.AntistropheB"^^xsd:string ;
-:hasSpeech :Speech_Chorus_141_162 ;
-:developsTheme :Theme_ThebanVictoryThanksgiving, :Theme_FraternalCivilWar, :Theme_PoliticalTransitionToCreon ;
-:hasConflict :Conflict_BrothersMutualDeath .
 
 ################################################################
 # SPEECHES
@@ -71,7 +67,7 @@ a owl:NamedIndividual, :Scene ;
 # CHARACTERS (if not already declared elsewhere)
 ################################################################
 
-# Need semantics 
+# Need semantics ( Some are mentioned, thats why they are present. )
 :Antigone_Character_Antigone a :Character .
 :Antigone_Character_Ismene a :Character .
 
@@ -97,6 +93,7 @@ a owl:NamedIndividual, :Character ;
 ####################################################################
 # THEMES
 #####################################################################
+
 :Theme_ImpossibleAction
 a :Theme ;
 :description "Acting on what is impossible or beyond one’s power, and the prudence of not pursuing it."^^xsd:string .
@@ -127,23 +124,23 @@ a :Theme ;
 
 :Theme_InvasionThreat
 a :Theme ;
-:description "Η εχθρική εισβολή παρουσιάζεται ως αρπακτικό που κυκλώνει τα σπίτια και απειλεί τις πύλες της Θήβας."^^xsd:string .
+:description "The enemy invasion is presented as a predator circling the houses and threatening the gates of Thebes."^^xsd:string .
 
 :Theme_ThebesDefense
 a :Theme ;
-:description "Η Θήβα (επτάπυλη) αντιστέκεται πριν ο εχθρός χορτάσει αίμα και στεφανώσει τους πύργους της με πυρ."^^xsd:string .
+:description "Seven-gated Thebes resists before the enemy can be satisfied with blood and crown her towers with fire."^^xsd:string .
 
 :Theme_WarViolence
 a :Theme ;
-:description "Ο πόλεμος αποδίδεται ως πάταγος και ορμή, με αιχμές, όπλα και ολέθριο στροβιλισμό δυνάμεων."^^xsd:string .
+:description "War is represented as noise and force, with spears, weapons, and a destructive whirl of powers."^^xsd:string .
 
 :Theme_DivineIntervention
 a :Theme ;
-:description "Η θεϊκή επέμβαση ανακόπτει τον εισβολέα τη στιγμή που πάει να αλαλάξει τη νίκη."^^xsd:string .
+:description "Divine intervention stops the invader at the moment when he is about to shout in victory."^^xsd:string .
 
 :Theme_ZeusSupremacy
 a :Theme ;
-:description "Ο Δίας αποστρέφεται την αλαζονεία και συντρίβει τους υπερόπτες με πυρ."^^xsd:string .
+:description "Zeus rejects arrogance and crushes the proud with fire."^^xsd:string .
 
 :Theme_ThebanVictoryThanksgiving
 a :Theme ;
@@ -245,7 +242,7 @@ a :Conflict ;
 
 :Conflict_HubrisVsDivineOrder
 a :Conflict ;
-:description "Η αλαζονεία της μεγάλης γλώσσας και η επιδεικτική ορμή της νίκης συγκρούονται με τη θεϊκή τάξη που επιβάλλει ο Δίας."^^xsd:string ;
+:description "The arrogance of the boastful tongue and the showy force of victory come into conflict with the divine order imposed by Zeus."^^xsd:string ;
 :conflictBetween :Theme_ZeusSupremacy, :Theme_InvasionThreat .
 
 :Conflict_BrothersMutualDeath
@@ -264,15 +261,15 @@ a :Symbol ;
 
 :Symbol_EagleInvader
 a :Symbol ;
-:description "Ο αετός ως σύμβολο επιθετικού εισβολέα και αρπακτικής βίας."^^xsd:string .
+:description "The eagle as a symbol of an aggressive invader and predatory violence."^^xsd:string .
 
 :Symbol_SevenSpears
 a :Symbol ;
-:description "Οι λόγχες γύρω από το επτάπυλο στόμα ως σύμβολο πολιορκίας και συλλογικής απειλής."^^xsd:string .
+:description "The spears around the seven-gated mouth as a symbol of siege and collective threat."^^xsd:string .
 
 :Symbol_FireBrand
 a :Symbol ;
-:description "Το πυρ (Ηφαιστείος/κεραυνικός) ως σύμβολο καταστροφής αλλά και θεϊκής τιμωρίας."^^xsd:string .
+:description "Fire, Hephaestian or thunderbolt-like, as a symbol of destruction but also of divine punishment."^^xsd:string .
 
 ####################################################################
 # MYTHS
@@ -299,27 +296,27 @@ a :MythologicalBackground ;
 
 :Myth_ArgiveEagleAssault
 a :MythologicalBackground ;
-:description "Ο εχθρός παρομοιάζεται με αετό που υπερίπταται με λευκή πτέρυγα και πολλά όπλα, έτοιμος να αρπάξει τη Θήβα."^^xsd:string .
+:description "The enemy is compared to an eagle flying above with white wings and many weapons, ready to seize Thebes."^^xsd:string .
 
 :Myth_SevenGates
 a :MythologicalBackground ;
-:description "Αναφορά στο 'ἑπτάπυλον στόμα' της Θήβας και στις λόγχες που το κυκλώνουν."^^xsd:string .
+:description "Reference to the 'seven-gated mouth' of Thebes and to the spears surrounding it."^^xsd:string .
 
 :Myth_HephaestusFire
 a :MythologicalBackground ;
-:description "Ηφαιστείος πυρ (πευκάενθ Ἥφαιστον) ως απειλή εμπρησμού/στεφάνωσης των πύργων."^^xsd:string .
+:description "Hephaestian fire as a threat of burning and crowning the towers with flame."^^xsd:string .
 
 :Myth_AresWarClash
 a :MythologicalBackground ;
-:description "Ο πάταγος του Άρεως τεντώνεται γύρω από τις ράχες, με τον Άρη να στροβιλίζει τη σύγκρουση."^^xsd:string .
+:description "The clash of Ares stretches around the ridges, with Ares whirling the conflict."^^xsd:string .
 
 :Myth_DragonDefender
 a :MythologicalBackground ;
-:description "Ο 'δράκων' ως αντίπαλος αμυντικός πόλος (θηβαϊκό/χθόνιο σύμβολο) στον πολεμικό αγώνα."^^xsd:string .
+:description "The 'dragon' as an opposing defensive force, a Theban or chthonic symbol, within the struggle of war."^^xsd:string .
 
 :Myth_ZeusLightningStrike
 a :MythologicalBackground ;
-:description "Ο Δίας, μισώντας τους κόμπους μεγάλης γλώσσας, ρίχνει πυρ επάνω στον υπερόπτη την ώρα της επερχόμενης νίκης."^^xsd:string .
+:description "Zeus, hating the boasts of a proud tongue, throws fire upon the arrogant man at the moment of approaching victory."^^xsd:string .
 
 :Myth_ZeusTropaios
 a :MythologicalBackground ;

@@ -10,7 +10,7 @@
 # ===========================================================================
 
 :Antigone_Episode_1
-  a :Scene ;
+  a :Episode_01 ;
   :sceneNumber "Episode 1 (162-330)"^^xsd:string ;
   :hasSpeech
             :Speech_Creon_162_210, 
@@ -236,31 +236,53 @@ a owl:NamedIndividual, :Character .
 ################################################################
 
 :Speech_Creon_162_210 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine 
+        :Line_162, :Line_163, :Line_164, :Line_165,
+        :Line_166, :Line_167, :Line_168, :Line_169,
+        :Line_170, :Line_171, :Line_172, :Line_173,
+        :Line_174, :Line_175, :Line_176, :Line_177,
+        :Line_178, :Line_179, :Line_180, :Line_181,
+        :Line_182, :Line_183, :Line_184, :Line_185,
+        :Line_186, :Line_187, :Line_188, :Line_189,
+        :Line_190, :Line_191, :Line_192, :Line_193,
+        :Line_194, :Line_195, :Line_196, :Line_197,
+        :Line_198, :Line_199, :Line_200, :Line_201,
+        :Line_202, :Line_203, :Line_204, :Line_205,
+        :Line_206, :Line_207, :Line_208, :Line_209,
+        :Line_210 .
 
 :Speech_Chorus_211_214 a :Speech ; 
-  :speechBy :Antigone_Character_Chorus .
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_211, :Line_212, :Line_213, :Line_214 .
 
 :Speech_Creon_215 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_215 .
 
 :Speech_Chorus_216 a :Speech ; 
-  :speechBy :Antigone_Character_Chorus .
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_216 .
 
 :Speech_Creon_217 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_217 .
 
 :Speech_Chorus_218 a :Speech ; 
-  :speechBy :Antigone_Character_Chorus .
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_218 .
 
 :Speech_Creon_219 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_219 .
 
 :Speech_Chorus_220 a :Speech ; 
-  :speechBy :Antigone_Character_Chorus .
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_220 .
 
 :Speech_Creon_221_222 a :Speech ; 
-  :speechBy :Antigone_Character_Creon .
+    :speechBy :Antigone_Character_Creon ;
+    :containsLine :Line_221, :Line_222 .
 
 :Speech_Guard_223_236 a :Speech ; 
   a owl:NamedIndividual, :Speech ;

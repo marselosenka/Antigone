@@ -10,7 +10,13 @@
         :Theme_ErosOverpowersReasonAndLaw ;
     :hasConflict :Conflict_ErosVsJustice ;
     :hasSpeech :Speech_Chorus_781_805 ;
-
+    :hasCharacters  :Antigone_Character_Antigone,
+                    :Antigone_Character_Chorus,
+                    :Antigone_Character_Creon ;
+    :hasTheme   :Theme_CivicPurityAndMiasma,
+                :Theme_DeathAndHadesReverence,
+                :Theme_ErosOverpowersReasonAndLaw,
+                :Theme_TearsAndPityAtBridalChamberOfDeath ;
     :sceneNumber "Stasimon 3"^^xsd:string .
 
 # ===================================================

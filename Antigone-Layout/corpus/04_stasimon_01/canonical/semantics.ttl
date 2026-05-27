@@ -90,13 +90,25 @@
 # SPEECHES
 # ==========================================================================
 :Speech_Guard_327_331 a :Speech ; 
-:speechBy :Antigone_Character_Guard .
+    :speechBy :Antigone_Character_Guard ;
+    :containsLine 
+        :Line_327, :Line_328, :Line_329, :Line_330,
+        :Line_331 .
 
-:Speech_Chorus_333_361 a :Speech ; :speechBy :Antigone_Character_Chorus .
+:Speech_Chorus_333_361 a :Speech ; 
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine 
+        :Line_333, :Line_334, :Line_335, :Line_336,
+        :Line_337, :Line_338, :Line_339, :Line_340,
+        :Line_341, :Line_342, :Line_343, :Line_344,
+        :Line_345, :Line_346, :Line_347, :Line_348,
+        :Line_350, :Line_351, :Line_352,
+        :Line_355, :Line_356,
+        :Line_357, :Line_358, :Line_360,
+        :Line_361 .
 
 :Speech_Chorus_362_383 a :Speech ; 
-  :containsLine :Line_366, :Line_367, :Line_368, :Line_369, :Line_370, :Line_371, :Line_372, :Line_373,
-                :Line_374, :Line_375, :Line_376, :Line_377, :Line_378, :Line_379, :Line_380, :Line_381, :Line_382 .
+  :containsLine :Line_366, :Line_367, :Line_369, :Line_370, :Line_371, :Line_375, :Line_376, :Line_377, :Line_378, :Line_379, :Line_380, :Line_381, :Line_382 .
 
 :Speech_Guard_383 a :Speech ; :speechBy :Antigone_Character_Guard .
 

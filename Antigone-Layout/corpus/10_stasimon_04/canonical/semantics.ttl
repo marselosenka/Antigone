@@ -7,11 +7,16 @@
 # SCENE INFORMATION
 # =========================
 
-:Antigone_Scene_Stasimon4
-a :Scene ;
+:Antigone_Stasimon_04
+a :Stasimon_04 ;
 :sceneNumber "Stasimon 4"^^xsd:string ;
-:hasSpeech :Speech_Chorus_Stasimon4 ;
+:hasSpeech 
+    :Speech_Chorus_944_953,
+    :Speech_Chorus_955_965,
+    :Speech_Chorus_966_976,
+    :Speech_Chorus_977_987 ;
 :developsTheme :Theme_FateInevitability, :Theme_NobleSuffering ;
+:referencesMyth :Myth_PhineusSons, :Myth_CleopatraBoread ;
 :hasHistoricalContext :Context_MythologicalPrecedents .
 
 # =========================
@@ -47,12 +52,6 @@ a :Character ;
 # =========================
 # SPEECHES
 # =========================
-
-:Speech_Chorus_Stasimon4
-a :Speech ;
-:speechBy :Antigone_Character_Chorus ;
-:containsLine :Line_966, :Line_967, :Line_968, :Line_969, :Line_970, :Line_971, :Line_972, :Line_973, :Line_974, :Line_975, :Line_976, :Line_977, :Line_978, :Line_979, :Line_980, :Line_981, :Line_982, :Line_983, :Line_984, :Line_985, :Line_986, :Line_987 ;
-:referencesMyth :Myth_PhineusSons, :Myth_CleopatraBoread .
 
 :Speech_Chorus_944_953 a :ChoralSong ;
   :speechBy :Antigone_Character_Chorus ;

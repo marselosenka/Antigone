@@ -9,11 +9,6 @@
 # Lines 100-161 
 #####################################################################
 
-:Antigone_Parodos a :Parodos ;
-    :partOfPlay :Antigone ;
-    :hasSpeech :Speech_Chorus_Parodos_100_161 ;
-    :hasCharacter :Antigone_Character_Antigone, :Antigone_Character_Ismene, :Antigone_Character_Creon,
-    :Antigone_Character_Chorus, :Antigone_Character_Eteocles, :Antigone_Character_Polyneices .
 
 
 ####################################################################

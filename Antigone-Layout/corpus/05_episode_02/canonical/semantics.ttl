@@ -87,6 +87,11 @@
   :hasConflict :Conflict_DivineVsHumanLaw,
                :Conflict_AntigoneVsCreon,
                :Conflict_AntigoneVsIsmene ;
+  :hasCharacter :Antigone_Character_Guard, 
+                :Antigone_Character_Creon,
+                :Antigone_Character_Antigone,
+                :Antigone_Character_Ismene,
+                :Antigone_Character_Chorus ;
   :developsTheme :Theme_DivineLaw,
                  :Theme_HumanLaw,
                  :Theme_FamilyDuty,

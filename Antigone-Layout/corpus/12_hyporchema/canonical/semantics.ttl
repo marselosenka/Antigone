@@ -8,19 +8,14 @@
         :Speech_Chorus_1115_1125, 
         :Speech_Chorus_1126_1135, 
         :Speech_Chorus_1137_1145, 
-        :Speech_Chorus_1146_1152 .
-# ===================================================================================
-# SCENE INFORMATION
-# ===================================================================================
-
-:Antigone_Scene_Stasimon5
-    a :Scene ;
-    :sceneNumber "Stasimon 5"^^xsd:string ;
-    :hasSpeech :Speech_Chorus_1115_1154 ;
-    :developsTheme :Theme_DivineIntervention, :Theme_CivicPollution, :Theme_DionysianWorship, :Theme_Hope ;
+        :Speech_Chorus_1146_1152 ;
+    :developsTheme  :Theme_DivineIntervention, 
+                    :Theme_CivicPollution, 
+                    :Theme_DionysianWorship, 
+                    :Theme_Hope ;
     :hasConflict :Conflict_ThebesVsPlague ;
     :hasHistoricalContext :Context_ThebanPlague .
-
+    
 # =============================================================================================
 # CHARACTERS
 # =============================================================================================

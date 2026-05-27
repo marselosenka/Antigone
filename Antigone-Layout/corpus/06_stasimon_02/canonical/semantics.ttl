@@ -10,23 +10,51 @@
 # ====================================================================
 :Antigone_Scene_Stasimon_02
     a :Stasimon_02 ;
-    :hasSpeeches :Speech_Chorus_583_591, :Speech_Chorus_592_602, :Speech_Chorus_605_614, :Speech_Chorus_615_623, :Speech_Chorus_625, :Speech_Chorus_626_630 .
+    :hasSpeeches 
+        :Speech_Chorus_583_591, 
+        :Speech_Chorus_592_602, 
+        :Speech_Chorus_605_614, 
+        :Speech_Chorus_615_623, 
+        :Speech_Chorus_625, 
+        :Speech_Chorus_626_630 ;
+    :hasCharacter 
+        :Antigone_Character_Chorus,
+        :Antigone_Character_Haemon,
+        :Antihone_Character_Antigone,
+        :Antigone_Character_Creon,
+        :Antigone_Character_Zeus .
+
     
 
 ################################################################
 # CHARACTERS
 ################################################################
 
-:Chorus a :Character .
-:Zeus a :Character .
-:Mankind a :Character .
+:Antigone_Character_Chorus 
+    a :Character ;
+:advocatesFor :EthicalPrinciple_GreatnessBringsRuin ;
+:experiencesEmotion :Emotion_AweAndReverence, :Emotion_Despair .
+
+:Antigone_Character_Zeus 
+    a :Character ;
+    :hasMotivation :Motivation_MaintainAbsolutePower .
+
+# :Antigone_Character_Mankind a :Character .
 
 # Note: The following characters are not explicitly mentioned in 
 # the stasimon but are relevant for the motivations and conflicts described
-:Haemon a :Character .
-:Antigone a :Character .
-:Creon a :Character .
 
+:Antigone_Character_Haemon 
+    a :Character ;
+    :hasMotivation :Motivation_MournBride ;
+    :experiencesEmotion :Emotion_Grief, :Emotion_Raving .
+
+:Antigone_Character_Antigone a :Character .
+
+:Antigone_Character_Creon 
+    a :Character ;
+    :hasMotivation :Motivation_AssessSonLoyalty ;
+    :advocatesFor :EthicalPrinciple_FilialLoyalty .
 ################################################################
 # SPEECHES
 ################################################################
@@ -60,7 +88,6 @@
 ################################################################
 :Motivation_MaintainAbsolutePower a :Motivation ;
     :description "Zeus's intention to sustain his unwearying and eternal power over mankind."^^xsd:string .
-:Zeus :hasMotivation :Motivation_MaintainAbsolutePower .
 
 ################################################################
 # ETHICAL PRINCIPLES
@@ -68,7 +95,7 @@
 
 :EthicalPrinciple_GreatnessBringsRuin a :EthicalPrinciple ;
     :description "The enduring moral law that nothing grand comes to a mortal's life without ruin."^^xsd:string .
-:Chorus :advocatesFor :EthicalPrinciple_GreatnessBringsRuin .
+
 
 ################################################################
 # EMOTIONS
@@ -76,12 +103,10 @@
 
 :Emotion_AweAndReverence a :Emotion ;
     :description "The awe and fear experienced when recognizing the inescapable and absolute power of Zeus."^^xsd:string .
-:Chorus :experiencesEmotion :Emotion_AweAndReverence .
-
 
 :Emotion_Despair a :Emotion ;
     :description "Despair over the unending, ancient miseries falling upon the House of Labdacus."^^xsd:string .
-:Chorus :experiencesEmotion :Emotion_Despair .
+
 
 ################################################################
 # CONFLICTS
@@ -113,11 +138,12 @@
 
 :Cause_FollyAndFrenzy a owl:Thing ;
     :description "The bloody dust, folly, and frenzy of thought."^^xsd:string .
+:Cause_FollyAndFrenzy :relatedTo :Effect_DestructionOfOedipusHouse .
 
 :Effect_DestructionOfOedipusHouse a owl:Thing ;
     :description "Cutting down the final ray of light shining over the roots of the house of Oedipus."^^xsd:string .
 
-:Cause_FollyAndFrenzy :relatedTo :Effect_DestructionOfOedipusHouse .
+
 
 ################################################################
 # THEMES
@@ -149,11 +175,10 @@
 
 :Motivation_MournBride a :Motivation ;
     :description "Haemon's supposed intention to mourn the fate of his bride Antigone and grieve his lost marriage."^^xsd:string .
-:Haemon :hasMotivation :Motivation_MournBride .
+
 
 :Motivation_AssessSonLoyalty a :Motivation ;
     :description "Creon's intention to assess his son's loyalty (friendship) after hearing of his bride's condemnation."^^xsd:string .
-:Creon :hasMotivation :Motivation_AssessSonLoyalty .
 
 ################################################################
 # ETHICAL PRINCIPLES
@@ -161,7 +186,6 @@
 
 :EthicalPrinciple_FilialLoyalty a :EthicalPrinciple ;
     :description "The principle that a son should remain unconditional allies to his father in all circumstances (always acting as friends)."^^xsd:string .
-:Creon :advocatesFor :EthicalPrinciple_FilialLoyalty .
 
 ################################################################
 # EMOTIONS
@@ -169,11 +193,10 @@
 
 :Emotion_Grief a :Emotion ;
     :description "The sorrow and mourning over the fate of a bride and being cheated out of a marriage bed."^^xsd:string .
-:Haemon :experiencesEmotion :Emotion_Grief .
 
 :Emotion_Raving a :Emotion ;
     :description "The frantic anger and madness (raging) over the loss of his intended bride."^^xsd:string .
-:Haemon :experiencesEmotion :Emotion_Raving .
+
 
 ################################################################
 # CONFLICTS
@@ -196,7 +219,6 @@
 
 :Effect_MoralBlindness a owl:Thing ;
     :description "Evil appearing as good to the deceived mortal."^^xsd:string .
-
 
 :Effect_InevitableRuin a owl:Thing ;
     :description "The mortal falling into ruin shortly after losing moral clarity."^^xsd:string .

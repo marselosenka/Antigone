@@ -115,7 +115,7 @@
     :hasMotivation :CreonMotivation_AvoidMiasmaForCity,
         :Motivation_AssessSonLoyalty,
         :Motivation_DemandObedience,
-        :DefendAuthority,
+        :Motivation_DefendAuthority,
         :Motivation_MaintainPatriarchalDominance,
         :Motivation_EnsureExecution ;
     :makesMoralDecision 
@@ -855,9 +855,8 @@
     :description "The impending death of Antigone."^^xsd:string .
 :Event_AntigonesDeath :relatedTo :Event_AnotherDeath .
 
-
-
 :Event_FinalVote :relatedTo :Emotion_Grief .
+
 :Event_FinalVote :relatedTo :Emotion_Raving .
 
 :Event_StormingOut a owl:Thing ;

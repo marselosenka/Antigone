@@ -70,8 +70,7 @@
         :Line_815 ;
     :hasTheme :Theme_DeathAsMarriage,
         :Theme_LamentForLostMarriage ;
-    :speechBy :Antigone_Character_Antigone ;
-    :text "Ὁρᾶτ’ ἔμ’, ὦ γᾶς πατρίας πολῖται, τὰν νεάταν ὁδὸν στείχουσαν, νέατον δὲ φέγγος λεύσσουσαν ἀελίου, κοὔποτ’ αὖθις, ἀλλά μ’ ὁ παγκοίτας Ἅιδας ζῶσαν ἄγει τὰν Ἀχέροντος ἀκτάν, οὔθ’ ὑμεναίων ἔγκληρον, οὔτ’ ἐπὶ νυμφείοις πώ μέ τις ὕμνος ὕμνησεν, ἀλλ’ Ἀχέροντι νυμφεύσω."^^xsd:string .
+    :speechBy :Antigone_Character_Antigone .
 
 :Speech_Antigone_817_822 a :Speech,
     owl:NamedIndividual ;
@@ -297,7 +296,7 @@
 
 :AntigoneEmotion_LamentAndDespair a :Emotion,
         owl:NamedIndividual ;
-    :description "Θρῆνος καὶ ἀπόγνωσις: ὁρᾶται βαδίζουσα τὴν νεάταν ὁδόν, ἀπολείπουσα τὸ φέγγος ἡλίου, ἄνευ ὑμεναίων."^^xsd:string .
+    :description "Lament and despair: she is seen walking the final road, leaving behind the light of the sun, without wedding songs."^^xsd:string .
 
 :AntigoneEmotion_LamentAndDread a :Emotion,
         owl:NamedIndividual ;
@@ -337,7 +336,7 @@
 
 :AntigoneMotivation_AddressCitizensAsWitnesses a :Motivation,
         owl:NamedIndividual ;
-    :description "Βούλεται τοὺς πολίτας μάρτυρας ποιήσασθαι τῆς ἐσχάτης πορείας καὶ τῆς ἀδικίας/μοίρας τῆς ἄγουσας."^^xsd:string .
+    :description "She wants to make the citizens witnesses of her final journey and of the injustice or fate that leads her."^^xsd:string .
 
 :AntigoneMotivation_AffirmPietyBeforeDeath a :Motivation,
         owl:NamedIndividual ;
@@ -402,11 +401,11 @@
 
 :Theme_IsolationAndFameInDeath a :Theme,
         owl:NamedIndividual ;
-    :description "Κλέος/ἔπαινος ἐν θανάτῳ καὶ ἰδιότροπος μοῖρα: αὐτόνομος, ζῶσα μόνη, ἄνευ νόσου καὶ ξίφους, καταβαίνει."^^xsd:string .
+    :description "Glory and praise in death, together with an unusual fate: autonomous, alive, alone, without illness or sword, she descends."^^xsd:string .
 
 :Theme_LamentForLostMarriage a :Theme,
         owl:NamedIndividual ;
-    :description "Στέρησις ὑμεναίων καὶ ὕμνων· ἀντὶ ἀνθρωπίνου γάμου ἡ κάθοδος."^^xsd:string .
+    :description "Deprivation of wedding songs and hymns; instead of a human marriage, there is descent into death."^^xsd:string .
 
 :Theme_LivingDeathAndExile a :Theme,
         owl:NamedIndividual ;
@@ -454,7 +453,7 @@
 
 :AntigoneDecision_AcceptDeathAsAcheronBride a :MoralDecision,
         owl:NamedIndividual ;
-    :description "Ἀντὶ γάμου ἐν νυμφείοις, Ἀχέροντι νυμφεύσεσθαι: ἀποδέχεται τὴν κάθοδον ὡς 'γάμον' πρὸς τὸν κάτω κόσμον."^^xsd:string ;
+    :description "Instead of marriage in a bridal chamber, she will be wedded to Acheron: she accepts her descent as a 'marriage' to the underworld."^^xsd:string ;
     :relatedTo :Theme_DeathAsMarriage .
 
 :AntigoneDecision_PrioritizeBrotherOverPotentialHusbandOrChildren a :MoralDecision,
@@ -552,7 +551,7 @@
 # ===========================================================================
 :FateConcept_DeathInevitability a :FateConcept,
         owl:NamedIndividual ;
-    :description "Ἀναπόδραστος κάθοδος πρὸς Ἅιδην· ὁ θάνατος ὡς ἀνάγκη."^^xsd:string ;
+    :description "Inescapable descent toward Hades; death as necessity."^^xsd:string ;
     :determinesOutcomeOf :Conflict_LifeVsDeathTransition .
 
 # ===========================================================================
