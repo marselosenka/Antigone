@@ -1,5 +1,19 @@
 document.addEventListener('DOMContentLoaded', () => {
 
+    function matchIllustrationToNav() {
+        const nav = document.querySelector('.hero-nav');
+        const illustration = document.querySelector('.scene-illustration');
+        if (!nav || !illustration) return;
+        const buttons = nav.querySelectorAll('.hero-nav-btn');
+        if (!buttons.length) return;
+        const first = buttons[0].getBoundingClientRect();
+        const last  = buttons[buttons.length - 1].getBoundingClientRect();
+        illustration.style.maxWidth = (last.right - first.left) + 'px';
+    }
+
+    matchIllustrationToNav();
+    window.addEventListener('resize', matchIllustrationToNav);
+
     const btn = document.getElementById('back-to-top');
     window.addEventListener('scroll', () => {
         btn.classList.toggle('visible', window.scrollY > 300);
@@ -8,37 +22,29 @@ document.addEventListener('DOMContentLoaded', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 
-    const tags   = document.querySelectorAll('.theme-tag');
-    const panels = document.querySelectorAll('.theme-panel-text');
+    function makeCarousel(pageSelector, dotSelector, prevSelector, nextSelector) {
+        const pages = document.querySelectorAll(pageSelector);
+        const dots  = document.querySelectorAll(dotSelector);
+        const prev  = document.querySelector(prevSelector);
+        const next  = document.querySelector(nextSelector);
+        let current = 0;
 
-    tags.forEach(tag => {
-        tag.addEventListener('click', () => {
-            const key = tag.dataset.theme;
-            tags.forEach(t => t.classList.remove('active'));
-            panels.forEach(p => p.classList.add('hidden'));
-            tag.classList.add('active');
-            document.querySelector(`.theme-panel-text[data-theme="${key}"]`).classList.remove('hidden');
-        });
-    });
+        function showPage(idx) {
+            pages[current].classList.remove('active');
+            dots[current].classList.remove('active');
+            current = idx;
+            pages[current].classList.add('active');
+            dots[current].classList.add('active');
+            prev.disabled = current === 0;
+            next.disabled = current === pages.length - 1;
+        }
 
-    const pages = document.querySelectorAll('.char-page');
-    const dots  = document.querySelectorAll('.char-dot');
-    const prev  = document.querySelector('.char-prev');
-    const next  = document.querySelector('.char-next');
-    let current = 0;
-
-    function showPage(idx) {
-        pages[current].classList.remove('active');
-        dots[current].classList.remove('active');
-        current = idx;
-        pages[current].classList.add('active');
-        dots[current].classList.add('active');
-        prev.disabled = current === 0;
-        next.disabled = current === pages.length - 1;
+        prev.disabled = true;
+        next.addEventListener('click', () => { if (current < pages.length - 1) showPage(current + 1); });
+        prev.addEventListener('click', () => { if (current > 0) showPage(current - 1); });
+        dots.forEach((dot, i) => dot.addEventListener('click', () => showPage(i)));
     }
 
-    prev.disabled = true;
-    next.addEventListener('click', () => { if (current < pages.length - 1) showPage(current + 1); });
-    prev.addEventListener('click', () => { if (current > 0) showPage(current - 1); });
-    dots.forEach((dot, i) => dot.addEventListener('click', () => showPage(i)));
+    makeCarousel('.char-page', '.char-dot:not(.theme-dot)', '.char-prev', '.char-next');
+    makeCarousel('.theme-page', '.theme-dot', '.theme-prev', '.theme-next');
 });
