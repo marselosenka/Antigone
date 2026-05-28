@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to use — Antigone</title>
+    <link rel="icon" href="data:,">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/use.css">
+</head>
+<body>
+
+<!-- Top bar with back link -->
+<header class="use-topbar">
+    <a class="use-back" href="../page1/page1.html">‹ Back to Antigone</a>
+    <span class="use-brand">Antigone Web App</span>
+</header>
+
+<main class="use-main">
+
+    <h1 class="use-title">How to use Antigone</h1>
+    <p class="use-intro">
+        An interactive guide to Sophocles' Antigone — text, semantics, video, and corpus statistics.
+        Below is what each tab does and how to use it.
+    </p>
+
+
+    <!-- TABS -->
+    <nav class="use-tabs" role="tablist">
+        <button class="use-tab active" data-tab="info">Information</button>
+        <button class="use-tab" data-tab="scenes">Scenes + Lines</button>
+        <button class="use-tab" data-tab="video">Semantics / Video</button>
+        <button class="use-tab" data-tab="stats">Statistics</button>
+    </nav>
+
+
+    <!-- SECTION: INFORMATION -->
+
+    <section class="use-section active" data-section="info">
+        <h2>Information</h2>
+        <p>The entry page. Background on the play, its structure, and how the corpus is organised.</p>
+
+        <h3>What you'll find</h3>
+        <ul>
+            <li><strong>Hero title</strong> — the name of the play and a short epigraph.</li>
+            <li><strong>About the play</strong> — context, year, themes in a short prose summary.</li>
+            <li><strong>Structure</strong> — a complete list of the 13 sections (Prologue → Exodos) and what happens in each.</li>
+            <li><strong>Characters</strong> — every speaking role with a one-line description and the colour used for them across the app.</li>
+            <li><strong>Themes</strong> — clickable tags that expand into short explanations.</li>
+            <li><strong>Facts strip</strong> — quick numbers about the play (total lines, sections, characters).</li>
+        </ul>
+
+        <h3>How to use it</h3>
+        <ul>
+            <li>Use the <em>Hero navigation</em> below the title to jump to a section of the page.</li>
+            <li>Click any <em>theme tag</em> to see what it covers.</li>
+            <li>Scroll down — the <em>back-to-top</em> button appears in the bottom-right after you scroll past the hero.</li>
+        </ul>
+    </section>
+
+
+    <!-- SECTION: SCENES + LINES -->
+
+    <section class="use-section" data-section="scenes">
+        <h2>Scenes + Lines</h2>
+        <p>The reading workspace. Browse a scene in full with all translations side-by-side, then drill into any single line.</p>
+
+        <h3>Components</h3>
+        <ul>
+            <li><strong>Scenes bar</strong> — click any section (Prologue → Exodos) to load it.</li>
+            <li><strong>Scene Reader</strong> — the full scene as a scrollable table. Columns: line number, speaker badge, Ancient Greek, Modern Greek, English, and optionally Chinese.</li>
+            <li><strong>中文 toggle</strong> — top-right of the Scene Reader. Shows or hides the Chinese column.</li>
+            <li><strong>SPARQL Line Navigator</strong> — beneath the reader. Loads every annotated line from the Fuseki corpus and lets you step through them one at a time.</li>
+            <li><strong>Three text panels</strong> — display the currently selected line in three languages.</li>
+            <li><strong>Context sidebar</strong> — to the right of the panels. For the current line shows the speaker, the scene, the themes, the conflict, any myths referenced, and the speaker's motivations. All mined live from the RDF corpus.</li>
+        </ul>
+
+        <h3>How to use it</h3>
+        <ul>
+            <li>Click a scene → the Scene Reader fills with that scene's lines.</li>
+            <li>Click any row in the Scene Reader → the navigator jumps to that line, the three panels update, and the Context sidebar refreshes.</li>
+            <li>Use <em>Previous Line</em> / <em>Next Line</em> for sequential reading, or type a number and press <em>Go</em>.</li>
+            <li>Click 🔊 on a panel to hear the line read aloud.</li>
+        </ul>
+
+        <p class="use-note">Requires Fuseki running at <code>localhost:3030/antigone</code>.</p>
+    </section>
+
+
+    <!-- SECTION: SEMANTICS / VIDEO -->
+
+    <section class="use-section" data-section="video">
+        <h2>Semantics / Video</h2>
+        <p>Watch the play in sync with the semantic structure of each scene.</p>
+
+        <h3>Components</h3>
+        <ul>
+            <li><strong>Video player</strong> — full performance of the tragedy.</li>
+            <li><strong>Scene tags</strong> — clickable tags that jump the video to the start of any section.</li>
+            <li><strong>Three text panels</strong> — Ancient / Modern Greek / English previews of the current scene.</li>
+            <li><strong>Semantic panels</strong> — themes, characters, events, and emotions tied to the current scene.</li>
+        </ul>
+
+        <h3>How to use it</h3>
+        <ul>
+            <li>Click a scene tag → the video jumps to that section's timestamp.</li>
+            <li>As the video plays, the surrounding panels update to reflect the current scene's context.</li>
+            <li>Click any character bubble to filter the view to scenes where they speak.</li>
+        </ul>
+    </section>
+
+
+    <!-- SECTION: STATISTICS -->
+
+    <section class="use-section" data-section="stats">
+        <h2>Statistics</h2>
+        <p>Corpus-level analytics across the whole play.</p>
+
+        <h3>Components</h3>
+        <ul>
+            <li><strong>KPI cards</strong> (top) — five numbers: total RDF triples (live from Fuseki), sections, characters, distinct emotions, and total lines.</li>
+            <li><strong>Emotion Heatmap</strong> — every section × every emotion. A coloured cell means that emotion is annotated in that section.</li>
+            <li><strong>Knowledge Network</strong> — an interactive graph that grows from a clean overview into the full corpus, one category at a time. Spring-physics layout pulls connected nodes together.</li>
+        </ul>
+
+        <h3>The 5 zoom levels</h3>
+        <p>The graph starts at <strong>Level 1</strong> and you reveal more detail as you click through the levels:</p>
+        <ul>
+            <li><strong>Level 1 — Characters</strong>: just the 9 characters, connected when they share a scene. The clearest view.</li>
+            <li><strong>Level 2 — + Emotions</strong>: adds the emotions each character carries.</li>
+            <li><strong>Level 3 — + Themes</strong>: adds the themes alongside the emotions.</li>
+            <li><strong>Level 4 — + Events</strong>: adds what actually happens — events linked to the people involved.</li>
+            <li><strong>Level 5 — Full</strong>: adds the 13 scenes as central hubs. Everything in the corpus, with filter chips to focus on one category at a time.</li>
+        </ul>
+
+        <h3>How to use the Network</h3>
+        <ul>
+            <li><strong>Level buttons</strong> — top row. Click any level (1 → 5) to switch view. The numbered badge shows the active level.</li>
+            <li><strong>Drag</strong> any node with the mouse to rearrange the graph.</li>
+            <li><strong>Hover</strong> a node — a tooltip shows its type, name, and number of connections; its edges light up in terracotta.</li>
+            <li><strong>Filter chips</strong> — appear only on Level 5. Click <em>All / Characters / Emotions / Themes / Events / Scenes</em> to fade out everything except the chosen kind.</li>
+            <li><strong>Fullscreen ⛶</strong> — top-right of the controls. Toggles a borderless view that fills the whole window so you can explore comfortably. Press <kbd>Esc</kbd> to exit.</li>
+            <li><strong>Reading the graph</strong>: larger nodes = more frequent in the corpus. Thicker edges = stronger co-occurrence. The colour of each node matches the legend below the graph.</li>
+        </ul>
+
+        <p class="use-note">Tip: start at Level 1 to see who interacts with whom, then step up to Level 2–3 to discover what they feel and stand for. Switch to Level 5 + filters when you want to inspect the full corpus.</p>
+    </section>
+
+</main>
+
+<script>
+    /* Tab switcher — pure DOM, no dependencies */
+    document.addEventListener('DOMContentLoaded', () => {
+        const tabs     = document.querySelectorAll('.use-tab');
+        const sections = document.querySelectorAll('.use-section');
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                tabs.forEach(t => t.classList.remove('active'));
+                sections.forEach(s => s.classList.remove('active'));
+                tab.classList.add('active');
+                const target = document.querySelector(`.use-section[data-section="${tab.dataset.tab}"]`);
+                if (target) target.classList.add('active');
+                /* Scroll the section into view smoothly */
+                target?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            });
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,165 @@
+/* TAGS */
+.tag {
+    display: inline-block;
+    padding: 6px 14px;
+    margin: 4px;
+    font-family: var(--font-heading);
+    font-size: 11px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background: #ddc9a8;                      /* was #e8d5c4 – deeper sand */
+    border: 1px solid rgba(168, 58, 32, 0.8); /* was 0.7 – terracotta border punches */
+    color: #120a02;
+    border-radius: 4px 12px 4px 10px;
+    font-weight: 600;
+    opacity: 1;
+}
+
+.tag:hover {
+    background: #fff;
+    border-color: var(--terracotta);
+    color: var(--terracotta);
+    transform: translateY(-1px);
+    box-shadow: 0 3px 16px rgba(168, 58, 32, 0.45);
+}
+
+.tag.active {
+    background: var(--terracotta);
+    color: #fdf6ec;
+    border-color: var(--terracotta);
+    box-shadow: 0 3px 14px rgba(168, 58, 32, 0.6);
+    font-weight: 600;
+}
+
+.tag.large  { font-size: 13px; padding: 8px 18px; border-radius: 4px 16px 6px 12px; }
+.tag.medium { font-size: 12px; padding: 7px 15px; }
+.tag.highlight { animation: pulse 1.5s ease-in-out; }
+
+/* scenes containers (used on both pages) */
+#scenes-container,
+#scenes-container-page2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 6px;
+    max-height: none;
+    overflow: visible;
+}
+
+#scenes-container .tag,
+#scenes-container-page2 .tag {
+    display: inline-block;
+    pointer-events: auto;
+    opacity: 1;
+}
+
+/* CHARACTERS */
+.character-bubble[data-character="antigone"]  { --char-color: #c05640; }
+.character-bubble[data-character="creon"]     { --char-color: #0e4d92; }
+.character-bubble[data-character="ismene"]    { --char-color: #556b2f; }
+.character-bubble[data-character="haemon"]    { --char-color: #66023c; }
+.character-bubble[data-character="chorus"]    { --char-color: #b8860b; }
+.character-bubble[data-character="teiresias"] { --char-color: #4b3621; }
+
+.characters-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.character-bubble {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, #fcfbf9, #e6ddd0);
+    border: 2px solid var(--char-color);
+    color: var(--char-color);
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    font-family: var(--font-heading);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    position: relative;
+    z-index: 1;
+}
+
+.character-bubble:hover {
+    transform: translateY(-2px) scale(1.05);
+    background: var(--char-color);
+    border-color: var(--char-color);
+    color: #fff;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    z-index: 10;
+}
+
+.character-bubble.active {
+    background: var(--char-color);
+    border-color: var(--char-color);
+    color: #fff;
+    box-shadow: 0 0 0 3px rgba(255,255,255,0.8), 0 0 0 5px var(--char-color);
+    transform: scale(1.1);
+}
+
+.info-text {
+    text-align: center;
+    color: #888;
+    font-style: italic;
+    margin-top: 15px;
+    font-family: var(--font-body);
+    font-size: 13px;
+}
+
+/* SPEAKER BUTTON */
+.panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid var(--border-faint);
+    padding-bottom: 5px;
+}
+
+.panel-header h4 {
+    margin-bottom: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+    text-align: left;
+}
+
+.speak-btn {
+    width: 28px;
+    height: 28px;
+    font-size: 12px;
+    border-radius: 50%;
+    background: transparent;
+    border: 1px solid var(--border-faint);
+    color: var(--aegean);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}
+
+.speak-btn:hover   { background: var(--aegean); color: #fff; border-color: var(--aegean); }
+.speak-btn.speaking { background: var(--terracotta); color: #fff; border-color: var(--terracotta); }
+
+/* FOCUS RINGS */
+.tag:focus-visible,
+.character-bubble:focus-visible,
+.sparql-btn:focus-visible,
+.control-btn:focus-visible,
+.help-button:focus-visible,
+.more-link:focus-visible {
+    outline: 2px solid var(--terracotta);
+    outline-offset: 2px;
+    box-shadow: 0 0 0 4px rgba(192, 86, 64, 0.25);
+}

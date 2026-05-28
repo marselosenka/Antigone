@@ -1,20 +1,37 @@
-# FUSEKI INSTALLATION
-- Install Fuseki from their website ( https://jena.apache.org/download/index.cgi )
-- Ideally `apache-jena-fuseki-6.0.0`
-- Inside fuseki folder, after the installation, there is a bat file, start it `./fuseki-server.bat`
+# antigone-webapp
 
 
-# LOAD TRIPLETS TO FUSEKI
+## Project Structure
 
-- `cd C:\University\CS561\antigone-webapp`
-- Run the following command: 
-Get-ChildItem -Path .\Antigone-Layout -Recurse -Filter *.ttl | ForEach-Object {
-  Invoke-RestMethod `
-    -Uri "http://localhost:3030/antigone/data" `
-    -Method Post `
-    -ContentType "text/turtle" `
-    -InFile $_.FullName
-}
+```
+webapp/
+├── index.html              # Single HTML file – all 4 pages here
+│
+├── css/
+│   ├── variables.css       # CSS custom properties (colors, fonts, shadows)
+│   ├── nav.css             # Navigation bar + page show/hide logic
+│   ├── layout.css          # Page-level grid layouts (Page 2 & Page 3)
+│   ├── components.css      # Tags, character bubbles, speak buttons
+│   ├── video.css           # Video player, SPARQL toolbar, text panels
+│   └── utilities.css       # Tooltips, keyboard-help overlay
+│
+├── js/
+│   ├── data.js             # Master play data (scenes, characters)
+│   ├── state.js            # Global application state object
+│   ├── tts.js              # Text-to-speech (Web Speech API)
+│   ├── render.js           # DOM builders: tags, bubbles, text panels
+│   ├── interactions.js     # Click handlers, filtering engine
+│   ├── sparql-lines.js     # SPARQL line navigator (Page 2)
+│   ├── video-controls.js   # Video player + scene-sync (Page 3)
+│   ├── page-manager.js     # SPA routing (show/hide pages)
+│   └── main.js             # Entry point (DOMContentLoaded)
+│
+└── antigone.mp4            # ← add your video file here (git-ignored),
+                            # placed in Drive 
+```
 
-# START WEBAPP
-- `python3 -m http.server 8000`
+
+No build step required — open `index.html` directly in a browser, for now 
+
+
+

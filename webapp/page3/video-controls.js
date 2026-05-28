@@ -1,4 +1,5 @@
-﻿// for the controls icons : svg
+
+// VIDEO CONTROLS  (Page 3 only)
 const createIcon = (type) => {
     const svg = {
         play: `<svg viewBox="0 0 24 24" width="20" height="20"
@@ -34,21 +35,22 @@ const createIcon = (type) => {
 };
 
 /**
- * SETTING UP THE PLAYER
- * Initializes video controls. Timeline-related behavior has been removed.
+ * PLAYER SETUP  (called once on DOMContentLoaded)
  */
 function initializeVideoControls() {
-    const videoElement = document.getElementById('video-element');
-    const playPauseBtn = document.getElementById('play-pause-btn');
-    const playIcon = document.getElementById('play-icon');
-    const progressBar = document.getElementById('video-progress');
-    const muteBtn = document.getElementById('mute-btn');
-    muteBtn.innerHTML = createIcon('volumeHigh');
+    const videoElement  = document.getElementById('video-element');
+    const playPauseBtn  = document.getElementById('play-pause-btn');
+    const playIcon      = document.getElementById('play-icon');
+    const progressBar   = document.getElementById('video-progress');
+    const muteBtn       = document.getElementById('mute-btn');
     const volumeControl = document.getElementById('volume-control');
     const fullscreenBtn = document.getElementById('fullscreen-btn');
-    const videoWrapper = document.getElementById('video-player');
-    const overlayIcon = document.querySelector('.video-overlay-icon');
+    const videoWrapper  = document.getElementById('video-player');
+    const overlayIcon   = document.querySelector('.video-overlay-icon');
 
+    if (!videoElement) return;   // page 3 DOM not present yet → bail
+
+    muteBtn.innerHTML      = createIcon('volumeHigh');
     videoElement.style.display = 'block';
 
     videoElement.addEventListener('loadedmetadata', () => {
@@ -57,8 +59,7 @@ function initializeVideoControls() {
     });
 
     function togglePlay() {
-        if (videoElement.paused) videoElement.play();
-        else videoElement.pause();
+        videoElement.paused ? videoElement.play() : videoElement.pause();
     }
 
     function updatePlayState() {
@@ -75,13 +76,10 @@ function initializeVideoControls() {
         }
     }
 
-    playPauseBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        togglePlay();
-    });
-
+    playPauseBtn.addEventListener('click', e => { e.stopPropagation(); togglePlay(); });
+    document.querySelector('.video-controls')?.addEventListener('click', e => e.stopPropagation());
     videoWrapper.addEventListener('click', togglePlay);
-    videoElement.addEventListener('play', updatePlayState);
+    videoElement.addEventListener('play',  updatePlayState);
     videoElement.addEventListener('pause', updatePlayState);
 
     videoElement.addEventListener('timeupdate', () => {
@@ -89,103 +87,71 @@ function initializeVideoControls() {
         progressBar.value = videoElement.currentTime;
     });
 
-    progressBar.addEventListener('input', (e) => {
+    progressBar.addEventListener('input', e => {
         videoElement.currentTime = parseFloat(e.target.value);
     });
 
-    muteBtn.addEventListener('click', (e) => {
+    muteBtn.addEventListener('click', e => {
         e.stopPropagation();
-        videoElement.muted = !videoElement.muted;
-        muteBtn.innerHTML = videoElement.muted
-            ? createIcon('volumeMute')
-            : createIcon('volumeHigh');
+        videoElement.muted  = !videoElement.muted;
+        muteBtn.innerHTML   = videoElement.muted ? createIcon('volumeMute') : createIcon('volumeHigh');
     });
 
-    volumeControl.addEventListener('input', (e) => {
-        e.stopPropagation();
-        videoElement.volume = e.target.value / 100;
-    });
-    volumeControl.addEventListener('click', (e) => e.stopPropagation());
+    volumeControl.addEventListener('input',  e => { e.stopPropagation(); videoElement.volume = e.target.value / 100; });
+    volumeControl.addEventListener('click',  e => e.stopPropagation());
 
-    fullscreenBtn.addEventListener('click', (e) => {
+    fullscreenBtn.addEventListener('click', e => {
         e.stopPropagation();
-        if (videoElement.requestFullscreen) videoElement.requestFullscreen();
+        if      (videoElement.requestFullscreen)       videoElement.requestFullscreen();
         else if (videoElement.webkitRequestFullscreen) videoElement.webkitRequestFullscreen();
     });
 
     updatePlayState();
 }
 
+// Automated scene sync (Page 3 only)
+function initVideoSceneSync() {
+    const videoElement = document.getElementById('video-element');
+    if (!videoElement) return;
 
+    videoElement.addEventListener('timeupdate', () => {
+        const currentTime = videoElement.currentTime;
 
+        const activeScene = playData.scenes.find(
+            s => currentTime >= s.start && currentTime <= s.end
+        );
 
-// automated sync: tracks video progress and auto-activate scenes
-const videoElementForSync = document.getElementById('video-element');
+        if (activeScene && activeScene.id !== state.lastActiveSceneId) {
+            state.lastActiveSceneId = activeScene.id;
+            updateTextPanels(activeScene.text, '');
+            highlightRelatedItems(activeScene);
 
-videoElementForSync.addEventListener('timeupdate', () => {
-    const currentTime = videoElementForSync.currentTime;
+            document.querySelectorAll('#scenes-container .tag').forEach(tag => {
+                tag.classList.remove('active');
+                if (tag.dataset.value === activeScene.id) tag.classList.add('active');
+            });
 
-    const activeScene = playData.scenes.find(
-        s => currentTime >= s.start && currentTime <= s.end
-    );
+            state.currentScenes = [activeScene];
+            updateAllDimensions();
+        }
 
-    if (activeScene && activeScene.id !== state.lastActiveSceneId) {
-        state.lastActiveSceneId = activeScene.id;
-        updateTextPanels(activeScene.text);
-        highlightRelatedItems(activeScene);
-        document.querySelectorAll('#scenes-container .tag').forEach(tag => {
-            tag.classList.remove('active');
-            if (tag.dataset.value === activeScene.id) {
-                tag.classList.add('active');
-            }
-        });
-        state.currentScenes = [activeScene];
-        updateAllDimensions();
-    }
-
-    if (!activeScene && state.lastActiveSceneId) {
-        state.lastActiveSceneId = null;
-        state.activeFilters.scenes.clear();
-        document.querySelectorAll('#scenes-container .tag').forEach(tag => {
-            tag.classList.remove('active');
-        });
-        applyFilters();
-        updateAllDimensions();
-    }
-});
-/**
- * When a user clicks a scene tag, update text and semantic highlights only.
- */
-function handleSceneTagClick(sceneId) {
-    const scene = playData.scenes.find(s => s.id === sceneId);
-    if (!scene) return;
-
-    const video = document.getElementById('video-element');
-    if (video && video.duration) {
-        video.currentTime = scene.start;
-    }
-
-    updateTextPanels(scene.text);
-    highlightRelatedItems(scene);
-
-    state.lastActiveSceneId = sceneId;
+        if (!activeScene && state.lastActiveSceneId) {
+            state.lastActiveSceneId = null;
+            state.activeFilters.scenes.clear();
+            document.querySelectorAll('#scenes-container .tag').forEach(tag => tag.classList.remove('active'));
+            applyFilters();
+            updateAllDimensions();
+        }
+    });
 }
 
-/**
- * VISUAL SYNC
- * Takes all the metadata for a scene and makes the corresponding
- * tags in the sidebars "pulse" or highlight.
- */
+// Visual highlighting helpers
 function highlightRelatedItems(scene) {
-    scene.emotions.forEach(emotion => highlightTag(emotion));
-    scene.themes.forEach(theme => highlightTag(theme));
-    scene.events.forEach(event => highlightTag(event));
+    scene.emotions.forEach(e => highlightTag(e));
+    scene.themes.forEach(t   => highlightTag(t));
+    scene.events.forEach(e   => highlightTag(e));
 }
 
-/**
- * TAG HIGHLIGHTING
- * Temporarily adds a CSS class to a tag to grab the user's attention.
- */
 function highlightTag(value) {
     const tag = document.querySelector(`.tag[data-value="${value}"]`);
     if (tag) {
@@ -194,63 +160,56 @@ function highlightTag(value) {
     }
 }
 
-/**
- * TIME FORMATTER
- * Converts raw seconds (e.g., 125) into readable strings (e.g., "02:05").
- */
+// Time formatter
 function formatTime(seconds) {
     const mins = Math.floor(seconds / 60);
     const secs = Math.floor(seconds % 60);
     return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
 }
 
-
-/**
- * USER TOOLS
- * Listens for key presses so the user can control the play without a mouse.
- */
+// Keyboard shortcuts
 function initializeKeyboardShortcuts() {
     const helpButton = document.getElementById('help-button');
     const helpDialog = document.getElementById('keyboard-help');
 
     helpButton.addEventListener('click', () => helpDialog.classList.toggle('show'));
 
-    document.addEventListener('click', (e) => {
+    document.addEventListener('click', e => {
         if (!helpDialog.contains(e.target) && !helpButton.contains(e.target)) {
             helpDialog.classList.remove('show');
         }
     });
 
-    document.addEventListener('keydown', (e) => {
+    document.addEventListener('keydown', e => {
         if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
         const videoElement = document.getElementById('video-element');
 
-        switch(e.key) {
+        switch (e.key) {
             case ' ':
                 e.preventDefault();
-                if (videoElement.paused) videoElement.play();
-                else videoElement.pause();
+                if (videoElement) videoElement.paused ? videoElement.play() : videoElement.pause();
                 break;
             case 'ArrowRight':
                 e.preventDefault();
-                videoElement.currentTime = Math.min(videoElement.currentTime + 5, videoElement.duration);
+                if (videoElement) videoElement.currentTime = Math.min(videoElement.currentTime + 5, videoElement.duration);
                 break;
             case 'ArrowLeft':
                 e.preventDefault();
-                videoElement.currentTime = Math.max(videoElement.currentTime - 5, 0);
+                if (videoElement) videoElement.currentTime = Math.max(videoElement.currentTime - 5, 0);
                 break;
-            case '1': case '2': case '3': case '4': case '5': case '6':
+            case '1': case '2': case '3': case '4': case '5': case '6': {
                 e.preventDefault();
                 const bubbles = document.querySelectorAll('.character-bubble');
                 if (bubbles[parseInt(e.key) - 1]) bubbles[parseInt(e.key) - 1].click();
                 break;
+            }
             case 'f': case 'F':
                 e.preventDefault();
-                document.getElementById('fullscreen-btn').click();
+                document.getElementById('fullscreen-btn')?.click();
                 break;
             case 'm': case 'M':
                 e.preventDefault();
-                document.getElementById('mute-btn').click();
+                document.getElementById('mute-btn')?.click();
                 break;
             case '?':
                 e.preventDefault();
@@ -259,4 +218,3 @@ function initializeKeyboardShortcuts() {
         }
     });
 }
-

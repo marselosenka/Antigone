@@ -1,0 +1,113 @@
+/* FOOTER — shared across all pages */
+.site-footer {
+    margin-top: 40px;
+    background: var(--bg-papyrus);
+    border-top: 2px solid var(--border-soft);
+    padding: 28px 25px 22px;
+    font-family: var(--font-body);
+}
+
+.footer-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: minmax(0, 260px) 1fr;
+    gap: 30px;
+    align-items: start;
+}
+
+.footer-credit {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.footer-title {
+    font-family: var(--font-heading);
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--aegean);
+    font-weight: 800;
+}
+.footer-sub {
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-style: italic;
+    color: var(--gold-dim);
+}
+
+.footer-groups {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 18px 24px;
+}
+
+.footer-group {
+    border-left: 2px solid var(--border-faint);
+    padding-left: 14px;
+}
+.footer-role {
+    font-family: var(--font-heading);
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--terracotta);
+    margin-bottom: 6px;
+    font-weight: 700;
+}
+.footer-names {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-names li {
+    font-family: var(--font-body);
+    font-size: 13px;
+    color: var(--text-ink);
+    line-height: 1.6;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+/* When inside a multi-column list, switch to inline-flex so the column algorithm
+   can break lines cleanly without each <li> stretching to its own row. */
+.footer-names.two-cols li {
+    display: block;
+}
+.footer-names.two-cols li .footer-tag {
+    margin-left: 6px;
+}
+
+/* A "wide" group spans two columns in the grid (used for RDF Producers).
+   Combined with .two-cols on the inner <ul>, the names lay out in two
+   sub-columns so the footer stays short. */
+.footer-group.wide {
+    grid-column: span 2;
+}
+.footer-names.two-cols {
+    column-count: 2;
+    column-gap: 18px;
+}
+.footer-names.two-cols li {
+    break-inside: avoid;
+}
+
+/* Small badge for "PM", future "Vice PM", etc. */
+.footer-tag {
+    display: inline-block;
+    background: var(--terracotta);
+    color: #fdf6ec;
+    font-family: var(--font-heading);
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+@media (max-width: 720px) {
+    .footer-inner { grid-template-columns: 1fr; gap: 18px; }
+    .footer-group.wide { grid-column: auto; }
+    .footer-names.two-cols { column-count: 1; }
+}

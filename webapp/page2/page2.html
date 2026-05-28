@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antigone - Scenes/Lines</title>
+    <link rel="icon" href="data:,">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Stylesheets - order important -->
+    <link rel="stylesheet" href="../shared/css/variables.css">
+    <link rel="stylesheet" href="../shared/css/nav.css">
+    <link rel="stylesheet" href="../shared/css/frame.css">
+    <link rel="stylesheet" href="../shared/css/components.css">
+    <link rel="stylesheet" href="../shared/css/utilities.css">
+    <link rel="stylesheet" href="../shared/css/footer.css">
+    <link rel="stylesheet" href="page2.css">
+</head>
+<body data-page="page2">
+
+<!-- NAVIGATION BAR-->
+<nav id="nav-root"></nav>
+
+<!--PAGE 2 – Scenes + Lines -->
+<main>
+
+    <!-- SCENES -->
+    <div class="frame scenes-frame">
+        <h3>Scenes</h3>
+        <div id="scenes-container-page2"></div>
+    </div>
+
+    <!-- SCENE READER (lines side-by-side for the selected scene) -->
+    <div class="frame scene-reader-frame" id="scene-reader-frame" style="display:none;">
+        <h3 id="scene-reader-title">Scene Reader</h3>
+        <div class="reader-toolbar">
+            <div class="reader-status" id="reader-status">Click a scene to load its full text.</div>
+            <div class="reader-controls">
+                <label class="lang-toggle">
+                    <input type="checkbox" id="toggle-chinese"> <span>中文</span>
+                </label>
+            </div>
+        </div>
+        <div id="reader-container"></div>
+    </div>
+
+    <!-- LINES: SPARQL navigator + three translation panels + context -->
+    <div class="lines-container">
+
+        <div class="sparql-toolbar">
+            <div class="sparql-controls">
+                <button id="load-lines-btn"  class="sparql-btn">Load SPARQL Lines</button>
+                <button id="prev-line-btn"   class="sparql-btn" disabled>Previous Line</button>
+                <button id="next-line-btn"   class="sparql-btn" disabled>Next Line</button>
+                <input  id="line-search-input" class="sparql-input" type="number" min="1" placeholder="Line #" />
+                <button id="go-line-btn"     class="sparql-btn" disabled>Go</button>
+                <span   id="current-line-tag" class="line-tag">Line --</span>
+            </div>
+            <div id="sparql-status" class="sparql-status">SPARQL not loaded</div>
+        </div>
+
+        <div class="lines-grid-wrapper">
+            <div class="text-grid">
+                <div class="text-panel">
+                    <div class="panel-header">
+                        <h4>Ancient Greek</h4>
+                        <button class="speak-btn control-btn"
+                                data-panel="ancient-text-page2"
+                                data-lang="el"
+                                title="Read aloud">🔊</button>
+                    </div>
+                    <p id="ancient-text-page2"></p>
+                </div>
+
+                <div class="text-panel">
+                    <div class="panel-header">
+                        <h4>Modern Greek</h4>
+                        <button class="speak-btn control-btn"
+                                data-panel="modern-text-page2"
+                                data-lang="el"
+                                title="Read aloud">🔊</button>
+                    </div>
+                    <p id="modern-text-page2"></p>
+                </div>
+
+                <div class="text-panel">
+                    <div class="panel-header">
+                        <h4>English</h4>
+                        <button class="speak-btn control-btn"
+                                data-panel="english-text-page2"
+                                data-lang="en-US"
+                                title="Read aloud">🔊</button>
+                    </div>
+                    <p id="english-text-page2"></p>
+                </div>
+            </div>
+
+            <!-- CONTEXT SIDEBAR -->
+            <aside class="context-sidebar" id="context-sidebar">
+                <h4 class="context-title">Context</h4>
+                <div class="context-empty" id="context-empty">Navigate to a line to see who speaks, themes, and references.</div>
+                <div class="context-body" id="context-body" style="display:none;">
+                    <div class="context-block">
+                        <div class="context-label">Speaker</div>
+                        <div class="context-value" id="ctx-speaker">—</div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Scene</div>
+                        <div class="context-value" id="ctx-scene">—</div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Themes</div>
+                        <div class="context-pills" id="ctx-themes"></div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Conflict</div>
+                        <div class="context-pills" id="ctx-conflict"></div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Myths referenced</div>
+                        <div class="context-pills" id="ctx-myths"></div>
+                    </div>
+                    <div class="context-block">
+                        <div class="context-label">Motivations</div>
+                        <div class="context-pills" id="ctx-motivations"></div>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+    </div>
+</main>
+
+<!-- SCRIPTS  (load order important) -->
+<script src="../shared/js/data.js"></script>
+<script src="../shared/js/state.js"></script>
+<script src="../shared/js/tts.js"></script>
+<script src="../shared/js/render-helpers.js"></script>
+<script src="../shared/js/nav.js"></script>
+<script src="scene-reader.js"></script>
+<script src="sparql-lines.js"></script>
+<script src="page2.js"></script>
+</body>
+</html>
