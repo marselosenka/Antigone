@@ -5,110 +5,229 @@
 
 :episode02-semantics a owl:Ontology .
 
-:Antigone_Scene_Episode_2_384_581
-  a :Scene ;
+# ==========================================================================
+# SCENE INFORMATION
+# ==========================================================================
+:Antigone_Episode_02
+  a :Episode_02 ;
   :sceneNumber "Episode 2 (384-581)"^^xsd:string ;
-  :hasSpeech :Speech_Block_384_440,
-             :Speech_Block_441_479,
-             :Speech_Block_480_507,
-             :Speech_Block_508_535,
-             :Speech_Block_536_562,
-             :Speech_Block_563_581 ;
+  :hasSpeech :Speech_Guard_384_385,
+             :Speech_Chorus_386,
+             :Speech_Chorus_387,
+             :Speech_Chorus_388_400,
+             :Speech_Creon_401,
+             :Speech_Guard_402,
+             :Speech_Creon_403,
+             :Speech_Guard_404_405,
+             :Speech_Creon_406,
+             :Speech_Guard_407_440,
+             :Speech_Creon_441_442,
+             :Speech_Antigone_443,
+             :Speech_Creon_444_447,
+             :Speech_Antigone_448,
+             :Speech_Creon_449,
+             :Speech_Antigone_450_470,
+             :Speech_Chorus_471_472,
+             :Speech_Creon_473_496,
+             :Speech_Antigone_497,
+             :Speech_Creon_498,
+             :Speech_Antigone_499_507,
+             :Speech_Creon_508,
+             :Speech_Antigone_509,
+             :Speech_Creon_510,
+             :Speech_Antigone_511,
+             :Speech_Creon_512,
+             :Speech_Antigone_513,
+             :Speech_Creon_514,
+             :Speech_Antigone_515,
+             :Speech_Creon_516,
+             :Speech_Antigone_517,
+             :Speech_Creon_518,
+             :Speech_Antigone_519,
+             :Speech_Creon_520,
+             :Speech_Antigone_521,
+             :Speech_Creon_522,
+             :Speech_Antigone_523,
+             :Speech_Creon_524_525,
+             :Speech_Chorus_526_530,
+             :Speech_Creon_531_535,
+             :Speech_Ismene_536_537,
+             :Speech_Antigone_538_539,
+             :Speech_Ismene_540_541,
+             :Speech_Antigone_542_543,
+             :Speech_Ismene_544_545,
+             :Speech_Antigone_546_547,
+             :Speech_Ismene_548,
+             :Speech_Antigone_549,
+             :Speech_Ismene_550,
+             :Speech_Antigone_551,
+             :Speech_Ismene_552,
+             :Speech_Antigone_553,
+             :Speech_Ismene_554,
+             :Speech_Antigone_555,
+             :Speech_Ismene_556,
+             :Speech_Antigone_557,
+             :Speech_Ismene_558,
+             :Speech_Antigone_559_560,
+             :Speech_Creon_561_562,
+             :Speech_Ismene_563_564,
+             :Speech_Creon_565,
+             :Speech_Ismene_566,
+             :Speech_Creon_567,
+             :Speech_Ismene_568,
+             :Speech_Creon_569,
+             :Speech_Ismene_570,
+             :Speech_Creon_571,
+             :Speech_Antigone_572,
+             :Speech_Creon_573,
+             :Speech_Chorus_574,
+             :Speech_Creon_575,
+             :Speech_Chorus_576,
+             :Speech_Creon_577_581 ;
   :hasConflict :Conflict_DivineVsHumanLaw,
                :Conflict_AntigoneVsCreon,
                :Conflict_AntigoneVsIsmene ;
+  :hasCharacter :Antigone_Character_Guard, 
+                :Antigone_Character_Creon,
+                :Antigone_Character_Antigone,
+                :Antigone_Character_Ismene,
+                :Antigone_Character_Chorus ;
   :developsTheme :Theme_DivineLaw,
                  :Theme_HumanLaw,
                  :Theme_FamilyDuty,
                  :Theme_Authority,
                  :Theme_BurialRites .
 
-:Antigone_Character_Guard a :Character ; rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
-:Antigone_Character_Creon a :Character ; rdfs:label "ΚΡ (Κρέων)"^^xsd:string .
-:Antigone_Character_Antigone a :Character ; rdfs:label "Ἀντιγόνη"^^xsd:string .
-:Antigone_Character_Ismene a :Character ; rdfs:label "Ἰσμήνη"^^xsd:string .
-:Antigone_Character_Chorus a :Character ; rdfs:label "ΧΟ (Χορός)"^^xsd:string .
+########################################################################
+# CHARACTERS
+# #########################################################################
+:Antigone_Character_Guard
+  a owl:NamedIndividual, :Character ;
+  :experiencesEmotion :Emotion_Fear, :Emotion_Relief, :Emotion_Guilt, :Emotion_Enthusiasm ;
+  :hasMotivation :Motivation_SelfPreservation, :Motivation_Exonerate ;
+  :tragicFlaw "Selfishness"^^xsd:string ;
+  :moralAlignment "Self-preserving"^^xsd:string .
 
-:Speech_Block_384_440 a :Speech ;
-  :speechBy :Antigone_Character_Guard, :Antigone_Character_Creon, :Antigone_Character_Antigone .
+:Antigone_Character_Creon
+  a owl:NamedIndividual, :Character ;
+  :experiencesEmotion :Emotion_Anger, :Emotion_Indignation, :Emotion_Satisfaction ;
+  :hasMotivation :Motivation_MaintainAuthority, :Motivation_EnforceLaw, :Motivation_PunishTransgression, :Motivation_ProtectThrone, :Motivation_TestCourage ;
+  :advocatesFor :EthicalPrinciple_CivicLaw ;
+  :violatesLaw :Law_DivineBurialRite ;
+  :tragicFlaw "Stubbornness, inflexibility, authoritarianism"^^xsd:string ;
+  :moralAlignment "Tyrannical, absolute"^^xsd:string ;
+  :status "Tyrant of Thebes, uncle of Antigone"^^xsd:string .
 
-## Manual Annotation
+:Antigone_Character_Antigone
+  a owl:NamedIndividual, :Character ;
+  :experiencesEmotion :Emotion_Defiance, :Emotion_Resolve, :Emotion_Acceptance, :Emotion_Contempt ;
+  :hasMotivation :Motivation_HonorBrother, :Motivation_ObeyDivineLaw ;
+  :advocatesFor :EthicalPrinciple_DivineLaw, :EthicalPrinciple_FamilyDuty ;
+  :makesMoralDecision :MoralDecision_BuryPolyneices ;
+  :isSiblingOf :Antigone_Character_Ismene ;
+  :tragicFlaw "Stubbornness, inflexibility, hubris toward authority"^^xsd:string ;
+  :moralAlignment "Pious, god-fearing, logical, perceptive, harsh, moral, independent, free, self-sufficient, grief-stricken, loving, reactive, strong, dynamic, decisive, irreverent to Creon's office, emotional, angry"^^xsd:string ;
+  :status "Princess, niece of Creon, daughter of Oedipus"^^xsd:string .
+
+:Antigone_Character_Ismene
+  a owl:NamedIndividual, :Character ;
+  :experiencesEmotion :Emotion_Despair, :Emotion_Love, :Emotion_Guilt, :Emotion_Hurt, :Emotion_Regret ;
+  :hasMotivation :Motivation_ShareFate, :Motivation_ProtectSister, :Motivation_LightenBurden, :Motivation_ShareNobleAct, :Motivation_HonorBrother ;
+  :isSiblingOf :Antigone_Character_Antigone ;
+  :tragicFlaw "Weakness, timidity, compromise"^^xsd:string ;
+  :moralAlignment "Completely compromising, flexible, realistic, timid, cowardly, servile, law-abiding, adapted to human authority, weak character, fears Creon"^^xsd:string ;
+  :status "Princess, niece of Creon, daughter of Oedipus, sister of Antigone"^^xsd:string .
+
+:Antigone_Character_Chorus
+  a owl:NamedIndividual, :Character ;
+  :experiencesEmotion :Emotion_Compassion, :Emotion_Observation .
+
+# =========================================================================
+# SPEECHES
+# =========================================================================
 
 :Speech_Guard_384_385 a :Speech ;
   :speechBy :Antigone_Character_Guard ;
-  :containsLine :Line_384, :Line_385 ;
-  :partOfScene :Antigone_Scene_Episode_2_384_581 .
+  :containsLine :Line_384, :Line_385 .
 
 :Speech_Chorus_386 a :Speech ;
   :speechBy :Antigone_Character_Chorus ;
-  :containsLine :Line_386 ;
-  :partOfScene :Antigone_Scene_Episode_2_384_581 . 
+  :containsLine :Line_386 .
 
-:Speech_Chorus_387 a :Speech ; 
-  :speechBy :Antigone_Scene_Episode_2_384_581 ;
-  :containsLine :Line_387 . 
+:Speech_Chorus_387 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_387 .
 
-:Speech_Chorus_388_400 a :Speech ; 
-  :speechBy :Antigone_Character_Guard ;
+:Speech_Chorus_388_400 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
   :containsLine :Line_388, :Line_389, :Line_390, :Line_391, :Line_392, :Line_393, :Line_394, :Line_395, :Line_396, :Line_397, :Line_398, :Line_399, :Line_400 .
 
 :Speech_Creon_401 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_401 . 
+  :containsLine :Line_401 .
 
-:Speech_Guard_402 a :Speech ; 
+:Speech_Guard_402 a :Speech ;
   :speechBy :Antigone_Character_Guard ;
-  :containsLine :Line_402 . 
+  :containsLine :Line_402 .
 
 :Speech_Creon_403 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
   :containsLine :Line_403 .
 
-:Speech_Guard_404_405 a :Speech ; 
+:Speech_Guard_404_405 a :Speech ;
   :speechBy :Antigone_Character_Guard ;
-  :containsLine :Line_404, :Line_405 . 
+  :containsLine :Line_404, :Line_405 .
 
-:Speech_Creon_406 a :Speech ; 
+:Speech_Creon_406 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_406 . 
+  :containsLine :Line_406 .
 
-:Speech_Guard_407_440 a :Speech ; 
+:Speech_Guard_407_440 a :Speech ;
   :speechBy :Antigone_Character_Guard ;
-  :containsLine :Line_407, :Line_408, :Line_409, :Line_410, :Line_411, :Line_412, :Line_413, :Line_414, :Line_415, :Line_416, :Line_417, :Line_418, :Line_419, :Line_420, :Line_421, :Line_422, :Line_423, :Line_424, :Line_425, :Line_426, :Line_427, :Line_428, :Line_429, :Line_430, :Line_431, :Line_432, :Line_433, :Line_434, :Line_435, :Line_436, :Line_437, :Line_438, :Line_439, :Line_440 . 
+  :containsLine :Line_407, :Line_408, :Line_409, :Line_410, :Line_411, :Line_412, :Line_413, :Line_414, :Line_415, :Line_416, :Line_417, :Line_418, :Line_419, :Line_420, :Line_421, :Line_422, :Line_423, :Line_424, :Line_425, :Line_426, :Line_427, :Line_428, :Line_429, :Line_430, :Line_431, :Line_432, :Line_433, :Line_434, :Line_435, :Line_436, :Line_437, :Line_438, :Line_439, :Line_440 ;
+  :containsRhetoricalDevice :Simile_Bird ;
+  :hasTheme :Theme_NarrativeTechnique, :Theme_OffstageAction, :Theme_Compassion, :Theme_Contrast .
 
-:Speech_Creon_441_442 a :Speech ; 
+:Speech_Creon_441_442 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_441, :Line_442 . 
+  :containsLine :Line_441, :Line_442 .
 
 :Speech_Antigone_443 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_443 . 
+  :containsLine :Line_443 .
 
 :Speech_Creon_444_447 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_444, :Line_445, :Line_446, :Line_447 . 
+  :containsLine :Line_444, :Line_445, :Line_446, :Line_447 ;
+  :hasTheme :Theme_StageDirection, :Theme_Exit .
 
-:Speech_Antigone_448 a :Speech ; 
+:Speech_Antigone_448 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
   :containsLine :Line_448 .
 
-:Speech_Creon_449 a :Speech ; 
+:Speech_Creon_449 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_449 . 
+  :containsLine :Line_449 .
 
-:Speech_Antigone_450_470 a :Speech ; 
+:Speech_Antigone_450_470 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_450, :Line_451, :Line_452, :Line_453, :Line_454, :Line_455, :Line_456, :Line_457, :Line_458, :Line_459, :Line_460, :Line_461, :Line_462, :Line_463, :Line_464, :Line_465, :Line_466, :Line_467, :Line_468, :Line_469, :Line_470 . 
+  :containsLine :Line_450, :Line_451, :Line_452, :Line_453, :Line_454, :Line_455, :Line_456, :Line_457, :Line_458, :Line_459, :Line_460, :Line_461, :Line_462, :Line_463, :Line_464, :Line_465, :Line_466, :Line_467, :Line_468, :Line_469, :Line_470 ;
+  :containsRhetoricalDevice :Metaphor_UnwrittenLaws ;
+  :hasConflict :Conflict_DivineVsHumanLaw ;
+  :hasTheme :Theme_DivineLaw, :Theme_FamilyDuty, :Theme_EthicalPrinciple, :Theme_Hubris .
 
 :Speech_Chorus_471_472 a :Speech ;
   :speechBy :Antigone_Character_Chorus ;
-  :containsLine :Line_471, :Line_472 . 
+  :containsLine :Line_471, :Line_472 ;
+  :hasTheme :Theme_FamilyHeritage, :Theme_CharacterTrait .
 
 :Speech_Creon_473_496 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_473, :Line_474, :Line_475, :Line_476, :Line_477, :Line_478, :Line_479, :Line_480, :Line_481, :Line_482, :Line_483, :Line_484, :Line_485, :Line_486, :Line_487, :Line_488, :Line_489, :Line_490, :Line_491, :Line_492, :Line_493, :Line_494, :Line_495, :Line_496 . 
+  :containsLine :Line_473, :Line_474, :Line_475, :Line_476, :Line_477, :Line_478, :Line_479, :Line_480, :Line_481, :Line_482, :Line_483, :Line_484, :Line_485, :Line_486, :Line_487, :Line_488, :Line_489, :Line_490, :Line_491, :Line_492, :Line_493, :Line_494, :Line_495, :Line_496 ;
+  :containsRhetoricalDevice :Metaphor_Iron, :Metaphor_Horse ;
+  :hasTheme :Theme_Tyranny, :Theme_GenderRoles, :Theme_Punishment, :Theme_FamilyBond .
 
-:Speech_Antigone_497 a :Speech ; 
+:Speech_Antigone_497 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
   :containsLine :Line_497 .
 
@@ -118,19 +237,20 @@
 
 :Speech_Antigone_499_507 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_499, :Line_500, :Line_501, :Line_502, :Line_503, :Line_504, :Line_505, :Line_506, :Line_507 .
+  :containsLine :Line_499, :Line_500, :Line_501, :Line_502, :Line_503, :Line_504, :Line_505, :Line_506, :Line_507 ;
+  :hasTheme :Theme_Glory, :Theme_PublicOpinion, :Theme_Disagreement, :Theme_FearOfTyrant .
 
-:Speech_Creon_508 a :Speech ; 
+:Speech_Creon_508 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
   :containsLine :Line_508 .
 
 :Speech_Antigone_509 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_509 . 
+  :containsLine :Line_509 .
 
 :Speech_Creon_510 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_510 . 
+  :containsLine :Line_510 .
 
 :Speech_Antigone_511 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
@@ -140,7 +260,7 @@
   :speechBy :Antigone_Character_Creon ;
   :containsLine :Line_512 .
 
-:Speeech_Antigone_513 a :Speech ;
+:Speech_Antigone_513 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
   :containsLine :Line_513 .
 
@@ -150,7 +270,7 @@
 
 :Speech_Antigone_515 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_515 . 
+  :containsLine :Line_515 .
 
 :Speech_Creon_516 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
@@ -164,7 +284,7 @@
   :speechBy :Antigone_Character_Creon ;
   :containsLine :Line_518 .
 
-:Speech_Antigone_519 a :Speech ; 
+:Speech_Antigone_519 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
   :containsLine :Line_519 .
 
@@ -186,7 +306,8 @@
 
 :Speech_Creon_524_525 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_524, :Line_525 .
+  :containsLine :Line_524, :Line_525 ;
+  :hasTheme :Theme_Refusal, :Theme_GenderRoles, :Theme_Authority .
 
 :Speech_Chorus_526_530 a :Speech ;
   :speechBy :Antigone_Character_Chorus ;
@@ -194,15 +315,20 @@
 
 :Speech_Creon_531_535 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_531, :Line_532, :Line_533, :Line_534, :Line_535 .
+  :containsLine :Line_531, :Line_532, :Line_533, :Line_534, :Line_535 ;
+  :containsRhetoricalDevice :Metaphor_Serpent ;
+  :hasTheme :Theme_Accusation, :Theme_ThroneUsurpation, :Theme_Interrogation .
 
 :Speech_Ismene_536_537 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
-  :containsLine :Line_536, :Line_537 .
+  :containsLine :Line_536, :Line_537 ;
+  :hasTheme :Theme_Sisterhood, :Theme_SharedResponsibility, :Theme_Love .
 
 :Speech_Antigone_538_539 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_538, :Line_539 .
+  :containsLine :Line_538, :Line_539 ;
+  :hasTheme :Theme_Justice, :Theme_Truth, :Theme_DivineJustice ;
+  :referencesMyth :MythologicalBackground_Nemesis .
 
 :Speech_Ismene_540_541 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
@@ -214,11 +340,14 @@
 
 :Speech_Ismene_544_545 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
-  :containsLine :Line_544, :Line_545 .
-  
+  :containsLine :Line_544, :Line_545 ;
+  :hasTheme :Theme_Guilt, :Theme_HonorBrother, :Theme_SharedResponsibility .
+
 :Speech_Antigone_546_547 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_546, :Line_547 .
+  :containsLine :Line_546, :Line_547 ;
+  :hasTheme :Theme_Justice, :Theme_Sacrifice, :Theme_DivineJustice ;
+  :referencesMyth :MythologicalBackground_Nemesis .
 
 :Speech_Ismene_548 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
@@ -226,7 +355,8 @@
 
 :Speech_Antigone_549 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_549 .
+  :containsLine :Line_549 ;
+  :containsRhetoricalDevice :Irony_QuestionCreon .
 
 :Speech_Ismene_550 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
@@ -234,7 +364,8 @@
 
 :Speech_Antigone_551 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_551 .
+  :containsLine :Line_551 ;
+  :containsRhetoricalDevice :Irony_Mockery .
 
 :Speech_Ismene_552 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
@@ -242,7 +373,8 @@
 
 :Speech_Antigone_553 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_553 .
+  :containsLine :Line_553 ;
+  :hasTheme :Theme_CharacterTrait, :Theme_SelfSacrifice, :Theme_Generosity .
 
 :Speech_Ismene_554 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
@@ -266,19 +398,23 @@
 
 :Speech_Antigone_559_560 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
-  :containsLine :Line_559, :Line_560 .
+  :containsLine :Line_559, :Line_560 ;
+  :hasTheme :Theme_Acceptance, :Theme_Death .
 
 :Speech_Creon_561_562 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_561, :Line_562 .
+  :containsLine :Line_561, :Line_562 ;
+  :hasTheme :Theme_Madness, :Theme_CharacterTrait, :Theme_Interruption .
 
 :Speech_Ismene_563_564 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
-  :containsLine :Line_563, :Line_564 .
+  :containsLine :Line_563, :Line_564 ;
+  :hasTheme :Theme_Misfortune, :Theme_MentalErosion, :Theme_CharacterDegradation .
 
 :Speech_Creon_565 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_565 .
+  :containsLine :Line_565 ;
+  :hasTheme :Theme_Accusation, :Theme_Madness, :Theme_Belief .
 
 :Speech_Ismene_566 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
@@ -286,15 +422,19 @@
 
 :Speech_Creon_567 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_567 .
+  :containsLine :Line_567 ;
+  :hasTheme :Theme_Resignation, :Theme_Abandonment .
 
 :Speech_Ismene_568 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
-  :containsLine :Line_568 .
+  :containsLine :Line_568 ;
+  :hasTheme :Theme_Marriage, :Theme_FamilyRelationship, :Theme_Reminder .
 
 :Speech_Creon_569 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_569 .
+  :containsLine :Line_569 ;
+  :containsRhetoricalDevice :Metaphor_Field ;
+  :hasTheme :Theme_Marriage, :Theme_Alternative .
 
 :Speech_Ismene_570 a :Speech ;
   :speechBy :Antigone_Character_Ismene ;
@@ -302,7 +442,8 @@
 
 :Speech_Creon_571 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_571 .
+  :containsLine :Line_571 ;
+  :hasTheme :Theme_ExtremeStatement, :Theme_Hatred, :Theme_Marriage .
 
 :Speech_Antigone_572 a :Speech ;
   :speechBy :Antigone_Character_Antigone ;
@@ -310,11 +451,13 @@
 
 :Speech_Creon_573 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_573 .
+  :containsLine :Line_573 ;
+  :hasTheme :Theme_Exhaustion, :Theme_Endurance .
 
 :Speech_Chorus_574 a :Speech ;
   :speechBy :Antigone_Character_Chorus ;
-  :containsLine :Line_574 .
+  :containsLine :Line_574 ;
+  :hasTheme :Theme_Question, :Theme_Marriage, :Theme_DeathPenalty .
 
 :Speech_Creon_575 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
@@ -322,41 +465,693 @@
 
 :Speech_Chorus_576 a :Speech ;
   :speechBy :Antigone_Character_Chorus ;
-  :containsLine :Line_576 .
+  :containsLine :Line_576 ;
+  :hasTheme :Theme_Recognition, :Theme_Unchangeable, :Theme_Resignation .
 
 :Speech_Creon_577_581 a :Speech ;
   :speechBy :Antigone_Character_Creon ;
-  :containsLine :Line_577, :Line_578, :Line_579, :Line_580, :Line_581 .
+  :containsLine :Line_577, :Line_578, :Line_579, :Line_580, :Line_581 ;
+  :hasTheme :Theme_Order, :Theme_Imprisonment, :Theme_FearOfDeath, :Theme_InternalThought .
 
-# :Speech_Block_508_535 a :Speech ;
-#  :speechBy :Antigone_Character_Creon, :Antigone_Character_Antigone, :Antigone_Character_Chorus .
-
-#:Speech_Block_536_562 a :Speech ;
-#  :speechBy :Antigone_Character_Ismene, :Antigone_Character_Antigone, :Antigone_Character_Creon .
-
-#:Speech_Block_563_581 a :Speech ;
-#  :speechBy :Antigone_Character_Ismene, :Antigone_Character_Creon, :Antigone_Character_Chorus .
-
+# =========================================================================
+# THEMES & CONFLICTS
+# =========================================================================
 :Theme_DivineLaw a :Theme ;
   :description "Antigone privileges unwritten divine law over royal decree."^^xsd:string .
 
 :Theme_HumanLaw a :Theme ;
-  :description "Creon enforces civic authority as absolute state law."^^xsd:string .
+  :description "The laws and decrees established by human rulers and the state."^^xsd:string .
 
 :Theme_FamilyDuty a :Theme ;
-  :description "Burial and kinship obligations shape decisions and conflict."^^xsd:string .
+  :description "The obligation to honor and bury family members, especially siblings."^^xsd:string .
 
 :Theme_Authority a :Theme ;
-  :description "Political power, coercion, and resistance structure the episode."^^xsd:string .
+  :description "The exercise of power and control, and resistance to it."^^xsd:string .
 
 :Theme_BurialRites a :Theme ;
-  :description "Burial is treated as a sacred and politically contested act."^^xsd:string .
+  :description "The religious and cultural practices surrounding the burial of the dead."^^xsd:string .
 
 :Conflict_DivineVsHumanLaw a :Conflict ;
   :description "Moral collision between divine ordinance and state decree."^^xsd:string .
 
 :Conflict_AntigoneVsCreon a :Conflict ;
-  :description "Direct confrontation between personal piety and political sovereignty."^^xsd:string .
+  :description "The central conflict between Antigone's duty to divine law and Creon's assertion of human authority."^^xsd:string ;
+  :relatedTo :Conflict_DivineVsHumanLaw .
 
 :Conflict_AntigoneVsIsmene a :Conflict ;
-  :description "Sisterly disagreement over courage, complicity, and shared fate."^^xsd:string .
+  :description "The tension between Antigone's active defiance and Ismene's initial passivity, later resolved by Ismene's desire to share the fate."^^xsd:string .
+
+
+###############################################################################################
+# THEMES  
+###############################################################################################
+
+:Theme_Justice
+  a owl:NamedIndividual, :Theme ;
+  :description "The concept of fairness, equality, and divine justice."^^xsd:string .
+
+:Theme_Tyranny
+  a owl:NamedIndividual, :Theme ;
+  :description "The abuse of power and authority by a ruler."^^xsd:string .
+
+:Theme_GenderRoles
+  a owl:NamedIndividual, :Theme ;
+  :description "Expectations and limitations placed on individuals based on gender."^^xsd:string .
+
+:Theme_Sisterhood
+  a owl:NamedIndividual, :Theme ;
+  :description "The bond between sisters and the conflict between different approaches to the same situation."^^xsd:string .
+
+:Theme_MoralCourage
+  a owl:NamedIndividual, :Theme ;
+  :description "The strength to act according to one's principles despite consequences."^^xsd:string .
+
+:Theme_FamilyHeritage
+  a owl:NamedIndividual, :Theme ;
+  :description "The inheritance of character traits and fate from one's ancestors."^^xsd:string .
+
+:Theme_CharacterTrait
+  a owl:NamedIndividual, :Theme ;
+  :description "Inherent qualities of character, including tragic flaws."^^xsd:string .
+
+:Theme_Glory
+  a owl:NamedIndividual, :Theme ;
+  :description "The pursuit of honor and renown through noble actions."^^xsd:string .
+
+:Theme_PublicOpinion
+  a owl:NamedIndividual, :Theme ;
+  :description "The views and judgments of the community, often suppressed by fear."^^xsd:string .
+
+:Theme_Acceptance
+  a owl:NamedIndividual, :Theme ;
+  :description "The resignation to one's fate and acceptance of death."^^xsd:string .
+
+:Theme_Death
+  a owl:NamedIndividual, :Theme ;
+  :description "Mortality, the afterlife, and the acceptance of death as preferable to dishonor."^^xsd:string .
+
+:Theme_MortalLimitation
+  a owl:NamedIndividual, :Theme ;
+  :description "The boundaries of human power in relation to divine will."^^xsd:string .
+
+:Theme_FamilyBond
+  a owl:NamedIndividual, :Theme ;
+  :description "The sacred connection between family members, protected by Zeus."^^xsd:string .
+
+:Theme_Love
+  a owl:NamedIndividual, :Theme ;
+  :description "The bond of love between siblings and family members."^^xsd:string .
+
+:Theme_Marriage
+  a owl:NamedIndividual, :Theme ;
+  :description "The institution of marriage and its disruption by death."^^xsd:string .
+
+:Theme_TragicFlaw
+  a owl:NamedIndividual, :Theme ;
+  :description "The character defect that leads to a hero's downfall."^^xsd:string .
+
+:Theme_Foreshadowing
+  a owl:NamedIndividual, :Theme ;
+  :description "The anticipation of future events, particularly death."^^xsd:string .
+
+:Theme_Defiance
+  a owl:NamedIndividual, :Theme ;
+  :description "Bold resistance to authority and unjust laws."^^xsd:string .
+
+:Theme_Choice
+  a owl:NamedIndividual, :Theme ;
+  :description "The fundamental choice between life and death, honor and dishonor."^^xsd:string .
+
+:Theme_ProverbialWisdom
+  a owl:NamedIndividual, :Theme ;
+  :description "A gnomic statement or proverb expressing general truth."^^xsd:string .
+
+:Theme_Surprise
+  a owl:NamedIndividual, :Theme ;
+  :description "The emotion of astonishment or shock at unexpected events."^^xsd:string .
+
+:Theme_Disbelief
+  a owl:NamedIndividual, :Theme ;
+  :description "Inability or refusal to accept something as true."^^xsd:string .
+
+:Theme_VisualPerception
+  a owl:NamedIndividual, :Theme ;
+  :description "The powerful significance of visual witness in ancient Greek culture, providing absolute certainty."^^xsd:string .
+
+:Theme_Certainty
+  a owl:NamedIndividual, :Theme ;
+  :description "Absolute conviction based on direct observation."^^xsd:string .
+
+:Theme_Doubt
+  a owl:NamedIndividual, :Theme ;
+  :description "Uncertainty or hesitation in accepting information."^^xsd:string .
+
+:Theme_NarrativeTechnique
+  a owl:NamedIndividual, :Theme ;
+  :description "Sophoclean device for conveying offstage action through narration."^^xsd:string .
+
+:Theme_OffstageAction
+  a owl:NamedIndividual, :Theme ;
+  :description "Events occurring outside the visible stage, related through messenger speeches."^^xsd:string .
+
+:Theme_Storm
+  a owl:NamedIndividual, :Theme ;
+  :description "The divine tempest that facilitated Antigone's burial ritual."^^xsd:string .
+
+:Theme_Curse
+  a owl:NamedIndividual, :Theme ;
+  :description "The belief in the magical power of curses in ancient Greek thought."^^xsd:string .
+
+:Theme_MagicalPower
+  a owl:NamedIndividual, :Theme ;
+  :description "The supernatural force attributed to curses and imprecations."^^xsd:string .
+
+:Theme_SecondBurial
+  a owl:NamedIndividual, :Theme ;
+  :description "Antigone's return to complete the burial rites after the first attempt."^^xsd:string .
+
+:Theme_Hunting
+  a owl:NamedIndividual, :Theme ;
+  :description "The pursuit of Antigone by the guards, described in hunting terms."^^xsd:string .
+
+:Theme_Pursuit
+  a owl:NamedIndividual, :Theme ;
+  :description "The act of chasing or seeking after someone."^^xsd:string .
+
+:Theme_Tranquility
+  a owl:NamedIndividual, :Theme ;
+  :description "Antigone's calm and fearless demeanor during the burial."^^xsd:string .
+
+:Theme_AmbivalentEmotion
+  a owl:NamedIndividual, :Theme ;
+  :description "Mixed feelings of joy and pain simultaneously."^^xsd:string .
+
+:Theme_Relief
+  a owl:NamedIndividual, :Theme ;
+  :description "The alleviation of distress or anxiety."^^xsd:string .
+
+:Theme_Selfishness
+  a owl:NamedIndividual, :Theme ;
+  :description "The Guard's primary concern with his own safety over others' welfare."^^xsd:string .
+
+:Theme_Silence
+  a owl:NamedIndividual, :Theme ;
+  :description "Theatrical technique of managing audience attention through absence of speech."^^xsd:string .
+
+:Theme_DramaticTechnique
+  a owl:NamedIndividual, :Theme ;
+  :description "Sophoclean devices for controlling narrative pacing and attention."^^xsd:string .
+
+:Theme_DramaticDelay
+  a owl:NamedIndividual, :Theme ;
+  :description "Verbiage used to slow the confrontation between Creon and Antigone."^^xsd:string .
+
+:Theme_Verbiage
+  a owl:NamedIndividual, :Theme ;
+  :description "Excessive wordiness, used here as a dramatic device."^^xsd:string .
+
+:Theme_Awareness
+  a owl:NamedIndividual, :Theme ;
+  :description "Conscious knowledge of one's actions and their consequences."^^xsd:string .
+
+:Theme_ConsciousAction
+  a owl:NamedIndividual, :Theme ;
+  :description "Deliberate acts performed with full knowledge."^^xsd:string .
+
+:Theme_EthicalPrinciple
+  a owl:NamedIndividual, :Theme ;
+  :description "Fundamental moral rules governing conduct."^^xsd:string .
+
+:Theme_Hubris
+  a owl:NamedIndividual, :Theme ;
+  :description "Excessive pride or arrogance, particularly in challenging the gods."^^xsd:string .
+
+:Theme_Punishment
+  a owl:NamedIndividual, :Theme ;
+  :description "The penalty imposed for transgression of laws."^^xsd:string .
+
+:Theme_Disagreement
+  a owl:NamedIndividual, :Theme ;
+  :description "Fundamental opposition of opinions between characters."^^xsd:string .
+
+:Theme_FearOfTyrant
+  a owl:NamedIndividual, :Theme ;
+  :description "The suppression of public opinion due to fear of authoritarian rule."^^xsd:string .
+
+:Theme_Accusation
+  a owl:NamedIndividual, :Theme ;
+  :description "The act of charging someone with wrongdoing."^^xsd:string .
+
+:Theme_ThroneUsurpation
+  a owl:NamedIndividual, :Theme ;
+  :description "Creon's suspicion that the sisters seek to overthrow him."^^xsd:string .
+
+:Theme_Interrogation
+  a owl:NamedIndividual, :Theme ;
+  :description "The process of questioning to extract information or confession."^^xsd:string .
+
+:Theme_SharedResponsibility
+  a owl:NamedIndividual, :Theme ;
+  :description "Ismene's claim of complicity in the burial."^^xsd:string .
+
+:Theme_Truth
+  a owl:NamedIndividual, :Theme ;
+  :description "Correspondence with fact or reality, opposed to falsehood."^^xsd:string .
+
+:Theme_DivineJustice
+  a owl:NamedIndividual, :Theme ;
+  :description "The principle of justice enforced by the gods, represented by Nemesis."^^xsd:string .
+
+:Theme_Entrance
+  a owl:NamedIndividual, :Theme ;
+  :description "The arrival of a character on stage."^^xsd:string .
+
+:Theme_Announcement
+  a owl:NamedIndividual, :Theme ;
+  :description "The Chorus's report of Ismene's arrival."^^xsd:string .
+
+:Theme_Sorrow
+  a owl:NamedIndividual, :Theme ;
+  :description "Deep distress caused by loss or misfortune."^^xsd:string .
+
+:Theme_EmotionalState
+  a owl:NamedIndividual, :Theme ;
+  :description "The psychological condition of a character at a given moment."^^xsd:string .
+
+:Theme_Treachery
+  a owl:NamedIndividual, :Theme ;
+  :description "Betrayal of trust, as Creon accuses Ismene."^^xsd:string .
+
+:Theme_Insult
+  a owl:NamedIndividual, :Theme ;
+  :description "Disrespectful or offensive remark."^^xsd:string .
+
+:Theme_Mockery
+  a owl:NamedIndividual, :Theme ;
+  :description "Teasing or contemptuous language."^^xsd:string .
+
+:Theme_Contempt
+  a owl:NamedIndividual, :Theme ;
+  :description "The feeling that someone or something is worthless."^^xsd:string .
+
+:Theme_SelfSacrifice
+  a owl:NamedIndividual, :Theme ;
+  :description "Antigone's willingness to give up her life for her principles."^^xsd:string .
+
+:Theme_Generosity
+  a owl:NamedIndividual, :Theme ;
+  :description "The quality of being selfless and giving."^^xsd:string .
+
+:Theme_Relativism
+  a owl:NamedIndividual, :Theme ;
+  :description "The acknowledgment that different people hold different valid viewpoints."^^xsd:string .
+
+:Theme_BlindFaith
+  a owl:NamedIndividual, :Theme ;
+  :description "Unquestioning acceptance of authority or laws."^^xsd:string .
+
+:Theme_Madness
+  a owl:NamedIndividual, :Theme ;
+  :description "Loss of reason or sanity."^^xsd:string .
+
+:Theme_Interruption
+  a owl:NamedIndividual, :Theme ;
+  :description "Creon's sudden interjection into the sisters' dialogue."^^xsd:string .
+
+:Theme_Misfortune
+  a owl:NamedIndividual, :Theme ;
+  :description "Bad luck or adverse circumstances."^^xsd:string .
+
+:Theme_MentalErosion
+  a owl:NamedIndividual, :Theme ;
+  :description "The gradual degradation of mental faculties under stress."^^xsd:string .
+
+:Theme_CharacterDegradation
+  a owl:NamedIndividual, :Theme ;
+  :description "The deterioration of a person's moral or mental state."^^xsd:string .
+
+:Theme_Belief
+  a owl:NamedIndividual, :Theme ;
+  :description "Acceptance that something is true without proof."^^xsd:string .
+
+:Theme_Resignation
+  a owl:NamedIndividual, :Theme ;
+  :description "Acceptance of something undesirable but inevitable."^^xsd:string .
+
+:Theme_Abandonment
+  a owl:NamedIndividual, :Theme ;
+  :description "The act of giving up or leaving behind."^^xsd:string .
+
+:Theme_FamilyRelationship
+  a owl:NamedIndividual, :Theme ;
+  :description "The connection between family members, including marriage ties."^^xsd:string .
+
+:Theme_Reminder
+  a owl:NamedIndividual, :Theme ;
+  :description "A statement that brings something to attention again."^^xsd:string .
+
+:Theme_Alternative
+  a owl:NamedIndividual, :Theme ;
+  :description "Other options available besides the current choice."^^xsd:string .
+
+:Theme_ExtremeStatement
+  a owl:NamedIndividual, :Theme ;
+  :description "An extreme or absolute declaration."^^xsd:string .
+
+:Theme_Hatred
+  a owl:NamedIndividual, :Theme ;
+  :description "Intense dislike or animosity."^^xsd:string .
+
+:Theme_Defense
+  a owl:NamedIndividual, :Theme ;
+  :description "Protection or justification of someone or something."^^xsd:string .
+
+:Theme_Exhaustion
+  a owl:NamedIndividual, :Theme ;
+  :description "State of extreme tiredness, physical or emotional."^^xsd:string .
+
+:Theme_Endurance
+  a owl:NamedIndividual, :Theme ;
+  :description "The ability to withstand hardship or difficulty."^^xsd:string .
+
+:Theme_Question
+  a owl:NamedIndividual, :Theme ;
+  :description "An inquiry seeking information or confirmation."^^xsd:string .
+
+:Theme_DeathPenalty
+  a owl:NamedIndividual, :Theme ;
+  :description "The punishment of execution for a crime."^^xsd:string .
+
+:Theme_Recognition
+  a owl:NamedIndividual, :Theme ;
+  :description "The realization or acknowledgment of a fact."^^xsd:string .
+
+:Theme_Unchangeable
+  a owl:NamedIndividual, :Theme ;
+  :description "Something that cannot be altered or modified."^^xsd:string .
+
+:Theme_Order
+  a owl:NamedIndividual, :Theme ;
+  :description "A command or directive given by authority."^^xsd:string .
+
+:Theme_Imprisonment
+  a owl:NamedIndividual, :Theme ;
+  :description "The state of being confined or locked up."^^xsd:string .
+
+:Theme_FearOfDeath
+  a owl:NamedIndividual, :Theme ;
+  :description "The apprehension that facing death will cause characters to seek survival."^^xsd:string .
+
+:Theme_InternalThought
+  a owl:NamedIndividual, :Theme ;
+  :description "Creon's private reasoning revealed to the audience."^^xsd:string .
+
+:Theme_Refusal
+  a owl:NamedIndividual, :Theme ;
+  :description "The act of declining to do something."^^xsd:string .
+
+:Theme_Exit
+  a owl:NamedIndividual, :Theme ;
+  :description "The departure of a character from the stage."^^xsd:string .
+
+:Theme_Compassion
+  a owl:NamedIndividual, :Theme ;
+  :description "Sympathetic pity and concern for the sufferings of others."^^xsd:string .
+
+:Theme_Guilt
+  a owl:NamedIndividual, :Theme ;
+  :description "The feeling of responsibility or remorse for wrongdoing."^^xsd:string .
+
+:Theme_Justification
+  a owl:NamedIndividual, :Theme ;
+  :description "The act of providing reasons or explanations for one's actions."^^xsd:string .
+
+:Theme_Contrast
+  a owl:NamedIndividual, :Theme ;
+  :description "The juxtaposition of differing qualities, as between Guard and Antigone."^^xsd:string .
+
+:Theme_Equality
+  a owl:NamedIndividual, :Theme ;
+  :description "The principle of equal treatment, particularly in death."^^xsd:string .
+
+:Theme_Sacrifice
+  a owl:NamedIndividual, :Theme ;
+  :description "The act of giving up something valuable for a higher purpose."^^xsd:string .
+
+:Theme_HonorBrother
+  a owl:NamedIndividual, :Theme ;
+  :description "The duty to honor one's brother through proper burial."^^xsd:string .
+
+:Theme_DivineIntervention
+  a owl:NamedIndividual, :Theme ;
+  :description "The involvement of gods in human affairs."^^xsd:string .
+
+:Theme_StageDirection
+  a owl:NamedIndividual, :Theme ;
+  :description "Instructions for stage movement and character positioning."^^xsd:string .
+
+
+###############################################################################################
+# EMOTIONS
+###############################################################################################
+:Emotion_Fear
+  a owl:NamedIndividual, :Emotion ;
+  :description "The Guard's fear of Creon's threats and punishment."^^xsd:string .
+
+:Emotion_Relief
+  a owl:NamedIndividual, :Emotion ;
+  :description "The Guard's relief at having caught the perpetrator and avoiding punishment."^^xsd:string .
+
+:Emotion_Anger
+  a owl:NamedIndividual, :Emotion ;
+  :description "Creon's rage at Antigone's defiance and challenge to his authority."^^xsd:string .
+
+:Emotion_Indignation
+  a owl:NamedIndividual, :Emotion ;
+  :description "Creon's righteous anger at what he perceives as disobedience and hubris."^^xsd:string .
+
+:Emotion_Defiance
+  a owl:NamedIndividual, :Emotion ;
+  :description "Antigone's bold resistance to Creon's decree."^^xsd:string .
+
+:Emotion_Resolve
+  a owl:NamedIndividual, :Emotion ;
+  :description "Antigone's unwavering determination to honor her brother despite consequences."^^xsd:string .
+
+:Emotion_Acceptance
+  a owl:NamedIndividual, :Emotion ;
+  :description "Antigone's peaceful acceptance of her death sentence."^^xsd:string .
+
+:Emotion_Despair
+  a owl:NamedIndividual, :Emotion ;
+  :description "Ismene's hopelessness and desire to share Antigone's fate."^^xsd:string .
+
+:Emotion_Love
+  a owl:NamedIndividual, :Emotion ;
+  :description "Ismene's love for her sister and desire to protect her."^^xsd:string .
+
+:Emotion_Guilt
+  a owl:NamedIndividual, :Emotion ;
+  :description "Ismene's guilt for not having helped Antigone initially."^^xsd:string .
+
+:Emotion_Compassion
+  a owl:NamedIndividual, :Emotion ;
+  :description "The Chorus's pity and understanding for the sisters' plight."^^xsd:string .
+
+:Emotion_Observation
+  a owl:NamedIndividual, :Emotion ;
+  :description "The Chorus's detached observation and commentary on the events."^^xsd:string .
+
+:Emotion_Enthusiasm
+  a owl:NamedIndividual, :Emotion ;
+  :description "The Guard's eager presentation of Antigone, fulfilling the tyrant's order."^^xsd:string .
+
+:Emotion_Satisfaction
+  a owl:NamedIndividual, :Emotion ;
+  :description "Creon's contentment at having captured the perpetrator."^^xsd:string .
+
+:Emotion_Hurt
+  a owl:NamedIndividual, :Emotion ;
+  :description "Ismene's pain from Antigone's harsh words."^^xsd:string .
+
+:Emotion_Regret
+  a owl:NamedIndividual, :Emotion ;
+  :description "Ismene's remorse for not having helped Antigone initially and desire to justify her earlier choice."^^xsd:string .
+
+:Emotion_Contempt
+  a owl:NamedIndividual, :Emotion ;
+  :description "Antigone's disdainful feeling toward those who act out of fear or self-interest."^^xsd:string .
+
+
+###############################################################################################
+# MOTIVATIONS 
+###############################################################################################
+:Motivation_SelfPreservation
+  a owl:NamedIndividual, :Motivation ;
+  :description "The Guard's need to protect himself from Creon's wrath by finding the perpetrator."^^xsd:string .
+
+:Motivation_MaintainAuthority
+  a owl:NamedIndividual, :Motivation ;
+  :description "Creon's drive to assert and maintain his power as ruler."^^xsd:string .
+
+:Motivation_EnforceLaw
+  a owl:NamedIndividual, :Motivation ;
+  :description "Creon's commitment to enforcing his decree to maintain order."^^xsd:string .
+
+:Motivation_HonorBrother
+  a owl:NamedIndividual, :Motivation ;
+  :description "Antigone's determination to give her brother Polyneices proper burial rites."^^xsd:string .
+
+:Motivation_ObeyDivineLaw
+  a owl:NamedIndividual, :Motivation ;
+  :description "Antigone's commitment to following the unwritten laws of the gods."^^xsd:string .
+
+:Motivation_ShareFate
+  a owl:NamedIndividual, :Motivation ;
+  :description "Ismene's desire to die alongside her sister rather than live without her."^^xsd:string .
+
+:Motivation_ProtectSister
+  a owl:NamedIndividual, :Motivation ;
+  :description "Ismene's wish to protect Antigone by claiming shared responsibility."^^xsd:string .
+
+:Motivation_Exonerate
+  a owl:NamedIndividual, :Motivation ;
+  :description "The Guard's desire to clear himself of blame and avoid punishment."^^xsd:string .
+
+:Motivation_PunishTransgression
+  a owl:NamedIndividual, :Motivation ;
+  :description "Creon's drive to punish Antigone for her boldness in breaking the law."^^xsd:string .
+
+:Motivation_ProtectThrone
+  a owl:NamedIndividual, :Motivation ;
+  :description "Creon's need to protect his position and authority from perceived threats."^^xsd:string .
+
+:Motivation_LightenBurden
+  a owl:NamedIndividual, :Motivation ;
+  :description "Ismene's wish to share Antigone's burden of accusation."^^xsd:string .
+
+:Motivation_ShareNobleAct
+  a owl:NamedIndividual, :Motivation ;
+  :description "Ismene's desire to partake in her sister's noble deed of burial."^^xsd:string .
+
+:Motivation_TestCourage
+  a owl:NamedIndividual, :Motivation ;
+  :description "Creon's belief that fear of death will cause the sisters to seek salvation."^^xsd:string .
+
+###############################################################################################
+# ETHICAL PRINCIPLES
+###############################################################################################
+
+:EthicalPrinciple_DivineLaw
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "The eternal, unwritten laws established by the gods that take precedence over human law."^^xsd:string .
+
+:EthicalPrinciple_CivicLaw
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "The laws and decrees of the state, established by human rulers."^^xsd:string .
+
+:EthicalPrinciple_FamilyDuty
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "The moral obligation to honor and care for family members, especially in death."^^xsd:string .
+
+:Law_DivineBurialRite
+  a owl:NamedIndividual, :Law ;
+  :description "The divine law requiring proper burial of the dead, regardless of their status in life."^^xsd:string .
+
+:MoralDecision_BuryPolyneices
+  a owl:NamedIndividual, :MoralDecision ;
+  :description "Antigone's choice to bury her brother despite Creon's decree, prioritizing divine law over human law."^^xsd:string .
+
+###############################################################################################
+# MYTHOLOGICAL BACKGROUND & LITERARY DEVICES
+###############################################################################################
+
+:MythologicalBackground_Zeus
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Zeus, the king of the gods, who establishes divine laws that mortals cannot override."^^xsd:string .
+
+:MythologicalBackground_Dike
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Dike (Justice), the goddess who dwells with the gods below and ensures divine justice."^^xsd:string .
+
+:MythologicalBackground_UnderworldGods
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "The gods of the underworld (Hades, Persephone, and others) who govern the dead and require proper burial rites."^^xsd:string .
+
+:MythologicalBackground_Hades
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Hades, the god of the underworld, who demands equal treatment for all the dead regardless of their status in life."^^xsd:string .
+
+:MythologicalBackground_ZeusHerkeios
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Zeus Herkeios (Zeus of the Hearth), protector of family bonds and household relationships."^^xsd:string .
+
+:MythologicalBackground_Oedipus
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Oedipus, the father of Antigone and Ismene, whose tragic fate and character traits are inherited by his children."^^xsd:string .
+
+:MythologicalBackground_DivineStorm
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "The divine tempest that appeared as a gift from the gods, hiding Antigone during the burial and allowing her to complete the rites."^^xsd:string .
+
+:MythologicalBackground_Hermes
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Hermes, god of luck and discoveries, to whom the 'thourmaion' (lucky find) was traditionally attributed."^^xsd:string .
+
+:MythologicalBackground_Nemesis
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Nemesis, daughter of Zeus and Themis, who with the Erinyes oversees moral order and punishes those who violate it."^^xsd:string .
+
+:MythologicalBackground_Cadmus
+  a owl:NamedIndividual, :MythologicalBackground ;
+  :description "Cadmus, the mythological founder of Thebes, from whom the Thebans are called Cadmeans (ÎšÎ¬Î´Î¼ÎµÎ¹Î¿Î¹)."^^xsd:string .
+
+:Metaphor_UnwrittenLaws
+  a owl:NamedIndividual, :MetaphorSimile ;
+  :description "The metaphor of unwritten, eternal divine laws that exist beyond human decrees."^^xsd:string .
+
+:Metaphor_Iron
+  a owl:NamedIndividual, :MetaphorSimile ;
+  :description "Creon's metaphor comparing rigid, unyielding character to iron that breaks when hardened and struck."^^xsd:string .
+
+:Metaphor_Horse
+  a owl:NamedIndividual, :MetaphorSimile ;
+  :description "Creon's metaphor comparing the need to control strong-willed individuals to taming spirited horses with a small bit."^^xsd:string .
+
+:Simile_Bird
+  a owl:NamedIndividual, :MetaphorSimile ;
+  :description "The Guard's simile comparing Antigone's cries of grief to a bird's sharp call when it finds its nest empty."^^xsd:string .
+
+:Irony_GenderReversal
+  a owl:NamedIndividual, :Irony ;
+  :description "Creon's ironic statement that he is not a man while Antigone is, highlighting the reversal of traditional gender roles."^^xsd:string .
+
+:Metaphor_Curse
+  a owl:NamedIndividual, :MetaphorSimile ;
+  :description "The powerful curses that Antigone utters against those who desecrated the body, believed to have magical force."^^xsd:string .
+
+:Oxymoron_BittersweetJoy
+  a owl:NamedIndividual, :RhetoricalDevice ;
+  :description "The Guard's simultaneous feeling of joy and pain ('á¼¡Î´Î­Ï‰Ï‚ Îºá¼€Î»Î³ÎµÎ¹Î½á¿¶Ï‚') at catching Antigone."^^xsd:string .
+
+:Symbol_Trispondoi
+  a owl:NamedIndividual, :Symbol ;
+  :description "The three libations (honey, milk, wine) offered to the dead, representing proper burial rites."^^xsd:string .
+
+:Metaphor_Serpent
+  a owl:NamedIndividual, :MetaphorSimile ;
+  :description "Creon's comparison of Ismene to a serpent hidden in the house, representing treachery and danger."^^xsd:string .
+
+:Irony_QuestionCreon
+  a owl:NamedIndividual, :Irony ;
+  :description "Antigone's ironic suggestion that Ismene ask Creon, whom she fears or loves too much, highlighting Ismene's character."^^xsd:string .
+
+:Irony_Mockery
+  a owl:NamedIndividual, :Irony ;
+  :description "Antigone's mockery of Ismene, using the word 'Î³ÎµÎ»á¿¶' (laugh/mock/contempt) to express derision or falsehood."^^xsd:string .
+
+:Metaphor_Field
+  a owl:NamedIndividual, :MetaphorSimile ;
+  :description "Creon's metaphor comparing available women to fields ready for sowing seed, expressing interchangeability."^^xsd:string .
+
+

@@ -29,6 +29,8 @@
     :text "the gods are leading toward ruin."^^xsd:string ;
     :relatedTo :Line_623 .
 
+# Line 624 does not exist in Antigone. 
+
 :TV_Line_625_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet he goes about free from destruction for only the shortest time."^^xsd:string ;
     :relatedTo :Line_625 .
@@ -45,6 +47,7 @@
     :text "of his promised bride, Antigone,"^^xsd:string ;
     :relatedTo :Line_628 .
 
+# Line 629 does not exist in Antigone. 
 :TV_Line_630_en a owl:NamedIndividual, :TranslationVariant ;
     :text "anguished by the deception of his marriage bed?"^^xsd:string ;
     :relatedTo :Line_630 .

@@ -30,11 +30,11 @@
     :relatedTo :Line_934 .
 
 :TV_Line_935_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "I cannot encourage you to hope for a different outcome."^^xsd:string ;
+    :text "I do not encourage you to hope"^^xsd:string ;
     :relatedTo :Line_935 .
 
 :TV_Line_936_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "I cannot encourage you to hope for a different outcome."^^xsd:string ;
+    :text "that these things will not be fulfilled in this way."^^xsd:string ;
     :relatedTo :Line_936 .
 
 :TV_Line_937_en a owl:NamedIndividual, :TranslationVariant ;
@@ -42,7 +42,7 @@
     :relatedTo :Line_937 .
 
 :TV_Line_938_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Land of the ancient gods,"^^xsd:string ;
+    :text "and gods of my ancestors,"^^xsd:string ;
     :relatedTo :Line_938 .
 
 :TV_Line_939_en a owl:NamedIndividual, :TranslationVariant ;
@@ -62,5 +62,5 @@
     :relatedTo :Line_942 .
 
 :TV_Line_943_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "All because I revered reverence!"^^xsd:string ;
+    :text "because I honored piety."^^xsd:string ;
     :relatedTo :Line_943 .

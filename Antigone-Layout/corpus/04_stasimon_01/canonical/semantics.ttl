@@ -5,8 +5,12 @@
 
 :stasimon01-semantics a owl:Ontology .
 
-:Antigone_Scene_Stasimon_1_332_383
-  a :Scene ;
+# ==========================================================================
+# SCENE INFORMATION
+# ==========================================================================
+
+:Antigone_Scene_Stasimon_1
+  a :Stasimon_01 ;
   :sceneNumber "Stasimon 1 (331-383)"^^xsd:string ;
   :hasSpeech :Speech_Guard_327_331,
              :Speech_Chorus_333_361,
@@ -14,21 +18,103 @@
              :Speech_Guard_383 ;
   :developsTheme :Theme_HumanPowerAndLimits,
                  :Theme_LawAndCity,
-                 :Theme_ForeshadowingAntigone .
+                 :Theme_ForeshadowingAntigone ;
+  :relatedTo :Motivation_Chorus_PraiseHumanPower,
+             :Motivation_Guard_ExpressGratitude,
+             :Emotion_Guard_ReliefAndGratitude,
+             :Event_Rescued,
+             :Event_ThanksToGods,
+             :Motivation_Chorus_ExcludeLawless,
+             :Motivation_Chorus_AssessIdentity,
+             :Motivation_Chorus_SuspectDisobedience,
+             :Motivation_Guard_PresentCapturedDoer,
+             :Motivation_Creon_SeekExplanation,
+             :MoralDecision_Guard_DeliverAntigone,
+             :EthicalPrinciple_ObeyEarthlyLawsAndDivineJustice,
+             :EthicalPrinciple_SinMakesOneCityless,
+             :EthicalPrinciple_DisobedienceToRoyalDecreeCondemned,
+             :Emotion_Chorus_Disapproval,
+             :Emotion_Chorus_Astonishment,
+             :Emotion_Chorus_Pity,
+             :Emotion_Creon_AlertCuriosity,
+             :Event_HumanSkill,
+             :Event_MoralDirectionShift,
+             :Event_DaringNotGood,
+             :Event_BecomeCityless,
+             :Event_CaughtBurying,
+             :Event_GuardBringsAccusation ;
+  :hasConflict :Conflict_HumanSkillGoodOrEvil,
+               :Conflict_CivicHonorVsCityless,
+               :Conflict_RoyalDecreeVsBurialAct .
 
+# ==========================================================================
+# CHARACTERS
+# ==========================================================================
 :Antigone_Character_Chorus
   a :Character ;
+  :hasMotivation :Motivation_Chorus_PraiseHumanPower,
+                 :Motivation_Chorus_ExcludeLawless,
+                 :Motivation_Chorus_AssessIdentity,
+                 :Motivation_Chorus_SuspectDisobedience ;
+  :advocatesFor :EthicalPrinciple_ObeyEarthlyLawsAndDivineJustice,
+                 :EthicalPrinciple_SinMakesOneCityless,
+                 :EthicalPrinciple_DisobedienceToRoyalDecreeCondemned ;
+  :experiencesEmotion :Emotion_Chorus_Disapproval,
+                      :Emotion_Chorus_Astonishment,
+                      :Emotion_Chorus_Pity ;
   rdfs:label "ΧΟ (Χορός)"^^xsd:string .
 
 :Antigone_Character_Guard
   a :Character ;
+  :hasMotivation :Motivation_Guard_ExpressGratitude,
+                 :Motivation_Guard_PresentCapturedDoer ;
+  :makesMoralDecision :MoralDecision_Guard_DeliverAntigone ;
+  :experiencesEmotion :Emotion_Guard_ReliefAndGratitude ;
   rdfs:label "ΦΥ (Φύλαξ)"^^xsd:string .
 
-:Speech_Guard_327_331 a :Speech ; :speechBy :Antigone_Character_Guard .
-:Speech_Chorus_333_361 a :Speech ; :speechBy :Antigone_Character_Chorus .
-:Speech_Chorus_362_383 a :Speech ; :speechBy :Antigone_Character_Chorus .
+:Antigone_Character_Creon
+  a owl:NamedIndividual, :Character ;
+  :hasMotivation :Motivation_Creon_SeekExplanation ;
+  :experiencesEmotion :Emotion_Creon_AlertCuriosity ;
+  rdfs:label "ΚΡ (Κρέων)"^^xsd:string .
+
+:Antigone_Character_Antigone
+  a owl:NamedIndividual, :Character ;
+  rdfs:label "Ἀντιγόνη"^^xsd:string .
+
+:Antigone_Character_Oedipus
+  a owl:NamedIndividual, :Character ;
+  rdfs:label "Οἰδίπους"^^xsd:string .
+  
+# =========================================================================
+# SPEECHES
+# ==========================================================================
+:Speech_Guard_327_331 a :Speech ; 
+    :speechBy :Antigone_Character_Guard ;
+    :containsLine 
+        :Line_327, :Line_328, :Line_329, :Line_330,
+        :Line_331 .
+
+:Speech_Chorus_333_361 a :Speech ; 
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine 
+        :Line_333, :Line_334, :Line_335, :Line_336,
+        :Line_337, :Line_338, :Line_339, :Line_340,
+        :Line_341, :Line_342, :Line_343, :Line_344,
+        :Line_345, :Line_346, :Line_347, :Line_348,
+        :Line_350, :Line_351, :Line_352,
+        :Line_355, :Line_356,
+        :Line_357, :Line_358, :Line_360,
+        :Line_361 .
+
+:Speech_Chorus_362_383 a :Speech ; 
+  :containsLine :Line_366, :Line_367, :Line_369, :Line_370, :Line_371, :Line_375, :Line_376, :Line_377, :Line_378, :Line_379, :Line_380, :Line_381, :Line_382 .
+
 :Speech_Guard_383 a :Speech ; :speechBy :Antigone_Character_Guard .
 
+# =========================================================================
+# THEMES
+# =========================================================================
 :Theme_HumanPowerAndLimits a :Theme ;
   :description "The ode celebrates human ingenuity while stressing moral and existential limits."^^xsd:string .
 
@@ -37,3 +123,127 @@
 
 :Theme_ForeshadowingAntigone a :Theme ;
   :description "The chorus' reflection shifts toward recognition of Antigone's transgression."^^xsd:string .
+
+# =========================================================================
+# MOTIVATIONS
+# =========================================================================
+:Motivation_Guard_ExpressGratitude
+  a owl:NamedIndividual, :Motivation ;
+  :description "Express gratitude to the gods for being saved."^^xsd:string .
+
+:Motivation_Chorus_PraiseHumanPower
+  a owl:NamedIndividual, :Motivation ;
+  :description "Reflect on human ingenuity and dominion over sea, earth, animals, and social order, with death as the ultimate limit."^^xsd:string .
+
+# =========================================================================
+# EMOTIONS
+# =========================================================================
+:Emotion_Guard_ReliefAndGratitude
+  a owl:NamedIndividual, :Emotion ;
+  :description "Relief at survival and gratitude to the gods."^^xsd:string .
+
+# =========================================================================
+# EVENTS
+# =========================================================================
+:Event_Rescued
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Guard is saved beyond expectation."^^xsd:string ;
+  :relatedTo :Event_ThanksToGods .
+
+:Event_ThanksToGods
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Guard thanks the gods for salvation."^^xsd:string .
+
+:Motivation_Chorus_ExcludeLawless
+  a owl:NamedIndividual, :Motivation ;
+  :description "Reject association with the lawless/dishonorable person (not hearth-mate, not like-minded)."^^xsd:string .
+
+:Motivation_Chorus_AssessIdentity
+  a owl:NamedIndividual, :Motivation ;
+  :description "Try to reconcile what is seen: identify the figure as Antigone."^^xsd:string .
+
+:Motivation_Chorus_SuspectDisobedience
+  a owl:NamedIndividual, :Motivation ;
+  :description "Suspect Antigone may have disobeyed the kingâ€™s laws/decree."^^xsd:string .
+
+:Motivation_Guard_PresentCapturedDoer
+  a owl:NamedIndividual, :Motivation ;
+  :description "Announce Antigone as the doer; present her as caught burying; seek Creon."^^xsd:string .
+
+:Motivation_Creon_SeekExplanation
+  a owl:NamedIndividual, :Motivation ;
+  :description "Demand to know what is happening as he enters."^^xsd:string .
+
+:MoralDecision_Guard_DeliverAntigone
+  a owl:NamedIndividual, :MoralDecision ;
+  :description "Deliver the captured burying agent to Creonâ€™s authority."^^xsd:string .
+
+:EthicalPrinciple_ObeyEarthlyLawsAndDivineJustice
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "Right civic standing is tied to fulfilling earthâ€™s laws and the godsâ€™ sworn justice."^^xsd:string .
+
+:EthicalPrinciple_SinMakesOneCityless
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "Daring the not-good/sin results in being 'cityless' rather than flourishing in the city."^^xsd:string .
+
+:EthicalPrinciple_DisobedienceToRoyalDecreeCondemned
+  a owl:NamedIndividual, :EthicalPrinciple ;
+  :description "The Chorus treats disobedience to royal laws/decree as blameworthy (and linked with folly)."^^xsd:string .
+
+:Emotion_Chorus_Disapproval
+  a owl:NamedIndividual, :Emotion ;
+  :description "Disapproval and rejection of lawless, dishonorable companionship."^^xsd:string .
+
+:Emotion_Chorus_Astonishment
+  a owl:NamedIndividual, :Emotion ;
+  :description "Astonishment/confusion at the portent and recognition of Antigone."^^xsd:string .
+
+:Emotion_Chorus_Pity
+  a owl:NamedIndividual, :Emotion ;
+  :description "Pity/laments for Antigone and Oedipus."^^xsd:string .
+
+:Emotion_Creon_AlertCuriosity
+  a owl:NamedIndividual, :Emotion ;
+  :description "Alert curiosity and concern as he enters the scene."^^xsd:string .
+
+:Conflict_HumanSkillGoodOrEvil
+  a owl:NamedIndividual, :Conflict ;
+  :description "Human skill can veer toward evil or toward good."^^xsd:string ;
+  :conflictBetween :Theme_HumanPowerAndLimits, :Theme_ForeshadowingAntigone .
+
+:Conflict_CivicHonorVsCityless
+  a owl:NamedIndividual, :Conflict ;
+  :description "Opposition between civic flourishing and becoming cityless due to daring the not-good."^^xsd:string ;
+  :conflictBetween :Theme_LawAndCity, :Theme_ForeshadowingAntigone .
+
+:Conflict_RoyalDecreeVsBurialAct
+  a owl:NamedIndividual, :Conflict ;
+  :description "Implied clash between royal decree and Antigoneâ€™s burial act (as reported by the Guard)."^^xsd:string ;
+  :conflictBetween :Antigone_Character_Antigone, :Antigone_Character_Creon .
+
+:Event_HumanSkill
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Human ingenuity/skill described as exceeding hope and shifting direction."^^xsd:string ;
+  :relatedTo :Event_MoralDirectionShift .
+
+:Event_MoralDirectionShift
+  a owl:NamedIndividual, owl:Thing ;
+  :description "The same skill veers toward evil or toward good."^^xsd:string .
+
+:Event_DaringNotGood
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Embracing the not-good for daring's sake."^^xsd:string ;
+  :relatedTo :Event_BecomeCityless .
+
+:Event_BecomeCityless
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Result: being without a city (ἄπολις / 'ανέστιος')."^^xsd:string .
+
+:Event_CaughtBurying
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Antigone is caught in the act of burying."^^xsd:string ;
+  :relatedTo :Event_GuardBringsAccusation .
+
+:Event_GuardBringsAccusation
+  a owl:NamedIndividual, owl:Thing ;
+  :description "Guard identifies Antigone as the doer and reports capture."^^xsd:string .

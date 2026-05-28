@@ -5,86 +5,94 @@
 
 :parodos-semantics a owl:Ontology .
 
+# =================================================================
+# SCENE INFORMATION
+# =================================================================
+
+:Antigone_Parodos a :Parodos ;
+    :partOfPlay :Antigone ;
+    :hasSpeech :Speech_Chorus_Parodos_100_161 ;
+    :hasCharacter :Antigone_Character_Antigone, :Antigone_Character_Ismene, :Antigone_Character_Chorus, :Antigone_Character_Creon,
+    :Antigone_Character_Eteocles, :Antigone_Character_Polyneices ;
+    :developsTheme 
+        :Theme_ImpossibleAction, 
+        :Theme_NobleDeath, 
+        :Theme_HonorDead, 
+        :Theme_SisterlyConflict, 
+        :Theme_LoyalFriendship, 
+        :Theme_DawnHope, 
+        :Theme_ThebanVictoryThanksgiving,
+        :Theme_FraternalCivilWar,
+        :Theme_PoliticalTransitionToCreon,
+        :Theme_WarAftermath ;
+    :developsTheme :Theme_InvasionThreat, :Theme_DivineIntervention, :Theme_WarViolence, :Theme_ZeusSupremacy, :Theme_ThebesDefense ;
+    :hasConflict :Conflict_PrudenceVsHonor, :Conflict_LoyaltyToDeadVsFear, :Conflict_HubrisVsDivineOrder, :Conflict_BrothersMutualDeath .
+
+
 ################################################################
-# SCENE AND SPEECH STRUCTURE
+# SPEECHES
 ################################################################
 
-:Antigone_Scene_DialogueAndParodos_90_113
-a :Scene ;
-:sceneNumber "Dialogue+Parodos 90-113"^^xsd:string ;
-:hasSpeech :Speech_Ismene_90, :Speech_Antigone_91, :Speech_Ismene_92, :Speech_Antigone_93_97, :Speech_Ismene_98_99, :Speech_Chorus_101_113 ;
-:developsTheme :Theme_ImpossibleAction, :Theme_NobleDeath, :Theme_HonorDead, :Theme_SisterlyConflict, :Theme_LoyalFriendship, :Theme_DawnHope, :Theme_WarAftermath ;
-:hasConflict :Conflict_PrudenceVsHonor, :Conflict_LoyaltyToDeadVsFear .
-
-:Speech_Ismene_90
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_090 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_ImpossibleAction ;
-:hasMotivation :Motivation_IsmeneDiscourageImpossible ;
-:experiencesEmotion :Emotion_IsmeneConcern ;
-:hasConflict :Conflict_PrudenceVsHonor .
-
-:Speech_Antigone_91
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_091 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_NobleDeath ;
-:hasMotivation :Motivation_AntigonePersistUntilNoStrength ;
-:experiencesEmotion :Emotion_AntigoneResolve .
-
-:Speech_Ismene_92
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_092 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_ImpossibleAction ;
-:hasMotivation :Motivation_IsmeneDiscourageImpossible .
-
-:Speech_Antigone_93_97
-a :Speech ;
-:speechBy :Antigone_Character_Antigone ;
-:containsLine :Line_093, :Line_094, :Line_095, :Line_096, :Line_097 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_HonorDead, :Theme_NobleDeath, :Theme_SisterlyConflict ;
-:advocatesFor :EthicalPrinciple_HonorDead ;
-:makesMoralDecision :MoralDecision_DieNoblyForHonor ;
-:hasMotivation :Motivation_AntigoneAcceptConsequences ;
-:experiencesEmotion :Emotion_AntigoneDefiance ;
-:hasConflict :Conflict_PrudenceVsHonor, :Conflict_LoyaltyToDeadVsFear .
-
-:Speech_Ismene_98_99
-a :Speech ;
-:speechBy :Antigone_Character_Ismene ;
-:containsLine :Line_098, :Line_099 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_LoyalFriendship, :Theme_SisterlyConflict ;
-:hasMotivation :Motivation_IsmeneReluctantConsent ;
-:experiencesEmotion :Emotion_IsmeneConcern ;
-:hasConflict :Conflict_PrudenceVsHonor .
-
-:Speech_Chorus_101_113
-a :Speech ;
+:Speech_Chorus_100_161 a :Speech, owl:NamedIndividual ;
 :speechBy :Antigone_Character_Chorus ;
-:containsLine :Line_101, :Line_102, :Line_103, :Line_104, :Line_105, :Line_106, :Line_107, :Line_108, :Line_109, :Line_110, :Line_111, :Line_112, :Line_113 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
-:developsTheme :Theme_DawnHope, :Theme_WarAftermath ;
-:referencesMyth :Myth_Sunlight, :Myth_ThebesSevenGates, :Myth_DirceStreams, :Myth_ArgiveArmy, :Myth_PolyneicesAttack ;
-:hasSymbol :Symbol_SunRay .
+:containsLine :Line_100, :Line_101, :Line_102, :Line_103, :Line_104, :Line_105, :Line_106, :Line_107, :Line_108, :Line_109,
+              :Line_110, :Line_111, :Line_112, :Line_113, :Line_114, :Line_115, :Line_116, :Line_117, :Line_118,
+              :Line_119, :Line_120, :Line_121, :Line_125,
+              :Line_127, :Line_128, :Line_129, :Line_130, :Line_131, :Line_132, :Line_133,
+              :Line_134, :Line_135, :Line_136, :Line_137, :Line_138, :Line_139,
+              :Line_140, :Line_141, :Line_142, :Line_143, :Line_144,
+              :Line_145, :Line_146, :Line_147,
+              :Line_148,
+              :Line_149,
+              :Line_150,
+              :Line_151,
+              :Line_152,
+              :Line_153,
+              :Line_154,
+              :Line_155,
+              :Line_156,
+              :Line_157,
+              :Line_158,
+              :Line_159,
+              :Line_160,
+              :Line_161 ;
+:partOfScene :Antigone_Scene_DialogueAndParodos_90_113, :Antigone_Scene_Parodos_StropheA_115_140_GR ;
+:developsTheme :Theme_DawnHope, :Theme_WarAftermath, :Theme_ThebanVictoryThanksgiving, :Theme_FraternalCivilWar, :Theme_PoliticalTransitionToCreon ;
+:referencesMyth :Myth_Sunlight, :Myth_ThebesSevenGates, :Myth_DirceStreams, :Myth_ArgiveArmy, :Myth_PolyneicesAttack,
+                :Myth_ArgiveEagleAssault, :Myth_SevenGates, :Myth_HephaestusFire, :Myth_AresWarClash, :Myth_DragonDefender, :Myth_ZeusLightningStrike,
+                :Myth_ZeusTropaios, :Myth_NikeVictory, :Myth_Bacchus ;
+:hasSymbol :Symbol_SunRay, :Symbol_EagleInvader, :Symbol_FireBrand, :Symbol_SevenSpears .
 
 ################################################################
 # CHARACTERS (if not already declared elsewhere)
 ################################################################
 
+# Need semantics ( Some are mentioned, thats why they are present. )
 :Antigone_Character_Antigone a :Character .
 :Antigone_Character_Ismene a :Character .
-:Antigone_Character_Chorus a :Character .
 
-################################################################
-# THEMES, MOTIVATIONS, EMOTIONS, PRINCIPLES, CONFLICTS, SYMBOLS, MYTHS
-################################################################
+:Antigone_Character_Chorus
+a owl:NamedIndividual, :Character ;
+:role "Chorus"^^xsd:string ;
+:hasMotivation :Motivation_CelebrateVictoryWithChorusDances ;
+:experiencesEmotion :Emotion_ReliefAndExultation .
+
+:Antigone_Character_Eteocles
+a owl:NamedIndividual, :Character ;
+:description "Brother of Antigone; one of the two brothers who share a common death."^^xsd:string .
+
+:Antigone_Character_Polyneices
+a owl:NamedIndividual, :Character ;
+:description "Brother of Antigone; one of the two brothers who share a common death."^^xsd:string .
+
+:Antigone_Character_Creon
+a owl:NamedIndividual, :Character ;
+:hasMotivation :Motivation_CreonConveneEldersCouncil ;
+:makesMoralDecision :MoralDecision_SummonEldersByCommonProclamation .
+
+####################################################################
+# THEMES
+#####################################################################
 
 :Theme_ImpossibleAction
 a :Theme ;
@@ -114,6 +122,51 @@ a :Theme ;
 a :Theme ;
 :description "The city’s land and people after invasion, with the enemy driven off."^^xsd:string .
 
+:Theme_InvasionThreat
+a :Theme ;
+:description "The enemy invasion is presented as a predator circling the houses and threatening the gates of Thebes."^^xsd:string .
+
+:Theme_ThebesDefense
+a :Theme ;
+:description "Seven-gated Thebes resists before the enemy can be satisfied with blood and crown her towers with fire."^^xsd:string .
+
+:Theme_WarViolence
+a :Theme ;
+:description "War is represented as noise and force, with spears, weapons, and a destructive whirl of powers."^^xsd:string .
+
+:Theme_DivineIntervention
+a :Theme ;
+:description "Divine intervention stops the invader at the moment when he is about to shout in victory."^^xsd:string .
+
+:Theme_ZeusSupremacy
+a :Theme ;
+:description "Zeus rejects arrogance and crushes the proud with fire."^^xsd:string .
+
+:Theme_ThebanVictoryThanksgiving
+a :Theme ;
+:description "Thebes celebrates victory, offers thanks to Zeus, and proposes night-long choral dances at the temples."^^xsd:string .
+
+:Theme_FraternalCivilWar
+a :Theme ;
+:description "The war ends with the exceptional tragedy of the two brothers sharing a common death by mutual spears."^^xsd:string .
+
+:Theme_PoliticalTransitionToCreon
+a :Theme ;
+:description "After the war, Creon appears as the new ruler and convenes the elders’ council by public proclamation."^^xsd:string .
+
+
+####################################################################
+# MOTIVATIONS
+#####################################################################
+
+:Motivation_CelebrateVictoryWithChorusDances
+a :Motivation ;
+:description "To set forgetfulness of the present war and visit the gods’ temples with all-night choral dances, led by Bacchus of Thebes."^^xsd:string .
+
+:Motivation_CreonConveneEldersCouncil
+a :Motivation ;
+:description "To convene the elders’ council and declare his plan publicly after new divine circumstances for the city."^^xsd:string .
+
 :Motivation_IsmeneDiscourageImpossible
 a :Motivation ;
 :description "To discourage pursuing an impossible course and warn against futile action."^^xsd:string .
@@ -130,6 +183,10 @@ a :Motivation ;
 a :Motivation ;
 :description "To allow Antigone to proceed while still judging the action unwise, remaining loyal in affection."^^xsd:string .
 
+####################################################################
+# EMOTIONS
+#####################################################################
+
 :Emotion_IsmeneConcern
 a :Emotion ;
 :description "Concern and caution toward Antigone’s plan, emphasizing limits and danger."^^xsd:string .
@@ -142,15 +199,36 @@ a :Emotion ;
 a :Emotion ;
 :description "Defiance toward discouragement and unwavering commitment to honor the dead."^^xsd:string .
 
+:Emotion_ReliefAndExultation
+a :Emotion ;
+:description "Relief and celebratory exultation after the war, invoking Victory and proposing communal thanksgiving."^^xsd:string .
+
+
+####################################################################
+# ETHICAL PRINCIPLES
+#####################################################################
 :EthicalPrinciple_HonorDead
 a :EthicalPrinciple ;
 :description "The dead must not be treated as enemies by the living; honoring them is morally required."^^xsd:string .
+
+####################################################################
+# MORAL DECISIONS
+#####################################################################
 
 :MoralDecision_DieNoblyForHonor
 a :MoralDecision ;
 :description "Decision to proceed even at cost of suffering, ensuring that death will be noble rather than shameful."^^xsd:string ;
 :relatedTo :EthicalPrinciple_HonorDead ;
 :relatedTo :Motivation_AntigoneAcceptConsequences .
+
+:MoralDecision_SummonEldersByCommonProclamation
+a :MoralDecision ;
+:description "Creon summons the elders’ assembly by sending a common proclamation."^^xsd:string .
+
+
+####################################################################
+# CONFLICTS
+#####################################################################
 
 :Conflict_PrudenceVsHonor
 a :Conflict ;
@@ -162,10 +240,40 @@ a :Conflict ;
 :description "Fearful caution about consequences conflicts with loyalty to the dead and the chosen act."^^xsd:string ;
 :conflictBetween :Emotion_IsmeneConcern, :Motivation_AntigoneAcceptConsequences .
 
+:Conflict_HubrisVsDivineOrder
+a :Conflict ;
+:description "The arrogance of the boastful tongue and the showy force of victory come into conflict with the divine order imposed by Zeus."^^xsd:string ;
+:conflictBetween :Theme_ZeusSupremacy, :Theme_InvasionThreat .
+
+:Conflict_BrothersMutualDeath
+a :Conflict ;
+:description "The two brothers, born of one father and one mother, set double spears against each other and both receive a share of a common death."^^xsd:string ;
+:conflictBetween :Antigone_Character_Eteocles, :Antigone_Character_Polyneices .
+
+
+####################################################################
+# SYMBOLS
+#####################################################################
+
 :Symbol_SunRay
 a :Symbol ;
 :description "The sunbeam/light appearing over Thebes as an emblem of renewal and victory."^^xsd:string .
 
+:Symbol_EagleInvader
+a :Symbol ;
+:description "The eagle as a symbol of an aggressive invader and predatory violence."^^xsd:string .
+
+:Symbol_SevenSpears
+a :Symbol ;
+:description "The spears around the seven-gated mouth as a symbol of siege and collective threat."^^xsd:string .
+
+:Symbol_FireBrand
+a :Symbol ;
+:description "Fire, Hephaestian or thunderbolt-like, as a symbol of destruction but also of divine punishment."^^xsd:string .
+
+####################################################################
+# MYTHS
+#####################################################################
 :Myth_Sunlight
 a :MythologicalBackground ;
 :description "Invocation of the sun’s ray and golden day as a divine/poetic force of light."^^xsd:string .
@@ -186,175 +294,29 @@ a :MythologicalBackground ;
 a :MythologicalBackground ;
 :description "Reference to Polyneices bringing an enemy to Theban land through disputed quarrels."^^xsd:string .
 
-################################################################
-# SCENE AND SPEECH STRUCTURE
-################################################################
-
-:Antigone_Scene_Parodos_StropheA_115_140_GR
-a :Scene ;
-:sceneNumber "Parodos (Strophe/Antistrophe) 115-140"^^xsd:string ;
-:hasSpeech :Speech_Chorus_Parodos_115_140_GR ;
-:developsTheme :Theme_InvasionThreat, :Theme_DivineIntervention, :Theme_WarViolence, :Theme_ZeusSupremacy, :Theme_ThebesDefense ;
-:hasConflict :Conflict_HubrisVsDivineOrder .
-
-:Speech_Chorus_Parodos_115_140_GR
-a :Speech ;
-:speechBy :Antigone_Character_Chorus ;
-:containsLine :Line_115, :Line_116, :Line_117, :Line_118, :Line_119, :Line_120, :Line_121, :Line_122, :Line_123, :Line_124,
-              :Line_125, :Line_126, :Line_127, :Line_128, :Line_129, :Line_130, :Line_131, :Line_132, :Line_133, :Line_134,
-              :Line_135, :Line_136, :Line_137, :Line_138, :Line_139, :Line_140 ;
-:partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-:referencesMyth :Myth_ArgiveEagleAssault, :Myth_SevenGates, :Myth_HephaestusFire, :Myth_AresWarClash, :Myth_DragonDefender, :Myth_ZeusLightningStrike ;
-:hasSymbol :Symbol_EagleInvader, :Symbol_FireBrand, :Symbol_SevenSpears .
-
-:Antigone_Character_Chorus a :Character .
-
-################################################################
-# THEMES, EMOTIONS, MOTIVATIONS, PRINCIPLES, CONFLICTS, MYTHS, SYMBOLS
-################################################################
-
-:Theme_InvasionThreat
-a :Theme ;
-:description "Η εχθρική εισβολή παρουσιάζεται ως αρπακτικό που κυκλώνει τα σπίτια και απειλεί τις πύλες της Θήβας."^^xsd:string .
-
-:Theme_ThebesDefense
-a :Theme ;
-:description "Η Θήβα (επτάπυλη) αντιστέκεται πριν ο εχθρός χορτάσει αίμα και στεφανώσει τους πύργους της με πυρ."^^xsd:string .
-
-:Theme_WarViolence
-a :Theme ;
-:description "Ο πόλεμος αποδίδεται ως πάταγος και ορμή, με αιχμές, όπλα και ολέθριο στροβιλισμό δυνάμεων."^^xsd:string .
-
-:Theme_DivineIntervention
-a :Theme ;
-:description "Η θεϊκή επέμβαση ανακόπτει τον εισβολέα τη στιγμή που πάει να αλαλάξει τη νίκη."^^xsd:string .
-
-:Theme_ZeusSupremacy
-a :Theme ;
-:description "Ο Δίας αποστρέφεται την αλαζονεία και συντρίβει τους υπερόπτες με πυρ."^^xsd:string .
-
-:Conflict_HubrisVsDivineOrder
-a :Conflict ;
-:description "Η αλαζονεία της μεγάλης γλώσσας και η επιδεικτική ορμή της νίκης συγκρούονται με τη θεϊκή τάξη που επιβάλλει ο Δίας."^^xsd:string ;
-:conflictBetween :Theme_ZeusSupremacy, :Theme_InvasionThreat .
-
 :Myth_ArgiveEagleAssault
 a :MythologicalBackground ;
-:description "Ο εχθρός παρομοιάζεται με αετό που υπερίπταται με λευκή πτέρυγα και πολλά όπλα, έτοιμος να αρπάξει τη Θήβα."^^xsd:string .
+:description "The enemy is compared to an eagle flying above with white wings and many weapons, ready to seize Thebes."^^xsd:string .
 
 :Myth_SevenGates
 a :MythologicalBackground ;
-:description "Αναφορά στο 'ἑπτάπυλον στόμα' της Θήβας και στις λόγχες που το κυκλώνουν."^^xsd:string .
+:description "Reference to the 'seven-gated mouth' of Thebes and to the spears surrounding it."^^xsd:string .
 
 :Myth_HephaestusFire
 a :MythologicalBackground ;
-:description "Ηφαιστείος πυρ (πευκάενθ Ἥφαιστον) ως απειλή εμπρησμού/στεφάνωσης των πύργων."^^xsd:string .
+:description "Hephaestian fire as a threat of burning and crowning the towers with flame."^^xsd:string .
 
 :Myth_AresWarClash
 a :MythologicalBackground ;
-:description "Ο πάταγος του Άρεως τεντώνεται γύρω από τις ράχες, με τον Άρη να στροβιλίζει τη σύγκρουση."^^xsd:string .
+:description "The clash of Ares stretches around the ridges, with Ares whirling the conflict."^^xsd:string .
 
 :Myth_DragonDefender
 a :MythologicalBackground ;
-:description "Ο 'δράκων' ως αντίπαλος αμυντικός πόλος (θηβαϊκό/χθόνιο σύμβολο) στον πολεμικό αγώνα."^^xsd:string .
+:description "The 'dragon' as an opposing defensive force, a Theban or chthonic symbol, within the struggle of war."^^xsd:string .
 
 :Myth_ZeusLightningStrike
 a :MythologicalBackground ;
-:description "Ο Δίας, μισώντας τους κόμπους μεγάλης γλώσσας, ρίχνει πυρ επάνω στον υπερόπτη την ώρα της επερχόμενης νίκης."^^xsd:string .
-
-:Symbol_EagleInvader
-a :Symbol ;
-:description "Ο αετός ως σύμβολο επιθετικού εισβολέα και αρπακτικής βίας."^^xsd:string .
-
-:Symbol_SevenSpears
-a :Symbol ;
-:description "Οι λόγχες γύρω από το επτάπυλο στόμα ως σύμβολο πολιορκίας και συλλογικής απειλής."^^xsd:string .
-
-:Symbol_FireBrand
-a :Symbol ;
-:description "Το πυρ (Ηφαιστείος/κεραυνικός) ως σύμβολο καταστροφής αλλά και θεϊκής τιμωρίας."^^xsd:string .
-
-################################################################
-
-# SCENE AND SPEECH STRUCTURE
-
-################################################################
-
-:Antigone_Scene_Parodos_AntistropheB_141_162
-a owl:NamedIndividual, :Scene ;
-:sceneNumber "Parodos.AntistropheB"^^xsd:string ;
-:hasSpeech :Speech_Chorus_141_162 ;
-:developsTheme :Theme_ThebanVictoryThanksgiving, :Theme_FraternalCivilWar, :Theme_PoliticalTransitionToCreon ;
-:hasConflict :Conflict_BrothersMutualDeath .
-
-:Speech_Chorus_141_162
-a owl:NamedIndividual, :Speech ;
-:speechBy :Antigone_Character_Chorus ;
-:containsLine
-:Line_141, :Line_142, :Line_143, :Line_144, :Line_145, :Line_146, :Line_147, :Line_148,
-:Line_149, :Line_150, :Line_151, :Line_152, :Line_153, :Line_154, :Line_155, :Line_156,
-:Line_157, :Line_158, :Line_159, :Line_160, :Line_161, :Line_162 ;
-:referencesMyth :Myth_ZeusTropaios, :Myth_NikeVictory, :Myth_Bacchus ;
-:developsTheme :Theme_ThebanVictoryThanksgiving, :Theme_FraternalCivilWar, :Theme_PoliticalTransitionToCreon .
-
-################################################################
-
-# CHARACTERS
-
-################################################################
-
-:Antigone_Character_Chorus
-a owl:NamedIndividual, :Character ;
-:role "Chorus"^^xsd:string ;
-:hasMotivation :Motivation_CelebrateVictoryWithChorusDances ;
-:experiencesEmotion :Emotion_ReliefAndExultation .
-
-:Antigone_Character_Eteocles
-a owl:NamedIndividual, :Character ;
-:description "Brother of Antigone; one of the two brothers who share a common death."^^xsd:string .
-
-:Antigone_Character_Polyneices
-a owl:NamedIndividual, :Character ;
-:description "Brother of Antigone; one of the two brothers who share a common death."^^xsd:string .
-
-:Antigone_Character_Creon
-a owl:NamedIndividual, :Character ;
-:hasMotivation :Motivation_CreonConveneEldersCouncil ;
-:makesMoralDecision :MoralDecision_SummonEldersByCommonProclamation .
-
-################################################################
-
-# THEMES, MOTIVATIONS, EMOTIONS, MYTHS, CONFLICTS, EVENTS
-
-################################################################
-
-:Theme_ThebanVictoryThanksgiving
-a :Theme ;
-:description "Thebes celebrates victory, offers thanks to Zeus, and proposes night-long choral dances at the temples."^^xsd:string .
-
-:Theme_FraternalCivilWar
-a :Theme ;
-:description "The war ends with the exceptional tragedy of the two brothers sharing a common death by mutual spears."^^xsd:string .
-
-:Theme_PoliticalTransitionToCreon
-a :Theme ;
-:description "After the war, Creon appears as the new ruler and convenes the elders’ council by public proclamation."^^xsd:string .
-
-:Motivation_CelebrateVictoryWithChorusDances
-a :Motivation ;
-:description "To set forgetfulness of the present war and visit the gods’ temples with all-night choral dances, led by Bacchus of Thebes."^^xsd:string .
-
-:Motivation_CreonConveneEldersCouncil
-a :Motivation ;
-:description "To convene the elders’ council and declare his plan publicly after new divine circumstances for the city."^^xsd:string .
-
-:MoralDecision_SummonEldersByCommonProclamation
-a :MoralDecision ;
-:description "Creon summons the elders’ assembly by sending a common proclamation."^^xsd:string .
-
-:Emotion_ReliefAndExultation
-a :Emotion ;
-:description "Relief and celebratory exultation after the war, invoking Victory and proposing communal thanksgiving."^^xsd:string .
+:description "Zeus, hating the boasts of a proud tongue, throws fire upon the arrogant man at the moment of approaching victory."^^xsd:string .
 
 :Myth_ZeusTropaios
 a :MythologicalBackground ;
@@ -368,10 +330,9 @@ a :MythologicalBackground ;
 a :MythologicalBackground ;
 :description "Bacchus (Dionysus) as leader of Theban celebration and dance."^^xsd:string .
 
-:Conflict_BrothersMutualDeath
-a :Conflict ;
-:description "The two brothers, born of one father and one mother, set double spears against each other and both receive a share of a common death."^^xsd:string ;
-:conflictBetween :Antigone_Character_Eteocles, :Antigone_Character_Polyneices .
+####################################################################
+# EVENTS 
+#####################################################################
 
 :Event_VictoryArrivesAtThebes
 a owl:NamedIndividual, owl:Thing ;

@@ -13,18 +13,20 @@
     :text "on my last journey, as I gaze upon my last sunlight,"^^xsd:string ;
     :relatedTo :Line_807 .
 
+# Line 808, 809 do not exist in Antigone
 :TV_Line_810_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "But Hades, who puts all to sleep, leads me, still living,"^^xsd:string ;
+    :text "and never again; but Hades, who puts all to sleep, leads me, still living,"^^xsd:string ;
     :relatedTo :Line_810 .
 
 :TV_Line_811_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "To Acheron’s shore, without the bridal song"^^xsd:string ;
+    :text "To Acheron’s"^^xsd:string ;
     :relatedTo :Line_811 .
 
 :TV_Line_812_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Which I was due."^^xsd:string ;
+    :text "shore, without any share in bridal songs or wedding rites,"^^xsd:string ;
     :relatedTo :Line_812 .
 
+# Line 813, 814 do not exist in Antigone
 :TV_Line_815_en a owl:NamedIndividual, :TranslationVariant ;
     :text "No song has been sung for me at my marriage, but instead I shall wed Acheron."^^xsd:string ;
     :relatedTo :Line_815 .
@@ -50,5 +52,5 @@
     :relatedTo :Line_821 .
 
 :TV_Line_822_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You attain for yourself the Death of mortals."^^xsd:string ;
+    :text "you will go down to Hades, alone among mortals."^^xsd:string ;
     :relatedTo :Line_822 .

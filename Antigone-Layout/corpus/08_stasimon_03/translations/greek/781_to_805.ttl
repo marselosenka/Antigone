@@ -12,6 +12,8 @@
     :text "που διανυκτερεύεις στα τρυφερά μάγουλα μιας νέας,"^^xsd:string ;
     :relatedTo :Line_782 .
 
+# Line 873 and 874 do not exist in Antigone 
+
 :TV_Line_785_gr a :TranslationVariant ;
     :text "που τριγυρνάς και πέρα από τη θάλασσα και στις αγροτικές αυλές·"^^xsd:string ;
     :relatedTo :Line_785 .
@@ -19,6 +21,8 @@
 :TV_Line_786_gr a :TranslationVariant ;
     :text "κι από σένα δεν ξεφεύγει κανείς, ούτε από τους αθάνατους"^^xsd:string ;
     :relatedTo :Line_786 .
+
+# Line 787 788 and 789 do not exist in Antigone 
 
 :TV_Line_790_gr a :TranslationVariant ;
     :text "ούτε από τους πρόσκαιρους ανθρώπους· κι όποιον πιάσεις, παραφρονεί."^^xsd:string ;
@@ -32,6 +36,8 @@
     :text "κι εσύ έχεις ταράξει κι αυτή τη συγγενική έριδα των αντρών·"^^xsd:string ;
     :relatedTo :Line_792 .
 
+# Line 793 and 794 do not exist in Antigone 
+
 :TV_Line_795_gr a :TranslationVariant ;
     :text "μα νικά ο φανερός πόθος στα μάτια της καλοκρέβατης"^^xsd:string ;
     :relatedTo :Line_795 .
@@ -39,6 +45,8 @@
 :TV_Line_796_gr a :TranslationVariant ;
     :text "νύφης, σύνθρονος στην εξουσία των μεγάλων"^^xsd:string ;
     :relatedTo :Line_796 .
+
+# Line 797,798 and 799 do not exist in Antigone 
 
 :TV_Line_800_gr a :TranslationVariant ;
     :text "νόμων· γιατί ανίκητη παίζει μαζί μας η θεά Αφροδίτη."^^xsd:string ;

@@ -4,6 +4,16 @@
 
 :parodos-structure a owl:Ontology .
 
+####################################################################
+# ANTIGONE - PARODOS SCENE
+# Lines 100-161 
+#####################################################################
+
+
+
+####################################################################
+# LINES
+#####################################################################
 
 # --- 100 ---
 :Line_100 a :Line ;
@@ -168,17 +178,17 @@
     :hasTheme :Theme_InvasionThreat ;
     :hasSymbol :Symbol_EagleInvader ;
     :referencesMyth :Myth_ArgiveEagleAssault ;
-    :text "Στὰς δ᾽ ὑπὲρ μελάθρων φονώσασιν"^^xsd:string .
+    :text "Στὰς δ᾽ ὑπὲρ μελάθρων φονώσασιν ἀμφιχανὼν κύκλῳ"^^xsd:string .
 
 # --- 118 ---
 :Line_118 a :Line ;
     :lineNumber 118 ;
     :canonicalReference "118"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_InvasionThreat ;
-    :hasSymbol :Symbol_EagleInvader ;
-    :referencesMyth :Myth_ArgiveEagleAssault ;
-    :text "ἀμφιχανὼν κύκλῳ"^^xsd:string .
+    :hasTheme :Theme_ThebesDefense ;
+    :hasSymbol :Symbol_SevenSpears, :Symbol_EagleInvader ;
+    :referencesMyth :Myth_SevenGates ;
+    :text "λόγχαις ἑπτάπυλον στόμα"^^xsd:string .
 
 # --- 119 ---
 :Line_119 a :Line ;
@@ -186,19 +196,19 @@
     :canonicalReference "119"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_ThebesDefense ;
-    :hasSymbol :Symbol_SevenSpears, :Symbol_EagleInvader ;
+    :hasSymbol :Symbol_EagleInvader ;
     :referencesMyth :Myth_SevenGates ;
-    :text "λόγχαις ἑπτάπυλον στόμα"^^xsd:string .
+    :text "ἔβα, πρὶν ποθ᾽ ἁμετέρων"^^xsd:string .
 
 # --- 120 ---
 :Line_120 a :Line ;
     :lineNumber 120 ;
     :canonicalReference "120"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ThebesDefense ;
-    :hasSymbol :Symbol_EagleInvader ;
+    :hasTheme :Theme_WarViolence, :Theme_ThebesDefense ;
+    :hasSymbol :Symbol_SevenSpears ;
     :referencesMyth :Myth_SevenGates ;
-    :text "ἔβα, πρὶν ποθ᾽ ἁμετέρων"^^xsd:string .
+    :text "αἱμάτων γένυσιν πλησθῆναι τε καὶ στεφάνωμα πύργων "^^xsd:string .
 
 # --- 121 ---
 :Line_121 a :Line ;
@@ -206,37 +216,11 @@
     :canonicalReference "121"^^xsd:string ;
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_WarViolence ;
-    :hasSymbol :Symbol_SevenSpears ;
-    :referencesMyth :Myth_SevenGates ;
-    :text "αἱμάτων γένυσιν πλησθῆναι"^^xsd:string .
-
-# --- 122 ---
-:Line_122 a :Line ;
-    :lineNumber 122 ;
-    :canonicalReference "122"^^xsd:string ;
-    :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_ThebesDefense ;
-    :referencesMyth :Myth_SevenGates ;
-    :text "τε καὶ στεφάνωμα πύργων"^^xsd:string .
-
-# --- 123 ---
-:Line_123 a :Line ;
-    :lineNumber 123 ;
-    :canonicalReference "123"^^xsd:string ;
-    :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ;
     :hasSymbol :Symbol_FireBrand ;
-    :referencesMyth :Myth_HephaestusFire ;
-    :text "πευκάενθ᾽ Ἥφαιστον ἑλεῖν ."^^xsd:string .
+    :referencesMyth :Myth_HephaestusFire, :Myth_AresWarClash, :Myth_SevenGates ;
+    :text "πευκάενθ᾽ Ἥφαιστον ἑλεῖν. Τοῖος ἀμφὶ νῶτ᾽ ἐτάθη"^^xsd:string .
 
-# --- 124 ---
-:Line_124 a :Line ;
-    :lineNumber 124 ;
-    :canonicalReference "124"^^xsd:string ;
-    :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ;
-    :referencesMyth :Myth_AresWarClash, :Myth_SevenGates ;
-    :text "Τοῖος ἀμφὶ νῶτ᾽ ἐτάθη"^^xsd:string .
+# Line 122, 123 and 124 do not exist in Antigone.
 
 # --- 125 ---
 :Line_125 a :Line ;
@@ -245,17 +229,10 @@
     :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
     :hasTheme :Theme_WarViolence ;
     :hasSymbol :Symbol_FireBrand ;
-    :referencesMyth :Myth_AresWarClash, :Myth_HephaestusFire ;
-    :text "πάταγος Ἄρεος, ἀντιπάλου"^^xsd:string .
+    :referencesMyth :Myth_AresWarClash, :Myth_DragonDefender, :Myth_HephaestusFire ;
+    :text "πάταγος Ἄρεος, ἀντιπάλου δυσχείρωμα δράκοντος ."^^xsd:string .
 
-# --- 126 ---
-:Line_126 a :Line ;
-    :lineNumber 126 ;
-    :canonicalReference "126"^^xsd:string ;
-    :partOfScene :Antigone_Scene_Parodos_StropheA_115_140_GR ;
-    :hasTheme :Theme_WarViolence ;
-    :referencesMyth :Myth_DragonDefender, :Myth_AresWarClash ;
-    :text "δυσχείρωμα δράκοντος ."^^xsd:string .
+# Line 126 does not exist in Antigone. 
 
 # --- 127 ---
 :Line_127 a :Line ;

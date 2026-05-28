@@ -5,27 +5,31 @@
 :episode_04-translations-806-822-greek a owl:Ontology .
 
 :TV_Line_806_gr a :TranslationVariant ;
-    :text "Δείτε με, πολίτες της πατρικής μου γης, να βαδίζω την τελευταία οδό"^^xsd:string ;
+    :text "Δείτε με, πολίτες της πατρικής μου γης, να βαδίζω την τελευταία μου οδό"^^xsd:string ;
     :relatedTo :Line_806 .
 
 :TV_Line_807_gr a :TranslationVariant ;
     :text "και να κοιτάζω το τελευταίο φως του ήλιου,"^^xsd:string ;
     :relatedTo :Line_807 .
 
+# Line 808, 809 do not exist in Antigone
+
 :TV_Line_810_gr a :TranslationVariant ;
     :text "ποτέ πια ξανά· αλλά ο Άδης που όλους κοιμίζει με οδηγεί ζωντανή"^^xsd:string ;
     :relatedTo :Line_810 .
 
 :TV_Line_811_gr a :TranslationVariant ;
-    :text "στην ακτή"^^xsd:string ;
+    :text "προς του Αχέροντα"^^xsd:string ;
     :relatedTo :Line_811 .
 
 :TV_Line_812_gr a :TranslationVariant ;
-    :text "του Αχέροντα, χωρίς μερίδιο σε γαμήλιο ύμνο, ούτε σε νυφικό κρεβάτι."^^xsd:string ;
+    :text "την ακτή, χωρίς μερίδιο σε γαμήλιους ύμνους, ούτε σε νυφικά τελετουργικά."^^xsd:string ;
     :relatedTo :Line_812 .
 
+# Line 813, 814 do not exist in Antigone
+
 :TV_Line_815_gr a :TranslationVariant ;
-    :text "Κανένας ύμνος δεν υμνήθηκε ποτέ για μένα στους γάμους· τον Αχέροντα θα νυμφευτώ."^^xsd:string ;
+    :text "Κανένας ύμνος δεν τραγουδήθηκε ποτέ για μένα στους γάμους· τον Αχέροντα θα νυμφευτώ."^^xsd:string ;
     :relatedTo :Line_815 .
 
 :TV_Line_817_gr a :TranslationVariant ;
@@ -33,7 +37,7 @@
     :relatedTo :Line_817 .
 
 :TV_Line_818_gr a :TranslationVariant ;
-    :text "πηγαίνεις σε αυτό το βάθος των νεκρών,"^^xsd:string ;
+    :text "πηγαίνεις σε αυτό το κρυφό βάθος των νεκρών,"^^xsd:string ;
     :relatedTo :Line_818 .
 
 :TV_Line_819_gr a :TranslationVariant ;
@@ -49,6 +53,6 @@
     :relatedTo :Line_821 .
 
 :TV_Line_822_gr a :TranslationVariant ;
-    :text "θα κατεβείς στον Άδη όπως κανένας θνητός."^^xsd:string ;
+    :text "μόνη από τους θνητούς θα κατεβείς στον Άδη."^^xsd:string ;
     :relatedTo :Line_822 .
 

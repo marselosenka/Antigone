@@ -6,11 +6,11 @@
 # English translation variants extracted from 966_to_987.ttl
 
 :TV_Line_966_en a :TranslationVariant ;
-:text "Beside the dark-blue rocks of the sea,"^^xsd:string ;
+:text "Beside the dark-blue rocks, by the twin sea"^^xsd:string ;
 :relatedTo :Line_966 .
 
 :TV_Line_967_en a :TranslationVariant ;
-:text "The twin Bosporian coasts and the Thracian shore,"^^xsd:string ;
+:text "are the Bosporian coasts and the Thracian shore,"^^xsd:string ;
 :relatedTo :Line_967 .
 
 :TV_Line_970_en a :TranslationVariant ;
@@ -18,11 +18,11 @@
 :relatedTo :Line_970 .
 
 :TV_Line_971_en a :TranslationVariant ;
-:text "Saw for the two sons of Phineus"^^xsd:string ;
+:text "for the two sons of Phineus"^^xsd:string ;
 :relatedTo :Line_971 .
 
 :TV_Line_972_en a :TranslationVariant ;
-:text "The accursed wound,"^^xsd:string ;
+:text "saw the accursed wound,"^^xsd:string ;
 :relatedTo :Line_972 .
 
 :TV_Line_973_en a :TranslationVariant ;

@@ -5,7 +5,7 @@
 :episode_04-translations-823-871-greek a owl:Ontology .
 
 :TV_Line_823_gr a :TranslationVariant ;
-    :text "Άκουσα πως πολύ θλιβερά χάθηκε η ξένη Φρυγία,"^^xsd:string ;
+    :text "Άκουσα πως πολύ θλιβερά χάθηκε η Φρυγία ξένη,"^^xsd:string ;
     :relatedTo :Line_823 .
 
 :TV_Line_825_gr a :TranslationVariant ;
@@ -17,16 +17,20 @@
     :relatedTo :Line_826 .
 
 :TV_Line_827_gr a :TranslationVariant ;
-    :text "κι εκείνη, όπως λένε οι άνθρωποι, λιώνει,"^^xsd:string ;
+    :text "όπως λένε οι άνθρωποι,"^^xsd:string ;
     :relatedTo :Line_827 .
 
+# Line 828 and 829 do not exist in Antigone.
+
 :TV_Line_830_gr a :TranslationVariant ;
-    :text "κι ούτε βροχή ούτε χιόνι την αφήνουν· με παντοτινά δάκρυα"^^xsd:string ;
+    :text "και το χιόνι ποτέ δεν την αφήνει· κάτω από τα γεμάτα δάκρυα φρύδια της βρέχει"^^xsd:string ;
     :relatedTo :Line_830 .
 
 :TV_Line_831_gr a :TranslationVariant ;
-    :text "βρέχει τις πλαγιές. Σε όμοιο ύπνο κι εμένα με πλαγιάζει ο δαίμονας."^^xsd:string ;
+    :text "τις πλαγιές· τόσο όμοια με εκείνη με πλαγιάζει κι εμένα ο δαίμονας."^^xsd:string ;
     :relatedTo :Line_831 .
+
+# Line 832 and 833 do not exist in Antigone.
 
 :TV_Line_834_gr a :TranslationVariant ;
     :text "μα εκείνη ήταν θεά και θεογέννητη,"^^xsd:string ;
@@ -64,6 +68,8 @@
     :text "ω πηγές της Δίρκης,"^^xsd:string ;
     :relatedTo :Line_842 .
 
+# Line 843 and 844 do not exist in Antigone
+
 :TV_Line_845_gr a :TranslationVariant ;
     :text "και άλσος της Θήβας με τα άρματα, εσάς τουλάχιστον σας παίρνω μάρτυρες,"^^xsd:string ;
     :relatedTo :Line_845 .
@@ -73,16 +79,20 @@
     :relatedTo :Line_846 .
 
 :TV_Line_847_gr a :TranslationVariant ;
-    :text "πηγαίνω στο χωστοφραγμένο φράγμα του τάφου, στον πρωτόγνωρο τάφο."^^xsd:string ;
+    :text "πηγαίνω στο χωμάτινο φράγμα του παράξενου τάφου μου."^^xsd:string ;
     :relatedTo :Line_847 .
 
+# Line 848 and 849 do not exist in Antigone.
+
 :TV_Line_850_gr a :TranslationVariant ;
-    :text "ούτε με τους νεκρούς κατοικώ ως νεκρή"^^xsd:string ;
+    :text "οούτε νεκρή ανάμεσα στους νεκρούς"^^xsd:string ;
     :relatedTo :Line_850 .
 
 :TV_Line_851_gr a :TranslationVariant ;
     :text "ούτε με τους ζωντανούς, ούτε με τους πεθαμένους."^^xsd:string ;
     :relatedTo :Line_851 .
+
+# Line 852 do not exist in Antigone.
 
 :TV_Line_853_gr a :TranslationVariant ;
     :text "προχώρησες στο έσχατο όριο του θράσους,"^^xsd:string ;
@@ -97,15 +107,16 @@
     :relatedTo :Line_855 .
 
 :TV_Line_856_gr a :TranslationVariant ;
-    :text "πληρώνεις κάποιο πατρικό χρέος."^^xsd:string ;
+    :text "πληρώνεις κάποιο πατρικό τίμημα."^^xsd:string ;
     :relatedTo :Line_856 .
 
+# Line 857 does not exist in Antigone.
 :TV_Line_858_gr a :TranslationVariant ;
     :text "άγγιξες την πιο πικρή μου μέριμνα,"^^xsd:string ;
     :relatedTo :Line_858 .
 
 :TV_Line_859_gr a :TranslationVariant ;
-    :text "τον τριπλά θρηνημένο οίκτο του πατέρα"^^xsd:string ;
+    :text "τον τριπλά θρηνημένο πόνο του πατέρα"^^xsd:string ;
     :relatedTo :Line_859 .
 
 :TV_Line_860_gr a :TranslationVariant ;
@@ -116,8 +127,10 @@
     :text "αχ, των μητρικών γάμων"^^xsd:string ;
     :relatedTo :Line_861 .
 
+# Lines 862,863 and 864 do not exist in Antigone.
+
 :TV_Line_865_gr a :TranslationVariant ;
-    :text "οι συμφορές, και η αιμομικτική ένωση του πατέρα μου με τη δύσμοιρη μητέρα του,"^^xsd:string ;
+    :text "οι συμφορές και οι αυτογέννητες ενώσεις του πατέρα μου με τη δύσμοιρη μητέρα του,"^^xsd:string ;
     :relatedTo :Line_865 .
 
 :TV_Line_866_gr a :TranslationVariant ;
@@ -128,11 +141,13 @@
     :text "σε αυτούς πηγαίνω, καταραμένη, ανύπαντρη, να κατοικήσω."^^xsd:string ;
     :relatedTo :Line_867 .
 
+# Line 868 and 869 do not exist in Antigone.
+
 :TV_Line_870_gr a :TranslationVariant ;
     :text "αδελφέ μου, που έλαχες δυστυχισμένο γάμο,"^^xsd:string ;
     :relatedTo :Line_870 .
 
 :TV_Line_871_gr a :TranslationVariant ;
-    :text "πεθαμένος ακόμα με σκότωσες ενώ ζω."^^xsd:string ;
+    :text "πεθαίνοντας, με σκότωσες ενώ ακόμη ζω."^^xsd:string ;
     :relatedTo :Line_871 .
 

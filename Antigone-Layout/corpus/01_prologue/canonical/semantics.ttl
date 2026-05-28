@@ -1,17 +1,91 @@
 @prefix : <http://example.org/antigone#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
 # ==========================
-# Ancient Greek [ 1 - 19 ]
+# CHARACTERS
 # ==========================
+
 :Antigone_Character_Antigone
-a :Character ;
-:hasMotivation :Motivation_SeekNewsAndDecree, :Motivation_PrivateDisclosure ;
-:experiencesEmotion :Emotion_Anxiety, :Emotion_Lamentation .
+    a :Character ;
+    :hasMotivation 
+        :Motivation_SeekNewsAndDecree,
+        :Motivation_UpholdBurialRites,
+        :Motivation_SeekIsmeneCooperation,
+        :Motivation_PrivateDisclosure,
+        :Motivation_BuryBrother,
+        :Motivation_RefuseBetrayal,
+        :Motivation_BuryBrotherDespiteRisk,
+        :Motivation_PleaseUnderworld,
+        :Motivation_PublicWitnessForJustice ;
+    :makesMoralDecision 
+        :MoralDecision_DefyCreonEdict,
+        :MoralDecision_DefyEdictForBurial,
+        :MoralDecision_BuryBrotherAndAcceptDeath ;
+    :advocatesFor 
+        :EthicalPrinciple_BurialRites,
+        :EthicalPrinciple_DivineHonorForDead ;
+    :relatedTo 
+        :Law_CreonBurialEdict,
+        :Law_CivicBurialBan,
+        :EthicalPrinciple_DivineHonorForDead ;
+    :experiencesEmotion 
+        :Emotion_Anxiety,
+        :Emotion_Lamentation,
+        :Emotion_Indignation,
+        :Emotion_Urgency, # Cant find where this is...
+        :Emotion_Resolve,
+        :Emotion_Defiance,
+        :Emotion_ReverentDuty,
+        :Emotion_DefiantCourage,
+        :Emotion_ContemptForSilence .
 
 :Antigone_Character_Ismene
-a :Character ;
-:experiencesEmotion :Emotion_Uncertainty, :Emotion_Grief .
+    a :Character ;
+    :hasMotivation 
+        :Motivation_AvoidDefyingTyrant,
+        :Motivation_ProtectSister,
+        :Motivation_ObeyAuthorities,
+        :Motivation_AvoidForcedAction,
+        :Motivation_KeepPlanSecret,
+        :Motivation_ProtectAntigone ;
+    :makesMoralDecision 
+        :MoralDecision_UrgePrudence,
+        :MoralDecision_SubmitToRulers,
+        :MoralDecision_RequestSecrecy ;
+    :experiencesEmotion 
+        :Emotion_Uncertainty,
+        :Emotion_Concern,
+        :Emotion_Fear,
+        :Emotion_Alarm,
+        :Emotion_Grief,
+        :Emotion_Hesitation,
+        :Emotion_Resignation,
+        :Emotion_FearForAntigone,
+        :Emotion_Anxiety,
+        :Emotion_WarmHeartedConcern ;
+    :relatedTo 
+        :Law_CreonBurialEdict,
+        :Law_CivicBurialBan .
+
+# Referenced , not present.
+:Antigone_Character_Creon 
+    a :Character .
+:Antigone_Character_Eteocles 
+    a :Character .
+:Antigone_Character_Polyneices 
+    a :Character .
+
+# ALSO THOSE NEED MERGE
+
+
+:Antigone_Character_Brother a :Character ;
+:description "The brother to be buried (Polyneices implied but not named in this passage)."^^xsd:string .
+
+
+####################################################################
+# SPEECHES OF THE PROLOGUE 
+#####################################################################
 
 :Speech_Antigone_1_10
 a :Speech ;
@@ -31,101 +105,6 @@ a :Speech ;
 :speechBy :Antigone_Character_Antigone ;
 :containsLine :Line_018, :Line_019 ;
 :developsTheme :Theme_SecrecyAndTrust .
-
-:Motivation_SeekNewsAndDecree
-a :Motivation ;
-:description "Antigone seeks Ismene�s knowledge about the newly proclaimed civic edict and the harms advancing from enemies toward their loved ones."^^xsd:string .
-
-:Motivation_PrivateDisclosure
-a :Motivation ;
-:description "Antigone sends Ismene outside the courtyard gates so that Ismene alone will hear what Antigone intends to say."^^xsd:string .
-
-:Emotion_Lamentation
-a :Emotion ;
-:description "Antigone laments the inherited evils of Oedipus and the shameful, painful suffering already endured."^^xsd:string .
-
-:Emotion_Anxiety
-a :Emotion ;
-:description "Antigone is anxious about the fresh public proclamation and the ongoing threat from enemies."^^xsd:string .
-
-:Emotion_Grief
-a :Emotion ;
-:description "Ismene expresses grief tied to the loss of both brothers on a single day."^^xsd:string .
-
-:Emotion_Uncertainty
-a :Emotion ;
-:description "Ismene reports having no further knowledge and not knowing whether her condition is improving or worsening."^^xsd:string .
-
-:Theme_FateOfOedipusLine
-a :Theme ;
-:description "The continuing evils inherited from Oedipus, presented as still being fulfilled upon his children while they live."^^xsd:string .
-
-:Theme_FamilySuffering
-a :Theme ;
-:description "The sisters� shared experience of pain, ruin, shame, and dishonor."^^xsd:string .
-
-:Theme_PoliticalDecreeThreat
-a :Theme ;
-:description "A newly established public proclamation by the general becomes a looming force over the city and the family."^^xsd:string .
-
-:Theme_EnemiesHarm
-a :Theme ;
-:description "Evils coming from enemies are portrayed as advancing even toward one�s loved ones."^^xsd:string .
-
-:Theme_SecrecyAndTrust
-a :Theme ;
-:description "Private communication and trust between sisters, ensured by speaking outside the courtyard gates so only one hears."^^xsd:string .
-
-:Theme_SiblingLoss
-a :Theme ;
-:description "The mutual killing of the two brothers, leaving the sisters deprived."^^xsd:string .
-
-:Theme_UncertainFuture
-a :Theme ;
-:description "Uncertainty about what comes next after the Argive host has vanished overnight."^^xsd:string .
-
-:Conflict_FriendsVsEnemiesEvils
-a :Conflict ;
-:description "Antigone contrasts harms advancing from enemies toward loved ones, framing an opposition between ????? and ??????."^^xsd:string ;
-:conflictBetween :Theme_EnemiesHarm, :Theme_SecrecyAndTrust .
-
-:Myth_Zeus
-a :MythologicalBackground ;
-:description "Reference to Zeus as the divine power who brings to completion the evils stemming from Oedipus."^^xsd:string .
-
-:Myth_OedipusTroubles
-a :MythologicalBackground ;
-:description "Reference to the evils of Oedipus as a continuing source of suffering for his children."^^xsd:string .
-
-:Event_BrothersMutualDeath
-a owl:Thing ;
-:description "The two brothers died on the same day by a double hand, depriving the sisters."^^xsd:string .
-
-:Event_ArgiveHostGone
-a owl:Thing ;
-:description "The Argive army is gone in the present night."^^xsd:string .
-
-:Event_BrothersMutualDeath
-:relatedTo :Event_ArgiveHostGone .
-
-# ==========================
-# Ancient Greek [ 20 - 41 ]
-# ==========================
-
-:Antigone_Character_Antigone
-a :Character ;
-:hasMotivation :Motivation_UpholdBurialRites, :Motivation_SeekIsmeneCooperation ;
-:makesMoralDecision :MoralDecision_DefyCreonEdict ;
-:advocatesFor :EthicalPrinciple_BurialRites ;
-:experiencesEmotion :Emotion_Indignation, :Emotion_Urgency .
-
-:Antigone_Character_Ismene
-a :Character ;
-:experiencesEmotion :Emotion_Concern, :Emotion_Hesitation .
-
-:Antigone_Character_Creon a :Character .
-:Antigone_Character_Eteocles a :Character .
-:Antigone_Character_Polyneices a :Character .
 
 :Speech_Ismene_20
 a :Speech ;
@@ -156,172 +135,6 @@ a :Speech ;
 :partOfScene :Antigone_Scene_Dialogue_20_41 ;
 :developsTheme :Theme_FamilyDuty ;
 :hasMotivation :Motivation_SeekIsmeneCooperation .
-
-:Law_CreonBurialEdict
-a :Law ;
-:description "Creon proclaims that Polyneices must not be mourned or buried; violation is punished by public stoning."^^xsd:string .
-
-:EthicalPrinciple_BurialRites
-a :EthicalPrinciple ;
-:description "The dead deserve burial and the formal rites and customs owed to them."^^xsd:string .
-
-:Motivation_UpholdBurialRites
-a :Motivation ;
-:description "Antigone seeks to uphold the burial rite denied by Creon’s proclamation."^^xsd:string .
-
-:Motivation_SeekIsmeneHelp
-a :Motivation ;
-:description "Antigone asks Ismene to help her in response to Creon’s prohibition concerning Polyneices."^^xsd:string .
-
-:Emotion_Turmoil
-a :Emotion ;
-:description "Ismene perceives a storm-like inner disturbance in Antigone."^^xsd:string .
-
-:Emotion_Indignation
-a :Emotion ;
-:description "Antigone reacts with outraged insistence at the unequal burial honor and the denial of rites."^^xsd:string .
-
-:Emotion_Concern
-a :Emotion ;
-:description "Ismene responds with worry for Antigone ('poor sister') upon hearing the decree."^^xsd:string .
-
-:Emotion_Fear
-a :Emotion ;
-:description "Ismene questions the point of meddling, implying fear of consequences."^^xsd:string .
-
-:Theme_BurialRites
-a :Theme ;
-:description "Proper burial and mourning are treated as essential obligations, denied to Polyneices."^^xsd:string .
-
-:Theme_StateLaw
-a :Theme ;
-:description "A civic proclamation by Creon asserts state authority over burial and mourning."^^xsd:string .
-
-:Theme_PunishmentThreat
-a :Theme ;
-:description "The decree is backed by severe public punishment (stoning) for transgression."^^xsd:string .
-
-:Theme_FamilyDuty
-a :Theme ;
-:description "Sisterly loyalty and ancestral virtue are invoked as a test of whether Ismene will help."^^xsd:string .
-
-:Theme_EmotionalTurmoil
-a :Theme ;
-:description "The opening exchange frames the conflict as emotional agitation and urgency."^^xsd:string .
-
-:Theme_Prudence
-a :Theme ;
-:description "Ismene questions intervention as potentially pointless, signaling caution."^^xsd:string .
-
-:Theme_FearOfConsequences
-a :Theme ;
-:description "Hesitation is grounded in implied fear of the decree’s consequences."^^xsd:string .
-
-:Conflict_BurialRitesVsCreonEdict
-a :Conflict ;
-:description "The obligation to mourn and bury the dead conflicts with Creon’s proclamation forbidding burial of Polyneices."^^xsd:string ;
-:conflictBetween :EthicalPrinciple_BurialRites, :Law_CreonBurialEdict .
-
-:Event_PublicStoningPunishment
-a owl:Thing ;
-:description "Death by public stoning is named as the punishment for violating the proclamation."^^xsd:string .
-
-:Law_CreonBurialEdict :relatedTo :Event_PublicStoningPunishment .
-:MoralDecision_DefyCreonEdict :relatedTo :Event_PublicStoningPunishment .
-
-# ==========================
-# Ancient Greek [ 42 - 62 ]
-# ==========================
-
-:Antigone_Character_Antigone
-a :Character ;
-:hasMotivation :Motivation_BuryBrother, :Motivation_RefuseBetrayal ;
-:makesMoralDecision :MoralDecision_DefyEdictForBurial ;
-:advocatesFor :EthicalPrinciple_BurialRites ;
-:experiencesEmotion :Emotion_Resolve, :Emotion_Defiance ;
-:relatedTo :Law_CreonBurialEdict .
-
-:Antigone_Character_Ismene
-a :Character ;
-:hasMotivation :Motivation_AvoidDefyingTyrant, :Motivation_ProtectSister ;
-:makesMoralDecision :MoralDecision_UrgePrudence ;
-:experiencesEmotion :Emotion_Fear, :Emotion_Alarm, :Emotion_Grief ;
-:relatedTo :Law_CreonBurialEdict .
-
-:Antigone_Character_Creon a :Character .
-:Antigone_Character_Oedipus a :Character .
-:Antigone_Character_Polyneices a :Character .
-
-
-:Motivation_BuryBrother
-a :Motivation ;
-:description "Ἡ Ἀντιγόνη ζητεῖ τὴν Ἰσμήνης χεῖρα ξυνοίσειν πρὸς τὸ κουφίζειν/θάπτειν τὸν νεκρόν."^^xsd:string .
-
-:Motivation_RefuseBetrayal
-a :Motivation ;
-:description "Ἡ Ἀντιγόνη δηλοῖ ὅτι οὐ προδοῦσα ἁλώσεται: προτιμᾷ τὸ μὴ προδιδόναι τὸν ἀδελφόν."^^xsd:string .
-
-:Motivation_AvoidDefyingTyrant
-a :Motivation ;
-:description "Ἡ Ἰσμήνη ἐπικαλεῖται τὸν νόμον καὶ τὴν ψῆφον τυράννων, φοβουμένη τὸ κάκιστον ὄλεθρον ἐὰν παραβῶσι."^^xsd:string .
-
-:Motivation_ProtectSister
-a :Motivation ;
-:description "Ἡ Ἰσμήνη παρακαλεῖ 'φρόνησον' καὶ ἐπιχειρεῖ νουθετεῖν τὴν Ἀντιγόνην πρὸς σωτηρίαν."^^xsd:string .
-
-:MoralDecision_DefyEdictForBurial
-a :MoralDecision ;
-:description "Ἡ Ἀντιγόνη ἀποφασίζει θάπτειν τὸν ἀδελφόν, κἂν ἀπόρρητον πόλει καὶ Κρέοντος ἀντειρηκότος."^^xsd:string ;
-:relatedTo :Law_CreonBurialEdict ;
-:relatedTo :EthicalPrinciple_BurialRites .
-
-:MoralDecision_UrgePrudence
-a :MoralDecision ;
-:description "Ἡ Ἰσμήνη ἀντιτάσσει φρόνησιν καὶ ὑποχώρησιν ἔναντι νόμου/τυράννων, ἐπικαλουμένη τὸ παλαιὸν οἴκων κακόν."^^xsd:string ;
-:relatedTo :Law_CreonBurialEdict ;
-:relatedTo :Motivation_AvoidDefyingTyrant .
-
-:Emotion_Alarm
-a :Emotion ;
-:description "Ἡ Ἰσμήνη ἐκπλήσσεται καὶ ἐρωτᾷ περὶ κινδύνου καὶ γνώμης."^^xsd:string .
-
-:Emotion_Resolve
-a :Emotion ;
-:description "Σταθερὰ βούλησις τῆς Ἀντιγόνης πρὸς τὴν ταφὴν, ἔστω καὶ μόνη."^^xsd:string .
-
-:Emotion_Defiance
-a :Emotion ;
-:description "Πρόκλησις/ἀνυπακοὴ πρὸς Κρέοντα: 'οὐδὲν αὐτῷ ... εἴργειν'."^^xsd:string .
-
-:Emotion_Grief
-a :Emotion ;
-:description "Θρῆνος μνήμης τῶν οἰκείων κακῶν: πατρός, μητρός, καὶ τῶν ἀδελφῶν."^^xsd:string .
-
-:Theme_TyrannicalLaw
-a :Theme ;
-:description "Νόμου βία καὶ ψῆφος τυράννων ὡς ἀνώτερη πολιτικὴ δύναμις."^^xsd:string .
-
-:Theme_FamilyCurse
-a :Theme ;
-:description "Ἡ καταστροφὴ τοῦ οἴκου (Οἰδίπους, μήτηρ, ἀδελφοί) ὡς ἀδιάκοπον κακόν."^^xsd:string .
-
-:Theme_SurvivalPrudence
-a :Theme ;
-:description "Φρόνησις καὶ αὐτοσυντήρησις: ἀποφυγὴ ὀλέθρου ἐν ὑποταγῇ."^^xsd:string .
-
-:Theme_GenderConstraint
-a :Theme ;
-:description "Ἡ Ἰσμήνη προβάλλει ὅτι γυναῖκες ἔφυμεν καὶ οὐ μαχουμέναι πρὸς ἄνδρας."^^xsd:string .
-
-:Conflict_BurialRitesVsCreonEdict
-a :Conflict ;
-:description "Σύγκρουσις ἀνάμεσα στὸ χρέος ταφῆς καὶ τὸ ἀπόρρητον πόλει/Κρέοντος ἀντείρημα."^^xsd:string ;
-:conflictBetween :EthicalPrinciple_BurialRites, :Law_CreonBurialEdict .
-
-:Conflict_GenderVsAuthority
-a :Conflict ;
-:description "Σύγκρουσις ἀνάμεσα στὸν περιορισμὸ γυναικῶν καὶ τὴν ἀνδρικὴ/τυραννικὴ ἐξουσία."^^xsd:string ;
-:conflictBetween :Theme_GenderConstraint, :Theme_TyrannicalLaw .
 
 :Speech_Ismene_42
 a :Speech ;
@@ -378,157 +191,6 @@ a :Speech ;
 :makesMoralDecision :MoralDecision_UrgePrudence, :MoralDecision_SubmitToRulers ;
 :experiencesEmotion :Emotion_Grief, :Emotion_Fear, :Emotion_Resignation ;
 :hasConflict :Conflict_GenderVsAuthority .
-
-# ==========================
-# Ancient Greek [ 63 - 89 ]
-# ==========================
-
-:Antigone_Character_Antigone
-    a :Character ;
-    :hasMotivation :Motivation_BuryBrotherDespiteRisk, :Motivation_PleaseUnderworld, :Motivation_PublicWitnessForJustice ;
-    :makesMoralDecision :MoralDecision_BuryBrotherAndAcceptDeath ;
-    :advocatesFor :EthicalPrinciple_DivineHonorForDead ;
-    :experiencesEmotion :Emotion_Resolve, :Emotion_ReverentDuty, :Emotion_DefiantCourage, :Emotion_ContemptForSilence ;
-    :relatedTo :Law_CivicBurialBan, :EthicalPrinciple_DivineHonorForDead .
-
-:Antigone_Character_Ismene
-a :Character ;
-:hasMotivation :Motivation_ObeyAuthorities, :Motivation_AvoidForcedAction, :Motivation_KeepPlanSecret, :Motivation_ProtectAntigone ;
-:makesMoralDecision :MoralDecision_SubmitToRulers, :MoralDecision_RequestSecrecy ;
-:experiencesEmotion :Emotion_Resignation, :Emotion_FearForAntigone, :Emotion_Anxiety, :Emotion_WarmHeartedConcern ;
-:relatedTo :Law_CivicBurialBan .
-
-:Antigone_Character_Brother a :Character ;
-:description "The brother to be buried (Polyneices implied but not named in this passage)."^^xsd:string .
-
-:Law_CivicBurialBan
-a :Law ;
-:description "Civic authority forbids the burial act; acting 'by force of citizens' is impossible for Ismene, who submits to those in power."^^xsd:string .
-
-:EthicalPrinciple_DivineHonorForDead
-a :EthicalPrinciple ;
-:description "The gods' honors for the dead and the obligation to perform holy rites for kin."^^xsd:string .
-
-:Motivation_BuryBrotherDespiteRisk
-a :Motivation ;
-:description "Antigone intends to bury her dearest brother even if it means death."^^xsd:string ;
-:relatedTo :Antigone_Character_Brother ;
-:relatedTo :Law_CivicBurialBan .
-
-:Motivation_PleaseUnderworld
-a :Motivation ;
-:description "Antigone prioritizes pleasing those below (the dead/underworld) over those here, since she will lie there forever."^^xsd:string ;
-:relatedTo :EthicalPrinciple_DivineHonorForDead .
-
-:Motivation_PublicWitnessForJustice
-a :Motivation ;
-:description "Antigone urges that the deed be proclaimed to all rather than kept silent."^^xsd:string .
-
-:Motivation_ObeyAuthorities
-a :Motivation ;
-:description "Ismene chooses to submit to those in power and avoid acting beyond measure."^^xsd:string ;
-:relatedTo :Law_CivicBurialBan .
-
-:Motivation_AvoidForcedAction
-a :Motivation ;
-:description "Ismene claims she is incapable of acting by force against the citizens."^^xsd:string ;
-:relatedTo :Law_CivicBurialBan .
-
-:Motivation_KeepPlanSecret
-a :Motivation ;
-:description "Ismene asks that the act be disclosed to no one and hidden in secrecy."^^xsd:string .
-
-:Motivation_ProtectAntigone
-a :Motivation ;
-:description "Ismene fears greatly for Antigone and seeks to prevent her ruin."^^xsd:string .
-
-:MoralDecision_SubmitToRulers
-a :MoralDecision ;
-:description "Ismene decides to obey those in authority, requesting understanding from the dead and avoiding excessive action."^^xsd:string ;
-:relatedTo :Law_CivicBurialBan .
-
-:MoralDecision_BuryBrotherAndAcceptDeath
-a :MoralDecision ;
-:description "Antigone decides to bury her brother and accepts death as honorable, committing a holy act to please the underworld."^^xsd:string ;
-:relatedTo :Antigone_Character_Brother ;
-:relatedTo :EthicalPrinciple_DivineHonorForDead ;
-:relatedTo :Law_CivicBurialBan .
-
-:MoralDecision_RequestSecrecy
-a :MoralDecision ;
-:description "Ismene decides to support secrecy: conceal the deed and speak to no one."^^xsd:string ;
-:relatedTo :Motivation_KeepPlanSecret .
-
-:Emotion_Resignation
-a :Emotion ;
-:description "Ismene resigns herself to obeying those in power and asks the dead for understanding."^^xsd:string .
-
-:Emotion_Resolve
-    a :Emotion ;
-    :description "Antigone shows unwavering resolve to bury her brother."^^xsd:string .
-
-:Emotion_ReverentDuty
-    a :Emotion ;
-    :description "Antigone frames the burial as a holy duty toward gods and the dead."^^xsd:string .
-
-:Emotion_DefiantCourage
-a :Emotion ;
-:description "Antigone embraces dying for the deed as noble and refuses to fear."^^xsd:string .
-
-:Emotion_FearForAntigone
-a :Emotion ;
-:description "Ismene fears intensely for Antigone's fate."^^xsd:string .
-
-:Emotion_Anxiety
-a :Emotion ;
-:description "Ismene expresses worry and calls Antigone unfortunate, urging caution."^^xsd:string .
-
-:Emotion_ContemptForSilence
-a :Emotion ;
-:description "Antigone rebukes secrecy, saying silence will make Ismene more hated than if she proclaimed it."^^xsd:string .
-
-:Emotion_WarmHeartedConcern
-a :Emotion ;
-:description "Ismene observes Antigone's 'warm heart' and contrasts it with cold circumstances."^^xsd:string .
-
-:Theme_BurialDuty
-a :Theme ;
-:description "Commitment to bury the brother as an act of loyalty and duty to kin."^^xsd:string .
-
-:Theme_DivineLaw
-a :Theme ;
-:description "Honoring what belongs to the gods and the dead, framed as holy obligation."^^xsd:string .
-
-:Theme_ObedienceToAuthority
-a :Theme ;
-:description "Submission to rulers and civic authority, rejecting excessive action."^^xsd:string .
-
-:Theme_DeathAsHonor
-a :Theme ;
-:description "Death embraced as honorable consequence of performing the righteous deed."^^xsd:string .
-
-:Theme_LoyaltyToDead
-a :Theme ;
-:description "Pleasing the underworld and the dead over the living."^^xsd:string .
-
-:Theme_SecrecyVsPublicDeclaration
-a :Theme ;
-:description "Tension between hiding the deed and proclaiming it publicly."^^xsd:string .
-
-:Conflict_DivineLawVsCivicAuthority
-a :Conflict ;
-:description "Conflict between civic law/authority and the gods' honors for the dead."^^xsd:string ;
-:conflictBetween :EthicalPrinciple_DivineHonorForDead, :Law_CivicBurialBan .
-
-:Conflict_SisterlyDivision
-    a :Conflict ;
-    :description "Conflict between Antigone's resolve and Ismene's submission and fear."^^xsd:string ;
-    :conflictBetween :Antigone_Character_Antigone, :Antigone_Character_Ismene .
-
-:Conflict_SecrecyVsWitness
-a :Conflict ;
-:description "Conflict between Ismene's request for secrecy and Antigone's demand for public proclamation."^^xsd:string ;
-:conflictBetween :Motivation_KeepPlanSecret, :Motivation_PublicWitnessForJustice .
 
 :Speech_Antigone_69_77
 a :Speech ;
@@ -612,10 +274,6 @@ a :Speech ;
 :hasMotivation :Motivation_PleaseUnderworld ;
 :experiencesEmotion :Emotion_ReverentDuty .
 
-# ==========================
-# Ancient Greek [ 90 - 99 ]
-# ==========================
-
 :Speech_Ismene_90
 a :Speech ;
 :speechBy :Antigone_Character_Ismene ;
@@ -659,8 +317,400 @@ a :Speech ;
     a :Speech ;
     :speechBy :Antigone_Character_Ismene ;
     :containsLine :Line_098, :Line_099 ;
-    :partOfScene :Antigone_Scene_DialogueAndParodos_90_113 ;
     :developsTheme :Theme_LoyalFriendship, :Theme_SisterlyConflict ;
     :hasMotivation :Motivation_IsmeneReluctantConsent ;
     :experiencesEmotion :Emotion_IsmeneConcern ;
     :hasConflict :Conflict_PrudenceVsHonor .
+
+####################################################################
+# MOTIVATION 
+#####################################################################
+
+:Motivation_SeekNewsAndDecree
+a :Motivation ;
+:description "Antigone seeks Ismene�s knowledge about the newly proclaimed civic edict and the harms advancing from enemies toward their loved ones."^^xsd:string .
+
+:Motivation_PrivateDisclosure
+a :Motivation ;
+:description "Antigone sends Ismene outside the courtyard gates so that Ismene alone will hear what Antigone intends to say."^^xsd:string .
+
+:Motivation_UpholdBurialRites
+a :Motivation ;
+:description "Antigone seeks to uphold the burial rite denied by Creon’s proclamation."^^xsd:string .
+
+:Motivation_SeekIsmeneHelp
+a :Motivation ;
+:description "Antigone asks Ismene to help her in response to Creon’s prohibition concerning Polyneices."^^xsd:string .
+
+:Motivation_BuryBrother
+a :Motivation ;
+:description "Antigone asks for Ismene's help in lifting and burying the dead body."^^xsd:string .
+
+:Motivation_RefuseBetrayal
+a :Motivation ;
+:description "Antigone declares that she will not be caught betraying him: she prefers not to betray her brother."^^xsd:string .
+
+:Motivation_AvoidDefyingTyrant
+a :Motivation ;
+:description "Ismene appeals to the law and the decree of rulers, fearing the worst destruction if they disobey."^^xsd:string .
+
+:Motivation_ProtectSister
+a :Motivation ;
+:description "Ismene urges Antigone to think carefully and tries to advise her toward safety."^^xsd:string .
+
+:Motivation_BuryBrotherDespiteRisk
+a :Motivation ;
+:description "Antigone intends to bury her dearest brother even if it means death."^^xsd:string ;
+:relatedTo :Antigone_Character_Brother ;
+:relatedTo :Law_CivicBurialBan .
+
+:Motivation_PleaseUnderworld
+a :Motivation ;
+:description "Antigone prioritizes pleasing those below (the dead/underworld) over those here, since she will lie there forever."^^xsd:string ;
+:relatedTo :EthicalPrinciple_DivineHonorForDead .
+
+:Motivation_PublicWitnessForJustice
+a :Motivation ;
+:description "Antigone urges that the deed be proclaimed to all rather than kept silent."^^xsd:string .
+
+:Motivation_ObeyAuthorities
+a :Motivation ;
+:description "Ismene chooses to submit to those in power and avoid acting beyond measure."^^xsd:string ;
+:relatedTo :Law_CivicBurialBan .
+
+:Motivation_AvoidForcedAction
+a :Motivation ;
+:description "Ismene claims she is incapable of acting by force against the citizens."^^xsd:string ;
+:relatedTo :Law_CivicBurialBan .
+
+:Motivation_KeepPlanSecret
+a :Motivation ;
+:description "Ismene asks that the act be disclosed to no one and hidden in secrecy."^^xsd:string .
+
+:Motivation_ProtectAntigone
+a :Motivation ;
+:description "Ismene fears greatly for Antigone and seeks to prevent her ruin."^^xsd:string .
+
+####################################################################
+# EMOTIONS 
+#####################################################################
+
+:Emotion_Lamentation
+    a :Emotion ;
+    :description "Antigone laments the inherited evils of Oedipus and the shameful, painful suffering already endured."^^xsd:string .
+
+:Emotion_Anxiety
+    a :Emotion ;
+    :description "Antigone is anxious about the fresh public proclamation and the ongoing threat from enemies."^^xsd:string .
+
+:Emotion_Grief
+    a :Emotion ;
+    :description "Ismene expresses grief tied to the loss of both brothers on a single day."^^xsd:string .
+
+:Emotion_Uncertainty
+    a :Emotion ;
+    :description "Ismene reports having no further knowledge and not knowing whether her condition is improving or worsening."^^xsd:string .
+
+:Emotion_Turmoil
+    a :Emotion ;
+    :description "Ismene perceives a storm-like inner disturbance in Antigone."^^xsd:string .
+
+:Emotion_Indignation
+    a :Emotion ;
+    :description "Antigone reacts with outraged insistence at the unequal burial honor and the denial of rites."^^xsd:string .
+
+:Emotion_Concern
+    a :Emotion ;
+    :description "Ismene responds with worry for Antigone ('poor sister') upon hearing the decree."^^xsd:string .
+
+:Emotion_Fear
+    a :Emotion ;
+    :description "Ismene questions the point of meddling, implying fear of consequences."^^xsd:string .
+
+:Emotion_Alarm
+    a :Emotion ;
+    :description "Ismene is alarmed and asks about the danger and wisdom."^^xsd:string .
+
+:Emotion_Resolve
+    a :Emotion ;
+    :description "Antigone's firm determination to perform the burial, even if she must do it alone."^^xsd:string .
+
+:Emotion_Defiance
+    a :Emotion ;
+    :description "Defiance and disobedience toward Creon: 'he has no right to keep me from my own.'"^^xsd:string .
+
+:Emotion_Grief
+    a :Emotion ;
+    :description "Griefful remembrance of the family's sufferings: her father, mother, and brothers."^^xsd:string .
+
+:Emotion_Resignation
+    a :Emotion ;
+    :description "Ismene resigns herself to obeying those in power and asks the dead for understanding."^^xsd:string .
+
+:Emotion_Resolve
+    a :Emotion ;
+    :description "Antigone shows unwavering resolve to bury her brother."^^xsd:string .
+
+:Emotion_ReverentDuty
+    a :Emotion ;
+    :description "Antigone frames the burial as a holy duty toward gods and the dead."^^xsd:string .
+
+:Emotion_DefiantCourage
+    a :Emotion ;
+    :description "Antigone embraces dying for the deed as noble and refuses to fear."^^xsd:string .
+
+:Emotion_FearForAntigone
+    a :Emotion ;
+    :description "Ismene fears intensely for Antigone's fate."^^xsd:string .
+
+:Emotion_Anxiety
+    a :Emotion ;
+    :description "Ismene expresses worry and calls Antigone unfortunate, urging caution."^^xsd:string .
+
+:Emotion_ContemptForSilence
+    a :Emotion ;
+    :description "Antigone rebukes secrecy, saying silence will make Ismene more hated than if she proclaimed it."^^xsd:string .
+
+:Emotion_WarmHeartedConcern
+    a :Emotion ;
+    :description "Ismene observes Antigone's 'warm heart' and contrasts it with cold circumstances."^^xsd:string .
+
+
+####################################################################
+# THEMES 
+#####################################################################
+
+:Theme_FateOfOedipusLine
+a :Theme ;
+:description "The continuing evils inherited from Oedipus, presented as still being fulfilled upon his children while they live."^^xsd:string .
+
+:Theme_FamilySuffering
+a :Theme ;
+:description "The sisters� shared experience of pain, ruin, shame, and dishonor."^^xsd:string .
+
+:Theme_PoliticalDecreeThreat
+a :Theme ;
+:description "A newly established public proclamation by the general becomes a looming force over the city and the family."^^xsd:string .
+
+:Theme_EnemiesHarm
+a :Theme ;
+:description "Evils coming from enemies are portrayed as advancing even toward one�s loved ones."^^xsd:string .
+
+:Theme_SecrecyAndTrust
+a :Theme ;
+:description "Private communication and trust between sisters, ensured by speaking outside the courtyard gates so only one hears."^^xsd:string .
+
+:Theme_SiblingLoss
+a :Theme ;
+:description "The mutual killing of the two brothers, leaving the sisters deprived."^^xsd:string .
+
+:Theme_UncertainFuture
+a :Theme ;
+:description "Uncertainty about what comes next after the Argive host has vanished overnight."^^xsd:string .
+
+:Theme_StateEdict
+a :Theme ;
+:description "The public proclamation of the general, Creon, as an official command of the city."^^xsd:string .
+
+:Theme_BurialRites
+a :Theme ;
+:description "Proper burial and mourning are treated as essential obligations, denied to Polyneices."^^xsd:string .
+
+:Theme_StateLaw
+a :Theme ;
+:description "A civic proclamation by Creon asserts state authority over burial and mourning."^^xsd:string .
+
+:Theme_PunishmentThreat
+a :Theme ;
+:description "The decree is backed by severe public punishment (stoning) for transgression."^^xsd:string .
+
+:Theme_FamilyDuty
+a :Theme ;
+:description "Sisterly loyalty and ancestral virtue are invoked as a test of whether Ismene will help."^^xsd:string .
+
+:Theme_EmotionalTurmoil
+a :Theme ;
+:description "The opening exchange frames the conflict as emotional agitation and urgency."^^xsd:string .
+
+:Theme_Prudence
+a :Theme ;
+:description "Ismene questions intervention as potentially pointless, signaling caution."^^xsd:string .
+
+:Theme_FearOfConsequences
+a :Theme ;
+:description "Hesitation is grounded in implied fear of the decree’s consequences."^^xsd:string .
+
+:Theme_TyrannicalLaw
+a :Theme ;
+:description "The use of force and votes by tyrants as a higher political power."^^xsd:string .
+
+:Theme_FamilyCurse
+a :Theme ;
+:description "The destruction of the family house, Oedipus, the mother, and the brothers, as an unbroken chain of suffering."^^xsd:string .
+
+:Theme_SurvivalPrudence
+a :Theme ;
+:description "Prudence and self-preservation: avoiding destruction through submission."^^xsd:string .
+
+:Theme_GenderConstraint
+a :Theme ;
+:description "Ismene argues that they are women by nature and are not meant to fight against men."^^xsd:string .
+
+:Theme_BurialDuty
+a :Theme ;
+:description "Commitment to bury the brother as an act of loyalty and duty to kin."^^xsd:string .
+
+:Theme_DivineLaw
+a :Theme ;
+:description "Honoring what belongs to the gods and the dead, framed as holy obligation."^^xsd:string .
+
+:Theme_ObedienceToAuthority
+a :Theme ;
+:description "Submission to rulers and civic authority, rejecting excessive action."^^xsd:string .
+
+:Theme_DeathAsHonor
+a :Theme ;
+:description "Death embraced as honorable consequence of performing the righteous deed."^^xsd:string .
+
+:Theme_LoyaltyToDead
+a :Theme ;
+:description "Pleasing the underworld and the dead over the living."^^xsd:string .
+
+:Theme_SecrecyVsPublicDeclaration
+a :Theme ;
+:description "Tension between hiding the deed and proclaiming it publicly."^^xsd:string .
+
+
+####################################################################
+# CONFLICTS 
+#####################################################################
+
+:Conflict_FriendsVsEnemiesEvils
+a :Conflict ;
+:description "Antigone contrasts harms advancing from enemies toward loved ones, framing an opposition between ????? and ??????."^^xsd:string ;
+:conflictBetween :Theme_EnemiesHarm, :Theme_SecrecyAndTrust .
+
+:Conflict_BurialRitesVsCreonEdict
+a :Conflict ;
+:description "The obligation to mourn and bury the dead conflicts with Creon’s proclamation forbidding burial of Polyneices."^^xsd:string ;
+:conflictBetween :EthicalPrinciple_BurialRites, :Law_CreonBurialEdict .
+
+:Conflict_BurialRitesVsCreonEdict
+a :Conflict ;
+:description "Conflict between the duty of burial and the forbidden act opposed by the city and Creon."^^xsd:string ;
+:conflictBetween :EthicalPrinciple_BurialRites, :Law_CreonBurialEdict .
+
+:Conflict_GenderVsAuthority
+a :Conflict ;
+:description "Conflict between the limitation placed on women and male or tyrannical authority."^^xsd:string ;
+:conflictBetween :Theme_GenderConstraint, :Theme_TyrannicalLaw .
+
+:Conflict_DivineLawVsCivicAuthority
+a :Conflict ;
+:description "Conflict between civic law/authority and the gods' honors for the dead."^^xsd:string ;
+:conflictBetween :EthicalPrinciple_DivineHonorForDead, :Law_CivicBurialBan .
+
+:Conflict_SisterlyDivision
+a :Conflict ;
+:description "Conflict between Antigone's resolve and Ismene's submission and fear."^^xsd:string ;
+:conflictBetween :Antigone_Character_Antigone, :Antigone_Character_Ismene .
+
+:Conflict_SecrecyVsWitness
+a :Conflict ;
+:description "Conflict between Ismene's request for secrecy and Antigone's demand for public proclamation."^^xsd:string ;
+:conflictBetween :Motivation_KeepPlanSecret, :Motivation_PublicWitnessForJustice .
+
+
+
+####################################################################
+# MYTHS 
+#####################################################################
+
+:Myth_Zeus
+a :MythologicalBackground ;
+:description "Reference to Zeus as the divine power who brings to completion the evils stemming from Oedipus."^^xsd:string .
+
+:Myth_OedipusTroubles
+a :MythologicalBackground ;
+:description "Reference to the evils of Oedipus as a continuing source of suffering for his children."^^xsd:string .
+
+####################################################################
+# EVENTS 
+#####################################################################
+
+:Event_BrothersMutualDeath
+a owl:Thing ;
+:description "The two brothers died on the same day by a double hand, depriving the sisters."^^xsd:string .
+
+:Event_ArgiveHostGone
+a owl:Thing ;
+:description "The Argive army is gone in the present night."^^xsd:string .
+
+:Event_PublicStoningPunishment
+a owl:Thing ;
+:description "Death by public stoning is named as the punishment for violating the proclamation."^^xsd:string .
+
+:Event_BrothersMutualDeath
+:relatedTo :Event_ArgiveHostGone .
+
+
+####################################################################
+# LAWS & ETHICAL PRINCIPLES
+#####################################################################
+
+
+:Law_CreonBurialEdict
+a :Law ;
+:description "Creon proclaims that Polyneices must not be mourned or buried; violation is punished by public stoning."^^xsd:string .
+
+:EthicalPrinciple_BurialRites
+a :EthicalPrinciple ;
+:description "The dead deserve burial and the formal rites and customs owed to them."^^xsd:string .
+
+:EthicalPrinciple_DivineHonorForDead
+a :EthicalPrinciple ;
+:description "The gods' honors for the dead and the obligation to perform holy rites for kin."^^xsd:string .
+
+
+:Law_CreonBurialEdict :relatedTo :Event_PublicStoningPunishment .
+
+:Law_CivicBurialBan
+a :Law ;
+:description "Civic authority forbids the burial act; acting 'by force of citizens' is impossible for Ismene, who submits to those in power."^^xsd:string .
+
+
+####################################################################
+# MORAL DECISIONS
+#####################################################################
+
+:MoralDecision_DefyCreonEdict 
+    :relatedTo :Event_PublicStoningPunishment .
+
+:MoralDecision_DefyEdictForBurial
+a :MoralDecision ;
+:description "Antigone decides to bury her brother, even though it is forbidden by the city and opposed by Creon's decree."^^xsd:string ;
+:relatedTo :Law_CreonBurialEdict ;
+:relatedTo :EthicalPrinciple_BurialRites .
+
+:MoralDecision_UrgePrudence
+a :MoralDecision ;
+:description "Ismene argues for prudence and submission before the law and the rulers, referring to the old suffering of their family house."^^xsd:string ;
+:relatedTo :Law_CreonBurialEdict ;
+:relatedTo :Motivation_AvoidDefyingTyrant .
+
+:MoralDecision_SubmitToRulers
+a :MoralDecision ;
+:description "Ismene decides to obey those in authority, requesting understanding from the dead and avoiding excessive action."^^xsd:string ;
+:relatedTo :Law_CivicBurialBan .
+
+:MoralDecision_BuryBrotherAndAcceptDeath
+a :MoralDecision ;
+:description "Antigone decides to bury her brother and accepts death as honorable, committing a holy act to please the underworld."^^xsd:string ;
+:relatedTo :Antigone_Character_Brother ;
+:relatedTo :EthicalPrinciple_DivineHonorForDead ;
+:relatedTo :Law_CivicBurialBan .
+
+:MoralDecision_RequestSecrecy
+a :MoralDecision ;
+:description "Ismene decides to support secrecy: conceal the deed and speak to no one."^^xsd:string ;
+:relatedTo :Motivation_KeepPlanSecret .

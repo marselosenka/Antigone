@@ -12,13 +12,13 @@
   :text "We caught her burying him. But where is Creon?"^^xsd:string .
 
 :TV_Line_386_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_386 ;
-  :text "CHORUS. Here he comes back from the palace, just in time."^^xsd:string .
+  :text "Here he comes back from the palace, just in time."^^xsd:string .
 
 :TV_Line_387_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_387 ;
-  :text "CREON. What is it? What fortune have I stepped into?"^^xsd:string .
+  :text "What is it? What fortune have I stepped into?"^^xsd:string .
 
 :TV_Line_388_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_388 ;
-  :text "GUARD. My King, no man should ever swear against a thing,"^^xsd:string .
+  :text "My King, no man should ever swear against a thing,"^^xsd:string .
 
 :TV_Line_389_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_389 ;
   :text "for second thoughts prove the first resolution false."^^xsd:string .
@@ -110,14 +110,16 @@
 :TV_Line_418_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_418 ;
   :text "a whirlwind raised a storm, a heavenly grief,"^^xsd:string .
 
-:TV_Line_420_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_419 ;
-  :text "filling the plain, stripping the tresses of the forest,"^^xsd:string .
+:TV_Line_419_En a owl:NamedIndividual ,
+:TranslationVariant ; :relatedTo :Line_419 ;
+:text "filling the plain, ravaging all in terror,"^^xsd:string .
 
-:TV_Line_420_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_420 ;
-  :text "choking the vast air. We closed our eyes"^^xsd:string .
+:TV_Line_420_En a owl:NamedIndividual ,
+:TranslationVariant ; :relatedTo :Line_420 ;
+:text "stripping the woodland forest, while the vast air filled with dust,"^^xsd:string .
 
 :TV_Line_421_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_421 ;
-  :text "and endured that divine plague."^^xsd:string .
+  :text "We closed our eyes and endured that divine plague."^^xsd:string .
 
 :TV_Line_422_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_422 ;
   :text "And when at long last it passed,"^^xsd:string .

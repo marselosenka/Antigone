@@ -4,70 +4,43 @@
 
 :stasimon03-semantics a owl:Ontology .
 
-:Antigone_Character_Antigone a :Character,
-        owl:NamedIndividual ;
-    :relatedTo :CreonDecision_EntombAntigoneAlive .
-
-:Antigone_Scene_ThirdStasimon_773_805 a :Scene,
+:Antigone_Stasimon_03 a :Stasimon_03,
         owl:NamedIndividual ;
     :developsTheme :Theme_DeathAndHadesReverence,
         :Theme_ErosOverpowersReasonAndLaw ;
     :hasConflict :Conflict_ErosVsJustice ;
-    :hasSpeech :Speech_Chorus_781_805,
-        :Speech_Creon_773_780 ;
+    :hasSpeech :Speech_Chorus_781_805 ;
+    :hasCharacters  :Antigone_Character_Antigone,
+                    :Antigone_Character_Chorus,
+                    :Antigone_Character_Creon ;
+    :hasTheme   :Theme_CivicPurityAndMiasma,
+                :Theme_DeathAndHadesReverence,
+                :Theme_ErosOverpowersReasonAndLaw,
+                :Theme_TearsAndPityAtBridalChamberOfDeath ;
     :sceneNumber "Stasimon 3"^^xsd:string .
 
-:Chorus_Character_Chorus a :Character,
+# ===================================================
+# CHARACTERS
+# ===================================================
+:Antigone_Character_Antigone a :Character,
+        owl:NamedIndividual ;
+    :relatedTo :CreonDecision_EntombAntigoneAlive .
+
+:Antigone_Character_Chorus a :Character,
         owl:NamedIndividual ;
     :experiencesEmotion :ChorusEmotion_AweAtErosPower,
         :ChorusEmotion_TearsAndPityForAntigone .
 
-:ChorusEmotion_AweAtErosPower a :Emotion,
-        owl:NamedIndividual ;
-    :description "Awe at Eros as an invincible power that drives all to madness."^^xsd:string .
-
-:ChorusEmotion_TearsAndPityForAntigone a :Emotion,
-        owl:NamedIndividual ;
-    :description "Tears and pity at the sight of Antigone going to the all-shared bridal chamber (death)."^^xsd:string .
-
-:Conflict_ErosVsJustice a :Conflict,
-        owl:NamedIndividual ;
-    :conflictBetween :EthicalPrinciple_ErosDesire,
-        :EthicalPrinciple_Justice ;
-    :description "Eros overthrows just minds, turning the just toward injustice and stirring kin-strife."^^xsd:string .
-
-:Creon_Character_Creon a :Character,
+:Antigone_Character_Creon a :Character,
         owl:NamedIndividual ;
     :advocatesFor :EthicalPrinciple_AvoidMiasma,
         :EthicalPrinciple_CivicPurity ;
     :hasMotivation :CreonMotivation_AvoidMiasmaForCity ;
     :makesMoralDecision :CreonDecision_EntombAntigoneAlive .
 
-:CreonDecision_EntombAntigoneAlive a :MoralDecision,
-        owl:NamedIndividual ;
-    :description "Creon decides to hide Antigone alive in a rocky underground chamber with minimal food."^^xsd:string ;
-    :relatedTo :CreonMotivation_AvoidMiasmaForCity .
-
-:CreonMotivation_AvoidMiasmaForCity a :Motivation,
-        owl:NamedIndividual ;
-    :description "To ensure the city escapes pollution by shifting responsibility to Hades and isolating the condemned."^^xsd:string .
-
-:EthicalPrinciple_AvoidMiasma a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Avoidance of ritual pollution (μίασμα) as a public danger."^^xsd:string .
-
-:EthicalPrinciple_CivicPurity a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Protection of the polis from pollution; prioritizing civic well-being."^^xsd:string .
-
-:EthicalPrinciple_ErosDesire a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Eros/desire as a compelling force that bends minds and actions."^^xsd:string .
-
-:EthicalPrinciple_Justice a :EthicalPrinciple,
-        owl:NamedIndividual ;
-    :description "Commitment to what is just (δίκαια) in judgment and action."^^xsd:string .
-
+# ===================================================
+# SPEECHES
+# ===================================================
 :Speech_Chorus_781_805 a :ChoralSong,
         :Speech,
         owl:NamedIndividual ;
@@ -98,7 +71,50 @@
         :Line_805 ;
     :hasTheme :Theme_ErosOverpowersReasonAndLaw,
         :Theme_TearsAndPityAtBridalChamberOfDeath ;
-    :speechBy :Chorus_Character_Chorus .
+    :speechBy :Antigone_Character_Chorus . 
+
+
+# ===================================================
+# THEMES, CONFLICTS, ETHICAL PRINCIPLES, EMOTIONS, MOTIVATIONS, AND MORAL DECISIONS
+# ===================================================
+:ChorusEmotion_AweAtErosPower a :Emotion,
+        owl:NamedIndividual ;
+    :description "Awe at Eros as an invincible power that drives all to madness."^^xsd:string .
+
+:ChorusEmotion_TearsAndPityForAntigone a :Emotion,
+        owl:NamedIndividual ;
+    :description "Tears and pity at the sight of Antigone going to the all-shared bridal chamber (death)."^^xsd:string .
+
+:Conflict_ErosVsJustice a :Conflict,
+        owl:NamedIndividual ;
+    :conflictBetween :EthicalPrinciple_ErosDesire,
+        :EthicalPrinciple_Justice ;
+    :description "Eros overthrows just minds, turning the just toward injustice and stirring kin-strife."^^xsd:string .
+
+:CreonDecision_EntombAntigoneAlive a :MoralDecision,
+        owl:NamedIndividual ;
+    :description "Creon decides to hide Antigone alive in a rocky underground chamber with minimal food."^^xsd:string ;
+    :relatedTo :CreonMotivation_AvoidMiasmaForCity .
+
+:CreonMotivation_AvoidMiasmaForCity a :Motivation,
+        owl:NamedIndividual ;
+    :description "To ensure the city escapes pollution by shifting responsibility to Hades and isolating the condemned."^^xsd:string .
+
+:EthicalPrinciple_AvoidMiasma a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Avoidance of ritual pollution (μίασμα) as a public danger."^^xsd:string .
+
+:EthicalPrinciple_CivicPurity a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Protection of the polis from pollution; prioritizing civic well-being."^^xsd:string .
+
+:EthicalPrinciple_ErosDesire a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Eros/desire as a compelling force that bends minds and actions."^^xsd:string .
+
+:EthicalPrinciple_Justice a :EthicalPrinciple,
+        owl:NamedIndividual ;
+    :description "Commitment to what is just (δίκαια) in judgment and action."^^xsd:string .
 
 :Theme_CivicPurityAndMiasma a :Theme,
         owl:NamedIndividual ;

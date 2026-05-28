@@ -13,6 +13,7 @@
     :text "Who sleeps every night on a young maiden’s tender cheeks,"^^xsd:string ;
     :relatedTo :Line_782 .
 
+# Line 783 and 784 do not exist in Antigone 
 :TV_Line_785_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Traversing both the depths and the most rural of abodes:"^^xsd:string ;
     :relatedTo :Line_785 .
@@ -20,6 +21,8 @@
 :TV_Line_786_en a owl:NamedIndividual, :TranslationVariant ;
     :text "From you indeed neither the deathless gods,"^^xsd:string ;
     :relatedTo :Line_786 .
+
+# Line 787 788 and 789 do not exist in Antigone 
 
 :TV_Line_790_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Nor any man who lives but one day can ever hope to escape; your victim is always driven mad."^^xsd:string ;
@@ -33,6 +36,8 @@
     :text "The one to have ignited this strife of mankind is you;"^^xsd:string ;
     :relatedTo :Line_792 .
 
+# Line 793 and 794 do not exist in Antigone 
+
 :TV_Line_795_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet desire wins out, shining from the brow of a brilliant bride,"^^xsd:string ;
     :relatedTo :Line_795 .
@@ -40,6 +45,8 @@
 :TV_Line_796_en a owl:NamedIndividual, :TranslationVariant ;
     :text "Desire sitting in the office of the great divine law."^^xsd:string ;
     :relatedTo :Line_796 .
+
+# Line 797,798 and 799 do not exist in Antigone 
 
 :TV_Line_800_en a owl:NamedIndividual, :TranslationVariant ;
     :text "For, while this battle is waged, a god jests from afar—Aphrodite!"^^xsd:string ;

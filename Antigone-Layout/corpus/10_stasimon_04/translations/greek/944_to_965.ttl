@@ -5,11 +5,11 @@
 :stasimon_04-translations-944-965-greek a owl:Ontology .
 
 :TV_Line_944_gr a :TranslationVariant ;
-    :text "Και η Δανάη άντεξε να αλλάξει το ουράνιο φως"^^xsd:string ;
+    :text "Και η Δανάη άντεξε να ανταλλάξει το ουράνιο φως"^^xsd:string ;
     :relatedTo :Line_944 .
 
 :TV_Line_945_gr a :TranslationVariant ;
-    :text "με σώμα κλεισμένο σε αυλές δεμένες με χαλκό·"^^xsd:string ;
+    :text "με το σώμα της κλεισμένο σε χαλκόδετες αυλές·"^^xsd:string ;
     :relatedTo :Line_945 .
 
 :TV_Line_946_gr a :TranslationVariant ;
@@ -41,7 +41,7 @@
     :relatedTo :Line_955 .
 
 :TV_Line_956_gr a :TranslationVariant ;
-    :text "ο βασιλιάς των Ηδωνών, από κοροϊδευτικές οργές,"^^xsd:string ;
+    :text "ο βασιλιάς των Ηδωνών, εξαιτίας της χλευαστικής του οργής,"^^xsd:string ;
     :relatedTo :Line_956 .
 
 :TV_Line_957_gr a :TranslationVariant ;
@@ -53,11 +53,11 @@
     :relatedTo :Line_958 .
 
 :TV_Line_960_gr a :TranslationVariant ;
-    :text "και της ανθισμένης του δύναμης. Εκείνος κατάλαβε πως με τις μανίες του"^^xsd:string ;
+    :text "και η ανθισμένη του δύναμη. Εκείνος κατάλαβε, μέσα στη μανία του,"^^xsd:string ;
     :relatedTo :Line_960 .
 
 :TV_Line_961_gr a :TranslationVariant ;
-    :text "άγγιζε τον θεό με προσβλητικές γλώσσες."^^xsd:string ;
+    :text "πως άγγιζε τον θεό με χλευαστικές γλώσσες."^^xsd:string ;
     :relatedTo :Line_961 .
 
 :TV_Line_962_gr a :TranslationVariant ;

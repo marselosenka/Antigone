@@ -6,44 +6,114 @@
 :exodus-translations-1155-1182-english a owl:Ontology .
 # English translation variants extracted from 1155_to_1182.ttl
 
-:TV_Line_1155_en a :TranslationVariant ; :relatedTo :Line_1155 ; :text "Neighbors of the House of Cadmus and Amphion,"^^xsd:string .
-:TV_Line_1156_en a :TranslationVariant ; :relatedTo :Line_1156 ; :text "No life’s path is ever so straight that"^^xsd:string .
+:TV_Line_1155_en a :TranslationVariant ;
+    :text "Neighbors of Cadmus and of Amphion's house,"^^xsd:string ;
+    :relatedTo :Line_1155 .
 
-:TV_Line_1157_en a :TranslationVariant ; :relatedTo :Line_1157 ; :text "I would dare speak well or ill of it."^^xsd:string .
-:TV_Line_1158_en a :TranslationVariant ; :relatedTo :Line_1158 ; :text "For fortune is always lifting up and"^^xsd:string .
+:TV_Line_1156_en a :TranslationVariant ;
+    :text "there is no human life whose standing state I could"^^xsd:string ;
+    :relatedTo :Line_1156 .
 
-:TV_Line_1159_en a :TranslationVariant ; :relatedTo :Line_1159 ; :text "Knocking down the lucky and the unlucky alike:"^^xsd:string .
-:TV_Line_1160_en a :TranslationVariant ; :relatedTo :Line_1160 ; :text "There is no prophet to tell mortal man his fate."^^xsd:string .
+:TV_Line_1157_en a :TranslationVariant ;
+    :text "ever either praise or blame."^^xsd:string ;
+    :relatedTo :Line_1157 .
 
-:TV_Line_1161_en a :TranslationVariant ; :relatedTo :Line_1161 ; :text "Creon was blessed, as far as I can tell—"^^xsd:string .
-:TV_Line_1162_en a :TranslationVariant ; :relatedTo :Line_1162 ; :text "He saved the land of Cadmus from its enemies,"^^xsd:string .
+:TV_Line_1158_en a :TranslationVariant ;
+    :text "For fortune raises up, and fortune casts down"^^xsd:string ;
+    :relatedTo :Line_1158 .
 
-:TV_Line_1163_en a :TranslationVariant ; :relatedTo :Line_1163 ; :text "He took sole dominion of this country, he ruled it well,"^^xsd:string .
-:TV_Line_1164_en a :TranslationVariant ; :relatedTo :Line_1164 ; :text "He fathered many noble children."^^xsd:string .
+:TV_Line_1159_en a :TranslationVariant ;
+    :text "both the fortunate man and the unfortunate, always;"^^xsd:string ;
+    :relatedTo :Line_1159 .
 
-:TV_Line_1165_en a :TranslationVariant ; :relatedTo :Line_1165 ; :text "But now everything’s lost. When a man"^^xsd:string .
-:TV_Line_1166_en a :TranslationVariant ; :relatedTo :Line_1166 ; :text "Has kissed all his joy goodbye, I don’t consider him"^^xsd:string .
+:TV_Line_1160_en a :TranslationVariant ;
+    :text "and no prophet knows what is fixed for mortals."^^xsd:string ;
+    :relatedTo :Line_1160 .
 
-:TV_Line_1167_en a :TranslationVariant ; :relatedTo :Line_1167 ; :text "Alive—he is a living corpse."^^xsd:string .
-:TV_Line_1168_en a :TranslationVariant ; :relatedTo :Line_1168 ; :text "Fill your home with riches, if you wish!"^^xsd:string .
+:TV_Line_1161_en a :TranslationVariant ;
+    :text "For Creon once was enviable, in my eyes,"^^xsd:string ;
+    :relatedTo :Line_1161 .
 
-:TV_Line_1169_en a :TranslationVariant ; :relatedTo :Line_1169 ; :text "Look to all the world like some great tyrant!"^^xsd:string .
-:TV_Line_1170_en a :TranslationVariant ; :relatedTo :Line_1170 ; :text "If there’s no joy in those things,"^^xsd:string .
+:TV_Line_1162_en a :TranslationVariant ;
+    :text "after saving this Cadmean land from enemies,"^^xsd:string ;
+    :relatedTo :Line_1162 .
 
-:TV_Line_1171_en a :TranslationVariant ; :relatedTo :Line_1171 ; :text "I wouldn’t even pay the shadow of smoke for all of that."^^xsd:string .
-:TV_Line_1172_en a :TranslationVariant ; :relatedTo :Line_1172 ; :text "What’s the latest report on the royal family’s troubles?"^^xsd:string .
+:TV_Line_1163_en a :TranslationVariant ;
+    :text "and taking complete rule over the country,"^^xsd:string ;
+    :relatedTo :Line_1163 .
 
-:TV_Line_1173_en a :TranslationVariant ; :relatedTo :Line_1173 ; :text "They’re dead, and the living are to blame."^^xsd:string .
-:TV_Line_1174_en a :TranslationVariant ; :relatedTo :Line_1174 ; :text "And who did the killing? Who lies dead? Say it!"^^xsd:string .
+:TV_Line_1164_en a :TranslationVariant ;
+    :text "he governed it, flourishing with a noble line of children;"^^xsd:string ;
+    :relatedTo :Line_1164 .
 
-:TV_Line_1175_en a :TranslationVariant ; :relatedTo :Line_1175 ; :text "Haemon is finished, bloodied by his own hand."^^xsd:string .
-:TV_Line_1176_en a :TranslationVariant ; :relatedTo :Line_1176 ; :text "His father’s hand or his own?"^^xsd:string .
+:TV_Line_1165_en a :TranslationVariant ;
+    :text "and now all of it is gone. For when men betray"^^xsd:string ;
+    :relatedTo :Line_1165 .
 
-:TV_Line_1177_en a :TranslationVariant ; :relatedTo :Line_1177 ; :text "His own, to spite his murderous father."^^xsd:string .
-:TV_Line_1178_en a :TranslationVariant ; :relatedTo :Line_1178 ; :text "Oh prophet, how true your words ring now!"^^xsd:string .
+:TV_Line_1166_en a :TranslationVariant ;
+    :text "their pleasures, I do not consider such a man"^^xsd:string ;
+    :relatedTo :Line_1166 .
 
-:TV_Line_1179_en a :TranslationVariant ; :relatedTo :Line_1179 ; :text "With things the way they are, there’s more for you to consider."^^xsd:string .
-:TV_Line_1180_en a :TranslationVariant ; :relatedTo :Line_1180 ; :text "Look, I see poor Eurydice nearby,"^^xsd:string .
+:TV_Line_1167_en a :TranslationVariant ;
+    :text "to be alive, but I regard him as a living corpse."^^xsd:string ;
+    :relatedTo :Line_1167 .
 
-:TV_Line_1181_en a :TranslationVariant ; :relatedTo :Line_1181 ; :text "Creon’s wife—either she knows what her son has done,"^^xsd:string .
-:TV_Line_1182_en a :TranslationVariant ; :relatedTo :Line_1182 ; :text "Or she’s just leaving home by chance."^^xsd:string .
+:TV_Line_1168_en a :TranslationVariant ;
+    :text "Let him be rich at home, if you wish, greatly rich,"^^xsd:string ;
+    :relatedTo :Line_1168 .
+
+:TV_Line_1169_en a :TranslationVariant ;
+    :text "and live with the outward shape of a king; but if the joy"^^xsd:string ;
+    :relatedTo :Line_1169 .
+
+:TV_Line_1170_en a :TranslationVariant ;
+    :text "of these things is absent, all the rest I would not buy"^^xsd:string ;
+    :relatedTo :Line_1170 .
+
+:TV_Line_1171_en a :TranslationVariant ;
+    :text "from any man for the shadow of smoke, compared with pleasure."^^xsd:string ;
+    :relatedTo :Line_1171 .
+
+:TV_Line_1172_en a :TranslationVariant ;
+    :text "What burden of grief for the royal house do you come bearing?"^^xsd:string ;
+    :relatedTo :Line_1172 .
+
+:TV_Line_1173_en a :TranslationVariant ;
+    :text "They are dead; and the living are guilty of their death."^^xsd:string ;
+    :relatedTo :Line_1173 .
+
+:TV_Line_1174_en a :TranslationVariant ;
+    :text "And who has killed? Who lies dead? Speak."^^xsd:string ;
+    :relatedTo :Line_1174 .
+
+:TV_Line_1175_en a :TranslationVariant ;
+    :text "Haemon is dead; his own hand has shed his blood."^^xsd:string ;
+    :relatedTo :Line_1175 .
+
+:TV_Line_1176_en a :TranslationVariant ;
+    :text "By his father's hand, or by his own?"^^xsd:string ;
+    :relatedTo :Line_1176 .
+
+:TV_Line_1177_en a :TranslationVariant ;
+    :text "By his own hand, angry with his father for the murder."^^xsd:string ;
+    :relatedTo :Line_1177 .
+
+:TV_Line_1178_en a :TranslationVariant ;
+    :text "O prophet, how truly you fulfilled your word."^^xsd:string ;
+    :relatedTo :Line_1178 .
+
+:TV_Line_1179_en a :TranslationVariant ;
+    :text "Since things stand so, the rest must now be considered."^^xsd:string ;
+    :relatedTo :Line_1179 .
+
+:TV_Line_1180_en a :TranslationVariant ;
+    :text "And now I see poor Eurydice nearby,"^^xsd:string ;
+    :relatedTo :Line_1180 .
+
+:TV_Line_1181_en a :TranslationVariant ;
+    :text "the wife of Creon, coming from the house,"^^xsd:string ;
+    :relatedTo :Line_1181 .
+
+:TV_Line_1182_en a :TranslationVariant ;
+    :text "either because she has heard of her son, or by chance."^^xsd:string ;
+    :relatedTo :Line_1182 .

@@ -4,7 +4,174 @@
 
 :exodus-structure a owl:Ontology .
 
+# --- 1155 ---
+:Line_1155 a :Line ;
+    :lineNumber 1155 ;
+    :canonicalReference "1155" ;
+    :text "Κάδμου πάροικοι καὶ δόμων Ἀμφίονος,"^^xsd:string .
 
+# --- 1156 ---
+:Line_1156 a :Line ;
+    :lineNumber 1156 ;
+    :canonicalReference "1156" ;
+    :text "οὐκ ἔσθ᾽ ὁποῖον στάντ᾽ ἂν ἀνθρώπου βίον"^^xsd:string .
+
+# --- 1157 ---
+:Line_1157 a :Line ;
+    :lineNumber 1157 ;
+    :canonicalReference "1157" ;
+    :text "οὔτ᾽ αἰνέσαιμ᾽ ἂν οὔτε μεμψαίμην ποτέ."^^xsd:string .
+
+# --- 1158 ---
+:Line_1158 a :Line ;
+    :lineNumber 1158 ;
+    :canonicalReference "1158" ;
+    :text "τύχη γὰρ ὀρθοῖ καὶ τύχη καταρρέπει"^^xsd:string .
+
+# --- 1159 ---
+:Line_1159 a :Line ;
+    :lineNumber 1159 ;
+    :canonicalReference "1159" ;
+    :text "τὸν εὐτυχοῦντα τόν τε δυστυχοῦντ᾽ ἀεί·"^^xsd:string .
+
+# --- 1160 ---
+:Line_1160 a :Line ;
+    :lineNumber 1160 ;
+    :canonicalReference "1160" ;
+    :text "καὶ μάντις οὐδείς τῶν καθεστώτων βροτοῖς."^^xsd:string .
+
+# --- 1161 ---
+:Line_1161 a :Line ;
+    :lineNumber 1161 ;
+    :canonicalReference "1161" ;
+    :text "Κρέων γὰρ ἦν ζηλωτός, ὡς ἐμοί, ποτέ,"^^xsd:string .
+
+# --- 1162 ---
+:Line_1162 a :Line ;
+    :lineNumber 1162 ;
+    :canonicalReference "1162" ;
+    :text "σώσας μὲν ἐχθρῶν τήνδε Καδμείαν χθόνα"^^xsd:string .
+
+# --- 1163 ---
+:Line_1163 a :Line ;
+    :lineNumber 1163 ;
+    :canonicalReference "1163" ;
+    :text "λαβὼν τε χώρας παντελῆ μοναρχίαν"^^xsd:string .
+
+# --- 1164 ---
+:Line_1164 a :Line ;
+    :lineNumber 1164 ;
+    :canonicalReference "1164" ;
+    :text "ηὔθυνε, θάλλων εὐγενεῖ τέκνων σπορᾷ·"^^xsd:string .
+
+# --- 1165 ---
+:Line_1165 a :Line ;
+    :lineNumber 1165 ;
+    :canonicalReference "1165" ;
+    :text "καὶ νῦν ἀφεῖται πάντα. τὰς γὰρ ἡδονὰς"^^xsd:string .
+
+# --- 1166 ---
+:Line_1166 a :Line ;
+    :lineNumber 1166 ;
+    :canonicalReference "1166" ;
+    :text "ὅταν προδῶσιν ἄνδρες, οὐ τίθημ᾽ ἐγὼ"^^xsd:string .
+
+# --- 1167 ---
+:Line_1167 a :Line ;
+    :lineNumber 1167 ;
+    :canonicalReference "1167" ;
+    :text "ζῆν τοῦτον, ἀλλ᾽ ἔμψυχον ἡγοῦμαι νεκρόν."^^xsd:string .
+
+# --- 1168 ---
+:Line_1168 a :Line ;
+    :lineNumber 1168 ;
+    :canonicalReference "1168" ;
+    :text "πλούτει τε γὰρ κατ᾽ οἶκον, εἰ βούλει, μέγα"^^xsd:string .
+
+# --- 1169 ---
+:Line_1169 a :Line ;
+    :lineNumber 1169 ;
+    :canonicalReference "1169" ;
+    :text "καὶ ζῆ τύραννον σχῆμ᾽ ἔχων· ἐὰν δ᾽ ἀπῇ"^^xsd:string .
+
+# --- 1170 ---
+:Line_1170 a :Line ;
+    :lineNumber 1170 ;
+    :canonicalReference "1170" ;
+    :text "τούτων τὸ χαίρειν, τἄλλ᾽ ἐγὼ καπνοῦ σκιᾶς"^^xsd:string .
+
+# --- 1171 ---
+:Line_1171 a :Line ;
+    :lineNumber 1171 ;
+    :canonicalReference "1171" ;
+    :text "οὐκ ἂν πριαίμην ἀνδρὶ πρὸς τὴν ἡδονήν."^^xsd:string .
+
+# --- 1172 ---
+:Line_1172 a :Line ;
+    :lineNumber 1172 ;
+    :canonicalReference "1172" ;
+    :text "τί δ᾽ οὖ τόδ᾽ ἄχθος βασιλέων ἥκεις φέρων;"^^xsd:string .
+
+# --- 1173 ---
+:Line_1173 a :Line ;
+    :lineNumber 1173 ;
+    :canonicalReference "1173" ;
+    :text "τεθνᾶσιν. οἱ δὲ ζῶντες αἴτιοι θανεῖν."^^xsd:string .
+
+# --- 1174 ---
+:Line_1174 a :Line ;
+    :lineNumber 1174 ;
+    :canonicalReference "1174" ;
+    :text "καὶ τίς φονεύει; τίς δ᾽ ὁ κείμενος; λέγε."^^xsd:string .
+
+# --- 1175 ---
+:Line_1175 a :Line ;
+    :lineNumber 1175 ;
+    :canonicalReference "1175" ;
+    :text "Αἵμων ὄλωλεν· αὐτόχειρ δ᾽ αἱμάσσεται."^^xsd:string .
+
+# --- 1176 ---
+:Line_1176 a :Line ;
+    :lineNumber 1176 ;
+    :canonicalReference "1176" ;
+    :text "πότερα πατρῴας ἢ πρὸς οἰκείας χερός;"^^xsd:string .
+
+# --- 1177 ---
+:Line_1177 a :Line ;
+    :lineNumber 1177 ;
+    :canonicalReference "1177" ;
+    :text "αὐτὸς πρὸς αὑτοῦ, πατρὶ μηνίσας φόνου."^^xsd:string .
+
+# --- 1178 ---
+:Line_1178 a :Line ;
+    :lineNumber 1178 ;
+    :canonicalReference "1178" ;
+    :text "ὦ μάντι, τοὔπος ὡς ἄρ᾽ ὀρθὸν ἤνυσας."^^xsd:string .
+
+# --- 1179 ---
+:Line_1179 a :Line ;
+    :lineNumber 1179 ;
+    :canonicalReference "1179" ;
+    :text "ὡς ὧδ᾽ ἐχόντων τἄλλα βουλεύειν πάρα."^^xsd:string .
+
+# --- 1180 ---
+:Line_1180 a :Line ;
+    :lineNumber 1180 ;
+    :canonicalReference "1180" ;
+    :text "καὶ μὴν ὁρῶ τάλαιναν Εὐρυδίκην ὁμοῦ"^^xsd:string .
+
+# --- 1181 ---
+:Line_1181 a :Line ;
+    :lineNumber 1181 ;
+    :canonicalReference "1181" ;
+    :text "δάμαρτα τὴν Κρέοντος. ἐκ δὲ δωμάτων"^^xsd:string .
+
+# --- 1182 ---
+:Line_1182 a :Line ;
+    :lineNumber 1182 ;
+    :canonicalReference "1182" ;
+    :text "ἤτοι κλύουσα παιδὸς ἢ τύχη πάρα."^^xsd:string .
+        
 # --- 1183 ---
 :Line_1183 a :Line ;
     :lineNumber 1183 ;

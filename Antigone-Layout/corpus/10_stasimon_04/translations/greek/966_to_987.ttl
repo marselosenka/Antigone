@@ -5,11 +5,11 @@
 :stasimon_04-translations-966-987-greek a owl:Ontology .
 
 :TV_Line_966_gr a :TranslationVariant ;
-    :text "Κοντά στους κυανούς βράχους της θάλασσας,"^^xsd:string ;
+    :text "Κοντά στους κυανούς βράχους της δίδυμης θάλασσας"^^xsd:string ;
     :relatedTo :Line_966 .
 
 :TV_Line_967_gr a :TranslationVariant ;
-    :text "στις δίδυμες Βοσπόριες ακτές και στον θρακικό γιαλό,"^^xsd:string ;
+    :text "βρίσκονται οι Βοσπόριες ακτές και ο θρακικός γιαλός,"^^xsd:string ;
     :relatedTo :Line_967 .
 
 :TV_Line_970_gr a :TranslationVariant ;
@@ -17,7 +17,7 @@
     :relatedTo :Line_970 .
 
 :TV_Line_971_gr a :TranslationVariant ;
-    :text "είδε για τους δυο γιους του Φινέα"^^xsd:string ;
+    :text "για τους δυο γιους του Φινέα"^^xsd:string ;
     :relatedTo :Line_971 .
 
 :TV_Line_972_gr a :TranslationVariant ;

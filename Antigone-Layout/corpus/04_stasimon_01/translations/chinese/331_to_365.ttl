@@ -36,9 +36,9 @@
     :text "最古老、至高、"^^xsd:string ;
     :relatedTo :Line_338 .
 
-:TV_Line_339_zh a :TranslationVariant ;
-    :text "不死且不倦的大地（盖亚），也被他磨损，"^^xsd:string ;
-    :relatedTo :Line_339 .
+# :TV_Line_339_zh a :TranslationVariant ;
+#   :text "不死且不倦的大地（盖亚），也被他磨损，"^^xsd:string ;
+#    :relatedTo :Line_339 .
 
 :TV_Line_340_zh a :TranslationVariant ;
     :text "当犁铧年复一年翻动土壤，"^^xsd:string ;

@@ -2,34 +2,121 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# ==========================
-# Episode 5 Scene Structure
-# ==========================
+# ====================================================================================
+# SCENE INFORMATION
+# ====================================================================================
 
-:Antigone_Scene_Episode5
-    a :Scene ;
+:Antigone_Episode_05
+    a :Episode_05 ;
     :sceneNumber "Episode 5"^^xsd:string ;
-    :hasSpeech :Speech_Teiresias_Ep5_Part1, :Speech_Creon_Ep5_Part1, :Speech_Teiresias_Ep5_Part2 ;
-    :developsTheme :Theme_BlindnessVsSight, :Theme_CivicPollution, :Theme_DivineSilence, :Theme_WisdomFlexibility ;
+    :hasSpeech 
+        :Speech_Teiresias_988_990,
+        :Speech_Creon_991,
+        :Speech_Teiresias_992,
+        :Speech_Creon_993,
+        :Speech_Teiresias_994,
+        :Speech_Creon_995,
+        :Speech_Teiresias_996,
+        :Speech_Creon_997,
+        :Speech_Teiresias_998_1032,
+        :Speech_Creon_1033_1047,
+        :Speech_Teiresias_1048,
+        :Speech_Creon_1049,
+        :Speech_Teiresias_1050,
+        :Speech_Creon_1051,
+        :Speech_Teiresias_1052,
+        :Speech_Creon_1053,
+        :Speech_Teiresias_1054,
+        :Speech_Creon_1055,
+        :Speech_Teiresias_1056,
+        :Speech_Creon_1057,
+        :Speech_Teiresias_1058,
+        :Speech_Creon_1059,
+        :Speech_Teiresias_1060,
+        :Speech_Creon_1061,
+        :Speech_Teiresias_1062,
+        :Speech_Creon_1063,
+        :Speech_Teiresias_1064_1090,
+        :Speech_Chorus_1091_1094,
+        :Speech_Creon_1095_1097,
+        :Speech_Chorus_1098,
+        :Speech_Creon_1099,
+        :Speech_Chorus_1100_1101,
+        :Speech_Creon_1102,
+        :Speech_Chorus_1103_1104,
+        :Speech_Creon_1105_1106,
+        :Speech_Chorus_1107,
+        :Speech_Creon_1108_1114 ;
+    :hasCharacter   :Antigone_Character_Teiresias,
+                    :Antigone_Character_Creon,
+                    :Antigone_Character_Hephaestus,
+                    :Antigone_Character_Boy,
+                    :Antigone_Character_Polyneices,
+                    :Antigone_Character_Furies,
+                    :Antigone_Character_Haemon ;
+    :developsTheme 
+        :Theme_BlindnessVsSight,
+        :Theme_CivicPollution,
+        :Theme_Hybris,
+        :Theme_WisdomVsFolly,
+        :Theme_DivineSilence,
+        :Theme_WisdomFlexibility ;
     :hasConflict :Conflict_StateVsDivinity .
 
-:Antigone_Scene_Episode5_Cont
-    a :Scene ;
-    :sceneNumber "Episode 5 (Continued)"^^xsd:string ;
-    :hasSpeech :Speech_Creon_Ep5_Defense, :Speech_Stichomythia_Ep5 ;
-    :developsTheme :Theme_Hybris, :Theme_Corruption, :Theme_WisdomVsFolly, :Theme_StateVsProphecy ;
-    :hasConflict :Conflict_KingVsSeer, :Conflict_ProfitVsTruth .
 
-:Antigone_Scene_Episode5_Climax
-    a :Scene ;
-    :sceneNumber "Episode 5 (Climax)"^^xsd:string ;
-    :hasSpeech :Speech_Teiresias_Ep5_Prophecy, :Speech_Chorus_Ep5_Reflection, :Speech_Creon_Ep5_Reversal ;
-    :developsTheme :Theme_DivineRetribution, :Theme_Peripeteia, :Theme_CivicPollution, :Theme_NaturalOrder ;
-    :hasConflict :Conflict_UpperLowerWorlds, :Conflict_InternalCreon .
+# Search those on R2 files :     :developsTheme :Theme_DivineRetribution, :Theme_Peripeteia,  :Theme_NaturalOrder ;
+# and     :hasConflict :Conflict_UpperLowerWorlds, :Conflict_InternalCreon .
 
-# ==========================
-# Speeches (Lines 988 - 1114)
-# ==========================
+
+# ===============================================================================
+# CHARACTERS
+# ===========================================================================
+
+:Antigone_Character_Teiresias
+    a :Character ;
+    :role "Seer/Prophet"^^xsd:string ;
+    :status "Priest"^^xsd:string ;
+    :hasMotivation :Motivation_WarnCreon, :Motivation_RestoreRitualOrder, :Motivation_RevealTruth, :Motivation_PronounceDoom ;
+    :experiencesEmotion :Emotion_PropheticDread, :Emotion_Indignation, :Emotion_RighteousAnger ;
+    :advocatesFor :Ethical_Amends, :Principle_PrimacyOfReason .
+
+:Antigone_Character_Creon
+    a :Character ;
+    :role "King of Thebes"^^xsd:string ;
+    :hasMotivation :Motivation_HeedProphet, :Motivation_DismissProphecy, :Motivation_AssertAuthority, :Motivation_AvoidRuin ;
+    :experiencesEmotion :Emotion_TremblingFear, :Emotion_Paranoia, :Emotion_DefensiveAnger, :Emotion_TerrifiedHesitation, :Emotion_Regret ;
+    :makesMoralDecision :Decision_ListenToSeer, :Decision_RevokeEdict ;
+    :advocatesFor :Principle_DivineInvulnerability, :Ethical_TraditionalLaws ;
+    :tragicFlaw "Stubbornness/Hybris"^^xsd:string ;
+    :relatedTo :Event_Peripeteia .
+
+:Antigone_Character_Hephaestus
+    a :Character ;
+    :role "God of Fire/Forge"^^xsd:string ;
+    :description "Ἥφαιστος (Hephaestus), metonymy for the sacrificial fire that failed to ignite."^^xsd:string .
+
+:Antigone_Character_Boy
+    a :Character ;
+    :role "Guide to Teiresias"^^xsd:string ;
+    :description "The eyes for the blind prophet."^^xsd:string .
+
+:Antigone_Character_Polyneices
+    a :Character ;
+    :role "Deceased"^^xsd:string ;
+    :description "The unburied corpse causing the miasma/pollution."^^xsd:string .
+
+:Antigone_Character_Furies
+    a :Character ;
+    :role "Deities of Vengeance"^^xsd:string ;
+    :description "θεῶν Ἐρινύες (Furies), vengeful executioners of Hades who lie in ambush."^^xsd:string .
+
+:Antigone_Character_Haemon
+    a :Character ;
+    :description "The 'corpse sprung from your own flesh' prophesied by Teiresias."^^xsd:string .
+
+# ===========================================================================
+# SPEECHES
+# ===========================================================================
 
 :Speech_Teiresias_Ep5_Part1
     a :Speech ;
@@ -48,13 +135,6 @@
     :hasMotivation :Motivation_WarnCreon ;
     :containsRhetoricalDevice :Device_Metaphor_RazorEdge .
 
-:Speech_Creon_Ep5_Defense
-    a :Speech ;
-    :speechBy :Antigone_Character_Creon ;
-    :containsLine :Line_1033, :Line_1034, :Line_1035, :Line_1036, :Line_1037, :Line_1038, :Line_1039, :Line_1040, :Line_1041, :Line_1042, :Line_1043, :Line_1044, :Line_1045, :Line_1046, :Line_1047 ;
-    :hasMotivation :Motivation_DismissProphecy ;
-    :experiencesEmotion :Emotion_Paranoia, :Emotion_DefensiveAnger ;
-    :containsRhetoricalDevice :Device_Simile_Archers, :Device_Hyperbole_Eagles .
 
 :Speech_Stichomythia_Ep5
     a :Speech ;
@@ -82,8 +162,6 @@
     :containsLine :Line_1095, :Line_1096, :Line_1097, :Line_1098, :Line_1099, :Line_1100, :Line_1101, :Line_1102, :Line_1103, :Line_1104, :Line_1105, :Line_1106, :Line_1107, :Line_1108, :Line_1109, :Line_1110, :Line_1111, :Line_1112, :Line_1113, :Line_1114 ;
     :hasMotivation :Motivation_AvoidRuin ;
     :makesMoralDecision :Decision_RevokeEdict .
-
-## Manual Speeches fix
 
 :Speech_Teiresias_988_990 a :Speech;
     :speechby :Antigone_Character_Teiresias ;
@@ -123,7 +201,14 @@
 
 :Speech_Creon_1033_1047 a :Speech ;
     :speechBy :Antigone_Character_Creon ;
-    :containsLine :Line_1033, :Line_1034, :Line_1035, :Line_1036, :Line_1037, :Line_1038, :Line_1039, :Line_1040, :Line_1041, :Line_1042, :Line_1043, :Line_1044, :Line_1045, :Line_1046, :Line_1047 .
+    :containsLine :Line_1033, :Line_1034, :Line_1035, :Line_1036, :Line_1037, :Line_1038, :Line_1039, :Line_1040, :Line_1041, :Line_1042, :Line_1043, :Line_1044, :Line_1045, :Line_1046, :Line_1047 ;
+    :hasMotivation :Motivation_DismissProphecy ;
+    :experiencesEmotion :Emotion_Paranoia, :Emotion_DefensiveAnger ;
+    :containsRhetoricalDevice :Device_Simile_Archers, :Device_Hyperbole_Eagles .
+
+# Look for Emotion_Paranoia , Emotion_DefensiveAnger on R2 files.
+# Motivation_DismissProphecy also
+
 
 :Speech_Teiresias_1048 a :Speech ;
     :speechBy :Antigone_Character_Teiresias ;
@@ -233,51 +318,6 @@
     :speechBy :Antigone_Character_Creon ;
     :containsLine :Line_1108, :Line_1109, :Line_1110, :Line_1111, :Line_1112, :Line_1113, :Line_1114 .
 
-# ==========================
-# Characters
-# ==========================
-
-:Antigone_Character_Teiresias
-    a :Character ;
-    :role "Seer/Prophet"^^xsd:string ;
-    :status "Priest"^^xsd:string ;
-    :hasMotivation :Motivation_WarnCreon, :Motivation_RestoreRitualOrder, :Motivation_RevealTruth, :Motivation_PronounceDoom ;
-    :experiencesEmotion :Emotion_PropheticDread, :Emotion_Indignation, :Emotion_RighteousAnger ;
-    :advocatesFor :Ethical_Amends, :Principle_PrimacyOfReason .
-
-:Antigone_Character_Creon
-    a :Character ;
-    :role "King of Thebes"^^xsd:string ;
-    :hasMotivation :Motivation_HeedProphet, :Motivation_DismissProphecy, :Motivation_AssertAuthority, :Motivation_AvoidRuin ;
-    :experiencesEmotion :Emotion_TremblingFear, :Emotion_Paranoia, :Emotion_DefensiveAnger, :Emotion_TerrifiedHesitation, :Emotion_Regret ;
-    :makesMoralDecision :Decision_ListenToSeer, :Decision_RevokeEdict ;
-    :advocatesFor :Principle_DivineInvulnerability, :Ethical_TraditionalLaws ;
-    :tragicFlaw "Stubbornness/Hybris"^^xsd:string ;
-    :relatedTo :Event_Peripeteia .
-
-:Antigone_Character_Hephaestus
-    a :Character ;
-    :role "God of Fire/Forge"^^xsd:string ;
-    :description "Ἥφαιστος (Hephaestus), metonymy for the sacrificial fire that failed to ignite."^^xsd:string .
-
-:Antigone_Character_Boy
-    a :Character ;
-    :role "Guide to Teiresias"^^xsd:string ;
-    :description "The eyes for the blind prophet."^^xsd:string .
-
-:Antigone_Character_Polyneices
-    a :Character ;
-    :role "Deceased"^^xsd:string ;
-    :description "The unburied corpse causing the miasma/pollution."^^xsd:string .
-
-:Antigone_Character_Furies
-    a :Character ;
-    :role "Deities of Vengeance"^^xsd:string ;
-    :description "θεῶν Ἐρινύες (Furies), vengeful executioners of Hades who lie in ambush."^^xsd:string .
-
-:Antigone_Character_Haemon
-    a :Character ;
-    :description "The 'corpse sprung from your own flesh' prophesied by Teiresias."^^xsd:string .
 
 # ==========================
 # Themes & Principles

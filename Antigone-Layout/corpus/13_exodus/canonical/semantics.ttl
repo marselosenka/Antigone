@@ -2,24 +2,120 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# ==========================
-# Exodus Scene Structure
-# ==========================
+# ===============================================================================================
+# SCENE INFORMATION
+# ===============================================================================================
 
 :Antigone_Scene_Exodus
-    a :Scene ;
+    a :Exodus ;
     :sceneNumber "Exodus (Έξοδος)"^^xsd:string ;
     :summary "The messenger narrative of the burial and suicides, the appearance and death of Eurydice, and Creon's total psychological collapse."^^xsd:string ;
-    :hasSpeech :Speech_Messenger_1155_1171, :Speech_Chorus_1172_1182, :Speech_Eurydice_1183_1191, 
-                :Speech_Messenger_1192_1243, :Speech_Creon_Return_1261_1276, :Speech_DoubleTragedy_1277_1305, 
-                :Speech_Exodus_Finale_1306_1352 ;
-    :developsTheme :Theme_FateInstability, :Theme_PowerWorthlessness, :Theme_MarriageInDeath, 
-                    :Theme_WisdomThroughSuffering, :Theme_DivineMadness, :Theme_LivingCorpse ;
-    :hasConflict :Conflict_HaemonVsCreon, :Conflict_FortuneVsProphecy, :Conflict_ArroganceVsWisdom .
+    :hasSpeech 
+        :Speech_Messenger_1155_1171,
+        :Speech_Chorus_1172_1182,
+        :Speech_Eurydice_1183_1191,
+        :Speech_Messenger_1192_1218l,
+        :Speech_Messenger_1219_1243,
+        :Speech_Chorus_1244_1245,
+        :Speech_Messenger_1246_1250,
+        :Speech_Chorus_1251_1252,
+        :Speech_Messenger_1253_1256,
+        :Speech_Chorus_1257_1260,
+        :Speech_Creon_1261_1269,
+        :Speech_Chorus_1270,
+        :Speech_Creon_1271_1276,
+        :Speech_Messenger_1278_1280,
+        :Speech_Creon_1281,
+        :Speech_Messenger_1282_1283,
+        :Speech_Creon_1284_1292,
+        :Speech_Chorus_1293,
+        :Speech_Creon_1294_1300,
+        :Speech_Messenger_1301_1305,
+        :Speech_Creon_1306_1311,
+        :Speech_Messenger_1312_1313,
+        :Speech_Creon_1314,
+        :Speech_Messenger_1315_1316,
+        :Speech_Creon_1317_1325,
+        :Speech_Chorus_1326_1327,
+        :Speech_Creon_1328_1332,
+        :Speech_Chorus_1334_1335,
+        :Speech_Creon_1336,
+        :Speech_Chorus_1337_1338,
+        :Speech_Creon_1339_1346,
+        :Speech_Chorus_1347_1352 ;
+    :developsTheme 
+        :Theme_FateInstability,
+        :Theme_PowerWorthlessness,
+        :Theme_MarriageInDeath,
+        :Theme_WisdomThroughSuffering,
+        :Theme_DivineMadness,
+        :Theme_LivingCorpse ;
+    :hasConflict 
+        :Conflict_HaemonVsCreon,
+        :Conflict_FortuneVsProphecy,
+        :Conflict_ArroganceVsWisdom ;
+    :hasCharacter 
+        :Antigone_Character_Messenger,
+        :Antigone_Character_Creon,
+        :Antigone_Character_Eurydice,
+        :Antigone_Character_Haemon,
+        :Antigone_Character_Chorus,
+        :Antigone_Character_Megareus .
 
 # ==========================
-# Speeches (Consolidated)
+# Characters & Roles
 # ==========================
+
+:Antigone_Character_Messenger
+    a :Character ;
+    :role "Messenger (Άγγελος/Εξάγγελος)"^^xsd:string ;
+    :hasMotivation :Motivation_ReportDownfall, :Motivation_AbsoluteTruth, :Motivation_CheckEurydice ;
+    :experiencesEmotion :Emotion_PhilosophicalSorrow, :Emotion_Fatalism, :Emotion_Suspicion .
+
+:Antigone_Character_Creon
+    a :Character ;
+    :role "Creon (Κρέων)"^^xsd:string ;
+    :status "King (Tyrannos)"^^xsd:string ;
+    :makesMoralDecision :Decision_ConfessGuilt, :Decision_AcceptTotalBlame ;
+    :experiencesEmotion :Emotion_Lamentation, :Emotion_SelfLoathing, :Emotion_Agony, :Emotion_Annihilation, :Emotion_ShatteredIdentity ;
+    :hasMotivation :Motivation_RescueSon, :Motivation_PublicLament, :Motivation_DeathWish .
+
+:Antigone_Character_Eurydice
+    a :Character ;
+    :role "Eurydice (Ευρυδίκη)"^^xsd:string ;
+    :makesMoralDecision :Decision_FinalSuicide ;
+    :experiencesEmotion :Emotion_MaternalGrief, :Emotion_Terror, :Emotion_Misery, :Emotion_Bitterness ;
+    :hasMotivation :Motivation_SeekTruth, :Motivation_CurseCreon .
+
+:Antigone_Character_Haemon
+    a :Character ;
+    :role "Haemon (Αίμων)"^^xsd:string ;
+    :makesMoralDecision :Decision_Suicide_Revenge ;
+    :experiencesEmotion :Emotion_Rage, :Emotion_Despair, :Emotion_Grief ;
+    :hasMotivation :Motivation_RevengeAgainstFather .
+
+:Antigone_Character_Chorus
+    a :Character ;
+    :role "Chorus of Theban Elders (Χορός Θηβαίων Γερόντων)"^^xsd:string ;
+    :experiencesEmotion :Emotion_Anxiety, :Emotion_Foreboding, :Emotion_SternMoralizing ;
+    :advocatesFor :EthicalPrinciple_Wisdom, :EthicalPrinciple_Humility, :EthicalPrinciple_Phronein .
+
+:Antigone_Character_Megareus
+    a :Character ;
+    :description "Elder son of Creon, whose prior death is lamented by Eurydice."^^xsd:string .
+
+# ===========================================================================================
+# SPEECHES
+# ===========================================================================================
+
+
+# :Speech_Exodus_Finale_1306_1352
+#    a :Speech ;
+#    :speechBy :Antigone_Character_Creon, :Antigone_Character_Chorus ;
+#    :hasTheme :Theme_WisdomThroughSuffering, :Theme_InevitabilityOfFate, :Theme_AnnihilationOfSelf ;
+#    :containsLine :Line_1306, :Line_1314, :Line_1320, :Line_1325, :Line_1334, :Line_1347, :Line_1350, :Line_1353 .
+
+# Manual Speeches
 
 :Speech_Messenger_1155_1171
     a :Speech ;
@@ -27,44 +123,20 @@
     :containsLine :Line_1155, :Line_1160, :Line_1165, :Line_1170 ;
     :hasTheme :Theme_FateInstability .
 
+# Something missing
+
 :Speech_Eurydice_1183_1191
     a :Speech ;
     :speechBy :Antigone_Character_Eurydice ;
     :experiencesEmotion :Emotion_Shock, :Emotion_Terror ;
-    :containsLine :Line_1183, :Line_1185, :Line_1190 .
-
-:Speech_Messenger_1192_1243
-    a :Speech ;
-    :speechBy :Antigone_Character_Messenger ;
-    :hasMotivation :Motivation_AbsoluteTruth ;
-    :hasTheme :Theme_MarriageInDeath, :Theme_HumanFolly, :Theme_ProperBurial ;
-    :containsLine :Line_1192, :Line_1200, :Line_1210, :Line_1220, :Line_1230, :Line_1240, :Line_1243 .
-
-:Speech_Creon_Return_1261_1276
-    a :Speech ;
-    :speechBy :Antigone_Character_Creon ;
-    :hasTheme :Theme_LateWisdom, :Theme_DivineMadness ;
-    :containsLine :Line_1261, :Line_1265, :Line_1270, :Line_1272, :Line_1276 .
-
-:Speech_Exodus_Finale_1306_1352
-    a :Speech ;
-    :speechBy :Antigone_Character_Creon, :Antigone_Character_Chorus ;
-    :hasTheme :Theme_WisdomThroughSuffering, :Theme_InevitabilityOfFate, :Theme_AnnihilationOfSelf ;
-    :containsLine :Line_1306, :Line_1314, :Line_1320, :Line_1325, :Line_1334, :Line_1347, :Line_1350, :Line_1353 .
-
-# Manual Speeches
-
-:Speech_Eurydice_1183_1191_Detail
-    a :Speech ;
-    :speechBy :Antigone_Character_Eurydice ;
     :containsLine :Line_1183, :Line_1184, :Line_1185, :Line_1186, :Line_1187, :Line_1188, :Line_1189, :Line_1190, :Line_1191 .
 
-:Speech_Messenger_1192_1218_Detail
+:Speech_Messenger_1192_1218
     a :Speech ;
     :speechBy :Antigone_Character_Messenger ;
     :containsLine :Line_1192, :Line_1193, :Line_1194, :Line_1195, :Line_1196, :Line_1197, :Line_1198, :Line_1199, :Line_1200, :Line_1201, :Line_1202, :Line_1203, :Line_1204, :Line_1205, :Line_1206, :Line_1207, :Line_1208, :Line_1209, :Line_1210, :Line_1211, :Line_1212, :Line_1213, :Line_1214, :Line_1215, :Line_1216, :Line_1217, :Line_1218 .
 
-:Speech_Messenger_1219_1243_Detail
+:Speech_Messenger_1219_1243
     a :Speech ;
     :speechBy :Antigone_Character_Messenger ;
     :containsLine :Line_1219, :Line_1220, :Line_1221, :Line_1222, :Line_1223, :Line_1224, :Line_1225, :Line_1226, :Line_1227, :Line_1228, :Line_1229, :Line_1230, :Line_1231, :Line_1232, :Line_1233, :Line_1234, :Line_1235, :Line_1236, :Line_1237, :Line_1238, :Line_1239, :Line_1240, :Line_1241, :Line_1242, :Line_1243 .
@@ -204,48 +276,6 @@
     :speechBy :Antigone_Character_Chorus ;
     :containsLine :Line_1347, :Line_1348, :Line_1350, :Line_1351, :Line_1352 .
 
-
-# ==========================
-# Characters & Roles
-# ==========================
-
-:Antigone_Character_Messenger
-    a :Character ;
-    :role "Messenger (Άγγελος/Εξάγγελος)"^^xsd:string ;
-    :hasMotivation :Motivation_ReportDownfall, :Motivation_AbsoluteTruth, :Motivation_CheckEurydice ;
-    :experiencesEmotion :Emotion_PhilosophicalSorrow, :Emotion_Fatalism, :Emotion_Suspicion .
-
-:Antigone_Character_Creon
-    a :Character ;
-    :role "Creon (Κρέων)"^^xsd:string ;
-    :status "King (Tyrannos)"^^xsd:string ;
-    :makesMoralDecision :Decision_ConfessGuilt, :Decision_AcceptTotalBlame ;
-    :experiencesEmotion :Emotion_Lamentation, :Emotion_SelfLoathing, :Emotion_Agony, :Emotion_Annihilation, :Emotion_ShatteredIdentity ;
-    :hasMotivation :Motivation_RescueSon, :Motivation_PublicLament, :Motivation_DeathWish .
-
-:Antigone_Character_Eurydice
-    a :Character ;
-    :role "Eurydice (Ευρυδίκη)"^^xsd:string ;
-    :makesMoralDecision :Decision_FinalSuicide ;
-    :experiencesEmotion :Emotion_MaternalGrief, :Emotion_Terror, :Emotion_Misery, :Emotion_Bitterness ;
-    :hasMotivation :Motivation_SeekTruth, :Motivation_CurseCreon .
-
-:Antigone_Character_Haemon
-    a :Character ;
-    :role "Haemon (Αίμων)"^^xsd:string ;
-    :makesMoralDecision :Decision_Suicide_Revenge ;
-    :experiencesEmotion :Emotion_Rage, :Emotion_Despair, :Emotion_Grief ;
-    :hasMotivation :Motivation_RevengeAgainstFather .
-
-:Antigone_Character_Chorus
-    a :Character ;
-    :role "Chorus of Theban Elders (Χορός Θηβαίων Γερόντων)"^^xsd:string ;
-    :experiencesEmotion :Emotion_Anxiety, :Emotion_Foreboding, :Emotion_SternMoralizing ;
-    :advocatesFor :EthicalPrinciple_Wisdom, :EthicalPrinciple_Humility, :EthicalPrinciple_Phronein .
-
-:Antigone_Character_Megareus
-    a :Character ;
-    :description "Elder son of Creon, whose prior death is lamented by Eurydice."^^xsd:string .
 
 # ==========================
 # Themes & Concepts

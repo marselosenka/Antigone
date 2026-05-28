@@ -4,7 +4,11 @@
 
 :stasimon01-structure a owl:Ontology .
 
-
+# --- 331 ---
+:Line_331 a owl:NamedIndividual, :Line ; 
+    :lineNumber 331 ; 
+    :canonicalReference "331"^^xsd:string ;
+    :text "σωθεὶς ὀφείλω τοῖς θεοῖς πολλὴν χάριν."^^xsd:string .
 # --- 332 ---
 :Line_332 a owl:NamedIndividual, :Line ; 
     :lineNumber 332 ; 

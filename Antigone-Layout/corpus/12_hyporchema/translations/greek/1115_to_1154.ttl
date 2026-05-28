@@ -109,12 +109,8 @@
     :relatedTo :Line_1147 .
 
 :TV_Line_1148_gr a :TranslationVariant ;
-    :text "παιδί γεννημένο από τον Δία,"^^xsd:string ;
+    :text "παιδί γεννημένο από τον Δία, φάνηθι,"^^xsd:string ;
     :relatedTo :Line_1148 .
-
-:TV_Line_1149_gr a :TranslationVariant ;
-    :text "φάνηθι,"^^xsd:string ;
-    :relatedTo :Line_1149 .
 
 :TV_Line_1150_gr a :TranslationVariant ;
     :text "κύριέ μου, μαζί με τη συνοδεία σου"^^xsd:string ;

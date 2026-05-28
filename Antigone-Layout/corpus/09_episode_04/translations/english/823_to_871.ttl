@@ -6,76 +6,82 @@
 # English translation variants extracted from 823_to_871.ttl
 
 :TV_Line_823_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "I have heard how our Phrygian guest, Niobe, the daughter of Tantalus, died a miserable death."^^xsd:string ;
+    :text "I have heard how our Phrygian guest died a miserable death."^^xsd:string ;
     :relatedTo :Line_823 .
 
 :TV_Line_825_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "I have heard how our Phrygian guest, Niobe, the daughter of Tantalus, died a miserable death near lofty Mount Sipylus."^^xsd:string ;
+    :text "the daughter of Tantalus, near lofty Mount Sipylus, whom a growth like clinging ivy"^^xsd:string ;
     :relatedTo :Line_825 .
 
 :TV_Line_826_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "The growth of rock, like clinging ivy, subdued her."^^xsd:string ;
+    :text "a growth of rock subdued; and, as she melts away, the rains"^^xsd:string ;
     :relatedTo :Line_826 .
 
 :TV_Line_827_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Now—as the story goes—she melts away."^^xsd:string ;
+    :text "as the story goes,"^^xsd:string ;
     :relatedTo :Line_827 .
 
+# Line 828 and 829 do not exist in Antigone.
 :TV_Line_830_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Rain and snow never leave her. But with tears streaming down her face, she dampens the ridges of the mountain."^^xsd:string ;
+    :text "and snow never leave her; beneath her tearful brows she dampens"^^xsd:string ;
     :relatedTo :Line_830 .
 
 :TV_Line_831_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I am most like her, as the god leads me to my sleep."^^xsd:string ;
     :relatedTo :Line_831 .
 
+# Line 832 and 833 do not exist in Antigone.
+
 :TV_Line_834_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Yet she was not only god-born but also a goddess herself, while we are but mortals, born from mortals."^^xsd:string ;
+    :text "Yet she was a goddess herself, and god-born,"^^xsd:string ;
     :relatedTo :Line_834 .
 
 :TV_Line_835_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Yet she was not only god-born but also a goddess herself, while we are but mortals, born from mortals."^^xsd:string ;
+    :text "while we are but mortals, born from mortals."^^xsd:string ;
     :relatedTo :Line_835 .
 
 :TV_Line_836_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Still, it is great for one in the throes of death to hear that she has obtained the luck of a god in life and in death."^^xsd:string ;
+    :text "Still, it is great for one in the throes of death to hear"^^xsd:string ;
     :relatedTo :Line_836 .
 
 :TV_Line_837_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Oh, now you’re mocking me!"^^xsd:string ;
+    :text "that she has obtained the fortune of the gods,"^^xsd:string ;
     :relatedTo :Line_837 .
 
 :TV_Line_838_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Why, by my father’s gods, do you insult me to my face, and not wait until I’ve gone, my city and you, her wealthiest citizens?"^^xsd:string ;
+    :text "both in life and in death."^^xsd:string ;
     :relatedTo :Line_838 .
 
 :TV_Line_839_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Why, by my father’s gods, do you insult me to my face, and not wait until I’ve gone, my city and you, her wealthiest citizens?"^^xsd:string ;
+    :text "Oh, now you are mocking me! Why, by my father’s gods,"^^xsd:string ;
     :relatedTo :Line_839 .
 
 :TV_Line_840_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Why, by my father’s gods, do you insult me to my face, and not wait until I’ve gone, my city and you, her wealthiest citizens?"^^xsd:string ;
+    :text "do you insult me to my face, before I have gone?"^^xsd:string ;
     :relatedTo :Line_840 .
 
 :TV_Line_841_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Why, by my father’s gods, do you insult me to my face, and not wait until I’ve gone, my city and you, her wealthiest citizens?"^^xsd:string ;
+    :text "My city, and you, her wealthiest citizens, "^^xsd:string ;
     :relatedTo :Line_841 .
 
 :TV_Line_842_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Why, by my father’s gods, do you insult me to my face, and not wait until I’ve gone, my city and you, her wealthiest citizens?"^^xsd:string ;
+    :text "ah, springs of Dirce,"^^xsd:string ;
     :relatedTo :Line_842 .
 
+# Line 843 and 844 do not exist in Antigone
 :TV_Line_845_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Ah! Springs of Dirce and grove of Thebes of many chariots, you at least I can count on to witness how I go, unwept by my loved ones, to my rock-heap prison, to my unknown tomb."^^xsd:string ;
+    :text "and grove of Thebes of many chariots, you at least I can count on as witnesses,"^^xsd:string ;
     :relatedTo :Line_845 .
 
 :TV_Line_846_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Ah! Springs of Dirce and grove of Thebes of many chariots, you at least I can count on to witness how I go, unwept by my loved ones, to my rock-heap prison, to my unknown tomb."^^xsd:string ;
+    :text "how I go, unwept by my loved ones, and by what laws"^^xsd:string ;
     :relatedTo :Line_846 .
 
 :TV_Line_847_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Ah! Springs of Dirce and grove of Thebes of many chariots, you at least I can count on to witness how I go, unwept by my loved ones, to my rock-heap prison, to my unknown tomb. Ah! Unhappy one!"^^xsd:string ;
+    :text "to my rock-heaped prison, to my strange tomb."^^xsd:string ;
     :relatedTo :Line_847 .
+
+# Line 848 and 849 do not exist in Antigone.
 
 :TV_Line_850_en a owl:NamedIndividual, :TranslationVariant ;
     :text "I neither live among mortals nor shades, neither with the living nor the dead."^^xsd:string ;
@@ -85,40 +91,46 @@
     :text "I neither live among mortals nor shades, neither with the living nor the dead."^^xsd:string ;
     :relatedTo :Line_851 .
 
+# Line 852 do not exist in Antigone.
+
+
 :TV_Line_853_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You rushed through the depths of recklessness for the high throne of Dike, but you have fallen, oh child, fallen very far."^^xsd:string ;
+    :text "You rushed through the depths of recklessness"^^xsd:string ;
     :relatedTo :Line_853 .
 
 :TV_Line_854_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You rushed through the depths of recklessness for the high throne of Dike, but you have fallen, oh child, fallen very far."^^xsd:string ;
+    :text "toward the high throne of Dike,"^^xsd:string ;
     :relatedTo :Line_854 .
 
 :TV_Line_855_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You rushed through the depths of recklessness for the high throne of Dike, but you have fallen, oh child, fallen very far. Now you will pay for your father’s crimes."^^xsd:string ;
+    :text "but you have fallen, oh child, fallen very far."^^xsd:string ;
     :relatedTo :Line_855 .
 
 :TV_Line_856_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You have touched upon my most painful memory, the thrice-told doom of my father and our whole destiny, that of the famed Labdacids."^^xsd:string ;
+    :text "Now you pay for your father’s crimes."^^xsd:string ;
     :relatedTo :Line_856 .
 
+# Line 857 does not exist in Antigone.
+
 :TV_Line_858_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You have touched upon my most painful memory, the thrice-told doom of my father and our whole destiny, that of the famed Labdacids."^^xsd:string ;
+    :text "You have touched upon my most painful memory,"^^xsd:string ;
     :relatedTo :Line_858 .
 
 :TV_Line_859_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You have touched upon my most painful memory, the thrice-told doom of my father and our whole destiny, that of the famed Labdacids."^^xsd:string ;
+    :text "the thrice-told doom of my father and of all"^^xsd:string ;
     :relatedTo :Line_859 .
 
 :TV_Line_860_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "You have touched upon my most painful memory, the thrice-told doom of my father and our whole destiny, that of the famed Labdacids."^^xsd:string ;
+    :text "our destiny, that of the famed Labdacids."^^xsd:string ;
     :relatedTo :Line_860 .
 
 :TV_Line_861_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Oh, our mother’s disaster of a marriage and my father’s incestuous intercourse with his ill-fated mother!"^^xsd:string ;
+    :text "Oh, our mother’s disaster of a marriage!"^^xsd:string ;
     :relatedTo :Line_861 .
 
+# Lines 862,863 and 864 do not exist in Antigone.
 :TV_Line_865_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Oh, our mother’s disaster of a marriage and my father’s incestuous intercourse with his ill-fated mother!"^^xsd:string ;
+    :text "and my father’s incestuous intercourse with his ill-fated mother!"^^xsd:string ;
     :relatedTo :Line_865 .
 
 :TV_Line_866_en a owl:NamedIndividual, :TranslationVariant ;
@@ -129,10 +141,11 @@
     :text "I go to them to live, accursed, unmarried."^^xsd:string ;
     :relatedTo :Line_867 .
 
+# Line 868 and 869 do not exist in Antigone.
 :TV_Line_870_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Ah, my brother who secured an ill-fated marriage, in your death you have slain me alive."^^xsd:string ;
+    :text "Ah, my brother, who secured an ill-fated marriage,"^^xsd:string ;
     :relatedTo :Line_870 .
 
 :TV_Line_871_en a owl:NamedIndividual, :TranslationVariant ;
-    :text "Ah, my brother who secured an ill-fated marriage, in your death you have slain me alive."^^xsd:string ;
+    :text "in your death you have slain me while I am still alive."^^xsd:string ;
     :relatedTo :Line_871 .
