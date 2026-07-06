@@ -4,110 +4,110 @@
 
 :prologue-translations-63-89-greek a owl:Ontology .
 
-:TV_Line_063_gr a :TranslationVariant ;
+:TV_Line_063_GR a :TranslationVariant ;
     :text "Κι έπειτα, επειδή κυβερνιόμαστε από ισχυρότερους,"^^xsd:string ;
     :relatedTo :Line_063 .
 
-:TV_Line_064_gr a :TranslationVariant ;
+:TV_Line_064_GR a :TranslationVariant ;
     :text "πρέπει και αυτά να τα ακούμε, και ακόμη πιο οδυνηρά."^^xsd:string ;
     :relatedTo :Line_064 .
 
-:TV_Line_065_gr a :TranslationVariant ;
+:TV_Line_065_GR a :TranslationVariant ;
     :text "Εγώ λοιπόν, ζητώντας από τους κάτω από τη γη"^^xsd:string ;
     :relatedTo :Line_065 .
 
-:TV_Line_066_gr a :TranslationVariant ;
+:TV_Line_066_GR a :TranslationVariant ;
     :text "να δείξουν συγγνώμη, αφού εξαναγκάζομαι σε αυτά,"^^xsd:string ;
     :relatedTo :Line_066 .
 
-:TV_Line_067_gr a :TranslationVariant ;
+:TV_Line_067_GR a :TranslationVariant ;
     :text "θα πεισθώ σε όσους στέκονται στην εξουσία· γιατί"^^xsd:string ;
     :relatedTo :Line_067 .
 
-:TV_Line_068_gr a :TranslationVariant ;
+:TV_Line_068_GR a :TranslationVariant ;
     :text "το να πράττει κανείς τα υπερβολικά δεν έχει κανέναν νου."^^xsd:string ;
     :relatedTo :Line_068 .
 
-:TV_Line_069_gr a :TranslationVariant ;
+:TV_Line_069_GR a :TranslationVariant ;
     :text "Ούτε θα σε πρόσταζα, ούτε κι αν ακόμα ήθελες"^^xsd:string ;
     :relatedTo :Line_069 .
 
-:TV_Line_070_gr a :TranslationVariant ;
+:TV_Line_070_GR a :TranslationVariant ;
     :text "να το πράξεις, θα το έκανες με τη δική μου ευχαρίστηση."^^xsd:string ;
     :relatedTo :Line_070 .
 
-:TV_Line_071_gr a :TranslationVariant ;
+:TV_Line_071_GR a :TranslationVariant ;
     :text "Μα εσύ να ξέρεις ό,τι σου φαίνεται· εγώ εκείνον θα τον θάψω."^^xsd:string ;
     :relatedTo :Line_071 .
 
-:TV_Line_072_gr a :TranslationVariant ;
+:TV_Line_072_GR a :TranslationVariant ;
     :text "Ωραίο είναι για μένα, κάνοντάς το αυτό, να πεθάνω."^^xsd:string ;
     :relatedTo :Line_072 .
 
-:TV_Line_073_gr a :TranslationVariant ;
+:TV_Line_073_GR a :TranslationVariant ;
     :text "Αγαπημένη μαζί του θα κείτομαι, μαζί με αγαπημένο,"^^xsd:string ;
     :relatedTo :Line_073 .
 
-:TV_Line_074_gr a :TranslationVariant ;
+:TV_Line_074_GR a :TranslationVariant ;
     :text "έχοντας κάνει ιερό ανοσιούργημα· επειδή περισσότερος είναι ο χρόνος"^^xsd:string ;
     :relatedTo :Line_074 .
 
-:TV_Line_075_gr a :TranslationVariant ;
+:TV_Line_075_GR a :TranslationVariant ;
     :text "που πρέπει να αρέσω στους κάτω παρά στους εδώ επάνω."^^xsd:string ;
     :relatedTo :Line_075 .
 
-:TV_Line_076_gr a :TranslationVariant ;
+:TV_Line_076_GR a :TranslationVariant ;
     :text "Εκεί θα κείτομαι για πάντα. Κι εσύ, αν σου φαίνεται καλό,"^^xsd:string ;
     :relatedTo :Line_076 .
 
-:TV_Line_077_gr a :TranslationVariant ;
+:TV_Line_077_GR a :TranslationVariant ;
     :text "να ατιμάζεις όσα οι θεοί τιμούν, να το κάνεις."^^xsd:string ;
     :relatedTo :Line_077 .
 
-:TV_Line_078_gr a :TranslationVariant ;
+:TV_Line_078_GR a :TranslationVariant ;
     :text "Εγώ δεν θεωρώ ότι πράττω άτιμα· όμως"^^xsd:string ;
     :relatedTo :Line_078 .
 
-:TV_Line_079_gr a :TranslationVariant ;
+:TV_Line_079_GR a :TranslationVariant ;
     :text "να πράττω με τη βία ενάντια στους πολίτες είμαι ανήμπορη."^^xsd:string ;
     :relatedTo :Line_079 .
 
-:TV_Line_080_gr a :TranslationVariant ;
+:TV_Line_080_GR a :TranslationVariant ;
     :text "Εσύ αυτά ας τα προβάλλεις· εγώ όμως τάφο"^^xsd:string ;
     :relatedTo :Line_080 .
 
-:TV_Line_081_gr a :TranslationVariant ;
+:TV_Line_081_GR a :TranslationVariant ;
     :text "θα πάω να υψώσω για τον πιο αγαπημένο μου αδελφό."^^xsd:string ;
     :relatedTo :Line_081 .
 
-:TV_Line_082_gr a :TranslationVariant ;
+:TV_Line_082_GR a :TranslationVariant ;
     :text "Αλίμονο στη δύστυχη, πόσο πολύ σε φοβάμαι."^^xsd:string ;
     :relatedTo :Line_082 .
 
-:TV_Line_083_gr a :TranslationVariant ;
+:TV_Line_083_GR a :TranslationVariant ;
     :text "Μη φοβάσαι για μένα· τη δική σου μοίρα διόρθωνε."^^xsd:string ;
     :relatedTo :Line_083 .
 
-:TV_Line_084_gr a :TranslationVariant ;
+:TV_Line_084_GR a :TranslationVariant ;
     :text "Τουλάχιστον, αυτό το έργο μην το προαναγγείλεις σε κανέναν,"^^xsd:string ;
     :relatedTo :Line_084 .
 
-:TV_Line_085_gr a :TranslationVariant ;
+:TV_Line_085_GR a :TranslationVariant ;
     :text "κράτα το κρυφό, κι εγώ το ίδιο."^^xsd:string ;
     :relatedTo :Line_085 .
 
-:TV_Line_086_gr a :TranslationVariant ;
+:TV_Line_086_GR a :TranslationVariant ;
     :text "Αχ, διαλάλησέ το! Πολύ πιο μισητή θα είσαι"^^xsd:string ;
     :relatedTo :Line_086 .
 
-:TV_Line_087_gr a :TranslationVariant ;
+:TV_Line_087_GR a :TranslationVariant ;
     :text "αν σιωπάς, εκτός αν τα κηρύξεις αυτά σε όλους."^^xsd:string ;
     :relatedTo :Line_087 .
 
-:TV_Line_088_gr a :TranslationVariant ;
+:TV_Line_088_GR a :TranslationVariant ;
     :text "Ζεστή καρδιά έχεις για ψυχρά έργα."^^xsd:string ;
     :relatedTo :Line_088 .
 
-:TV_Line_089_gr a :TranslationVariant ;
+:TV_Line_089_GR a :TranslationVariant ;
     :text "Μα ξέρω πως αρέσω σε εκείνους που πιο πολύ πρέπει να αρέσω."^^xsd:string ;
     :relatedTo :Line_089 .

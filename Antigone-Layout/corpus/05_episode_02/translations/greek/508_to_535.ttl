@@ -4,114 +4,114 @@
 
 :episode_02-translations-508-535-greek a owl:Ontology .
 
-:TV_Line_508_gr a :TranslationVariant ;
+:TV_Line_508_GR a :TranslationVariant ;
     :text "Μόνο εσύ από όλους τους Καδμείους το βλέπεις αυτό."^^xsd:string ;
     :relatedTo :Line_508 .
 
-:TV_Line_509_gr a :TranslationVariant ;
+:TV_Line_509_GR a :TranslationVariant ;
     :text "Το βλέπουν κι αυτοί, αλλά μπροστά σου κλείνουν το στόμα."^^xsd:string ;
     :relatedTo :Line_509 .
 
-:TV_Line_510_gr a :TranslationVariant ;
+:TV_Line_510_GR a :TranslationVariant ;
     :text "Και δεν ντρέπεσαι να σκέφτεσαι διαφορετικά απ’ αυτούς;"^^xsd:string ;
     :relatedTo :Line_510 .
 
-:TV_Line_511_gr a :TranslationVariant ;
+:TV_Line_511_GR a :TranslationVariant ;
     :text "Δεν είναι καθόλου ντροπή να τιμάς τους ομοαίματους."^^xsd:string ;
     :relatedTo :Line_511 .
 
-:TV_Line_512_gr a :TranslationVariant ;
+:TV_Line_512_GR a :TranslationVariant ;
     :text "Δεν ήταν κι εκείνος ομόαιμος, αυτός που πέθανε απέναντι;"^^xsd:string ;
     :relatedTo :Line_512 .
 
-:TV_Line_513_gr a :TranslationVariant ;
+:TV_Line_513_GR a :TranslationVariant ;
     :text "Ομόαιμος, από τον ίδιο πατέρα και την ίδια μητέρα."^^xsd:string ;
     :relatedTo :Line_513 .
 
-:TV_Line_514_gr a :TranslationVariant ;
+:TV_Line_514_GR a :TranslationVariant ;
     :text "Πώς λοιπόν του αποδίδεις τιμή που είναι ασέβεια για εκείνον;"^^xsd:string ;
     :relatedTo :Line_514 .
 
-:TV_Line_515_gr a :TranslationVariant ;
+:TV_Line_515_GR a :TranslationVariant ;
     :text "Δεν θα το μαρτυρήσει αυτό ο νεκρός που πέθανε."^^xsd:string ;
     :relatedTo :Line_515 .
 
-:TV_Line_516_gr a :TranslationVariant ;
+:TV_Line_516_GR a :TranslationVariant ;
     :text "Αν τον τιμάς ισότιμα με τον ασεβή."^^xsd:string ;
     :relatedTo :Line_516 .
 
-:TV_Line_517_gr a :TranslationVariant ;
+:TV_Line_517_GR a :TranslationVariant ;
     :text "Δεν πέθανε ως δούλος, αλλά ως αδελφός."^^xsd:string ;
     :relatedTo :Line_517 .
 
-:TV_Line_518_gr a :TranslationVariant ;
+:TV_Line_518_GR a :TranslationVariant ;
     :text "Ναι, αλλά ο ένας ρήμαζε αυτή τη γη, ενώ ο άλλος την υπερασπιζόταν."^^xsd:string ;
     :relatedTo :Line_518 .
 
-:TV_Line_519_gr a :TranslationVariant ;
+:TV_Line_519_GR a :TranslationVariant ;
     :text "Κι όμως ο Άδης ζητά ίσους νόμους για όλους."^^xsd:string ;
     :relatedTo :Line_519 .
 
-:TV_Line_520_gr a :TranslationVariant ;
+:TV_Line_520_GR a :TranslationVariant ;
     :text "Αλλά ο καλός δεν αξίζει να έχει την ίδια μοίρα με τον κακό."^^xsd:string ;
     :relatedTo :Line_520 .
 
-:TV_Line_521_gr a :TranslationVariant ;
+:TV_Line_521_GR a :TranslationVariant ;
     :text "Ποιος ξέρει αν αυτά είναι ευσεβή εκεί κάτω;"^^xsd:string ;
     :relatedTo :Line_521 .
 
-:TV_Line_522_gr a :TranslationVariant ;
+:TV_Line_522_GR a :TranslationVariant ;
     :text "Ποτέ ο εχθρός, ούτε μετά θάνατον, δεν γίνεται φίλος."^^xsd:string ;
     :relatedTo :Line_522 .
 
-:TV_Line_523_gr a :TranslationVariant ;
+:TV_Line_523_GR a :TranslationVariant ;
     :text "Εγώ δεν γεννήθηκα για να μοιράζομαι το μίσος, αλλά την αγάπη."^^xsd:string ;
     :relatedTo :Line_523 .
 
-:TV_Line_524_gr a :TranslationVariant ;
+:TV_Line_524_GR a :TranslationVariant ;
     :text "Κατέβα τώρα κάτω, κι αν πρέπει να αγαπάς, αγάπα εκείνους."^^xsd:string ;
     :relatedTo :Line_524 .
 
-:TV_Line_525_gr a :TranslationVariant ;
+:TV_Line_525_GR a :TranslationVariant ;
     :text "Όσο όμως εγώ ζω, γυναίκα δεν θα με εξουσιάσει."^^xsd:string ;
     :relatedTo :Line_525 .
 
-:TV_Line_526_gr a :TranslationVariant ;
+:TV_Line_526_GR a :TranslationVariant ;
     :text "Μα να, μπροστά στις πύλες είναι η Ισμήνη,"^^xsd:string ;
     :relatedTo :Line_526 .
 
-:TV_Line_527_gr a :TranslationVariant ;
+:TV_Line_527_GR a :TranslationVariant ;
     :text "που από αδελφική αγάπη χύνει δάκρυα για την αδελφή της·"^^xsd:string ;
     :relatedTo :Line_527 .
 
-:TV_Line_528_gr a :TranslationVariant ;
+:TV_Line_528_GR a :TranslationVariant ;
     :text "και σύννεφο πάνω απ’ τα φρύδια της"^^xsd:string ;
     :relatedTo :Line_528 .
 
-:TV_Line_529_gr a :TranslationVariant ;
+:TV_Line_529_GR a :TranslationVariant ;
     :text "αιματωμένο"^^xsd:string ;
     :relatedTo :Line_529 .
 
-:TV_Line_530_gr a :TranslationVariant ;
+:TV_Line_530_GR a :TranslationVariant ;
     :text "λεκιάζει το πρόσωπό της,"^^xsd:string ;
     :relatedTo :Line_530 .
 
-:TV_Line_531_gr a :TranslationVariant ;
+:TV_Line_531_GR a :TranslationVariant ;
     :text "ενώ εσύ, που μέσα στο σπίτι, σαν οχιά κρυμμένη,"^^xsd:string ;
     :relatedTo :Line_531 .
 
-:TV_Line_532_gr a :TranslationVariant ;
+:TV_Line_532_GR a :TranslationVariant ;
     :text "με απομυζούσες στα κρυφά κι εγώ δεν το καταλάβαινα,"^^xsd:string ;
     :relatedTo :Line_532 .
 
-:TV_Line_533_gr a :TranslationVariant ;
+:TV_Line_533_GR a :TranslationVariant ;
     :text "ενώ έτρεφα δυο συμφορές και ανατροπές του θρόνου."^^xsd:string ;
     :relatedTo :Line_533 .
 
-:TV_Line_534_gr a :TranslationVariant ;
+:TV_Line_534_GR a :TranslationVariant ;
     :text "Έλα, πες μου τώρα: κι εσύ γι’ αυτόν τον τάφο"^^xsd:string ;
     :relatedTo :Line_534 .
 
-:TV_Line_535_gr a :TranslationVariant ;
+:TV_Line_535_GR a :TranslationVariant ;
     :text "θα πεις πως έχεις μερίδιο, ή θα ορκιστείς ότι δεν ήξερες;"^^xsd:string ;
     :relatedTo :Line_535 .

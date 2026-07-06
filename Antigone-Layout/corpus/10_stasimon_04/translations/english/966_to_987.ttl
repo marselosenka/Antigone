@@ -5,75 +5,75 @@
 :stasimon_04-translations-966-987-english a owl:Ontology .
 # English translation variants extracted from 966_to_987.ttl
 
-:TV_Line_966_en a :TranslationVariant ;
+:TV_Line_966_EN a :TranslationVariant ;
 :text "Beside the dark-blue rocks, by the twin sea"^^xsd:string ;
 :relatedTo :Line_966 .
 
-:TV_Line_967_en a :TranslationVariant ;
+:TV_Line_967_EN a :TranslationVariant ;
 :text "are the Bosporian coasts and the Thracian shore,"^^xsd:string ;
 :relatedTo :Line_967 .
 
-:TV_Line_970_en a :TranslationVariant ;
+:TV_Line_970_EN a :TranslationVariant ;
 :text "Salmydessus, where neighboring Ares"^^xsd:string ;
 :relatedTo :Line_970 .
 
-:TV_Line_971_en a :TranslationVariant ;
+:TV_Line_971_EN a :TranslationVariant ;
 :text "for the two sons of Phineus"^^xsd:string ;
 :relatedTo :Line_971 .
 
-:TV_Line_972_en a :TranslationVariant ;
+:TV_Line_972_EN a :TranslationVariant ;
 :text "saw the accursed wound,"^^xsd:string ;
 :relatedTo :Line_972 .
 
-:TV_Line_973_en a :TranslationVariant ;
+:TV_Line_973_EN a :TranslationVariant ;
 :text "Blinded by a savage wife,"^^xsd:string ;
 :relatedTo :Line_973 ;
 :relatedTo :Antigone_Character_PhineusWife .
 
-:TV_Line_974_en a :TranslationVariant ;
+:TV_Line_974_EN a :TranslationVariant ;
 :text "Their eyes struck in cruel circles,"^^xsd:string ;
 :relatedTo :Line_974 .
 
-:TV_Line_975_en a :TranslationVariant ;
+:TV_Line_975_EN a :TranslationVariant ;
 :text "Torn out by bloody"^^xsd:string ;
 :relatedTo :Line_975 .
 
-:TV_Line_976_en a :TranslationVariant ;
+:TV_Line_976_EN a :TranslationVariant ;
 :text "Hands and the sharp points of shuttles."^^xsd:string ;
 :relatedTo :Line_976 .
 
-:TV_Line_977_en a :TranslationVariant ;
+:TV_Line_977_EN a :TranslationVariant ;
 :text "And they, wasting away, miserable in their misery,"^^xsd:string ;
 :relatedTo :Line_977 .
 
-:TV_Line_980_en a :TranslationVariant ;
+:TV_Line_980_EN a :TranslationVariant ;
 :text "Wept, having for mother a mother of unwed birth;"^^xsd:string ;
 :relatedTo :Line_980 .
 
-:TV_Line_981_en a :TranslationVariant ;
+:TV_Line_981_EN a :TranslationVariant ;
 :text "And she was descended from the ancient race"^^xsd:string ;
 :relatedTo :Line_981 .
 
-:TV_Line_982_en a :TranslationVariant ;
+:TV_Line_982_EN a :TranslationVariant ;
 :text "Of the Erechtheids,"^^xsd:string ;
 :relatedTo :Line_982 .
 
-:TV_Line_983_en a :TranslationVariant ;
+:TV_Line_983_EN a :TranslationVariant ;
 :text "And in far-off caves"^^xsd:string ;
 :relatedTo :Line_983 .
 
-:TV_Line_984_en a :TranslationVariant ;
+:TV_Line_984_EN a :TranslationVariant ;
 :text "She was reared amid her father’s storms,"^^xsd:string ;
 :relatedTo :Line_984 .
 
-:TV_Line_985_en a :TranslationVariant ;
+:TV_Line_985_EN a :TranslationVariant ;
 :text "A child of Boreas, swift as horses over the steep crags,"^^xsd:string ;
 :relatedTo :Line_985 .
 
-:TV_Line_986_en a :TranslationVariant ;
+:TV_Line_986_EN a :TranslationVariant ;
 :text "A child of the gods; but even upon her"^^xsd:string ;
 :relatedTo :Line_986 .
 
-:TV_Line_987_en a :TranslationVariant ;
+:TV_Line_987_EN a :TranslationVariant ;
 :text "The long-lived Fates took hold, O child."^^xsd:string ;
 :relatedTo :Line_987 .

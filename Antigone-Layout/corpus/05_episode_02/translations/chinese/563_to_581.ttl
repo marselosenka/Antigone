@@ -4,41 +4,41 @@
 
 :episode_02-translations-563-581-chinese a owl:Ontology .
 
-:TV_Line_563_zh a :TranslationVariant ; :relatedTo :Line_563 ;
+:TV_Line_563_ZH a :TranslationVariant ; :relatedTo :Line_563 ;
   :text "主上，对遭难的人来说，"^^xsd:string .
-:TV_Line_564_zh a :TranslationVariant ; :relatedTo :Line_564 ;
+:TV_Line_564_ZH a :TranslationVariant ; :relatedTo :Line_564 ;
   :text "与生俱来的理智并不会久留，而会离去。"^^xsd:string .
-:TV_Line_565_zh a :TranslationVariant ; :relatedTo :Line_565 ;
+:TV_Line_565_ZH a :TranslationVariant ; :relatedTo :Line_565 ;
   :text "这也发生在你身上：你在灾祸里选择再行恶事。"^^xsd:string .
-:TV_Line_566_zh a :TranslationVariant ; :relatedTo :Line_566 ;
+:TV_Line_566_ZH a :TranslationVariant ; :relatedTo :Line_566 ;
   :text "因为若她不在，我还剩什么人生？"^^xsd:string .
-:TV_Line_567_zh a :TranslationVariant ; :relatedTo :Line_567 ;
+:TV_Line_567_ZH a :TranslationVariant ; :relatedTo :Line_567 ;
   :text "至于她，别再提了；她已不在此世。"^^xsd:string .
-:TV_Line_568_zh a :TranslationVariant ; :relatedTo :Line_568 ;
+:TV_Line_568_ZH a :TranslationVariant ; :relatedTo :Line_568 ;
   :text "那么你要杀你亲生儿子的未婚妻吗？"^^xsd:string .
-:TV_Line_569_zh a :TranslationVariant ; :relatedTo :Line_569 ;
+:TV_Line_569_ZH a :TranslationVariant ; :relatedTo :Line_569 ;
   :text "他还有别的田地可耕。"^^xsd:string .
-:TV_Line_570_zh a :TranslationVariant ; :relatedTo :Line_570 ;
+:TV_Line_570_ZH a :TranslationVariant ; :relatedTo :Line_570 ;
   :text "但没有哪一块比这位更与他相配。"^^xsd:string .
-:TV_Line_571_zh a :TranslationVariant ; :relatedTo :Line_571 ;
+:TV_Line_571_ZH a :TranslationVariant ; :relatedTo :Line_571 ;
   :text "我厌恶给我儿子们的坏女人。"^^xsd:string .
-:TV_Line_572_zh a :TranslationVariant ; :relatedTo :Line_572 ;
+:TV_Line_572_ZH a :TranslationVariant ; :relatedTo :Line_572 ;
   :text "亲爱的海蒙，你父亲在羞辱你。"^^xsd:string .
-:TV_Line_573_zh a :TranslationVariant ; :relatedTo :Line_573 ;
+:TV_Line_573_ZH a :TranslationVariant ; :relatedTo :Line_573 ;
   :text "你和你的婚事都让我痛苦过甚。"^^xsd:string .
-:TV_Line_574_zh a :TranslationVariant ; :relatedTo :Line_574 ;
+:TV_Line_574_ZH a :TranslationVariant ; :relatedTo :Line_574 ;
   :text "那么你要把她从你儿子身边夺走吗？"^^xsd:string .
-:TV_Line_575_zh a :TranslationVariant ; :relatedTo :Line_575 ;
+:TV_Line_575_ZH a :TranslationVariant ; :relatedTo :Line_575 ;
   :text "终结这些婚约的将是哈得斯。"^^xsd:string .
-:TV_Line_576_zh a :TranslationVariant ; :relatedTo :Line_576 ;
+:TV_Line_576_ZH a :TranslationVariant ; :relatedTo :Line_576 ;
   :text "看来已经决定，她必须死。"^^xsd:string .
-:TV_Line_577_zh a :TranslationVariant ; :relatedTo :Line_577 ;
+:TV_Line_577_ZH a :TranslationVariant ; :relatedTo :Line_577 ;
   :text "这对你、对我都一样。别再拖延；现在"^^xsd:string .
-:TV_Line_578_zh a :TranslationVariant ; :relatedTo :Line_578 ;
+:TV_Line_578_ZH a :TranslationVariant ; :relatedTo :Line_578 ;
   :text "仆人们，把她们带进屋去。从此以后，"^^xsd:string .
-:TV_Line_579_zh a :TranslationVariant ; :relatedTo :Line_579 ;
+:TV_Line_579_ZH a :TranslationVariant ; :relatedTo :Line_579 ;
   :text "这些女人必须受拘束，不得自由行动。"^^xsd:string .
-:TV_Line_580_zh a :TranslationVariant ; :relatedTo :Line_580 ;
+:TV_Line_580_ZH a :TranslationVariant ; :relatedTo :Line_580 ;
   :text "因为连勇敢的人，一旦看见"^^xsd:string .
-:TV_Line_581_zh a :TranslationVariant ; :relatedTo :Line_581 ;
+:TV_Line_581_ZH a :TranslationVariant ; :relatedTo :Line_581 ;
   :text "哈得斯已经逼近自己的生命，也会后退逃离。"^^xsd:string .

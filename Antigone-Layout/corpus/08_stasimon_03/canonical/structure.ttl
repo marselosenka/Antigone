@@ -1,8 +1,8 @@
-﻿﻿@prefix : <http://example.org/antigone#> .
+﻿@prefix : <http://example.org/antigone#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:stasimon03-structure a owl:Ontology .
+:stasimon_03-structure a owl:Ontology .
 
 # --- 781 ---
 :Line_781 a owl:NamedIndividual, :Line ;

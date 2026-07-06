@@ -4,43 +4,43 @@
 
 :prologue-translations-90-99-chinese a owl:Ontology .
 
-:TV_Line_090_zh a :TranslationVariant ;
+:TV_Line_090_ZH a :TranslationVariant ;
     :text "只要你真有能力；你追求的是不可能之事。"^^xsd:string ;
     :relatedTo :Line_090 .
 
-:TV_Line_091_zh a :TranslationVariant ;
+:TV_Line_091_ZH a :TranslationVariant ;
     :text "那么等我确实做不到时，我自然会停下。"^^xsd:string ;
     :relatedTo :Line_091 .
 
-:TV_Line_092_zh a :TranslationVariant ;
+:TV_Line_092_ZH a :TranslationVariant ;
     :text "但一开始就追逐不可能，并不相宜。"^^xsd:string ;
     :relatedTo :Line_092 .
 
-:TV_Line_093_zh a :TranslationVariant ;
+:TV_Line_093_ZH a :TranslationVariant ;
     :text "若你这样说，你会令我厌恶，"^^xsd:string ;
     :relatedTo :Line_093 .
 
-:TV_Line_094_zh a :TranslationVariant ;
+:TV_Line_094_ZH a :TranslationVariant ;
     :text "也会按理成为死者所憎。"^^xsd:string ;
     :relatedTo :Line_094 .
 
-:TV_Line_095_zh a :TranslationVariant ;
+:TV_Line_095_ZH a :TranslationVariant ;
     :text "只管让我和我这所谓的愚谋"^^xsd:string ;
     :relatedTo :Line_095 .
 
-:TV_Line_096_zh a :TranslationVariant ;
+:TV_Line_096_ZH a :TranslationVariant ;
     :text "承受这可怕之事；我所遭受的绝不会"^^xsd:string ;
     :relatedTo :Line_096 .
 
-:TV_Line_097_zh a :TranslationVariant ;
+:TV_Line_097_ZH a :TranslationVariant ;
     :text "大到使我不能光荣而死。"^^xsd:string ;
     :relatedTo :Line_097 .
 
-:TV_Line_098_zh a :TranslationVariant ;
+:TV_Line_098_ZH a :TranslationVariant ;
     :text "若你这样想，就去吧；但要知道"^^xsd:string ;
     :relatedTo :Line_098 .
 
-:TV_Line_099_zh a :TranslationVariant ;
+:TV_Line_099_ZH a :TranslationVariant ;
     :text "你虽行事愚莽，却对所爱者真正有情。"^^xsd:string ;
     :relatedTo :Line_099 .
 

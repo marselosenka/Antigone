@@ -4,81 +4,81 @@
 
 :exodus-translations-1306-1352-chinese a owl:Ontology .
 
-:TV_Line_1306_zh a :TranslationVariant ; :relatedTo :Line_1306 ;
+:TV_Line_1306_ZH a :TranslationVariant ; :relatedTo :Line_1306 ;
   :text "哀哉，哀哉，"^^xsd:string .
-:TV_Line_1307_zh a :TranslationVariant ; :relatedTo :Line_1307 ;
+:TV_Line_1307_ZH a :TranslationVariant ; :relatedTo :Line_1307 ;
   :text "我因恐惧而战栗。为何没有人"^^xsd:string .
-:TV_Line_1308_zh a :TranslationVariant ; :relatedTo :Line_1308 ;
+:TV_Line_1308_ZH a :TranslationVariant ; :relatedTo :Line_1308 ;
   :text "用双刃剑刺穿我的胸口？"^^xsd:string .
-:TV_Line_1310_zh a :TranslationVariant ; :relatedTo :Line_1310 ;
+:TV_Line_1310_ZH a :TranslationVariant ; :relatedTo :Line_1310 ;
   :text "我这苦命人，哀哉，"^^xsd:string .
-:TV_Line_1311_zh a :TranslationVariant ; :relatedTo :Line_1311 ;
+:TV_Line_1311_ZH a :TranslationVariant ; :relatedTo :Line_1311 ;
   :text "被不幸的痛楚搅在一起。"^^xsd:string .
-:TV_Line_1312_zh a :TranslationVariant ; :relatedTo :Line_1312 ;
+:TV_Line_1312_ZH a :TranslationVariant ; :relatedTo :Line_1312 ;
   :text "你要为这一切与那一切负责，"^^xsd:string .
-:TV_Line_1313_zh a :TranslationVariant ; :relatedTo :Line_1313 ;
+:TV_Line_1313_ZH a :TranslationVariant ; :relatedTo :Line_1313 ;
   :text "这死去女子的命运正控告着你。"^^xsd:string .
-:TV_Line_1314_zh a :TranslationVariant ; :relatedTo :Line_1314 ;
+:TV_Line_1314_ZH a :TranslationVariant ; :relatedTo :Line_1314 ;
   :text "她是怎样把自己送入血中的？"^^xsd:string .
-:TV_Line_1315_zh a :TranslationVariant ; :relatedTo :Line_1315 ;
+:TV_Line_1315_ZH a :TranslationVariant ; :relatedTo :Line_1315 ;
   :text "她亲手刺向肝下，"^^xsd:string .
-:TV_Line_1316_zh a :TranslationVariant ; :relatedTo :Line_1316 ;
+:TV_Line_1316_ZH a :TranslationVariant ; :relatedTo :Line_1316 ;
   :text "在听见儿子那可撕裂人心的灾祸之后。"^^xsd:string .
-:TV_Line_1317_zh a :TranslationVariant ; :relatedTo :Line_1317 ;
+:TV_Line_1317_ZH a :TranslationVariant ; :relatedTo :Line_1317 ;
   :text "哀哉，这些罪永不能归到别的凡人身上，"^^xsd:string .
-:TV_Line_1318_zh a :TranslationVariant ; :relatedTo :Line_1318 ;
+:TV_Line_1318_ZH a :TranslationVariant ; :relatedTo :Line_1318 ;
   :text "只能算作我的过错。"^^xsd:string .
-:TV_Line_1319_zh a :TranslationVariant ; :relatedTo :Line_1319 ;
+:TV_Line_1319_ZH a :TranslationVariant ; :relatedTo :Line_1319 ;
   :text "是我，正是我，杀了你，苦命人，"^^xsd:string .
-:TV_Line_1320_zh a :TranslationVariant ; :relatedTo :Line_1320 ;
+:TV_Line_1320_ZH a :TranslationVariant ; :relatedTo :Line_1320 ;
   :text "是我，我亲口承认。奴仆们啊，"^^xsd:string .
-:TV_Line_1321_zh a :TranslationVariant ; :relatedTo :Line_1321 ;
+:TV_Line_1321_ZH a :TranslationVariant ; :relatedTo :Line_1321 ;
   :text "快把我带走，让我离开人前，"^^xsd:string .
-:TV_Line_1325_zh a :TranslationVariant ; :relatedTo :Line_1325 ;
+:TV_Line_1325_ZH a :TranslationVariant ; :relatedTo :Line_1325 ;
   :text "这个已一无所有的人。"^^xsd:string .
-:TV_Line_1326_zh a :TranslationVariant ; :relatedTo :Line_1326 ;
+:TV_Line_1326_ZH a :TranslationVariant ; :relatedTo :Line_1326 ;
   :text "你的劝告有益，若在祸中还可能有益；"^^xsd:string .
-:TV_Line_1327_zh a :TranslationVariant ; :relatedTo :Line_1327 ;
+:TV_Line_1327_ZH a :TranslationVariant ; :relatedTo :Line_1327 ;
   :text "因为脚边最小的恶，才是最好。"^^xsd:string .
-:TV_Line_1328_zh a :TranslationVariant ; :relatedTo :Line_1328 ;
+:TV_Line_1328_ZH a :TranslationVariant ; :relatedTo :Line_1328 ;
   :text "让它来吧，让它来吧，"^^xsd:string .
-:TV_Line_1329_zh a :TranslationVariant ; :relatedTo :Line_1329 ;
+:TV_Line_1329_ZH a :TranslationVariant ; :relatedTo :Line_1329 ;
   :text "让对我而言最美的命运显现，"^^xsd:string .
-:TV_Line_1330_zh a :TranslationVariant ; :relatedTo :Line_1330 ;
+:TV_Line_1330_ZH a :TranslationVariant ; :relatedTo :Line_1330 ;
   :text "把我最后一日带来，"^^xsd:string .
-:TV_Line_1331_zh a :TranslationVariant ; :relatedTo :Line_1331 ;
+:TV_Line_1331_ZH a :TranslationVariant ; :relatedTo :Line_1331 ;
   :text "我最末的一日。让它来，让它来，"^^xsd:string .
-:TV_Line_1332_zh a :TranslationVariant ; :relatedTo :Line_1332 ;
+:TV_Line_1332_ZH a :TranslationVariant ; :relatedTo :Line_1332 ;
   :text "使我再不看见任何明日。"^^xsd:string .
-:TV_Line_1334_zh a :TranslationVariant ; :relatedTo :Line_1334 ;
+:TV_Line_1334_ZH a :TranslationVariant ; :relatedTo :Line_1334 ;
   :text "那是将来的事；至于眼前之事，"^^xsd:string .
-:TV_Line_1335_zh a :TranslationVariant ; :relatedTo :Line_1335 ;
+:TV_Line_1335_ZH a :TranslationVariant ; :relatedTo :Line_1335 ;
   :text "必须有人去做，而该做的人就该去做。"^^xsd:string .
-:TV_Line_1336_zh a :TranslationVariant ; :relatedTo :Line_1336 ;
+:TV_Line_1336_ZH a :TranslationVariant ; :relatedTo :Line_1336 ;
   :text "可我也曾为我所说之事祈求。"^^xsd:string .
-:TV_Line_1337_zh a :TranslationVariant ; :relatedTo :Line_1337 ;
+:TV_Line_1337_ZH a :TranslationVariant ; :relatedTo :Line_1337 ;
   :text "别再祈求了；因为对既定命运"^^xsd:string .
-:TV_Line_1338_zh a :TranslationVariant ; :relatedTo :Line_1338 ;
+:TV_Line_1338_ZH a :TranslationVariant ; :relatedTo :Line_1338 ;
   :text "没有凡人能从苦难中赎身。"^^xsd:string .
-:TV_Line_1339_zh a :TranslationVariant ; :relatedTo :Line_1339 ;
+:TV_Line_1339_ZH a :TranslationVariant ; :relatedTo :Line_1339 ;
   :text "把这徒然的人带离我眼前，"^^xsd:string .
-:TV_Line_1340_zh a :TranslationVariant ; :relatedTo :Line_1340 ;
+:TV_Line_1340_ZH a :TranslationVariant ; :relatedTo :Line_1340 ;
   :text "他虽非本意，却害死了你，我的孩子，"^^xsd:string .
-:TV_Line_1341_zh a :TranslationVariant ; :relatedTo :Line_1341 ;
+:TV_Line_1341_ZH a :TranslationVariant ; :relatedTo :Line_1341 ;
   :text "也害死了你，我的妻子。哀哉，我这苦命人，"^^xsd:string .
-:TV_Line_1342_zh a :TranslationVariant ; :relatedTo :Line_1342 ;
+:TV_Line_1342_ZH a :TranslationVariant ; :relatedTo :Line_1342 ;
   :text "不知该看向哪里、该转向何处；"^^xsd:string .
-:TV_Line_1345_zh a :TranslationVariant ; :relatedTo :Line_1345 ;
+:TV_Line_1345_ZH a :TranslationVariant ; :relatedTo :Line_1345 ;
   :text "因为我手中一切都在崩坏，而在我头上"^^xsd:string .
-:TV_Line_1346_zh a :TranslationVariant ; :relatedTo :Line_1346 ;
+:TV_Line_1346_ZH a :TranslationVariant ; :relatedTo :Line_1346 ;
   :text "跳落了沉重难担的命运。"^^xsd:string .
-:TV_Line_1347_zh a :TranslationVariant ; :relatedTo :Line_1347 ;
+:TV_Line_1347_ZH a :TranslationVariant ; :relatedTo :Line_1347 ;
   :text "在一切之上，审慎是"^^xsd:string .
-:TV_Line_1348_zh a :TranslationVariant ; :relatedTo :Line_1348 ;
+:TV_Line_1348_ZH a :TranslationVariant ; :relatedTo :Line_1348 ;
   :text "幸福的第一条件；并且"^^xsd:string .
-:TV_Line_1350_zh a :TranslationVariant ; :relatedTo :Line_1350 ;
+:TV_Line_1350_ZH a :TranslationVariant ; :relatedTo :Line_1350 ;
   :text "人在任何事上都不可对神不敬。傲慢者的大话"^^xsd:string .
-:TV_Line_1351_zh a :TranslationVariant ; :relatedTo :Line_1351 ;
+:TV_Line_1351_ZH a :TranslationVariant ; :relatedTo :Line_1351 ;
   :text "必以巨大的打击来偿还，"^^xsd:string .
-:TV_Line_1352_zh a :TranslationVariant ; :relatedTo :Line_1352 ;
+:TV_Line_1352_ZH a :TranslationVariant ; :relatedTo :Line_1352 ;
   :text "并最终"^^xsd:string .

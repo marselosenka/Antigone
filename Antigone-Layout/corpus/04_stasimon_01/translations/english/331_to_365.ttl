@@ -5,83 +5,83 @@
 :stasimon_01-translations-331-365-english a owl:Ontology .
 # English translation variants extracted from 331_to_365.ttl
 
-:TV_Line_331_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_331 ;
+:TV_Line_331_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_331 ;
   :text "Rescued so, I owe the gods a great many thanks."^^xsd:string .
 
-:TV_Line_332_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_332 ;
+:TV_Line_332_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_332 ;
   :text "CHORUS. There are many marvelous things, and nothing"^^xsd:string .
 
-:TV_Line_333_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_333 ;
+:TV_Line_333_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_333 ;
   :text "more marvelous than man exists."^^xsd:string .
 
-:TV_Line_334_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_334 ;
+:TV_Line_334_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_334 ;
   :text "This one also across the grey sea"^^xsd:string .
 
-:TV_Line_335_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_335 ;
+:TV_Line_335_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_335 ;
   :text "sea in the wintry storm,"^^xsd:string .
 
-:TV_Line_336_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_336 ;
+:TV_Line_336_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_336 ;
   :text "proceeds, through the surging swells"^^xsd:string .
 
-:TV_Line_337_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_337 ;
+:TV_Line_337_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_337 ;
   :text "passing under the waves; and of the gods,"^^xsd:string .
 
-:TV_Line_338_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_338 ;
+:TV_Line_338_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_338 ;
   :text "and the supreme Earth,"^^xsd:string .
 
-:TV_Line_339_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_339 ;
+:TV_Line_339_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_339 ;
   :text "immortal and tireless, he wears away,"^^xsd:string .
 
-:TV_Line_340_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_340 ;
+:TV_Line_340_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_340 ;
   :text "as the plows turn the soil year after year,"^^xsd:string .
 
-:TV_Line_341_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_341 ;
+:TV_Line_341_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_341 ;
   :text "working it with the race of horses."^^xsd:string .
 
-:TV_Line_342_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_342 ;
+:TV_Line_342_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_342 ;
   :text "And the light-minded race of"^^xsd:string .
 
-:TV_Line_343_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_343 ;
+:TV_Line_343_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_343 ;
   :text "birds he snares and takes captive,"^^xsd:string .
 
-:TV_Line_344_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_344 ;
+:TV_Line_344_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_344 ;
   :text "and the tribes of wild beasts,"^^xsd:string .
 
-:TV_Line_345_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_345 ;
+:TV_Line_345_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_345 ;
   :text "and the sea-dwelling life of the deep,"^^xsd:string .
 
-:TV_Line_346_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_346 ;
+:TV_Line_346_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_346 ;
   :text "in the coils of woven nets,"^^xsd:string .
 
-:TV_Line_347_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_347 ;
+:TV_Line_347_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_347 ;
   :text "the very skillful man; he masters"^^xsd:string .
 
-:TV_Line_348_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_348 ;
+:TV_Line_348_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_348 ;
   :text "by his contrivances the wild"^^xsd:string .
 
-:TV_Line_350_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_350 ;
+:TV_Line_350_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_350 ;
   :text "beasts of the mountain, and the shaggy-necked"^^xsd:string .
 
-:TV_Line_351_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_351 ;
+:TV_Line_351_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_351 ;
   :text "horse he brings under the yoked collar,"^^xsd:string .
 
-:TV_Line_352_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_352 ;
+:TV_Line_352_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_352 ;
   :text "and the untiring mountain bull."^^xsd:string .
 
-:TV_Line_355_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_355 ;
+:TV_Line_355_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_355 ;
   :text "And speech, and wind-swift thought, and city-dwelling"^^xsd:string .
 
-:TV_Line_356_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_356 ;
+:TV_Line_356_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_356 ;
   :text "tempers he has taught himself, and how to flee the frost"^^xsd:string .
 
-:TV_Line_357_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_357 ;
+:TV_Line_357_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_357 ;
   :text "of open-air heights and the arrows of the stormy rain."^^xsd:string .
 
-:TV_Line_358_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_358 ;
+:TV_Line_358_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_358 ;
   :text "All-resourceful; resource-less he meets nothing"^^xsd:string .
 
-:TV_Line_360_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_360 ;
+:TV_Line_360_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_360 ;
   :text "that is to come; only from Hades shall he not procure escape;"^^xsd:string .
 
-:TV_Line_361_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_361 ;
+:TV_Line_361_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_361 ;
   :text "yet for baffling diseases he has devised cures."^^xsd:string .

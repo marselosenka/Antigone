@@ -4,71 +4,71 @@
 
 :stasimon_03-translations-781-805-greek a owl:Ontology .
 
-:TV_Line_781_gr a :TranslationVariant ;
+:TV_Line_781_GR a :TranslationVariant ;
     :text "Έρωτα ανίκητε στη μάχη, Έρωτα, που πέφτεις πάνω στα πλούτη,"^^xsd:string ;
     :relatedTo :Line_781 .
 
-:TV_Line_782_gr a :TranslationVariant ;
+:TV_Line_782_GR a :TranslationVariant ;
     :text "που διανυκτερεύεις στα τρυφερά μάγουλα μιας νέας,"^^xsd:string ;
     :relatedTo :Line_782 .
 
 # Line 873 and 874 do not exist in Antigone 
 
-:TV_Line_785_gr a :TranslationVariant ;
+:TV_Line_785_GR a :TranslationVariant ;
     :text "που τριγυρνάς και πέρα από τη θάλασσα και στις αγροτικές αυλές·"^^xsd:string ;
     :relatedTo :Line_785 .
 
-:TV_Line_786_gr a :TranslationVariant ;
+:TV_Line_786_GR a :TranslationVariant ;
     :text "κι από σένα δεν ξεφεύγει κανείς, ούτε από τους αθάνατους"^^xsd:string ;
     :relatedTo :Line_786 .
 
 # Line 787 788 and 789 do not exist in Antigone 
 
-:TV_Line_790_gr a :TranslationVariant ;
+:TV_Line_790_GR a :TranslationVariant ;
     :text "ούτε από τους πρόσκαιρους ανθρώπους· κι όποιον πιάσεις, παραφρονεί."^^xsd:string ;
     :relatedTo :Line_790 .
 
-:TV_Line_791_gr a :TranslationVariant ;
+:TV_Line_791_GR a :TranslationVariant ;
     :text "κι εσύ και των δικαίων το νου τον σέρνεις στην αδικία για ντροπή,"^^xsd:string ;
     :relatedTo :Line_791 .
 
-:TV_Line_792_gr a :TranslationVariant ;
+:TV_Line_792_GR a :TranslationVariant ;
     :text "κι εσύ έχεις ταράξει κι αυτή τη συγγενική έριδα των αντρών·"^^xsd:string ;
     :relatedTo :Line_792 .
 
 # Line 793 and 794 do not exist in Antigone 
 
-:TV_Line_795_gr a :TranslationVariant ;
+:TV_Line_795_GR a :TranslationVariant ;
     :text "μα νικά ο φανερός πόθος στα μάτια της καλοκρέβατης"^^xsd:string ;
     :relatedTo :Line_795 .
 
-:TV_Line_796_gr a :TranslationVariant ;
+:TV_Line_796_GR a :TranslationVariant ;
     :text "νύφης, σύνθρονος στην εξουσία των μεγάλων"^^xsd:string ;
     :relatedTo :Line_796 .
 
 # Line 797,798 and 799 do not exist in Antigone 
 
-:TV_Line_800_gr a :TranslationVariant ;
+:TV_Line_800_GR a :TranslationVariant ;
     :text "νόμων· γιατί ανίκητη παίζει μαζί μας η θεά Αφροδίτη."^^xsd:string ;
     :relatedTo :Line_800 .
 
-:TV_Line_801_gr a :TranslationVariant ;
+:TV_Line_801_GR a :TranslationVariant ;
     :text "Κι εγώ τώρα, βλέποντας αυτά, βγαίνω κι ο ίδιος έξω από τους νόμους"^^xsd:string ;
     :relatedTo :Line_801 .
 
-:TV_Line_802_gr a :TranslationVariant ;
+:TV_Line_802_GR a :TranslationVariant ;
     :text "και δεν μπορώ πια να συγκρατήσω"^^xsd:string ;
     :relatedTo :Line_802 .
 
-:TV_Line_803_gr a :TranslationVariant ;
+:TV_Line_803_GR a :TranslationVariant ;
     :text "τις πηγές των δακρύων,"^^xsd:string ;
     :relatedTo :Line_803 .
 
-:TV_Line_804_gr a :TranslationVariant ;
+:TV_Line_804_GR a :TranslationVariant ;
     :text "όταν βλέπω την Αντιγόνη"^^xsd:string ;
     :relatedTo :Line_804 .
 
-:TV_Line_805_gr a :TranslationVariant ;
+:TV_Line_805_GR a :TranslationVariant ;
     :text "να βαδίζει προς τον κοινό για όλους θάλαμο."^^xsd:string ;
     :relatedTo :Line_805 .
 

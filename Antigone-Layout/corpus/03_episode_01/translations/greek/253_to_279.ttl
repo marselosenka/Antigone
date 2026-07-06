@@ -4,110 +4,110 @@
 
 :episode_01-translations-253-279-greek a owl:Ontology .
 
-:TV_Line_253_gr a :TranslationVariant ;
+:TV_Line_253_GR a :TranslationVariant ;
     :text "Όταν ο πρώτος ημεροσκόπος μας το έδειξε,"^^xsd:string ;
     :relatedTo :Line_253 .
 
-:TV_Line_254_gr a :TranslationVariant ;
+:TV_Line_254_GR a :TranslationVariant ;
     :text "σε όλους παρουσιάστηκε δύσκολο και βαρύ θαύμα."^^xsd:string ;
     :relatedTo :Line_254 .
 
-:TV_Line_255_gr a :TranslationVariant ;
+:TV_Line_255_GR a :TranslationVariant ;
     :text "Ο νεκρός είχε εξαφανιστεί απ’ το μάτι, όχι θαμμένος σε τύμβο,"^^xsd:string ;
     :relatedTo :Line_255 .
 
-:TV_Line_256_gr a :TranslationVariant ;
+:TV_Line_256_GR a :TranslationVariant ;
     :text "αλλά υπήρχε λεπτή σκόνη, σαν έργο κάποιου που αποφεύγει μίασμα."^^xsd:string ;
     :relatedTo :Line_256 .
 
-:TV_Line_257_gr a :TranslationVariant ;
+:TV_Line_257_GR a :TranslationVariant ;
     :text "Κι ούτε σημάδια θηρίου ούτε σκύλου"^^xsd:string ;
     :relatedTo :Line_257 .
 
-:TV_Line_258_gr a :TranslationVariant ;
+:TV_Line_258_GR a :TranslationVariant ;
     :text "που να ήρθε και να τον έσυρε φανερώνονταν."^^xsd:string ;
     :relatedTo :Line_258 .
 
-:TV_Line_259_gr a :TranslationVariant ;
+:TV_Line_259_GR a :TranslationVariant ;
     :text "Κακοί λόγοι τότε έπεφταν μεταξύ μας,"^^xsd:string ;
     :relatedTo :Line_259 .
 
-:TV_Line_260_gr a :TranslationVariant ;
+:TV_Line_260_GR a :TranslationVariant ;
     :text "φύλακας να ελέγχει φύλακα, και θα κατέληγε"^^xsd:string ;
     :relatedTo :Line_260 .
 
-:TV_Line_261_gr a :TranslationVariant ;
+:TV_Line_261_GR a :TranslationVariant ;
     :text "το πράγμα σε χτύπημα τελειωτικό, γιατί κανείς δεν ήταν να σταματήσει."^^xsd:string ;
     :relatedTo :Line_261 .
 
-:TV_Line_262_gr a :TranslationVariant ;
+:TV_Line_262_GR a :TranslationVariant ;
     :text "Καθένας ήταν ο φανερός ένοχος,"^^xsd:string ;
     :relatedTo :Line_262 .
 
-:TV_Line_263_gr a :TranslationVariant ;
+:TV_Line_263_GR a :TranslationVariant ;
     :text "και κανείς δεν ήταν αποδεδειγμένος· ο καθένας ξέφευγε με άγνοια."^^xsd:string ;
     :relatedTo :Line_263 .
 
-:TV_Line_264_gr a :TranslationVariant ;
+:TV_Line_264_GR a :TranslationVariant ;
     :text "Ήμασταν έτοιμοι και πυρωμένα σίδερα να σηκώσουμε με τα χέρια,"^^xsd:string ;
     :relatedTo :Line_264 .
 
-:TV_Line_265_gr a :TranslationVariant ;
+:TV_Line_265_GR a :TranslationVariant ;
     :text "και μέσα από φωτιά να περάσουμε, και όρκο να δώσουμε στους θεούς"^^xsd:string ;
     :relatedTo :Line_265 .
 
-:TV_Line_266_gr a :TranslationVariant ;
+:TV_Line_266_GR a :TranslationVariant ;
     :text "πως ούτε το κάναμε,"^^xsd:string ;
     :relatedTo :Line_266 .
 
-:TV_Line_267_gr a :TranslationVariant ;
+:TV_Line_267_GR a :TranslationVariant ;
     :text "ούτε ξέραμε αυτόν που το σχεδίασε ή το εκτέλεσε."^^xsd:string ;
     :relatedTo :Line_267 .
 
-:TV_Line_268_gr a :TranslationVariant ;
+:TV_Line_268_GR a :TranslationVariant ;
     :text "Κι όταν πια δεν υπήρχε τίποτα άλλο να ερευνηθεί,"^^xsd:string ;
     :relatedTo :Line_268 .
 
-:TV_Line_269_gr a :TranslationVariant ;
+:TV_Line_269_GR a :TranslationVariant ;
     :text "ένας μίλησε, και όλους μας"^^xsd:string ;
     :relatedTo :Line_269 .
 
-:TV_Line_270_gr a :TranslationVariant ;
+:TV_Line_270_GR a :TranslationVariant ;
     :text "μας έσπρωξε από φόβο να σκύψουμε το κεφάλι· γιατί δεν είχαμε"^^xsd:string ;
     :relatedTo :Line_270 .
 
-:TV_Line_271_gr a :TranslationVariant ;
+:TV_Line_271_GR a :TranslationVariant ;
     :text "ούτε να αντιμιλήσουμε ούτε, ό,τι κι αν κάναμε, να βγούμε σωστοί."^^xsd:string ;
     :relatedTo :Line_271 .
 
-:TV_Line_272_gr a :TranslationVariant ;
+:TV_Line_272_GR a :TranslationVariant ;
     :text "Ο λόγος ήταν πως έπρεπε"^^xsd:string ;
     :relatedTo :Line_272 .
 
-:TV_Line_273_gr a :TranslationVariant ;
+:TV_Line_273_GR a :TranslationVariant ;
     :text "να σου αναφερθεί το έργο αυτό, και να μη μείνει κρυφό."^^xsd:string ;
     :relatedTo :Line_273 .
 
-:TV_Line_274_gr a :TranslationVariant ;
+:TV_Line_274_GR a :TranslationVariant ;
     :text "Κι αυτό επικράτησε, και μένα τον δύστυχο"^^xsd:string ;
     :relatedTo :Line_274 .
 
-:TV_Line_275_gr a :TranslationVariant ;
+:TV_Line_275_GR a :TranslationVariant ;
     :text "ο κλήρος με τραβά να πάρω αυτό το λαχείο."^^xsd:string ;
     :relatedTo :Line_275 .
 
-:TV_Line_276_gr a :TranslationVariant ;
+:TV_Line_276_GR a :TranslationVariant ;
     :text "Ήρθα λοιπόν άθελά μου και χωρίς προθυμία, το ξέρω καλά·"^^xsd:string ;
     :relatedTo :Line_276 .
 
-:TV_Line_277_gr a :TranslationVariant ;
+:TV_Line_277_GR a :TranslationVariant ;
     :text "γιατί κανείς δεν αγαπά αγγελιοφόρο κακών λόγων."^^xsd:string ;
     :relatedTo :Line_277 .
 
-:TV_Line_278_gr a :TranslationVariant ;
+:TV_Line_278_GR a :TranslationVariant ;
     :text "Άνακτα, εμένα η σκέψη μου γυρίζει από ώρα"^^xsd:string ;
     :relatedTo :Line_278 .
 
-:TV_Line_279_gr a :TranslationVariant ;
+:TV_Line_279_GR a :TranslationVariant ;
     :text "μήπως αυτό το έργο είναι θεόσταλτο."^^xsd:string ;
     :relatedTo :Line_279 .

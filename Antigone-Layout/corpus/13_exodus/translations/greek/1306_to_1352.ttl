@@ -4,162 +4,162 @@
 
 :exodus-translations-1306-1352-greek a owl:Ontology .
 
-:TV_Line_1306_gr a :TranslationVariant ;
+:TV_Line_1306_GR a :TranslationVariant ;
     :text "Αλίμονο, αλίμονο,"^^xsd:string ;
     :relatedTo :Line_1306 .
 
-:TV_Line_1307_gr a :TranslationVariant ;
+:TV_Line_1307_GR a :TranslationVariant ;
     :text "τρέμω από φόβο. Γιατί κανείς δεν με χτύπησε"^^xsd:string ;
     :relatedTo :Line_1307 .
 
-:TV_Line_1308_gr a :TranslationVariant ;
+:TV_Line_1308_GR a :TranslationVariant ;
     :text "κατάστηθα με δίκοπο ξίφος;"^^xsd:string ;
     :relatedTo :Line_1308 .
 
-:TV_Line_1310_gr a :TranslationVariant ;
+:TV_Line_1310_GR a :TranslationVariant ;
     :text "Δύστυχος είμαι, αλίμονο,"^^xsd:string ;
     :relatedTo :Line_1310 .
 
-:TV_Line_1311_gr a :TranslationVariant ;
+:TV_Line_1311_GR a :TranslationVariant ;
     :text "και ανακατεμένος με δύστυχη οδύνη."^^xsd:string ;
     :relatedTo :Line_1311 .
 
-:TV_Line_1312_gr a :TranslationVariant ;
+:TV_Line_1312_GR a :TranslationVariant ;
     :text "Ως έχοντας την ευθύνη γι’ αυτά και για εκείνα,"^^xsd:string ;
     :relatedTo :Line_1312 .
 
-:TV_Line_1313_gr a :TranslationVariant ;
+:TV_Line_1313_GR a :TranslationVariant ;
     :text "κατηγορείσαι από τη μοίρα αυτής της νεκρής γυναίκας."^^xsd:string ;
     :relatedTo :Line_1313 .
 
-:TV_Line_1314_gr a :TranslationVariant ;
+:TV_Line_1314_GR a :TranslationVariant ;
     :text "Και με ποιο τρόπο έδωσε η ίδια τον εαυτό της στο αίμα;"^^xsd:string ;
     :relatedTo :Line_1314 .
 
-:TV_Line_1315_gr a :TranslationVariant ;
+:TV_Line_1315_GR a :TranslationVariant ;
     :text "Με το ίδιο της το χέρι χτύπησε κάτω απ’ το ήπαρ,"^^xsd:string ;
     :relatedTo :Line_1315 .
 
-:TV_Line_1316_gr a :TranslationVariant ;
+:TV_Line_1316_GR a :TranslationVariant ;
     :text "όταν έμαθε αυτή τη σπαρακτικά θρηνητή συμφορά του γιου της."^^xsd:string ;
     :relatedTo :Line_1316 .
 
-:TV_Line_1317_gr a :TranslationVariant ;
+:TV_Line_1317_GR a :TranslationVariant ;
     :text "Αχ μου, αυτά δεν μπορούν να φορτωθούν ποτέ σε άλλον θνητό"^^xsd:string ;
     :relatedTo :Line_1317 .
 
-:TV_Line_1318_gr a :TranslationVariant ;
+:TV_Line_1318_GR a :TranslationVariant ;
     :text "ως έργα δικής μου ενοχής."^^xsd:string ;
     :relatedTo :Line_1318 .
 
-:TV_Line_1319_gr a :TranslationVariant ;
+:TV_Line_1319_GR a :TranslationVariant ;
     :text "Γιατί εγώ, ναι εγώ, σε σκότωσα, δύστυχη,"^^xsd:string ;
     :relatedTo :Line_1319 .
 
-:TV_Line_1320_gr a :TranslationVariant ;
+:TV_Line_1320_GR a :TranslationVariant ;
     :text "εγώ, το λέω εγώ, αληθινά. Ω δούλοι,"^^xsd:string ;
     :relatedTo :Line_1320 .
 
-:TV_Line_1321_gr a :TranslationVariant ;
+:TV_Line_1321_GR a :TranslationVariant ;
     :text "πάρτε με μακριά όσο πιο γρήγορα μπορείτε, βγάλτε με από τη μέση,"^^xsd:string ;
     :relatedTo :Line_1321 .
 
-:TV_Line_1325_gr a :TranslationVariant ;
+:TV_Line_1325_GR a :TranslationVariant ;
     :text "άντρα που δεν είναι τίποτα πια."^^xsd:string ;
     :relatedTo :Line_1325 .
 
-:TV_Line_1326_gr a :TranslationVariant ;
+:TV_Line_1326_GR a :TranslationVariant ;
     :text "Δίνεις συμβουλή ωφέλιμη, αν υπάρχει ωφέλεια μέσα στα κακά·"^^xsd:string ;
     :relatedTo :Line_1326 .
 
-:TV_Line_1327_gr a :TranslationVariant ;
+:TV_Line_1327_GR a :TranslationVariant ;
     :text "γιατί το ελάχιστο κακό στα πόδια μας είναι το καλύτερο."^^xsd:string ;
     :relatedTo :Line_1327 .
 
-:TV_Line_1328_gr a :TranslationVariant ;
+:TV_Line_1328_GR a :TranslationVariant ;
     :text "Ας έρθει, ας έρθει,"^^xsd:string ;
     :relatedTo :Line_1328 .
 
-:TV_Line_1329_gr a :TranslationVariant ;
+:TV_Line_1329_GR a :TranslationVariant ;
     :text "ας φανεί για μένα η πιο όμορφη μοίρα απ’ όλες,"^^xsd:string ;
     :relatedTo :Line_1329 .
 
-:TV_Line_1330_gr a :TranslationVariant ;
+:TV_Line_1330_GR a :TranslationVariant ;
     :text "φέρνοντας την τελευταία μου μέρα,"^^xsd:string ;
     :relatedTo :Line_1330 .
 
-:TV_Line_1331_gr a :TranslationVariant ;
+:TV_Line_1331_GR a :TranslationVariant ;
     :text "την ύστατη μέρα μου. Ας έρθει, ας έρθει,"^^xsd:string ;
     :relatedTo :Line_1331 .
 
-:TV_Line_1332_gr a :TranslationVariant ;
+:TV_Line_1332_GR a :TranslationVariant ;
     :text "για να μη δω ποτέ άλλη μέρα."^^xsd:string ;
     :relatedTo :Line_1332 .
 
-:TV_Line_1334_gr a :TranslationVariant ;
+:TV_Line_1334_GR a :TranslationVariant ;
     :text "Αυτά είναι του μέλλοντος. Για όσα είναι μπροστά μας,"^^xsd:string ;
     :relatedTo :Line_1334 .
 
-:TV_Line_1335_gr a :TranslationVariant ;
+:TV_Line_1335_GR a :TranslationVariant ;
     :text "κάτι πρέπει να γίνει· η φροντίδα τους ανήκει σε όσους πρέπει να φροντίσουν."^^xsd:string ;
     :relatedTo :Line_1335 .
 
-:TV_Line_1336_gr a :TranslationVariant ;
+:TV_Line_1336_GR a :TranslationVariant ;
     :text "Κι όμως προσευχήθηκα κι εγώ για όσα λέω."^^xsd:string ;
     :relatedTo :Line_1336 .
 
-:TV_Line_1337_gr a :TranslationVariant ;
+:TV_Line_1337_GR a :TranslationVariant ;
     :text "Μη ζητάς πια τίποτα με προσευχή· γιατί από την ορισμένη μοίρα"^^xsd:string ;
     :relatedTo :Line_1337 .
 
-:TV_Line_1338_gr a :TranslationVariant ;
+:TV_Line_1338_GR a :TranslationVariant ;
     :text "κανένας θνητός δεν λυτρώνεται από τη δυστυχία."^^xsd:string ;
     :relatedTo :Line_1338 .
 
-:TV_Line_1339_gr a :TranslationVariant ;
+:TV_Line_1339_GR a :TranslationVariant ;
     :text "Πάρτε μακριά από μπροστά μου αυτόν τον μάταιο άντρα,"^^xsd:string ;
     :relatedTo :Line_1339 .
 
-:TV_Line_1340_gr a :TranslationVariant ;
+:TV_Line_1340_GR a :TranslationVariant ;
     :text "που, παιδί μου, σε σκότωσε χωρίς να το θέλει,"^^xsd:string ;
     :relatedTo :Line_1340 .
 
-:TV_Line_1341_gr a :TranslationVariant ;
+:TV_Line_1341_GR a :TranslationVariant ;
     :text "κι εσένα επίσης, γυναίκα μου. Αλίμονο, δύστυχος εγώ,"^^xsd:string ;
     :relatedTo :Line_1341 .
 
-:TV_Line_1342_gr a :TranslationVariant ;
+:TV_Line_1342_GR a :TranslationVariant ;
     :text "δεν ξέρω πού να κοιτάξω, προς τα πού να στραφώ·"^^xsd:string ;
     :relatedTo :Line_1342 .
 
-:TV_Line_1345_gr a :TranslationVariant ;
+:TV_Line_1345_GR a :TranslationVariant ;
     :text "γιατί όλα στραβώνουν στα χέρια μου, και πάνω στο κεφάλι μου"^^xsd:string ;
     :relatedTo :Line_1345 .
 
-:TV_Line_1346_gr a :TranslationVariant ;
+:TV_Line_1346_GR a :TranslationVariant ;
     :text "πήδησε μοίρα βαριά, αβάσταχτη."^^xsd:string ;
     :relatedTo :Line_1346 .
 
-:TV_Line_1347_gr a :TranslationVariant ;
+:TV_Line_1347_GR a :TranslationVariant ;
     :text "Πάνω απ’ όλα, η φρόνηση είναι"^^xsd:string ;
     :relatedTo :Line_1347 .
 
-:TV_Line_1348_gr a :TranslationVariant ;
+:TV_Line_1348_GR a :TranslationVariant ;
     :text "ο πρώτος όρος της ευτυχίας· και πρέπει"^^xsd:string ;
     :relatedTo :Line_1348 .
 
-:TV_Line_1350_gr a :TranslationVariant ;
+:TV_Line_1350_GR a :TranslationVariant ;
     :text "σε τίποτα να μην ασεβεί κανείς απέναντι στους θεούς. Τα μεγάλα λόγια"^^xsd:string ;
     :relatedTo :Line_1350 .
 
-:TV_Line_1351_gr a :TranslationVariant ;
+:TV_Line_1351_GR a :TranslationVariant ;
     :text "των υπερήφανων ξεπληρώνονται με μεγάλα χτυπήματα,"^^xsd:string ;
     :relatedTo :Line_1351 .
 
-:TV_Line_1352_gr a :TranslationVariant ;
+:TV_Line_1352_GR a :TranslationVariant ;
     :text "και στο τέλος"^^xsd:string ;
     :relatedTo :Line_1352 .
 
-:TV_Line_1353_gr a :TranslationVariant ;
+:TV_Line_1353_GR a :TranslationVariant ;
     :text "διδάσκουν φρόνηση στα γηρατειά."^^xsd:string ;
     :relatedTo :Line_1353 .

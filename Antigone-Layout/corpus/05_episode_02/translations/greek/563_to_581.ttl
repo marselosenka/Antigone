@@ -4,78 +4,78 @@
 
 :episode_02-translations-563-581-greek a owl:Ontology .
 
-:TV_Line_563_gr a :TranslationVariant ;
+:TV_Line_563_GR a :TranslationVariant ;
     :text "Ποτέ, άνακτα, σε όσους δυστυχούν δεν μένει"^^xsd:string ;
     :relatedTo :Line_563 .
 
-:TV_Line_564_gr a :TranslationVariant ;
+:TV_Line_564_GR a :TranslationVariant ;
     :text "ο νους που γεννιέται μαζί τους, αλλά φεύγει."^^xsd:string ;
     :relatedTo :Line_564 .
 
-:TV_Line_565_gr a :TranslationVariant ;
+:TV_Line_565_GR a :TranslationVariant ;
     :text "Αυτό έγινε και σε σένα, όταν διάλεξες μέσα στα κακά να πράττεις κακά."^^xsd:string ;
     :relatedTo :Line_565 .
 
-:TV_Line_566_gr a :TranslationVariant ;
+:TV_Line_566_GR a :TranslationVariant ;
     :text "Γιατί τι ζωή έχω εγώ, αν λείπει αυτή;"^^xsd:string ;
     :relatedTo :Line_566 .
 
-:TV_Line_567_gr a :TranslationVariant ;
+:TV_Line_567_GR a :TranslationVariant ;
     :text "Μα για αυτήν μη μιλάς· γιατί δεν υπάρχει πια."^^xsd:string ;
     :relatedTo :Line_567 .
 
-:TV_Line_568_gr a :TranslationVariant ;
+:TV_Line_568_GR a :TranslationVariant ;
     :text "Θα θανατώσεις, λοιπόν, τη νύφη του ίδιου σου του γιου;"^^xsd:string ;
     :relatedTo :Line_568 .
 
-:TV_Line_569_gr a :TranslationVariant ;
+:TV_Line_569_GR a :TranslationVariant ;
     :text "Υπάρχουν κι άλλα χωράφια για να οργώσει."^^xsd:string ;
     :relatedTo :Line_569 .
 
-:TV_Line_570_gr a :TranslationVariant ;
+:TV_Line_570_GR a :TranslationVariant ;
     :text "Όχι όμως τόσο ταιριασμένη στον δικό του όσο αυτή."^^xsd:string ;
     :relatedTo :Line_570 .
 
-:TV_Line_571_gr a :TranslationVariant ;
+:TV_Line_571_GR a :TranslationVariant ;
     :text "Κακές γυναίκες για τους γιους μου τις μισώ."^^xsd:string ;
     :relatedTo :Line_571 .
 
-:TV_Line_572_gr a :TranslationVariant ;
+:TV_Line_572_GR a :TranslationVariant ;
     :text "Αγαπημένε μου Αίμονα, πώς σε ατιμάζει ο πατέρας σου."^^xsd:string ;
     :relatedTo :Line_572 .
 
-:TV_Line_573_gr a :TranslationVariant ;
+:TV_Line_573_GR a :TranslationVariant ;
     :text "Κι εσύ και ο γάμος σου με λυπείτε υπερβολικά."^^xsd:string ;
     :relatedTo :Line_573 .
 
-:TV_Line_574_gr a :TranslationVariant ;
+:TV_Line_574_GR a :TranslationVariant ;
     :text "Θα στερήσεις, λοιπόν, από τον γιο σου αυτήν;"^^xsd:string ;
     :relatedTo :Line_574 .
 
-:TV_Line_575_gr a :TranslationVariant ;
+:TV_Line_575_GR a :TranslationVariant ;
     :text "Ο Άδης είναι αυτός που θα σταματήσει αυτούς τους γάμους."^^xsd:string ;
     :relatedTo :Line_575 .
 
-:TV_Line_576_gr a :TranslationVariant ;
+:TV_Line_576_GR a :TranslationVariant ;
     :text "Είναι αποφασισμένο, όπως φαίνεται, αυτή να πεθάνει."^^xsd:string ;
     :relatedTo :Line_576 .
 
-:TV_Line_577_gr a :TranslationVariant ;
+:TV_Line_577_GR a :TranslationVariant ;
     :text "Για σένα και για μένα. Τέλος οι καθυστερήσεις· τώρα"^^xsd:string ;
     :relatedTo :Line_577 .
 
-:TV_Line_578_gr a :TranslationVariant ;
+:TV_Line_578_GR a :TranslationVariant ;
     :text "υπηρέτες, οδηγήστε τις μέσα. Από δω και πέρα"^^xsd:string ;
     :relatedTo :Line_578 .
 
-:TV_Line_579_gr a :TranslationVariant ;
+:TV_Line_579_GR a :TranslationVariant ;
     :text "αυτές οι γυναίκες πρέπει να μένουν δεμένες και όχι ελεύθερες."^^xsd:string ;
     :relatedTo :Line_579 .
 
-:TV_Line_580_gr a :TranslationVariant ;
+:TV_Line_580_GR a :TranslationVariant ;
     :text "Γιατί και οι θαρραλέοι ακόμη το βάζουν στα πόδια, όταν δουν"^^xsd:string ;
     :relatedTo :Line_580 .
 
-:TV_Line_581_gr a :TranslationVariant ;
+:TV_Line_581_GR a :TranslationVariant ;
     :text "τον Άδη να στέκεται ήδη κοντά στη ζωή τους."^^xsd:string ;
     :relatedTo :Line_581 .

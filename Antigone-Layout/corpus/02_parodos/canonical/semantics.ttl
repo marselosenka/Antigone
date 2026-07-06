@@ -11,7 +11,7 @@
 
 :Antigone_Parodos a :Parodos ;
     :partOfPlay :Antigone ;
-    :hasSpeech :Speech_Chorus_Parodos_100_161 ;
+    :hasSpeech :Speech_Chorus_100_161 ;
     :hasCharacter :Antigone_Character_Antigone, :Antigone_Character_Ismene, :Antigone_Character_Chorus, :Antigone_Character_Creon,
     :Antigone_Character_Eteocles, :Antigone_Character_Polyneices ;
     :developsTheme 
@@ -56,7 +56,6 @@
               :Line_159,
               :Line_160,
               :Line_161 ;
-:partOfScene :Antigone_Scene_DialogueAndParodos_90_113, :Antigone_Scene_Parodos_StropheA_115_140_GR ;
 :developsTheme :Theme_DawnHope, :Theme_WarAftermath, :Theme_ThebanVictoryThanksgiving, :Theme_FraternalCivilWar, :Theme_PoliticalTransitionToCreon ;
 :referencesMyth :Myth_Sunlight, :Myth_ThebesSevenGates, :Myth_DirceStreams, :Myth_ArgiveArmy, :Myth_PolyneicesAttack,
                 :Myth_ArgiveEagleAssault, :Myth_SevenGates, :Myth_HephaestusFire, :Myth_AresWarClash, :Myth_DragonDefender, :Myth_ZeusLightningStrike,

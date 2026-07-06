@@ -4,12 +4,12 @@
 
 :episode_03-translations-631-634-chinese a owl:Ontology .
 
-:TV_Line_631_zh a :TranslationVariant ; :relatedTo :Line_631 ;
+:TV_Line_631_ZH a :TranslationVariant ; :relatedTo :Line_631 ;
   :text "我们很快就会看得比先知还清楚。"^^xsd:string .
-:TV_Line_632_zh a :TranslationVariant ; :relatedTo :Line_632 ;
+:TV_Line_632_ZH a :TranslationVariant ; :relatedTo :Line_632 ;
   :text "孩子，你听到最终裁决已经下了吗，"^^xsd:string .
-:TV_Line_633_zh a :TranslationVariant ; :relatedTo :Line_633 ;
+:TV_Line_633_ZH a :TranslationVariant ; :relatedTo :Line_633 ;
   :text "所以来这里对你父亲为你新娘所作之判决发狂？"^^xsd:string .
-:TV_Line_634_zh a :TranslationVariant ; :relatedTo :Line_634 ;
+:TV_Line_634_ZH a :TranslationVariant ; :relatedTo :Line_634 ;
   :text "还是说无论如何我始终是你的同盟？"^^xsd:string .
 

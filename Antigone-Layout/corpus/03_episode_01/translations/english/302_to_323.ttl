@@ -6,68 +6,68 @@
 :episode_01-translations-302-323-english a owl:Ontology .
 # English translation variants extracted from 302_to_323.ttl
 
-:TV_Line_302_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_302 ;
+:TV_Line_302_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_302 ;
   :text "But every man who accepts such bribery"^^xsd:string .
 
-:TV_Line_303_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_303 ;
+:TV_Line_303_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_303 ;
   :text "Will pay price at some point or other."^^xsd:string .
 
-:TV_Line_304_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_304 ;
+:TV_Line_304_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_304 ;
   :text "As Zeus still has my prayers,"^^xsd:string .
 
-:TV_Line_305_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_305 ;
+:TV_Line_305_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_305 ;
   :text "Mark my words—I swear to you that"^^xsd:string .
 
-:TV_Line_306_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_306 ;
+:TV_Line_306_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_306 ;
   :text "If you do not bring before my eyes"^^xsd:string .
 
-:TV_Line_307_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_307 ;
+:TV_Line_307_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_307 ;
   :text "The criminal who performed this burial,"^^xsd:string .
 
-:TV_Line_308_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_308 ;
+:TV_Line_308_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_308 ;
   :text "You’ll have a fate worse than death:"^^xsd:string .
 
-:TV_Line_309_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_309 ;
+:TV_Line_309_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_309 ;
   :text "You’ll be strung up alive until you confess your crime—"^^xsd:string .
 
-:TV_Line_310_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_310 ;
+:TV_Line_310_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_310 ;
   :text "Then, as you steal, you’ll know where your income"^^xsd:string .
 
-:TV_Line_311_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_311 ;
+:TV_Line_311_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_311 ;
   :text "Should be coming from, and you’ll finally learn that"^^xsd:string .
 
-:TV_Line_312_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_312 ;
+:TV_Line_312_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_312 ;
   :text "More money isn’t always a good thing."^^xsd:string .
 
-:TV_Line_313_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_313 ;
+:TV_Line_313_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_313 ;
   :text "You know that you lose more than you gain"^^xsd:string .
 
-:TV_Line_314_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_314 ;
+:TV_Line_314_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_314 ;
   :text "In such shameful pursuits."^^xsd:string .
 
-:TV_Line_315_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_315 ;
+:TV_Line_315_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_315 ;
   :text "GUARD. Might I speak or begone with me forthwith?"^^xsd:string .
 
-:TV_Line_316_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_316 ;
+:TV_Line_316_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_316 ;
   :text "CREON. Can’t you see every word you say brings me pain?"^^xsd:string .
 
-:TV_Line_317_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_317 ;
+:TV_Line_317_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_317 ;
   :text "GUARD. Do I pain your ears or your heart?"^^xsd:string .
 
-:TV_Line_318_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_318 ;
+:TV_Line_318_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_318 ;
   :text "CREON. Why test the limits of my grief?"^^xsd:string .
 
-:TV_Line_319_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_319 ;
+:TV_Line_319_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_319 ;
   :text "GUARD. The criminal pains your heart, I only pain your ears."^^xsd:string .
 
-:TV_Line_320_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_320 ;
+:TV_Line_320_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_320 ;
   :text "CREON. Now you’re just spewing nonsense."^^xsd:string .
 
-:TV_Line_321_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_321 ;
+:TV_Line_321_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_321 ;
   :text "GUARD. Mayhap, but I did not commit this crime."^^xsd:string .
 
-:TV_Line_322_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_322 ;
+:TV_Line_322_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_322 ;
   :text "CREON. You traded your soul for silver."^^xsd:string .
 
-:TV_Line_323_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_323 ;
+:TV_Line_323_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_323 ;
   :text "GUARD. Well now, ‘tis a shame when the judge misjudges."^^xsd:string .

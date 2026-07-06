@@ -4,114 +4,114 @@
 
 :parodos-translations-113-140-greek a owl:Ontology .
 
-:TV_Line_113_gr a :TranslationVariant ;
+:TV_Line_113_GR a :TranslationVariant ;
     :text "σαν αετός πέταξε πάνω από τη γη,"^^xsd:string ;
     :relatedTo :Line_113 .
 
-:TV_Line_114_gr a :TranslationVariant ;
+:TV_Line_114_GR a :TranslationVariant ;
     :text "σκεπασμένος με φτερό λευκού χιονιού,"^^xsd:string ;
     :relatedTo :Line_114 .
 
-:TV_Line_115_gr a :TranslationVariant ;
+:TV_Line_115_GR a :TranslationVariant ;
     :text "με πολλά όπλα"^^xsd:string ;
     :relatedTo :Line_115 .
 
-:TV_Line_116_gr a :TranslationVariant ;
+:TV_Line_116_GR a :TranslationVariant ;
     :text "και με λοφοφόρα κράνη ιπποδαμαστών."^^xsd:string ;
     :relatedTo :Line_116 .
 
-:TV_Line_117_gr a :TranslationVariant ;
+:TV_Line_117_GR a :TranslationVariant ;
     :text "Στάθηκε πάνω από τις στέγες, διψώντας για φόνο,"^^xsd:string ;
     :relatedTo :Line_117 .
 
-:TV_Line_118_gr a :TranslationVariant ;
+:TV_Line_118_GR a :TranslationVariant ;
     :text "χάσκοντας κυκλικά"^^xsd:string ;
     :relatedTo :Line_118 .
 
-:TV_Line_119_gr a :TranslationVariant ;
+:TV_Line_119_GR a :TranslationVariant ;
     :text "στο επτάπυλο στόμα με λόγχες,"^^xsd:string ;
     :relatedTo :Line_119 .
 
-:TV_Line_120_gr a :TranslationVariant ;
+:TV_Line_120_GR a :TranslationVariant ;
     :text "μα έφυγε προτού ποτέ"^^xsd:string ;
     :relatedTo :Line_120 .
 
-:TV_Line_121_gr a :TranslationVariant ;
+:TV_Line_121_GR a :TranslationVariant ;
     :text "γεμίσει τα σαγόνια του με το αίμα μας"^^xsd:string ;
     :relatedTo :Line_121 .
 
-:TV_Line_122_gr a :TranslationVariant ;
+:TV_Line_122_GR a :TranslationVariant ;
     :text "και προτού της στεφάνης των πύργων"^^xsd:string ;
     :relatedTo :Line_122 .
 
-:TV_Line_123_gr a :TranslationVariant ;
+:TV_Line_123_GR a :TranslationVariant ;
     :text "αρπάξει το πευκοθρεμμένο πυρ του Ηφαίστου."^^xsd:string ;
     :relatedTo :Line_123 .
 
-:TV_Line_124_gr a :TranslationVariant ;
+:TV_Line_124_GR a :TranslationVariant ;
     :text "Τέτοιος κρότος απλώθηκε γύρω από την πλάτη του,"^^xsd:string ;
     :relatedTo :Line_124 .
 
-:TV_Line_125_gr a :TranslationVariant ;
+:TV_Line_125_GR a :TranslationVariant ;
     :text "ο πάταγος του Άρη, αντίπαλος"^^xsd:string ;
     :relatedTo :Line_125 .
 
-:TV_Line_126_gr a :TranslationVariant ;
+:TV_Line_126_GR a :TranslationVariant ;
     :text "δύσκολος στο δράκοντα να τον παλέψει."^^xsd:string ;
     :relatedTo :Line_126 .
 
-:TV_Line_127_gr a :TranslationVariant ;
+:TV_Line_127_GR a :TranslationVariant ;
     :text "Γιατί ο Δίας τα καυχήματα της μεγάλης γλώσσας"^^xsd:string ;
     :relatedTo :Line_127 .
 
-:TV_Line_128_gr a :TranslationVariant ;
+:TV_Line_128_GR a :TranslationVariant ;
     :text "τα υπερμισεί, και βλέποντάς τους"^^xsd:string ;
     :relatedTo :Line_128 .
 
-:TV_Line_129_gr a :TranslationVariant ;
+:TV_Line_129_GR a :TranslationVariant ;
     :text "να ορμούν με πολύ ρεύμα,"^^xsd:string ;
     :relatedTo :Line_129 .
 
-:TV_Line_130_gr a :TranslationVariant ;
+:TV_Line_130_GR a :TranslationVariant ;
     :text "υπερόπτες μέσα στον κρότο του χρυσού,"^^xsd:string ;
     :relatedTo :Line_130 .
 
-:TV_Line_131_gr a :TranslationVariant ;
+:TV_Line_131_GR a :TranslationVariant ;
     :text "τους ρίχνει με φλογερό κεραυνό"^^xsd:string ;
     :relatedTo :Line_131 .
 
-:TV_Line_132_gr a :TranslationVariant ;
+:TV_Line_132_GR a :TranslationVariant ;
     :text "επάνω στις κορφές των επάλξεων, όταν ήδη"^^xsd:string ;
     :relatedTo :Line_132 .
 
-:TV_Line_133_gr a :TranslationVariant ;
+:TV_Line_133_GR a :TranslationVariant ;
     :text "όρμαγε να αλαλάξει τη νίκη."^^xsd:string ;
     :relatedTo :Line_133 .
 
-:TV_Line_134_gr a :TranslationVariant ;
+:TV_Line_134_GR a :TranslationVariant ;
     :text "Και σε γη που αντιχτυπούσε έπεσε χτυπημένος,"^^xsd:string ;
     :relatedTo :Line_134 .
 
-:TV_Line_135_gr a :TranslationVariant ;
+:TV_Line_135_GR a :TranslationVariant ;
     :text "ο πυρφόρος, που τότε με μανιασμένη ορμή"^^xsd:string ;
     :relatedTo :Line_135 .
 
-:TV_Line_136_gr a :TranslationVariant ;
+:TV_Line_136_GR a :TranslationVariant ;
     :text "φυσούσε σαν βακχευμένος,"^^xsd:string ;
     :relatedTo :Line_136 .
 
-:TV_Line_137_gr a :TranslationVariant ;
+:TV_Line_137_GR a :TranslationVariant ;
     :text "με ριπές εχθρικότατων ανέμων."^^xsd:string ;
     :relatedTo :Line_137 .
 
-:TV_Line_138_gr a :TranslationVariant ;
+:TV_Line_138_GR a :TranslationVariant ;
     :text "Κι άλλα είχε η τύχη γι’ αυτόν,"^^xsd:string ;
     :relatedTo :Line_138 .
 
-:TV_Line_139_gr a :TranslationVariant ;
+:TV_Line_139_GR a :TranslationVariant ;
     :text "κι άλλα σε άλλους μοίραζε χτυπώντας"^^xsd:string ;
     :relatedTo :Line_139 .
 
-:TV_Line_140_gr a :TranslationVariant ;
+:TV_Line_140_GR a :TranslationVariant ;
     :text "ο μέγας Άρης, δεξιόσειρος."^^xsd:string ;
     :relatedTo :Line_140 .

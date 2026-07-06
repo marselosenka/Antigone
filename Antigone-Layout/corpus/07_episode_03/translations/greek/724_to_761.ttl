@@ -4,78 +4,78 @@
 
 :episode_03-translations-724-761-greek a owl:Ontology .
 
-:TV_Line_726_gr a :TranslationVariant ;
+:TV_Line_726_GR a :TranslationVariant ;
     :text "και τίποτα άδικο· κι αν εγώ είμαι νέος,"^^xsd:string ;
     :relatedTo :Line_726 .
 
-:TV_Line_729_gr a :TranslationVariant ;
+:TV_Line_729_GR a :TranslationVariant ;
     :text "είναι άραγε σωστό έργο να τιμάς τους άτακτους;"^^xsd:string ;
     :relatedTo :Line_729 .
 
-:TV_Line_731_gr a :TranslationVariant ;
+:TV_Line_731_GR a :TranslationVariant ;
     :text "ούτε θα πρόσταζα ποτέ να σέβεται κανείς τους κακούς."^^xsd:string ;
     :relatedTo :Line_731 .
 
-:TV_Line_732_gr a :TranslationVariant ;
+:TV_Line_732_GR a :TranslationVariant ;
     :text "δεν έχει άραγε πιαστεί αυτή από τέτοια πλάνη;"^^xsd:string ;
     :relatedTo :Line_732 .
 
-:TV_Line_733_gr a :TranslationVariant ;
+:TV_Line_733_GR a :TranslationVariant ;
     :text "όχι, το αρνείται ο συμπολίτης λαός αυτής της Θήβας."^^xsd:string ;
     :relatedTo :Line_733 .
 
-:TV_Line_734_gr a :TranslationVariant ;
+:TV_Line_734_GR a :TranslationVariant ;
     :text "ή μήπως η πόλη θα ορίζει σε μένα τι να λέω;"^^xsd:string ;
     :relatedTo :Line_734 .
 
-:TV_Line_735_gr a :TranslationVariant ;
+:TV_Line_735_GR a :TranslationVariant ;
     :text "βλέπεις πως αυτά που λες είναι υπερβολικά νεανικά;"^^xsd:string ;
     :relatedTo :Line_735 .
 
-:TV_Line_736_gr a :TranslationVariant ;
+:TV_Line_736_GR a :TranslationVariant ;
     :text "σε άλλον, κι όχι σε μένα, πρέπει να άρχω αυτής της γης;"^^xsd:string ;
     :relatedTo :Line_736 .
 
-:TV_Line_737_gr a :TranslationVariant ;
+:TV_Line_737_GR a :TranslationVariant ;
     :text "παγκάκιστε, πηγαίνεις έτσι ενάντια στον πατέρα;"^^xsd:string ;
     :relatedTo :Line_737 .
 
-:TV_Line_743_gr a :TranslationVariant ;
+:TV_Line_743_GR a :TranslationVariant ;
     :text "γιατί δεν σε βλέπω να σφάλλεις από το δίκαιο."^^xsd:string ;
     :relatedTo :Line_743 .
 
-:TV_Line_744_gr a :TranslationVariant ;
+:TV_Line_744_GR a :TranslationVariant ;
     :text "δεν θα με πιάσεις κατώτερο μπροστά στα αισχρά."^^xsd:string ;
     :relatedTo :Line_744 .
 
-:TV_Line_748_gr a :TranslationVariant ;
+:TV_Line_748_GR a :TranslationVariant ;
     :text "όλος αυτός ο λόγος σου είναι για χάρη εκείνης."^^xsd:string ;
     :relatedTo :Line_748 .
 
-:TV_Line_749_gr a :TranslationVariant ;
+:TV_Line_749_GR a :TranslationVariant ;
     :text "και για σένα και για μένα και για τους θεούς του κάτω κόσμου."^^xsd:string ;
     :relatedTo :Line_749 .
 
-:TV_Line_750_gr a :TranslationVariant ;
+:TV_Line_750_GR a :TranslationVariant ;
     :text "και μάλιστα έτσι προχωράς, απειλώντας με θράσος;"^^xsd:string ;
     :relatedTo :Line_750 .
 
-:TV_Line_753_gr a :TranslationVariant ;
+:TV_Line_753_GR a :TranslationVariant ;
     :text "φωνάζοντας θα διορθώσεις εμένα, ενώ εσύ είσαι άδειος νου."^^xsd:string ;
     :relatedTo :Line_753 .
 
-:TV_Line_755_gr a :TranslationVariant ;
+:TV_Line_755_GR a :TranslationVariant ;
     :text "αν δεν ήσουν πατέρας, θα έλεγα πως δεν φρονείς σωστά."^^xsd:string ;
     :relatedTo :Line_755 .
 
-:TV_Line_756_gr a :TranslationVariant ;
+:TV_Line_756_GR a :TranslationVariant ;
     :text "θέλεις να μιλάς και, μιλώντας, να μη ακούς τίποτα;"^^xsd:string ;
     :relatedTo :Line_756 .
 
-:TV_Line_758_gr a :TranslationVariant ;
+:TV_Line_758_GR a :TranslationVariant ;
     :text "χαίρεσαι να με γεννάς μέσα στις κατηγορίες;"^^xsd:string ;
     :relatedTo :Line_758 .
 
-:TV_Line_760_gr a :TranslationVariant ;
+:TV_Line_760_GR a :TranslationVariant ;
     :text "μπροστά σου θα πεθάνει, κοντά στον μνηστήρα της."^^xsd:string ;
     :relatedTo :Line_760 .

@@ -4,230 +4,230 @@
 
 :episode_02-translations-384-440-greek a owl:Ontology .
 
-:TV_Line_384_gr a :TranslationVariant ;
+:TV_Line_384_GR a :TranslationVariant ;
     :text "Αυτή είναι εκείνη που έκανε την πράξη."^^xsd:string ;
     :relatedTo :Line_384 .
 
-:TV_Line_385_gr a :TranslationVariant ;
+:TV_Line_385_GR a :TranslationVariant ;
     :text "Την πιάσαμε να τον θάβει. Μα πού είναι ο Κρέοντας;"^^xsd:string ;
     :relatedTo :Line_385 .
 
-:TV_Line_386_gr a :TranslationVariant ;
+:TV_Line_386_GR a :TranslationVariant ;
     :text "Να τον, βγαίνει από το παλάτι την κατάλληλη στιγμή."^^xsd:string ;
     :relatedTo :Line_386 .
 
-:TV_Line_387_gr a :TranslationVariant ;
+:TV_Line_387_GR a :TranslationVariant ;
     :text "Τι συμβαίνει; Σε ποια σύμπτωση έτυχε να πέσω;"^^xsd:string ;
     :relatedTo :Line_387 .
 
-:TV_Line_388_gr a :TranslationVariant ;
+:TV_Line_388_GR a :TranslationVariant ;
     :text "Άνακτα, στους ανθρώπους τίποτα δεν μένει αμετάκλητο."^^xsd:string ;
     :relatedTo :Line_388 .
 
-:TV_Line_389_gr a :TranslationVariant ;
+:TV_Line_389_GR a :TranslationVariant ;
     :text "Γιατί η δεύτερη σκέψη διαψεύδει την πρώτη γνώμη· αφού"^^xsd:string ;
     :relatedTo :Line_389 .
 
-:TV_Line_390_gr a :TranslationVariant ;
+:TV_Line_390_GR a :TranslationVariant ;
     :text "με δυσκολία καυχιόμουν πως θα ξανάρθω εδώ"^^xsd:string ;
     :relatedTo :Line_390 .
 
-:TV_Line_391_gr a :TranslationVariant ;
+:TV_Line_391_GR a :TranslationVariant ;
     :text "ύστερα από τις απειλές σου, που τότε με καταταλαιπώρησαν."^^xsd:string ;
     :relatedTo :Line_391 .
 
-:TV_Line_392_gr a :TranslationVariant ;
+:TV_Line_392_GR a :TranslationVariant ;
     :text "Όμως η χαρά που έρχεται έξω από κάθε ελπίδα"^^xsd:string ;
     :relatedTo :Line_392 .
 
-:TV_Line_393_gr a :TranslationVariant ;
+:TV_Line_393_GR a :TranslationVariant ;
     :text "δεν μοιάζει σε μέγεθος με καμιά άλλη ευχαρίστηση."^^xsd:string ;
     :relatedTo :Line_393 .
 
-:TV_Line_394_gr a :TranslationVariant ;
+:TV_Line_394_GR a :TranslationVariant ;
     :text "Ήρθα, παρόλο που το είχα ορκιστεί ότι δεν θα έρθω,"^^xsd:string ;
     :relatedTo :Line_394 .
 
-:TV_Line_395_gr a :TranslationVariant ;
+:TV_Line_395_GR a :TranslationVariant ;
     :text "φέρνοντας αυτή την κόρη, που πιάστηκε ενώ στόλιζε"^^xsd:string ;
     :relatedTo :Line_395 .
 
-:TV_Line_396_gr a :TranslationVariant ;
+:TV_Line_396_GR a :TranslationVariant ;
     :text "τον τάφο. Εδώ δεν ρίχτηκε κλήρος,"^^xsd:string ;
     :relatedTo :Line_396 .
 
-:TV_Line_397_gr a :TranslationVariant ;
+:TV_Line_397_GR a :TranslationVariant ;
     :text "αλλά αυτό το εύρημα είναι δικό μου, όχι άλλου."^^xsd:string ;
     :relatedTo :Line_397 .
 
-:TV_Line_398_gr a :TranslationVariant ;
+:TV_Line_398_GR a :TranslationVariant ;
     :text "Και τώρα, άνακτα, πάρε την εσύ ο ίδιος, όπως θέλεις,"^^xsd:string ;
     :relatedTo :Line_398 .
 
-:TV_Line_399_gr a :TranslationVariant ;
+:TV_Line_399_GR a :TranslationVariant ;
     :text "κρίνε την και εξέτασέ την· εγώ όμως είμαι"^^xsd:string ;
     :relatedTo :Line_399 .
 
-:TV_Line_400_gr a :TranslationVariant ;
+:TV_Line_400_GR a :TranslationVariant ;
     :text "δίκαια ελεύθερος να απαλλαγώ από αυτά τα βάσανα."^^xsd:string ;
     :relatedTo :Line_400 .
 
-:TV_Line_401_gr a :TranslationVariant ;
+:TV_Line_401_GR a :TranslationVariant ;
     :text "Κι αυτή την φέρνεις; με ποιον τρόπο και από πού την έπιασες;"^^xsd:string ;
     :relatedTo :Line_401 .
 
-:TV_Line_402_gr a :TranslationVariant ;
+:TV_Line_402_GR a :TranslationVariant ;
     :text "Αυτή έθαβε τον άντρα· τα ξέρεις όλα."^^xsd:string ;
     :relatedTo :Line_402 .
 
-:TV_Line_403_gr a :TranslationVariant ;
+:TV_Line_403_GR a :TranslationVariant ;
     :text "Καταλαβαίνεις τι λες και το λες σωστά;"^^xsd:string ;
     :relatedTo :Line_403 .
 
-:TV_Line_404_gr a :TranslationVariant ;
+:TV_Line_404_GR a :TranslationVariant ;
     :text "Την είδα με τα μάτια μου να θάβει τον νεκρό"^^xsd:string ;
     :relatedTo :Line_404 .
 
-:TV_Line_405_gr a :TranslationVariant ;
+:TV_Line_405_GR a :TranslationVariant ;
     :text "που εσύ είχες απαγορεύσει. Τα λέω καθαρά και σαφώς;"^^xsd:string ;
     :relatedTo :Line_405 .
 
-:TV_Line_406_gr a :TranslationVariant ;
+:TV_Line_406_GR a :TranslationVariant ;
     :text "Και πώς φάνηκε και πιάστηκε επ’ αυτοφώρω;"^^xsd:string ;
     :relatedTo :Line_406 .
 
-:TV_Line_407_gr a :TranslationVariant ;
+:TV_Line_407_GR a :TranslationVariant ;
     :text "Έτσι έγινε το πράγμα: όταν φτάσαμε,"^^xsd:string ;
     :relatedTo :Line_407 .
 
-:TV_Line_408_gr a :TranslationVariant ;
+:TV_Line_408_GR a :TranslationVariant ;
     :text "έχοντας δεχτεί εκείνες τις φοβερές απειλές σου,"^^xsd:string ;
     :relatedTo :Line_408 .
 
-:TV_Line_409_gr a :TranslationVariant ;
+:TV_Line_409_GR a :TranslationVariant ;
     :text "σαρώσαμε όλη τη σκόνη που σκέπαζε"^^xsd:string ;
     :relatedTo :Line_409 .
 
-:TV_Line_410_gr a :TranslationVariant ;
+:TV_Line_410_GR a :TranslationVariant ;
     :text "τον νεκρό, και ξεγυμνώσαμε καλά το σώμα που σάπιζε,"^^xsd:string ;
     :relatedTo :Line_410 .
 
-:TV_Line_411_gr a :TranslationVariant ;
+:TV_Line_411_GR a :TranslationVariant ;
     :text "και καθίσαμε στην κορυφή του λόφου, στην υπήνεμη μεριά,"^^xsd:string ;
     :relatedTo :Line_411 .
 
-:TV_Line_412_gr a :TranslationVariant ;
+:TV_Line_412_GR a :TranslationVariant ;
     :text "για να μη μας χτυπά η μυρωδιά του, μακριά από το πτώμα."^^xsd:string ;
     :relatedTo :Line_412 .
 
-:TV_Line_413_gr a :TranslationVariant ;
+:TV_Line_413_GR a :TranslationVariant ;
     :text "Ο ένας κρατούσε ξύπνιο τον άλλον με τραχιές φωνές"^^xsd:string ;
     :relatedTo :Line_413 .
 
-:TV_Line_414_gr a :TranslationVariant ;
+:TV_Line_414_GR a :TranslationVariant ;
     :text "και κατηγορίες, μήπως κανείς αμελήσει αυτό το καθήκον."^^xsd:string ;
     :relatedTo :Line_414 .
 
-:TV_Line_415_gr a :TranslationVariant ;
+:TV_Line_415_GR a :TranslationVariant ;
     :text "Αυτό κράτησε τόση ώρα, ώσπου στον ουρανό"^^xsd:string ;
     :relatedTo :Line_415 .
 
-:TV_Line_416_gr a :TranslationVariant ;
+:TV_Line_416_GR a :TranslationVariant ;
     :text "ο λαμπρός κύκλος του ήλιου στάθηκε στο μέσο"^^xsd:string ;
     :relatedTo :Line_416 .
 
-:TV_Line_417_gr a :TranslationVariant ;
+:TV_Line_417_GR a :TranslationVariant ;
     :text "και η κάψα έκαιγε. Και τότε ξαφνικά από τη γη"^^xsd:string ;
     :relatedTo :Line_417 .
 
-:TV_Line_418_gr a :TranslationVariant ;
+:TV_Line_418_GR a :TranslationVariant ;
     :text "σηκώθηκε ανεμοστρόβιλος, ουράνια μάστιγα,"^^xsd:string ;
     :relatedTo :Line_418 .
 
-:TV_Line_419_gr a :TranslationVariant ;
+:TV_Line_419_GR a :TranslationVariant ;
     :text "και γέμισε τον κάμπο, μαστιγώνοντας όλο το φύλλωμα"^^xsd:string ;
     :relatedTo :Line_419 .
 
-:TV_Line_420_gr a :TranslationVariant ;
+:TV_Line_420_GR a :TranslationVariant ;
     :text "του πεδινού δάσους· κι ο πλατύς αέρας γέμισε σκόνη."^^xsd:string ;
     :relatedTo :Line_420 .
 
-:TV_Line_421_gr a :TranslationVariant ;
+:TV_Line_421_GR a :TranslationVariant ;
     :text "Κλείσαμε τα μάτια και υπομείναμε τη θεόσταλτη πληγή."^^xsd:string ;
     :relatedTo :Line_421 .
 
-:TV_Line_422_gr a :TranslationVariant ;
+:TV_Line_422_GR a :TranslationVariant ;
     :text "Κι όταν, ύστερα από πολλή ώρα, αυτό κόπασε,"^^xsd:string ;
     :relatedTo :Line_422 .
 
-:TV_Line_423_gr a :TranslationVariant ;
+:TV_Line_423_GR a :TranslationVariant ;
     :text "φάνηκε η κόρη, και έβγαλε κραυγή πικρή,"^^xsd:string ;
     :relatedTo :Line_423 .
 
-:TV_Line_424_gr a :TranslationVariant ;
+:TV_Line_424_GR a :TranslationVariant ;
     :text "οξεία σαν πουλιού, όπως όταν εκείνο"^^xsd:string ;
     :relatedTo :Line_424 .
 
-:TV_Line_425_gr a :TranslationVariant ;
+:TV_Line_425_GR a :TranslationVariant ;
     :text "βλέπει άδειο το ορφανεμένο κρεβάτι των μικρών του."^^xsd:string ;
     :relatedTo :Line_425 .
 
-:TV_Line_426_gr a :TranslationVariant ;
+:TV_Line_426_GR a :TranslationVariant ;
     :text "Έτσι κι αυτή, μόλις είδε τον νεκρό γυμνό,"^^xsd:string ;
     :relatedTo :Line_426 .
 
-:TV_Line_427_gr a :TranslationVariant ;
+:TV_Line_427_GR a :TranslationVariant ;
     :text "ξέσπασε σε θρήνους και εκτόξευσε"^^xsd:string ;
     :relatedTo :Line_427 .
 
-:TV_Line_428_gr a :TranslationVariant ;
+:TV_Line_428_GR a :TranslationVariant ;
     :text "βαριές κατάρες σε όσους είχαν κάνει την πράξη."^^xsd:string ;
     :relatedTo :Line_428 .
 
-:TV_Line_429_gr a :TranslationVariant ;
+:TV_Line_429_GR a :TranslationVariant ;
     :text "Και αμέσως με τα χέρια της φέρνει ξερή σκόνη"^^xsd:string ;
     :relatedTo :Line_429 .
 
-:TV_Line_430_gr a :TranslationVariant ;
+:TV_Line_430_GR a :TranslationVariant ;
     :text "και από καλοδουλεμένη χάλκινη υδρία, υψωμένη ψηλά,"^^xsd:string ;
     :relatedTo :Line_430 .
 
-:TV_Line_431_gr a :TranslationVariant ;
+:TV_Line_431_GR a :TranslationVariant ;
     :text "στεφανώνει τον νεκρό με τριπλές σπονδές."^^xsd:string ;
     :relatedTo :Line_431 .
 
-:TV_Line_432_gr a :TranslationVariant ;
+:TV_Line_432_GR a :TranslationVariant ;
     :text "Εμείς, μόλις το είδαμε, ορμήσαμε και μαζί"^^xsd:string ;
     :relatedTo :Line_432 .
 
-:TV_Line_433_gr a :TranslationVariant ;
+:TV_Line_433_GR a :TranslationVariant ;
     :text "την πιάσαμε αμέσως, χωρίς να τρομάξει καθόλου."^^xsd:string ;
     :relatedTo :Line_433 .
 
-:TV_Line_434_gr a :TranslationVariant ;
+:TV_Line_434_GR a :TranslationVariant ;
     :text "Και τη ρωτούσαμε και για τα προηγούμενα και για τα τωρινά"^^xsd:string ;
     :relatedTo :Line_434 .
 
-:TV_Line_435_gr a :TranslationVariant ;
+:TV_Line_435_GR a :TranslationVariant ;
     :text "έργα της· μα δεν αρνιόταν τίποτα."^^xsd:string ;
     :relatedTo :Line_435 .
 
-:TV_Line_436_gr a :TranslationVariant ;
+:TV_Line_436_GR a :TranslationVariant ;
     :text "Αυτό για μένα ήταν μαζί χαρά και πόνος."^^xsd:string ;
     :relatedTo :Line_436 .
 
-:TV_Line_437_gr a :TranslationVariant ;
+:TV_Line_437_GR a :TranslationVariant ;
     :text "Γιατί το να ξεφύγει κανείς ο ίδιος από κακά"^^xsd:string ;
     :relatedTo :Line_437 .
 
-:TV_Line_438_gr a :TranslationVariant ;
+:TV_Line_438_GR a :TranslationVariant ;
     :text "είναι το πιο γλυκό, αλλά το να φέρνει φίλους σε κακό"^^xsd:string ;
     :relatedTo :Line_438 .
 
-:TV_Line_439_gr a :TranslationVariant ;
+:TV_Line_439_GR a :TranslationVariant ;
     :text "είναι οδυνηρό· όμως όλα αυτά είναι λιγότερα"^^xsd:string ;
     :relatedTo :Line_439 .
 
-:TV_Line_440_gr a :TranslationVariant ;
+:TV_Line_440_GR a :TranslationVariant ;
     :text "από τη δική μου σωτηρία."^^xsd:string ;
     :relatedTo :Line_440 .

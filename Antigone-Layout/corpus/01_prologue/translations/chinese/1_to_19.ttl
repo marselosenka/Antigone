@@ -4,79 +4,79 @@
 
 :prologue-translations-1-19-chinese a owl:Ontology .
 
-:TV_Line_001_zh a :TranslationVariant ;
+:TV_Line_001_ΖΗ a :TranslationVariant ;
     :text "啊，我同父同母的伊斯墨涅。"^^xsd:string ;
     :relatedTo :Line_001 .
 
-:TV_Line_002_zh a :TranslationVariant ;
+:TV_Line_002_ZH a :TranslationVariant ;
     :text "你可知道，宙斯把俄狄浦斯的诸般苦难"^^xsd:string ;
     :relatedTo :Line_002 .
 
-:TV_Line_003_zh a :TranslationVariant ;
+:TV_Line_003_ZH a :TranslationVariant ;
     :text "还有哪一样在我们活着时不让我们尝尽？"^^xsd:string ;
     :relatedTo :Line_003 .
 
-:TV_Line_004_zh a :TranslationVariant ;
+:TV_Line_004_ZH a :TranslationVariant ;
     :text "因为什么都没有，不论痛苦，不论灾祸，"^^xsd:string ;
     :relatedTo :Line_004 .
 
-:TV_Line_005_zh a :TranslationVariant ;
+:TV_Line_005_ZH a :TranslationVariant ;
     :text "不论可耻，不论受辱，没有一样"^^xsd:string ;
     :relatedTo :Line_005 .
 
-:TV_Line_006_zh a :TranslationVariant ;
+:TV_Line_006_ZH a :TranslationVariant ;
     :text "我不曾在你我二人的苦难中见过。"^^xsd:string ;
     :relatedTo :Line_006 .
 
-:TV_Line_007_zh a :TranslationVariant ;
+:TV_Line_007_ZH a :TranslationVariant ;
     :text "而如今，又是怎么一回事，说是对全城"^^xsd:string ;
     :relatedTo :Line_007 .
 
-:TV_Line_008_zh a :TranslationVariant ;
+:TV_Line_008_ZH a :TranslationVariant ;
     :text "将军刚刚颁下了告示？"^^xsd:string ;
     :relatedTo :Line_008 .
 
-:TV_Line_009_zh a :TranslationVariant ;
+:TV_Line_009_ZH a :TranslationVariant ;
     :text "你有什么消息，听见了什么吗？还是你不知道"^^xsd:string ;
     :relatedTo :Line_009 .
 
-:TV_Line_010_zh a :TranslationVariant ;
+:TV_Line_010_ZH a :TranslationVariant ;
     :text "敌人加在亲人身上的祸害正逼近？"^^xsd:string ;
     :relatedTo :Line_010 .
 
-:TV_Line_011_zh a :TranslationVariant ;
+:TV_Line_011_ZH a :TranslationVariant ;
     :text "我这里没有任何关于亲人的消息，安提戈涅，"^^xsd:string ;
     :relatedTo :Line_011 .
 
-:TV_Line_012_zh a :TranslationVariant ;
+:TV_Line_012_ZH a :TranslationVariant ;
     :text "不论喜讯还是噩耗，都没有传来，自从"^^xsd:string ;
     :relatedTo :Line_012 .
 
-:TV_Line_013_zh a :TranslationVariant ;
+:TV_Line_013_ZH a :TranslationVariant ;
     :text "我们这两个姐妹失去了"^^xsd:string ;
     :relatedTo :Line_013 .
 
-:TV_Line_014_zh a :TranslationVariant ;
+:TV_Line_014_ZH a :TranslationVariant ;
     :text "两个兄弟，他们同一天死去，彼此互杀；"^^xsd:string ;
     :relatedTo :Line_014 .
 
-:TV_Line_015_zh a :TranslationVariant ;
+:TV_Line_015_ZH a :TranslationVariant ;
     :text "至于阿尔戈斯的军队已撤走"^^xsd:string ;
     :relatedTo :Line_015 .
 
-:TV_Line_016_zh a :TranslationVariant ;
+:TV_Line_016_ZH a :TranslationVariant ;
     :text "就在今夜，我再不知道更多了，"^^xsd:string ;
     :relatedTo :Line_016 .
 
-:TV_Line_017_zh a :TranslationVariant ;
+:TV_Line_017_ZH a :TranslationVariant ;
     :text "我并没有更幸运，也没有更不幸。"^^xsd:string ;
     :relatedTo :Line_017 .
 
-:TV_Line_018_zh a :TranslationVariant ;
+:TV_Line_018_ZH a :TranslationVariant ;
     :text "我早知道，所以把你带到宫门外"^^xsd:string ;
     :relatedTo :Line_018 .
 
-:TV_Line_019_zh a :TranslationVariant ;
+:TV_Line_019_ZH a :TranslationVariant ;
     :text "就是为了让你单独听见这事。"^^xsd:string ;
     :relatedTo :Line_019 .
 

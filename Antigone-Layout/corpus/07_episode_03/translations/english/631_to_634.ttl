@@ -6,18 +6,18 @@
 :episode_03-translations-631-634-english a owl:Ontology .
 # English translation variants extracted from 631_to_634.ttl
 
-:TV_Line_631_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_631_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "We�ll soon see more clearly than prophets."^^xsd:string ;
     :relatedTo :Line_631 .
 
-:TV_Line_632_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_632_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "O child, have you heard that the final vote has been cast"^^xsd:string ;
     :relatedTo :Line_632 .
 
-:TV_Line_633_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_633_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "and come here raving at your father about your bride-to-be?"^^xsd:string ;
     :relatedTo :Line_633 .
 
-:TV_Line_634_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_634_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Or am I ever yours, your ally through thick and thin?"^^xsd:string ;
     :relatedTo :Line_634 .

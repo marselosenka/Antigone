@@ -5,175 +5,175 @@
 :episode_02-translations-384-440-english a owl:Ontology .
 # English translation variants extracted from 384_to_440.ttl
 
-:TV_Line_384_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_384 ;
+:TV_Line_384_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_384 ;
   :text "This is she, the one who has done the deed!"^^xsd:string .
 
-:TV_Line_385_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_385 ;
+:TV_Line_385_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_385 ;
   :text "We caught her burying him. But where is Creon?"^^xsd:string .
 
-:TV_Line_386_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_386 ;
+:TV_Line_386_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_386 ;
   :text "Here he comes back from the palace, just in time."^^xsd:string .
 
-:TV_Line_387_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_387 ;
+:TV_Line_387_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_387 ;
   :text "What is it? What fortune have I stepped into?"^^xsd:string .
 
-:TV_Line_388_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_388 ;
+:TV_Line_388_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_388 ;
   :text "My King, no man should ever swear against a thing,"^^xsd:string .
 
-:TV_Line_389_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_389 ;
+:TV_Line_389_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_389 ;
   :text "for second thoughts prove the first resolution false."^^xsd:string .
 
-:TV_Line_390_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_390 ;
+:TV_Line_390_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_390 ;
   :text "I once boasted I would never return here,"^^xsd:string .
 
-:TV_Line_391_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_391 ;
+:TV_Line_391_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_391 ;
   :text "battered as I was by your storm of threats."^^xsd:string .
 
-:TV_Line_392_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_392 ;
+:TV_Line_392_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_392 ;
   :text "But since a joy that exceeds all hope"^^xsd:string .
 
-:TV_Line_393_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_393 ;
+:TV_Line_393_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_393 ;
   :text "is unlike any other pleasure in its greatness,"^^xsd:string .
 
-:TV_Line_394_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_394 ;
+:TV_Line_394_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_394 ;
   :text "I am here—though I swore I would not be—"^^xsd:string .
 
-:TV_Line_395_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_395 ;
+:TV_Line_395_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_395 ;
   :text "bringing this maiden, who was caught performing"^^xsd:string .
 
-:TV_Line_396_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_396 ;
+:TV_Line_396_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_396 ;
   :text "burial rites. This time no lots were cast,"^^xsd:string .
 
-:TV_Line_397_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_397 ;
+:TV_Line_397_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_397 ;
   :text "for this stroke of luck belongs to me alone."^^xsd:string .
 
-:TV_Line_398_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_398 ;
+:TV_Line_398_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_398 ;
   :text "Now, my Lord, take her yourself, as you wish,"^^xsd:string .
 
-:TV_Line_399_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_399 ;
+:TV_Line_399_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_399 ;
   :text "examine and convict her; but I have the right"^^xsd:string .
 
-:TV_Line_400_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_400 ;
+:TV_Line_400_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_400 ;
   :text "to be free and clear of these troubles."^^xsd:string .
 
-:TV_Line_401_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_401 ;
+:TV_Line_401_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_401 ;
   :text "CREON. You bring her? In what way and where was she taken?"^^xsd:string .
 
-:TV_Line_402_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_402 ;
+:TV_Line_402_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_402 ;
   :text "GUARD. She was burying the man; you know all there is."^^xsd:string .
 
-:TV_Line_403_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_403 ;
+:TV_Line_403_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_403 ;
   :text "CREON. Do you understand and speak correctly what you say?"^^xsd:string .
 
-:TV_Line_404_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_404 ;
+:TV_Line_404_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_404 ;
   :text "GUARD. I saw her burying the corpse which you"^^xsd:string .
 
-:TV_Line_405_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_405 ;
+:TV_Line_405_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_405 ;
   :text "had forbidden. Are my words clear and plain enough?"^^xsd:string .
 
-:TV_Line_406_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_406 ;
+:TV_Line_406_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_406 ;
   :text "CREON. And how was she seen and caught in the act?"^^xsd:string .
 
-:TV_Line_407_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_407 ;
+:TV_Line_407_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_407 ;
   :text "GUARD. It happened this way: When we arrived,"^^xsd:string .
 
-:TV_Line_408_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_408 ;
+:TV_Line_408_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_408 ;
   :text "driven by those terrible threats of yours,"^^xsd:string .
 
-:TV_Line_409_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_409 ;
+:TV_Line_409_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_409 ;
   :text "we brushed away all the dust that covered"^^xsd:string .
 
-:TV_Line_410_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_410 ;
+:TV_Line_410_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_410 ;
   :text "the corpse, stripping the decaying body bare,"^^xsd:string .
 
-:TV_Line_411_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_411 ;
+:TV_Line_411_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_411 ;
   :text "and sat on the brow of the hill, to the leeward,"^^xsd:string .
 
-:TV_Line_412_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_412 ;
+:TV_Line_412_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_412 ;
   :text "fleeing the smell so it would not strike us."^^xsd:string .
 
-:TV_Line_413_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_413 ;
+:TV_Line_413_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_413 ;
   :text "Each man kept his neighbor awake with a storm"^^xsd:string .
 
-:TV_Line_414_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_414 ;
+:TV_Line_414_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_414 ;
   :text "of abuse, lest anyone should neglect this task."^^xsd:string .
 
-:TV_Line_415_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_415 ;
+:TV_Line_415_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_415 ;
   :text "So it went on until the sun's bright circle"^^xsd:string .
 
-:TV_Line_416_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_416 ;
+:TV_Line_416_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_416 ;
   :text "stood in the middle of the sky,"^^xsd:string .
 
-:TV_Line_417_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_417 ;
+:TV_Line_417_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_417 ;
   :text "and the heat was burning; then suddenly from the earth"^^xsd:string .
 
-:TV_Line_418_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_418 ;
+:TV_Line_418_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_418 ;
   :text "a whirlwind raised a storm, a heavenly grief,"^^xsd:string .
 
-:TV_Line_419_En a owl:NamedIndividual ,
+:TV_Line_419_EN a owl:NamedIndividual ,
 :TranslationVariant ; :relatedTo :Line_419 ;
 :text "filling the plain, ravaging all in terror,"^^xsd:string .
 
-:TV_Line_420_En a owl:NamedIndividual ,
+:TV_Line_420_EN a owl:NamedIndividual ,
 :TranslationVariant ; :relatedTo :Line_420 ;
 :text "stripping the woodland forest, while the vast air filled with dust,"^^xsd:string .
 
-:TV_Line_421_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_421 ;
+:TV_Line_421_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_421 ;
   :text "We closed our eyes and endured that divine plague."^^xsd:string .
 
-:TV_Line_422_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_422 ;
+:TV_Line_422_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_422 ;
   :text "And when at long last it passed,"^^xsd:string .
 
-:TV_Line_423_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_423 ;
+:TV_Line_423_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_423 ;
   :text "the girl was seen; she cried out with the sharp"^^xsd:string .
 
-:TV_Line_424_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_424 ;
+:TV_Line_424_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_424 ;
   :text "cry of a bird in bitter grief, as when she"^^xsd:string .
 
-:TV_Line_425_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_425 ;
+:TV_Line_425_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_425 ;
   :text "sees her empty nest stripped of its young."^^xsd:string .
 
-:TV_Line_426_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_426 ;
+:TV_Line_426_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_426 ;
   :text "So she, when she saw the corpse bare,"^^xsd:string .
 
-:TV_Line_427_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_427 ;
+:TV_Line_427_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_427 ;
   :text "moaned aloud and called down evil curses"^^xsd:string .
 
-:TV_Line_428_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_428 ;
+:TV_Line_428_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_428 ;
   :text "on those who had done the stripping."^^xsd:string .
 
-:TV_Line_429_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_429 ;
+:TV_Line_429_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_429 ;
   :text "Straightway she brought thirsty dust in her hands,"^^xsd:string .
 
-:TV_Line_430_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_430 ;
+:TV_Line_430_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_430 ;
   :text "and from a shapely bronze pitcher held high,"^^xsd:string .
 
-:TV_Line_431_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_431 ;
+:TV_Line_431_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_431 ;
   :text "she crowned the dead with a three-fold libation."^^xsd:string .
 
-:TV_Line_432_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_432 ;
+:TV_Line_432_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_432 ;
   :text "We, seeing this, rushed forward and seized her"^^xsd:string .
 
-:TV_Line_433_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_433 ;
+:TV_Line_433_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_433 ;
   :text "at once; she was not at all dismayed."^^xsd:string .
 
-:TV_Line_434_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_434 ;
+:TV_Line_434_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_434 ;
   :text "We charged her with her past and present deeds,"^^xsd:string .
 
-:TV_Line_435_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_435 ;
+:TV_Line_435_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_435 ;
   :text "and she denied nothing."^^xsd:string .
 
-:TV_Line_436_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_436 ;
+:TV_Line_436_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_436 ;
   :text "This was at once a pleasure to me and a pain."^^xsd:string .
 
-:TV_Line_437_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_437 ;
+:TV_Line_437_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_437 ;
   :text "For to escape trouble oneself is"^^xsd:string .
 
-:TV_Line_438_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_438 ;
+:TV_Line_438_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_438 ;
   :text "most sweet, but to bring friends into trouble"^^xsd:string .
 
-:TV_Line_439_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_439 ;
+:TV_Line_439_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_439 ;
   :text "is painful. Yet all these things are of less value"^^xsd:string .
 
-:TV_Line_440_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_440 ;
+:TV_Line_440_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_440 ;
   :text "to me than my own safety."^^xsd:string .

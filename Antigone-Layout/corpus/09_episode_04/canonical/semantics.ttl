@@ -2,7 +2,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:episode04-semantics a owl:Ontology .
+:episode_04-semantics a owl:Ontology .
 
 # ===================================================================
 # SCENE INFORMATION
@@ -10,25 +10,26 @@
 
 # Scenes seem problematic, need to merge into one.
 
-:Antigone_Episode04 a :Episode_04,
+:Antigone_Episode_04 a :Episode_04,
     owl:NamedIndividual ;
-    containsScene: :Scene_806_815,
-        :Scene_817_822,
-        :Scene_823_831,
-        :Scene_834_838,
-        :Scene_839_851,
-        :Scene_853_856,
-        :Scene_858_871,
-        :Scene_872_875,
-        :Scene_876_882,
-        :Scene_883_890,
-        :Scene_891_928,
-        :Scene_929_930,
-        :Scene_931_932,
-        :Scene_933_934,
-        :Scene_935_936,
-        :Scene_937_943 ;
-    hasCharacter: :Antigone_Character_Antigone,
+    :hasSpeech 
+        :Speech_Antigone_806_815,
+        :Speech_Antigone_817_822,
+        :Speech_Antigone_823_831,
+        :Speech_Chorus_834_838,
+        :Speech_Antigone_839_851,
+        :Speech_Chorus_853_856,
+        :Speech_Antigone_858_871,
+        :Speech_Antigone_872_875,
+        :Speech_Antigone_876_882,
+        :Speech_Creon_883_890,
+        :Speech_Antigone_891_928,
+        :Speech_Chorus_929_930,
+        :Speech_Creon_931_932,
+        :Speech_Antigone_933_934,
+        :Speech_Chorus_935_936,
+        :Speech_Antigone_937_943 ;
+    :hasCharacter: :Antigone_Character_Antigone,
         :Antigone_Character_Chorus,
         :Antigone_Character_Creon .
 
@@ -257,9 +258,9 @@
         :Line_943 ;
     :speechBy :Antigone_Character_Antigone .
 
-:Speech_Antigone_936_943 a :Speech,
+:Speech_Antigone_937_943 a :Speech,
         owl:NamedIndividual ;
-    :containsLine :Line_936,
+    :containsLine
         :Line_937,
         :Line_938,
         :Line_939,

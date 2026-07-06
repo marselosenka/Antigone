@@ -5,46 +5,46 @@
 :episode_03-translations-762-772-english a owl:Ontology .
 # English translation variants extracted from 762_to_772.ttl
 
-:TV_Line_762_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_762_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "No, don’t hold your breath on that—"^^xsd:string ;
     :relatedTo :Line_762 .
 
-:TV_Line_763_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_763_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "She will not die beside me, and you will never"^^xsd:string ;
     :relatedTo :Line_763 .
 
-:TV_Line_764_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_764_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Look upon this face again with your two eyes,"^^xsd:string ;
     :relatedTo :Line_764 .
 
-:TV_Line_765_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_765_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "As you rant and rave to whatever friends will let you."^^xsd:string ;
     :relatedTo :Line_765 .
 
-:TV_Line_766_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_766_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "The boy, your majesty, stormed out in anger."^^xsd:string ;
     :relatedTo :Line_766 .
 
-:TV_Line_767_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_767_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "At his age the mind grows resentful when it feels pain."^^xsd:string ;
     :relatedTo :Line_767 .
 
-:TV_Line_768_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_768_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Let him go, let him concoct some superhuman plan:"^^xsd:string ;
     :relatedTo :Line_768 .
 
-:TV_Line_769_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_769_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "He will not free these two girls from their fate."^^xsd:string ;
     :relatedTo :Line_769 .
 
-:TV_Line_770_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_770_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Do you intend to kill them both?"^^xsd:string ;
     :relatedTo :Line_770 .
 
-:TV_Line_771_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_771_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You have a point. Not the one who kept her hands clean."^^xsd:string ;
     :relatedTo :Line_771 .
 
-:TV_Line_772_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_772_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And how do you plan to kill the other?"^^xsd:string ;
     :relatedTo :Line_772 .

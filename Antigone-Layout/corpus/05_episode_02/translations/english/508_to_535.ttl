@@ -6,112 +6,112 @@
 # English translation variants extracted from 508_to_535.ttl
 
 
-:TV_Line_508_En a :TranslationVariant ;
+:TV_Line_508_EN a :TranslationVariant ;
     :text "You alone among all the Cadmeans see it this way."^^xsd:string ;
     :relatedTo :Line_508 .
 
-:TV_Line_509_En a :TranslationVariant ;
+:TV_Line_509_EN a :TranslationVariant ;
     :text "They see it too, but before you they keep their mouths shut."^^xsd:string ;
     :relatedTo :Line_509 .
 
-:TV_Line_510_En a :TranslationVariant ;
+:TV_Line_510_EN a :TranslationVariant ;
     :text "And are you not ashamed to think differently from them?"^^xsd:string ;
     :relatedTo :Line_510 .
 
-:TV_Line_511_En a :TranslationVariant ;
+:TV_Line_511_EN a :TranslationVariant ;
     :text "There is no shame in honoring those of one's own blood."^^xsd:string ;
     :relatedTo :Line_511 .
 
-:TV_Line_512_En a :TranslationVariant ;
+:TV_Line_512_EN a :TranslationVariant ;
     :text "Was not the one who died opposing him also of the same blood?"^^xsd:string ;
     :relatedTo :Line_512 .
 
-:TV_Line_513_En a :TranslationVariant ;
+:TV_Line_513_EN a :TranslationVariant ;
     :text "Of the same blood, from the same father and the same mother."^^xsd:string ;
     :relatedTo :Line_513 .
 
-:TV_Line_514_En a :TranslationVariant ;
+:TV_Line_514_EN a :TranslationVariant ;
     :text "How then do you pay him honor in a way that is impious toward the other?"^^xsd:string ;
     :relatedTo :Line_514 .
 
-:TV_Line_515_En a :TranslationVariant ;
+:TV_Line_515_EN a :TranslationVariant ;
     :text "The dead man who died would not testify to that."^^xsd:string ;
     :relatedTo :Line_515 .
 
-:TV_Line_516_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_516_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_516 ;
   :text "If you honor him equally with the impious one."^^xsd:string .
 # 517
 
-:TV_Line_517_En a :TranslationVariant ; 
+:TV_Line_517_EN a :TranslationVariant ; 
   :text "He did not die as a slave, but as a brother."^^xsd:string ; 
   :relatedTo :Line_517 .
 
-:TV_Line_518_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_518_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_518 ;
   :text "The one ravaging this land, the other standing in its defense."^^xsd:string .
 
-:TV_Line_519_En a :TranslationVariant ; 
+:TV_Line_519_EN a :TranslationVariant ; 
   :text "And yet Hades demands equal laws for all."^^xsd:string ; 
   :relatedTo :Line_519 .
 
-:TV_Line_520_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_520_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_520 ;
   :text "But the good man does not deserve a lot equal to the wicked."^^xsd:string .
 
-:TV_Line_521_En a :TranslationVariant ; 
+:TV_Line_521_EN a :TranslationVariant ; 
   :text "Who knows whether these things are truly pious in the world below?"^^xsd:string ; 
   :relatedTo :Line_521 .
 
-:TV_Line_522_En a :TranslationVariant ; 
+:TV_Line_522_EN a :TranslationVariant ; 
   :text "An enemy, not even after death, ever becomes a friend."^^xsd:string ; 
   :relatedTo :Line_522 .
 
-:TV_Line_523_En a :TranslationVariant ; 
+:TV_Line_523_EN a :TranslationVariant ; 
   :text "I was born not to share in hatred, but in love."^^xsd:string ; :relatedTo :Line_523 .
 
-:TV_Line_524_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_524_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_524 ;
   :text "Go then below, and if you must love, love those there;"^^xsd:string .
 
-:TV_Line_525_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_525_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_525 ;
   :text "but while I live, no woman shall rule me."^^xsd:string .
 
-:TV_Line_526_En a :TranslationVariant ; 
+:TV_Line_526_EN a :TranslationVariant ; 
   :text "But look, before the gates stands Ismene,"^^xsd:string ; 
   :relatedTo :Line_526 .
 
-:TV_Line_527_En a :TranslationVariant ; 
+:TV_Line_527_EN a :TranslationVariant ; 
   :text "who out of sisterly love sheds tears for her sister;"^^xsd:string ; :relatedTo :Line_527 .
 
-:TV_Line_528_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_528_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_528 ;
   :text "And a cloud over her brows drops a bloody"^^xsd:string .
 
-:TV_Line_529_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_529_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_529 ;
   :text "stain upon her face,"^^xsd:string .
 
-:TV_Line_530_En a :TranslationVariant ; 
+:TV_Line_530_EN a :TranslationVariant ; 
   :text "staining her face,"^^xsd:string ; 
   :relatedTo :Line_530 .
 
-:TV_Line_531_En a :TranslationVariant ; 
+:TV_Line_531_EN a :TranslationVariant ; 
   :text "while you, inside the house, hidden like a serpent,"^^xsd:string ; :relatedTo :Line_531 .
 
-:TV_Line_532_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_532_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_532 ;
   :text "draining me in secret, and I did not realize"^^xsd:string .
 
-:TV_Line_533_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_533_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_533 ;
   :text "I was nurturing two ruins and subverters of the throne."^^xsd:string .
 
-:TV_Line_534_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_534_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_534 ;
   :text "Come, tell me now, do you also in this burial"^^xsd:string .
 
-:TV_Line_535_En a :TranslationVariant ;
+:TV_Line_535_EN a :TranslationVariant ;
     :text "Will you say that you share in this deed, or will you swear that you knew nothing of it?"^^xsd:string ;
     :relatedTo :Line_535 .

@@ -4,34 +4,34 @@
 
 :episode_03-translations-773-780-greek a owl:Ontology .
 
-:TV_Line_773_gr a :TranslationVariant ;
+:TV_Line_773_GR a :TranslationVariant ;
     :text "οδηγώντας την σε έρημο τόπο, όπου δεν υπάρχει πέρασμα ανθρώπων,"^^xsd:string ;
     :relatedTo :Line_773 .
 
-:TV_Line_774_gr a :TranslationVariant ;
+:TV_Line_774_GR a :TranslationVariant ;
     :text "θα την κρύψω ζωντανή σε πετρώδες υπόγειο,"^^xsd:string ;
     :relatedTo :Line_774 .
 
-:TV_Line_775_gr a :TranslationVariant ;
+:TV_Line_775_GR a :TranslationVariant ;
     :text "βάζοντάς της τόση τροφή, όσο μόνο χρειάζεται για να αποφύγουμε το μίασμα,"^^xsd:string ;
     :relatedTo :Line_775 .
 
-:TV_Line_776_gr a :TranslationVariant ;
+:TV_Line_776_GR a :TranslationVariant ;
     :text "ώστε ολόκληρη η πόλη να ξεφύγει από τη μόλυνση."^^xsd:string ;
     :relatedTo :Line_776 .
 
-:TV_Line_777_gr a :TranslationVariant ;
+:TV_Line_777_GR a :TranslationVariant ;
     :text "κι εκεί τον Άδη, που μόνο αυτόν από τους θεούς σέβεται,"^^xsd:string ;
     :relatedTo :Line_777 .
 
-:TV_Line_778_gr a :TranslationVariant ;
+:TV_Line_778_GR a :TranslationVariant ;
     :text "ας τον ικετεύει· ίσως κάπου πετύχει να μη πεθάνει,"^^xsd:string ;
     :relatedTo :Line_778 .
 
-:TV_Line_779_gr a :TranslationVariant ;
+:TV_Line_779_GR a :TranslationVariant ;
     :text "ή τουλάχιστον τότε θα μάθει πως"^^xsd:string ;
     :relatedTo :Line_779 .
 
-:TV_Line_780_gr a :TranslationVariant ;
+:TV_Line_780_GR a :TranslationVariant ;
     :text "μάταιος κόπος είναι να σέβεσαι όσα ανήκουν στον Άδη."^^xsd:string ;
     :relatedTo :Line_780 .

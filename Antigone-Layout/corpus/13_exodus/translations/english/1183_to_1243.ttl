@@ -6,94 +6,94 @@
 :exodus-translations-1183-1243-english a owl:Ontology .
 # English translation variants extracted from 1183_to_1243.ttl
 
-:TV_Line_1183_en a :TranslationVariant ; :relatedTo :Line_1183 ; :text "Citizens all, I heard the report"^^xsd:string .
-:TV_Line_1184_en a :TranslationVariant ; :relatedTo :Line_1184 ; :text "As I was going out, toward the goddess Pallas,"^^xsd:string .
+:TV_Line_1183_EN a :TranslationVariant ; :relatedTo :Line_1183 ; :text "Citizens all, I heard the report"^^xsd:string .
+:TV_Line_1184_EN a :TranslationVariant ; :relatedTo :Line_1184 ; :text "As I was going out, toward the goddess Pallas,"^^xsd:string .
 
-:TV_Line_1185_en a :TranslationVariant ; :relatedTo :Line_1185 ; :text "To come before her as a suppliant with prayers."^^xsd:string .
-:TV_Line_1186_en a :TranslationVariant ; :relatedTo :Line_1186 ; :text "And as it happened I was drawing back the bolts"^^xsd:string .
+:TV_Line_1185_EN a :TranslationVariant ; :relatedTo :Line_1185 ; :text "To come before her as a suppliant with prayers."^^xsd:string .
+:TV_Line_1186_EN a :TranslationVariant ; :relatedTo :Line_1186 ; :text "And as it happened I was drawing back the bolts"^^xsd:string .
 
-:TV_Line_1187_en a :TranslationVariant ; :relatedTo :Line_1187 ; :text "Of the gate, when the sound of a household sorrow"^^xsd:string .
-:TV_Line_1188_en a :TranslationVariant ; :relatedTo :Line_1188 ; :text "Struck through my ears; and I collapsed backward"^^xsd:string .
+:TV_Line_1187_EN a :TranslationVariant ; :relatedTo :Line_1187 ; :text "Of the gate, when the sound of a household sorrow"^^xsd:string .
+:TV_Line_1188_EN a :TranslationVariant ; :relatedTo :Line_1188 ; :text "Struck through my ears; and I collapsed backward"^^xsd:string .
 
-:TV_Line_1189_en a :TranslationVariant ; :relatedTo :Line_1189 ; :text "In fear among my serving women, stunned."^^xsd:string .
-:TV_Line_1190_en a :TranslationVariant ; :relatedTo :Line_1190 ; :text "But tell me again what the story was;"^^xsd:string .
+:TV_Line_1189_EN a :TranslationVariant ; :relatedTo :Line_1189 ; :text "In fear among my serving women, stunned."^^xsd:string .
+:TV_Line_1190_EN a :TranslationVariant ; :relatedTo :Line_1190 ; :text "But tell me again what the story was;"^^xsd:string .
 
-:TV_Line_1191_en a :TranslationVariant ; :relatedTo :Line_1191 ; :text "For I am not untried in suffering—I will hear it."^^xsd:string .
-:TV_Line_1192_en a :TranslationVariant ; :relatedTo :Line_1192 ; :text "Dear mistress, I will tell it, for I was there myself,"^^xsd:string .
+:TV_Line_1191_EN a :TranslationVariant ; :relatedTo :Line_1191 ; :text "For I am not untried in suffering—I will hear it."^^xsd:string .
+:TV_Line_1192_EN a :TranslationVariant ; :relatedTo :Line_1192 ; :text "Dear mistress, I will tell it, for I was there myself,"^^xsd:string .
 
-:TV_Line_1193_en a :TranslationVariant ; :relatedTo :Line_1193 ; :text "And I will omit not one word of the truth;"^^xsd:string .
-:TV_Line_1194_en a :TranslationVariant ; :relatedTo :Line_1194 ; :text "For why should I soften what later"^^xsd:string .
+:TV_Line_1193_EN a :TranslationVariant ; :relatedTo :Line_1193 ; :text "And I will omit not one word of the truth;"^^xsd:string .
+:TV_Line_1194_EN a :TranslationVariant ; :relatedTo :Line_1194 ; :text "For why should I soften what later"^^xsd:string .
 
-:TV_Line_1195_en a :TranslationVariant ; :relatedTo :Line_1195 ; :text "Would show me false? Truth is always right."^^xsd:string .
-:TV_Line_1196_en a :TranslationVariant ; :relatedTo :Line_1196 ; :text "I followed your husband as his guide"^^xsd:string .
+:TV_Line_1195_EN a :TranslationVariant ; :relatedTo :Line_1195 ; :text "Would show me false? Truth is always right."^^xsd:string .
+:TV_Line_1196_EN a :TranslationVariant ; :relatedTo :Line_1196 ; :text "I followed your husband as his guide"^^xsd:string .
 
-:TV_Line_1197_en a :TranslationVariant ; :relatedTo :Line_1197 ; :text "To the farthest part of the plain, where still lay"^^xsd:string .
-:TV_Line_1198_en a :TranslationVariant ; :relatedTo :Line_1198 ; :text "The pitiless, dog-torn body of Polyneices;"^^xsd:string .
+:TV_Line_1197_EN a :TranslationVariant ; :relatedTo :Line_1197 ; :text "To the farthest part of the plain, where still lay"^^xsd:string .
+:TV_Line_1198_EN a :TranslationVariant ; :relatedTo :Line_1198 ; :text "The pitiless, dog-torn body of Polyneices;"^^xsd:string .
 
-:TV_Line_1199_en a :TranslationVariant ; :relatedTo :Line_1199 ; :text "And first, having prayed to the goddess of the road"^^xsd:string .
-:TV_Line_1200_en a :TranslationVariant ; :relatedTo :Line_1200 ; :text "And to Pluto to restrain their anger in mercy,"^^xsd:string .
+:TV_Line_1199_EN a :TranslationVariant ; :relatedTo :Line_1199 ; :text "And first, having prayed to the goddess of the road"^^xsd:string .
+:TV_Line_1200_EN a :TranslationVariant ; :relatedTo :Line_1200 ; :text "And to Pluto to restrain their anger in mercy,"^^xsd:string .
 
-:TV_Line_1201_en a :TranslationVariant ; :relatedTo :Line_1201 ; :text "We washed him with pure water, and with freshly cut"^^xsd:string .
-:TV_Line_1202_en a :TranslationVariant ; :relatedTo :Line_1202 ; :text "Branches we burned what remained of him,"^^xsd:string .
+:TV_Line_1201_EN a :TranslationVariant ; :relatedTo :Line_1201 ; :text "We washed him with pure water, and with freshly cut"^^xsd:string .
+:TV_Line_1202_EN a :TranslationVariant ; :relatedTo :Line_1202 ; :text "Branches we burned what remained of him,"^^xsd:string .
 
-:TV_Line_1203_en a :TranslationVariant ; :relatedTo :Line_1203 ; :text "And piled up a steep-standing mound of his native earth;"^^xsd:string .
-:TV_Line_1204_en a :TranslationVariant ; :relatedTo :Line_1204 ; :text "Then we went back again toward the stone-strewn chamber"^^xsd:string .
+:TV_Line_1203_EN a :TranslationVariant ; :relatedTo :Line_1203 ; :text "And piled up a steep-standing mound of his native earth;"^^xsd:string .
+:TV_Line_1204_EN a :TranslationVariant ; :relatedTo :Line_1204 ; :text "Then we went back again toward the stone-strewn chamber"^^xsd:string .
 
-:TV_Line_1205_en a :TranslationVariant ; :relatedTo :Line_1205 ; :text "Of the girl, the hollow bridal room of Hades."^^xsd:string .
-:TV_Line_1206_en a :TranslationVariant ; :relatedTo :Line_1206 ; :text "And someone heard from far away the piercing sound of lamentation"^^xsd:string .
+:TV_Line_1205_EN a :TranslationVariant ; :relatedTo :Line_1205 ; :text "Of the girl, the hollow bridal room of Hades."^^xsd:string .
+:TV_Line_1206_EN a :TranslationVariant ; :relatedTo :Line_1206 ; :text "And someone heard from far away the piercing sound of lamentation"^^xsd:string .
 
-:TV_Line_1207_en a :TranslationVariant ; :relatedTo :Line_1207 ; :text "About the unburied bridal chamber,"^^xsd:string .
-:TV_Line_1208_en a :TranslationVariant ; :relatedTo :Line_1208 ; :text "And coming near, reported it to Creon our master;"^^xsd:string .
+:TV_Line_1207_EN a :TranslationVariant ; :relatedTo :Line_1207 ; :text "About the unburied bridal chamber,"^^xsd:string .
+:TV_Line_1208_EN a :TranslationVariant ; :relatedTo :Line_1208 ; :text "And coming near, reported it to Creon our master;"^^xsd:string .
 
-:TV_Line_1209_en a :TranslationVariant ; :relatedTo :Line_1209 ; :text "And as he drew nearer, the indistinct sound of the cry"^^xsd:string .
-:TV_Line_1210_en a :TranslationVariant ; :relatedTo :Line_1210 ; :text "Came clearer around him; and groaning aloud he cried"^^xsd:string .
+:TV_Line_1209_EN a :TranslationVariant ; :relatedTo :Line_1209 ; :text "And as he drew nearer, the indistinct sound of the cry"^^xsd:string .
+:TV_Line_1210_EN a :TranslationVariant ; :relatedTo :Line_1210 ; :text "Came clearer around him; and groaning aloud he cried"^^xsd:string .
 
-:TV_Line_1211_en a :TranslationVariant ; :relatedTo :Line_1211 ; :text "A lamentable word: “O wretched man that I am,"^^xsd:string .
-:TV_Line_1212_en a :TranslationVariant ; :relatedTo :Line_1212 ; :text "Am I a prophet? Am I treading"^^xsd:string .
+:TV_Line_1211_EN a :TranslationVariant ; :relatedTo :Line_1211 ; :text "A lamentable word: “O wretched man that I am,"^^xsd:string .
+:TV_Line_1212_EN a :TranslationVariant ; :relatedTo :Line_1212 ; :text "Am I a prophet? Am I treading"^^xsd:string .
 
-:TV_Line_1213_en a :TranslationVariant ; :relatedTo :Line_1213 ; :text "The most disastrous road of all I have traveled?"^^xsd:string .
-:TV_Line_1214_en a :TranslationVariant ; :relatedTo :Line_1214 ; :text "The voice of my son strikes me. But, servants,"^^xsd:string .
+:TV_Line_1213_EN a :TranslationVariant ; :relatedTo :Line_1213 ; :text "The most disastrous road of all I have traveled?"^^xsd:string .
+:TV_Line_1214_EN a :TranslationVariant ; :relatedTo :Line_1214 ; :text "The voice of my son strikes me. But, servants,"^^xsd:string .
 
-:TV_Line_1215_en a :TranslationVariant ; :relatedTo :Line_1215 ; :text "Go there quickly, and standing by the tomb,"^^xsd:string .
-:TV_Line_1216_en a :TranslationVariant ; :relatedTo :Line_1216 ; :text "Look where the stones have been torn from the seam of the earth"^^xsd:string .
+:TV_Line_1215_EN a :TranslationVariant ; :relatedTo :Line_1215 ; :text "Go there quickly, and standing by the tomb,"^^xsd:string .
+:TV_Line_1216_EN a :TranslationVariant ; :relatedTo :Line_1216 ; :text "Look where the stones have been torn from the seam of the earth"^^xsd:string .
 
-:TV_Line_1217_en a :TranslationVariant ; :relatedTo :Line_1217 ; :text "And peering right to the mouth of it, see whether"^^xsd:string .
-:TV_Line_1218_en a :TranslationVariant ; :relatedTo :Line_1218 ; :text "I truly hear Haemon’s voice, or whether the gods deceive me.”"^^xsd:string .
+:TV_Line_1217_EN a :TranslationVariant ; :relatedTo :Line_1217 ; :text "And peering right to the mouth of it, see whether"^^xsd:string .
+:TV_Line_1218_EN a :TranslationVariant ; :relatedTo :Line_1218 ; :text "I truly hear Haemon’s voice, or whether the gods deceive me.”"^^xsd:string .
 
-:TV_Line_1219_en a :TranslationVariant ; :relatedTo :Line_1219 ; :text "At these commands of our grief-stricken master"^^xsd:string .
-:TV_Line_1220_en a :TranslationVariant ; :relatedTo :Line_1220 ; :text "We looked; and in the innermost part of the tomb"^^xsd:string .
+:TV_Line_1219_EN a :TranslationVariant ; :relatedTo :Line_1219 ; :text "At these commands of our grief-stricken master"^^xsd:string .
+:TV_Line_1220_EN a :TranslationVariant ; :relatedTo :Line_1220 ; :text "We looked; and in the innermost part of the tomb"^^xsd:string .
 
-:TV_Line_1221_en a :TranslationVariant ; :relatedTo :Line_1221 ; :text "We saw her hanging by the neck,"^^xsd:string .
-:TV_Line_1222_en a :TranslationVariant ; :relatedTo :Line_1222 ; :text "Suspended by a woven noose of fine linen,"^^xsd:string .
+:TV_Line_1221_EN a :TranslationVariant ; :relatedTo :Line_1221 ; :text "We saw her hanging by the neck,"^^xsd:string .
+:TV_Line_1222_EN a :TranslationVariant ; :relatedTo :Line_1222 ; :text "Suspended by a woven noose of fine linen,"^^xsd:string .
 
-:TV_Line_1223_en a :TranslationVariant ; :relatedTo :Line_1223 ; :text "And him clinging about her waist,"^^xsd:string .
-:TV_Line_1224_en a :TranslationVariant ; :relatedTo :Line_1224 ; :text "Lamenting the loss of his bride below,"^^xsd:string .
+:TV_Line_1223_EN a :TranslationVariant ; :relatedTo :Line_1223 ; :text "And him clinging about her waist,"^^xsd:string .
+:TV_Line_1224_EN a :TranslationVariant ; :relatedTo :Line_1224 ; :text "Lamenting the loss of his bride below,"^^xsd:string .
 
-:TV_Line_1225_en a :TranslationVariant ; :relatedTo :Line_1225 ; :text "His father’s deeds, and the wretched marriage-bed."^^xsd:string .
-:TV_Line_1226_en a :TranslationVariant ; :relatedTo :Line_1226 ; :text "And when his father saw him, with a dreadful cry"^^xsd:string .
+:TV_Line_1225_EN a :TranslationVariant ; :relatedTo :Line_1225 ; :text "His father’s deeds, and the wretched marriage-bed."^^xsd:string .
+:TV_Line_1226_EN a :TranslationVariant ; :relatedTo :Line_1226 ; :text "And when his father saw him, with a dreadful cry"^^xsd:string .
 
-:TV_Line_1227_en a :TranslationVariant ; :relatedTo :Line_1227 ; :text "He moved toward him and with a wail called out:"^^xsd:string .
-:TV_Line_1228_en a :TranslationVariant ; :relatedTo :Line_1228 ; :text "“O miserable one, what is this you have done? What"^^xsd:string .
+:TV_Line_1227_EN a :TranslationVariant ; :relatedTo :Line_1227 ; :text "He moved toward him and with a wail called out:"^^xsd:string .
+:TV_Line_1228_EN a :TranslationVariant ; :relatedTo :Line_1228 ; :text "“O miserable one, what is this you have done? What"^^xsd:string .
 
-:TV_Line_1229_en a :TranslationVariant ; :relatedTo :Line_1229 ; :text "Thought possessed you? In what ruin were you destroyed?"^^xsd:string .
-:TV_Line_1230_en a :TranslationVariant ; :relatedTo :Line_1230 ; :text "Come out, child; I beg you as a suppliant!”"^^xsd:string .
+:TV_Line_1229_EN a :TranslationVariant ; :relatedTo :Line_1229 ; :text "Thought possessed you? In what ruin were you destroyed?"^^xsd:string .
+:TV_Line_1230_EN a :TranslationVariant ; :relatedTo :Line_1230 ; :text "Come out, child; I beg you as a suppliant!”"^^xsd:string .
 
-:TV_Line_1231_en a :TranslationVariant ; :relatedTo :Line_1231 ; :text "But the boy, glaring at him with savage eyes,"^^xsd:string .
-:TV_Line_1232_en a :TranslationVariant ; :relatedTo :Line_1232 ; :text "Spat in his face, and without a word replied by drawing"^^xsd:string .
+:TV_Line_1231_EN a :TranslationVariant ; :relatedTo :Line_1231 ; :text "But the boy, glaring at him with savage eyes,"^^xsd:string .
+:TV_Line_1232_EN a :TranslationVariant ; :relatedTo :Line_1232 ; :text "Spat in his face, and without a word replied by drawing"^^xsd:string .
 
-:TV_Line_1233_en a :TranslationVariant ; :relatedTo :Line_1233 ; :text "His sword with its two-edged teeth; and as his father rushed away,"^^xsd:string .
-:TV_Line_1234_en a :TranslationVariant ; :relatedTo :Line_1234 ; :text "He missed him as he fled; then the unhappy boy,"^^xsd:string .
+:TV_Line_1233_EN a :TranslationVariant ; :relatedTo :Line_1233 ; :text "His sword with its two-edged teeth; and as his father rushed away,"^^xsd:string .
+:TV_Line_1234_EN a :TranslationVariant ; :relatedTo :Line_1234 ; :text "He missed him as he fled; then the unhappy boy,"^^xsd:string .
 
-:TV_Line_1235_en a :TranslationVariant ; :relatedTo :Line_1235 ; :text "Angry with himself, just as he was, bent upon himself"^^xsd:string .
-:TV_Line_1236_en a :TranslationVariant ; :relatedTo :Line_1236 ; :text "And drove the blade into the middle of his side;"^^xsd:string .
+:TV_Line_1235_EN a :TranslationVariant ; :relatedTo :Line_1235 ; :text "Angry with himself, just as he was, bent upon himself"^^xsd:string .
+:TV_Line_1236_EN a :TranslationVariant ; :relatedTo :Line_1236 ; :text "And drove the blade into the middle of his side;"^^xsd:string .
 
-:TV_Line_1237_en a :TranslationVariant ; :relatedTo :Line_1237 ; :text "And while still conscious, with failing arm, he clasped the maiden,"^^xsd:string .
-:TV_Line_1238_en a :TranslationVariant ; :relatedTo :Line_1238 ; :text "And gasping, sent forth a sharp stream"^^xsd:string .
+:TV_Line_1237_EN a :TranslationVariant ; :relatedTo :Line_1237 ; :text "And while still conscious, with failing arm, he clasped the maiden,"^^xsd:string .
+:TV_Line_1238_EN a :TranslationVariant ; :relatedTo :Line_1238 ; :text "And gasping, sent forth a sharp stream"^^xsd:string .
 
-:TV_Line_1239_en a :TranslationVariant ; :relatedTo :Line_1239 ; :text "Of bloody drops onto her white cheek."^^xsd:string .
-:TV_Line_1240_en a :TranslationVariant ; :relatedTo :Line_1240 ; :text "He lies dead beside the dead, the poor boy having won"^^xsd:string .
+:TV_Line_1239_EN a :TranslationVariant ; :relatedTo :Line_1239 ; :text "Of bloody drops onto her white cheek."^^xsd:string .
+:TV_Line_1240_EN a :TranslationVariant ; :relatedTo :Line_1240 ; :text "He lies dead beside the dead, the poor boy having won"^^xsd:string .
 
-:TV_Line_1241_en a :TranslationVariant ; :relatedTo :Line_1241 ; :text "His marriage rites at last in the halls of Hades,"^^xsd:string .
-:TV_Line_1242_en a :TranslationVariant ; :relatedTo :Line_1242 ; :text "Showing among mankind how lack of judgment"^^xsd:string .
+:TV_Line_1241_EN a :TranslationVariant ; :relatedTo :Line_1241 ; :text "His marriage rites at last in the halls of Hades,"^^xsd:string .
+:TV_Line_1242_EN a :TranslationVariant ; :relatedTo :Line_1242 ; :text "Showing among mankind how lack of judgment"^^xsd:string .
 
-:TV_Line_1243_en a :TranslationVariant ; :relatedTo :Line_1243 ; :text "Is the greatest evil that can cling to a man."^^xsd:string .
+:TV_Line_1243_EN a :TranslationVariant ; :relatedTo :Line_1243 ; :text "Is the greatest evil that can cling to a man."^^xsd:string .

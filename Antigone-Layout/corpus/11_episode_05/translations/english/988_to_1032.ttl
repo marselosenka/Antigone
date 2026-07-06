@@ -6,182 +6,182 @@
 :episode_05-translations-988-1032-english a owl:Ontology .
 # English translation variants extracted from 988_to_1032.ttl
 
-:TV_Line_988_en a :TranslationVariant ;
+:TV_Line_988_EN a :TranslationVariant ;
     :text "Lords of Thebes, we have come on a common path,"^^xsd:string ;
     :relatedTo :Line_988 .
 
-:TV_Line_989_en a :TranslationVariant ;
+:TV_Line_989_EN a :TranslationVariant ;
     :text "Two seeing by the eyes of one; for for the blind,"^^xsd:string ;
     :relatedTo :Line_989 .
 
-:TV_Line_990_en a :TranslationVariant ;
+:TV_Line_990_EN a :TranslationVariant ;
     :text "This path comes by means of a guide."^^xsd:string ;
     :relatedTo :Line_990 .
 
-:TV_Line_991_en a :TranslationVariant ;
+:TV_Line_991_EN a :TranslationVariant ;
     :text "What is it, old Teiresias? What is the news?"^^xsd:string ;
     :relatedTo :Line_991 .
 
-:TV_Line_992_en a :TranslationVariant ;
+:TV_Line_992_EN a :TranslationVariant ;
     :text "I will tell you; and you, obey the prophet."^^xsd:string ;
     :relatedTo :Line_992 .
 
-:TV_Line_993_en a :TranslationVariant ;
+:TV_Line_993_EN a :TranslationVariant ;
     :text "Indeed, I never before turned away from your counsel."^^xsd:string ;
     :relatedTo :Line_993 .
 
-:TV_Line_994_en a :TranslationVariant ;
+:TV_Line_994_EN a :TranslationVariant ;
     :text "And so you have been steering this city on a straight course."^^xsd:string ;
     :relatedTo :Line_994 .
 
-:TV_Line_995_en a :TranslationVariant ;
+:TV_Line_995_EN a :TranslationVariant ;
     :text "I can testify that I have benefited from it."^^xsd:string ;
     :relatedTo :Line_995 .
 
-:TV_Line_996_en a :TranslationVariant ;
+:TV_Line_996_EN a :TranslationVariant ;
     :text "Take care: now once again you stand upon fortune’s razor-edge."^^xsd:string ;
     :relatedTo :Line_996 .
 
-:TV_Line_997_en a :TranslationVariant ;
+:TV_Line_997_EN a :TranslationVariant ;
     :text "What is it? I shudder at your words."^^xsd:string ;
     :relatedTo :Line_997 .
 
-:TV_Line_998_en a :TranslationVariant ;
+:TV_Line_998_EN a :TranslationVariant ;
     :text "You shall know, when you hear the signs of my art."^^xsd:string ;
     :relatedTo :Line_998 .
 
-:TV_Line_999_en a :TranslationVariant ;
+:TV_Line_999_EN a :TranslationVariant ;
     :text "For as I sat on my ancient seat of bird-divination,"^^xsd:string ;
     :relatedTo :Line_999 .
 
-:TV_Line_1000_en a :TranslationVariant ;
+:TV_Line_1000_EN a :TranslationVariant ;
     :text "Where every bird found its lodging near me,"^^xsd:string ;
     :relatedTo :Line_1000 .
 
-:TV_Line_1001_en a :TranslationVariant ;
+:TV_Line_1001_EN a :TranslationVariant ;
     :text "I heard the strange cry of birds,"^^xsd:string ;
     :relatedTo :Line_1001 .
 
-:TV_Line_1002_en a :TranslationVariant ;
+:TV_Line_1002_EN a :TranslationVariant ;
     :text "Shrieking in evil and barbarized frenzy;"^^xsd:string ;
     :relatedTo :Line_1002 .
 
-:TV_Line_1003_en a :TranslationVariant ;
+:TV_Line_1003_EN a :TranslationVariant ;
     :text "And tearing each other with murderous talons,"^^xsd:string ;
     :relatedTo :Line_1003 .
 
-:TV_Line_1004_en a :TranslationVariant ;
+:TV_Line_1004_EN a :TranslationVariant ;
     :text "I knew it; for the beating of their wings was clear enough."^^xsd:string ;
     :relatedTo :Line_1004 .
 
-:TV_Line_1005_en a :TranslationVariant ;
+:TV_Line_1005_EN a :TranslationVariant ;
     :text "Immediately, in fear, I tested the burnt offerings"^^xsd:string ;
     :relatedTo :Line_1005 .
 
-:TV_Line_1006_en a :TranslationVariant ;
+:TV_Line_1006_EN a :TranslationVariant ;
     :text "Upon the altars blazing on every side; but from the victims"^^xsd:string ;
     :relatedTo :Line_1006 .
 
-:TV_Line_1007_en a :TranslationVariant ;
+:TV_Line_1007_EN a :TranslationVariant ;
     :text "Hephaestus did not shine; instead, upon the ashes"^^xsd:string ;
     :relatedTo :Line_1007 .
 
-:TV_Line_1008_en a :TranslationVariant ;
+:TV_Line_1008_EN a :TranslationVariant ;
     :text "The melting fat from the thighs was wasting away"^^xsd:string ;
     :relatedTo :Line_1008 .
 
-:TV_Line_1009_en a :TranslationVariant ;
+:TV_Line_1009_EN a :TranslationVariant ;
     :text "And smoking and sputtering; and high in the air"^^xsd:string ;
     :relatedTo :Line_1009 .
 
-:TV_Line_1010_en a :TranslationVariant ;
+:TV_Line_1010_EN a :TranslationVariant ;
     :text "The gall was scattered, and the fallen"^^xsd:string ;
     :relatedTo :Line_1010 .
 
-:TV_Line_1011_en a :TranslationVariant ;
+:TV_Line_1011_EN a :TranslationVariant ;
     :text "Thighbones lay stripped of their covering fat."^^xsd:string ;
     :relatedTo :Line_1011 .
 
-:TV_Line_1012_en a :TranslationVariant ;
+:TV_Line_1012_EN a :TranslationVariant ;
     :text "Such things I learned from this boy here:"^^xsd:string ;
     :relatedTo :Line_1012 .
 
-:TV_Line_1013_en a :TranslationVariant ;
+:TV_Line_1013_EN a :TranslationVariant ;
     :text "The prophecies of the rites were failing and giving no sign;"^^xsd:string ;
     :relatedTo :Line_1013 .
 
-:TV_Line_1014_en a :TranslationVariant ;
+:TV_Line_1014_EN a :TranslationVariant ;
     :text "For he is my guide, just as I am for others."^^xsd:string ;
     :relatedTo :Line_1014 .
 
-:TV_Line_1015_en a :TranslationVariant ;
+:TV_Line_1015_EN a :TranslationVariant ;
     :text "And because of your mind, this city is diseased;"^^xsd:string ;
     :relatedTo :Line_1015 .
 
-:TV_Line_1016_en a :TranslationVariant ;
+:TV_Line_1016_EN a :TranslationVariant ;
     :text "For all our altars and our hearths are completely"^^xsd:string ;
     :relatedTo :Line_1016 .
 
-:TV_Line_1017_en a :TranslationVariant ;
+:TV_Line_1017_EN a :TranslationVariant ;
     :text "Filled with food brought by birds and dogs,"^^xsd:string ;
     :relatedTo :Line_1017 .
 
-:TV_Line_1018_en a :TranslationVariant ;
+:TV_Line_1018_EN a :TranslationVariant ;
     :text "From the fallen son of ill-fated Oedipus."^^xsd:string ;
     :relatedTo :Line_1018 .
 
-:TV_Line_1019_en a :TranslationVariant ;
+:TV_Line_1019_EN a :TranslationVariant ;
     :text "And so the gods no longer accept from us"^^xsd:string ;
     :relatedTo :Line_1019 .
 
-:TV_Line_1020_en a :TranslationVariant ;
+:TV_Line_1020_EN a :TranslationVariant ;
     :text "Sacrificial prayers nor the flame of thigh-offerings,"^^xsd:string ;
     :relatedTo :Line_1020 .
 
-:TV_Line_1021_en a :TranslationVariant ;
+:TV_Line_1021_EN a :TranslationVariant ;
     :text "Nor does any bird cry out clear-signifying calls,"^^xsd:string ;
     :relatedTo :Line_1021 .
 
-:TV_Line_1022_en a :TranslationVariant ;
+:TV_Line_1022_EN a :TranslationVariant ;
     :text "For they have fed on the fat of man-destroying blood."^^xsd:string ;
     :relatedTo :Line_1022 .
 
-:TV_Line_1023_en a :TranslationVariant ;
+:TV_Line_1023_EN a :TranslationVariant ;
     :text "Therefore, child, take thought."^^xsd:string ;
     :relatedTo :Line_1023 .
 
-:TV_Line_1024_en a :TranslationVariant ;
+:TV_Line_1024_EN a :TranslationVariant ;
     :text "For it is common to all men to make mistakes;"^^xsd:string ;
     :relatedTo :Line_1024 .
 
-:TV_Line_1025_en a :TranslationVariant ;
+:TV_Line_1025_EN a :TranslationVariant ;
     :text "But when a man has erred, he is no longer witless"^^xsd:string ;
     :relatedTo :Line_1025 .
 
-:TV_Line_1026_en a :TranslationVariant ;
+:TV_Line_1026_EN a :TranslationVariant ;
     :text "Nor ruined, if, having fallen into evil,"^^xsd:string ;
     :relatedTo :Line_1026 .
 
-:TV_Line_1027_en a :TranslationVariant ;
+:TV_Line_1027_EN a :TranslationVariant ;
     :text "He remedies it and does not remain unmoving."^^xsd:string ;
     :relatedTo :Line_1027 .
 
-:TV_Line_1028_en a :TranslationVariant ;
+:TV_Line_1028_EN a :TranslationVariant ;
     :text "Stubbornness, you know, incurs the charge of folly."^^xsd:string ;
     :relatedTo :Line_1028 .
 
-:TV_Line_1029_en a :TranslationVariant ;
+:TV_Line_1029_EN a :TranslationVariant ;
     :text "Yield to the dead, and do not strike at one who is gone."^^xsd:string ;
     :relatedTo :Line_1029 .
 
-:TV_Line_1030_en a :TranslationVariant ;
+:TV_Line_1030_EN a :TranslationVariant ;
     :text "What courage is there in killing the dead again?"^^xsd:string ;
     :relatedTo :Line_1030 .
 
-:TV_Line_1031_en a :TranslationVariant ;
+:TV_Line_1031_EN a :TranslationVariant ;
     :text "Thinking well for you, I speak well; and to learn"^^xsd:string ;
     :relatedTo :Line_1031 .
 
-:TV_Line_1032_en a :TranslationVariant ;
+:TV_Line_1032_EN a :TranslationVariant ;
     :text "From one who speaks well is sweetest, if it brings profit."^^xsd:string ;
     :relatedTo :Line_1032 .

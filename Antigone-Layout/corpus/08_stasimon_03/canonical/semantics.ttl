@@ -2,7 +2,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:stasimon03-semantics a owl:Ontology .
+:stasimon_03-semantics a owl:Ontology .
 
 :Antigone_Stasimon_03 a :Stasimon_03,
         owl:NamedIndividual ;
@@ -10,7 +10,7 @@
         :Theme_ErosOverpowersReasonAndLaw ;
     :hasConflict :Conflict_ErosVsJustice ;
     :hasSpeech :Speech_Chorus_781_805 ;
-    :hasCharacters  :Antigone_Character_Antigone,
+    :hasCharacter  :Antigone_Character_Antigone,
                     :Antigone_Character_Chorus,
                     :Antigone_Character_Creon ;
     :hasTheme   :Theme_CivicPurityAndMiasma,

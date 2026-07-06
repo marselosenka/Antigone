@@ -5,62 +5,62 @@
 :episode_04-translations-929-943-english a owl:Ontology .
 # English translation variants extracted from 929_to_943.ttl
 
-:TV_Line_929_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_929_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "The same brutal gusts of wind"^^xsd:string ;
     :relatedTo :Line_929 .
 
-:TV_Line_930_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_930_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Still grip her soul."^^xsd:string ;
     :relatedTo :Line_930 .
 
-:TV_Line_931_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_931_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I’ll give her guards reason"^^xsd:string ;
     :relatedTo :Line_931 .
 
-:TV_Line_932_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_932_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "To weep for their sluggishness."^^xsd:string ;
     :relatedTo :Line_932 .
 
-:TV_Line_933_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_933_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Oh no! These words"^^xsd:string ;
     :relatedTo :Line_933 .
 
-:TV_Line_934_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_934_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Are nearly death."^^xsd:string ;
     :relatedTo :Line_934 .
 
-:TV_Line_935_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_935_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I do not encourage you to hope"^^xsd:string ;
     :relatedTo :Line_935 .
 
-:TV_Line_936_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_936_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "that these things will not be fulfilled in this way."^^xsd:string ;
     :relatedTo :Line_936 .
 
-:TV_Line_937_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_937_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "O city of my father, o land of Thebes,"^^xsd:string ;
     :relatedTo :Line_937 .
 
-:TV_Line_938_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_938_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "and gods of my ancestors,"^^xsd:string ;
     :relatedTo :Line_938 .
 
-:TV_Line_939_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_939_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I am led away now without delay."^^xsd:string ;
     :relatedTo :Line_939 .
 
-:TV_Line_940_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_940_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Behold, princes of Thebes,"^^xsd:string ;
     :relatedTo :Line_940 .
 
-:TV_Line_941_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_941_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "The very last of the royal line!"^^xsd:string ;
     :relatedTo :Line_941 .
 
-:TV_Line_942_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_942_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "See what things I suffer, and at whose hands,"^^xsd:string ;
     :relatedTo :Line_942 .
 
-:TV_Line_943_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_943_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "because I honored piety."^^xsd:string ;
     :relatedTo :Line_943 .

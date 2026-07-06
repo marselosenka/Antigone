@@ -4,246 +4,246 @@
 
 :exodus-translations-1183-1243-greek a owl:Ontology .
 
-:TV_Line_1183_gr a :TranslationVariant ;
+:TV_Line_1183_GR a :TranslationVariant ;
     :text "Πολίτες όλοι, άκουσα την αγγελία"^^xsd:string ;
     :relatedTo :Line_1183 .
 
-:TV_Line_1184_gr a :TranslationVariant ;
+:TV_Line_1184_GR a :TranslationVariant ;
     :text "την ώρα που έβγαινα προς τη θεά Παλλάδα,"^^xsd:string ;
     :relatedTo :Line_1184 .
 
-:TV_Line_1185_gr a :TranslationVariant ;
+:TV_Line_1185_GR a :TranslationVariant ;
     :text "για να σταθώ μπροστά της ικέτισσα με προσευχές."^^xsd:string ;
     :relatedTo :Line_1185 .
 
-:TV_Line_1186_gr a :TranslationVariant ;
+:TV_Line_1186_GR a :TranslationVariant ;
     :text "Και καθώς τραβούσα τις μπάρες"^^xsd:string ;
     :relatedTo :Line_1186 .
 
-:TV_Line_1187_gr a :TranslationVariant ;
+:TV_Line_1187_GR a :TranslationVariant ;
     :text "της πύλης, ο ήχος οικιακού πόνου"^^xsd:string ;
     :relatedTo :Line_1187 .
 
-:TV_Line_1188_gr a :TranslationVariant ;
+:TV_Line_1188_GR a :TranslationVariant ;
     :text "χτύπησε στ’ αυτιά μου, κι έπεσα πίσω"^^xsd:string ;
     :relatedTo :Line_1188 .
 
-:TV_Line_1189_gr a :TranslationVariant ;
+:TV_Line_1189_GR a :TranslationVariant ;
     :text "από φόβο ανάμεσα στις δούλες μου, αποσβολωμένη."^^xsd:string ;
     :relatedTo :Line_1189 .
 
-:TV_Line_1190_gr a :TranslationVariant ;
+:TV_Line_1190_GR a :TranslationVariant ;
     :text "Μα πείτε μου ξανά ποια ήταν η ιστορία·"^^xsd:string ;
     :relatedTo :Line_1190 .
 
-:TV_Line_1191_gr a :TranslationVariant ;
+:TV_Line_1191_GR a :TranslationVariant ;
     :text "δεν είμαι άπειρη στον πόνο· θα την ακούσω."^^xsd:string ;
     :relatedTo :Line_1191 .
 
-:TV_Line_1192_gr a :TranslationVariant ;
+:TV_Line_1192_GR a :TranslationVariant ;
     :text "Καλή μου κυρά, θα τα πω· γιατί εγώ ο ίδιος ήμουν εκεί,"^^xsd:string ;
     :relatedTo :Line_1192 .
 
-:TV_Line_1193_gr a :TranslationVariant ;
+:TV_Line_1193_GR a :TranslationVariant ;
     :text "και δεν θα παραλείψω ούτε μία λέξη από την αλήθεια·"^^xsd:string ;
     :relatedTo :Line_1193 .
 
-:TV_Line_1194_gr a :TranslationVariant ;
+:TV_Line_1194_GR a :TranslationVariant ;
     :text "γιατί γιατί να τη μαλακώσω, αφού αργότερα"^^xsd:string ;
     :relatedTo :Line_1194 .
 
-:TV_Line_1195_gr a :TranslationVariant ;
+:TV_Line_1195_GR a :TranslationVariant ;
     :text "θα με έβγαζε ψεύτη; Η αλήθεια είναι πάντα σωστή."^^xsd:string ;
     :relatedTo :Line_1195 .
 
-:TV_Line_1196_gr a :TranslationVariant ;
+:TV_Line_1196_GR a :TranslationVariant ;
     :text "Ακολούθησα τον άντρα σου ως οδηγός του"^^xsd:string ;
     :relatedTo :Line_1196 .
 
-:TV_Line_1197_gr a :TranslationVariant ;
+:TV_Line_1197_GR a :TranslationVariant ;
     :text "ως το πιο μακρινό άκρο της πεδιάδας, όπου ακόμη κειτόταν"^^xsd:string ;
     :relatedTo :Line_1197 .
 
-:TV_Line_1198_gr a :TranslationVariant ;
+:TV_Line_1198_GR a :TranslationVariant ;
     :text "το άσπλαχνα, σκυλοφαγωμένο σώμα του Πολυνείκη·"^^xsd:string ;
     :relatedTo :Line_1198 .
 
-:TV_Line_1199_gr a :TranslationVariant ;
+:TV_Line_1199_GR a :TranslationVariant ;
     :text "και πρώτα, αφού προσευχηθήκαμε στη θεά των δρόμων"^^xsd:string ;
     :relatedTo :Line_1199 .
 
-:TV_Line_1200_gr a :TranslationVariant ;
+:TV_Line_1200_GR a :TranslationVariant ;
     :text "και στον Πλούτωνα να κρατήσουν το θυμό τους με οίκτο,"^^xsd:string ;
     :relatedTo :Line_1200 .
 
-:TV_Line_1201_gr a :TranslationVariant ;
+:TV_Line_1201_GR a :TranslationVariant ;
     :text "τον πλύναμε με καθαρό νερό, και με φρεσκοκομμένα"^^xsd:string ;
     :relatedTo :Line_1201 .
 
-:TV_Line_1202_gr a :TranslationVariant ;
+:TV_Line_1202_GR a :TranslationVariant ;
     :text "κλαδιά κάψαμε ό,τι είχε απομείνει,"^^xsd:string ;
     :relatedTo :Line_1202 .
 
-:TV_Line_1203_gr a :TranslationVariant ;
+:TV_Line_1203_GR a :TranslationVariant ;
     :text "και υψώσαμε μεγάλο σωρό από πατρικό χώμα·"^^xsd:string ;
     :relatedTo :Line_1203 .
 
-:TV_Line_1204_gr a :TranslationVariant ;
+:TV_Line_1204_GR a :TranslationVariant ;
     :text "ύστερα ξαναγυρίσαμε προς τον πετρόχτιστο θάλαμο"^^xsd:string ;
     :relatedTo :Line_1204 .
 
-:TV_Line_1205_gr a :TranslationVariant ;
+:TV_Line_1205_GR a :TranslationVariant ;
     :text "της κόρης, το κοίλο νυφικό δωμάτιο του Άδη."^^xsd:string ;
     :relatedTo :Line_1205 .
 
-:TV_Line_1206_gr a :TranslationVariant ;
+:TV_Line_1206_GR a :TranslationVariant ;
     :text "Και κάποιος άκουσε από μακριά διαπεραστικό θρήνο"^^xsd:string ;
     :relatedTo :Line_1206 .
 
-:TV_Line_1207_gr a :TranslationVariant ;
+:TV_Line_1207_GR a :TranslationVariant ;
     :text "για τον άταφο νυφικό θάλαμο,"^^xsd:string ;
     :relatedTo :Line_1207 .
 
-:TV_Line_1208_gr a :TranslationVariant ;
+:TV_Line_1208_GR a :TranslationVariant ;
     :text "και πλησιάζοντας, το ανέφερε στον άνακτα Κρέοντα·"^^xsd:string ;
     :relatedTo :Line_1208 .
 
-:TV_Line_1209_gr a :TranslationVariant ;
+:TV_Line_1209_GR a :TranslationVariant ;
     :text "κι όσο εκείνος πλησίαζε, ο ασαφής ήχος της κραυγής"^^xsd:string ;
     :relatedTo :Line_1209 .
 
-:TV_Line_1210_gr a :TranslationVariant ;
+:TV_Line_1210_GR a :TranslationVariant ;
     :text "γινόταν καθαρότερος γύρω του· και με βαρύ στεναγμό έκραξε"^^xsd:string ;
     :relatedTo :Line_1210 .
 
-:TV_Line_1211_gr a :TranslationVariant ;
+:TV_Line_1211_GR a :TranslationVariant ;
     :text "θρηνητικό λόγο: Ω δύστυχε που είμαι,"^^xsd:string ;
     :relatedTo :Line_1211 .
 
-:TV_Line_1212_gr a :TranslationVariant ;
+:TV_Line_1212_GR a :TranslationVariant ;
     :text "είμαι άραγε μάντης; Μήπως βαδίζω"^^xsd:string ;
     :relatedTo :Line_1212 .
 
-:TV_Line_1213_gr a :TranslationVariant ;
+:TV_Line_1213_GR a :TranslationVariant ;
     :text "τον πιο ολέθριο δρόμο απ’ όσους βάδισα;"^^xsd:string ;
     :relatedTo :Line_1213 .
 
-:TV_Line_1214_gr a :TranslationVariant ;
+:TV_Line_1214_GR a :TranslationVariant ;
     :text "η φωνή του γιου μου με χτυπά. Μα δούλοι,"^^xsd:string ;
     :relatedTo :Line_1214 .
 
-:TV_Line_1215_gr a :TranslationVariant ;
+:TV_Line_1215_GR a :TranslationVariant ;
     :text "πηγαίνετε γρήγορα εκεί, και σταθείτε δίπλα στον τάφο,"^^xsd:string ;
     :relatedTo :Line_1215 .
 
-:TV_Line_1216_gr a :TranslationVariant ;
+:TV_Line_1216_GR a :TranslationVariant ;
     :text "κοιτάξτε εκεί που οι πέτρες έχουν ξεσχιστεί από τη ραφή της γης"^^xsd:string ;
     :relatedTo :Line_1216 .
 
-:TV_Line_1217_gr a :TranslationVariant ;
+:TV_Line_1217_GR a :TranslationVariant ;
     :text "και σκύβοντας ως το στόμιο δείτε"^^xsd:string ;
     :relatedTo :Line_1217 .
 
-:TV_Line_1218_gr a :TranslationVariant ;
+:TV_Line_1218_GR a :TranslationVariant ;
     :text "αν ακούω αλήθεια τη φωνή του Αίμονα ή αν με ξεγελούν οι θεοί."^^xsd:string ;
     :relatedTo :Line_1218 .
 
-:TV_Line_1219_gr a :TranslationVariant ;
+:TV_Line_1219_GR a :TranslationVariant ;
     :text "Με τέτοιες διαταγές του απελπισμένου άρχοντα"^^xsd:string ;
     :relatedTo :Line_1219 .
 
-:TV_Line_1220_gr a :TranslationVariant ;
+:TV_Line_1220_GR a :TranslationVariant ;
     :text "κοιτάξαμε· και στο πιο βαθύ μέρος του τάφου"^^xsd:string ;
     :relatedTo :Line_1220 .
 
-:TV_Line_1221_gr a :TranslationVariant ;
+:TV_Line_1221_GR a :TranslationVariant ;
     :text "την είδαμε κρεμασμένη από τον λαιμό,"^^xsd:string ;
     :relatedTo :Line_1221 .
 
-:TV_Line_1222_gr a :TranslationVariant ;
+:TV_Line_1222_GR a :TranslationVariant ;
     :text "δεμένη με πλεχτή θηλιά από λεπτό λινό,"^^xsd:string ;
     :relatedTo :Line_1222 .
 
-:TV_Line_1223_gr a :TranslationVariant ;
+:TV_Line_1223_GR a :TranslationVariant ;
     :text "κι εκείνον να κρατιέται γύρω από τη μέση της,"^^xsd:string ;
     :relatedTo :Line_1223 .
 
-:TV_Line_1224_gr a :TranslationVariant ;
+:TV_Line_1224_GR a :TranslationVariant ;
     :text "να θρηνεί για τη χαμένη νύφη του στον κάτω κόσμο,"^^xsd:string ;
     :relatedTo :Line_1224 .
 
-:TV_Line_1225_gr a :TranslationVariant ;
+:TV_Line_1225_GR a :TranslationVariant ;
     :text "για τα έργα του πατέρα του, και για το δύστυχο κρεβάτι του γάμου."^^xsd:string ;
     :relatedTo :Line_1225 .
 
-:TV_Line_1226_gr a :TranslationVariant ;
+:TV_Line_1226_GR a :TranslationVariant ;
     :text "Κι όταν ο πατέρας τον είδε, με φοβερή κραυγή"^^xsd:string ;
     :relatedTo :Line_1226 .
 
-:TV_Line_1227_gr a :TranslationVariant ;
+:TV_Line_1227_GR a :TranslationVariant ;
     :text "κινήθηκε προς αυτόν και με θρήνο φώναξε:"^^xsd:string ;
     :relatedTo :Line_1227 .
 
-:TV_Line_1228_gr a :TranslationVariant ;
+:TV_Line_1228_GR a :TranslationVariant ;
     :text "Ω δυστυχισμένε, τι είναι αυτό που έκανες; Ποια"^^xsd:string ;
     :relatedTo :Line_1228 .
 
-:TV_Line_1229_gr a :TranslationVariant ;
+:TV_Line_1229_GR a :TranslationVariant ;
     :text "σκέψη σε κυρίεψε; σε ποια καταστροφή χάθηκες;"^^xsd:string ;
     :relatedTo :Line_1229 .
 
-:TV_Line_1230_gr a :TranslationVariant ;
+:TV_Line_1230_GR a :TranslationVariant ;
     :text "βγες έξω, παιδί μου· σε ικετεύω σαν ικέτης!"^^xsd:string ;
     :relatedTo :Line_1230 .
 
-:TV_Line_1231_gr a :TranslationVariant ;
+:TV_Line_1231_GR a :TranslationVariant ;
     :text "Μα το παιδί, κοιτάζοντάς τον με άγρια μάτια,"^^xsd:string ;
     :relatedTo :Line_1231 .
 
-:TV_Line_1232_gr a :TranslationVariant ;
+:TV_Line_1232_GR a :TranslationVariant ;
     :text "τον έφτυσε στο πρόσωπο και χωρίς λέξη απάντησε, τραβώντας"^^xsd:string ;
     :relatedTo :Line_1232 .
 
-:TV_Line_1233_gr a :TranslationVariant ;
+:TV_Line_1233_GR a :TranslationVariant ;
     :text "το δίκοπο ξίφος του· κι όπως ο πατέρας του έτρεξε να φύγει,"^^xsd:string ;
     :relatedTo :Line_1233 .
 
-:TV_Line_1234_gr a :TranslationVariant ;
+:TV_Line_1234_GR a :TranslationVariant ;
     :text "τον αστόχησε καθώς ξέφευγε· ύστερα ο δύστυχος νέος,"^^xsd:string ;
     :relatedTo :Line_1234 .
 
-:TV_Line_1235_gr a :TranslationVariant ;
+:TV_Line_1235_GR a :TranslationVariant ;
     :text "θυμωμένος με τον εαυτό του, εκεί όπως ήταν, έγειρε πάνω του"^^xsd:string ;
     :relatedTo :Line_1235 .
 
-:TV_Line_1236_gr a :TranslationVariant ;
+:TV_Line_1236_GR a :TranslationVariant ;
     :text "και έμπηξε τη λεπίδα στη μέση του πλευρού του·"^^xsd:string ;
     :relatedTo :Line_1236 .
 
-:TV_Line_1237_gr a :TranslationVariant ;
+:TV_Line_1237_GR a :TranslationVariant ;
     :text "και ενώ ακόμη ανέπνεε, με χέρι που έσβηνε, αγκάλιασε την κόρη,"^^xsd:string ;
     :relatedTo :Line_1237 .
 
-:TV_Line_1238_gr a :TranslationVariant ;
+:TV_Line_1238_GR a :TranslationVariant ;
     :text "και λαχανιάζοντας έστειλε κοφτερό ρυάκι"^^xsd:string ;
     :relatedTo :Line_1238 .
 
-:TV_Line_1239_gr a :TranslationVariant ;
+:TV_Line_1239_GR a :TranslationVariant ;
     :text "από ματωμένες σταγόνες πάνω στο λευκό της μάγουλο."^^xsd:string ;
     :relatedTo :Line_1239 .
 
-:TV_Line_1240_gr a :TranslationVariant ;
+:TV_Line_1240_GR a :TranslationVariant ;
     :text "Κείτεται νεκρός δίπλα στη νεκρή, ο δύστυχος νέος έχοντας πάρει"^^xsd:string ;
     :relatedTo :Line_1240 .
 
-:TV_Line_1241_gr a :TranslationVariant ;
+:TV_Line_1241_GR a :TranslationVariant ;
     :text "τα νυφικά του έθιμα επιτέλους στα παλάτια του Άδη,"^^xsd:string ;
     :relatedTo :Line_1241 .
 
-:TV_Line_1242_gr a :TranslationVariant ;
+:TV_Line_1242_GR a :TranslationVariant ;
     :text "δείχνοντας στους ανθρώπους ότι η έλλειψη φρόνησης"^^xsd:string ;
     :relatedTo :Line_1242 .
 
-:TV_Line_1243_gr a :TranslationVariant ;
+:TV_Line_1243_GR a :TranslationVariant ;
     :text "είναι το μεγαλύτερο κακό που μπορεί να τους βρει."^^xsd:string ;
     :relatedTo :Line_1243 .

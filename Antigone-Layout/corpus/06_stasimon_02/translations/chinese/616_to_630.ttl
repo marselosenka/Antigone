@@ -4,26 +4,26 @@
 
 :stasimon_02-translations-616-630-chinese a owl:Ontology .
 
-:TV_Line_616_zh a :TranslationVariant ; :relatedTo :Line_616 ;
+:TV_Line_616_ZH a :TranslationVariant ; :relatedTo :Line_616 ;
   :text "看这漂泊不定的希望：对许多人是益处，对另一些人却是无思欲望的骗局。"^^xsd:string .
-:TV_Line_617_zh a :TranslationVariant ; :relatedTo :Line_617 ;
+:TV_Line_617_ZH a :TranslationVariant ; :relatedTo :Line_617 ;
   :text "受其所骗者并不自知，直到脚已踏上灼热之火。"^^xsd:string .
-:TV_Line_620_zh a :TranslationVariant ; :relatedTo :Line_620 ;
+:TV_Line_620_ZH a :TranslationVariant ; :relatedTo :Line_620 ;
   :text "因为昔日有一句著名格言以智慧显明："^^xsd:string .
-:TV_Line_621_zh a :TranslationVariant ; :relatedTo :Line_621 ;
+:TV_Line_621_ZH a :TranslationVariant ; :relatedTo :Line_621 ;
   :text "恶有时会被看作善，落在那人眼中——"^^xsd:string .
-:TV_Line_622_zh a :TranslationVariant ; :relatedTo :Line_622 ;
+:TV_Line_622_ZH a :TranslationVariant ; :relatedTo :Line_622 ;
   :text "其心与感官"^^xsd:string .
-:TV_Line_623_zh a :TranslationVariant ; :relatedTo :Line_623 ;
+:TV_Line_623_ZH a :TranslationVariant ; :relatedTo :Line_623 ;
   :text "正被诸神牵引向毁灭。"^^xsd:string .
-:TV_Line_625_zh a :TranslationVariant ; :relatedTo :Line_625 ;
+:TV_Line_625_ZH a :TranslationVariant ; :relatedTo :Line_625 ;
   :text "而他能无灾行走的时日，极其短暂。"^^xsd:string .
-:TV_Line_626_zh a :TranslationVariant ; :relatedTo :Line_626 ;
+:TV_Line_626_ZH a :TranslationVariant ; :relatedTo :Line_626 ;
   :text "看啊！这是海蒙，你最年轻的孩子；"^^xsd:string .
-:TV_Line_627_zh a :TranslationVariant ; :relatedTo :Line_627 ;
+:TV_Line_627_ZH a :TranslationVariant ; :relatedTo :Line_627 ;
   :text "他是因其许配的新娘"^^xsd:string .
-:TV_Line_628_zh a :TranslationVariant ; :relatedTo :Line_628 ;
+:TV_Line_628_ZH a :TranslationVariant ; :relatedTo :Line_628 ;
   :text "安提戈涅的命运而忧伤前来吗？"^^xsd:string .
-:TV_Line_630_zh a :TranslationVariant ; :relatedTo :Line_630 ;
+:TV_Line_630_ZH a :TranslationVariant ; :relatedTo :Line_630 ;
   :text "还是因婚床落空之痛而受折磨？"^^xsd:string .
 

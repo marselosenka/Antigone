@@ -4,57 +4,57 @@
 
 :exodus-translations-1277-1305-chinese a owl:Ontology .
 
-:TV_Line_1278_zh a :TranslationVariant ; :relatedTo :Line_1278 ;
+:TV_Line_1278_ZH a :TranslationVariant ; :relatedTo :Line_1278 ;
   :text "主上，就你站在那里、手中所抱的这些来看，"^^xsd:string .
-:TV_Line_1279_zh a :TranslationVariant ; :relatedTo :Line_1279 ;
+:TV_Line_1279_ZH a :TranslationVariant ; :relatedTo :Line_1279 ;
   :text "你虽已扛着这些，可在屋里"^^xsd:string .
-:TV_Line_1280_zh a :TranslationVariant ; :relatedTo :Line_1280 ;
+:TV_Line_1280_ZH a :TranslationVariant ; :relatedTo :Line_1280 ;
   :text "你还遭遇了别的灾祸，而且很快就会看见。"^^xsd:string .
-:TV_Line_1281_zh a :TranslationVariant ; :relatedTo :Line_1281 ;
+:TV_Line_1281_ZH a :TranslationVariant ; :relatedTo :Line_1281 ;
   :text "什么？还会有比这些更糟的祸吗？"^^xsd:string .
-:TV_Line_1282_zh a :TranslationVariant ; :relatedTo :Line_1282 ;
+:TV_Line_1282_ZH a :TranslationVariant ; :relatedTo :Line_1282 ;
   :text "你的妻子死了，这位死去儿子的亲生母亲，"^^xsd:string .
-:TV_Line_1283_zh a :TranslationVariant ; :relatedTo :Line_1283 ;
+:TV_Line_1283_ZH a :TranslationVariant ; :relatedTo :Line_1283 ;
   :text "可怜人，刚刚又被新创重击。"^^xsd:string .
-:TV_Line_1284_zh a :TranslationVariant ; :relatedTo :Line_1284 ;
+:TV_Line_1284_ZH a :TranslationVariant ; :relatedTo :Line_1284 ;
   :text "哀哉，哀哉，哈得斯那不洁之港，"^^xsd:string .
-:TV_Line_1285_zh a :TranslationVariant ; :relatedTo :Line_1285 ;
+:TV_Line_1285_ZH a :TranslationVariant ; :relatedTo :Line_1285 ;
   :text "你为何、为何要毁灭我？"^^xsd:string .
-:TV_Line_1286_zh a :TranslationVariant ; :relatedTo :Line_1286 ;
+:TV_Line_1286_ZH a :TranslationVariant ; :relatedTo :Line_1286 ;
   :text "你这带来恶讯的人，"^^xsd:string .
-:TV_Line_1287_zh a :TranslationVariant ; :relatedTo :Line_1287 ;
+:TV_Line_1287_ZH a :TranslationVariant ; :relatedTo :Line_1287 ;
   :text "先前已传悲报，如今又喊出什么？"^^xsd:string .
-:TV_Line_1288_zh a :TranslationVariant ; :relatedTo :Line_1288 ;
+:TV_Line_1288_ZH a :TranslationVariant ; :relatedTo :Line_1288 ;
   :text "哀哉，你把一个已毁之人彻底毁了。"^^xsd:string .
-:TV_Line_1289_zh a :TranslationVariant ; :relatedTo :Line_1289 ;
+:TV_Line_1289_ZH a :TranslationVariant ; :relatedTo :Line_1289 ;
   :text "孩子，你说什么？你在告诉我什么新事，"^^xsd:string .
-:TV_Line_1290_zh a :TranslationVariant ; :relatedTo :Line_1290 ;
+:TV_Line_1290_ZH a :TranslationVariant ; :relatedTo :Line_1290 ;
   :text "哀哉，哀哉，"^^xsd:string .
-:TV_Line_1291_zh a :TranslationVariant ; :relatedTo :Line_1291 ;
+:TV_Line_1291_ZH a :TranslationVariant ; :relatedTo :Line_1291 ;
   :text "这是一桩杀戮叠在另一桩杀戮上，"^^xsd:string .
-:TV_Line_1292_zh a :TranslationVariant ; :relatedTo :Line_1292 ;
+:TV_Line_1292_ZH a :TranslationVariant ; :relatedTo :Line_1292 ;
   :text "女人之死也加在我身上吗？"^^xsd:string .
-:TV_Line_1293_zh a :TranslationVariant ; :relatedTo :Line_1293 ;
+:TV_Line_1293_ZH a :TranslationVariant ; :relatedTo :Line_1293 ;
   :text "你看得见她；她已不再藏在屋里。"^^xsd:string .
-:TV_Line_1294_zh a :TranslationVariant ; :relatedTo :Line_1294 ;
+:TV_Line_1294_ZH a :TranslationVariant ; :relatedTo :Line_1294 ;
   :text "我真惨啊！"^^xsd:string .
-:TV_Line_1295_zh a :TranslationVariant ; :relatedTo :Line_1295 ;
+:TV_Line_1295_ZH a :TranslationVariant ; :relatedTo :Line_1295 ;
   :text "苦命的我，又看见这第二重灾祸，"^^xsd:string .
-:TV_Line_1296_zh a :TranslationVariant ; :relatedTo :Line_1296 ;
+:TV_Line_1296_ZH a :TranslationVariant ; :relatedTo :Line_1296 ;
   :text "还有什么命运在等我？"^^xsd:string .
-:TV_Line_1297_zh a :TranslationVariant ; :relatedTo :Line_1297 ;
+:TV_Line_1297_ZH a :TranslationVariant ; :relatedTo :Line_1297 ;
   :text "我手里才刚抱着我的孩子，"^^xsd:string .
-:TV_Line_1298_zh a :TranslationVariant ; :relatedTo :Line_1298 ;
+:TV_Line_1298_ZH a :TranslationVariant ; :relatedTo :Line_1298 ;
   :text "眼前又见另一具尸体。"^^xsd:string .
-:TV_Line_1300_zh a :TranslationVariant ; :relatedTo :Line_1300 ;
+:TV_Line_1300_ZH a :TranslationVariant ; :relatedTo :Line_1300 ;
   :text "哀哉，哀哉，可怜的母亲，哀哉我的孩子。"^^xsd:string .
-:TV_Line_1301_zh a :TranslationVariant ; :relatedTo :Line_1301 ;
+:TV_Line_1301_ZH a :TranslationVariant ; :relatedTo :Line_1301 ;
   :text "她重伤在身，坐于祭坛旁时，"^^xsd:string .
-:TV_Line_1302_zh a :TranslationVariant ; :relatedTo :Line_1302 ;
+:TV_Line_1302_ZH a :TranslationVariant ; :relatedTo :Line_1302 ;
   :text "在双眼昏暗闭合之前先呼喊了"^^xsd:string .
-:TV_Line_1303_zh a :TranslationVariant ; :relatedTo :Line_1303 ;
+:TV_Line_1303_ZH a :TranslationVariant ; :relatedTo :Line_1303 ;
   :text "早逝的墨伽瑞乌斯所留下的空床，"^^xsd:string .
-:TV_Line_1304_zh a :TranslationVariant ; :relatedTo :Line_1304 ;
+:TV_Line_1304_ZH a :TranslationVariant ; :relatedTo :Line_1304 ;
   :text "随后为这个儿子；最后则为你，"^^xsd:string .
-:TV_Line_1305_zh a :TranslationVariant ; :relatedTo :Line_1305 ;
+:TV_Line_1305_ZH a :TranslationVariant ; :relatedTo :Line_1305 ;
   :text "她降下诅咒，称你是杀子之人。"^^xsd:string .

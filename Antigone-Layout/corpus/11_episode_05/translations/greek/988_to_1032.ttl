@@ -4,183 +4,183 @@
 
 :episode_05-translations-988-1032-greek a owl:Ontology .
 
-:TV_Line_988_gr a :TranslationVariant ;
+:TV_Line_988_GR a :TranslationVariant ;
     :text "Άρχοντες της Θήβας, ήρθαμε στον κοινό δρόμο,"^^xsd:string ;
     :relatedTo :Line_988 .
 
-:TV_Line_989_gr a :TranslationVariant ;
+:TV_Line_989_GR a :TranslationVariant ;
     :text "δυο άνθρωποι με τα μάτια του ενός· γιατί για τον τυφλό"^^xsd:string ;
     :relatedTo :Line_989 .
 
-:TV_Line_990_gr a :TranslationVariant ;
+:TV_Line_990_GR a :TranslationVariant ;
     :text "ο δρόμος περνιέται με οδηγό."^^xsd:string ;
     :relatedTo :Line_990 .
 
-:TV_Line_991_gr a :TranslationVariant ;
+:TV_Line_991_GR a :TranslationVariant ;
     :text "Τι συμβαίνει, γέρο Τειρεσία; Ποιο είναι το νέο;"^^xsd:string ;
     :relatedTo :Line_991 .
 
-:TV_Line_992_gr a :TranslationVariant ;
+:TV_Line_992_GR a :TranslationVariant ;
     :text "Θα σου πω· κι εσύ υπάκουσε στον μάντη."^^xsd:string ;
     :relatedTo :Line_992 .
 
-:TV_Line_993_gr a :TranslationVariant ;
+:TV_Line_993_GR a :TranslationVariant ;
     :text "Πράγματι, ποτέ πριν δεν απομακρύνθηκα από τη συμβουλή σου."^^xsd:string ;
     :relatedTo :Line_993 .
 
-:TV_Line_994_gr a :TranslationVariant ;
+:TV_Line_994_GR a :TranslationVariant ;
     :text "Και έτσι κρατούσες αυτή την πόλη σε ίσια πορεία."^^xsd:string ;
     :relatedTo :Line_994 .
 
-:TV_Line_995_gr a :TranslationVariant ;
+:TV_Line_995_GR a :TranslationVariant ;
     :text "Μπορώ να μαρτυρήσω ότι ωφελήθηκα από αυτό."^^xsd:string ;
     :relatedTo :Line_995 .
 
-:TV_Line_996_gr a :TranslationVariant ;
+:TV_Line_996_GR a :TranslationVariant ;
     :text "Πρόσεχε· τώρα πάλι στέκεσαι στην κόψη της τύχης."^^xsd:string ;
     :relatedTo :Line_996 .
 
-:TV_Line_997_gr a :TranslationVariant ;
+:TV_Line_997_GR a :TranslationVariant ;
     :text "Τι συμβαίνει; Τρέμω με τα λόγια σου."^^xsd:string ;
     :relatedTo :Line_997 .
 
-:TV_Line_998_gr a :TranslationVariant ;
+:TV_Line_998_GR a :TranslationVariant ;
     :text "Θα το μάθεις, όταν ακούσεις τα σημάδια της τέχνης μου."^^xsd:string ;
     :relatedTo :Line_998 .
 
-:TV_Line_999_gr a :TranslationVariant ;
+:TV_Line_999_GR a :TranslationVariant ;
     :text "Καθώς καθόμουν στην παλιά μου θέση της οιωνοσκοπίας των πουλιών,"^^xsd:string ;
     :relatedTo :Line_999 .
 
-:TV_Line_1000_gr a :TranslationVariant ;
+:TV_Line_1000_GR a :TranslationVariant ;
     :text "εκεί όπου κάθε πουλί έβρισκε κοντά μου τη φωλιά του,"^^xsd:string ;
     :relatedTo :Line_1000 .
 
-:TV_Line_1001_gr a :TranslationVariant ;
+:TV_Line_1001_GR a :TranslationVariant ;
     :text "άκουσα παράξενη κραυγή πουλιών,"^^xsd:string ;
     :relatedTo :Line_1001 .
 
-:TV_Line_1002_gr a :TranslationVariant ;
+:TV_Line_1002_GR a :TranslationVariant ;
     :text "να ουρλιάζουν με κακή και άγρια μανία·"^^xsd:string ;
     :relatedTo :Line_1002 .
 
-:TV_Line_1003_gr a :TranslationVariant ;
+:TV_Line_1003_GR a :TranslationVariant ;
     :text "και να ξεσχίζουν το ένα το άλλο με φονικά νύχια,"^^xsd:string ;
     :relatedTo :Line_1003 .
 
-:TV_Line_1004_gr a :TranslationVariant ;
+:TV_Line_1004_GR a :TranslationVariant ;
     :text "το κατάλαβα· γιατί ο χτύπος των φτερών τους ήταν ολοφάνερος."^^xsd:string ;
     :relatedTo :Line_1004 .
 
-:TV_Line_1005_gr a :TranslationVariant ;
+:TV_Line_1005_GR a :TranslationVariant ;
     :text "Αμέσως, από φόβο, δοκίμασα τα καμένα σφάγια"^^xsd:string ;
     :relatedTo :Line_1005 .
 
-:TV_Line_1006_gr a :TranslationVariant ;
+:TV_Line_1006_GR a :TranslationVariant ;
     :text "επάνω στους βωμούς που έκαιγαν από παντού· μα από τα θύματα"^^xsd:string ;
     :relatedTo :Line_1006 .
 
-:TV_Line_1007_gr a :TranslationVariant ;
+:TV_Line_1007_GR a :TranslationVariant ;
     :text "ο Ήφαιστος δεν έλαμψε· αντίθετα, πάνω στη στάχτη"^^xsd:string ;
     :relatedTo :Line_1007 .
 
-:TV_Line_1008_gr a :TranslationVariant ;
+:TV_Line_1008_GR a :TranslationVariant ;
     :text "το λιωμένο λίπος από τους μηρούς χανόταν"^^xsd:string ;
     :relatedTo :Line_1008 .
 
-:TV_Line_1009_gr a :TranslationVariant ;
+:TV_Line_1009_GR a :TranslationVariant ;
     :text "και κάπνιζε και έσκαγε· και ψηλά στον αέρα"^^xsd:string ;
     :relatedTo :Line_1009 .
 
-:TV_Line_1010_gr a :TranslationVariant ;
+:TV_Line_1010_GR a :TranslationVariant ;
     :text "η χολή σκορπιζόταν, και οι πεσμένοι"^^xsd:string ;
     :relatedTo :Line_1010 .
 
-:TV_Line_1011_gr a :TranslationVariant ;
+:TV_Line_1011_GR a :TranslationVariant ;
     :text "μηροί έμεναν γυμνοί από το λίπος που τους σκέπαζε."^^xsd:string ;
     :relatedTo :Line_1011 .
 
-:TV_Line_1012_gr a :TranslationVariant ;
+:TV_Line_1012_GR a :TranslationVariant ;
     :text "Τέτοια έμαθα από αυτό εδώ το παιδί:"^^xsd:string ;
     :relatedTo :Line_1012 .
 
-:TV_Line_1013_gr a :TranslationVariant ;
+:TV_Line_1013_GR a :TranslationVariant ;
     :text "οι μαντείες από τις θυσίες αποτύγχαναν και δεν έδιναν σημάδι·"^^xsd:string ;
     :relatedTo :Line_1013 .
 
-:TV_Line_1014_gr a :TranslationVariant ;
+:TV_Line_1014_GR a :TranslationVariant ;
     :text "γιατί αυτός είναι οδηγός μου, όπως εγώ για άλλους."^^xsd:string ;
     :relatedTo :Line_1014 .
 
-:TV_Line_1015_gr a :TranslationVariant ;
+:TV_Line_1015_GR a :TranslationVariant ;
     :text "Και εξαιτίας του δικού σου νου, αυτή η πόλη νοσεί·"^^xsd:string ;
     :relatedTo :Line_1015 .
 
-:TV_Line_1016_gr a :TranslationVariant ;
+:TV_Line_1016_GR a :TranslationVariant ;
     :text "γιατί όλοι οι βωμοί μας και οι εστίες μας είναι ολότελα"^^xsd:string ;
     :relatedTo :Line_1016 .
 
-:TV_Line_1017_gr a :TranslationVariant ;
+:TV_Line_1017_GR a :TranslationVariant ;
     :text "γεμάτοι τροφή που φέρνουν πουλιά και σκυλιά,"^^xsd:string ;
     :relatedTo :Line_1017 .
 
-:TV_Line_1018_gr a :TranslationVariant ;
+:TV_Line_1018_GR a :TranslationVariant ;
     :text "από τον πεσμένο γιο του δύστυχου Οιδίποδα."^^xsd:string ;
     :relatedTo :Line_1018 .
 
-:TV_Line_1019_gr a :TranslationVariant ;
+:TV_Line_1019_GR a :TranslationVariant ;
     :text "Κι έτσι οι θεοί δεν δέχονται πια από εμάς"^^xsd:string ;
     :relatedTo :Line_1019 .
 
-:TV_Line_1020_gr a :TranslationVariant ;
+:TV_Line_1020_GR a :TranslationVariant ;
     :text "ούτε θυσιαστικές προσευχές ούτε τη φλόγα από τα μηριά,"^^xsd:string ;
     :relatedTo :Line_1020 .
 
-:TV_Line_1021_gr a :TranslationVariant ;
+:TV_Line_1021_GR a :TranslationVariant ;
     :text "ούτε κανένα πουλί βγάζει καθαρή φωνή οιωνού,"^^xsd:string ;
     :relatedTo :Line_1021 .
 
-:TV_Line_1022_gr a :TranslationVariant ;
+:TV_Line_1022_GR a :TranslationVariant ;
     :text "γιατί έχουν τραφεί με το λίπος ανθρωποφόρου αίματος."^^xsd:string ;
     :relatedTo :Line_1022 .
 
-:TV_Line_1023_gr a :TranslationVariant ;
+:TV_Line_1023_GR a :TranslationVariant ;
     :text "Γι’ αυτό, παιδί μου, σκέψου."^^xsd:string ;
     :relatedTo :Line_1023 .
 
-:TV_Line_1024_gr a :TranslationVariant ;
+:TV_Line_1024_GR a :TranslationVariant ;
     :text "Γιατί είναι κοινό σε όλους τους ανθρώπους να σφάλλουν·"^^xsd:string ;
     :relatedTo :Line_1024 .
 
-:TV_Line_1025_gr a :TranslationVariant ;
+:TV_Line_1025_GR a :TranslationVariant ;
     :text "μα όταν ο άνθρωπος σφάλλει, δεν είναι πια ανόητος"^^xsd:string ;
     :relatedTo :Line_1025 .
 
-:TV_Line_1026_gr a :TranslationVariant ;
+:TV_Line_1026_GR a :TranslationVariant ;
     :text "ούτε χαμένος, αν, αφού πέσει στο κακό,"^^xsd:string ;
     :relatedTo :Line_1026 .
 
-:TV_Line_1027_gr a :TranslationVariant ;
+:TV_Line_1027_GR a :TranslationVariant ;
     :text "το διορθώσει και δεν μείνει ακίνητος."^^xsd:string ;
     :relatedTo :Line_1027 .
 
-:TV_Line_1028_gr a :TranslationVariant ;
+:TV_Line_1028_GR a :TranslationVariant ;
     :text "Η ακαμψία, να το ξέρεις, φέρνει τη μομφή της ανοησίας."^^xsd:string ;
     :relatedTo :Line_1028 .
 
-:TV_Line_1029_gr a :TranslationVariant ;
+:TV_Line_1029_GR a :TranslationVariant ;
     :text "Υποχώρησε μπροστά στον νεκρό, και μη χτυπάς όποιον έφυγε."^^xsd:string ;
     :relatedTo :Line_1029 .
 
-:TV_Line_1030_gr a :TranslationVariant ;
+:TV_Line_1030_GR a :TranslationVariant ;
     :text "Ποια ανδρεία υπάρχει στο να ξανασκοτώνεις τους νεκρούς;"^^xsd:string ;
     :relatedTo :Line_1030 .
 
-:TV_Line_1031_gr a :TranslationVariant ;
+:TV_Line_1031_GR a :TranslationVariant ;
     :text "Σκεπτόμενος το καλό σου, μιλώ σωστά· και να μαθαίνεις"^^xsd:string ;
     :relatedTo :Line_1031 .
 
-:TV_Line_1032_gr a :TranslationVariant ;
+:TV_Line_1032_GR a :TranslationVariant ;
     :text "από όποιον μιλά σωστά είναι το πιο γλυκό, αν φέρνει όφελος."^^xsd:string ;
     :relatedTo :Line_1032 .
 

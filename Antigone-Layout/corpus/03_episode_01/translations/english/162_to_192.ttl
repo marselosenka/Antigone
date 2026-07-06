@@ -6,126 +6,126 @@
 :episode_01-translations-162-192-english a owl:Ontology .
 # English translation variants extracted from 162_to_192.ttl
 
-:TV_Line_162_en a :TranslationVariant ;
+:TV_Line_162_EN a :TranslationVariant ;
     :text "Men, the gods have at last set our city safely upright"^^xsd:string ;
     :relatedTo :Line_162 .
 
-:TV_Line_163_en a :TranslationVariant ;
+:TV_Line_163_EN a :TranslationVariant ;
     :text "After shaking it in great storms, they have set it upright again."^^xsd:string ;
     :relatedTo :Line_163 .
 
-:TV_Line_164_en a :TranslationVariant ;
+:TV_Line_164_EN a :TranslationVariant ;
 :text "And I have sent for you, apart from all others,"^^xsd:string ;
 :relatedTo :Line_164 .
 
-:TV_Line_165_en a :TranslationVariant ;
+:TV_Line_165_EN a :TranslationVariant ;
 :text "First because I know that you have always honored"^^xsd:string ;
 :relatedTo :Line_165 .
 
-:TV_Line_166_en a :TranslationVariant ;
+:TV_Line_166_EN a :TranslationVariant ;
 :text "The authority of Laius’ throne,"^^xsd:string ;
 :relatedTo :Line_166 .
 
-:TV_Line_167_en a :TranslationVariant ;
+:TV_Line_167_EN a :TranslationVariant ;
 :text "And again when Oedipus set the city upright,"^^xsd:string ;
 :relatedTo :Line_167 .
 
-:TV_Line_168_en a :TranslationVariant ;
+:TV_Line_168_EN a :TranslationVariant ;
 :text "And after he died, you remained loyal"^^xsd:string ;
 :relatedTo :Line_168 .
 
-:TV_Line_169_en a :TranslationVariant ;
+:TV_Line_169_EN a :TranslationVariant ;
 :text "To his children with steadfast hearts."^^xsd:string ;
 :relatedTo :Line_169 .
 
-:TV_Line_170_en a :TranslationVariant ;
+:TV_Line_170_EN a :TranslationVariant ;
 :text "But when those two in one day"^^xsd:string ;
 :relatedTo :Line_170 .
 
-:TV_Line_171_en a :TranslationVariant ;
+:TV_Line_171_EN a :TranslationVariant ;
 :text "Perished by a double fate,"^^xsd:string ;
 :relatedTo :Line_171 .
 
-:TV_Line_172_en a :TranslationVariant ;
+:TV_Line_172_EN a :TranslationVariant ;
 :text "Striking and struck by their own hands in blood-guilt,"^^xsd:string ;
 :relatedTo :Line_172 .
 
-:TV_Line_173_en a :TranslationVariant ;
+:TV_Line_173_EN a :TranslationVariant ;
 :text "I now hold all the powers and the throne"^^xsd:string ;
 :relatedTo :Line_173 .
 
-:TV_Line_174_en a :TranslationVariant ;
+:TV_Line_174_EN a :TranslationVariant ;
 :text "By closeness of kin to those who have died."^^xsd:string ;
 :relatedTo :Line_174 .
 
-:TV_Line_175_en a :TranslationVariant ;
+:TV_Line_175_EN a :TranslationVariant ;
 :text "But you never really know the heart,"^^xsd:string ;
 :relatedTo :Line_175 .
 
-:TV_Line_176_en a :TranslationVariant ;
+:TV_Line_176_EN a :TranslationVariant ;
 :text "Mind, and soul of a man until"^^xsd:string ;
 :relatedTo :Line_176 .
 
-:TV_Line_177_en a :TranslationVariant ;
+:TV_Line_177_EN a :TranslationVariant ;
 :text "The day you watch him rule."^^xsd:string ;
 :relatedTo :Line_177 .
 
-:TV_Line_178_en a :TranslationVariant ;
+:TV_Line_178_EN a :TranslationVariant ;
 :text "In my eyes, the worst kind of leader"^^xsd:string ;
 :relatedTo :Line_178 .
 
-:TV_Line_179_en a :TranslationVariant ;
+:TV_Line_179_EN a :TranslationVariant ;
 :text "Is the one who rules without clear intentions,"^^xsd:string ;
 :relatedTo :Line_179 .
 
-:TV_Line_180_en a :TranslationVariant ;
+:TV_Line_180_EN a :TranslationVariant ;
 :text "Who holds his tongue whenever he’s afraid—"^^xsd:string ;
 :relatedTo :Line_180 .
 
-:TV_Line_181_en a :TranslationVariant ;
+:TV_Line_181_EN a :TranslationVariant ;
 :text "Now and always, that’s the lowest kind."^^xsd:string ;
 :relatedTo :Line_181 .
 
-:TV_Line_182_en a :TranslationVariant ;
+:TV_Line_182_EN a :TranslationVariant ;
 :text "Likewise I have nothing to say for leaders who put"^^xsd:string ;
 :relatedTo :Line_182 .
 
-:TV_Line_183_en a :TranslationVariant ;
+:TV_Line_183_EN a :TranslationVariant ;
 :text "Their friends before their country."^^xsd:string ;
 :relatedTo :Line_183 .
 
-:TV_Line_184_en a :TranslationVariant ;
+:TV_Line_184_EN a :TranslationVariant ;
 :text "Be my witness, all-seeing Zeus:"^^xsd:string ;
 :relatedTo :Line_184 .
 
-:TV_Line_185_en a :TranslationVariant ;
+:TV_Line_185_EN a :TranslationVariant ;
 :text "I would never stay silent if I saw trouble"^^xsd:string ;
 :relatedTo :Line_185 .
 
-:TV_Line_186_en a :TranslationVariant ;
+:TV_Line_186_EN a :TranslationVariant ;
 :text "Threatening the safety of our society."^^xsd:string ;
 :relatedTo :Line_186 .
 
-:TV_Line_187_en a :TranslationVariant ;
+:TV_Line_187_EN a :TranslationVariant ;
 :text "I would never make friends"^^xsd:string ;
 :relatedTo :Line_187 .
 
-:TV_Line_188_en a :TranslationVariant ;
+:TV_Line_188_EN a :TranslationVariant ;
 :text "With my country’s enemies, for I know that"^^xsd:string ;
 :relatedTo :Line_188 .
 
-:TV_Line_189_en a :TranslationVariant ;
+:TV_Line_189_EN a :TranslationVariant ;
 :text "She is our common protector, and that we can consider"^^xsd:string ;
 :relatedTo :Line_189 .
 
-:TV_Line_190_en a :TranslationVariant ;
+:TV_Line_190_EN a :TranslationVariant ;
 :text "Only our fellow shipmates true friends."^^xsd:string ;
 :relatedTo :Line_190 .
 
-:TV_Line_191_en a :TranslationVariant ;
+:TV_Line_191_EN a :TranslationVariant ;
 :text "According to these principles I will glorify our city."^^xsd:string ;
 :relatedTo :Line_191 .
 
-:TV_Line_192_en a :TranslationVariant ;
+:TV_Line_192_EN a :TranslationVariant ;
 :text "With them in mind I’ve already made a public decree"^^xsd:string ;
 :relatedTo :Line_192 .

@@ -6,54 +6,54 @@
 :parodos-translations-100-112-english a owl:Ontology .
 # English translation variants extracted from 100_to_112.ttl
 
-:TV_Line_100_en a :TranslationVariant ;
+:TV_Line_100_EN a :TranslationVariant ;
 :text "Ray of the sun, most beautiful light,"^^xsd:string ;
 :relatedTo :Line_100 .
 
-:TV_Line_101_en a :TranslationVariant ;
+:TV_Line_101_EN a :TranslationVariant ;
 :text "That ever shone upon seven-gated Thebes,"^^xsd:string ;
 :relatedTo :Line_101 .
 
-:TV_Line_102_en a :TranslationVariant ;
+:TV_Line_102_EN a :TranslationVariant ;
 :text "Light that at last has appeared,"^^xsd:string ;
 :relatedTo :Line_102 .
 
-:TV_Line_103_en a :TranslationVariant ;
+:TV_Line_103_EN a :TranslationVariant ;
 :text "O eye of the golden day,"^^xsd:string ;
 :relatedTo :Line_103 .
 
-:TV_Line_104_en a :TranslationVariant ;
+:TV_Line_104_EN a :TranslationVariant ;
 :text "Shining over the streams of Dirce,"^^xsd:string ;
 :relatedTo :Line_104 .
 
-:TV_Line_105_en a :TranslationVariant ;
+:TV_Line_105_EN a :TranslationVariant ;
 :text "You came above her flowing waters,"^^xsd:string ;
 :relatedTo :Line_105 .
 
-:TV_Line_106_en a :TranslationVariant ;
+:TV_Line_106_EN a :TranslationVariant ;
 :text "And drove the white-shielded warrior from Argos"^^xsd:string ;
 :relatedTo :Line_106 .
 
-:TV_Line_107_en a :TranslationVariant ;
+:TV_Line_107_EN a :TranslationVariant ;
 :text "Who had come against us in full armor,"^^xsd:string ;
 :relatedTo :Line_107 .
 
-:TV_Line_108_en a :TranslationVariant ;
+:TV_Line_108_EN a :TranslationVariant ;
 :text "Now fleeing headlong in swift retreat,"^^xsd:string ;
 :relatedTo :Line_108 .
 
-:TV_Line_109_en a :TranslationVariant ;
+:TV_Line_109_EN a :TranslationVariant ;
 :text "Driven by a sharper rein,"^^xsd:string ;
 :relatedTo :Line_109 .
 
-:TV_Line_110_en a :TranslationVariant ;
+:TV_Line_110_EN a :TranslationVariant ;
 :text "The one whom Polyneices brought"^^xsd:string ;
 :relatedTo :Line_110 .
 
-:TV_Line_111_en a :TranslationVariant ;
+:TV_Line_111_EN a :TranslationVariant ;
 :text "Against our land in bitter strife,"^^xsd:string ;
 :relatedTo :Line_111 .
 
-:TV_Line_112_en a :TranslationVariant ;
+:TV_Line_112_EN a :TranslationVariant ;
 :text "Shrieking sharply like an eagle,"^^xsd:string ;
 :relatedTo :Line_112 .

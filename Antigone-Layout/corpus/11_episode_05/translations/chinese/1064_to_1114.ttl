@@ -4,105 +4,105 @@
 
 :episode_05-translations-1064-1114-chinese a owl:Ontology .
 
-:TV_Line_1064_zh a :TranslationVariant ; :relatedTo :Line_1064 ;
+:TV_Line_1064_ZH a :TranslationVariant ; :relatedTo :Line_1064 ;
   :text "你要清楚：在你看见"^^xsd:string .
-:TV_Line_1065_zh a :TranslationVariant ; :relatedTo :Line_1065 ;
+:TV_Line_1065_ZH a :TranslationVariant ; :relatedTo :Line_1065 ;
   :text "太阳再走过许多对行的轨道之前，"^^xsd:string .
-:TV_Line_1066_zh a :TranslationVariant ; :relatedTo :Line_1066 ;
+:TV_Line_1066_ZH a :TranslationVariant ; :relatedTo :Line_1066 ;
   :text "你将从你自己的骨血中"^^xsd:string .
-:TV_Line_1067_zh a :TranslationVariant ; :relatedTo :Line_1067 ;
+:TV_Line_1067_ZH a :TranslationVariant ; :relatedTo :Line_1067 ;
   :text "献出一具尸体，去偿还尸体，"^^xsd:string .
-:TV_Line_1068_zh a :TranslationVariant ; :relatedTo :Line_1068 ;
+:TV_Line_1068_ZH a :TranslationVariant ; :relatedTo :Line_1068 ;
   :text "因为你把一位上界之人推到下界，"^^xsd:string .
-:TV_Line_1069_zh a :TranslationVariant ; :relatedTo :Line_1069 ;
+:TV_Line_1069_ZH a :TranslationVariant ; :relatedTo :Line_1069 ;
   :text "可耻地把活着的灵魂关进坟墓，"^^xsd:string .
-:TV_Line_1070_zh a :TranslationVariant ; :relatedTo :Line_1070 ;
+:TV_Line_1070_ZH a :TranslationVariant ; :relatedTo :Line_1070 ;
   :text "又反过来把一具尸体扣留在这里，远离地下诸神，"^^xsd:string .
-:TV_Line_1071_zh a :TranslationVariant ; :relatedTo :Line_1071 ;
+:TV_Line_1071_ZH a :TranslationVariant ; :relatedTo :Line_1071 ;
   :text "不给其应有份额，使之无葬、无圣。"^^xsd:string .
-:TV_Line_1072_zh a :TranslationVariant ; :relatedTo :Line_1072 ;
+:TV_Line_1072_ZH a :TranslationVariant ; :relatedTo :Line_1072 ;
   :text "此事你和天上诸神都无权参与，"^^xsd:string .
-:TV_Line_1073_zh a :TranslationVariant ; :relatedTo :Line_1073 ;
+:TV_Line_1073_ZH a :TranslationVariant ; :relatedTo :Line_1073 ;
   :text "而是你在强暴这些正义。"^^xsd:string .
-:TV_Line_1074_zh a :TranslationVariant ; :relatedTo :Line_1074 ;
+:TV_Line_1074_ZH a :TranslationVariant ; :relatedTo :Line_1074 ;
   :text "因此，那些迟来却不遗忘的毁灭者，"^^xsd:string .
-:TV_Line_1075_zh a :TranslationVariant ; :relatedTo :Line_1075 ;
+:TV_Line_1075_ZH a :TranslationVariant ; :relatedTo :Line_1075 ;
   :text "哈得斯与诸神的复仇女神正等着你，"^^xsd:string .
-:TV_Line_1076_zh a :TranslationVariant ; :relatedTo :Line_1076 ;
+:TV_Line_1076_ZH a :TranslationVariant ; :relatedTo :Line_1076 ;
   :text "要把你捉进同样的灾祸里。"^^xsd:string .
-:TV_Line_1077_zh a :TranslationVariant ; :relatedTo :Line_1077 ;
+:TV_Line_1077_ZH a :TranslationVariant ; :relatedTo :Line_1077 ;
   :text "你可想想我是不是被银钱收买才说这些；"^^xsd:string .
-:TV_Line_1078_zh a :TranslationVariant ; :relatedTo :Line_1078 ;
+:TV_Line_1078_ZH a :TranslationVariant ; :relatedTo :Line_1078 ;
   :text "不久你就会明白，"^^xsd:string .
-:TV_Line_1079_zh a :TranslationVariant ; :relatedTo :Line_1079 ;
+:TV_Line_1079_ZH a :TranslationVariant ; :relatedTo :Line_1079 ;
   :text "你家中将响起男女同哭的哀号。"^^xsd:string .
-:TV_Line_1080_zh a :TranslationVariant ; :relatedTo :Line_1080 ;
+:TV_Line_1080_ZH a :TranslationVariant ; :relatedTo :Line_1080 ;
   :text "并且许多城邦都将对你生恨，"^^xsd:string .
-:TV_Line_1081_zh a :TranslationVariant ; :relatedTo :Line_1081 ;
+:TV_Line_1081_ZH a :TranslationVariant ; :relatedTo :Line_1081 ;
   :text "那些城里的人曾为被狗撕碎的遗骸行净礼，"^^xsd:string .
-:TV_Line_1082_zh a :TranslationVariant ; :relatedTo :Line_1082 ;
+:TV_Line_1082_ZH a :TranslationVariant ; :relatedTo :Line_1082 ;
   :text "或被野兽、或被飞鸟叼去的残骸，"^^xsd:string .
-:TV_Line_1083_zh a :TranslationVariant ; :relatedTo :Line_1083 ;
+:TV_Line_1083_ZH a :TranslationVariant ; :relatedTo :Line_1083 ;
   :text "带着不洁恶臭落在城中家灶上。"^^xsd:string .
-:TV_Line_1084_zh a :TranslationVariant ; :relatedTo :Line_1084 ;
+:TV_Line_1084_ZH a :TranslationVariant ; :relatedTo :Line_1084 ;
   :text "我向你射出这样的箭；是你像弓手般先激怒了我；"^^xsd:string .
-:TV_Line_1085_zh a :TranslationVariant ; :relatedTo :Line_1085 ;
+:TV_Line_1085_ZH a :TranslationVariant ; :relatedTo :Line_1085 ;
   :text "这些箭出自我心中的怒火，"^^xsd:string .
-:TV_Line_1086_zh a :TranslationVariant ; :relatedTo :Line_1086 ;
+:TV_Line_1086_ZH a :TranslationVariant ; :relatedTo :Line_1086 ;
   :text "绝不会落空；你躲不过它们的火焰。"^^xsd:string .
-:TV_Line_1087_zh a :TranslationVariant ; :relatedTo :Line_1087 ;
+:TV_Line_1087_ZH a :TranslationVariant ; :relatedTo :Line_1087 ;
   :text "孩子，带我回家，让他去向年轻人发怒，"^^xsd:string .
-:TV_Line_1088_zh a :TranslationVariant ; :relatedTo :Line_1088 ;
+:TV_Line_1088_ZH a :TranslationVariant ; :relatedTo :Line_1088 ;
   :text "把怒气洒在比我年轻的人身上，"^^xsd:string .
-:TV_Line_1089_zh a :TranslationVariant ; :relatedTo :Line_1089 ;
+:TV_Line_1089_ZH a :TranslationVariant ; :relatedTo :Line_1089 ;
   :text "也学会让舌头更安静，"^^xsd:string .
-:TV_Line_1090_zh a :TranslationVariant ; :relatedTo :Line_1090 ;
+:TV_Line_1090_ZH a :TranslationVariant ; :relatedTo :Line_1090 ;
   :text "使胸中的心智比现在更好。"^^xsd:string .
-:TV_Line_1091_zh a :TranslationVariant ; :relatedTo :Line_1091 ;
+:TV_Line_1091_ZH a :TranslationVariant ; :relatedTo :Line_1091 ;
   :text "主上，这人离去时留下可怕预言；"^^xsd:string .
-:TV_Line_1092_zh a :TranslationVariant ; :relatedTo :Line_1092 ;
+:TV_Line_1092_ZH a :TranslationVariant ; :relatedTo :Line_1092 ;
   :text "而我们都知道，自从我这头发"^^xsd:string .
-:TV_Line_1093_zh a :TranslationVariant ; :relatedTo :Line_1093 ;
+:TV_Line_1093_ZH a :TranslationVariant ; :relatedTo :Line_1093 ;
   :text "由黑变白以来，"^^xsd:string .
-:TV_Line_1094_zh a :TranslationVariant ; :relatedTo :Line_1094 ;
+:TV_Line_1094_ZH a :TranslationVariant ; :relatedTo :Line_1094 ;
   :text "他从未对这城说过假话。"^^xsd:string .
-:TV_Line_1095_zh a :TranslationVariant ; :relatedTo :Line_1095 ;
+:TV_Line_1095_ZH a :TranslationVariant ; :relatedTo :Line_1095 ;
   :text "我知道；这使我充满恐惧。"^^xsd:string .
-:TV_Line_1096_zh a :TranslationVariant ; :relatedTo :Line_1096 ;
+:TV_Line_1096_ZH a :TranslationVariant ; :relatedTo :Line_1096 ;
   :text "退让固然可怕，但更可怕的是"^^xsd:string .
-:TV_Line_1097_zh a :TranslationVariant ; :relatedTo :Line_1097 ;
+:TV_Line_1097_ZH a :TranslationVariant ; :relatedTo :Line_1097 ;
   :text "硬抗到底，让灾祸击碎自己的灵魂。"^^xsd:string .
-:TV_Line_1098_zh a :TranslationVariant ; :relatedTo :Line_1098 ;
+:TV_Line_1098_ZH a :TranslationVariant ; :relatedTo :Line_1098 ;
   :text "那你命我做什么？说吧，我会听从。"^^xsd:string .
-:TV_Line_1099_zh a :TranslationVariant ; :relatedTo :Line_1099 ;
+:TV_Line_1099_ZH a :TranslationVariant ; :relatedTo :Line_1099 ;
   :text "去把那姑娘从石砌密室中放出来，"^^xsd:string .
-:TV_Line_1100_zh a :TranslationVariant ; :relatedTo :Line_1100 ;
+:TV_Line_1100_ZH a :TranslationVariant ; :relatedTo :Line_1100 ;
   :text "并给那具无葬之尸筑墓。"^^xsd:string .
-:TV_Line_1101_zh a :TranslationVariant ; :relatedTo :Line_1101 ;
+:TV_Line_1101_ZH a :TranslationVariant ; :relatedTo :Line_1101 ;
   :text "这就是你的建议？"^^xsd:string .
-:TV_Line_1102_zh a :TranslationVariant ; :relatedTo :Line_1102 ;
+:TV_Line_1102_ZH a :TranslationVariant ; :relatedTo :Line_1102 ;
   :text "要我让步？"^^xsd:string .
-:TV_Line_1103_zh a :TranslationVariant ; :relatedTo :Line_1103 ;
+:TV_Line_1103_ZH a :TranslationVariant ; :relatedTo :Line_1103 ;
   :text "是的，主上，而且越快越好；"^^xsd:string .
-:TV_Line_1104_zh a :TranslationVariant ; :relatedTo :Line_1104 ;
+:TV_Line_1104_ZH a :TranslationVariant ; :relatedTo :Line_1104 ;
   :text "因为神的打击迅速斩倒愚顽之人。"^^xsd:string .
-:TV_Line_1105_zh a :TranslationVariant ; :relatedTo :Line_1105 ;
+:TV_Line_1105_ZH a :TranslationVariant ; :relatedTo :Line_1105 ;
   :text "啊，艰难啊；可我还是放下"^^xsd:string .
-:TV_Line_1106_zh a :TranslationVariant ; :relatedTo :Line_1106 ;
+:TV_Line_1106_ZH a :TranslationVariant ; :relatedTo :Line_1106 ;
   :text "我的意志，不该与必然相争。"^^xsd:string .
-:TV_Line_1107_zh a :TranslationVariant ; :relatedTo :Line_1107 ;
+:TV_Line_1107_ZH a :TranslationVariant ; :relatedTo :Line_1107 ;
   :text "那么去吧，立刻做这些事。"^^xsd:string .
-:TV_Line_1108_zh a :TranslationVariant ; :relatedTo :Line_1108 ;
+:TV_Line_1108_ZH a :TranslationVariant ; :relatedTo :Line_1108 ;
   :text "我亲自去。来，来，奴仆们，"^^xsd:string .
-:TV_Line_1109_zh a :TranslationVariant ; :relatedTo :Line_1109 ;
+:TV_Line_1109_ZH a :TranslationVariant ; :relatedTo :Line_1109 ;
   :text "你们全都一样，立刻去那里，"^^xsd:string .
-:TV_Line_1110_zh a :TranslationVariant ; :relatedTo :Line_1110 ;
+:TV_Line_1110_ZH a :TranslationVariant ; :relatedTo :Line_1110 ;
   :text "手里拿着斧头，去那看得见的地方。"^^xsd:string .
-:TV_Line_1111_zh a :TranslationVariant ; :relatedTo :Line_1111 ;
+:TV_Line_1111_ZH a :TranslationVariant ; :relatedTo :Line_1111 ;
   :text "既然我的心意如今改变，"^^xsd:string .
-:TV_Line_1112_zh a :TranslationVariant ; :relatedTo :Line_1112 ;
+:TV_Line_1112_ZH a :TranslationVariant ; :relatedTo :Line_1112 ;
   :text "我怎样绑了她，就怎样亲手解开她。"^^xsd:string .
-:TV_Line_1113_zh a :TranslationVariant ; :relatedTo :Line_1113 ;
+:TV_Line_1113_ZH a :TranslationVariant ; :relatedTo :Line_1113 ;
   :text "因为我怕，最好还是"^^xsd:string .
-:TV_Line_1114_zh a :TranslationVariant ; :relatedTo :Line_1114 ;
+:TV_Line_1114_ZH a :TranslationVariant ; :relatedTo :Line_1114 ;
   :text "把既定的法则守到生命终了。"^^xsd:string .

@@ -4,51 +4,51 @@
 
 :episode_01-translations-211-222-chinese a owl:Ontology .
 
-:TV_Line_211_zh a :TranslationVariant ;
+:TV_Line_211_ZH a :TranslationVariant ;
     :text "合唱队：墨诺伊刻斯之子克瑞翁，这就是你的意志，"^^xsd:string ;
     :relatedTo :Line_211 .
 
-:TV_Line_212_zh a :TranslationVariant ;
+:TV_Line_212_ZH a :TranslationVariant ;
     :text "针对城邦之友与城邦之敌。"^^xsd:string ;
     :relatedTo :Line_212 .
 
-:TV_Line_213_zh a :TranslationVariant ;
+:TV_Line_213_ZH a :TranslationVariant ;
     :text "看来你有权执行任何法令，"^^xsd:string ;
     :relatedTo :Line_213 .
 
-:TV_Line_214_zh a :TranslationVariant ;
+:TV_Line_214_ZH a :TranslationVariant ;
     :text "无论关乎生者或死者。"^^xsd:string ;
     :relatedTo :Line_214 .
 
-:TV_Line_215_zh a :TranslationVariant ;
+:TV_Line_215_ZH a :TranslationVariant ;
     :text "克瑞翁：务必保证我的命令得到执行。"^^xsd:string ;
     :relatedTo :Line_215 .
 
-:TV_Line_216_zh a :TranslationVariant ;
+:TV_Line_216_ZH a :TranslationVariant ;
     :text "合唱队：把这负担交给更年轻的人吧。"^^xsd:string ;
     :relatedTo :Line_216 .
 
-:TV_Line_217_zh a :TranslationVariant ;
+:TV_Line_217_ZH a :TranslationVariant ;
     :text "克瑞翁：不，已有守卫在看守尸体。"^^xsd:string ;
     :relatedTo :Line_217 .
 
-:TV_Line_218_zh a :TranslationVariant ;
+:TV_Line_218_ZH a :TranslationVariant ;
     :text "合唱队：说清楚，你还要我们做什么？"^^xsd:string ;
     :relatedTo :Line_218 .
 
-:TV_Line_219_zh a :TranslationVariant ;
+:TV_Line_219_ZH a :TranslationVariant ;
     :text "克瑞翁：对违命者，一步也不要让。"^^xsd:string ;
     :relatedTo :Line_219 .
 
-:TV_Line_220_zh a :TranslationVariant ;
+:TV_Line_220_ZH a :TranslationVariant ;
     :text "合唱队：没人蠢到会爱上死亡。"^^xsd:string ;
     :relatedTo :Line_220 .
 
-:TV_Line_221_zh a :TranslationVariant ;
+:TV_Line_221_ZH a :TranslationVariant ;
     :text "克瑞翁：不错，死亡就是报应；但贪利"^^xsd:string ;
     :relatedTo :Line_221 .
 
-:TV_Line_222_zh a :TranslationVariant ;
+:TV_Line_222_ZH a :TranslationVariant ;
     :text "常会把人压碎在他自身欲望之下。"^^xsd:string ;
     :relatedTo :Line_222 .
 

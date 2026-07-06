@@ -4,65 +4,65 @@
 
 :episode_05-translations-1033-1063-chinese a owl:Ontology .
 
-:TV_Line_1033_zh a :TranslationVariant ; :relatedTo :Line_1033 ;
+:TV_Line_1033_ZH a :TranslationVariant ; :relatedTo :Line_1033 ;
   :text "老头啊，你们全都像弓手对着靶子，"^^xsd:string .
-:TV_Line_1034_zh a :TranslationVariant ; :relatedTo :Line_1034 ;
+:TV_Line_1034_ZH a :TranslationVariant ; :relatedTo :Line_1034 ;
   :text "一起射向这个人；连在占卜术上，"^^xsd:string .
-:TV_Line_1035_zh a :TranslationVariant ; :relatedTo :Line_1035 ;
+:TV_Line_1035_ZH a :TranslationVariant ; :relatedTo :Line_1035 ;
   :text "我也不得安宁；因为你们这一伙人"^^xsd:string .
-:TV_Line_1036_zh a :TranslationVariant ; :relatedTo :Line_1036 ;
+:TV_Line_1036_ZH a :TranslationVariant ; :relatedTo :Line_1036 ;
   :text "早把我像货物一样买卖议价了。"^^xsd:string .
-:TV_Line_1037_zh a :TranslationVariant ; :relatedTo :Line_1037 ;
+:TV_Line_1037_ZH a :TranslationVariant ; :relatedTo :Line_1037 ;
   :text "那就去牟利吧；去贩卖萨狄斯的琥珀，"^^xsd:string .
-:TV_Line_1038_zh a :TranslationVariant ; :relatedTo :Line_1038 ;
+:TV_Line_1038_ZH a :TranslationVariant ; :relatedTo :Line_1038 ;
   :text "若你愿意，也去贩卖印度的黄金；"^^xsd:string .
-:TV_Line_1039_zh a :TranslationVariant ; :relatedTo :Line_1039 ;
+:TV_Line_1039_ZH a :TranslationVariant ; :relatedTo :Line_1039 ;
   :text "但那具尸体你们永远别想埋入坟墓，"^^xsd:string .
-:TV_Line_1040_zh a :TranslationVariant ; :relatedTo :Line_1040 ;
+:TV_Line_1040_ZH a :TranslationVariant ; :relatedTo :Line_1040 ;
   :text "即便宙斯的鹰想要"^^xsd:string .
-:TV_Line_1041_zh a :TranslationVariant ; :relatedTo :Line_1041 ;
+:TV_Line_1041_ZH a :TranslationVariant ; :relatedTo :Line_1041 ;
   :text "把他抓起，献作宙斯宝座前的食物；"^^xsd:string .
-:TV_Line_1042_zh a :TranslationVariant ; :relatedTo :Line_1042 ;
+:TV_Line_1042_ZH a :TranslationVariant ; :relatedTo :Line_1042 ;
   :text "那时我也不会因惧怕污染"^^xsd:string .
-:TV_Line_1043_zh a :TranslationVariant ; :relatedTo :Line_1043 ;
+:TV_Line_1043_ZH a :TranslationVariant ; :relatedTo :Line_1043 ;
   :text "而准许那人下葬；因为我很清楚，"^^xsd:string .
-:TV_Line_1044_zh a :TranslationVariant ; :relatedTo :Line_1044 ;
+:TV_Line_1044_ZH a :TranslationVariant ; :relatedTo :Line_1044 ;
   :text "没有任何人有力量去玷污诸神。"^^xsd:string .
-:TV_Line_1045_zh a :TranslationVariant ; :relatedTo :Line_1045 ;
+:TV_Line_1045_ZH a :TranslationVariant ; :relatedTo :Line_1045 ;
   :text "人都会犯错，老提瑞西阿斯；在凡人中，"^^xsd:string .
-:TV_Line_1046_zh a :TranslationVariant ; :relatedTo :Line_1046 ;
+:TV_Line_1046_ZH a :TranslationVariant ; :relatedTo :Line_1046 ;
   :text "最聪明的人也常落入可耻的错误，若他"^^xsd:string .
-:TV_Line_1047_zh a :TranslationVariant ; :relatedTo :Line_1047 ;
+:TV_Line_1047_ZH a :TranslationVariant ; :relatedTo :Line_1047 ;
   :text "为了利益，把丑陋之言包上漂亮辞藻。"^^xsd:string .
-:TV_Line_1048_zh a :TranslationVariant ; :relatedTo :Line_1048 ;
+:TV_Line_1048_ZH a :TranslationVariant ; :relatedTo :Line_1048 ;
   :text "哎呀！有人知道吗，有人明白吗，"^^xsd:string .
-:TV_Line_1049_zh a :TranslationVariant ; :relatedTo :Line_1049 ;
+:TV_Line_1049_ZH a :TranslationVariant ; :relatedTo :Line_1049 ;
   :text "这是什么意思？你说的是哪句通行格言？"^^xsd:string .
-:TV_Line_1050_zh a :TranslationVariant ; :relatedTo :Line_1050 ;
+:TV_Line_1050_ZH a :TranslationVariant ; :relatedTo :Line_1050 ;
   :text "智慧有多好，是诸善中最好者，"^^xsd:string .
-:TV_Line_1051_zh a :TranslationVariant ; :relatedTo :Line_1051 ;
+:TV_Line_1051_ZH a :TranslationVariant ; :relatedTo :Line_1051 ;
   :text "愚昧就有多坏，是最大的祸患。"^^xsd:string .
-:TV_Line_1052_zh a :TranslationVariant ; :relatedTo :Line_1052 ;
+:TV_Line_1052_ZH a :TranslationVariant ; :relatedTo :Line_1052 ;
   :text "而你恰恰充满这种病症。"^^xsd:string .
-:TV_Line_1053_zh a :TranslationVariant ; :relatedTo :Line_1053 ;
+:TV_Line_1053_ZH a :TranslationVariant ; :relatedTo :Line_1053 ;
   :text "我不愿以辱骂回你，先知。"^^xsd:string .
-:TV_Line_1054_zh a :TranslationVariant ; :relatedTo :Line_1054 ;
+:TV_Line_1054_ZH a :TranslationVariant ; :relatedTo :Line_1054 ;
   :text "可你却在辱骂我，说我预言虚假。"^^xsd:string .
-:TV_Line_1055_zh a :TranslationVariant ; :relatedTo :Line_1055 ;
+:TV_Line_1055_ZH a :TranslationVariant ; :relatedTo :Line_1055 ;
   :text "因为整类先知都爱钱财。"^^xsd:string .
-:TV_Line_1056_zh a :TranslationVariant ; :relatedTo :Line_1056 ;
+:TV_Line_1056_ZH a :TranslationVariant ; :relatedTo :Line_1056 ;
   :text "而整类暴君都爱可耻之利。"^^xsd:string .
-:TV_Line_1057_zh a :TranslationVariant ; :relatedTo :Line_1057 ;
+:TV_Line_1057_ZH a :TranslationVariant ; :relatedTo :Line_1057 ;
   :text "你知道你是在对你的统治者说这话吗？"^^xsd:string .
-:TV_Line_1058_zh a :TranslationVariant ; :relatedTo :Line_1058 ;
+:TV_Line_1058_ZH a :TranslationVariant ; :relatedTo :Line_1058 ;
   :text "我知道；因为正是借我，你才使此城挺立。"^^xsd:string .
-:TV_Line_1059_zh a :TranslationVariant ; :relatedTo :Line_1059 ;
+:TV_Line_1059_ZH a :TranslationVariant ; :relatedTo :Line_1059 ;
   :text "你是聪明的先知，却是非义之友。"^^xsd:string .
-:TV_Line_1060_zh a :TranslationVariant ; :relatedTo :Line_1060 ;
+:TV_Line_1060_ZH a :TranslationVariant ; :relatedTo :Line_1060 ;
   :text "你将逼我说出我心中坚固之言。"^^xsd:string .
-:TV_Line_1061_zh a :TranslationVariant ; :relatedTo :Line_1061 ;
+:TV_Line_1061_ZH a :TranslationVariant ; :relatedTo :Line_1061 ;
   :text "那就说吧，只别为了牟利而说。"^^xsd:string .
-:TV_Line_1062_zh a :TranslationVariant ; :relatedTo :Line_1062 ;
+:TV_Line_1062_ZH a :TranslationVariant ; :relatedTo :Line_1062 ;
   :text "无论怎样，在你看来我都是如此。"^^xsd:string .
-:TV_Line_1063_zh a :TranslationVariant ; :relatedTo :Line_1063 ;
+:TV_Line_1063_ZH a :TranslationVariant ; :relatedTo :Line_1063 ;
   :text "你要明白：你休想把我的判断拿去交易。"^^xsd:string .

@@ -2,6 +2,8 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+:episode_05-semantics a owl:Ontology .
+
 # ====================================================================================
 # SCENE INFORMATION
 # ====================================================================================
@@ -47,7 +49,7 @@
         :Speech_Creon_1105_1106,
         :Speech_Chorus_1107,
         :Speech_Creon_1108_1114 ;
-    :hasCharacter   :Antigone_Character_Teiresias,
+    :involvesCharacter   :Antigone_Character_Teiresias,
                     :Antigone_Character_Creon,
                     :Antigone_Character_Hephaestus,
                     :Antigone_Character_Boy,
@@ -118,53 +120,8 @@
 # SPEECHES
 # ===========================================================================
 
-:Speech_Teiresias_Ep5_Part1
-    a :Speech ;
-    :speechBy :Antigone_Character_Teiresias ;
-    :containsLine :Line_988, :Line_989, :Line_990 .
-
-:Speech_Creon_Ep5_Part1
-    a :Speech ;
-    :speechBy :Antigone_Character_Creon ;
-    :containsLine :Line_991, :Line_992, :Line_993, :Line_994, :Line_995, :Line_996, :Line_997 .
-
-:Speech_Teiresias_Ep5_Part2
-    a :Speech ;
-    :speechBy :Antigone_Character_Teiresias ;
-    :containsLine :Line_998, :Line_999, :Line_1000, :Line_1001, :Line_1002, :Line_1003, :Line_1004, :Line_1005, :Line_1006, :Line_1007, :Line_1008, :Line_1009, :Line_1010, :Line_1011, :Line_1012, :Line_1013, :Line_1014, :Line_1015, :Line_1016, :Line_1017, :Line_1018, :Line_1019, :Line_1020, :Line_1021, :Line_1022, :Line_1023, :Line_1024, :Line_1025, :Line_1026, :Line_1027, :Line_1028, :Line_1029, :Line_1030, :Line_1031, :Line_1032 ;
-    :hasMotivation :Motivation_WarnCreon ;
-    :containsRhetoricalDevice :Device_Metaphor_RazorEdge .
-
-
-:Speech_Stichomythia_Ep5
-    a :Speech ;
-    :description "Rapid dialogue (stichomythia) between Creon and Teiresias."^^xsd:string ;
-    :speechBy :Antigone_Character_Creon, :Antigone_Character_Teiresias ;
-    :containsLine :Line_1048, :Line_1049, :Line_1050, :Line_1051, :Line_1052, :Line_1053, :Line_1054, :Line_1055, :Line_1056, :Line_1057, :Line_1058, :Line_1059, :Line_1060, :Line_1061, :Line_1062, :Line_1063 .
-
-:Speech_Teiresias_Ep5_Prophecy
-    a :Speech ;
-    :speechBy :Antigone_Character_Teiresias ;
-    :containsLine :Line_1064, :Line_1065, :Line_1066, :Line_1067, :Line_1068, :Line_1069, :Line_1070, :Line_1071, :Line_1072, :Line_1073, :Line_1074, :Line_1075, :Line_1076, :Line_1077, :Line_1078, :Line_1079, :Line_1080, :Line_1081, :Line_1082, :Line_1083, :Line_1084, :Line_1085, :Line_1086, :Line_1087, :Line_1088, :Line_1089 ;
-    :hasMotivation :Motivation_PronounceDoom ;
-    :containsRhetoricalDevice :Device_Metaphor_Arrows .
-
-:Speech_Chorus_Ep5_Reflection
-    a :Speech ;
-    :speechBy :Antigone_Character_Chorus ;
-    :containsLine :Line_1090, :Line_1091, :Line_1092, :Line_1093, :Line_1094 ;
-    :advocatesFor :Principle_PropheticTruth .
-
-:Speech_Creon_Ep5_Reversal
-    a :Speech ;
-    :speechBy :Antigone_Character_Creon, :Antigone_Character_Chorus ;
-    :description "Dialogue including Creon's capitulation and the Chorus's urgent advice."^^xsd:string ;
-    :containsLine :Line_1095, :Line_1096, :Line_1097, :Line_1098, :Line_1099, :Line_1100, :Line_1101, :Line_1102, :Line_1103, :Line_1104, :Line_1105, :Line_1106, :Line_1107, :Line_1108, :Line_1109, :Line_1110, :Line_1111, :Line_1112, :Line_1113, :Line_1114 ;
-    :hasMotivation :Motivation_AvoidRuin ;
-    :makesMoralDecision :Decision_RevokeEdict .
-
 :Speech_Teiresias_988_990 a :Speech;
-    :speechby :Antigone_Character_Teiresias ;
+    :speechBy :Antigone_Character_Teiresias ;
     :containsLine :Line_988, :Line_989, :Line_990 .
 
 :Speech_Creon_991 a :Speech ;
@@ -195,9 +152,12 @@
     :speechBy :Antigone_Character_Creon ;
     :containsLine :Line_997 .
 
-:Speech_Teiresias_998_1032 a :Speech ;
+:Speech_Teiresias_998_1032
+    a :Speech ;
     :speechBy :Antigone_Character_Teiresias ;
-    :containsLine :Line_998, :Line_999, :Line_1000, :Line_1001, :Line_1002, :Line_1003, :Line_1004, :Line_1005, :Line_1006, :Line_1007, :Line_1008, :Line_1009, :Line_1010, :Line_1011, :Line_1012, :Line_1013, :Line_1014, :Line_1015, :Line_1016, :Line_1017, :Line_1018, :Line_1019, :Line_1020, :Line_1021, :Line_1022, :Line_1023, :Line_1024, :Line_1025, :Line_1026, :Line_1027, :Line_1028, :Line_1029, :Line_1030, :Line_1031, :Line_1032 .
+    :containsLine :Line_998, :Line_999, :Line_1000, :Line_1001, :Line_1002, :Line_1003, :Line_1004, :Line_1005, :Line_1006, :Line_1007, :Line_1008, :Line_1009, :Line_1010, :Line_1011, :Line_1012, :Line_1013, :Line_1014, :Line_1015, :Line_1016, :Line_1017, :Line_1018, :Line_1019, :Line_1020, :Line_1021, :Line_1022, :Line_1023, :Line_1024, :Line_1025, :Line_1026, :Line_1027, :Line_1028, :Line_1029, :Line_1030, :Line_1031, :Line_1032 ;
+    :hasMotivation :Motivation_WarnCreon ;
+    :containsRhetoricalDevice :Device_Metaphor_RazorEdge .
 
 :Speech_Creon_1033_1047 a :Speech ;
     :speechBy :Antigone_Character_Creon ;
@@ -205,6 +165,36 @@
     :hasMotivation :Motivation_DismissProphecy ;
     :experiencesEmotion :Emotion_Paranoia, :Emotion_DefensiveAnger ;
     :containsRhetoricalDevice :Device_Simile_Archers, :Device_Hyperbole_Eagles .
+
+    
+:Speech_Stichomythia_Ep5
+    a :Speech ;
+    :description "Rapid dialogue (stichomythia) between Creon and Teiresias."^^xsd:string ;
+    :speechBy :Antigone_Character_Creon, :Antigone_Character_Teiresias ;
+    :containsLine :Line_1048, :Line_1049, :Line_1050, :Line_1051, :Line_1052, :Line_1053, :Line_1054, :Line_1055, :Line_1056, :Line_1057, :Line_1058, :Line_1059, :Line_1060, :Line_1061, :Line_1062, :Line_1063 .
+
+:Speech_Teiresias_Ep5_Prophecy
+    a :Speech ;
+    :speechBy :Antigone_Character_Teiresias ;
+    :containsLine :Line_1064, :Line_1065, :Line_1066, :Line_1067, :Line_1068, :Line_1069, :Line_1070, :Line_1071, :Line_1072, :Line_1073, :Line_1074, :Line_1075, :Line_1076, :Line_1077, :Line_1078, :Line_1079, :Line_1080, :Line_1081, :Line_1082, :Line_1083, :Line_1084, :Line_1085, :Line_1086, :Line_1087, :Line_1088, :Line_1089 ;
+    :hasMotivation :Motivation_PronounceDoom ;
+    :containsRhetoricalDevice :Device_Metaphor_Arrows .
+
+:Speech_Chorus_Ep5_Reflection
+    a :Speech ;
+    :speechBy :Antigone_Character_Chorus ;
+    :containsLine :Line_1090, :Line_1091, :Line_1092, :Line_1093, :Line_1094 ;
+    :advocatesFor :Principle_PropheticTruth .
+
+:Speech_Creon_Ep5_Reversal
+    a :Speech ;
+    :speechBy :Antigone_Character_Creon, :Antigone_Character_Chorus ;
+    :description "Dialogue including Creon's capitulation and the Chorus's urgent advice."^^xsd:string ;
+    :containsLine :Line_1095, :Line_1096, :Line_1097, :Line_1098, :Line_1099, :Line_1100, :Line_1101, :Line_1102, :Line_1103, :Line_1104, :Line_1105, :Line_1106, :Line_1107, :Line_1108, :Line_1109, :Line_1110, :Line_1111, :Line_1112, :Line_1113, :Line_1114 ;
+    :hasMotivation :Motivation_AvoidRuin ;
+    :makesMoralDecision :Decision_RevokeEdict .
+
+
 
 # Look for Emotion_Paranoia , Emotion_DefensiveAnger on R2 files.
 # Motivation_DismissProphecy also

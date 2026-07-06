@@ -4,75 +4,75 @@
 
 :stasimon_04-translations-966-987-greek a owl:Ontology .
 
-:TV_Line_966_gr a :TranslationVariant ;
+:TV_Line_966_GR a :TranslationVariant ;
     :text "Κοντά στους κυανούς βράχους της δίδυμης θάλασσας"^^xsd:string ;
     :relatedTo :Line_966 .
 
-:TV_Line_967_gr a :TranslationVariant ;
+:TV_Line_967_GR a :TranslationVariant ;
     :text "βρίσκονται οι Βοσπόριες ακτές και ο θρακικός γιαλός,"^^xsd:string ;
     :relatedTo :Line_967 .
 
-:TV_Line_970_gr a :TranslationVariant ;
+:TV_Line_970_GR a :TranslationVariant ;
     :text "στη Σαλμυδησσό, όπου ο γειτονικός Άρης"^^xsd:string ;
     :relatedTo :Line_970 .
 
-:TV_Line_971_gr a :TranslationVariant ;
+:TV_Line_971_GR a :TranslationVariant ;
     :text "για τους δυο γιους του Φινέα"^^xsd:string ;
     :relatedTo :Line_971 .
 
-:TV_Line_972_gr a :TranslationVariant ;
+:TV_Line_972_GR a :TranslationVariant ;
     :text "την καταραμένη πληγή,"^^xsd:string ;
     :relatedTo :Line_972 .
 
-:TV_Line_973_gr a :TranslationVariant ;
+:TV_Line_973_GR a :TranslationVariant ;
     :text "τυφλωμένους από άγρια γυναίκα,"^^xsd:string ;
     :relatedTo :Line_973 .
 
-:TV_Line_974_gr a :TranslationVariant ;
+:TV_Line_974_GR a :TranslationVariant ;
     :text "με τα μάτια τους χτυπημένα σε φριχτούς κύκλους,"^^xsd:string ;
     :relatedTo :Line_974 .
 
-:TV_Line_975_gr a :TranslationVariant ;
+:TV_Line_975_GR a :TranslationVariant ;
     :text "ξεσκισμένα από αιματηρά"^^xsd:string ;
     :relatedTo :Line_975 .
 
-:TV_Line_976_gr a :TranslationVariant ;
+:TV_Line_976_GR a :TranslationVariant ;
     :text "χέρια και από τις αιχμές των κερκίδων."^^xsd:string ;
     :relatedTo :Line_976 .
 
-:TV_Line_977_gr a :TranslationVariant ;
+:TV_Line_977_GR a :TranslationVariant ;
     :text "Κι αυτοί, λιώνοντας δύστυχοι στη δυστυχία τους,"^^xsd:string ;
     :relatedTo :Line_977 .
 
-:TV_Line_980_gr a :TranslationVariant ;
+:TV_Line_980_GR a :TranslationVariant ;
     :text "θρηνούσαν, έχοντας για μητέρα μητέρα ανύμφευτης γέννας·"^^xsd:string ;
     :relatedTo :Line_980 .
 
-:TV_Line_981_gr a :TranslationVariant ;
+:TV_Line_981_GR a :TranslationVariant ;
     :text "κι εκείνη ήταν σπέρμα των αρχαίων"^^xsd:string ;
     :relatedTo :Line_981 .
 
-:TV_Line_982_gr a :TranslationVariant ;
+:TV_Line_982_GR a :TranslationVariant ;
     :text "Ερεχθειδών,"^^xsd:string ;
     :relatedTo :Line_982 .
 
-:TV_Line_983_gr a :TranslationVariant ;
+:TV_Line_983_GR a :TranslationVariant ;
     :text "και σε μακρινές σπηλιές"^^xsd:string ;
     :relatedTo :Line_983 .
 
-:TV_Line_984_gr a :TranslationVariant ;
+:TV_Line_984_GR a :TranslationVariant ;
     :text "μεγάλωσε μέσα στις πατρικές θύελλες,"^^xsd:string ;
     :relatedTo :Line_984 .
 
-:TV_Line_985_gr a :TranslationVariant ;
+:TV_Line_985_GR a :TranslationVariant ;
     :text "παιδί του Βοριά, γοργή σαν άλογο πάνω από τον απότομο βράχο,"^^xsd:string ;
     :relatedTo :Line_985 .
 
-:TV_Line_986_gr a :TranslationVariant ;
+:TV_Line_986_GR a :TranslationVariant ;
     :text "παιδί θεών· μα κι επάνω της"^^xsd:string ;
     :relatedTo :Line_986 .
 
-:TV_Line_987_gr a :TranslationVariant ;
+:TV_Line_987_GR a :TranslationVariant ;
     :text "οι μακρόβιρες Μοίρες έβαλαν το χέρι τους, παιδί μου."^^xsd:string ;
     :relatedTo :Line_987 .
 

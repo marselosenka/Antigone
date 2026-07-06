@@ -4,110 +4,110 @@
 
 :episode_02-translations-536-562-greek a owl:Ontology .
 
-:TV_Line_536_gr a :TranslationVariant ;
+:TV_Line_536_GR a :TranslationVariant ;
     :text "Έκανα την πράξη, αν κι αυτή συμφωνεί μαζί μου"^^xsd:string ;
     :relatedTo :Line_536 .
 
-:TV_Line_537_gr a :TranslationVariant ;
+:TV_Line_537_GR a :TranslationVariant ;
     :text "και συμμετέχει και σηκώνει την κατηγορία."^^xsd:string ;
     :relatedTo :Line_537 .
 
-:TV_Line_538_gr a :TranslationVariant ;
+:TV_Line_538_GR a :TranslationVariant ;
     :text "Αλλά η δικαιοσύνη δεν θα σου το επιτρέψει αυτό, επειδή"^^xsd:string ;
     :relatedTo :Line_538 .
 
-:TV_Line_539_gr a :TranslationVariant ;
+:TV_Line_539_GR a :TranslationVariant ;
     :text "ούτε το θέλησες, ούτε εγώ σε έκανα κοινωνό."^^xsd:string ;
     :relatedTo :Line_539 .
 
-:TV_Line_540_gr a :TranslationVariant ;
+:TV_Line_540_GR a :TranslationVariant ;
     :text "Όμως στις δικές σου συμφορές δεν ντρέπομαι"^^xsd:string ;
     :relatedTo :Line_540 .
 
-:TV_Line_541_gr a :TranslationVariant ;
+:TV_Line_541_GR a :TranslationVariant ;
     :text "να κάνω τον εαυτό μου συμμέτοχο στο πάθημα."^^xsd:string ;
     :relatedTo :Line_541 .
 
-:TV_Line_542_gr a :TranslationVariant ;
+:TV_Line_542_GR a :TranslationVariant ;
     :text "Ποιοι έκαναν την πράξη, τα ξέρει ο Άδης και οι κάτω θεοί·"^^xsd:string ;
     :relatedTo :Line_542 .
 
-:TV_Line_543_gr a :TranslationVariant ;
+:TV_Line_543_GR a :TranslationVariant ;
     :text "με λόγια όμως δεν αποδέχομαι αγάπη από φίλη που δεν αγαπά έμπρακτα."^^xsd:string ;
     :relatedTo :Line_543 .
 
-:TV_Line_544_gr a :TranslationVariant ;
+:TV_Line_544_GR a :TranslationVariant ;
     :text "Μην με ατιμάζεις, αδελφή, αρνούμενη να"^^xsd:string ;
     :relatedTo :Line_544 .
 
-:TV_Line_545_gr a :TranslationVariant ;
+:TV_Line_545_GR a :TranslationVariant ;
     :text "πεθάνω μαζί σου και να τιμήσω τον νεκρό."^^xsd:string ;
     :relatedTo :Line_545 .
 
-:TV_Line_546_gr a :TranslationVariant ;
+:TV_Line_546_GR a :TranslationVariant ;
     :text "Μη μοιραστείς τον θάνατό μου και μην κάνεις δικά σου"^^xsd:string ;
     :relatedTo :Line_546 .
 
-:TV_Line_547_gr a :TranslationVariant ;
+:TV_Line_547_GR a :TranslationVariant ;
     :text "όσα δεν άγγιξες. Εγώ, που πεθαίνω, αρκώ."^^xsd:string ;
     :relatedTo :Line_547 .
 
-:TV_Line_548_gr a :TranslationVariant ;
+:TV_Line_548_GR a :TranslationVariant ;
     :text "Και ποια ζωή θα μου είναι αγαπητή, αν μείνω χωρίς εσένα;"^^xsd:string ;
     :relatedTo :Line_548 .
 
-:TV_Line_549_gr a :TranslationVariant ;
+:TV_Line_549_GR a :TranslationVariant ;
     :text "Ρώτα τον Κρέοντα· εσύ γι’ αυτόν νοιάζεσαι."^^xsd:string ;
     :relatedTo :Line_549 .
 
-:TV_Line_550_gr a :TranslationVariant ;
+:TV_Line_550_GR a :TranslationVariant ;
     :text "Γιατί με πικραίνεις μ’ αυτά, χωρίς να ωφελείς τίποτα;"^^xsd:string ;
     :relatedTo :Line_550 .
 
-:TV_Line_551_gr a :TranslationVariant ;
+:TV_Line_551_GR a :TranslationVariant ;
     :text "Αν γελώ, γελώ ενώ πονώ για σένα."^^xsd:string ;
     :relatedTo :Line_551 .
 
-:TV_Line_552_gr a :TranslationVariant ;
+:TV_Line_552_GR a :TranslationVariant ;
     :text "Τι άλλο, λοιπόν, θα μπορούσα τώρα να σε ωφελήσω;"^^xsd:string ;
     :relatedTo :Line_552 .
 
-:TV_Line_553_gr a :TranslationVariant ;
+:TV_Line_553_GR a :TranslationVariant ;
     :text "Σώσε τον εαυτό σου· δεν σε φθονώ να ξεφύγεις."^^xsd:string ;
     :relatedTo :Line_553 .
 
-:TV_Line_554_gr a :TranslationVariant ;
+:TV_Line_554_GR a :TranslationVariant ;
     :text "Αλίμονο σε μένα τη δύστυχη, θα χάσω κι εγώ τη δική σου μοίρα;"^^xsd:string ;
     :relatedTo :Line_554 .
 
-:TV_Line_555_gr a :TranslationVariant ;
+:TV_Line_555_GR a :TranslationVariant ;
     :text "Εσύ διάλεξες να ζεις, εγώ όμως να πεθάνω."^^xsd:string ;
     :relatedTo :Line_555 .
 
-:TV_Line_556_gr a :TranslationVariant ;
+:TV_Line_556_GR a :TranslationVariant ;
     :text "Όμως όχι χωρίς να έχω πει τα δικά μου λόγια."^^xsd:string ;
     :relatedTo :Line_556 .
 
-:TV_Line_557_gr a :TranslationVariant ;
+:TV_Line_557_GR a :TranslationVariant ;
     :text "Εσύ φαινόσουν συνετή σε κάποιους, κι εγώ σε άλλους."^^xsd:string ;
     :relatedTo :Line_557 .
 
-:TV_Line_558_gr a :TranslationVariant ;
+:TV_Line_558_GR a :TranslationVariant ;
     :text "Και όμως ίσο είναι το σφάλμα και των δυο μας."^^xsd:string ;
     :relatedTo :Line_558 .
 
-:TV_Line_559_gr a :TranslationVariant ;
+:TV_Line_559_GR a :TranslationVariant ;
     :text "Πάρε θάρρος· εσύ ζεις, αλλά η ψυχή μου από καιρό"^^xsd:string ;
     :relatedTo :Line_559 .
 
-:TV_Line_560_gr a :TranslationVariant ;
+:TV_Line_560_GR a :TranslationVariant ;
     :text "έχει πεθάνει, ώστε να ωφελεί τους νεκρούς."^^xsd:string ;
     :relatedTo :Line_560 .
 
-:TV_Line_561_gr a :TranslationVariant ;
+:TV_Line_561_GR a :TranslationVariant ;
     :text "Λέω πως από τα δυο αυτά παιδιά, η μια μόλις τώρα"^^xsd:string ;
     :relatedTo :Line_561 .
 
-:TV_Line_562_gr a :TranslationVariant ;
+:TV_Line_562_GR a :TranslationVariant ;
     :text "φάνηκε άμυαλη, η άλλη από τότε που γεννήθηκε."^^xsd:string ;
     :relatedTo :Line_562 .

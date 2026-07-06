@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:episode01-semantics a owl:Ontology .
+:episode_01-semantics a owl:Ontology .
 
 # ===========================================================================
 # SCENE INFORMATION
@@ -30,8 +30,7 @@
             :Speech_Creon_244,
             :Speech_Guard_245_247,
             :Speech_Creon_248,
-            :Speech_Guard_249_252,
-            :Speech_Guard_253_277,
+            :Speech_Guard_249_277,
             :Speech_Chorus_278_279,
             :Speech_Creon_280_301,
             :Speech_Creon_302_314,
@@ -176,7 +175,13 @@
              :Event_ChanceDecides,
              :Event_GuardNotSeenAgain,
              :Emotion_Creon_Irritation,
-             :Emotion_Guard_Frustration .
+             :Emotion_Guard_Frustration ;
+  :hasCharacter   :Antigone_Character_Chorus, 
+                  :Antigone_Character_Creon,
+                  :Antigone_Character_Guard,
+                  :Antigone_Character_Eteocles,
+                  :Antigone_Character_Polyneices .
+
 
 
 # ===========================================================================

@@ -4,57 +4,57 @@
 
 :episode_02-translations-536-562-chinese a owl:Ontology .
 
-:TV_Line_536_zh a :TranslationVariant ; :relatedTo :Line_536 ;
+:TV_Line_536_ZH a :TranslationVariant ; :relatedTo :Line_536 ;
   :text "这事是我做的，即便她也同意我。"^^xsd:string .
-:TV_Line_537_zh a :TranslationVariant ; :relatedTo :Line_537 ;
+:TV_Line_537_ZH a :TranslationVariant ; :relatedTo :Line_537 ;
   :text "她也愿意参与，并分担这项指控。"^^xsd:string .
-:TV_Line_538_zh a :TranslationVariant ; :relatedTo :Line_538 ;
+:TV_Line_538_ZH a :TranslationVariant ; :relatedTo :Line_538 ;
   :text "但正义不允许你这样说，因为"^^xsd:string .
-:TV_Line_539_zh a :TranslationVariant ; :relatedTo :Line_539 ;
+:TV_Line_539_ZH a :TranslationVariant ; :relatedTo :Line_539 ;
   :text "你既不曾愿意，我也不曾让你参与。"^^xsd:string .
-:TV_Line_540_zh a :TranslationVariant ; :relatedTo :Line_540 ;
+:TV_Line_540_ZH a :TranslationVariant ; :relatedTo :Line_540 ;
   :text "但在你的灾祸里，我并不羞于"^^xsd:string .
-:TV_Line_541_zh a :TranslationVariant ; :relatedTo :Line_541 ;
+:TV_Line_541_ZH a :TranslationVariant ; :relatedTo :Line_541 ;
   :text "让自己成为你苦难的同伴。"^^xsd:string .
-:TV_Line_542_zh a :TranslationVariant ; :relatedTo :Line_542 ;
+:TV_Line_542_ZH a :TranslationVariant ; :relatedTo :Line_542 ;
   :text "是谁做了这事，哈得斯与地下诸神都知道；"^^xsd:string .
-:TV_Line_543_zh a :TranslationVariant ; :relatedTo :Line_543 ;
+:TV_Line_543_ZH a :TranslationVariant ; :relatedTo :Line_543 ;
   :text "可我不接受只在口头上的爱，若朋友不以行动去爱。"^^xsd:string .
-:TV_Line_544_zh a :TranslationVariant ; :relatedTo :Line_544 ;
+:TV_Line_544_ZH a :TranslationVariant ; :relatedTo :Line_544 ;
   :text "别羞辱我，姐姐，不要拒绝让我"^^xsd:string .
-:TV_Line_545_zh a :TranslationVariant ; :relatedTo :Line_545 ;
+:TV_Line_545_ZH a :TranslationVariant ; :relatedTo :Line_545 ;
   :text "与你同死，并为死者尽礼。"^^xsd:string .
-:TV_Line_546_zh a :TranslationVariant ; :relatedTo :Line_546 ;
+:TV_Line_546_ZH a :TranslationVariant ; :relatedTo :Line_546 ;
   :text "不要分担我的死，也别把"^^xsd:string .
-:TV_Line_547_zh a :TranslationVariant ; :relatedTo :Line_547 ;
+:TV_Line_547_ZH a :TranslationVariant ; :relatedTo :Line_547 ;
   :text "你未曾触及的事算作你的；我一人去死就够了。"^^xsd:string .
-:TV_Line_548_zh a :TranslationVariant ; :relatedTo :Line_548 ;
+:TV_Line_548_ZH a :TranslationVariant ; :relatedTo :Line_548 ;
   :text "若没有你，我还有什么生命值得留恋？"^^xsd:string .
-:TV_Line_549_zh a :TranslationVariant ; :relatedTo :Line_549 ;
+:TV_Line_549_ZH a :TranslationVariant ; :relatedTo :Line_549 ;
   :text "去问克瑞翁吧；你只在乎他。"^^xsd:string .
-:TV_Line_550_zh a :TranslationVariant ; :relatedTo :Line_550 ;
+:TV_Line_550_ZH a :TranslationVariant ; :relatedTo :Line_550 ;
   :text "你为何用这些话刺痛我，却毫无益处？"^^xsd:string .
-:TV_Line_551_zh a :TranslationVariant ; :relatedTo :Line_551 ;
+:TV_Line_551_ZH a :TranslationVariant ; :relatedTo :Line_551 ;
   :text "若我在笑，那也是为你而痛着笑。"^^xsd:string .
-:TV_Line_552_zh a :TranslationVariant ; :relatedTo :Line_552 ;
+:TV_Line_552_ZH a :TranslationVariant ; :relatedTo :Line_552 ;
   :text "那我现在还能怎样帮助你？"^^xsd:string .
-:TV_Line_553_zh a :TranslationVariant ; :relatedTo :Line_553 ;
+:TV_Line_553_ZH a :TranslationVariant ; :relatedTo :Line_553 ;
   :text "救你自己吧；我不嫉妒你逃脱。"^^xsd:string .
-:TV_Line_554_zh a :TranslationVariant ; :relatedTo :Line_554 ;
+:TV_Line_554_ZH a :TranslationVariant ; :relatedTo :Line_554 ;
   :text "哀哉我这苦命人，难道我也要失去你的命运吗？"^^xsd:string .
-:TV_Line_555_zh a :TranslationVariant ; :relatedTo :Line_555 ;
+:TV_Line_555_ZH a :TranslationVariant ; :relatedTo :Line_555 ;
   :text "你选择活下去，而我选择去死。"^^xsd:string .
-:TV_Line_556_zh a :TranslationVariant ; :relatedTo :Line_556 ;
+:TV_Line_556_ZH a :TranslationVariant ; :relatedTo :Line_556 ;
   :text "但我并非没有说出我该说的话。"^^xsd:string .
-:TV_Line_557_zh a :TranslationVariant ; :relatedTo :Line_557 ;
+:TV_Line_557_ZH a :TranslationVariant ; :relatedTo :Line_557 ;
   :text "在一些人看来你明智，在另一些人看来我明智。"^^xsd:string .
-:TV_Line_558_zh a :TranslationVariant ; :relatedTo :Line_558 ;
+:TV_Line_558_ZH a :TranslationVariant ; :relatedTo :Line_558 ;
   :text "然而我们两人的过错同样大。"^^xsd:string .
-:TV_Line_559_zh a :TranslationVariant ; :relatedTo :Line_559 ;
+:TV_Line_559_ZH a :TranslationVariant ; :relatedTo :Line_559 ;
   :text "振作吧；你活着，而我的灵魂早已"^^xsd:string .
-:TV_Line_560_zh a :TranslationVariant ; :relatedTo :Line_560 ;
+:TV_Line_560_ZH a :TranslationVariant ; :relatedTo :Line_560 ;
   :text "死去，只为能帮助死者。"^^xsd:string .
-:TV_Line_561_zh a :TranslationVariant ; :relatedTo :Line_561 ;
+:TV_Line_561_ZH a :TranslationVariant ; :relatedTo :Line_561 ;
   :text "我说这两个孩子里，一个只是如今才"^^xsd:string .
-:TV_Line_562_zh a :TranslationVariant ; :relatedTo :Line_562 ;
+:TV_Line_562_ZH a :TranslationVariant ; :relatedTo :Line_562 ;
   :text "显得愚昧，另一个则从出生起就是如此。"^^xsd:string .

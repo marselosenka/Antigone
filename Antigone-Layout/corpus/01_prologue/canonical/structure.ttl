@@ -41,7 +41,7 @@
         :Speech_Antigone_93_97,
         :Speech_Ismene_98_99 ;
     :developsTheme :Theme_BurialRites, :Theme_StateEdict, :Theme_FamilyDuty, :Theme_PunishmentThreat ;
-    :hasCharacter :Antigone_Character_Antigone, :Antigone_Character_Ismene ;
+    :hasCharacter :Antigone_Character_Antigone, :Antigone_Character_Ismene, :Antigone_Character_Brother ;
     :hasConflict :Conflict_BurialRitesVsCreonEdict .
 
 

@@ -6,86 +6,86 @@
 :prologue-translations-42-62-english a owl:Ontology .
 # English translation variants extracted from 42_to_62.ttl
 
-:TV_Line_042_en a :TranslationVariant ;
+:TV_Line_042_EN a :TranslationVariant ;
 :text "What danger is this? What are you thinking?"^^xsd:string ;
 :relatedTo :Line_042 .
 
-:TV_Line_043_en a :TranslationVariant ;
+:TV_Line_043_EN a :TranslationVariant ;
 :text "Will you help this hand lift the corpse?"^^xsd:string ;
 :relatedTo :Line_043 .
 
-:TV_Line_044_en a :TranslationVariant ;
+:TV_Line_044_EN a :TranslationVariant ;
 :text "Do you really mean to bury him, though the city forbids it?"^^xsd:string ;
 :relatedTo :Line_044 .
 
-:TV_Line_045_en a :TranslationVariant ;
+:TV_Line_045_EN a :TranslationVariant ;
 :text "At least my brother—and yours too, if you will not—"^^xsd:string ;
 :relatedTo :Line_045 .
 
-:TV_Line_046_en a :TranslationVariant ;
+:TV_Line_046_EN a :TranslationVariant ;
 :text "I will not be caught betraying my brother."^^xsd:string ;
 :relatedTo :Line_046 .
 
-:TV_Line_047_en a :TranslationVariant ;
+:TV_Line_047_EN a :TranslationVariant ;
 :text "You reckless girl! When Creon has forbidden it?"^^xsd:string ;
 :relatedTo :Line_047 .
 
-:TV_Line_048_en a :TranslationVariant ;
+:TV_Line_048_EN a :TranslationVariant ;
 :text "He has no right to keep me from my own."^^xsd:string ;
 :relatedTo :Line_048 .
 
-:TV_Line_049_en a :TranslationVariant ;
+:TV_Line_049_EN a :TranslationVariant ;
 :text "Ah me—remember, sister,"^^xsd:string ;
 :relatedTo :Line_049 .
 
-:TV_Line_050_en a :TranslationVariant ;
+:TV_Line_050_EN a :TranslationVariant ;
 :text "How our father died, hated and in disgrace."^^xsd:string ;
 :relatedTo :Line_050 .
 
-:TV_Line_051_en a :TranslationVariant ;
+:TV_Line_051_EN a :TranslationVariant ;
 :text "When he discovered the sins of his past,"^^xsd:string ;
 :relatedTo :Line_051 .
 
-:TV_Line_052_en a :TranslationVariant ;
+:TV_Line_052_EN a :TranslationVariant ;
 :text "He struck out his eyes with his own hand."^^xsd:string ;
 :relatedTo :Line_052 .
 
-:TV_Line_053_en a :TranslationVariant ;
+:TV_Line_053_EN a :TranslationVariant ;
 :text "Then his mother—and wife, a double name—"^^xsd:string ;
 :relatedTo :Line_053 .
 
-:TV_Line_054_en a :TranslationVariant ;
+:TV_Line_054_EN a :TranslationVariant ;
 :text "Destroyed her life with a woven noose."^^xsd:string ;
 :relatedTo :Line_054 .
 
-:TV_Line_055_en a :TranslationVariant ;
+:TV_Line_055_EN a :TranslationVariant ;
 :text "And third, our two brothers on a single day"^^xsd:string ;
 :relatedTo :Line_055 .
 
-:TV_Line_056_en a :TranslationVariant ;
+:TV_Line_056_EN a :TranslationVariant ;
 :text "Brought about their miserable fate,"^^xsd:string ;
 :relatedTo :Line_056 .
 
-:TV_Line_057_en a :TranslationVariant ;
+:TV_Line_057_EN a :TranslationVariant ;
 :text "Working out their common death by each other’s hands."^^xsd:string ;
 :relatedTo :Line_057 .
 
-:TV_Line_058_en a :TranslationVariant ;
+:TV_Line_058_EN a :TranslationVariant ;
 :text "And now we two are left alone—consider well"^^xsd:string ;
 :relatedTo :Line_058 .
 
-:TV_Line_059_en a :TranslationVariant ;
+:TV_Line_059_EN a :TranslationVariant ;
 :text "How terribly we shall perish if by force of law"^^xsd:string ;
 :relatedTo :Line_059 .
 
-:TV_Line_060_en a :TranslationVariant ;
+:TV_Line_060_EN a :TranslationVariant ;
 :text "We break the tyrant’s decree or his authority."^^xsd:string ;
 :relatedTo :Line_060 .
 
-:TV_Line_061_en a :TranslationVariant ;
+:TV_Line_061_EN a :TranslationVariant ;
 :text "We must remember first that we are women,"^^xsd:string ;
 :relatedTo :Line_061 .
 
-:TV_Line_062_en a :TranslationVariant ;
+:TV_Line_062_EN a :TranslationVariant ;
 :text "Not made to fight against men."^^xsd:string ;
 :relatedTo :Line_062 .

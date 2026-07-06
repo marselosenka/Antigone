@@ -4,111 +4,111 @@
 
 :prologue-translations-63-89-chinese a owl:Ontology .
 
-:TV_Line_063_zh a :TranslationVariant ;
+:TV_Line_063_ZH a :TranslationVariant ;
     :text "再者我们受更强者统治，"^^xsd:string ;
     :relatedTo :Line_063 .
 
-:TV_Line_064_zh a :TranslationVariant ;
+:TV_Line_064_ZH a :TranslationVariant ;
     :text "必须听从这些，甚至更痛苦的命令。"^^xsd:string ;
     :relatedTo :Line_064 .
 
-:TV_Line_065_zh a :TranslationVariant ;
+:TV_Line_065_ZH a :TranslationVariant ;
     :text "所以我会祈求地下诸神"^^xsd:string ;
     :relatedTo :Line_065 .
 
-:TV_Line_066_zh a :TranslationVariant ;
+:TV_Line_066_ZH a :TranslationVariant ;
     :text "体谅我这样做是被迫，"^^xsd:string ;
     :relatedTo :Line_066 .
 
-:TV_Line_067_zh a :TranslationVariant ;
+:TV_Line_067_ZH a :TranslationVariant ;
     :text "并服从掌权者；因为"^^xsd:string ;
     :relatedTo :Line_067 .
 
-:TV_Line_068_zh a :TranslationVariant ;
+:TV_Line_068_ZH a :TranslationVariant ;
     :text "去做不可能之事，毫无理智可言。"^^xsd:string ;
     :relatedTo :Line_068 .
 
-:TV_Line_069_zh a :TranslationVariant ;
+:TV_Line_069_ZH a :TranslationVariant ;
     :text "我既不会劝你，也即使你仍想做，"^^xsd:string ;
     :relatedTo :Line_069 .
 
-:TV_Line_070_zh a :TranslationVariant ;
+:TV_Line_070_ZH a :TranslationVariant ;
     :text "我也不会乐意与你同做。"^^xsd:string ;
     :relatedTo :Line_070 .
 
-:TV_Line_071_zh a :TranslationVariant ;
+:TV_Line_071_ZH a :TranslationVariant ;
     :text "那你随你吧；至于他，我"^^xsd:string ;
     :relatedTo :Line_071 .
 
-:TV_Line_072_zh a :TranslationVariant ;
+:TV_Line_072_ZH a :TranslationVariant ;
     :text "要去埋葬。为此而死，对我也美好。"^^xsd:string ;
     :relatedTo :Line_072 .
 
-:TV_Line_073_zh a :TranslationVariant ;
+:TV_Line_073_ZH a :TranslationVariant ;
     :text "我将与所爱者同卧，与所爱者在一起，"^^xsd:string ;
     :relatedTo :Line_073 .
 
-:TV_Line_074_zh a :TranslationVariant ;
+:TV_Line_074_ZH a :TranslationVariant ;
     :text "我将以虔敬行这“罪行”；因为我"^^xsd:string ;
     :relatedTo :Line_074 .
 
-:TV_Line_075_zh a :TranslationVariant ;
+:TV_Line_075_ZH a :TranslationVariant ;
     :text "应该取悦地下者的时间"^^xsd:string ;
     :relatedTo :Line_075 .
 
-:TV_Line_076_zh a :TranslationVariant ;
+:TV_Line_076_ZH a :TranslationVariant ;
     :text "比在世上的时间更长。"^^xsd:string ;
     :relatedTo :Line_076 .
 
-:TV_Line_077_zh a :TranslationVariant ;
+:TV_Line_077_ZH a :TranslationVariant ;
     :text "我将在那里永远躺着；至于你，若你愿意，"^^xsd:string ;
     :relatedTo :Line_077 .
 
-:TV_Line_078_zh a :TranslationVariant ;
+:TV_Line_078_ZH a :TranslationVariant ;
     :text "就去轻蔑神所尊重之物吧。"^^xsd:string ;
     :relatedTo :Line_078 .
 
-:TV_Line_079_zh a :TranslationVariant ;
+:TV_Line_079_ZH a :TranslationVariant ;
     :text "我并不轻蔑神圣；只是"^^xsd:string ;
     :relatedTo :Line_079 .
 
-:TV_Line_080_zh a :TranslationVariant ;
+:TV_Line_080_ZH a :TranslationVariant ;
     :text "你尽可夸耀这些；而我此刻要去"^^xsd:string ;
     :relatedTo :Line_080 .
 
-:TV_Line_081_zh a :TranslationVariant ;
+:TV_Line_081_ZH a :TranslationVariant ;
     :text "为我最亲爱的兄弟覆土下葬。"^^xsd:string ;
     :relatedTo :Line_081 .
 
-:TV_Line_082_zh a :TranslationVariant ;
+:TV_Line_082_ZH a :TranslationVariant ;
     :text "唉，可怜的我，我多么担心你。"^^xsd:string ;
     :relatedTo :Line_082 .
 
-:TV_Line_083_zh a :TranslationVariant ;
+:TV_Line_083_ZH a :TranslationVariant ;
     :text "别替我害怕；去把你的命运扶正吧。"^^xsd:string ;
     :relatedTo :Line_083 .
 
-:TV_Line_084_zh a :TranslationVariant ;
+:TV_Line_084_ZH a :TranslationVariant ;
     :text "至少这件事别告诉任何人，"^^xsd:string ;
     :relatedTo :Line_084 .
 
-:TV_Line_085_zh a :TranslationVariant ;
+:TV_Line_085_ZH a :TranslationVariant ;
     :text "要保密；我也一样会保密。"^^xsd:string ;
     :relatedTo :Line_085 .
 
-:TV_Line_086_zh a :TranslationVariant ;
+:TV_Line_086_ZH a :TranslationVariant ;
     :text "唉，快去宣扬吧；若你不向众人公布，"^^xsd:string ;
     :relatedTo :Line_086 .
 
-:TV_Line_087_zh a :TranslationVariant ;
+:TV_Line_087_ZH a :TranslationVariant ;
     :text "你沉默反倒更令我厌恶。"^^xsd:string ;
     :relatedTo :Line_087 .
 
-:TV_Line_088_zh a :TranslationVariant ;
+:TV_Line_088_ZH a :TranslationVariant ;
     :text "你有一颗炽热的心，却面对寒冷的事。"^^xsd:string ;
     :relatedTo :Line_088 .
 
-:TV_Line_089_zh a :TranslationVariant ;
+:TV_Line_089_ZH a :TranslationVariant ;
     :text "但我知道我正取悦那些我最该取悦的人。"^^xsd:string ;
     :relatedTo :Line_089 .
 

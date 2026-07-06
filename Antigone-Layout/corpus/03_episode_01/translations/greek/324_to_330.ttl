@@ -4,30 +4,30 @@
 
 :episode_01-translations-324-330-greek a owl:Ontology .
 
-:TV_Line_324_gr a :TranslationVariant ;
+:TV_Line_324_GR a :TranslationVariant ;
     :text "Κάνε τώρα τον έξυπνο· αν όμως δεν"^^xsd:string ;
     :relatedTo :Line_324 .
 
-:TV_Line_325_gr a :TranslationVariant ;
+:TV_Line_325_GR a :TranslationVariant ;
     :text "μου φανερώσετε αυτούς που το έκαναν, θα πείτε"^^xsd:string ;
     :relatedTo :Line_325 .
 
-:TV_Line_326_gr a :TranslationVariant ;
+:TV_Line_326_GR a :TranslationVariant ;
     :text "ότι τα αισχρά κέρδη γεννούν συμφορές."^^xsd:string ;
     :relatedTo :Line_326 .
 
-:TV_Line_327_gr a :TranslationVariant ;
+:TV_Line_327_GR a :TranslationVariant ;
     :text "Μακάρι βέβαια να βρεθεί· κι αν όμως"^^xsd:string ;
     :relatedTo :Line_327 .
 
-:TV_Line_328_gr a :TranslationVariant ;
+:TV_Line_328_GR a :TranslationVariant ;
     :text "πιαστεί ή όχι, αυτό θα το κρίνει η τύχη,"^^xsd:string ;
     :relatedTo :Line_328 .
 
-:TV_Line_329_gr a :TranslationVariant ;
+:TV_Line_329_GR a :TranslationVariant ;
     :text "δεν υπάρχει περίπτωση να με ξαναδείς να έρχομαι εδώ."^^xsd:string ;
     :relatedTo :Line_329 .
 
-:TV_Line_330_gr a :TranslationVariant ;
+:TV_Line_330_GR a :TranslationVariant ;
     :text "Γιατί και τώρα, έξω από κάθε ελπίδα και σκέψη μου, έχω σωθεί."^^xsd:string ;
     :relatedTo :Line_330 .

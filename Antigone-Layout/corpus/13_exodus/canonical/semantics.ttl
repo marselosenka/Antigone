@@ -2,6 +2,8 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+:exodus-semantics a owl:Ontology .
+
 # ===============================================================================================
 # SCENE INFORMATION
 # ===============================================================================================
@@ -14,7 +16,7 @@
         :Speech_Messenger_1155_1171,
         :Speech_Chorus_1172_1182,
         :Speech_Eurydice_1183_1191,
-        :Speech_Messenger_1192_1218l,
+        :Speech_Messenger_1192_1218,
         :Speech_Messenger_1219_1243,
         :Speech_Chorus_1244_1245,
         :Speech_Messenger_1246_1250,
@@ -42,7 +44,7 @@
         :Speech_Creon_1336,
         :Speech_Chorus_1337_1338,
         :Speech_Creon_1339_1346,
-        :Speech_Chorus_1347_1352 ;
+        :Speech_Chorus_1347_1353 ;
     :developsTheme 
         :Theme_FateInstability,
         :Theme_PowerWorthlessness,
@@ -54,7 +56,7 @@
         :Conflict_HaemonVsCreon,
         :Conflict_FortuneVsProphecy,
         :Conflict_ArroganceVsWisdom ;
-    :hasCharacter 
+    :involvesCharacter 
         :Antigone_Character_Messenger,
         :Antigone_Character_Creon,
         :Antigone_Character_Eurydice,
@@ -271,10 +273,10 @@
     :speechBy :Antigone_Character_Creon ;
     :containsLine :Line_1339, :Line_1340, :Line_1341, :Line_1342, :Line_1345, :Line_1346 .
 
-:Speech_Chorus_1347_1352
+:Speech_Chorus_1347_1353
     a :Speech ;
     :speechBy :Antigone_Character_Chorus ;
-    :containsLine :Line_1347, :Line_1348, :Line_1350, :Line_1351, :Line_1352 .
+    :containsLine :Line_1347, :Line_1348, :Line_1350, :Line_1351, :Line_1352, :Line_1353 .
 
 
 # ==========================

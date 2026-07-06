@@ -5,78 +5,78 @@
 :episode_02-translations-563-581-english a owl:Ontology .
 # English translation variants extracted from 563_to_581.ttl
 
-:TV_Line_563_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_563_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_563 ;
   :text "For never, my lord, does the reason that is born with us remain"^^xsd:string .
 
-:TV_Line_564_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_564_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_564 ;
   :text "for those who fare ill, but it departs."^^xsd:string .
 
-:TV_Line_565_En a :TranslationVariant ;
+:TV_Line_565_EN a :TranslationVariant ;
     :text "The same happened to you, when you chose amid evils to commit evil deeds."^^xsd:string ;
     :relatedTo :Line_565 .
 
-:TV_Line_566_En a :TranslationVariant ;
+:TV_Line_566_EN a :TranslationVariant ;
     :text "For what life do I have, if she is gone?"^^xsd:string ;
     :relatedTo :Line_566 .
 
-:TV_Line_567_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_567_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_567 ;
   :text "But as for 'this woman,' speak not; for she exists no longer."^^xsd:string .
 
-:TV_Line_568_En a :TranslationVariant ;
+:TV_Line_568_EN a :TranslationVariant ;
     :text "Will you then put to death the bride of your own son?"^^xsd:string ;
     :relatedTo :Line_568 .
 
-:TV_Line_569_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_569_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_569 ;
   :text "For there are other fields for him to plow."^^xsd:string .
 
-:TV_Line_570_En a :TranslationVariant ;
+:TV_Line_570_EN a :TranslationVariant ;
     :text "But none so well matched to him as this one."^^xsd:string ;
     :relatedTo :Line_570 .
 
-:TV_Line_571_En a :TranslationVariant ;
+:TV_Line_571_EN a :TranslationVariant ;
     :text "I hate evil women for my sons."^^xsd:string ;
     :relatedTo :Line_571 .
 
-:TV_Line_572_En a :TranslationVariant ;
+:TV_Line_572_EN a :TranslationVariant ;
     :text "My beloved Haemon, how your father dishonors you."^^xsd:string ;
     :relatedTo :Line_572 .
 
-:TV_Line_573_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_573_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_573 ;
   :text "You and your marriage-talk are an excessive grief to me."^^xsd:string .
 
-:TV_Line_574_En a :TranslationVariant ;
+:TV_Line_574_EN a :TranslationVariant ;
     :text "Will you then deprive your son of her?"^^xsd:string ;
     :relatedTo :Line_574 .
 
-:TV_Line_575_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_575_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_575 ;
   :text "It is Hades who shall put a stop to these marriages."^^xsd:string .
 
-:TV_Line_576_En a :TranslationVariant ;
+:TV_Line_576_EN a :TranslationVariant ;
     :text "It is decided, it seems, that she must die."^^xsd:string ;
     :relatedTo :Line_576 .
     
-:TV_Line_577_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_577_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_577 ;
   :text "To you and to me. No more delays! But now,"^^xsd:string .
 
-:TV_Line_578_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_578_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_578 ;
   :text "servants, take them inside; from this time forth"^^xsd:string .
 
-:TV_Line_579_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_579_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_579 ;
   :text "these women must be kept bound and not left free."^^xsd:string .
 
-:TV_Line_580_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_580_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_580 ;
   :text "For even the brave flee, whenever they see"^^xsd:string .
 
-:TV_Line_581_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_581_EN a owl:NamedIndividual, :TranslationVariant ;
   :relatedTo :Line_581 ;
   :text "Hades already standing close to their life."^^xsd:string .

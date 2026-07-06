@@ -6,23 +6,23 @@
 :episode_01-translations-324-330-english a owl:Ontology .
 # English translation variants extracted from 324_to_330.ttl
 
-:TV_Line_324_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_324 ;
+:TV_Line_324_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_324 ;
   :text "CREON. Grumble over this then: if you can’t track down"^^xsd:string .
 
-:TV_Line_325_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_325 ;
+:TV_Line_325_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_325 ;
   :text "The criminal who’s done this, you’ll find that 325"^^xsd:string .
 
-:TV_Line_326_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_326 ;
+:TV_Line_326_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_326 ;
   :text "Your ill-gotten gains bring you only misery."^^xsd:string .
 
-:TV_Line_327_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_327 ;
+:TV_Line_327_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_327 ;
   :text "GUARD. O ye gods, may this outlaw be found! Yet it is all one, whether he"^^xsd:string .
 
-:TV_Line_328_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_328 ;
+:TV_Line_328_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_328 ;
   :text "Be caught or be he not—as such is solely in fate’s domain—"^^xsd:string .
 
-:TV_Line_329_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_329 ;
+:TV_Line_329_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_329 ;
   :text "Surely, I shall not be seen here again! O ye gods,"^^xsd:string .
 
-:TV_Line_330_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_330 ;
+:TV_Line_330_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_330 ;
   :text "For now, beyond my hope and contrary to my expectation,"^^xsd:string .

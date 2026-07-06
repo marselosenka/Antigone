@@ -4,55 +4,55 @@
 
 :stasimon_01-translations-366-383-chinese a owl:Ontology .
 
-:TV_Line_366_zh a :TranslationVariant ;
+:TV_Line_366_ZH a :TranslationVariant ;
     :text "有时趋向恶，有时趋向善，"^^xsd:string ;
     :relatedTo :Line_366 .
 
-:TV_Line_367_zh a :TranslationVariant ;
+:TV_Line_367_ZH a :TranslationVariant ;
     :text "只要他遵守大地之法与向神所誓之正义，"^^xsd:string ;
     :relatedTo :Line_367 .
 
-:TV_Line_370_zh a :TranslationVariant ;
+:TV_Line_370_ZH a :TranslationVariant ;
     :text "他便高居城中；若卑劣因其胆妄而与他同住，"^^xsd:string ;
     :relatedTo :Line_370 .
 
-:TV_Line_371_zh a :TranslationVariant ;
+:TV_Line_371_ZH a :TranslationVariant ;
     :text "他便无城可归。愿此人永不与我同炉，"^^xsd:string ;
     :relatedTo :Line_371 .
 
-:TV_Line_375_zh a :TranslationVariant ;
+:TV_Line_375_ZH a :TranslationVariant ;
     :text "也不与我同心，凡行此事者。"^^xsd:string ;
     :relatedTo :Line_375 .
 
-:TV_Line_376_zh a :TranslationVariant ;
+:TV_Line_376_ZH a :TranslationVariant ;
     :text "合唱队：面对这神异之兆，我心生疑惑，"^^xsd:string ;
     :relatedTo :Line_376 .
 
-:TV_Line_377_zh a :TranslationVariant ;
+:TV_Line_377_ZH a :TranslationVariant ;
     :text "这——我既知真相，又如何能否认"^^xsd:string ;
     :relatedTo :Line_377 .
 
-:TV_Line_378_zh a :TranslationVariant ;
+:TV_Line_378_ZH a :TranslationVariant ;
     :text "这少女正是安提戈涅？"^^xsd:string ;
     :relatedTo :Line_378 .
 
-:TV_Line_379_zh a :TranslationVariant ;
+:TV_Line_379_ZH a :TranslationVariant ;
     :text "啊，不幸之女，"^^xsd:string ;
     :relatedTo :Line_379 .
 
-:TV_Line_380_zh a :TranslationVariant ;
+:TV_Line_380_ZH a :TranslationVariant ;
     :text "不幸的父亲俄狄浦斯之女，"^^xsd:string ;
     :relatedTo :Line_380 .
 
-:TV_Line_381_zh a :TranslationVariant ;
+:TV_Line_381_ZH a :TranslationVariant ;
     :text "这是怎么回事？难道他们抓你走，真是因你违抗"^^xsd:string ;
     :relatedTo :Line_381 .
 
-:TV_Line_382_zh a :TranslationVariant ;
+:TV_Line_382_ZH a :TranslationVariant ;
     :text "王命之法，"^^xsd:string ;
     :relatedTo :Line_382 .
 
-:TV_Line_383_zh a :TranslationVariant ;
+:TV_Line_383_ZH a :TranslationVariant ;
     :text "并在愚行中被当场捉住？"^^xsd:string ;
     :relatedTo :Line_383 .
 

@@ -4,12 +4,12 @@
 
 :episode_03-translations-773-780-chinese a owl:Ontology .
 
-:TV_Line_773_zh a :TranslationVariant ; :relatedTo :Line_773 ; :text "我会把她带到一条荒僻小路上，"^^xsd:string .
-:TV_Line_774_zh a :TranslationVariant ; :relatedTo :Line_774 ; :text "再把她封进那里的岩洞中，"^^xsd:string .
-:TV_Line_775_zh a :TranslationVariant ; :relatedTo :Line_775 ; :text "只留下维持最低限度所需的食物，"^^xsd:string .
-:TV_Line_776_zh a :TranslationVariant ; :relatedTo :Line_776 ; :text "好叫全城免受“谋杀”之名。"^^xsd:string .
-:TV_Line_777_zh a :TranslationVariant ; :relatedTo :Line_777 ; :text "到那洞里，她可以去求哈得斯"^^xsd:string .
-:TV_Line_778_zh a :TranslationVariant ; :relatedTo :Line_778 ; :text "别让她死（因为她只敬这一位神），"^^xsd:string .
-:TV_Line_779_zh a :TranslationVariant ; :relatedTo :Line_779 ; :text "不然她总会明白，"^^xsd:string .
-:TV_Line_780_zh a :TranslationVariant ; :relatedTo :Line_780 ; :text "过度崇奉死亡之神，只会带来无谓痛苦。"^^xsd:string .
+:TV_Line_773_ZH a :TranslationVariant ; :relatedTo :Line_773 ; :text "我会把她带到一条荒僻小路上，"^^xsd:string .
+:TV_Line_774_ZH a :TranslationVariant ; :relatedTo :Line_774 ; :text "再把她封进那里的岩洞中，"^^xsd:string .
+:TV_Line_775_ZH a :TranslationVariant ; :relatedTo :Line_775 ; :text "只留下维持最低限度所需的食物，"^^xsd:string .
+:TV_Line_776_ZH a :TranslationVariant ; :relatedTo :Line_776 ; :text "好叫全城免受“谋杀”之名。"^^xsd:string .
+:TV_Line_777_ZH a :TranslationVariant ; :relatedTo :Line_777 ; :text "到那洞里，她可以去求哈得斯"^^xsd:string .
+:TV_Line_778_ZH a :TranslationVariant ; :relatedTo :Line_778 ; :text "别让她死（因为她只敬这一位神），"^^xsd:string .
+:TV_Line_779_ZH a :TranslationVariant ; :relatedTo :Line_779 ; :text "不然她总会明白，"^^xsd:string .
+:TV_Line_780_ZH a :TranslationVariant ; :relatedTo :Line_780 ; :text "过度崇奉死亡之神，只会带来无谓痛苦。"^^xsd:string .
 

@@ -21,14 +21,14 @@ WHERE {
     ?tvModern a :TranslationVariant ;
               :relatedTo ?line ;
               :text ?modernRaw .
-    FILTER(CONTAINS(STR(?tvModern), "_gr"))
+    FILTER(CONTAINS(STR(?tvModern), "_GR"))
   }
 
   OPTIONAL {
     ?tvEnglish a :TranslationVariant ;
                :relatedTo ?line ;
                :text ?englishRaw .
-    FILTER(CONTAINS(STR(?tvEnglish), "_en"))
+    FILTER(CONTAINS(STR(?tvEnglish), "_EN"))
   }
 }
 GROUP BY ?line ?n ?ancient

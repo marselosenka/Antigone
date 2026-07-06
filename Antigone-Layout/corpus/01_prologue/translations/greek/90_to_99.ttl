@@ -4,42 +4,42 @@
 
 :prologue-translations-90-99-greek a owl:Ontology .
 
-:TV_Line_090_gr a :TranslationVariant ;
+:TV_Line_090_GR a :TranslationVariant ;
     :text "Κι αν ακόμη τα καταφέρεις· όμως αγαπάς τα αδύνατα."^^xsd:string ;
     :relatedTo :Line_090 .
 
-:TV_Line_091_gr a :TranslationVariant ;
+:TV_Line_091_GR a :TranslationVariant ;
     :text "Λοιπόν, όταν πια δεν έχω δύναμη, θα σταματήσω."^^xsd:string ;
     :relatedTo :Line_091 .
 
-:TV_Line_092_gr a :TranslationVariant ;
+:TV_Line_092_GR a :TranslationVariant ;
     :text "Αλλά να αρχίζει κανείς να κυνηγά τα αδύνατα δεν ταιριάζει."^^xsd:string ;
     :relatedTo :Line_092 .
 
-:TV_Line_093_gr a :TranslationVariant ;
+:TV_Line_093_GR a :TranslationVariant ;
     :text "Αν τα λες αυτά, θα γίνεις μισητή από εμένα,"^^xsd:string ;
     :relatedTo :Line_093 .
 
-:TV_Line_094_gr a :TranslationVariant ;
+:TV_Line_094_GR a :TranslationVariant ;
     :text "και στον νεκρό θα σταθείς δίκαια μισητή."^^xsd:string ;
     :relatedTo :Line_094 .
 
-:TV_Line_095_gr a :TranslationVariant ;
+:TV_Line_095_GR a :TranslationVariant ;
     :text "Μα άσε εμένα και τη δική μου κακή απόφαση"^^xsd:string ;
     :relatedTo :Line_095 .
 
-:TV_Line_096_gr a :TranslationVariant ;
+:TV_Line_096_GR a :TranslationVariant ;
     :text "να πάθουμε αυτό το φοβερό· γιατί δεν θα πάθω τίποτε"^^xsd:string ;
     :relatedTo :Line_096 .
 
-:TV_Line_097_gr a :TranslationVariant ;
+:TV_Line_097_GR a :TranslationVariant ;
     :text "τόσο μεγάλο, ώστε να μη πεθάνω όμορφα και με τιμή."^^xsd:string ;
     :relatedTo :Line_097 .
 
-:TV_Line_098_gr a :TranslationVariant ;
+:TV_Line_098_GR a :TranslationVariant ;
     :text "Μα αν σου φαίνεται σωστό, πήγαινε· όμως να ξέρεις αυτό:"^^xsd:string ;
     :relatedTo :Line_098 .
 
-:TV_Line_099_gr a :TranslationVariant ;
+:TV_Line_099_GR a :TranslationVariant ;
     :text "πως πηγαίνεις ανόητα, μα για τους αγαπημένους σου είσαι δίκαια αγαπητή."^^xsd:string ;
     :relatedTo :Line_099 .

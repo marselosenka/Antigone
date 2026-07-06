@@ -4,90 +4,90 @@
 
 :prologue-translations-20-41-greek a owl:Ontology .
 
-:TV_Line_020_gr a :TranslationVariant ;
+:TV_Line_020_GR a :TranslationVariant ;
     :text "Τι συμβαίνει; Γιατί δείχνεις πως ζυμώνεις κάποιο σκοτεινό λόγο;"^^xsd:string ;
     :relatedTo :Line_020 .
 
-:TV_Line_021_gr a :TranslationVariant ;
+:TV_Line_021_GR a :TranslationVariant ;
     :text "Δεν είναι έτσι ότι ο Κρέων για τους δυο αδελφούς μας,"^^xsd:string ;
     :relatedTo :Line_021 .
 
-:TV_Line_022_gr a :TranslationVariant ;
+:TV_Line_022_GR a :TranslationVariant ;
     :text "τον έναν τον τίμησε, ενώ τον άλλον τον ατίμασε;"^^xsd:string ;
     :relatedTo :Line_022 .
 
-:TV_Line_023_gr a :TranslationVariant ;
+:TV_Line_023_GR a :TranslationVariant ;
     :text "Τον Ετεοκλή, όπως λένε, με δίκαιη κρίση"^^xsd:string ;
     :relatedTo :Line_023 .
 
-:TV_Line_024_gr a :TranslationVariant ;
+:TV_Line_024_GR a :TranslationVariant ;
     :text "και σύμφωνα με νόμο δίκαιο, κάτω από τη γη"^^xsd:string ;
     :relatedTo :Line_024 .
 
-:TV_Line_025_gr a :TranslationVariant ;
+:TV_Line_025_GR a :TranslationVariant ;
     :text "τον έκρυψε, τιμημένο ανάμεσα στους νεκρούς του κάτω κόσμου."^^xsd:string ;
     :relatedTo :Line_025 .
 
-:TV_Line_026_gr a :TranslationVariant ;
+:TV_Line_026_GR a :TranslationVariant ;
     :text "Του Πολυνείκη όμως το σώμα, που πέθανε άθλια,"^^xsd:string ;
     :relatedTo :Line_026 .
 
-:TV_Line_027_gr a :TranslationVariant ;
+:TV_Line_027_GR a :TranslationVariant ;
     :text "λένε πως κηρύχθηκε στους πολίτες να μην"^^xsd:string ;
     :relatedTo :Line_027 .
 
-:TV_Line_028_gr a :TranslationVariant ;
+:TV_Line_028_GR a :TranslationVariant ;
     :text "το σκεπάσει κανείς με τάφο, ούτε να τον θρηνήσει."^^xsd:string ;
     :relatedTo :Line_028 .
 
-:TV_Line_029_gr a :TranslationVariant ;
+:TV_Line_029_GR a :TranslationVariant ;
     :text "Να μείνει άκλαυτος, άταφος, γλυκός θησαυρός"^^xsd:string ;
     :relatedTo :Line_029 .
 
-:TV_Line_030_gr a :TranslationVariant ;
+:TV_Line_030_GR a :TranslationVariant ;
     :text "για τα όρνια, που τον κοιτούν για χάρη της τροφής τους."^^xsd:string ;
     :relatedTo :Line_030 .
 
-:TV_Line_031_gr a :TranslationVariant ;
+:TV_Line_031_GR a :TranslationVariant ;
     :text "Τέτοια λένε πως ο καλός Κρέων έχει κηρύξει για σένα"^^xsd:string ;
     :relatedTo :Line_031 .
 
-:TV_Line_032_gr a :TranslationVariant ;
+:TV_Line_032_GR a :TranslationVariant ;
     :text "και για μένα, ναι, το λέω, και για μένα την ίδια."^^xsd:string ;
     :relatedTo :Line_032 .
 
-:TV_Line_033_gr a :TranslationVariant ;
+:TV_Line_033_GR a :TranslationVariant ;
     :text "Και έρχεται εδώ, για όσους δεν το ξέρουν,"^^xsd:string ;
     :relatedTo :Line_033 .
 
-:TV_Line_034_gr a :TranslationVariant ;
+:TV_Line_034_GR a :TranslationVariant ;
     :text "να το διακηρύξει καθαρά, και να δείξει πως το πράγμα"^^xsd:string ;
     :relatedTo :Line_034 .
 
-:TV_Line_035_gr a :TranslationVariant ;
+:TV_Line_035_GR a :TranslationVariant ;
     :text "δεν είναι κάτι ασήμαντο, αλλά όποιος παραβεί κάτι από αυτά"^^xsd:string ;
     :relatedTo :Line_035 .
 
-:TV_Line_036_gr a :TranslationVariant ;
+:TV_Line_036_GR a :TranslationVariant ;
     :text "του ορίζεται θάνατος με δημόσιο λιθοβολισμό μέσα στην πόλη."^^xsd:string ;
     :relatedTo :Line_036 .
 
-:TV_Line_037_gr a :TranslationVariant ;
+:TV_Line_037_GR a :TranslationVariant ;
     :text "Έτσι έχουν αυτά για σένα, και σύντομα θα δείξεις"^^xsd:string ;
     :relatedTo :Line_037 .
 
-:TV_Line_038_gr a :TranslationVariant ;
+:TV_Line_038_GR a :TranslationVariant ;
     :text "αν γεννήθηκες ευγενής ή ανάξια των καλών προγόνων."^^xsd:string ;
     :relatedTo :Line_038 .
 
-:TV_Line_039_gr a :TranslationVariant ;
+:TV_Line_039_GR a :TranslationVariant ;
     :text "Και τι, δύστυχη, αν έτσι είναι τα πράγματα, εγώ"^^xsd:string ;
     :relatedTo :Line_039 .
 
-:TV_Line_040_gr a :TranslationVariant ;
+:TV_Line_040_GR a :TranslationVariant ;
     :text "αν λύσω ή αν δέσω, τι περισσότερο θα προσθέσω;"^^xsd:string ;
     :relatedTo :Line_040 .
 
-:TV_Line_041_gr a :TranslationVariant ;
+:TV_Line_041_GR a :TranslationVariant ;
     :text "Σκέψου αν θα κοπιάσεις μαζί μου και θα συνεργήσεις."^^xsd:string ;
     :relatedTo :Line_041 .

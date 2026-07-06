@@ -3,14 +3,14 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:stasimon02-semantics a owl:Ontology .
+:stasimon_02-semantics a owl:Ontology .
 
 # ====================================================================
 # SCENE INFORMATION
 # ====================================================================
 :Antigone_Scene_Stasimon_02
     a :Stasimon_02 ;
-    :hasSpeeches 
+    :hasSpeech 
         :Speech_Chorus_583_591, 
         :Speech_Chorus_592_602, 
         :Speech_Chorus_605_614, 
@@ -60,27 +60,27 @@
 ################################################################
 
 :Speech_Chorus_583_591 a :Speech ; 
-    :speechBy :Chorus ;
+    :speechBy ::Antigone_Character_Chorus  ;
     :containsLines: :Line_583, :Line_584, :Line_585, :Line_586, :Line_587, :Line_588, :Line_589, :Line_590, :Line_591 .
 
 :Speech_Chorus_592_602 a :Speech ; 
-    :speechBy :Chorus ;
+    :speechBy ::Antigone_Character_Chorus  ;
     :containsLines: :Line_592, :Line_593, :Line_594, :Line_595, :Line_596, :Line_597, :Line_598, :Line_599, :Line_600, :Line_601, :Line_602 .
 
 :Speech_Chorus_605_614 a :Speech ; 
-    :speechBy :Chorus ;
+    :speechBy ::Antigone_Character_Chorus  ;
     :containsLines: :Line_605, :Line_606, :Line_607, :Line_608, :Line_609, :Line_610, :Line_611, :Line_612, :Line_613, :Line_614 .
 
 :Speech_Chorus_615_623 a :Speech ; 
-    :speechBy :Chorus ;
+    :speechBy ::Antigone_Character_Chorus  ;
     :containsLines: :Line_615, :Line_616, :Line_617, :Line_618, :Line_619, :Line_620, :Line_621, :Line_622, :Line_623 .
 
 :Speech_Chorus_625 a :Speech ; 
-    :speechBy :Chorus ;
+    :speechBy ::Antigone_Character_Chorus  ;
     :containsLines: :Line_625 .
 
 :Speech_Chorus_626_630 a :Speech ; 
-    :speechBy :Chorus ;
+    :speechBy ::Antigone_Character_Chorus  ;
     :containsLines: :Line_626, :Line_627, :Line_628, :Line_630 .
 
 ################################################################

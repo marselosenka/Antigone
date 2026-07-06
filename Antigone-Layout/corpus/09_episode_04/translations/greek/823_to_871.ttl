@@ -4,150 +4,150 @@
 
 :episode_04-translations-823-871-greek a owl:Ontology .
 
-:TV_Line_823_gr a :TranslationVariant ;
+:TV_Line_823_GR a :TranslationVariant ;
     :text "Άκουσα πως πολύ θλιβερά χάθηκε η Φρυγία ξένη,"^^xsd:string ;
     :relatedTo :Line_823 .
 
-:TV_Line_825_gr a :TranslationVariant ;
+:TV_Line_825_GR a :TranslationVariant ;
     :text "η κόρη του Ταντάλου, κοντά στην κορυφή του Σιπύλου,"^^xsd:string ;
     :relatedTo :Line_825 .
 
-:TV_Line_826_gr a :TranslationVariant ;
+:TV_Line_826_GR a :TranslationVariant ;
     :text "που βλαστάρι πέτρινο, σαν κισσός, την υπέταξε."^^xsd:string ;
     :relatedTo :Line_826 .
 
-:TV_Line_827_gr a :TranslationVariant ;
+:TV_Line_827_GR a :TranslationVariant ;
     :text "όπως λένε οι άνθρωποι,"^^xsd:string ;
     :relatedTo :Line_827 .
 
 # Line 828 and 829 do not exist in Antigone.
 
-:TV_Line_830_gr a :TranslationVariant ;
+:TV_Line_830_GR a :TranslationVariant ;
     :text "και το χιόνι ποτέ δεν την αφήνει· κάτω από τα γεμάτα δάκρυα φρύδια της βρέχει"^^xsd:string ;
     :relatedTo :Line_830 .
 
-:TV_Line_831_gr a :TranslationVariant ;
+:TV_Line_831_GR a :TranslationVariant ;
     :text "τις πλαγιές· τόσο όμοια με εκείνη με πλαγιάζει κι εμένα ο δαίμονας."^^xsd:string ;
     :relatedTo :Line_831 .
 
 # Line 832 and 833 do not exist in Antigone.
 
-:TV_Line_834_gr a :TranslationVariant ;
+:TV_Line_834_GR a :TranslationVariant ;
     :text "μα εκείνη ήταν θεά και θεογέννητη,"^^xsd:string ;
     :relatedTo :Line_834 .
 
-:TV_Line_835_gr a :TranslationVariant ;
+:TV_Line_835_GR a :TranslationVariant ;
     :text "ενώ εμείς είμαστε βροτοί, από θνητούς γεννημένοι."^^xsd:string ;
     :relatedTo :Line_835 .
 
-:TV_Line_836_gr a :TranslationVariant ;
+:TV_Line_836_GR a :TranslationVariant ;
     :text "κι όμως για όποιον πεθαίνει είναι μεγάλο και μόνο να ακούει"^^xsd:string ;
     :relatedTo :Line_836 .
 
-:TV_Line_837_gr a :TranslationVariant ;
+:TV_Line_837_GR a :TranslationVariant ;
     :text "πως έλαχε μοίρα ίση με των θεών"^^xsd:string ;
     :relatedTo :Line_837 .
 
-:TV_Line_838_gr a :TranslationVariant ;
+:TV_Line_838_GR a :TranslationVariant ;
     :text "ζωντανός και ύστερα νεκρός."^^xsd:string ;
     :relatedTo :Line_838 .
 
-:TV_Line_839_gr a :TranslationVariant ;
+:TV_Line_839_GR a :TranslationVariant ;
     :text "Αλίμονο, με κοροϊδεύετε! Γιατί, στους πατρικούς θεούς,"^^xsd:string ;
     :relatedTo :Line_839 .
 
-:TV_Line_840_gr a :TranslationVariant ;
+:TV_Line_840_GR a :TranslationVariant ;
     :text "με υβρίζετε κατάμουτρα και δεν περιμένετε να φύγω;"^^xsd:string ;
     :relatedTo :Line_840 .
 
-:TV_Line_841_gr a :TranslationVariant ;
+:TV_Line_841_GR a :TranslationVariant ;
     :text "ω πόλη, ω άντρες πολυεύποροι της πόλης·"^^xsd:string ;
     :relatedTo :Line_841 .
 
-:TV_Line_842_gr a :TranslationVariant ;
+:TV_Line_842_GR a :TranslationVariant ;
     :text "ω πηγές της Δίρκης,"^^xsd:string ;
     :relatedTo :Line_842 .
 
 # Line 843 and 844 do not exist in Antigone
 
-:TV_Line_845_gr a :TranslationVariant ;
+:TV_Line_845_GR a :TranslationVariant ;
     :text "και άλσος της Θήβας με τα άρματα, εσάς τουλάχιστον σας παίρνω μάρτυρες,"^^xsd:string ;
     :relatedTo :Line_845 .
 
-:TV_Line_846_gr a :TranslationVariant ;
+:TV_Line_846_GR a :TranslationVariant ;
     :text "πώς, άκλαυτη από τους δικούς μου και με ποιους νόμους,"^^xsd:string ;
     :relatedTo :Line_846 .
 
-:TV_Line_847_gr a :TranslationVariant ;
+:TV_Line_847_GR a :TranslationVariant ;
     :text "πηγαίνω στο χωμάτινο φράγμα του παράξενου τάφου μου."^^xsd:string ;
     :relatedTo :Line_847 .
 
 # Line 848 and 849 do not exist in Antigone.
 
-:TV_Line_850_gr a :TranslationVariant ;
+:TV_Line_850_GR a :TranslationVariant ;
     :text "οούτε νεκρή ανάμεσα στους νεκρούς"^^xsd:string ;
     :relatedTo :Line_850 .
 
-:TV_Line_851_gr a :TranslationVariant ;
+:TV_Line_851_GR a :TranslationVariant ;
     :text "ούτε με τους ζωντανούς, ούτε με τους πεθαμένους."^^xsd:string ;
     :relatedTo :Line_851 .
 
 # Line 852 do not exist in Antigone.
 
-:TV_Line_853_gr a :TranslationVariant ;
+:TV_Line_853_GR a :TranslationVariant ;
     :text "προχώρησες στο έσχατο όριο του θράσους,"^^xsd:string ;
     :relatedTo :Line_853 .
 
-:TV_Line_854_gr a :TranslationVariant ;
+:TV_Line_854_GR a :TranslationVariant ;
     :text "στο ψηλό βάθρο της Δίκης,"^^xsd:string ;
     :relatedTo :Line_854 .
 
-:TV_Line_855_gr a :TranslationVariant ;
+:TV_Line_855_GR a :TranslationVariant ;
     :text "κι έπεσες βαριά, παιδί μου·"^^xsd:string ;
     :relatedTo :Line_855 .
 
-:TV_Line_856_gr a :TranslationVariant ;
+:TV_Line_856_GR a :TranslationVariant ;
     :text "πληρώνεις κάποιο πατρικό τίμημα."^^xsd:string ;
     :relatedTo :Line_856 .
 
 # Line 857 does not exist in Antigone.
-:TV_Line_858_gr a :TranslationVariant ;
+:TV_Line_858_GR a :TranslationVariant ;
     :text "άγγιξες την πιο πικρή μου μέριμνα,"^^xsd:string ;
     :relatedTo :Line_858 .
 
-:TV_Line_859_gr a :TranslationVariant ;
+:TV_Line_859_GR a :TranslationVariant ;
     :text "τον τριπλά θρηνημένο πόνο του πατέρα"^^xsd:string ;
     :relatedTo :Line_859 .
 
-:TV_Line_860_gr a :TranslationVariant ;
+:TV_Line_860_GR a :TranslationVariant ;
     :text "και όλη τη μοίρα μας, των ένδοξων Λαβδακιδών."^^xsd:string ;
     :relatedTo :Line_860 .
 
-:TV_Line_861_gr a :TranslationVariant ;
+:TV_Line_861_GR a :TranslationVariant ;
     :text "αχ, των μητρικών γάμων"^^xsd:string ;
     :relatedTo :Line_861 .
 
 # Lines 862,863 and 864 do not exist in Antigone.
 
-:TV_Line_865_gr a :TranslationVariant ;
+:TV_Line_865_GR a :TranslationVariant ;
     :text "οι συμφορές και οι αυτογέννητες ενώσεις του πατέρα μου με τη δύσμοιρη μητέρα του,"^^xsd:string ;
     :relatedTo :Line_865 .
 
-:TV_Line_866_gr a :TranslationVariant ;
+:TV_Line_866_GR a :TranslationVariant ;
     :text "από τέτοιους γεννήθηκα κι εγώ, η άμοιρη·"^^xsd:string ;
     :relatedTo :Line_866 .
 
-:TV_Line_867_gr a :TranslationVariant ;
+:TV_Line_867_GR a :TranslationVariant ;
     :text "σε αυτούς πηγαίνω, καταραμένη, ανύπαντρη, να κατοικήσω."^^xsd:string ;
     :relatedTo :Line_867 .
 
 # Line 868 and 869 do not exist in Antigone.
 
-:TV_Line_870_gr a :TranslationVariant ;
+:TV_Line_870_GR a :TranslationVariant ;
     :text "αδελφέ μου, που έλαχες δυστυχισμένο γάμο,"^^xsd:string ;
     :relatedTo :Line_870 .
 
-:TV_Line_871_gr a :TranslationVariant ;
+:TV_Line_871_GR a :TranslationVariant ;
     :text "πεθαίνοντας, με σκότωσες ενώ ακόμη ζω."^^xsd:string ;
     :relatedTo :Line_871 .
 

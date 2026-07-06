@@ -4,67 +4,67 @@
 
 :stasimon_04-translations-944-965-greek a owl:Ontology .
 
-:TV_Line_944_gr a :TranslationVariant ;
+:TV_Line_944_GR a :TranslationVariant ;
     :text "Και η Δανάη άντεξε να ανταλλάξει το ουράνιο φως"^^xsd:string ;
     :relatedTo :Line_944 .
 
-:TV_Line_945_gr a :TranslationVariant ;
+:TV_Line_945_GR a :TranslationVariant ;
     :text "με το σώμα της κλεισμένο σε χαλκόδετες αυλές·"^^xsd:string ;
     :relatedTo :Line_945 .
 
-:TV_Line_946_gr a :TranslationVariant ;
+:TV_Line_946_GR a :TranslationVariant ;
     :text "κρυμμένη σε θάλαμο σαν τάφο, φυλακίστηκε."^^xsd:string ;
     :relatedTo :Line_946 .
 
-:TV_Line_947_gr a :TranslationVariant ;
+:TV_Line_947_GR a :TranslationVariant ;
     :text "Κι όμως ήταν και στην καταγωγή τιμημένη, παιδί μου, παιδί,"^^xsd:string ;
     :relatedTo :Line_947 .
 
-:TV_Line_950_gr a :TranslationVariant ;
+:TV_Line_950_GR a :TranslationVariant ;
     :text "και φύλαγε του Δία τη χρυσόρρευστη γονή."^^xsd:string ;
     :relatedTo :Line_950 .
 
-:TV_Line_951_gr a :TranslationVariant ;
+:TV_Line_951_GR a :TranslationVariant ;
     :text "Μα η δύναμη της μοίρας είναι φοβερή·"^^xsd:string ;
     :relatedTo :Line_951 .
 
-:TV_Line_952_gr a :TranslationVariant ;
+:TV_Line_952_GR a :TranslationVariant ;
     :text "ούτε πλούτος, ούτε ο Άρης, ούτε πύργοι, ούτε μαυρόκρουστα"^^xsd:string ;
     :relatedTo :Line_952 .
 
-:TV_Line_953_gr a :TranslationVariant ;
+:TV_Line_953_GR a :TranslationVariant ;
     :text "πλοία της θάλασσας μπορούν να της ξεφύγουν."^^xsd:string ;
     :relatedTo :Line_953 .
 
-:TV_Line_955_gr a :TranslationVariant ;
+:TV_Line_955_GR a :TranslationVariant ;
     :text "Δέθηκε κι ο οξύθυμος γιος του Δρύαντα,"^^xsd:string ;
     :relatedTo :Line_955 .
 
-:TV_Line_956_gr a :TranslationVariant ;
+:TV_Line_956_GR a :TranslationVariant ;
     :text "ο βασιλιάς των Ηδωνών, εξαιτίας της χλευαστικής του οργής,"^^xsd:string ;
     :relatedTo :Line_956 .
 
-:TV_Line_957_gr a :TranslationVariant ;
+:TV_Line_957_GR a :TranslationVariant ;
     :text "από τον Διόνυσο, φυλακισμένος σε πετρώδη δεσμά."^^xsd:string ;
     :relatedTo :Line_957 .
 
-:TV_Line_958_gr a :TranslationVariant ;
+:TV_Line_958_GR a :TranslationVariant ;
     :text "Έτσι κατακάθεται η φοβερή ορμή της μανίας"^^xsd:string ;
     :relatedTo :Line_958 .
 
-:TV_Line_960_gr a :TranslationVariant ;
+:TV_Line_960_GR a :TranslationVariant ;
     :text "και η ανθισμένη του δύναμη. Εκείνος κατάλαβε, μέσα στη μανία του,"^^xsd:string ;
     :relatedTo :Line_960 .
 
-:TV_Line_961_gr a :TranslationVariant ;
+:TV_Line_961_GR a :TranslationVariant ;
     :text "πως άγγιζε τον θεό με χλευαστικές γλώσσες."^^xsd:string ;
     :relatedTo :Line_961 .
 
-:TV_Line_962_gr a :TranslationVariant ;
+:TV_Line_962_GR a :TranslationVariant ;
     :text "Γιατί ήθελε να σταματήσει τις ενθουσιασμένες Βάκχες και το βακχικό πυρ,"^^xsd:string ;
     :relatedTo :Line_962 .
 
-:TV_Line_965_gr a :TranslationVariant ;
+:TV_Line_965_GR a :TranslationVariant ;
     :text "και ερέθιζε τις Μούσες που αγαπούν τον αυλό."^^xsd:string ;
     :relatedTo :Line_965 .
 

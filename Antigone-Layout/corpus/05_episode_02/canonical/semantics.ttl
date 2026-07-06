@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:episode02-semantics a owl:Ontology .
+:episode_02-semantics a owl:Ontology .
 
 # ==========================================================================
 # SCENE INFORMATION

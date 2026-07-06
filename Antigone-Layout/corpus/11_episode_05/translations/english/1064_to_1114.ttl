@@ -6,208 +6,208 @@
 :episode_05-translations-1064-1114-english a owl:Ontology .
 # English translation variants extracted from 1064_to_1114.ttl
 
-:TV_Line_1064_en a :TranslationVariant ;
+:TV_Line_1064_EN a :TranslationVariant ;
     :text "But know this well: before you complete"^^xsd:string ;
     :relatedTo :Line_1064 .
 
-:TV_Line_1065_en a :TranslationVariant ;
+:TV_Line_1065_EN a :TranslationVariant ;
     :text "Many more rival circuits of the sun,"^^xsd:string ;
     :relatedTo :Line_1065 .
 
-:TV_Line_1066_en a :TranslationVariant ;
+:TV_Line_1066_EN a :TranslationVariant ;
     :text "You yourself will have given from your own loins"^^xsd:string ;
     :relatedTo :Line_1066 ;
     :relatedTo :Antigone_Character_Haemon .
 
-:TV_Line_1067_en a :TranslationVariant ;
+:TV_Line_1067_EN a :TranslationVariant ;
     :text "One corpse in exchange for corpses,"^^xsd:string ;
     :relatedTo :Line_1067 .
 
-:TV_Line_1068_en a :TranslationVariant ;
+:TV_Line_1068_EN a :TranslationVariant ;
     :text "Because you have thrust one of those above down below,"^^xsd:string ;
     :relatedTo :Line_1068 .
 
-:TV_Line_1069_en a :TranslationVariant ;
+:TV_Line_1069_EN a :TranslationVariant ;
     :text "And dishonorably lodged a living soul in a grave,"^^xsd:string ;
     :relatedTo :Line_1069 .
 
-:TV_Line_1070_en a :TranslationVariant ;
+:TV_Line_1070_EN a :TranslationVariant ;
     :text "And because you keep here, in turn, from the gods below"^^xsd:string ;
     :relatedTo :Line_1070 .
 
-:TV_Line_1071_en a :TranslationVariant ;
+:TV_Line_1071_EN a :TranslationVariant ;
     :text "A corpse without share, without burial, unholy."^^xsd:string ;
     :relatedTo :Line_1071 .
 
-:TV_Line_1072_en a :TranslationVariant ;
+:TV_Line_1072_EN a :TranslationVariant ;
     :text "In these things neither you have a part, nor the gods above,"^^xsd:string ;
     :relatedTo :Line_1072 .
 
-:TV_Line_1073_en a :TranslationVariant ;
+:TV_Line_1073_EN a :TranslationVariant ;
     :text "But by you these laws are violated by force."^^xsd:string ;
     :relatedTo :Line_1073 .
 
-:TV_Line_1074_en a :TranslationVariant ;
+:TV_Line_1074_EN a :TranslationVariant ;
     :text "For this, the destroyers that come late but surely"^^xsd:string ;
     :relatedTo :Line_1074 .
 
-:TV_Line_1075_en a :TranslationVariant ;
+:TV_Line_1075_EN a :TranslationVariant ;
     :text "The Furies of Hades and of the gods lie in wait for you,"^^xsd:string ;
     :relatedTo :Line_1075 .
 
-:TV_Line_1076_en a :TranslationVariant ;
+:TV_Line_1076_EN a :TranslationVariant ;
     :text "So that you may be caught in these very same evils."^^xsd:string ;
     :relatedTo :Line_1076 .
 
-:TV_Line_1077_en a :TranslationVariant ;
+:TV_Line_1077_EN a :TranslationVariant ;
     :text "And consider whether I speak this having been bribed with silver;"^^xsd:string ;
     :relatedTo :Line_1077 .
 
-:TV_Line_1078_en a :TranslationVariant ;
+:TV_Line_1078_EN a :TranslationVariant ;
     :text "For after no long delay it shall be made plain"^^xsd:string ;
     :relatedTo :Line_1078 .
 
-:TV_Line_1079_en a :TranslationVariant ;
+:TV_Line_1079_EN a :TranslationVariant ;
     :text "By the laments of men and women in your house."^^xsd:string ;
     :relatedTo :Line_1079 .
 
-:TV_Line_1080_en a :TranslationVariant ;
+:TV_Line_1080_EN a :TranslationVariant ;
     :text "And all the cities are stirred to hatred,"^^xsd:string ;
     :relatedTo :Line_1080 .
 
-:TV_Line_1081_en a :TranslationVariant ;
+:TV_Line_1081_EN a :TranslationVariant ;
     :text "Whose mangled remains the dogs have purified,"^^xsd:string ;
     :relatedTo :Line_1081 .
 
-:TV_Line_1082_en a :TranslationVariant ;
+:TV_Line_1082_EN a :TranslationVariant ;
     :text "Or beasts, or some winged bird carrying them"^^xsd:string ;
     :relatedTo :Line_1082 .
 
-:TV_Line_1083_en a :TranslationVariant ;
+:TV_Line_1083_EN a :TranslationVariant ;
     :text "With unholy stench into the city’s hearths."^^xsd:string ;
     :relatedTo :Line_1083 .
 
-:TV_Line_1084_en a :TranslationVariant ;
+:TV_Line_1084_EN a :TranslationVariant ;
     :text "Such are the arrows I have loosed at you—for you provoke me, like an archer—"^^xsd:string ;
     :relatedTo :Line_1084 .
 
-:TV_Line_1085_en a :TranslationVariant ;
+:TV_Line_1085_EN a :TranslationVariant ;
     :text "Missiles from my heart in anger,"^^xsd:string ;
     :relatedTo :Line_1085 .
 
-:TV_Line_1086_en a :TranslationVariant ;
+:TV_Line_1086_EN a :TranslationVariant ;
     :text "Sure missiles, whose burning force you shall not escape."^^xsd:string ;
     :relatedTo :Line_1086 .
 
-:TV_Line_1087_en a :TranslationVariant ;
+:TV_Line_1087_EN a :TranslationVariant ;
     :text "Boy, lead us home, so that this man"^^xsd:string ;
     :relatedTo :Line_1087 .
 
-:TV_Line_1088_en a :TranslationVariant ;
+:TV_Line_1088_EN a :TranslationVariant ;
     :text "May vent his anger on younger men,"^^xsd:string ;
     :relatedTo :Line_1088 .
 
-:TV_Line_1089_en a :TranslationVariant ;
+:TV_Line_1089_EN a :TranslationVariant ;
     :text "And learn to keep a quieter tongue"^^xsd:string ;
     :relatedTo :Line_1089 .
 
-:TV_Line_1090_en a :TranslationVariant ;
+:TV_Line_1090_EN a :TranslationVariant ;
     :text "And a better mind than he now bears in his breast."^^xsd:string ;
     :relatedTo :Line_1090 .
 
-:TV_Line_1091_en a :TranslationVariant ;
+:TV_Line_1091_EN a :TranslationVariant ;
     :text "My lord, the man has gone, after uttering dreadful prophecies;"^^xsd:string ;
     :relatedTo :Line_1091 .
 
-:TV_Line_1092_en a :TranslationVariant ;
+:TV_Line_1092_EN a :TranslationVariant ;
     :text "And we know well, from the time when first I changed"^^xsd:string ;
     :relatedTo :Line_1092 .
 
-:TV_Line_1093_en a :TranslationVariant ;
+:TV_Line_1093_EN a :TranslationVariant ;
     :text "This hair of mine from black to white,"^^xsd:string ;
     :relatedTo :Line_1093 .
 
-:TV_Line_1094_en a :TranslationVariant ;
+:TV_Line_1094_EN a :TranslationVariant ;
     :text "That he has never yet spoken falsehood to this city."^^xsd:string ;
     :relatedTo :Line_1094 .
 
-:TV_Line_1095_en a :TranslationVariant ;
+:TV_Line_1095_EN a :TranslationVariant ;
     :text "I know it—and it fills me with fear."^^xsd:string ;
     :relatedTo :Line_1095 .
 
-:TV_Line_1096_en a :TranslationVariant ;
+:TV_Line_1096_EN a :TranslationVariant ;
     :text "It is terrible to yield, but more terrible still"^^xsd:string ;
     :relatedTo :Line_1096 .
 
-:TV_Line_1097_en a :TranslationVariant ;
+:TV_Line_1097_EN a :TranslationVariant ;
     :text "To resist and strike my soul against disaster."^^xsd:string ;
     :relatedTo :Line_1097 .
 
-:TV_Line_1098_en a :TranslationVariant ;
+:TV_Line_1098_EN a :TranslationVariant ;
     :text "Son of Menoeceus, one must take good counsel."^^xsd:string ;
     :relatedTo :Line_1098 .
 
-:TV_Line_1099_en a :TranslationVariant ;
+:TV_Line_1099_EN a :TranslationVariant ;
     :text "What then do you command? Speak. I will obey."^^xsd:string ;
     :relatedTo :Line_1099 .
 
-:TV_Line_1100_en a :TranslationVariant ;
+:TV_Line_1100_EN a :TranslationVariant ;
     :text "Go and release the girl from her rocky chamber,"^^xsd:string ;
     :relatedTo :Line_1100 .
 
-:TV_Line_1101_en a :TranslationVariant ;
+:TV_Line_1101_EN a :TranslationVariant ;
     :text "And make a tomb for the corpse that lies unburied."^^xsd:string ;
     :relatedTo :Line_1101 .
 
-:TV_Line_1102_en a :TranslationVariant ;
+:TV_Line_1102_EN a :TranslationVariant ;
     :text "This is your advice? That I should yield?"^^xsd:string ;
     :relatedTo :Line_1102 .
 
-:TV_Line_1103_en a :TranslationVariant ;
+:TV_Line_1103_EN a :TranslationVariant ;
     :text "Yes, my lord, as quickly as possible;"^^xsd:string ;
     :relatedTo :Line_1103 .
 
-:TV_Line_1104_en a :TranslationVariant ;
+:TV_Line_1104_EN a :TranslationVariant ;
     :text "For the blows sent by the gods swiftly cut down foolish men."^^xsd:string ;
     :relatedTo :Line_1104 .
 
-:TV_Line_1105_en a :TranslationVariant ;
+:TV_Line_1105_EN a :TranslationVariant ;
     :text "Ah me! It is hard, but I put aside"^^xsd:string ;
     :relatedTo :Line_1105 .
 
-:TV_Line_1106_en a :TranslationVariant ;
+:TV_Line_1106_EN a :TranslationVariant ;
     :text "My resolve; I must not fight necessity."^^xsd:string ;
     :relatedTo :Line_1106 .
 
-:TV_Line_1107_en a :TranslationVariant ;
+:TV_Line_1107_EN a :TranslationVariant ;
     :text "Go then, and do these things at once."^^xsd:string ;
     :relatedTo :Line_1107 .
 
-:TV_Line_1108_en a :TranslationVariant ;
+:TV_Line_1108_EN a :TranslationVariant ;
     :text "I myself will go. Come, come, servants,"^^xsd:string ;
     :relatedTo :Line_1108 .
 
-:TV_Line_1109_en a :TranslationVariant ;
+:TV_Line_1109_EN a :TranslationVariant ;
     :text "Go there and here, all of you alike,"^^xsd:string ;
     :relatedTo :Line_1109 .
 
-:TV_Line_1110_en a :TranslationVariant ;
+:TV_Line_1110_EN a :TranslationVariant ;
     :text "With axes in your hands, to the place in view."^^xsd:string ;
     :relatedTo :Line_1110 .
 
-:TV_Line_1111_en a :TranslationVariant ;
+:TV_Line_1111_EN a :TranslationVariant ;
     :text "Since my judgment has now turned,"^^xsd:string ;
     :relatedTo :Line_1111 ;
     :relatedTo :Event_Peripeteia .
 
-:TV_Line_1112_en a :TranslationVariant ;
+:TV_Line_1112_EN a :TranslationVariant ;
     :text "I myself, as I bound her, will also free her."^^xsd:string ;
     :relatedTo :Line_1112 .
 
-:TV_Line_1113_en a :TranslationVariant ;
+:TV_Line_1113_EN a :TranslationVariant ;
     :text "For I have come to fear that it is best"^^xsd:string ;
     :relatedTo :Line_1113 .
 
-:TV_Line_1114_en a :TranslationVariant ;
+:TV_Line_1114_EN a :TranslationVariant ;
     :text "To keep the established laws to the end of life."^^xsd:string ;
     :relatedTo :Line_1114 .

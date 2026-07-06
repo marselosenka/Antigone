@@ -5,69 +5,69 @@
 :stasimon_03-translations-781-805-english a owl:Ontology .
 # English translation variants extracted from 781_to_805.ttl
 
-:TV_Line_781_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_781_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Eros, o Eros, unvanquished in battle! Who falls upon riches,"^^xsd:string ;
     :relatedTo :Line_781 .
 
-:TV_Line_782_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_782_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Who sleeps every night on a young maiden’s tender cheeks,"^^xsd:string ;
     :relatedTo :Line_782 .
 
 # Line 783 and 784 do not exist in Antigone 
-:TV_Line_785_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_785_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Traversing both the depths and the most rural of abodes:"^^xsd:string ;
     :relatedTo :Line_785 .
 
-:TV_Line_786_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_786_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "From you indeed neither the deathless gods,"^^xsd:string ;
     :relatedTo :Line_786 .
 
 # Line 787 788 and 789 do not exist in Antigone 
 
-:TV_Line_790_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_790_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Nor any man who lives but one day can ever hope to escape; your victim is always driven mad."^^xsd:string ;
     :relatedTo :Line_790 .
 
-:TV_Line_791_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_791_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You lead the minds of the just astray towards disgraceful insult;"^^xsd:string ;
     :relatedTo :Line_791 .
 
-:TV_Line_792_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_792_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "The one to have ignited this strife of mankind is you;"^^xsd:string ;
     :relatedTo :Line_792 .
 
 # Line 793 and 794 do not exist in Antigone 
 
-:TV_Line_795_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_795_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet desire wins out, shining from the brow of a brilliant bride,"^^xsd:string ;
     :relatedTo :Line_795 .
 
-:TV_Line_796_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_796_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Desire sitting in the office of the great divine law."^^xsd:string ;
     :relatedTo :Line_796 .
 
 # Line 797,798 and 799 do not exist in Antigone 
 
-:TV_Line_800_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_800_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "For, while this battle is waged, a god jests from afar—Aphrodite!"^^xsd:string ;
     :relatedTo :Line_800 .
 
-:TV_Line_801_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_801_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet, now, seeing these things, I am forced to transgress justice,"^^xsd:string ;
     :relatedTo :Line_801 .
 
-:TV_Line_802_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_802_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "No longer strong enough to restrain"^^xsd:string ;
     :relatedTo :Line_802 .
 
-:TV_Line_803_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_803_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "The river of tears when I see"^^xsd:string ;
     :relatedTo :Line_803 .
 
-:TV_Line_804_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_804_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Antigone proceeding to her final place of rest,"^^xsd:string ;
     :relatedTo :Line_804 .
 
-:TV_Line_805_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_805_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Proceeding to her final place of rest."^^xsd:string ;
     :relatedTo :Line_805 .

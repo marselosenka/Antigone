@@ -4,65 +4,65 @@
 
 :hyporchema-translations-1115-1154-chinese a owl:Ontology .
 
-:TV_Line_1115_zh a :TranslationVariant ; :relatedTo :Line_1115 ;
+:TV_Line_1115_ZH a :TranslationVariant ; :relatedTo :Line_1115 ;
   :text "啊多名之神，卡德摩斯新娘的荣光，"^^xsd:string .
-:TV_Line_1116_zh a :TranslationVariant ; :relatedTo :Line_1116 ;
+:TV_Line_1116_ZH a :TranslationVariant ; :relatedTo :Line_1116 ;
   :text "又是雷鸣宙斯所生之子，"^^xsd:string .
-:TV_Line_1117_zh a :TranslationVariant ; :relatedTo :Line_1117 ;
+:TV_Line_1117_ZH a :TranslationVariant ; :relatedTo :Line_1117 ;
   :text "你守护着著名的意大利，"^^xsd:string .
-:TV_Line_1118_zh a :TranslationVariant ; :relatedTo :Line_1118 ;
+:TV_Line_1118_ZH a :TranslationVariant ; :relatedTo :Line_1118 ;
   :text "并统辖"^^xsd:string .
-:TV_Line_1119_zh a :TranslationVariant ; :relatedTo :Line_1119 ;
+:TV_Line_1119_ZH a :TranslationVariant ; :relatedTo :Line_1119 ;
   :text "厄琉息斯狄俄之地的共同腹地，"^^xsd:string .
-:TV_Line_1120_zh a :TranslationVariant ; :relatedTo :Line_1120 ;
+:TV_Line_1120_ZH a :TranslationVariant ; :relatedTo :Line_1120 ;
   :text "巴克科斯啊，酒神女的引领者，"^^xsd:string .
-:TV_Line_1121_zh a :TranslationVariant ; :relatedTo :Line_1121 ;
+:TV_Line_1121_ZH a :TranslationVariant ; :relatedTo :Line_1121 ;
   :text "你居住在你母亲的底比斯，"^^xsd:string .
-:TV_Line_1122_zh a :TranslationVariant ; :relatedTo :Line_1122 ;
+:TV_Line_1122_ZH a :TranslationVariant ; :relatedTo :Line_1122 ;
   :text "在伊斯墨诺斯流动的水旁，"^^xsd:string .
-:TV_Line_1125_zh a :TranslationVariant ; :relatedTo :Line_1125 ;
+:TV_Line_1125_ZH a :TranslationVariant ; :relatedTo :Line_1125 ;
   :text "在那野龙曾播种的田地上方。"^^xsd:string .
-:TV_Line_1126_zh a :TranslationVariant ; :relatedTo :Line_1126 ;
+:TV_Line_1126_ZH a :TranslationVariant ; :relatedTo :Line_1126 ;
   :text "炫亮的烟火曾看见你"^^xsd:string .
-:TV_Line_1127_zh a :TranslationVariant ; :relatedTo :Line_1127 ;
+:TV_Line_1127_ZH a :TranslationVariant ; :relatedTo :Line_1127 ;
   :text "在双峰岩上，那些科律喀斯的"^^xsd:string .
-:TV_Line_1128_zh a :TranslationVariant ; :relatedTo :Line_1128 ;
+:TV_Line_1128_ZH a :TranslationVariant ; :relatedTo :Line_1128 ;
   :text "酒神女神祇以队列为你开路；"^^xsd:string .
-:TV_Line_1130_zh a :TranslationVariant ; :relatedTo :Line_1130 ;
+:TV_Line_1130_ZH a :TranslationVariant ; :relatedTo :Line_1130 ;
   :text "还有卡斯塔利亚泉。"^^xsd:string .
-:TV_Line_1131_zh a :TranslationVariant ; :relatedTo :Line_1131 ;
+:TV_Line_1131_ZH a :TranslationVariant ; :relatedTo :Line_1131 ;
   :text "而常春藤覆盖的尼萨山坡"^^xsd:string .
-:TV_Line_1132_zh a :TranslationVariant ; :relatedTo :Line_1132 ;
+:TV_Line_1132_ZH a :TranslationVariant ; :relatedTo :Line_1132 ;
   :text "与葡萄繁茂的青绿海岸"^^xsd:string .
-:TV_Line_1133_zh a :TranslationVariant ; :relatedTo :Line_1133 ;
+:TV_Line_1133_ZH a :TranslationVariant ; :relatedTo :Line_1133 ;
   :text "也把你送来，"^^xsd:string .
-:TV_Line_1134_zh a :TranslationVariant ; :relatedTo :Line_1134 ;
+:TV_Line_1134_ZH a :TranslationVariant ; :relatedTo :Line_1134 ;
   :text "当不朽的声音"^^xsd:string .
-:TV_Line_1135_zh a :TranslationVariant ; :relatedTo :Line_1135 ;
+:TV_Line_1135_ZH a :TranslationVariant ; :relatedTo :Line_1135 ;
   :text "狂喜呼喊，守望底比斯的道路。"^^xsd:string .
-:TV_Line_1137_zh a :TranslationVariant ; :relatedTo :Line_1137 ;
+:TV_Line_1137_ZH a :TranslationVariant ; :relatedTo :Line_1137 ;
   :text "你把这城看得高于众城，"^^xsd:string .
-:TV_Line_1138_zh a :TranslationVariant ; :relatedTo :Line_1138 ;
+:TV_Line_1138_ZH a :TranslationVariant ; :relatedTo :Line_1138 ;
   :text "连同你那被雷击中的母亲；"^^xsd:string .
-:TV_Line_1140_zh a :TranslationVariant ; :relatedTo :Line_1140 ;
+:TV_Line_1140_ZH a :TranslationVariant ; :relatedTo :Line_1140 ;
   :text "而如今全城百姓"^^xsd:string .
-:TV_Line_1141_zh a :TranslationVariant ; :relatedTo :Line_1141 ;
+:TV_Line_1141_ZH a :TranslationVariant ; :relatedTo :Line_1141 ;
   :text "都被猛烈疾病所攫住，"^^xsd:string .
-:TV_Line_1142_zh a :TranslationVariant ; :relatedTo :Line_1142 ;
+:TV_Line_1142_ZH a :TranslationVariant ; :relatedTo :Line_1142 ;
   :text "请你以净化之足从帕耳那索斯山坡降临，"^^xsd:string .
-:TV_Line_1145_zh a :TranslationVariant ; :relatedTo :Line_1145 ;
+:TV_Line_1145_ZH a :TranslationVariant ; :relatedTo :Line_1145 ;
   :text "或从海峡的轰鸣之上而来。"^^xsd:string .
-:TV_Line_1146_zh a :TranslationVariant ; :relatedTo :Line_1146 ;
+:TV_Line_1146_ZH a :TranslationVariant ; :relatedTo :Line_1146 ;
   :text "啊炽火群星之舞的统领，"^^xsd:string .
-:TV_Line_1147_zh a :TranslationVariant ; :relatedTo :Line_1147 ;
+:TV_Line_1147_ZH a :TranslationVariant ; :relatedTo :Line_1147 ;
   :text "夜之呼声的守望者，"^^xsd:string .
-:TV_Line_1148_zh a :TranslationVariant ; :relatedTo :Line_1148 ;
+:TV_Line_1148_ZH a :TranslationVariant ; :relatedTo :Line_1148 ;
   :text "宙斯所生之子，"^^xsd:string .
-:TV_Line_1149_zh a :TranslationVariant ; :relatedTo :Line_1149 ;
+:TV_Line_1149_ZH a :TranslationVariant ; :relatedTo :Line_1149 ;
   :text "请显现，"^^xsd:string .
-:TV_Line_1150_zh a :TranslationVariant ; :relatedTo :Line_1150 ;
+:TV_Line_1150_ZH a :TranslationVariant ; :relatedTo :Line_1150 ;
   :text "我的主啊，带着你的同行者"^^xsd:string .
-:TV_Line_1151_zh a :TranslationVariant ; :relatedTo :Line_1151 ;
+:TV_Line_1151_ZH a :TranslationVariant ; :relatedTo :Line_1151 ;
   :text "那些女狂祭者，正在狂喜中"^^xsd:string .
-:TV_Line_1152_zh a :TranslationVariant ; :relatedTo :Line_1152 ;
+:TV_Line_1152_ZH a :TranslationVariant ; :relatedTo :Line_1152 ;
   :text "整夜为你起舞，为伊阿科斯、她们的领舞者起舞。"^^xsd:string .

@@ -5,174 +5,174 @@
 :episode_03-translations-681-723-english a owl:Ontology .
 # English translation variants extracted from 681_to_723.ttl
 
-:TV_Line_681_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_681_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Unless old age is playing tricks on us,"^^xsd:string ;
     :relatedTo :Line_681 .
 
-:TV_Line_682_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_682_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You seem to be speaking wisely."^^xsd:string ;
     :relatedTo :Line_682 .
 
-:TV_Line_683_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_683_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Father, the gods endow mankind with reason,"^^xsd:string ;
     :relatedTo :Line_683 .
 
-:TV_Line_684_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_684_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Supreme among all the traits man can hope to possess."^^xsd:string ;
     :relatedTo :Line_684 .
 
-:TV_Line_685_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_685_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I couldn’t say, nor would I want to say, that"^^xsd:string ;
     :relatedTo :Line_685 .
 
-:TV_Line_686_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_686_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You are handling this situation incorrectly..."^^xsd:string ;
     :relatedTo :Line_686 .
 
-:TV_Line_687_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_687_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But there may be something profitable in a difference"^^xsd:string ;
     :relatedTo :Line_687 .
 
-:TV_Line_688_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_688_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Of opinions. Now, as your son, I am obliged to look out for you"^^xsd:string ;
     :relatedTo :Line_688 .
 
-:TV_Line_689_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_689_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Every time a person speaks or acts or points his finger at you."^^xsd:string ;
     :relatedTo :Line_689 .
 
-:TV_Line_690_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_690_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "For your eye is frightful to the common man when he must"^^xsd:string ;
     :relatedTo :Line_690 .
 
-:TV_Line_691_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_691_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Tell you things which he knows you won’t be pleased to hear."^^xsd:string ;
     :relatedTo :Line_691 .
 
-:TV_Line_692_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_692_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But I listen under cover of darkness, and I hear"^^xsd:string ;
     :relatedTo :Line_692 .
 
-:TV_Line_693_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_693_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "How the city mourns for this young girl,"^^xsd:string ;
     :relatedTo :Line_693 .
 
-:TV_Line_694_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_694_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Saying that of all women she deserves least of all"^^xsd:string ;
     :relatedTo :Line_694 .
 
-:TV_Line_695_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_695_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "To die so disgracefully for her good deeds,"^^xsd:string ;
     :relatedTo :Line_695 .
 
-:TV_Line_696_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_696_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "All because she wouldn’t allow her own brother,"^^xsd:string ;
     :relatedTo :Line_696 .
 
-:TV_Line_697_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_697_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Lying unburied in the gore where he fell, to be torn"^^xsd:string ;
     :relatedTo :Line_697 .
 
-:TV_Line_698_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_698_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "To pieces by flesh-eating dogs and birds of prey."^^xsd:string ;
     :relatedTo :Line_698 .
 
-:TV_Line_699_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_699_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Doesn’t she deserve to get a share of the gilded honor?"^^xsd:string ;
     :relatedTo :Line_699 .
 
-:TV_Line_700_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_700_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Dim whispers to this point circulate in the otherwise silent city."^^xsd:string ;
     :relatedTo :Line_700 .
 
-:TV_Line_701_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_701_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I can think of no treasure more precious,"^^xsd:string ;
     :relatedTo :Line_701 .
 
-:TV_Line_702_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_702_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Father, than your success."^^xsd:string ;
     :relatedTo :Line_702 .
 
-:TV_Line_703_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_703_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "What greater honor can there be for a child than the fame"^^xsd:string ;
     :relatedTo :Line_703 .
 
-:TV_Line_704_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_704_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Of a prospering father, or for a father than the fame of his child?"^^xsd:string ;
     :relatedTo :Line_704 .
 
-:TV_Line_705_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_705_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Now don’t reserve just one way of thinking for yourself,"^^xsd:string ;
     :relatedTo :Line_705 .
 
-:TV_Line_706_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_706_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Saying that this is correct, and nothing else."^^xsd:string ;
     :relatedTo :Line_706 .
 
-:TV_Line_707_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_707_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "For the one who imagines he thinks without equal,"^^xsd:string ;
     :relatedTo :Line_707 .
 
-:TV_Line_708_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_708_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Or has a tongue or a soul like no other,"^^xsd:string ;
     :relatedTo :Line_708 .
 
-:TV_Line_709_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_709_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Shows only how empty his head really is."^^xsd:string ;
     :relatedTo :Line_709 .
 
-:TV_Line_710_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_710_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But even if a man is wise, there’s no shame in him"^^xsd:string ;
     :relatedTo :Line_710 .
 
-:TV_Line_711_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_711_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Straying from the path and picking things up as he goes."^^xsd:string ;
     :relatedTo :Line_711 .
 
-:TV_Line_712_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_712_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Look how one tree on the riverbank yields its smaller branches"^^xsd:string ;
     :relatedTo :Line_712 .
 
-:TV_Line_713_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_713_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "To the stream that’s gorged with fresh snowmelt, and saves itself,"^^xsd:string ;
     :relatedTo :Line_713 .
 
-:TV_Line_714_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_714_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "While another that’s just too rigid is washed away,"^^xsd:string ;
     :relatedTo :Line_714 .
 
-:TV_Line_715_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_715_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Roots and all. Likewise the captain who’s tied his ship’s sail"^^xsd:string ;
     :relatedTo :Line_715 .
 
-:TV_Line_716_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_716_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "So tight that it cannot yield to the wind will have to sail"^^xsd:string ;
     :relatedTo :Line_716 .
 
-:TV_Line_717_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_717_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "The rest of the way with oars once he’s snapped his mast in half."^^xsd:string ;
     :relatedTo :Line_717 .
 
-:TV_Line_718_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_718_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "So yield and let your wrath subside."^^xsd:string ;
     :relatedTo :Line_718 .
 
-:TV_Line_719_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_719_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "If I’m allowed to have an opinion (though I’m just a young man),"^^xsd:string ;
     :relatedTo :Line_719 .
 
-:TV_Line_720_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_720_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I think it would be best by far if every man"^^xsd:string ;
     :relatedTo :Line_720 .
 
-:TV_Line_721_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_721_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Were born full of wisdom and knowledge."^^xsd:string ;
     :relatedTo :Line_721 .
 
-:TV_Line_722_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_722_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But if this is impossible, and it normally doesn’t happen this way,"^^xsd:string ;
     :relatedTo :Line_722 .
 
-:TV_Line_723_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_723_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "It is still good to learn from a thought well spoken."^^xsd:string ;
     :relatedTo :Line_723 .

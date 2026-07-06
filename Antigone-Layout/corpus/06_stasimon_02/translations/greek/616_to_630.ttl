@@ -4,52 +4,52 @@
 
 :stasimon_02-translations-616-630-greek a owl:Ontology .
 
-:TV_Line_616_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_616_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "όμως για πολλούς γίνεται απάτη ανόητων επιθυμιών·"^^xsd:string ;
     :relatedTo :Line_616 .
 
-:TV_Line_617_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_617_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "και χωρίς να το καταλάβει κανείς, τον κυριεύει πριν πατήσει το πόδι του στη φλεγόμενη φωτιά."^^xsd:string ;
     :relatedTo :Line_617 .
 
 # Lines 618, 619 do not exist in Antigone.
 
-:TV_Line_620_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_620_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Έτσι εκπληρώνεται το περίφημο ρητό της σοφίας."^^xsd:string ;
     :relatedTo :Line_620 .
 
-:TV_Line_621_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_621_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Πως κάποτε το κακό φαίνεται καλό"^^xsd:string ;
     :relatedTo :Line_621 .
 
-:TV_Line_622_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_622_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "σε εκείνον που ο νους του"^^xsd:string ;
     :relatedTo :Line_622 .
 
-:TV_Line_623_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_623_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "οδηγείται από θεό προς την καταστροφή."^^xsd:string ;
     :relatedTo :Line_623 .
 
 # Line 624 does not exist in Antigone.
 
-:TV_Line_625_gr a :TranslationVariant ;
+:TV_Line_625_GR a :TranslationVariant ;
     :text "Να, ο Αίμονας, από τα παιδιά σου,"^^xsd:string ;
     :relatedTo :Line_625 .
 
-:TV_Line_626_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_626_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Να, ο Αίμονας, ένας από τους γιους σου,"^^xsd:string ;
     :relatedTo :Line_626 .
 
-:TV_Line_627_gr a :TranslationVariant ;
+:TV_Line_627_GR a :TranslationVariant ;
     :text "το πιο νέο σου βλάστημα, έρχεται πονώντας"^^xsd:string ;
     :relatedTo :Line_627 .
 
-:TV_Line_628_gr a :TranslationVariant ;
+:TV_Line_628_GR a :TranslationVariant ;
     :text "για τη μοίρα της Αντιγόνης, της μνηστής του;"^^xsd:string ;
     :relatedTo :Line_628 .
 
 # Line 629 does not exist in Antigone. 
 
-:TV_Line_630_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_630_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "να υποφέρει βαθιά από την απώλεια του γάμου του και από την πλάνη του κρεβατιού;"^^xsd:string ;
     :relatedTo :Line_630 . 

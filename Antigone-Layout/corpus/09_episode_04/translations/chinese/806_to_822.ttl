@@ -4,27 +4,27 @@
 
 :episode_04-translations-806-822-chinese a owl:Ontology .
 
-:TV_Line_806_zh a :TranslationVariant ; :relatedTo :Line_806 ;
+:TV_Line_806_ZH a :TranslationVariant ; :relatedTo :Line_806 ;
   :text "看我吧，祖国的城民，我正走上最后的道路，"^^xsd:string .
-:TV_Line_807_zh a :TranslationVariant ; :relatedTo :Line_807 ;
+:TV_Line_807_ZH a :TranslationVariant ; :relatedTo :Line_807 ;
   :text "看着太阳最后的光，"^^xsd:string .
-:TV_Line_810_zh a :TranslationVariant ; :relatedTo :Line_810 ;
+:TV_Line_810_ZH a :TranslationVariant ; :relatedTo :Line_810 ;
   :text "再也不会重见；使众人长眠的哈得斯却把我活着带往"^^xsd:string .
-:TV_Line_811_zh a :TranslationVariant ; :relatedTo :Line_811 ;
+:TV_Line_811_ZH a :TranslationVariant ; :relatedTo :Line_811 ;
   :text "阿刻戎的岸边，"^^xsd:string .
-:TV_Line_812_zh a :TranslationVariant ; :relatedTo :Line_812 ;
+:TV_Line_812_ZH a :TranslationVariant ; :relatedTo :Line_812 ;
   :text "我无分于婚歌，也无分于新床。"^^xsd:string .
-:TV_Line_815_zh a :TranslationVariant ; :relatedTo :Line_815 ;
+:TV_Line_815_ZH a :TranslationVariant ; :relatedTo :Line_815 ;
   :text "没有婚礼之歌曾为我唱起；我要嫁给阿刻戎。"^^xsd:string .
-:TV_Line_817_zh a :TranslationVariant ; :relatedTo :Line_817 ;
+:TV_Line_817_ZH a :TranslationVariant ; :relatedTo :Line_817 ;
   :text "那么，你是带着荣誉与称赞"^^xsd:string .
-:TV_Line_818_zh a :TranslationVariant ; :relatedTo :Line_818 ;
+:TV_Line_818_ZH a :TranslationVariant ; :relatedTo :Line_818 ;
   :text "去往这死者深处，"^^xsd:string .
-:TV_Line_819_zh a :TranslationVariant ; :relatedTo :Line_819 ;
+:TV_Line_819_ZH a :TranslationVariant ; :relatedTo :Line_819 ;
   :text "并非被消耗性病痛击倒，"^^xsd:string .
-:TV_Line_820_zh a :TranslationVariant ; :relatedTo :Line_820 ;
+:TV_Line_820_ZH a :TranslationVariant ; :relatedTo :Line_820 ;
   :text "也不是死于刀刃，"^^xsd:string .
-:TV_Line_821_zh a :TranslationVariant ; :relatedTo :Line_821 ;
+:TV_Line_821_ZH a :TranslationVariant ; :relatedTo :Line_821 ;
   :text "而是自主地、活着、独自一人，"^^xsd:string .
-:TV_Line_822_zh a :TranslationVariant ; :relatedTo :Line_822 ;
+:TV_Line_822_ZH a :TranslationVariant ; :relatedTo :Line_822 ;
   :text "下到哈得斯去，这是凡人从未有过的。"^^xsd:string .

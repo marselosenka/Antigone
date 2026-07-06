@@ -4,39 +4,39 @@
 
 :stasimon_04-translations-966-987-chinese a owl:Ontology .
 
-:TV_Line_966_zh a :TranslationVariant ; :relatedTo :Line_966 ;
+:TV_Line_966_ZH a :TranslationVariant ; :relatedTo :Line_966 ;
   :text "在海边幽蓝的岩石旁，"^^xsd:string .
-:TV_Line_967_zh a :TranslationVariant ; :relatedTo :Line_967 ;
+:TV_Line_967_ZH a :TranslationVariant ; :relatedTo :Line_967 ;
   :text "在博斯普鲁斯双岸与色雷斯海滨，"^^xsd:string .
-:TV_Line_970_zh a :TranslationVariant ; :relatedTo :Line_970 ;
+:TV_Line_970_ZH a :TranslationVariant ; :relatedTo :Line_970 ;
   :text "在萨尔弥得索斯，那里邻近的战神"^^xsd:string .
-:TV_Line_971_zh a :TranslationVariant ; :relatedTo :Line_971 ;
+:TV_Line_971_ZH a :TranslationVariant ; :relatedTo :Line_971 ;
   :text "看见菲纽斯两个儿子"^^xsd:string .
-:TV_Line_972_zh a :TranslationVariant ; :relatedTo :Line_972 ;
+:TV_Line_972_ZH a :TranslationVariant ; :relatedTo :Line_972 ;
   :text "遭受可诅咒的伤害，"^^xsd:string .
-:TV_Line_973_zh a :TranslationVariant ; :relatedTo :Line_973 ;
+:TV_Line_973_ZH a :TranslationVariant ; :relatedTo :Line_973 ;
   :text "被凶恶的女子刺瞎双眼，"^^xsd:string .
-:TV_Line_974_zh a :TranslationVariant ; :relatedTo :Line_974 ;
+:TV_Line_974_ZH a :TranslationVariant ; :relatedTo :Line_974 ;
   :text "眼眶受了可怖环状重创，"^^xsd:string .
-:TV_Line_975_zh a :TranslationVariant ; :relatedTo :Line_975 ;
+:TV_Line_975_ZH a :TranslationVariant ; :relatedTo :Line_975 ;
   :text "被血淋淋地撕裂，"^^xsd:string .
-:TV_Line_976_zh a :TranslationVariant ; :relatedTo :Line_976 ;
+:TV_Line_976_ZH a :TranslationVariant ; :relatedTo :Line_976 ;
   :text "出自她的手与梭针尖端。"^^xsd:string .
-:TV_Line_977_zh a :TranslationVariant ; :relatedTo :Line_977 ;
+:TV_Line_977_ZH a :TranslationVariant ; :relatedTo :Line_977 ;
   :text "他们两人悲苦地在苦难中消磨，"^^xsd:string .
-:TV_Line_980_zh a :TranslationVariant ; :relatedTo :Line_980 ;
+:TV_Line_980_ZH a :TranslationVariant ; :relatedTo :Line_980 ;
   :text "哀号着，因其母是无婚之母所生；"^^xsd:string .
-:TV_Line_981_zh a :TranslationVariant ; :relatedTo :Line_981 ;
+:TV_Line_981_ZH a :TranslationVariant ; :relatedTo :Line_981 ;
   :text "而那母亲本是古老"^^xsd:string .
-:TV_Line_982_zh a :TranslationVariant ; :relatedTo :Line_982 ;
+:TV_Line_982_ZH a :TranslationVariant ; :relatedTo :Line_982 ;
   :text "厄瑞克透斯后裔的血脉，"^^xsd:string .
-:TV_Line_983_zh a :TranslationVariant ; :relatedTo :Line_983 ;
+:TV_Line_983_ZH a :TranslationVariant ; :relatedTo :Line_983 ;
   :text "在遥远洞穴中"^^xsd:string .
-:TV_Line_984_zh a :TranslationVariant ; :relatedTo :Line_984 ;
+:TV_Line_984_ZH a :TranslationVariant ; :relatedTo :Line_984 ;
   :text "于父风暴里长大，"^^xsd:string .
-:TV_Line_985_zh a :TranslationVariant ; :relatedTo :Line_985 ;
+:TV_Line_985_ZH a :TranslationVariant ; :relatedTo :Line_985 ;
   :text "北风之女，快如马匹越过陡岩，"^^xsd:string .
-:TV_Line_986_zh a :TranslationVariant ; :relatedTo :Line_986 ;
+:TV_Line_986_ZH a :TranslationVariant ; :relatedTo :Line_986 ;
   :text "她是神之后裔；可即便在她身上，"^^xsd:string .
-:TV_Line_987_zh a :TranslationVariant ; :relatedTo :Line_987 ;
+:TV_Line_987_ZH a :TranslationVariant ; :relatedTo :Line_987 ;
   :text "长寿的命运女神也伸出了手，孩子啊。"^^xsd:string .

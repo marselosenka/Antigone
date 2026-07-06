@@ -4,87 +4,87 @@
 
 :prologue-translations-42-62-chinese a owl:Ontology .
 
-:TV_Line_042_zh a :TranslationVariant ;
+:TV_Line_042_ZH a :TranslationVariant ;
     :text "什么样的危险？你究竟打算做什么？"^^xsd:string ;
     :relatedTo :Line_042 .
 
-:TV_Line_043_zh a :TranslationVariant ;
+:TV_Line_043_ZH a :TranslationVariant ;
     :text "你可愿用这只手与我一起抬葬死者？"^^xsd:string ;
     :relatedTo :Line_043 .
 
-:TV_Line_044_zh a :TranslationVariant ;
+:TV_Line_044_ZH a :TranslationVariant ;
     :text "你是说，你真想埋他？城里明令禁止啊。"^^xsd:string ;
     :relatedTo :Line_044 .
 
-:TV_Line_045_zh a :TranslationVariant ;
+:TV_Line_045_ZH a :TranslationVariant ;
     :text "他毕竟是我的兄弟，也是你的；就算你不愿，"^^xsd:string ;
     :relatedTo :Line_045 .
 
-:TV_Line_046_zh a :TranslationVariant ;
+:TV_Line_046_ZH a :TranslationVariant ;
     :text "我也绝不会因出卖他而被捉。"^^xsd:string ;
     :relatedTo :Line_046 .
 
-:TV_Line_047_zh a :TranslationVariant ;
+:TV_Line_047_ZH a :TranslationVariant ;
     :text "啊，鲁莽的人！克瑞翁已经明令禁止！"^^xsd:string ;
     :relatedTo :Line_047 .
 
-:TV_Line_048_zh a :TranslationVariant ;
+:TV_Line_048_ZH a :TranslationVariant ;
     :text "可他无权阻止我做属于我的事。"^^xsd:string ;
     :relatedTo :Line_048 .
 
-:TV_Line_049_zh a :TranslationVariant ;
+:TV_Line_049_ZH a :TranslationVariant ;
     :text "唉，想想吧，妹妹：我们的父亲"^^xsd:string ;
     :relatedTo :Line_049 .
 
-:TV_Line_050_zh a :TranslationVariant ;
+:TV_Line_050_ZH a :TranslationVariant ;
     :text "可憎而失誉地死去；"^^xsd:string ;
     :relatedTo :Line_050 .
 
-:TV_Line_051_zh a :TranslationVariant ;
+:TV_Line_051_ZH a :TranslationVariant ;
     :text "因自己罪行败露，"^^xsd:string ;
     :relatedTo :Line_051 .
 
-:TV_Line_052_zh a :TranslationVariant ;
+:TV_Line_052_ZH a :TranslationVariant ;
     :text "亲手刺瞎了双眼；"^^xsd:string ;
     :relatedTo :Line_052 .
 
-:TV_Line_053_zh a :TranslationVariant ;
+:TV_Line_053_ZH a :TranslationVariant ;
     :text "随后母亲，也是他的妻子——双重身份——"^^xsd:string ;
     :relatedTo :Line_053 .
 
-:TV_Line_054_zh a :TranslationVariant ;
+:TV_Line_054_ZH a :TranslationVariant ;
     :text "用编绳上吊，结束了生命；"^^xsd:string ;
     :relatedTo :Line_054 .
 
-:TV_Line_055_zh a :TranslationVariant ;
+:TV_Line_055_ZH a :TranslationVariant ;
     :text "再后来两个兄弟同一天"^^xsd:string ;
     :relatedTo :Line_055 .
 
-:TV_Line_056_zh a :TranslationVariant ;
+:TV_Line_056_ZH a :TranslationVariant ;
     :text "自相残杀，这两位不幸者"^^xsd:string ;
     :relatedTo :Line_056 .
 
-:TV_Line_057_zh a :TranslationVariant ;
+:TV_Line_057_ZH a :TranslationVariant ;
     :text "彼此以手造成了共同的死局。"^^xsd:string ;
     :relatedTo :Line_057 .
 
-:TV_Line_058_zh a :TranslationVariant ;
+:TV_Line_058_ZH a :TranslationVariant ;
     :text "如今只剩我们二人，想想看"^^xsd:string ;
     :relatedTo :Line_058 .
 
-:TV_Line_059_zh a :TranslationVariant ;
+:TV_Line_059_ZH a :TranslationVariant ;
     :text "若我们以强力违抗法令"^^xsd:string ;
     :relatedTo :Line_059 .
 
-:TV_Line_060_zh a :TranslationVariant ;
+:TV_Line_060_ZH a :TranslationVariant ;
     :text "违背统治者的裁断与权力，会怎样最惨地灭亡。"^^xsd:string ;
     :relatedTo :Line_060 .
 
-:TV_Line_061_zh a :TranslationVariant ;
+:TV_Line_061_ZH a :TranslationVariant ;
     :text "还要记住，我们是女人，"^^xsd:string ;
     :relatedTo :Line_061 .
 
-:TV_Line_062_zh a :TranslationVariant ;
+:TV_Line_062_ZH a :TranslationVariant ;
     :text "生来不能与男人争斗；"^^xsd:string ;
     :relatedTo :Line_062 .
 

@@ -4,35 +4,35 @@
 
 :stasimon_04-translations-944-965-chinese a owl:Ontology .
 
-:TV_Line_944_zh a :TranslationVariant ; :relatedTo :Line_944 ;
+:TV_Line_944_ZH a :TranslationVariant ; :relatedTo :Line_944 ;
   :text "达那厄也曾忍受，把天日之光"^^xsd:string .
-:TV_Line_945_zh a :TranslationVariant ; :relatedTo :Line_945 ;
+:TV_Line_945_ZH a :TranslationVariant ; :relatedTo :Line_945 ;
   :text "换成被青铜围栏锁住的身躯；"^^xsd:string .
-:TV_Line_946_zh a :TranslationVariant ; :relatedTo :Line_946 ;
+:TV_Line_946_ZH a :TranslationVariant ; :relatedTo :Line_946 ;
   :text "她被藏在如坟墓般的室中，受了囚禁。"^^xsd:string .
-:TV_Line_947_zh a :TranslationVariant ; :relatedTo :Line_947 ;
+:TV_Line_947_ZH a :TranslationVariant ; :relatedTo :Line_947 ;
   :text "然而她在出身上也极尊贵，孩子啊，孩子，"^^xsd:string .
-:TV_Line_950_zh a :TranslationVariant ; :relatedTo :Line_950 ;
+:TV_Line_950_ZH a :TranslationVariant ; :relatedTo :Line_950 ;
   :text "并守护着宙斯金雨般的胚种。"^^xsd:string .
-:TV_Line_951_zh a :TranslationVariant ; :relatedTo :Line_951 ;
+:TV_Line_951_ZH a :TranslationVariant ; :relatedTo :Line_951 ;
   :text "但命运之力可怖无比；"^^xsd:string .
-:TV_Line_952_zh a :TranslationVariant ; :relatedTo :Line_952 ;
+:TV_Line_952_ZH a :TranslationVariant ; :relatedTo :Line_952 ;
   :text "无论财富、战神、城墙，还是黑首"^^xsd:string .
-:TV_Line_953_zh a :TranslationVariant ; :relatedTo :Line_953 ;
+:TV_Line_953_ZH a :TranslationVariant ; :relatedTo :Line_953 ;
   :text "海船，都逃不过它。"^^xsd:string .
-:TV_Line_955_zh a :TranslationVariant ; :relatedTo :Line_955 ;
+:TV_Line_955_ZH a :TranslationVariant ; :relatedTo :Line_955 ;
   :text "连暴躁的德律阿斯之子也被捆住，"^^xsd:string .
-:TV_Line_956_zh a :TranslationVariant ; :relatedTo :Line_956 ;
+:TV_Line_956_ZH a :TranslationVariant ; :relatedTo :Line_956 ;
   :text "那位埃冬尼斯人之王，因其嘲弄的狂怒，"^^xsd:string .
-:TV_Line_957_zh a :TranslationVariant ; :relatedTo :Line_957 ;
+:TV_Line_957_ZH a :TranslationVariant ; :relatedTo :Line_957 ;
   :text "被狄俄尼索斯囚在石牢中。"^^xsd:string .
-:TV_Line_958_zh a :TranslationVariant ; :relatedTo :Line_958 ;
+:TV_Line_958_ZH a :TranslationVariant ; :relatedTo :Line_958 ;
   :text "于是那狂躁可怕的冲力便沉淀下来，"^^xsd:string .
-:TV_Line_960_zh a :TranslationVariant ; :relatedTo :Line_960 ;
+:TV_Line_960_ZH a :TranslationVariant ; :relatedTo :Line_960 ;
   :text "连他盛放的强力也如此。他才明白，以其狂言"^^xsd:string .
-:TV_Line_961_zh a :TranslationVariant ; :relatedTo :Line_961 ;
+:TV_Line_961_ZH a :TranslationVariant ; :relatedTo :Line_961 ;
   :text "是在以侮辱之舌触犯神明。"^^xsd:string .
-:TV_Line_962_zh a :TranslationVariant ; :relatedTo :Line_962 ;
+:TV_Line_962_ZH a :TranslationVariant ; :relatedTo :Line_962 ;
   :text "因为他曾想阻止狂喜的酒神女与酒神之火，"^^xsd:string .
-:TV_Line_965_zh a :TranslationVariant ; :relatedTo :Line_965 ;
+:TV_Line_965_ZH a :TranslationVariant ; :relatedTo :Line_965 ;
   :text "并激怒那爱笛之缪斯。"^^xsd:string .

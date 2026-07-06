@@ -1281,30 +1281,30 @@ rdfs:Comment rdf:type owl:Class .
 
 
 ###  http://example.org/antigone#Line_085
-:Line_085 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :containsEmotion :Emotion_Fear ;
-          :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-          :lineNumber 85 ;
-          :text "I will keep it a secret, I promise!" .
+#:Line_085 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :containsEmotion :Emotion_Fear ;
+#          :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#          :lineNumber 85 ;
+#          :text "I will keep it a secret, I promise!" .
 
 
 ###  http://example.org/antigone#Line_086
-:Line_086 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :containsEmotion :Emotion_Courage ;
-          :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-          :lineNumber 86 ;
-          :text "Oh tell it! Tell everyone" .
+#:Line_086 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :containsEmotion :Emotion_Courage ;
+#          :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#          :lineNumber 86 ;
+#          :text "Oh tell it! Tell everyone" .
 
 
 ###  http://example.org/antigone#Line_087
-:Line_087 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :containsEmotion :Emotion_Courage ;
-          :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-          :lineNumber 87 ;
-          :text "Think how they’ll hate you when it all comes out" .
+#:Line_087 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :containsEmotion :Emotion_Courage ;
+#          :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#          :lineNumber 87 ;
+#          :text "Think how they’ll hate you when it all comes out" .
 
 
 ###  http://example.org/antigone#Line_088
@@ -1408,128 +1408,128 @@ rdfs:Comment rdf:type owl:Class .
 
 
 ###  http://example.org/antigone#Line_099
-:Line_099 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :partOfScene :Antigone_Scene_Parodos ;
-          :referencesMyth :Thebes_Seven_Gates ;
-          :lineNumber 99 ;
-          :text "Touches with glory Thebes of the Seven Gates." .
+#:Line_099 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :partOfScene :Antigone_Scene_Parodos ;
+#          :referencesMyth :Thebes_Seven_Gates ;
+#          :lineNumber 99 ;
+#          :text "Touches with glory Thebes of the Seven Gates." .
 
 
 ###  http://example.org/antigone#Line_100
-:Line_100 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :partOfScene :Antigone_Scene_Parodos ;
-          :lineNumber 100 ;
-          :text "Open, unlidded Eye of golden day!" .
+#:Line_100 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :partOfScene :Antigone_Scene_Parodos ;
+#          :lineNumber 100 ;
+#          :text "Open, unlidded Eye of golden day!" .
 
 
 ###  http://example.org/antigone#Line_101
-:Line_101 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :partOfScene :Antigone_Scene_Parodos ;
-          :referencesMyth :Dirce_Stream ;
-          :lineNumber 101 ;
-          :text "O marching light across the eddy and rush of Dirce’s stream," .
+# :Line_101 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :partOfScene :Antigone_Scene_Parodos ;
+#          :referencesMyth :Dirce_Stream ;
+#          :lineNumber 101 ;
+#          :text "O marching light across the eddy and rush of Dirce’s stream," .
 
 
 ###  http://example.org/antigone#Line_102
-:Line_102 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :partOfScene :Antigone_Scene_Parodos ;
-          :lineNumber 102 ;
-          :text "Striking the white shields of the enemy" .
+#:Line_102 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :partOfScene :Antigone_Scene_Parodos ;
+#          :lineNumber 102 ;
+#          :text "Striking the white shields of the enemy" .
 
 
 ###  http://example.org/antigone#Line_103
-:Line_103 rdf:type owl:NamedIndividual ,
-                   :Line ;
-          :partOfScene :Antigone_Scene_Parodos ;
-          :lineNumber 103 ;
-          :text "Thrown headlong backward from the blaze of morning!" .
+#:Line_103 rdf:type owl:NamedIndividual ,
+#                   :Line ;
+#          :partOfScene :Antigone_Scene_Parodos ;
+#          :lineNumber 103 ;
+#          :text "Thrown headlong backward from the blaze of morning!" .
 
 
 ###  http://example.org/antigone#Speech_Antigone_86_88
-:Speech_Antigone_86_88 rdf:type owl:NamedIndividual ,
-                                :Speech ;
-                       :containsLine :Line_086 ,
-                                     :Line_087 ,
-                                     :Line_088 ;
-                       :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                       :speechBy :Antigone_Character_Antigone .
+#:Speech_Antigone_86_88 rdf:type owl:NamedIndividual ,
+#                                :Speech ;
+#                       :containsLine :Line_086 ,
+#                                     :Line_087 ,
+#                                     :Line_088 ;
+#                       :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                       :speechBy :Antigone_Character_Antigone .
 
 
 ###  http://example.org/antigone#Speech_Antigone_90
-:Speech_Antigone_90 rdf:type owl:NamedIndividual ,
-                             :Speech ;
-                    :containsLine :Line_090 ;
-                    :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                    :speechBy :Antigone_Character_Antigone .
+#:Speech_Antigone_90 rdf:type owl:NamedIndividual ,
+#                             :Speech ;
+#                    :containsLine :Line_090 ;
+#                    :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                    :speechBy :Antigone_Character_Antigone .
 
 
 ###  http://example.org/antigone#Speech_Antigone_92
-:Speech_Antigone_92 rdf:type owl:NamedIndividual ,
-                             :Speech ;
-                    :containsLine :Line_092 ;
-                    :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                    :speechBy :Antigone_Character_Antigone .
+#:Speech_Antigone_92 rdf:type owl:NamedIndividual ,
+#                             :Speech ;
+#                    :containsLine :Line_092 ;
+#                    :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                    :speechBy :Antigone_Character_Antigone .
 
 
 ###  http://example.org/antigone#Speech_Antigone_94_97
-:Speech_Antigone_94_97 rdf:type owl:NamedIndividual ,
-                                :Speech ;
-                       :containsLine :Line_094 ,
-                                     :Line_095 ,
-                                     :Line_096 ,
-                                     :Line_097 ;
-                       :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                       :speechBy :Antigone_Character_Antigone .
+#:Speech_Antigone_94_97 rdf:type owl:NamedIndividual ,
+#                                :Speech ;
+#                       :containsLine :Line_094 ,
+#                                     :Line_095 ,
+#                                     :Line_096 ,
+#                                     :Line_097 ;
+#                      :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                       :speechBy :Antigone_Character_Antigone .
 
 
 ###  http://example.org/antigone#Speech_Chorus_Parodos_98_103
-:Speech_Chorus_Parodos_98_103 rdf:type owl:NamedIndividual ,
-                                       :Speech ;
-                              :containsLine :Line_098 ,
-                                            :Line_099 ,
-                                            :Line_100 ,
-                                            :Line_101 ,
-                                            :Line_102 ,
-                                            :Line_103 ;
-                              :partOfScene :Antigone_Scene_Parodos ;
-                              :speechBy :Antigone_Chorus .
+#:Speech_Chorus_Parodos_98_103 rdf:type owl:NamedIndividual ,
+#                                       :Speech ;
+#                              :containsLine :Line_098 ,
+#                                            :Line_099 ,
+#                                            :Line_100 ,
+#                                            :Line_101 ,
+#                                            :Line_102 ,
+#                                            :Line_103 ;
+#                              :partOfScene :Antigone_Scene_Parodos ;
+#                              :speechBy :Antigone_Chorus .
 
 
 ###  http://example.org/antigone#Speech_Ismene_84_85
-:Speech_Ismene_84_85 rdf:type owl:NamedIndividual ,
-                              :Speech ;
-                     :containsLine :Line_084 ,
-                                   :Line_085 ;
-                     :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                     :speechBy :Antigone_Character_Ismene .
+#:Speech_Ismene_84_85 rdf:type owl:NamedIndividual ,
+#                              :Speech ;
+#                     :containsLine :Line_084 ,
+#                                   :Line_085 ;
+#                     :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                     :speechBy :Antigone_Character_Ismene .
 
 
 ###  http://example.org/antigone#Speech_Ismene_89
-:Speech_Ismene_89 rdf:type owl:NamedIndividual ,
-                           :Speech ;
-                  :containsLine :Line_089 ;
-                  :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                  :speechBy :Antigone_Character_Ismene .
+#:Speech_Ismene_89 rdf:type owl:NamedIndividual ,
+#                           :Speech ;
+#                  :containsLine :Line_089 ;
+#                  :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                  :speechBy :Antigone_Character_Ismene .
 
 
 ###  http://example.org/antigone#Speech_Ismene_91
-:Speech_Ismene_91 rdf:type owl:NamedIndividual ,
-                           :Speech ;
-                  :containsLine :Line_091 ;
-                  :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                  :speechBy :Antigone_Character_Ismene .
+#:Speech_Ismene_91 rdf:type owl:NamedIndividual ,
+#                           :Speech ;
+#                  :containsLine :Line_091 ;
+#                  :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                  :speechBy :Antigone_Character_Ismene .
 
 
 ###  http://example.org/antigone#Speech_Ismene_93
-:Speech_Ismene_93 rdf:type owl:NamedIndividual ,
-                           :Speech ;
-                  :containsLine :Line_093 ;
-                  :partOfScene :Antigone_Scene_Dialogue_84_97 ;
-                  :speechBy :Antigone_Character_Ismene .
+#:Speech_Ismene_93 rdf:type owl:NamedIndividual ,
+#                           :Speech ;
+#                  :containsLine :Line_093 ;
+#                  :partOfScene :Antigone_Scene_Dialogue_84_97 ;
+#                  :speechBy :Antigone_Character_Ismene .
 
 
 ###  http://example.org/antigone#Sun_God_Motif

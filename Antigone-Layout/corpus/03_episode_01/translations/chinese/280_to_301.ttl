@@ -4,91 +4,91 @@
 
 :episode_01-translations-280-301-chinese a owl:Ontology .
 
-:TV_Line_280_zh a :TranslationVariant ;
+:TV_Line_280_ZH a :TranslationVariant ;
     :text "克瑞翁：住口！别让你的话把我激怒，"^^xsd:string ;
     :relatedTo :Line_280 .
 
-:TV_Line_281_zh a :TranslationVariant ;
+:TV_Line_281_ZH a :TranslationVariant ;
     :text "叫人发现你不只年老，还是愚蠢。"^^xsd:string ;
     :relatedTo :Line_281 .
 
-:TV_Line_282_zh a :TranslationVariant ;
+:TV_Line_282_ZH a :TranslationVariant ;
     :text "你所说之事不可想象，"^^xsd:string ;
     :relatedTo :Line_282 .
 
-:TV_Line_283_zh a :TranslationVariant ;
+:TV_Line_283_ZH a :TranslationVariant ;
     :text "说诸神在护佑这具尸体。"^^xsd:string ;
     :relatedTo :Line_283 .
 
-:TV_Line_284_zh a :TranslationVariant ;
+:TV_Line_284_ZH a :TranslationVariant ;
     :text "是诸神埋葬了这人，"^^xsd:string ;
     :relatedTo :Line_284 .
 
-:TV_Line_285_zh a :TranslationVariant ;
+:TV_Line_285_ZH a :TranslationVariant ;
     :text "来表彰他的善行吗？"^^xsd:string ;
     :relatedTo :Line_285 .
 
-:TV_Line_286_zh a :TranslationVariant ;
+:TV_Line_286_ZH a :TranslationVariant ;
     :text "这个来焚毁"^^xsd:string ;
     :relatedTo :Line_286 .
 
-:TV_Line_287_zh a :TranslationVariant ;
+:TV_Line_287_ZH a :TranslationVariant ;
     :text "他们柱环神庙、圣供与土地的人——"^^xsd:string ;
     :relatedTo :Line_287 .
 
-:TV_Line_288_zh a :TranslationVariant ;
+:TV_Line_288_ZH a :TranslationVariant ;
     :text "这个把法度抛诸风中的人？"^^xsd:string ;
     :relatedTo :Line_288 .
 
-:TV_Line_289_zh a :TranslationVariant ;
+:TV_Line_289_ZH a :TranslationVariant ;
     :text "不是；而是城里某些人早就在"^^xsd:string ;
     :relatedTo :Line_289 .
 
-:TV_Line_290_zh a :TranslationVariant ;
+:TV_Line_290_ZH a :TranslationVariant ;
     :text "私下对我不满，"^^xsd:string ;
     :relatedTo :Line_290 .
 
-:TV_Line_291_zh a :TranslationVariant ;
+:TV_Line_291_ZH a :TranslationVariant ;
     :text "暗中仰头怨语，不肯把"^^xsd:string ;
     :relatedTo :Line_291 .
 
-:TV_Line_292_zh a :TranslationVariant ;
+:TV_Line_292_ZH a :TranslationVariant ;
     :text "他们的脖子放进公正服从我的轭下。"^^xsd:string ;
     :relatedTo :Line_292 .
 
-:TV_Line_293_zh a :TranslationVariant ;
+:TV_Line_293_ZH a :TranslationVariant ;
     :text "所以很明显，"^^xsd:string ;
     :relatedTo :Line_293 .
 
-:TV_Line_294_zh a :TranslationVariant ;
+:TV_Line_294_ZH a :TranslationVariant ;
     :text "这些人受了贿赂。"^^xsd:string ;
     :relatedTo :Line_294 .
 
-:TV_Line_295_zh a :TranslationVariant ;
+:TV_Line_295_ZH a :TranslationVariant ;
     :text "在人类一切习俗中，没有比金钱"^^xsd:string ;
     :relatedTo :Line_295 .
 
-:TV_Line_296_zh a :TranslationVariant ;
+:TV_Line_296_ZH a :TranslationVariant ;
     :text "更坏的了。它腐蚀城邦，"^^xsd:string ;
     :relatedTo :Line_296 .
 
-:TV_Line_297_zh a :TranslationVariant ;
+:TV_Line_297_ZH a :TranslationVariant ;
     :text "把人逐离家园，"^^xsd:string ;
     :relatedTo :Line_297 .
 
-:TV_Line_298_zh a :TranslationVariant ;
+:TV_Line_298_ZH a :TranslationVariant ;
     :text "诱惑并教唆本可端正的"^^xsd:string ;
     :relatedTo :Line_298 .
 
-:TV_Line_299_zh a :TranslationVariant ;
+:TV_Line_299_ZH a :TranslationVariant ;
     :text "心智，走向卑劣之途。"^^xsd:string ;
     :relatedTo :Line_299 .
 
-:TV_Line_300_zh a :TranslationVariant ;
+:TV_Line_300_ZH a :TranslationVariant ;
     :text "它教会了人作恶。"^^xsd:string ;
     :relatedTo :Line_300 .
 
-:TV_Line_301_zh a :TranslationVariant ;
+:TV_Line_301_ZH a :TranslationVariant ;
     :text "它使每一件事都变得不敬神。"^^xsd:string ;
     :relatedTo :Line_301 .
 

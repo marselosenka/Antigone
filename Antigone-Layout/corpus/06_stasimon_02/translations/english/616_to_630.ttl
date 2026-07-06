@@ -5,49 +5,49 @@
 :stasimon_02-translations-616-630-english a owl:Ontology .
 # English translation variants extracted from 616_to_630.ttl
 
-:TV_Line_616_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_616_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Behold that much-wandering hope; to many a benefit, yet to others a trick of thoughtless lust."^^xsd:string ;
     :relatedTo :Line_616 .
 
-:TV_Line_617_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_617_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Its victim is unknowing, before he touches his foot to a blazing fire."^^xsd:string ;
     :relatedTo :Line_617 .
 
-:TV_Line_620_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_620_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "For with wisdom was the famous saying once revealed:"^^xsd:string ;
     :relatedTo :Line_620 .
 
-:TV_Line_621_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_621_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "That evil can sometimes seem good to the one"^^xsd:string ;
     :relatedTo :Line_621 .
 
-:TV_Line_622_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_622_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "whose mind and senses"^^xsd:string ;
     :relatedTo :Line_622 .
 
-:TV_Line_623_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_623_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "the gods are leading toward ruin."^^xsd:string ;
     :relatedTo :Line_623 .
 
 # Line 624 does not exist in Antigone. 
 
-:TV_Line_625_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_625_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet he goes about free from destruction for only the shortest time."^^xsd:string ;
     :relatedTo :Line_625 .
 
-:TV_Line_626_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_626_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Behold! Here is Haemon, the youngest of your children;"^^xsd:string ;
     :relatedTo :Line_626 .
 
-:TV_Line_627_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_627_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "does he come grieving for the fate"^^xsd:string ;
     :relatedTo :Line_627 .
 
-:TV_Line_628_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_628_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "of his promised bride, Antigone,"^^xsd:string ;
     :relatedTo :Line_628 .
 
 # Line 629 does not exist in Antigone. 
-:TV_Line_630_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_630_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "anguished by the deception of his marriage bed?"^^xsd:string ;
     :relatedTo :Line_630 .

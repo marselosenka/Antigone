@@ -4,86 +4,86 @@
 
 :parodos-translations-141-161-greek a owl:Ontology .
 
-:TV_Line_141_gr a :TranslationVariant ;
+:TV_Line_141_GR a :TranslationVariant ;
     :text "Γιατί επτά λοχαγοί σε επτά πύλες,"^^xsd:string ;
     :relatedTo :Line_141 .
 
-:TV_Line_142_gr a :TranslationVariant ;
+:TV_Line_142_GR a :TranslationVariant ;
     :text "ταγμένοι ίσοι απέναντι σε ίσους, άφησαν"^^xsd:string ;
     :relatedTo :Line_142 .
 
-:TV_Line_143_gr a :TranslationVariant ;
+:TV_Line_143_GR a :TranslationVariant ;
     :text "στον Δία τον Τροπαίο τα ολόχαλκα αφιερώματά τους,"^^xsd:string ;
     :relatedTo :Line_143 .
 
-:TV_Line_144_gr a :TranslationVariant ;
+:TV_Line_144_GR a :TranslationVariant ;
     :text "εκτός από τους δυο μισητούς, από έναν πατέρα"^^xsd:string ;
     :relatedTo :Line_144 .
 
-:TV_Line_145_gr a :TranslationVariant ;
+:TV_Line_145_GR a :TranslationVariant ;
     :text "και από μία μητέρα γεννημένους, που ο ένας στον άλλον"^^xsd:string ;
     :relatedTo :Line_145 .
 
-:TV_Line_146_gr a :TranslationVariant ;
+:TV_Line_146_GR a :TranslationVariant ;
     :text "σήκωσαν τις δυο πανίσχυρες λόγχες"^^xsd:string ;
     :relatedTo :Line_146 .
 
-:TV_Line_147_gr a :TranslationVariant ;
+:TV_Line_147_GR a :TranslationVariant ;
     :text "και πήραν και οι δυο μερίδιο από κοινό θάνατο."^^xsd:string ;
     :relatedTo :Line_147 .
 
-:TV_Line_148_gr a :TranslationVariant ;
+:TV_Line_148_GR a :TranslationVariant ;
     :text "Μα τώρα ήρθε η μεγαλώνυμη Νίκη"^^xsd:string ;
     :relatedTo :Line_148 .
 
-:TV_Line_149_gr a :TranslationVariant ;
+:TV_Line_149_GR a :TranslationVariant ;
     :text "στην πολυάρματη Θήβα, χαρούμενη με τη χαρά της,"^^xsd:string ;
     :relatedTo :Line_149 .
 
-:TV_Line_150_gr a :TranslationVariant ;
+:TV_Line_150_GR a :TranslationVariant ;
     :text "κι έτσι, από τους τωρινούς πολέμους,"^^xsd:string ;
     :relatedTo :Line_150 .
 
-:TV_Line_151_gr a :TranslationVariant ;
+:TV_Line_151_GR a :TranslationVariant ;
     :text "ας βάλουμε λησμοσύνη,"^^xsd:string ;
     :relatedTo :Line_151 .
 
-:TV_Line_152_gr a :TranslationVariant ;
+:TV_Line_152_GR a :TranslationVariant ;
     :text "κι ας πάμε σε όλους τους ναούς των θεών"^^xsd:string ;
     :relatedTo :Line_152 .
 
-:TV_Line_153_gr a :TranslationVariant ;
+:TV_Line_153_GR a :TranslationVariant ;
     :text "με ολονύχτιους χορούς."^^xsd:string ;
     :relatedTo :Line_153 .
 
-:TV_Line_154_gr a :TranslationVariant ;
+:TV_Line_154_GR a :TranslationVariant ;
     :text "Και ο Βάκχιος, που συγκλονίζει τη Θήβα,"^^xsd:string ;
     :relatedTo :Line_154 .
 
-:TV_Line_155_gr a :TranslationVariant ;
+:TV_Line_155_GR a :TranslationVariant ;
     :text "ας ηγηθεί του χορού."^^xsd:string ;
     :relatedTo :Line_155 .
 
-:TV_Line_156_gr a :TranslationVariant ;
+:TV_Line_156_GR a :TranslationVariant ;
     :text "Αλλά να, έρχεται ο βασιλιάς της χώρας,"^^xsd:string ;
     :relatedTo :Line_156 .
 
-:TV_Line_157_gr a :TranslationVariant ;
+:TV_Line_157_GR a :TranslationVariant ;
     :text "ο Κρέων, του Μενοικέα, νεοφανής,"^^xsd:string ;
     :relatedTo :Line_157 .
 
-:TV_Line_158_gr a :TranslationVariant ;
+:TV_Line_158_GR a :TranslationVariant ;
     :text "με τις νέες συγκυρίες των θεών."^^xsd:string ;
     :relatedTo :Line_158 .
 
-:TV_Line_159_gr a :TranslationVariant ;
+:TV_Line_159_GR a :TranslationVariant ;
     :text "Προχωρεί, τι άραγε νέο σχέδιο αρμενίζει,"^^xsd:string ;
     :relatedTo :Line_159 .
 
-:TV_Line_160_gr a :TranslationVariant ;
+:TV_Line_160_GR a :TranslationVariant ;
     :text "αφού αυτή τη σύγκλητο των γερόντων"^^xsd:string ;
     :relatedTo :Line_160 .
 
-:TV_Line_161_gr a :TranslationVariant ;
+:TV_Line_161_GR a :TranslationVariant ;
     :text "έθεσε σε σύναξη, στέλνοντας κοινό κήρυγμα;"^^xsd:string ;
     :relatedTo :Line_161 .

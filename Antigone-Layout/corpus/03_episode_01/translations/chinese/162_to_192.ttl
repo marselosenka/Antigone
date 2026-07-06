@@ -4,127 +4,127 @@
 
 :episode_01-translations-162-192-chinese a owl:Ontology .
 
-:TV_Line_162_zh a :TranslationVariant ;
+:TV_Line_162_ZH a :TranslationVariant ;
     :text "诸位，诸神终于使我们的城重新稳立，"^^xsd:string ;
     :relatedTo :Line_162 .
 
-:TV_Line_163_zh a :TranslationVariant ;
+:TV_Line_163_ZH a :TranslationVariant ;
     :text "在大风暴摇撼之后，又把它扶正。"^^xsd:string ;
     :relatedTo :Line_163 .
 
-:TV_Line_164_zh a :TranslationVariant ;
+:TV_Line_164_ZH a :TranslationVariant ;
     :text "我召你们来，并把你们与众人区分，"^^xsd:string ;
     :relatedTo :Line_164 .
 
-:TV_Line_165_zh a :TranslationVariant ;
+:TV_Line_165_ZH a :TranslationVariant ;
     :text "首先因为我知道你们一向尊奉"^^xsd:string ;
     :relatedTo :Line_165 .
 
-:TV_Line_166_zh a :TranslationVariant ;
+:TV_Line_166_ZH a :TranslationVariant ;
     :text "拉伊俄斯王位的权威，"^^xsd:string ;
     :relatedTo :Line_166 .
 
-:TV_Line_167_zh a :TranslationVariant ;
+:TV_Line_167_ZH a :TranslationVariant ;
     :text "后来俄狄浦斯使城复兴时也是如此，"^^xsd:string ;
     :relatedTo :Line_167 .
 
-:TV_Line_168_zh a :TranslationVariant ;
+:TV_Line_168_ZH a :TranslationVariant ;
     :text "他死后，你们仍以坚定之心"^^xsd:string ;
     :relatedTo :Line_168 .
 
-:TV_Line_169_zh a :TranslationVariant ;
+:TV_Line_169_ZH a :TranslationVariant ;
     :text "忠于他的子嗣。"^^xsd:string ;
     :relatedTo :Line_169 .
 
-:TV_Line_170_zh a :TranslationVariant ;
+:TV_Line_170_ZH a :TranslationVariant ;
     :text "但当那二人同日"^^xsd:string ;
     :relatedTo :Line_170 .
 
-:TV_Line_171_zh a :TranslationVariant ;
+:TV_Line_171_ZH a :TranslationVariant ;
     :text "死于双重命运，"^^xsd:string ;
     :relatedTo :Line_171 .
 
-:TV_Line_172_zh a :TranslationVariant ;
+:TV_Line_172_ZH a :TranslationVariant ;
     :text "以同罪之血彼此击杀并受击时，"^^xsd:string ;
     :relatedTo :Line_172 .
 
-:TV_Line_173_zh a :TranslationVariant ;
+:TV_Line_173_ZH a :TranslationVariant ;
     :text "我如今掌有全部权力与王位，"^^xsd:string ;
     :relatedTo :Line_173 .
 
-:TV_Line_174_zh a :TranslationVariant ;
+:TV_Line_174_ZH a :TranslationVariant ;
     :text "凭与死者最近的亲缘而得。"^^xsd:string ;
     :relatedTo :Line_174 .
 
-:TV_Line_175_zh a :TranslationVariant ;
+:TV_Line_175_ZH a :TranslationVariant ;
     :text "然而你永远不能真正知道一个人的心，"^^xsd:string ;
     :relatedTo :Line_175 .
 
-:TV_Line_176_zh a :TranslationVariant ;
+:TV_Line_176_ZH a :TranslationVariant ;
     :text "其思想与灵魂，直到"^^xsd:string ;
     :relatedTo :Line_176 .
 
-:TV_Line_177_zh a :TranslationVariant ;
+:TV_Line_177_ZH a :TranslationVariant ;
     :text "你亲见他执政之日。"^^xsd:string ;
     :relatedTo :Line_177 .
 
-:TV_Line_178_zh a :TranslationVariant ;
+:TV_Line_178_ZH a :TranslationVariant ;
     :text "在我看来，最坏的统治者"^^xsd:string ;
     :relatedTo :Line_178 .
 
-:TV_Line_179_zh a :TranslationVariant ;
+:TV_Line_179_ZH a :TranslationVariant ;
     :text "是那种不明言其意志而统治的人，"^^xsd:string ;
     :relatedTo :Line_179 .
 
-:TV_Line_180_zh a :TranslationVariant ;
+:TV_Line_180_ZH a :TranslationVariant ;
     :text "因害怕而噤口不言的人——"^^xsd:string ;
     :relatedTo :Line_180 .
 
-:TV_Line_181_zh a :TranslationVariant ;
+:TV_Line_181_ZH a :TranslationVariant ;
     :text "从前如此，现在亦如此，此类最卑下。"^^xsd:string ;
     :relatedTo :Line_181 .
 
-:TV_Line_182_zh a :TranslationVariant ;
+:TV_Line_182_ZH a :TranslationVariant ;
     :text "同样，我也绝不赞同把朋友"^^xsd:string ;
     :relatedTo :Line_182 .
 
-:TV_Line_183_zh a :TranslationVariant ;
+:TV_Line_183_ZH a :TranslationVariant ;
     :text "置于国家之前的人。"^^xsd:string ;
     :relatedTo :Line_183 .
 
-:TV_Line_184_zh a :TranslationVariant ;
+:TV_Line_184_ZH a :TranslationVariant ;
     :text "请作证吧，全视之宙斯："^^xsd:string ;
     :relatedTo :Line_184 .
 
-:TV_Line_185_zh a :TranslationVariant ;
+:TV_Line_185_ZH a :TranslationVariant ;
     :text "若我看见灾祸威胁城邦安全，"^^xsd:string ;
     :relatedTo :Line_185 .
 
-:TV_Line_186_zh a :TranslationVariant ;
+:TV_Line_186_ZH a :TranslationVariant ;
     :text "我绝不会沉默。"^^xsd:string ;
     :relatedTo :Line_186 .
 
-:TV_Line_187_zh a :TranslationVariant ;
+:TV_Line_187_ZH a :TranslationVariant ;
     :text "我绝不会与国家之敌"^^xsd:string ;
     :relatedTo :Line_187 .
 
-:TV_Line_188_zh a :TranslationVariant ;
+:TV_Line_188_ZH a :TranslationVariant ;
     :text "结为朋友，因为我知道"^^xsd:string ;
     :relatedTo :Line_188 .
 
-:TV_Line_189_zh a :TranslationVariant ;
+:TV_Line_189_ZH a :TranslationVariant ;
     :text "国家是我们共同的庇护，且我们只能把"^^xsd:string ;
     :relatedTo :Line_189 .
 
-:TV_Line_190_zh a :TranslationVariant ;
+:TV_Line_190_ZH a :TranslationVariant ;
     :text "同舟者视为真友。"^^xsd:string ;
     :relatedTo :Line_190 .
 
-:TV_Line_191_zh a :TranslationVariant ;
+:TV_Line_191_ZH a :TranslationVariant ;
     :text "我将依这些原则荣耀城邦。"^^xsd:string ;
     :relatedTo :Line_191 .
 
-:TV_Line_192_zh a :TranslationVariant ;
+:TV_Line_192_ZH a :TranslationVariant ;
     :text "带着这些原则，我已发布一项公开诏令。"^^xsd:string ;
     :relatedTo :Line_192 .
 

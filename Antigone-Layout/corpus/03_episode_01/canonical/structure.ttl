@@ -2,7 +2,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:episode01-structure a owl:Ontology .
+:episode_01-structure a owl:Ontology .
 
 # --- 162 ---
 :Line_162 a owl:NamedIndividual, :Line ;

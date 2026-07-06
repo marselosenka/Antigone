@@ -6,122 +6,122 @@
 :hyporchema-translations-1115-1154-english a owl:Ontology .
 # English translation variants extracted from 1115_to_1154.ttl
 
-:TV_Line_1115_en a :TranslationVariant ;
+:TV_Line_1115_EN a :TranslationVariant ;
     :text "O many-named one, glory of the Cadmean bride,"^^xsd:string ;
     :relatedTo :Line_1115 .
 
-:TV_Line_1116_en a :TranslationVariant ;
+:TV_Line_1116_EN a :TranslationVariant ;
     :text "And offspring of loud-thundering Zeus,"^^xsd:string ;
     :relatedTo :Line_1116 .
 
-:TV_Line_1117_en a :TranslationVariant ;
+:TV_Line_1117_EN a :TranslationVariant ;
     :text "You who watch over famed Italy,"^^xsd:string ;
     :relatedTo :Line_1117 .
 
-:TV_Line_1118_en a :TranslationVariant ;
+:TV_Line_1118_EN a :TranslationVariant ;
     :text "And rule"^^xsd:string ;
     :relatedTo :Line_1118 .
 
-:TV_Line_1119_en a :TranslationVariant ;
+:TV_Line_1119_EN a :TranslationVariant ;
     :text "In the common bosom of Eleusinian"^^xsd:string ;
     :relatedTo :Line_1119 .
 
-:TV_Line_1120_en a :TranslationVariant ;
+:TV_Line_1120_EN a :TranslationVariant ;
     :text "Deo, Bacchus, leader of Bacchants,"^^xsd:string ;
     :relatedTo :Line_1120 .
 
-:TV_Line_1121_en a :TranslationVariant ;
+:TV_Line_1121_EN a :TranslationVariant ;
     :text "You who dwell in your mother-city Thebes"^^xsd:string ;
     :relatedTo :Line_1121 .
 
-:TV_Line_1122_en a :TranslationVariant ;
+:TV_Line_1122_EN a :TranslationVariant ;
     :text "By the flowing streams"^^xsd:string ;
     :relatedTo :Line_1122 .
 
-:TV_Line_1125_en a :TranslationVariant ;
+:TV_Line_1125_EN a :TranslationVariant ;
     :text "Of Ismenus and over the sown field of the savage dragon."^^xsd:string ;
     :relatedTo :Line_1125 .
 
-:TV_Line_1126_en a :TranslationVariant ;
+:TV_Line_1126_EN a :TranslationVariant ;
     :text "The flashing smoke has seen you"^^xsd:string ;
     :relatedTo :Line_1126 .
 
-:TV_Line_1127_en a :TranslationVariant ;
+:TV_Line_1127_EN a :TranslationVariant ;
     :text "Above the twin-peaked rock, where the Corycian"^^xsd:string ;
     :relatedTo :Line_1127 .
 
-:TV_Line_1128_en a :TranslationVariant ;
+:TV_Line_1128_EN a :TranslationVariant ;
     :text "Bacchants, the nymphs, go in procession;"^^xsd:string ;
     :relatedTo :Line_1128 .
 
-:TV_Line_1130_en a :TranslationVariant ;
+:TV_Line_1130_EN a :TranslationVariant ;
     :text "And the Castalian spring."^^xsd:string ;
     :relatedTo :Line_1130 .
 
-:TV_Line_1131_en a :TranslationVariant ;
+:TV_Line_1131_EN a :TranslationVariant ;
     :text "And it is you whom the ivy-clad slopes"^^xsd:string ;
     :relatedTo :Line_1131 .
 
-:TV_Line_1132_en a :TranslationVariant ;
+:TV_Line_1132_EN a :TranslationVariant ;
     :text "Of the Nysian hills and the green shore"^^xsd:string ;
     :relatedTo :Line_1132 .
 
-:TV_Line_1133_en a :TranslationVariant ;
+:TV_Line_1133_EN a :TranslationVariant ;
     :text "Rich with grapes send onward,"^^xsd:string ;
     :relatedTo :Line_1133 .
 
-:TV_Line_1134_en a :TranslationVariant ;
+:TV_Line_1134_EN a :TranslationVariant ;
     :text "While immortal voices"^^xsd:string ;
     :relatedTo :Line_1134 .
 
-:TV_Line_1135_en a :TranslationVariant ;
+:TV_Line_1135_EN a :TranslationVariant ;
     :text "Cry out in ecstasy as they watch over the streets of Thebes."^^xsd:string ;
     :relatedTo :Line_1135 .
 
-:TV_Line_1137_en a :TranslationVariant ;
+:TV_Line_1137_EN a :TranslationVariant ;
     :text "You honor her above all cities,"^^xsd:string ;
     :relatedTo :Line_1137 .
 
-:TV_Line_1138_en a :TranslationVariant ;
+:TV_Line_1138_EN a :TranslationVariant ;
     :text "Along with your lightning-struck mother;"^^xsd:string ;
     :relatedTo :Line_1138 .
 
-:TV_Line_1140_en a :TranslationVariant ;
+:TV_Line_1140_EN a :TranslationVariant ;
     :text "And now, when the whole people of the city is gripped"^^xsd:string ;
     :relatedTo :Line_1140 .
 
-:TV_Line_1141_en a :TranslationVariant ;
+:TV_Line_1141_EN a :TranslationVariant ;
     :text "By violent plague,"^^xsd:string ;
     :relatedTo :Line_1141 .
 
-:TV_Line_1142_en a :TranslationVariant ;
+:TV_Line_1142_EN a :TranslationVariant ;
     :text "Come with purifying foot over the Parnassian slope"^^xsd:string ;
     :relatedTo :Line_1142 .
 
-:TV_Line_1145_en a :TranslationVariant ;
+:TV_Line_1145_EN a :TranslationVariant ;
     :text "Or over the groaning strait."^^xsd:string ;
     :relatedTo :Line_1145 .
 
-:TV_Line_1146_en a :TranslationVariant ;
+:TV_Line_1146_EN a :TranslationVariant ;
     :text "O leader of the chorus of fire-breathing stars,"^^xsd:string ;
     :relatedTo :Line_1146 .
 
-:TV_Line_1147_en a :TranslationVariant ;
+:TV_Line_1147_EN a :TranslationVariant ;
     :text "Watcher over the voices of the night,"^^xsd:string ;
     :relatedTo :Line_1147 .
 
-:TV_Line_1148_en a :TranslationVariant ;
+:TV_Line_1148_EN a :TranslationVariant ;
     :text "Child begotten of Zeus, Appear,"^^xsd:string ;
     :relatedTo :Line_1148 .
 
-:TV_Line_1150_en a :TranslationVariant ;
+:TV_Line_1150_EN a :TranslationVariant ;
     :text "My lord, with your attendant band"^^xsd:string ;
     :relatedTo :Line_1150 .
 
-:TV_Line_1151_en a :TranslationVariant ;
+:TV_Line_1151_EN a :TranslationVariant ;
     :text "Of Thyiads, who in their frenzy"^^xsd:string ;
     :relatedTo :Line_1151 .
 
-:TV_Line_1152_en a :TranslationVariant ;
+:TV_Line_1152_EN a :TranslationVariant ;
     :text "Dance all night for you, Iacchus their steward."^^xsd:string ;
     :relatedTo :Line_1152 .

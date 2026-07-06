@@ -4,115 +4,115 @@
 
 :episode_04-translations-872-928-chinese a owl:Ontology .
 
-:TV_Line_872_zh a :TranslationVariant ; :relatedTo :Line_872 ;
+:TV_Line_872_ZH a :TranslationVariant ; :relatedTo :Line_872 ;
   :text "虔敬本有其虔敬之处，"^^xsd:string .
-:TV_Line_873_zh a :TranslationVariant ; :relatedTo :Line_873 ;
+:TV_Line_873_ZH a :TranslationVariant ; :relatedTo :Line_873 ;
   :text "但对执掌权力的人而言，"^^xsd:string .
-:TV_Line_874_zh a :TranslationVariant ; :relatedTo :Line_874 ;
+:TV_Line_874_ZH a :TranslationVariant ; :relatedTo :Line_874 ;
   :text "权力不容许任何违逆；"^^xsd:string .
-:TV_Line_875_zh a :TranslationVariant ; :relatedTo :Line_875 ;
+:TV_Line_875_ZH a :TranslationVariant ; :relatedTo :Line_875 ;
   :text "毁掉你的，是你自身的愤怒。"^^xsd:string .
-:TV_Line_876_zh a :TranslationVariant ; :relatedTo :Line_876 ;
+:TV_Line_876_ZH a :TranslationVariant ; :relatedTo :Line_876 ;
   :text "无人哭、无朋友、无婚配，我这苦命人被带走，"^^xsd:string .
-:TV_Line_877_zh a :TranslationVariant ; :relatedTo :Line_877 ;
+:TV_Line_877_ZH a :TranslationVariant ; :relatedTo :Line_877 ;
   :text "走上最后的路。此后我再不被允许"^^xsd:string .
-:TV_Line_878_zh a :TranslationVariant ; :relatedTo :Line_878 ;
+:TV_Line_878_ZH a :TranslationVariant ; :relatedTo :Line_878 ;
   :text "看见那神圣的眼睛，"^^xsd:string .
-:TV_Line_880_zh a :TranslationVariant ; :relatedTo :Line_880 ;
+:TV_Line_880_ZH a :TranslationVariant ; :relatedTo :Line_880 ;
   :text "那明亮太阳的眼睛，我这可怜人；"^^xsd:string .
-:TV_Line_881_zh a :TranslationVariant ; :relatedTo :Line_881 ;
+:TV_Line_881_ZH a :TranslationVariant ; :relatedTo :Line_881 ;
   :text "而我的命运，无人落泪，"^^xsd:string .
-:TV_Line_882_zh a :TranslationVariant ; :relatedTo :Line_882 ;
+:TV_Line_882_ZH a :TranslationVariant ; :relatedTo :Line_882 ;
   :text "没有任何亲人哀悼。"^^xsd:string .
-:TV_Line_883_zh a :TranslationVariant ; :relatedTo :Line_883 ;
+:TV_Line_883_ZH a :TranslationVariant ; :relatedTo :Line_883 ;
   :text "你知道，若一个人愿意，临死前的歌与哀哭"^^xsd:string .
-:TV_Line_884_zh a :TranslationVariant ; :relatedTo :Line_884 ;
+:TV_Line_884_ZH a :TranslationVariant ; :relatedTo :Line_884 ;
   :text "是永远也不会终止的。"^^xsd:string .
-:TV_Line_885_zh a :TranslationVariant ; :relatedTo :Line_885 ;
+:TV_Line_885_ZH a :TranslationVariant ; :relatedTo :Line_885 ;
   :text "你们还不快把她带走，越快越好，并把她"^^xsd:string .
-:TV_Line_886_zh a :TranslationVariant ; :relatedTo :Line_886 ;
+:TV_Line_886_ZH a :TranslationVariant ; :relatedTo :Line_886 ;
   :text "按我命令封进有盖的墓里，"^^xsd:string .
-:TV_Line_887_zh a :TranslationVariant ; :relatedTo :Line_887 ;
+:TV_Line_887_ZH a :TranslationVariant ; :relatedTo :Line_887 ;
   :text "让她独自留下、与世隔绝，不论她该死，"^^xsd:string .
-:TV_Line_888_zh a :TranslationVariant ; :relatedTo :Line_888 ;
+:TV_Line_888_ZH a :TranslationVariant ; :relatedTo :Line_888 ;
   :text "还是该在那样的居所中被活埋而生。"^^xsd:string .
-:TV_Line_889_zh a :TranslationVariant ; :relatedTo :Line_889 ;
+:TV_Line_889_ZH a :TranslationVariant ; :relatedTo :Line_889 ;
   :text "在此事上，我们对这女孩是清白的；"^^xsd:string .
-:TV_Line_890_zh a :TranslationVariant ; :relatedTo :Line_890 ;
+:TV_Line_890_ZH a :TranslationVariant ; :relatedTo :Line_890 ;
   :text "但她将被剥夺上方人世的居所。"^^xsd:string .
-:TV_Line_891_zh a :TranslationVariant ; :relatedTo :Line_891 ;
+:TV_Line_891_ZH a :TranslationVariant ; :relatedTo :Line_891 ;
   :text "啊，坟墓，啊，新房，啊，凿出的"^^xsd:string .
-:TV_Line_892_zh a :TranslationVariant ; :relatedTo :Line_892 ;
+:TV_Line_892_ZH a :TranslationVariant ; :relatedTo :Line_892 ;
   :text "永恒守卫之居，我正去往那里，"^^xsd:string .
-:TV_Line_893_zh a :TranslationVariant ; :relatedTo :Line_893 ;
+:TV_Line_893_ZH a :TranslationVariant ; :relatedTo :Line_893 ;
   :text "去往我的亲人那里，他们之中"^^xsd:string .
-:TV_Line_894_zh a :TranslationVariant ; :relatedTo :Line_894 ;
+:TV_Line_894_ZH a :TranslationVariant ; :relatedTo :Line_894 ;
   :text "已有最多的人被珀耳塞福涅接纳入死者。"^^xsd:string .
-:TV_Line_895_zh a :TranslationVariant ; :relatedTo :Line_895 ;
+:TV_Line_895_ZH a :TranslationVariant ; :relatedTo :Line_895 ;
   :text "在他们之后，我是最后一个，而且是最惨的方式，"^^xsd:string .
-:TV_Line_896_zh a :TranslationVariant ; :relatedTo :Line_896 ;
+:TV_Line_896_ZH a :TranslationVariant ; :relatedTo :Line_896 ;
   :text "在生命份额尚未完结前就下去。"^^xsd:string .
-:TV_Line_897_zh a :TranslationVariant ; :relatedTo :Line_897 ;
+:TV_Line_897_ZH a :TranslationVariant ; :relatedTo :Line_897 ;
   :text "然而我下去时仍怀着很大的希望，"^^xsd:string .
-:TV_Line_898_zh a :TranslationVariant ; :relatedTo :Line_898 ;
+:TV_Line_898_ZH a :TranslationVariant ; :relatedTo :Line_898 ;
   :text "望我到父亲那里时蒙爱，也蒙你之爱，"^^xsd:string .
-:TV_Line_899_zh a :TranslationVariant ; :relatedTo :Line_899 ;
+:TV_Line_899_ZH a :TranslationVariant ; :relatedTo :Line_899 ;
   :text "母亲啊，也蒙你之爱，兄弟啊；"^^xsd:string .
-:TV_Line_900_zh a :TranslationVariant ; :relatedTo :Line_900 ;
+:TV_Line_900_ZH a :TranslationVariant ; :relatedTo :Line_900 ;
   :text "因为当你们死去时，是我亲手"^^xsd:string .
-:TV_Line_901_zh a :TranslationVariant ; :relatedTo :Line_901 ;
+:TV_Line_901_ZH a :TranslationVariant ; :relatedTo :Line_901 ;
   :text "为你们洗身、装殓，并在你们墓上"^^xsd:string .
-:TV_Line_902_zh a :TranslationVariant ; :relatedTo :Line_902 ;
+:TV_Line_902_ZH a :TranslationVariant ; :relatedTo :Line_902 ;
   :text "倾献奠酒；而如今，波吕涅刻斯，因我掩埋你的"^^xsd:string .
-:TV_Line_903_zh a :TranslationVariant ; :relatedTo :Line_903 ;
+:TV_Line_903_ZH a :TranslationVariant ; :relatedTo :Line_903 ;
   :text "身体，我得到的报偿就是这样。"^^xsd:string .
-:TV_Line_904_zh a :TranslationVariant ; :relatedTo :Line_904 ;
+:TV_Line_904_ZH a :TranslationVariant ; :relatedTo :Line_904 ;
   :text "可在明智之人看来，我确实是敬重了你。"^^xsd:string .
-:TV_Line_905_zh a :TranslationVariant ; :relatedTo :Line_905 ;
+:TV_Line_905_ZH a :TranslationVariant ; :relatedTo :Line_905 ;
   :text "因为若我是孩子的母亲，"^^xsd:string .
-:TV_Line_906_zh a :TranslationVariant ; :relatedTo :Line_906 ;
+:TV_Line_906_ZH a :TranslationVariant ; :relatedTo :Line_906 ;
   :text "或若我的丈夫死去腐朽，"^^xsd:string .
-:TV_Line_907_zh a :TranslationVariant ; :relatedTo :Line_907 ;
+:TV_Line_907_ZH a :TranslationVariant ; :relatedTo :Line_907 ;
   :text "我都不会违背城邦意志承担这劳苦。"^^xsd:string .
-:TV_Line_908_zh a :TranslationVariant ; :relatedTo :Line_908 ;
+:TV_Line_908_ZH a :TranslationVariant ; :relatedTo :Line_908 ;
   :text "我凭什么法则这样说？"^^xsd:string .
-:TV_Line_909_zh a :TranslationVariant ; :relatedTo :Line_909 ;
+:TV_Line_909_ZH a :TranslationVariant ; :relatedTo :Line_909 ;
   :text "丈夫若死，我还可再有别的丈夫，"^^xsd:string .
-:TV_Line_910_zh a :TranslationVariant ; :relatedTo :Line_910 ;
+:TV_Line_910_ZH a :TranslationVariant ; :relatedTo :Line_910 ;
   :text "孩子若失，我也可由别人生子；"^^xsd:string .
-:TV_Line_911_zh a :TranslationVariant ; :relatedTo :Line_911 ;
+:TV_Line_911_ZH a :TranslationVariant ; :relatedTo :Line_911 ;
   :text "但既然父母都已藏于哈得斯，"^^xsd:string .
-:TV_Line_912_zh a :TranslationVariant ; :relatedTo :Line_912 ;
+:TV_Line_912_ZH a :TranslationVariant ; :relatedTo :Line_912 ;
   :text "再不可能有兄弟会出生给我。"^^xsd:string .
-:TV_Line_913_zh a :TranslationVariant ; :relatedTo :Line_913 ;
+:TV_Line_913_ZH a :TranslationVariant ; :relatedTo :Line_913 ;
   :text "正因这样一条法则，我把你看得高于一切，"^^xsd:string .
-:TV_Line_914_zh a :TranslationVariant ; :relatedTo :Line_914 ;
+:TV_Line_914_ZH a :TranslationVariant ; :relatedTo :Line_914 ;
   :text "可在克瑞翁眼里，我却像是犯错，"^^xsd:string .
-:TV_Line_915_zh a :TranslationVariant ; :relatedTo :Line_915 ;
+:TV_Line_915_ZH a :TranslationVariant ; :relatedTo :Line_915 ;
   :text "并作出可怕的僭越，亲爱的兄长。"^^xsd:string .
-:TV_Line_916_zh a :TranslationVariant ; :relatedTo :Line_916 ;
+:TV_Line_916_ZH a :TranslationVariant ; :relatedTo :Line_916 ;
   :text "如今他就这样抓着我的手把我带走，"^^xsd:string .
-:TV_Line_917_zh a :TranslationVariant ; :relatedTo :Line_917 ;
+:TV_Line_917_ZH a :TranslationVariant ; :relatedTo :Line_917 ;
   :text "我没有新床、没有婚礼、没有份额"^^xsd:string .
-:TV_Line_918_zh a :TranslationVariant ; :relatedTo :Line_918 ;
+:TV_Line_918_ZH a :TranslationVariant ; :relatedTo :Line_918 ;
   :text "在婚配里，也没有份额在养育儿女里，"^^xsd:string .
-:TV_Line_919_zh a :TranslationVariant ; :relatedTo :Line_919 ;
+:TV_Line_919_ZH a :TranslationVariant ; :relatedTo :Line_919 ;
   :text "而是这样，被亲人离弃的我这苦命人，"^^xsd:string .
-:TV_Line_920_zh a :TranslationVariant ; :relatedTo :Line_920 ;
+:TV_Line_920_ZH a :TranslationVariant ; :relatedTo :Line_920 ;
   :text "活着走向死者凿出的居所。"^^xsd:string .
-:TV_Line_921_zh a :TranslationVariant ; :relatedTo :Line_921 ;
+:TV_Line_921_ZH a :TranslationVariant ; :relatedTo :Line_921 ;
   :text "我违犯了哪一条神的正义？"^^xsd:string .
-:TV_Line_922_zh a :TranslationVariant ; :relatedTo :Line_922 ;
+:TV_Line_922_ZH a :TranslationVariant ; :relatedTo :Line_922 ;
   :text "我这可怜人为何还要仰望"^^xsd:string .
-:TV_Line_923_zh a :TranslationVariant ; :relatedTo :Line_923 ;
+:TV_Line_923_ZH a :TranslationVariant ; :relatedTo :Line_923 ;
   :text "诸神？我该呼求谁作同盟，"^^xsd:string .
-:TV_Line_924_zh a :TranslationVariant ; :relatedTo :Line_924 ;
+:TV_Line_924_ZH a :TranslationVariant ; :relatedTo :Line_924 ;
   :text "既然我因虔敬反得不敬之罪名？"^^xsd:string .
-:TV_Line_925_zh a :TranslationVariant ; :relatedTo :Line_925 ;
+:TV_Line_925_ZH a :TranslationVariant ; :relatedTo :Line_925 ;
   :text "但若这些在诸神眼中是好的，"^^xsd:string .
-:TV_Line_926_zh a :TranslationVariant ; :relatedTo :Line_926 ;
+:TV_Line_926_ZH a :TranslationVariant ; :relatedTo :Line_926 ;
   :text "那我受苦之后便承认自己有错；"^^xsd:string .
-:TV_Line_927_zh a :TranslationVariant ; :relatedTo :Line_927 ;
+:TV_Line_927_ZH a :TranslationVariant ; :relatedTo :Line_927 ;
   :text "可若错的是他们，"^^xsd:string .
-:TV_Line_928_zh a :TranslationVariant ; :relatedTo :Line_928 ;
+:TV_Line_928_ZH a :TranslationVariant ; :relatedTo :Line_928 ;
   :text "愿他们所受之恶不多于他们不义加给我的恶。"^^xsd:string .

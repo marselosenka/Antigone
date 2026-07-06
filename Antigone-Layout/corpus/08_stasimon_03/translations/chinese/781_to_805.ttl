@@ -4,33 +4,33 @@
 
 :stasimon_03-translations-781-805-chinese a owl:Ontology .
 
-:TV_Line_781_zh a :TranslationVariant ; :relatedTo :Line_781 ;
+:TV_Line_781_ZH a :TranslationVariant ; :relatedTo :Line_781 ;
   :text "爱神啊，战中不可战胜的爱神，你扑向财富。"^^xsd:string .
-:TV_Line_782_zh a :TranslationVariant ; :relatedTo :Line_782 ;
+:TV_Line_782_ZH a :TranslationVariant ; :relatedTo :Line_782 ;
   :text "你在少女柔嫩的脸颊上过夜，"^^xsd:string .
-:TV_Line_785_zh a :TranslationVariant ; :relatedTo :Line_785 ;
+:TV_Line_785_ZH a :TranslationVariant ; :relatedTo :Line_785 ;
   :text "你游走于海上，也游走于乡野庭院；"^^xsd:string .
-:TV_Line_786_zh a :TranslationVariant ; :relatedTo :Line_786 ;
+:TV_Line_786_ZH a :TranslationVariant ; :relatedTo :Line_786 ;
   :text "谁也逃不过你，不论不朽者"^^xsd:string .
-:TV_Line_790_zh a :TranslationVariant ; :relatedTo :Line_790 ;
+:TV_Line_790_ZH a :TranslationVariant ; :relatedTo :Line_790 ;
   :text "还是短暂的人类；你抓住谁，谁就发狂。"^^xsd:string .
-:TV_Line_791_zh a :TranslationVariant ; :relatedTo :Line_791 ;
+:TV_Line_791_ZH a :TranslationVariant ; :relatedTo :Line_791 ;
   :text "连正直者的心智，你也拖向不义与羞辱，"^^xsd:string .
-:TV_Line_792_zh a :TranslationVariant ; :relatedTo :Line_792 ;
+:TV_Line_792_ZH a :TranslationVariant ; :relatedTo :Line_792 ;
   :text "这场骨肉之间的争斗，也是你搅乱的；"^^xsd:string .
-:TV_Line_795_zh a :TranslationVariant ; :relatedTo :Line_795 ;
+:TV_Line_795_ZH a :TranslationVariant ; :relatedTo :Line_795 ;
   :text "但胜出的，是那位美床新妇眼中的显明欲望，"^^xsd:string .
-:TV_Line_796_zh a :TranslationVariant ; :relatedTo :Line_796 ;
+:TV_Line_796_ZH a :TranslationVariant ; :relatedTo :Line_796 ;
   :text "它与伟大法则同坐王权之位，"^^xsd:string .
-:TV_Line_800_zh a :TranslationVariant ; :relatedTo :Line_800 ;
+:TV_Line_800_ZH a :TranslationVariant ; :relatedTo :Line_800 ;
   :text "因为不可战胜的女神阿佛洛狄忒正戏弄着我们。"^^xsd:string .
-:TV_Line_801_zh a :TranslationVariant ; :relatedTo :Line_801 ;
+:TV_Line_801_ZH a :TranslationVariant ; :relatedTo :Line_801 ;
   :text "而我现在见到这些，也越出了法度，"^^xsd:string .
-:TV_Line_802_zh a :TranslationVariant ; :relatedTo :Line_802 ;
+:TV_Line_802_ZH a :TranslationVariant ; :relatedTo :Line_802 ;
   :text "再也无法抑止"^^xsd:string .
-:TV_Line_803_zh a :TranslationVariant ; :relatedTo :Line_803 ;
+:TV_Line_803_ZH a :TranslationVariant ; :relatedTo :Line_803 ;
   :text "泪水的泉源，"^^xsd:string .
-:TV_Line_804_zh a :TranslationVariant ; :relatedTo :Line_804 ;
+:TV_Line_804_ZH a :TranslationVariant ; :relatedTo :Line_804 ;
   :text "当我看见安提戈涅"^^xsd:string .
-:TV_Line_805_zh a :TranslationVariant ; :relatedTo :Line_805 ;
+:TV_Line_805_ZH a :TranslationVariant ; :relatedTo :Line_805 ;
   :text "正走向众人共有的寝室。"^^xsd:string .

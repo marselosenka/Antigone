@@ -6,92 +6,92 @@
 :episode_01-translations-223-252-english a owl:Ontology .
 # English translation variants extracted from 223_to_252.ttl
 
-:TV_Line_223_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_223 ;
+:TV_Line_223_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_223 ;
   :text "Dread liege, I shall not say that I come"^^xsd:string .
 
-:TV_Line_224_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_224 ;
+:TV_Line_224_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_224 ;
   :text "With breathless speed, lifting up nimble feet."^^xsd:string .
 
-:TV_Line_225_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_225 ;
+:TV_Line_225_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_225 ;
   :text "For I stopped many a time with pangs of thought,"^^xsd:string .
 
-:TV_Line_226_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_226 ;
+:TV_Line_226_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_226 ;
   :text "And on the road did wheel myself around to return:"^^xsd:string .
 
-:TV_Line_227_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_227 ;
+:TV_Line_227_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_227 ;
   :text "For my mind was speaking much to me, saying:"^^xsd:string .
 
-:TV_Line_228_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_228 ;
+:TV_Line_228_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_228 ;
   :text "“Wretch, wherefore hiest thou to thy punition?"^^xsd:string .
 
-:TV_Line_229_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_229 ;
+:TV_Line_229_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_229 ;
   :text "Dog, tarriest thou again? An Creon should know this"^^xsd:string .
 
-:TV_Line_230_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_230 ;
+:TV_Line_230_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_230 ;
   :text "From some other man? Wilt thou not indeed grieve for’t?”"^^xsd:string .
 
-:TV_Line_231_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_231 ;
+:TV_Line_231_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_231 ;
   :text "Thus debating, I was going in leisure slowly."^^xsd:string .
 
-:TV_Line_232_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_232 ;
+:TV_Line_232_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_232 ;
   :text "And thus a short road became long."^^xsd:string .
 
-:TV_Line_233_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_233 ;
+:TV_Line_233_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_233 ;
   :text "At last, however, the day prevailed when I should come"^^xsd:string .
 
-:TV_Line_234_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_234 ;
+:TV_Line_234_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_234 ;
   :text "Hither to you. And if I shall say nought, I shall utter it the same:"^^xsd:string .
 
-:TV_Line_235_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_235 ;
+:TV_Line_235_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_235 ;
   :text "For grasping one hope I arrive,"^^xsd:string .
 
-:TV_Line_236_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_236 ;
+:TV_Line_236_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_236 ;
   :text "Not to suffer but that which is fated."^^xsd:string .
 
-:TV_Line_237_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_237 ;
+:TV_Line_237_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_237 ;
   :text "What’s got you so out of your wits?"^^xsd:string .
 
-:TV_Line_238_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_238 ;
+:TV_Line_238_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_238 ;
   :text "I wish first to tell you of myself: for neither"^^xsd:string .
 
-:TV_Line_239_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_239 ;
+:TV_Line_239_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_239 ;
   :text "Did I the deed, nor know I who hath it done."^^xsd:string .
 
-:TV_Line_240_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_240 ;
+:TV_Line_240_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_240 ;
   :text "And it were not right that I should suffer for it."^^xsd:string .
 
-:TV_Line_241_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_241 ;
+:TV_Line_241_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_241 ;
   :text "You’re taking your aim and planting defenses"^^xsd:string .
 
-:TV_Line_242_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_242 ;
+:TV_Line_242_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_242 ;
   :text "Around the matter; you must have something strange to say."^^xsd:string .
 
-:TV_Line_243_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_243 ;
+:TV_Line_243_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_243 ;
   :text "Verily, for dread matters yieldeth great hesitation."^^xsd:string .
 
-:TV_Line_244_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_244 ;
+:TV_Line_244_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_244 ;
   :text "Just say what you need to say and be gone."^^xsd:string .
 
-:TV_Line_245_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_245 ;
+:TV_Line_245_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_245 ;
   :text "Indeed, I tell you: the corpse, someone even now"^^xsd:string .
 
-:TV_Line_246_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_246 ;
+:TV_Line_246_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_246 ;
   :text "hath honored its last rites and departed: sprinkling"^^xsd:string .
 
-:TV_Line_247_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_247 ;
+:TV_Line_247_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_247 ;
   :text "thirsty dust upon the flesh in obsequies, as is enjoined."^^xsd:string .
 
-:TV_Line_248_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_248 ;
+:TV_Line_248_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_248 ;
   :text "What are you saying? Which man dared to do this?"^^xsd:string .
 
-:TV_Line_249_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_249 ;
+:TV_Line_249_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_249 ;
   :text "I wit not: for, neither are there marks of axe nor pitchfork,"^^xsd:string .
 
-:TV_Line_250_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_250 ;
+:TV_Line_250_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_250 ;
   :text "The sodden turf sits dry and hard, neither are there the marks"^^xsd:string .
 
-:TV_Line_251_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_251 ;
+:TV_Line_251_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_251 ;
   :text "The sodden turf sits dry and hard, neither are there the marks"^^xsd:string .
 
-:TV_Line_252_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_252 ;
+:TV_Line_252_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_252 ;
   :text "Of a wagon: no trace hath the man left behind him."^^xsd:string .

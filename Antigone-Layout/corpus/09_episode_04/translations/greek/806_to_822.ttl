@@ -4,55 +4,55 @@
 
 :episode_04-translations-806-822-greek a owl:Ontology .
 
-:TV_Line_806_gr a :TranslationVariant ;
+:TV_Line_806_GR a :TranslationVariant ;
     :text "Δείτε με, πολίτες της πατρικής μου γης, να βαδίζω την τελευταία μου οδό"^^xsd:string ;
     :relatedTo :Line_806 .
 
-:TV_Line_807_gr a :TranslationVariant ;
+:TV_Line_807_GR a :TranslationVariant ;
     :text "και να κοιτάζω το τελευταίο φως του ήλιου,"^^xsd:string ;
     :relatedTo :Line_807 .
 
 # Line 808, 809 do not exist in Antigone
 
-:TV_Line_810_gr a :TranslationVariant ;
+:TV_Line_810_GR a :TranslationVariant ;
     :text "ποτέ πια ξανά· αλλά ο Άδης που όλους κοιμίζει με οδηγεί ζωντανή"^^xsd:string ;
     :relatedTo :Line_810 .
 
-:TV_Line_811_gr a :TranslationVariant ;
+:TV_Line_811_GR a :TranslationVariant ;
     :text "προς του Αχέροντα"^^xsd:string ;
     :relatedTo :Line_811 .
 
-:TV_Line_812_gr a :TranslationVariant ;
+:TV_Line_812_GR a :TranslationVariant ;
     :text "την ακτή, χωρίς μερίδιο σε γαμήλιους ύμνους, ούτε σε νυφικά τελετουργικά."^^xsd:string ;
     :relatedTo :Line_812 .
 
 # Line 813, 814 do not exist in Antigone
 
-:TV_Line_815_gr a :TranslationVariant ;
+:TV_Line_815_GR a :TranslationVariant ;
     :text "Κανένας ύμνος δεν τραγουδήθηκε ποτέ για μένα στους γάμους· τον Αχέροντα θα νυμφευτώ."^^xsd:string ;
     :relatedTo :Line_815 .
 
-:TV_Line_817_gr a :TranslationVariant ;
+:TV_Line_817_GR a :TranslationVariant ;
     :text "Άρα, με δόξα και έπαινο"^^xsd:string ;
     :relatedTo :Line_817 .
 
-:TV_Line_818_gr a :TranslationVariant ;
+:TV_Line_818_GR a :TranslationVariant ;
     :text "πηγαίνεις σε αυτό το κρυφό βάθος των νεκρών,"^^xsd:string ;
     :relatedTo :Line_818 .
 
-:TV_Line_819_gr a :TranslationVariant ;
+:TV_Line_819_GR a :TranslationVariant ;
     :text "χωρίς να έχεις χτυπηθεί από φθισική αρρώστια"^^xsd:string ;
     :relatedTo :Line_819 .
 
-:TV_Line_820_gr a :TranslationVariant ;
+:TV_Line_820_GR a :TranslationVariant ;
     :text "ούτε να έχεις λάχει θάνατο από ξίφος,"^^xsd:string ;
     :relatedTo :Line_820 .
 
-:TV_Line_821_gr a :TranslationVariant ;
+:TV_Line_821_GR a :TranslationVariant ;
     :text "αλλά αυτόνομη, ζωντανή, μόνη,"^^xsd:string ;
     :relatedTo :Line_821 .
 
-:TV_Line_822_gr a :TranslationVariant ;
+:TV_Line_822_GR a :TranslationVariant ;
     :text "μόνη από τους θνητούς θα κατεβείς στον Άδη."^^xsd:string ;
     :relatedTo :Line_822 .
 

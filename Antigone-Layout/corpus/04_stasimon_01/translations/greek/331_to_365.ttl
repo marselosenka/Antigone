@@ -4,126 +4,126 @@
 
 :stasimon_01-translations-331-365-greek a owl:Ontology .
 
-:TV_Line_331_gr a :TranslationVariant ;
+:TV_Line_331_GR a :TranslationVariant ;
     :text "Σωσμένος όπως είμαι, χρωστώ στους θεούς μεγάλη ευγνωμοσύνη."^^xsd:string ;
     :relatedTo :Line_331 .
 
-:TV_Line_332_gr a :TranslationVariant ;
+:TV_Line_332_GR a :TranslationVariant ;
     :text "Πολλά είναι τα δεινά και τα θαυμαστά, και τίποτα"^^xsd:string ;
     :relatedTo :Line_332 .
 
-:TV_Line_333_gr a :TranslationVariant ;
+:TV_Line_333_GR a :TranslationVariant ;
     :text "δεν είναι πιο θαυμαστό από τον άνθρωπο."^^xsd:string ;
     :relatedTo :Line_333 .
 
-:TV_Line_334_gr a :TranslationVariant ;
+:TV_Line_334_GR a :TranslationVariant ;
     :text "Αυτός και πέρα από το γκρίζο"^^xsd:string ;
     :relatedTo :Line_334 .
 
-:TV_Line_335_gr a :TranslationVariant ;
+:TV_Line_335_GR a :TranslationVariant ;
     :text "πέλαγος, με χειμωνιάτικο νότο,"^^xsd:string ;
     :relatedTo :Line_335 .
 
-:TV_Line_336_gr a :TranslationVariant ;
+:TV_Line_336_GR a :TranslationVariant ;
     :text "προχωρά, περνώντας ανάμεσα σε βροντερά"^^xsd:string ;
     :relatedTo :Line_336 .
 
-:TV_Line_337_gr a :TranslationVariant ;
+:TV_Line_337_GR a :TranslationVariant ;
     :text "περνώντας κάτω από τα κύματα, των θεών"^^xsd:string ;
     :relatedTo :Line_337 .
 
-:TV_Line_338_gr a :TranslationVariant ;
+:TV_Line_338_GR a :TranslationVariant ;
     :text "και την ύψιστη Γη,"^^xsd:string ;
     :relatedTo :Line_338 .
 
-:TV_Line_339_gr a :TranslationVariant ;
+:TV_Line_339_GR a :TranslationVariant ;
     :text "την άφθαρτη και ακάματη, την καταπονεί,"^^xsd:string ;
     :relatedTo :Line_339 .
 
-:TV_Line_340_gr a :TranslationVariant ;
+:TV_Line_340_GR a :TranslationVariant ;
     :text "καθώς τ’ αλέτρια γυρίζουν χρόνο με χρόνο,"^^xsd:string ;
     :relatedTo :Line_340 .
 
-:TV_Line_341_gr a :TranslationVariant ;
+:TV_Line_341_GR a :TranslationVariant ;
     :text "οργώνοντας με το γένος των αλόγων."^^xsd:string ;
     :relatedTo :Line_341 .
 
-:TV_Line_342_gr a :TranslationVariant ;
+:TV_Line_342_GR a :TranslationVariant ;
     :text "Και το ξένοιαστο γένος των"^^xsd:string ;
     :relatedTo :Line_342 .
 
-:TV_Line_343_gr a :TranslationVariant ;
+:TV_Line_343_GR a :TranslationVariant ;
     :text "πουλιών, τυλίγοντάς το, το πιάνει,"^^xsd:string ;
     :relatedTo :Line_343 .
 
-:TV_Line_344_gr a :TranslationVariant ;
+:TV_Line_344_GR a :TranslationVariant ;
     :text "και των άγριων θηρίων τα έθνη,"^^xsd:string ;
     :relatedTo :Line_344 .
 
-:TV_Line_345_gr a :TranslationVariant ;
+:TV_Line_345_GR a :TranslationVariant ;
     :text "και τη θαλάσσια φύση του βυθού,"^^xsd:string ;
     :relatedTo :Line_345 .
 
-:TV_Line_346_gr a :TranslationVariant ;
+:TV_Line_346_GR a :TranslationVariant ;
     :text "με πλεγμένα δίχτυα σε σπείρες,"^^xsd:string ;
     :relatedTo :Line_346 .
 
-:TV_Line_347_gr a :TranslationVariant ;
+:TV_Line_347_GR a :TranslationVariant ;
     :text "ο πολυμήχανος άνθρωπος· και κρατεί"^^xsd:string ;
     :relatedTo :Line_347 .
 
-:TV_Line_348_gr a :TranslationVariant ;
+:TV_Line_348_GR a :TranslationVariant ;
     :text "με τεχνάσματα το αγροδίαιτο"^^xsd:string ;
     :relatedTo :Line_348 .
 
-#:TV_Line_349_gr a :TranslationVariant ;
+#:TV_Line_349_GR a :TranslationVariant ;
 #    :text "θηρίο που βαδίζει στα όρη, και το πυκνότριχο"^^xsd:string ;
 #    :relatedTo :Line_349 .
 
-:TV_Line_350_gr a :TranslationVariant ;
+:TV_Line_350_GR a :TranslationVariant ;
     :text "θηρίο που βαδίζει στα όρη, και το πυκνότριχο"^^xsd:string ;
     :relatedTo :Line_350 .
 
-:TV_Line_351_gr a :TranslationVariant ;
+:TV_Line_351_GR a :TranslationVariant ;
     :text "άλογο το φέρνει κάτω από τον ζυγό του χαλινού,"^^xsd:string ;
     :relatedTo :Line_351 .
 
-:TV_Line_352_gr a :TranslationVariant ;
+:TV_Line_352_GR a :TranslationVariant ;
     :text "και τον ακούραστο ορεινό ταύρο."^^xsd:string ;
     :relatedTo :Line_352 .
 
-#:TV_Line_353_gr a :TranslationVariant ;
+#:TV_Line_353_GR a :TranslationVariant ;
 #    :text "Και νου, και πολιτειακές"^^xsd:string ;
 #    :relatedTo :Line_353 .
 
-#:TV_Line_354_gr a :TranslationVariant ;
+#:TV_Line_354_GR a :TranslationVariant ;
 #    :text "ορμές έμαθε ο ίδιος, και από τις αφιλόξενες"^^xsd:string ;
 #    :relatedTo :Line_354 .
 
-:TV_Line_355_gr a :TranslationVariant ;
+:TV_Line_355_GR a :TranslationVariant ;
     :text "και φωνή, και ανεμόπνοο φρόνημα, και πολιτειακές"^^xsd:string ;
     :relatedTo :Line_355 .
 
-:TV_Line_356_gr a :TranslationVariant ;
+:TV_Line_356_GR a :TranslationVariant ;
     :text "ορμές έμαθε ο ίδιος, και των αφιλόξενων"^^xsd:string ;
     :relatedTo :Line_356 .
 
-:TV_Line_357_gr a :TranslationVariant ;
+:TV_Line_357_GR a :TranslationVariant ;
     :text "παγετών την ύπαιθρη παγωνιά και τα βέλη της δυνατής βροχής να αποφεύγει,"^^xsd:string ;
     :relatedTo :Line_357 .
 
-:TV_Line_358_gr a :TranslationVariant ;
+:TV_Line_358_GR a :TranslationVariant ;
     :text "πολυμήχανος· και αμήχανος μπροστά σε τίποτα δεν έρχεται"^^xsd:string ;
     :relatedTo :Line_358 .
 
-:TV_Line_359_gr a :TranslationVariant ;
+:TV_Line_359_GR a :TranslationVariant ;
     :text "δεν θα φέρει μόνο φυγή από τον θάνατο·"^^xsd:string ;
     :relatedTo :Line_359 .
 
-:TV_Line_360_gr a :TranslationVariant ;
+:TV_Line_360_GR a :TranslationVariant ;
     :text "για το μέλλον· από τον Άδη μόνο δεν θα φέρει διαφυγή·"^^xsd:string ;
     :relatedTo :Line_360 .
 
-:TV_Line_361_gr a :TranslationVariant ;
+:TV_Line_361_GR a :TranslationVariant ;
     :text "μα για τις αμήχανες νόσους έχει βρει διεξόδους."^^xsd:string ;
     :relatedTo :Line_361 .

@@ -4,117 +4,117 @@
 
 :episode_02-translations-384-440-chinese a owl:Ontology .
 
-:TV_Line_384_zh a :TranslationVariant ; :relatedTo :Line_384 ;
+:TV_Line_384_ZH a :TranslationVariant ; :relatedTo :Line_384 ;
   :text "就是她，做了这件事的人！"^^xsd:string .
-:TV_Line_385_zh a :TranslationVariant ; :relatedTo :Line_385 ;
+:TV_Line_385_ZH a :TranslationVariant ; :relatedTo :Line_385 ;
   :text "我们抓到她在埋葬他。可克瑞翁在哪儿？"^^xsd:string .
-:TV_Line_386_zh a :TranslationVariant ; :relatedTo :Line_386 ;
+:TV_Line_386_ZH a :TranslationVariant ; :relatedTo :Line_386 ;
   :text "合唱队：看，他正好从宫里回来。"^^xsd:string .
-:TV_Line_387_zh a :TranslationVariant ; :relatedTo :Line_387 ;
+:TV_Line_387_ZH a :TranslationVariant ; :relatedTo :Line_387 ;
   :text "克瑞翁：怎么回事？我撞上了什么局面？"^^xsd:string .
-:TV_Line_388_zh a :TranslationVariant ; :relatedTo :Line_388 ;
+:TV_Line_388_ZH a :TranslationVariant ; :relatedTo :Line_388 ;
   :text "卫兵：大王，人不该轻易发誓绝不怎样，"^^xsd:string .
-:TV_Line_389_zh a :TranslationVariant ; :relatedTo :Line_389 ;
+:TV_Line_389_ZH a :TranslationVariant ; :relatedTo :Line_389 ;
   :text "因为后来的想法常把先前决心证明为错。"^^xsd:string .
-:TV_Line_390_zh a :TranslationVariant ; :relatedTo :Line_390 ;
+:TV_Line_390_ZH a :TranslationVariant ; :relatedTo :Line_390 ;
   :text "我曾夸口再也不回这里，"^^xsd:string .
-:TV_Line_391_zh a :TranslationVariant ; :relatedTo :Line_391 ;
+:TV_Line_391_ZH a :TranslationVariant ; :relatedTo :Line_391 ;
   :text "那时被你的威吓风暴折腾得够呛。"^^xsd:string .
-:TV_Line_392_zh a :TranslationVariant ; :relatedTo :Line_392 ;
+:TV_Line_392_ZH a :TranslationVariant ; :relatedTo :Line_392 ;
   :text "但超出一切希望的喜悦"^^xsd:string .
-:TV_Line_393_zh a :TranslationVariant ; :relatedTo :Line_393 ;
+:TV_Line_393_ZH a :TranslationVariant ; :relatedTo :Line_393 ;
   :text "在分量上与别的快乐都不一样，"^^xsd:string .
-:TV_Line_394_zh a :TranslationVariant ; :relatedTo :Line_394 ;
+:TV_Line_394_ZH a :TranslationVariant ; :relatedTo :Line_394 ;
   :text "所以我还是来了——虽曾发誓不来——"^^xsd:string .
-:TV_Line_395_zh a :TranslationVariant ; :relatedTo :Line_395 ;
+:TV_Line_395_ZH a :TranslationVariant ; :relatedTo :Line_395 ;
   :text "带来这个姑娘，她被当场抓住"^^xsd:string .
-:TV_Line_396_zh a :TranslationVariant ; :relatedTo :Line_396 ;
+:TV_Line_396_ZH a :TranslationVariant ; :relatedTo :Line_396 ;
   :text "正在行葬礼。这次可没抽签，"^^xsd:string .
-:TV_Line_397_zh a :TranslationVariant ; :relatedTo :Line_397 ;
+:TV_Line_397_ZH a :TranslationVariant ; :relatedTo :Line_397 ;
   :text "因为这份好运单单归我。"^^xsd:string .
-:TV_Line_398_zh a :TranslationVariant ; :relatedTo :Line_398 ;
+:TV_Line_398_ZH a :TranslationVariant ; :relatedTo :Line_398 ;
   :text "现在，主上，你按你意愿亲自带走她，"^^xsd:string .
-:TV_Line_399_zh a :TranslationVariant ; :relatedTo :Line_399 ;
+:TV_Line_399_ZH a :TranslationVariant ; :relatedTo :Line_399 ;
   :text "审问她、定她罪；但我有权"^^xsd:string .
-:TV_Line_400_zh a :TranslationVariant ; :relatedTo :Line_400 ;
+:TV_Line_400_ZH a :TranslationVariant ; :relatedTo :Line_400 ;
   :text "从这些麻烦里干干净净脱身。"^^xsd:string .
-:TV_Line_401_zh a :TranslationVariant ; :relatedTo :Line_401 ;
+:TV_Line_401_ZH a :TranslationVariant ; :relatedTo :Line_401 ;
   :text "克瑞翁：你带来她了？以何方式、何处抓到的？"^^xsd:string .
-:TV_Line_402_zh a :TranslationVariant ; :relatedTo :Line_402 ;
+:TV_Line_402_ZH a :TranslationVariant ; :relatedTo :Line_402 ;
   :text "卫兵：她在埋那个人；就这些，全都在这儿了。"^^xsd:string .
-:TV_Line_403_zh a :TranslationVariant ; :relatedTo :Line_403 ;
+:TV_Line_403_ZH a :TranslationVariant ; :relatedTo :Line_403 ;
   :text "克瑞翁：你明白你在说什么吗？说得准确吗？"^^xsd:string .
-:TV_Line_404_zh a :TranslationVariant ; :relatedTo :Line_404 ;
+:TV_Line_404_ZH a :TranslationVariant ; :relatedTo :Line_404 ;
   :text "卫兵：我亲眼看见她在埋那具尸体，"^^xsd:string .
-:TV_Line_405_zh a :TranslationVariant ; :relatedTo :Line_405 ;
+:TV_Line_405_ZH a :TranslationVariant ; :relatedTo :Line_405 ;
   :text "就是你下令禁止的那个。我的话还不够清楚吗？"^^xsd:string .
-:TV_Line_406_zh a :TranslationVariant ; :relatedTo :Line_406 ;
+:TV_Line_406_ZH a :TranslationVariant ; :relatedTo :Line_406 ;
   :text "克瑞翁：那她是怎样被看见并当场抓住的？"^^xsd:string .
-:TV_Line_407_zh a :TranslationVariant ; :relatedTo :Line_407 ;
+:TV_Line_407_ZH a :TranslationVariant ; :relatedTo :Line_407 ;
   :text "卫兵：事情是这样：我们到场后，"^^xsd:string .
-:TV_Line_408_zh a :TranslationVariant ; :relatedTo :Line_408 ;
+:TV_Line_408_ZH a :TranslationVariant ; :relatedTo :Line_408 ;
   :text "被你那些可怕威吓逼着，"^^xsd:string .
-:TV_Line_409_zh a :TranslationVariant ; :relatedTo :Line_409 ;
+:TV_Line_409_ZH a :TranslationVariant ; :relatedTo :Line_409 ;
   :text "把覆盖尸体的尘土全都扫开，"^^xsd:string .
-:TV_Line_410_zh a :TranslationVariant ; :relatedTo :Line_410 ;
+:TV_Line_410_ZH a :TranslationVariant ; :relatedTo :Line_410 ;
   :text "把腐败的尸身彻底暴露出来，"^^xsd:string .
-:TV_Line_411_zh a :TranslationVariant ; :relatedTo :Line_411 ;
+:TV_Line_411_ZH a :TranslationVariant ; :relatedTo :Line_411 ;
   :text "然后坐在山脊背风处，"^^xsd:string .
-:TV_Line_412_zh a :TranslationVariant ; :relatedTo :Line_412 ;
+:TV_Line_412_ZH a :TranslationVariant ; :relatedTo :Line_412 ;
   :text "躲开臭味，免得熏到我们。"^^xsd:string .
-:TV_Line_413_zh a :TranslationVariant ; :relatedTo :Line_413 ;
+:TV_Line_413_ZH a :TranslationVariant ; :relatedTo :Line_413 ;
   :text "大家都用一阵阵骂声"^^xsd:string .
-:TV_Line_414_zh a :TranslationVariant ; :relatedTo :Line_414 ;
+:TV_Line_414_ZH a :TranslationVariant ; :relatedTo :Line_414 ;
   :text "彼此叫醒，免得谁懈怠了这差事。"^^xsd:string .
-:TV_Line_415_zh a :TranslationVariant ; :relatedTo :Line_415 ;
+:TV_Line_415_ZH a :TranslationVariant ; :relatedTo :Line_415 ;
   :text "就这样一直拖到太阳明亮圆盘"^^xsd:string .
-:TV_Line_416_zh a :TranslationVariant ; :relatedTo :Line_416 ;
+:TV_Line_416_ZH a :TranslationVariant ; :relatedTo :Line_416 ;
   :text "升到了天穹正中，"^^xsd:string .
-:TV_Line_417_zh a :TranslationVariant ; :relatedTo :Line_417 ;
+:TV_Line_417_ZH a :TranslationVariant ; :relatedTo :Line_417 ;
   :text "酷热灼人；这时忽然从地面"^^xsd:string .
-:TV_Line_418_zh a :TranslationVariant ; :relatedTo :Line_418 ;
+:TV_Line_418_ZH a :TranslationVariant ; :relatedTo :Line_418 ;
   :text "旋起一阵风暴般旋风，像天降灾祸，"^^xsd:string .
-:TV_Line_419_zh a :TranslationVariant ; :relatedTo :Line_419 ;
+:TV_Line_419_ZH a :TranslationVariant ; :relatedTo :Line_419 ;
   :text "灌满平原，剥扯林木如发丝般的枝叶，"^^xsd:string .
-:TV_Line_420_zh a :TranslationVariant ; :relatedTo :Line_420 ;
+:TV_Line_420_ZH a :TranslationVariant ; :relatedTo :Line_420 ;
   :text "广阔的空气也被尘土塞满。"^^xsd:string .
-:TV_Line_421_zh a :TranslationVariant ; :relatedTo :Line_421 ;
+:TV_Line_421_ZH a :TranslationVariant ; :relatedTo :Line_421 ;
   :text "我们只能闭眼硬扛那神降瘟击。"^^xsd:string .
-:TV_Line_422_zh a :TranslationVariant ; :relatedTo :Line_422 ;
+:TV_Line_422_ZH a :TranslationVariant ; :relatedTo :Line_422 ;
   :text "好久之后，风暴总算过去，"^^xsd:string .
-:TV_Line_423_zh a :TranslationVariant ; :relatedTo :Line_423 ;
+:TV_Line_423_ZH a :TranslationVariant ; :relatedTo :Line_423 ;
   :text "那姑娘出现了；她发出尖厉叫声，"^^xsd:string .
-:TV_Line_424_zh a :TranslationVariant ; :relatedTo :Line_424 ;
+:TV_Line_424_ZH a :TranslationVariant ; :relatedTo :Line_424 ;
   :text "像痛苦中的鸟鸣，正如母鸟"^^xsd:string .
-:TV_Line_425_zh a :TranslationVariant ; :relatedTo :Line_425 ;
+:TV_Line_425_ZH a :TranslationVariant ; :relatedTo :Line_425 ;
   :text "看见空巢被掏尽幼雏时那样。"^^xsd:string .
-:TV_Line_426_zh a :TranslationVariant ; :relatedTo :Line_426 ;
+:TV_Line_426_ZH a :TranslationVariant ; :relatedTo :Line_426 ;
   :text "她一见尸体被剥得精光，"^^xsd:string .
-:TV_Line_427_zh a :TranslationVariant ; :relatedTo :Line_427 ;
+:TV_Line_427_ZH a :TranslationVariant ; :relatedTo :Line_427 ;
   :text "就高声哀号，咒骂恶毒"^^xsd:string .
-:TV_Line_428_zh a :TranslationVariant ; :relatedTo :Line_428 ;
+:TV_Line_428_ZH a :TranslationVariant ; :relatedTo :Line_428 ;
   :text "落在那些动手剥掘的人身上。"^^xsd:string .
-:TV_Line_429_zh a :TranslationVariant ; :relatedTo :Line_429 ;
+:TV_Line_429_ZH a :TranslationVariant ; :relatedTo :Line_429 ;
   :text "紧接着她双手捧来干渴尘土，"^^xsd:string .
-:TV_Line_430_zh a :TranslationVariant ; :relatedTo :Line_430 ;
+:TV_Line_430_ZH a :TranslationVariant ; :relatedTo :Line_430 ;
   :text "又高举一只精制青铜壶，"^^xsd:string .
-:TV_Line_431_zh a :TranslationVariant ; :relatedTo :Line_431 ;
+:TV_Line_431_ZH a :TranslationVariant ; :relatedTo :Line_431 ;
   :text "以三次奠洒为死者加冠。"^^xsd:string .
-:TV_Line_432_zh a :TranslationVariant ; :relatedTo :Line_432 ;
+:TV_Line_432_ZH a :TranslationVariant ; :relatedTo :Line_432 ;
   :text "我们见状就冲上去把她"^^xsd:string .
-:TV_Line_433_zh a :TranslationVariant ; :relatedTo :Line_433 ;
+:TV_Line_433_ZH a :TranslationVariant ; :relatedTo :Line_433 ;
   :text "当即拿下；她一点也不惊慌。"^^xsd:string .
-:TV_Line_434_zh a :TranslationVariant ; :relatedTo :Line_434 ;
+:TV_Line_434_ZH a :TranslationVariant ; :relatedTo :Line_434 ;
   :text "我们拿她先前和刚才的行为一一盘问，"^^xsd:string .
-:TV_Line_435_zh a :TranslationVariant ; :relatedTo :Line_435 ;
+:TV_Line_435_ZH a :TranslationVariant ; :relatedTo :Line_435 ;
   :text "她什么都不否认。"^^xsd:string .
-:TV_Line_436_zh a :TranslationVariant ; :relatedTo :Line_436 ;
+:TV_Line_436_ZH a :TranslationVariant ; :relatedTo :Line_436 ;
   :text "这对我来说既是快事又是苦事。"^^xsd:string .
-:TV_Line_437_zh a :TranslationVariant ; :relatedTo :Line_437 ;
+:TV_Line_437_ZH a :TranslationVariant ; :relatedTo :Line_437 ;
   :text "因为自己脱祸"^^xsd:string .
-:TV_Line_438_zh a :TranslationVariant ; :relatedTo :Line_438 ;
+:TV_Line_438_ZH a :TranslationVariant ; :relatedTo :Line_438 ;
   :text "最是甘甜，可把朋友拖进祸里"^^xsd:string .
-:TV_Line_439_zh a :TranslationVariant ; :relatedTo :Line_439 ;
+:TV_Line_439_ZH a :TranslationVariant ; :relatedTo :Line_439 ;
   :text "却是痛苦。但这一切比起来都不如"^^xsd:string .
-:TV_Line_440_zh a :TranslationVariant ; :relatedTo :Line_440 ;
+:TV_Line_440_ZH a :TranslationVariant ; :relatedTo :Line_440 ;
   :text "我自己的平安重要。"^^xsd:string .

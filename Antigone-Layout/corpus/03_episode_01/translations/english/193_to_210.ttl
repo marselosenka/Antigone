@@ -6,74 +6,74 @@
 :episode_01-translations-193-210-english a owl:Ontology .
 # English translation variants extracted from 193_to_210.ttl
 
-:TV_Line_193_en a :TranslationVariant ;
+:TV_Line_193_EN a :TranslationVariant ;
 :text "To all the citizens regarding the children of Oedipus:"^^xsd:string ;
 :relatedTo :Line_193 .
 
-:TV_Line_194_en a :TranslationVariant ;
+:TV_Line_194_EN a :TranslationVariant ;
 :text "Eteocles, who died fighting"^^xsd:string ;
 :relatedTo :Line_194 .
 
-:TV_Line_195_en a :TranslationVariant ;
+:TV_Line_195_EN a :TranslationVariant ;
 :text "For this city—our greatest warrior by far—"^^xsd:string ;
 :relatedTo :Line_195 .
 
-:TV_Line_196_en a :TranslationVariant ;
+:TV_Line_196_EN a :TranslationVariant ;
 :text "Shall be buried and honored with all the proper rites"^^xsd:string ;
 :relatedTo :Line_196 .
 
-:TV_Line_197_en a :TranslationVariant ;
+:TV_Line_197_EN a :TranslationVariant ;
 :text "That are due when one of our best men has fallen;"^^xsd:string ;
 :relatedTo :Line_197 .
 
-:TV_Line_198_en a :TranslationVariant ;
+:TV_Line_198_EN a :TranslationVariant ;
 :text "As for his brother (Polyneices):"^^xsd:string ;
 :relatedTo :Line_198 .
 
-:TV_Line_199_en a :TranslationVariant ;
+:TV_Line_199_EN a :TranslationVariant ;
 :text "He was exiled from this city, but returned to burn"^^xsd:string ;
 :relatedTo :Line_199 .
 
-:TV_Line_200_en a :TranslationVariant ;
+:TV_Line_200_EN a :TranslationVariant ;
 :text "The land of his father and the gods of his family line"^^xsd:string ;
 :relatedTo :Line_200 .
 
-:TV_Line_201_en a :TranslationVariant ;
+:TV_Line_201_EN a :TranslationVariant ;
 :text "To the ground. He wanted to drink the blood"^^xsd:string ;
 :relatedTo :Line_201 .
 
-:TV_Line_202_en a :TranslationVariant ;
+:TV_Line_202_EN a :TranslationVariant ;
 :text "Of his kin and enslave the rest of us."^^xsd:string ;
 :relatedTo :Line_202 .
 
-:TV_Line_203_en a :TranslationVariant ;
+:TV_Line_203_EN a :TranslationVariant ;
 :text "It has been proclaimed throughout the city"^^xsd:string ;
 :relatedTo :Line_203 .
 
-:TV_Line_204_en a :TranslationVariant ;
+:TV_Line_204_EN a :TranslationVariant ;
 :text "That no one shall mourn this man nor give him"^^xsd:string ;
 :relatedTo :Line_204 .
 
-:TV_Line_205_en a :TranslationVariant ;
+:TV_Line_205_EN a :TranslationVariant ;
 :text "A proper burial. He should be left for all to see, unburied,"^^xsd:string ;
 :relatedTo :Line_205 .
 
-:TV_Line_206_en a :TranslationVariant ;
+:TV_Line_206_EN a :TranslationVariant ;
 :text "His body ripped to shreds by vultures and wild dogs."^^xsd:string ;
 :relatedTo :Line_206 .
 
-:TV_Line_207_en a :TranslationVariant ;
+:TV_Line_207_EN a :TranslationVariant ;
 :text "This is my intention: never will I allow"^^xsd:string ;
 :relatedTo :Line_207 .
 
-:TV_Line_208_en a :TranslationVariant ;
+:TV_Line_208_EN a :TranslationVariant ;
 :text "Criminals to be honored before law-abiding citizens."^^xsd:string ;
 :relatedTo :Line_208 .
 
-:TV_Line_209_en a :TranslationVariant ;
+:TV_Line_209_EN a :TranslationVariant ;
 :text "But anyone who means well for this city"^^xsd:string ;
 :relatedTo :Line_209 .
 
-:TV_Line_210_en a :TranslationVariant ;
+:TV_Line_210_EN a :TranslationVariant ;
 :text "I will honor in death as in life."^^xsd:string ;
 :relatedTo :Line_210 .

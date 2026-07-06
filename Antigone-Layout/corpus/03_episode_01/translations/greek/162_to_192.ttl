@@ -4,126 +4,126 @@
 
 :episode_01-translations-162-192-greek a owl:Ontology .
 
-:TV_Line_162_gr a :TranslationVariant ;
+:TV_Line_162_GR a :TranslationVariant ;
     :text "Άνδρες, οι θεοί την πόλη μας την έστησαν ξανά ασφαλή,"^^xsd:string ;
     :relatedTo :Line_162 .
 
-:TV_Line_163_gr a :TranslationVariant ;
+:TV_Line_163_GR a :TranslationVariant ;
     :text "αφού πρώτα τη συγκλόνισαν με μεγάλη τρικυμία."^^xsd:string ;
     :relatedTo :Line_163 .
 
-:TV_Line_164_gr a :TranslationVariant ;
+:TV_Line_164_GR a :TranslationVariant ;
     :text "Κι εσάς, ξεχωριστά απ’ όλους, σας κάλεσα με αγγελιαφόρους"^^xsd:string ;
     :relatedTo :Line_164 .
 
-:TV_Line_165_gr a :TranslationVariant ;
+:TV_Line_165_GR a :TranslationVariant ;
     :text "πρώτα επειδή ξέρω πως πάντα"^^xsd:string ;
     :relatedTo :Line_165 .
 
-:TV_Line_166_gr a :TranslationVariant ;
+:TV_Line_166_GR a :TranslationVariant ;
     :text "σεβόσασταν καλά την εξουσία του θρόνου του Λαΐου,"^^xsd:string ;
     :relatedTo :Line_166 .
 
-:TV_Line_167_gr a :TranslationVariant ;
+:TV_Line_167_GR a :TranslationVariant ;
     :text "κι έπειτα όταν ο Οιδίποδας ανόρθωνε την πόλη,"^^xsd:string ;
     :relatedTo :Line_167 .
 
-:TV_Line_168_gr a :TranslationVariant ;
+:TV_Line_168_GR a :TranslationVariant ;
     :text "και αφότου χάθηκε, μένατε ακόμη γύρω από τα παιδιά του"^^xsd:string ;
     :relatedTo :Line_168 .
 
-:TV_Line_169_gr a :TranslationVariant ;
+:TV_Line_169_GR a :TranslationVariant ;
     :text "με σταθερό και ακλόνητο φρόνημα."^^xsd:string ;
     :relatedTo :Line_169 .
 
-:TV_Line_170_gr a :TranslationVariant ;
+:TV_Line_170_GR a :TranslationVariant ;
     :text "Όταν λοιπόν εκείνοι, με διπλή μοίρα, μέσα σε μία"^^xsd:string ;
     :relatedTo :Line_170 .
 
-:TV_Line_171_gr a :TranslationVariant ;
+:TV_Line_171_GR a :TranslationVariant ;
     :text "μόνο μέρα χάθηκαν, χτυπώντας και"^^xsd:string ;
     :relatedTo :Line_171 .
 
-:TV_Line_172_gr a :TranslationVariant ;
+:TV_Line_172_GR a :TranslationVariant ;
     :text "χτυπημένοι από το ίδιο τους το χέρι, μέσα σε μίασμα,"^^xsd:string ;
     :relatedTo :Line_172 .
 
-:TV_Line_173_gr a :TranslationVariant ;
+:TV_Line_173_GR a :TranslationVariant ;
     :text "εγώ τώρα κρατώ όλες τις εξουσίες και τον θρόνο,"^^xsd:string ;
     :relatedTo :Line_173 .
 
-:TV_Line_174_gr a :TranslationVariant ;
+:TV_Line_174_GR a :TranslationVariant ;
     :text "λόγω της στενής συγγένειας με τους πεθαμένους."^^xsd:string ;
     :relatedTo :Line_174 .
 
-:TV_Line_175_gr a :TranslationVariant ;
+:TV_Line_175_GR a :TranslationVariant ;
     :text "Όμως είναι αδύνατο να γνωρίσεις καλά κάθε άνθρωπο,"^^xsd:string ;
     :relatedTo :Line_175 .
 
-:TV_Line_176_gr a :TranslationVariant ;
+:TV_Line_176_GR a :TranslationVariant ;
     :text "την ψυχή του, το φρόνημα και τη γνώμη του, πριν"^^xsd:string ;
     :relatedTo :Line_176 .
 
-:TV_Line_177_gr a :TranslationVariant ;
+:TV_Line_177_GR a :TranslationVariant ;
     :text "φανεί δοκιμασμένος σε αρχές και νόμους."^^xsd:string ;
     :relatedTo :Line_177 .
 
-:TV_Line_178_gr a :TranslationVariant ;
+:TV_Line_178_GR a :TranslationVariant ;
     :text "Γιατί στα μάτια μου όποιος κυβερνά ολόκληρη πόλη"^^xsd:string ;
     :relatedTo :Line_178 .
 
-:TV_Line_179_gr a :TranslationVariant ;
+:TV_Line_179_GR a :TranslationVariant ;
     :text "και δεν προσκολλάται στις άριστες βουλές,"^^xsd:string ;
     :relatedTo :Line_179 .
 
-:TV_Line_180_gr a :TranslationVariant ;
+:TV_Line_180_GR a :TranslationVariant ;
     :text "αλλά από φόβο κρατά τη γλώσσα κλειστή,"^^xsd:string ;
     :relatedTo :Line_180 .
 
-:TV_Line_181_gr a :TranslationVariant ;
+:TV_Line_181_GR a :TranslationVariant ;
     :text "μου φαίνεται και τώρα και πάντα ο χειρότερος."^^xsd:string ;
     :relatedTo :Line_181 .
 
-:TV_Line_182_gr a :TranslationVariant ;
+:TV_Line_182_GR a :TranslationVariant ;
     :text "Και όποιος πάνω από την ίδια του την πατρίδα"^^xsd:string ;
     :relatedTo :Line_182 .
 
-:TV_Line_183_gr a :TranslationVariant ;
+:TV_Line_183_GR a :TranslationVariant ;
     :text "θεωρεί φίλο κάποιον άνθρωπο, αυτόν δεν τον υπολογίζω πουθενά."^^xsd:string ;
     :relatedTo :Line_183 .
 
-:TV_Line_184_gr a :TranslationVariant ;
+:TV_Line_184_GR a :TranslationVariant ;
     :text "Γιατί εγώ, ας το ξέρει ο Δίας που όλα τα βλέπει πάντα,"^^xsd:string ;
     :relatedTo :Line_184 .
 
-:TV_Line_185_gr a :TranslationVariant ;
+:TV_Line_185_GR a :TranslationVariant ;
     :text "ούτε θα σώπαινα βλέποντας την καταστροφή"^^xsd:string ;
     :relatedTo :Line_185 .
 
-:TV_Line_186_gr a :TranslationVariant ;
+:TV_Line_186_GR a :TranslationVariant ;
     :text "να έρχεται στους πολίτες αντί για σωτηρία,"^^xsd:string ;
     :relatedTo :Line_186 .
 
-:TV_Line_187_gr a :TranslationVariant ;
+:TV_Line_187_GR a :TranslationVariant ;
     :text "ούτε θα έκανα ποτέ φίλο μου άνθρωπο εχθρικό προς τη χώρα,"^^xsd:string ;
     :relatedTo :Line_187 .
 
-:TV_Line_188_gr a :TranslationVariant ;
+:TV_Line_188_GR a :TranslationVariant ;
     :text "γνωρίζοντας αυτό,"^^xsd:string ;
     :relatedTo :Line_188 .
 
-:TV_Line_189_gr a :TranslationVariant ;
+:TV_Line_189_GR a :TranslationVariant ;
     :text "ότι αυτή είναι που μας σώζει, και πάνω της"^^xsd:string ;
     :relatedTo :Line_189 .
 
-:TV_Line_190_gr a :TranslationVariant ;
+:TV_Line_190_GR a :TranslationVariant ;
     :text "καθώς πλέουμε όρθιοι, μόνο έτσι αποκτούμε φίλους."^^xsd:string ;
     :relatedTo :Line_190 .
 
-:TV_Line_191_gr a :TranslationVariant ;
+:TV_Line_191_GR a :TranslationVariant ;
     :text "Με τέτοιους νόμους εγώ μεγαλώνω αυτή την πόλη."^^xsd:string ;
     :relatedTo :Line_191 .
 
-:TV_Line_192_gr a :TranslationVariant ;
+:TV_Line_192_GR a :TranslationVariant ;
     :text "Με αυτούς τους νόμους έχω ήδη εκδώσει δημόσιο κήρυγμα."^^xsd:string ;
     :relatedTo :Line_192 .

@@ -6,56 +6,56 @@
 :exodus-translations-1277-1305-english a owl:Ontology .
 # English translation variants extracted from 1277_to_1305.ttl
 
-:TV_Line_1278_en a :TranslationVariant ; :relatedTo :Line_1278 ; :text "My lord, as you stand and as you bear what you bear,"^^xsd:string .
+:TV_Line_1278_EN a :TranslationVariant ; :relatedTo :Line_1278 ; :text "My lord, as you stand and as you bear what you bear,"^^xsd:string .
 
-:TV_Line_1279_en a :TranslationVariant ; :relatedTo :Line_1279 ; :text "You seem to carry these things in your hands, while at home"^^xsd:string .
+:TV_Line_1279_EN a :TranslationVariant ; :relatedTo :Line_1279 ; :text "You seem to carry these things in your hands, while at home"^^xsd:string .
 
-:TV_Line_1280_en a :TranslationVariant ; :relatedTo :Line_1280 ; :text "You have come upon, and soon will see, more evils."^^xsd:string .
+:TV_Line_1280_EN a :TranslationVariant ; :relatedTo :Line_1280 ; :text "You have come upon, and soon will see, more evils."^^xsd:string .
 
-:TV_Line_1281_en a :TranslationVariant ; :relatedTo :Line_1281 ; :text "What? Can there still be anything worse than these evils?"^^xsd:string .
+:TV_Line_1281_EN a :TranslationVariant ; :relatedTo :Line_1281 ; :text "What? Can there still be anything worse than these evils?"^^xsd:string .
 
-:TV_Line_1282_en a :TranslationVariant ; :relatedTo :Line_1282 ; :text "Your wife is dead, the all-true mother of this dead son,"^^xsd:string .
+:TV_Line_1282_EN a :TranslationVariant ; :relatedTo :Line_1282 ; :text "Your wife is dead, the all-true mother of this dead son,"^^xsd:string .
 
-:TV_Line_1283_en a :TranslationVariant ; :relatedTo :Line_1283 ; :text "Poor woman, struck just now by freshly inflicted wounds."^^xsd:string .
+:TV_Line_1283_EN a :TranslationVariant ; :relatedTo :Line_1283 ; :text "Poor woman, struck just now by freshly inflicted wounds."^^xsd:string .
 
-:TV_Line_1284_en a :TranslationVariant ; :relatedTo :Line_1284 ; :text "Ah me, ah me, unpurgeable harbor of Hades,"^^xsd:string ; :hasTheme :Theme_HadesAsHarbor .
+:TV_Line_1284_EN a :TranslationVariant ; :relatedTo :Line_1284 ; :text "Ah me, ah me, unpurgeable harbor of Hades,"^^xsd:string ; :hasTheme :Theme_HadesAsHarbor .
 
-:TV_Line_1285_en a :TranslationVariant ; :relatedTo :Line_1285 ; :text "Why, why do you destroy me?"^^xsd:string .
+:TV_Line_1285_EN a :TranslationVariant ; :relatedTo :Line_1285 ; :text "Why, why do you destroy me?"^^xsd:string .
 
-:TV_Line_1286_en a :TranslationVariant ; :relatedTo :Line_1286 ; :text "O you bringer of evil tidings to me,"^^xsd:string .
+:TV_Line_1286_EN a :TranslationVariant ; :relatedTo :Line_1286 ; :text "O you bringer of evil tidings to me,"^^xsd:string .
 
-:TV_Line_1287_en a :TranslationVariant ; :relatedTo :Line_1287 ; :text "Who sent grief ahead, what word are you crying out?"^^xsd:string .
+:TV_Line_1287_EN a :TranslationVariant ; :relatedTo :Line_1287 ; :text "Who sent grief ahead, what word are you crying out?"^^xsd:string .
 
-:TV_Line_1288_en a :TranslationVariant ; :relatedTo :Line_1288 ; :text "Alas, you have destroyed a man already ruined."^^xsd:string .
+:TV_Line_1288_EN a :TranslationVariant ; :relatedTo :Line_1288 ; :text "Alas, you have destroyed a man already ruined."^^xsd:string .
 
-:TV_Line_1289_en a :TranslationVariant ; :relatedTo :Line_1289 ; :text "What are you saying, boy? What new thing do you tell me,"^^xsd:string .
+:TV_Line_1289_EN a :TranslationVariant ; :relatedTo :Line_1289 ; :text "What are you saying, boy? What new thing do you tell me,"^^xsd:string .
 
-:TV_Line_1290_en a :TranslationVariant ; :relatedTo :Line_1290 ; :text "Alas, alas,"^^xsd:string .
+:TV_Line_1290_EN a :TranslationVariant ; :relatedTo :Line_1290 ; :text "Alas, alas,"^^xsd:string .
 
-:TV_Line_1291_en a :TranslationVariant ; :relatedTo :Line_1291 ; :text "That a slaughter upon slaughter,"^^xsd:string .
+:TV_Line_1291_EN a :TranslationVariant ; :relatedTo :Line_1291 ; :text "That a slaughter upon slaughter,"^^xsd:string .
 
-:TV_Line_1292_en a :TranslationVariant ; :relatedTo :Line_1292 ; :text "The death of a woman, is laid upon me?"^^xsd:string .
+:TV_Line_1292_EN a :TranslationVariant ; :relatedTo :Line_1292 ; :text "The death of a woman, is laid upon me?"^^xsd:string .
 
-:TV_Line_1293_en a :TranslationVariant ; :relatedTo :Line_1293 ; :text "You may see it; for it is no longer hidden within."^^xsd:string .
+:TV_Line_1293_EN a :TranslationVariant ; :relatedTo :Line_1293 ; :text "You may see it; for it is no longer hidden within."^^xsd:string .
 
-:TV_Line_1294_en a :TranslationVariant ; :relatedTo :Line_1294 ; :text "Ah me!"^^xsd:string .
+:TV_Line_1294_EN a :TranslationVariant ; :relatedTo :Line_1294 ; :text "Ah me!"^^xsd:string .
 
-:TV_Line_1295_en a :TranslationVariant ; :relatedTo :Line_1295 ; :text "Wretched man, I see this second evil too,"^^xsd:string .
+:TV_Line_1295_EN a :TranslationVariant ; :relatedTo :Line_1295 ; :text "Wretched man, I see this second evil too,"^^xsd:string .
 
-:TV_Line_1296_en a :TranslationVariant ; :relatedTo :Line_1296 ; :text "What fate, what fate still waits for me?"^^xsd:string .
+:TV_Line_1296_EN a :TranslationVariant ; :relatedTo :Line_1296 ; :text "What fate, what fate still waits for me?"^^xsd:string .
 
-:TV_Line_1297_en a :TranslationVariant ; :relatedTo :Line_1297 ; :text "Just now I hold my child in my hands,"^^xsd:string .
+:TV_Line_1297_EN a :TranslationVariant ; :relatedTo :Line_1297 ; :text "Just now I hold my child in my hands,"^^xsd:string .
 
-:TV_Line_1298_en a :TranslationVariant ; :relatedTo :Line_1298 ; :text "And before me I look upon another corpse."^^xsd:string .
+:TV_Line_1298_EN a :TranslationVariant ; :relatedTo :Line_1298 ; :text "And before me I look upon another corpse."^^xsd:string .
 
-:TV_Line_1300_en a :TranslationVariant ; :relatedTo :Line_1300 ; :text "Alas, alas, unhappy mother, alas, my child."^^xsd:string .
+:TV_Line_1300_EN a :TranslationVariant ; :relatedTo :Line_1300 ; :text "Alas, alas, unhappy mother, alas, my child."^^xsd:string .
 
-:TV_Line_1301_en a :TranslationVariant ; :relatedTo :Line_1301 ; :text "She, struck sharply, as she sat beside the altar,"^^xsd:string .
+:TV_Line_1301_EN a :TranslationVariant ; :relatedTo :Line_1301 ; :text "She, struck sharply, as she sat beside the altar,"^^xsd:string .
 
-:TV_Line_1302_en a :TranslationVariant ; :relatedTo :Line_1302 ; :text "Closed her darkened eyes, after crying aloud"^^xsd:string .
+:TV_Line_1302_EN a :TranslationVariant ; :relatedTo :Line_1302 ; :text "Closed her darkened eyes, after crying aloud"^^xsd:string .
 
-:TV_Line_1303_en a :TranslationVariant ; :relatedTo :Line_1303 ; :text "For the empty bed of Megareus, who died before,"^^xsd:string .
+:TV_Line_1303_EN a :TranslationVariant ; :relatedTo :Line_1303 ; :text "For the empty bed of Megareus, who died before,"^^xsd:string .
 
-:TV_Line_1304_en a :TranslationVariant ; :relatedTo :Line_1304 ; :text "And then for this one; and last of all upon you"^^xsd:string .
+:TV_Line_1304_EN a :TranslationVariant ; :relatedTo :Line_1304 ; :text "And then for this one; and last of all upon you"^^xsd:string .
 
-:TV_Line_1305_en a :TranslationVariant ; :relatedTo :Line_1305 ; :text "She called down evil deeds, naming you the slayer of your child."^^xsd:string ; :hasTheme :Theme_TheFinalCurse .
+:TV_Line_1305_EN a :TranslationVariant ; :relatedTo :Line_1305 ; :text "She called down evil deeds, naming you the slayer of your child."^^xsd:string ; :hasTheme :Theme_TheFinalCurse .

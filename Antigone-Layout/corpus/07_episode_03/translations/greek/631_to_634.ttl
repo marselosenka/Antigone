@@ -4,18 +4,18 @@
 
 :episode_03-translations-631-634-greek a owl:Ontology .
 
-:TV_Line_631_gr a :TranslationVariant ;
+:TV_Line_631_GR a :TranslationVariant ;
     :text "σύντομα θα μάθουμε ποιος από τους μάντεις ξέρει καλύτερα."^^xsd:string ;
     :relatedTo :Line_631 .
 
-:TV_Line_632_gr a :TranslationVariant ;
+:TV_Line_632_GR a :TranslationVariant ;
     :text "αν δίνεις ορθές συμβουλές, εγώ θα σε ακολουθήσω."^^xsd:string ;
     :relatedTo :Line_632 .
 
-:TV_Line_633_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_633_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "και έρχεσαι εξαγριωμένος ενάντια στον πατέρα της μέλλουσας νύφης σου;"^^xsd:string ;
     :relatedTo :Line_633 .
 
-:TV_Line_634_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_634_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Ή μήπως εγώ είμαι πάντοτε φίλος σου σε όσα πράττω;"^^xsd:string ;
     :relatedTo :Line_634 .

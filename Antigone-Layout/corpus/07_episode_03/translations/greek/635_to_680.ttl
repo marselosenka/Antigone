@@ -4,181 +4,181 @@
 
 :episode_03-translations-635-680-greek a owl:Ontology .
 
-:TV_Line_635_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_635_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Πατέρα, είμαι δικός σου, και εσύ με καθοδηγείς με σωστές συμβουλές,"^^xsd:string ;
     :relatedTo :Line_635 .
 
-:TV_Line_636_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_636_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "με οδηγείς σωστά, και εγώ θα τις ακολουθήσω."^^xsd:string ;
     :relatedTo :Line_636 .
 
-:TV_Line_637_gr a :TranslationVariant ;
+:TV_Line_637_GR a :TranslationVariant ;
     :text "γιατί κανένας γάμος για μένα δεν θα θεωρηθεί"^^xsd:string ;
     :relatedTo :Line_637 .
 
-:TV_Line_638_gr a :TranslationVariant ;
+:TV_Line_638_GR a :TranslationVariant ;
     :text "σημαντικότερος από το να με καθοδηγείς σωστά εσύ."^^xsd:string ;
     :relatedTo :Line_638 .
 
-:TV_Line_639_gr a :TranslationVariant ;
+:TV_Line_639_GR a :TranslationVariant ;
     :text "έτσι πρέπει, παιδί μου, να το κρατάς βαθιά στο στήθος,"^^xsd:string ;
     :relatedTo :Line_639 .
 
-:TV_Line_640_gr a :TranslationVariant ;
+:TV_Line_640_GR a :TranslationVariant ;
     :text "γι' αυτό οι άντρες εύχονται να αποκτήσουν παιδιά"^^xsd:string ;
     :relatedTo :Line_640 .
 
-:TV_Line_641_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_641_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Γι’ αυτό ακριβώς οι άνθρωποι εύχονται να αποκτούν παιδιά"^^xsd:string ;
     :relatedTo :Line_641 .
 
-:TV_Line_642_gr a :TranslationVariant ;
+:TV_Line_642_GR a :TranslationVariant ;
     :text "και να τα έχουν στο σπίτι υπάκουα,"^^xsd:string ;
     :relatedTo :Line_642 .
 
-:TV_Line_643_gr a :TranslationVariant ;
+:TV_Line_643_GR a :TranslationVariant ;
     :text "ώστε να ανταποδίδουν στον εχθρό κακό με κακό"^^xsd:string ;
     :relatedTo :Line_643 .
 
-:TV_Line_644_gr a :TranslationVariant ;
+:TV_Line_644_GR a :TranslationVariant ;
     :text "και να τιμούν τον φίλο ισάξια, όπως ο πατέρας."^^xsd:string ;
     :relatedTo :Line_644 .
 
-:TV_Line_645_gr a :TranslationVariant ;
+:TV_Line_645_GR a :TranslationVariant ;
     :text "κι αυτόν τι άλλο θα έλεγες, παρά ότι γεννά για τον εαυτό του συμφορές"^^xsd:string ;
     :relatedTo :Line_645 .
 
-:TV_Line_646_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_646_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Τι άλλο θα μπορούσε να πει κανείς γι’ αυτόν, παρά ότι γέννησε"^^xsd:string ;
     :relatedTo :Line_646 .
 
-:TV_Line_647_gr a :TranslationVariant ;
+:TV_Line_647_GR a :TranslationVariant ;
     :text "παγωμένη αγκαλιά γίνεται αυτό,"^^xsd:string ;
     :relatedTo :Line_647 .
 
-:TV_Line_648_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_648_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Ποτέ λοιπόν, παιδί μου, να μη χάσεις το μυαλό σου από την ηδονή"^^xsd:string ;
     :relatedTo :Line_648 .
 
-:TV_Line_649_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_649_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "εξαιτίας μιας γυναίκας, γνωρίζοντας πως"^^xsd:string ;
     :relatedTo :Line_649 .
 
-:TV_Line_650_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_650_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "αυτό καταλήγει σε ψυχρό αγκάλιασμα,"^^xsd:string ;
     :relatedTo :Line_650 .
 
-:TV_Line_651_gr a :TranslationVariant ;
+:TV_Line_651_GR a :TranslationVariant ;
     :text "μπορεί να υπάρξει μεγαλύτερη πληγή από έναν κακό φίλο;"^^xsd:string ;
     :relatedTo :Line_651 .
 
-:TV_Line_652_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_652_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "ποια πληγή θα μπορούσε να υπάρξει μεγαλύτερη από έναν κακό φίλο;"^^xsd:string ;
     :relatedTo :Line_652 .
-:TV_Line_653_gr a :TranslationVariant ;
+:TV_Line_653_GR a :TranslationVariant ;
     :text "αυτή την κόρη να τη νυμφεύσει κάποιος στον Άδη."^^xsd:string ;
     :relatedTo :Line_653 .
 
-:TV_Line_655_gr a :TranslationVariant ;
+:TV_Line_655_GR a :TranslationVariant ;
     :text "αυτήν, τη μόνη απ’ όλη την πόλη, που απείστησε,"^^xsd:string ;
     :relatedTo :Line_655 .
 
-:TV_Line_656_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_656_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "να παραβαίνει μόνη της τους νόμους της πόλης,"^^xsd:string ;
     :relatedTo :Line_656 .
 
-:TV_Line_657_gr a :TranslationVariant ;
+:TV_Line_657_GR a :TranslationVariant ;
     :text "δεν θα φανώ εγώ ψεύτης μέσα στην πόλη,"^^xsd:string ;
     :relatedTo :Line_657 .
 
-:TV_Line_658_gr a :TranslationVariant ;
+:TV_Line_658_GR a :TranslationVariant ;
     :text "γιατί όποιος είναι άντρας στα ίδια του τα οικεία"^^xsd:string ;
     :relatedTo :Line_658 .
 
-:TV_Line_659_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_659_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "προστάτη της συγγένειας. Γιατί αν τα δικά μου συγγενικά πρόσωπα"^^xsd:string ;
     :relatedTo :Line_659 .
 
-:TV_Line_660_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_660_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "τα αναθρέψω χωρίς τάξη, τότε πολύ περισσότερο και τους ξένους."^^xsd:string ;
     :relatedTo :Line_660 .
 
-:TV_Line_661_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_661_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Όποιος μέσα στα δικά του στέκεται σωστός άνδρας,"^^xsd:string ;
     :relatedTo :Line_661 .
 
-:TV_Line_662_gr a :TranslationVariant ;
+:TV_Line_662_GR a :TranslationVariant ;
     :text "κι όποιος παραβαίνει ή βιάζει τους νόμους,"^^xsd:string ;
     :relatedTo :Line_662 .
 
-:TV_Line_663_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_663_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Όποιος όμως παραβαίνει ή βιάζει τους νόμους"^^xsd:string ;
     :relatedTo :Line_663 .
 
-:TV_Line_664_gr a :TranslationVariant ;
+:TV_Line_664_GR a :TranslationVariant ;
     :text "ή νομίζει πως θα διατάζει αυτούς που κρατούν την εξουσία,"^^xsd:string ;
     :relatedTo :Line_664 .
 
-:TV_Line_665_gr a :TranslationVariant ;
+:TV_Line_665_GR a :TranslationVariant ;
     :text "αυτός δεν μπορεί να πάρει έπαινο από μένα."^^xsd:string ;
     :relatedTo :Line_665 .
 
-:TV_Line_666_gr a :TranslationVariant ;
+:TV_Line_666_GR a :TranslationVariant ;
     :text "και στα μικρά και στα δίκαια και στα αντίθετά τους."^^xsd:string ;
     :relatedTo :Line_666 .
 
-:TV_Line_667_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_667_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "και στα μικρά και στα δίκαια και στα αντίθετά τους."^^xsd:string ;
     :relatedTo :Line_667 .
 
-:TV_Line_668_gr a :TranslationVariant ;
+:TV_Line_668_GR a :TranslationVariant ;
     :text "κι αυτόν τον άντρα εγώ θα τον εμπιστευόμουν"^^xsd:string ;
     :relatedTo :Line_668 .
 
-:TV_Line_669_gr a :TranslationVariant ;
+:TV_Line_669_GR a :TranslationVariant ;
     :text "και να άρχει καλά και να θέλει να άρχεται σωστά,"^^xsd:string ;
     :relatedTo :Line_669 .
 
-:TV_Line_670_gr a :TranslationVariant ;
+:TV_Line_670_GR a :TranslationVariant ;
     :text "και μέσα στη θύελλα του δόρατος, στη θέση του"^^xsd:string ;
     :relatedTo :Line_670 .
 
-:TV_Line_671_gr a :TranslationVariant ;
+:TV_Line_671_GR a :TranslationVariant ;
     :text "να στέκεται δίκαιος και γενναίος παραστάτης."^^xsd:string ;
     :relatedTo :Line_671 .
 
-:TV_Line_672_gr a :TranslationVariant ;
+:TV_Line_672_GR a :TranslationVariant ;
     :text "η αναρχία γκρεμίζει σπίτια, και το συμμαχικό δόρυ"^^xsd:string ;
     :relatedTo :Line_672 .
 
-:TV_Line_673_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_673_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Αυτή καταστρέφει πόλεις, αυτή ανατρέπει"^^xsd:string ;
     :relatedTo :Line_673 .
 
-:TV_Line_674_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_674_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "σπίτια, αυτή διαλύει τις παρατάξεις των συμμάχων στον πόλεμο."^^xsd:string ;
     :relatedTo :Line_674 .
 
-:TV_Line_675_gr a :TranslationVariant ;
+:TV_Line_675_GR a :TranslationVariant ;
     :text "σπάει και συντρίβει τις παρατάξεις· ενώ όσοι στέκουν όρθιοι,"^^xsd:string ;
     :relatedTo :Line_675 .
 
-:TV_Line_676_gr a :TranslationVariant ;
+:TV_Line_676_GR a :TranslationVariant ;
     :text "αυτοί σώζονται όταν υπάρχει τάξη και πειθαρχία."^^xsd:string ;
     :relatedTo :Line_676 .
 
-:TV_Line_677_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_677_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Έτσι πρέπει να υπερασπιζόμαστε την τάξη,"^^xsd:string ;
     :relatedTo :Line_677 .
 
-:TV_Line_678_gr a :TranslationVariant ;
+:TV_Line_678_GR a :TranslationVariant ;
     :text "γιατί καλύτερα, αν χρειαστεί, να πέσουμε από άντρα,"^^xsd:string ;
     :relatedTo :Line_678 .
 
-:TV_Line_679_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_679_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Γιατί είναι προτιμότερο, αν χρειαστεί, να πέσουμε από άνδρα,"^^xsd:string ;
     :relatedTo :Line_679 .
     
-:TV_Line_680_gr a :TranslationVariant ;
+:TV_Line_680_GR a :TranslationVariant ;
     :text "παρά να ακουστεί πως μας νίκησε γυναίκα."^^xsd:string ;
     :relatedTo :Line_680 .

@@ -4,15 +4,15 @@
 
 :episode_03-translations-762-772-chinese a owl:Ontology .
 
-:TV_Line_762_zh a :TranslationVariant ; :relatedTo :Line_762 ; :text "不，别做这种梦了——"^^xsd:string .
-:TV_Line_763_zh a :TranslationVariant ; :relatedTo :Line_763 ; :text "她不会在我身边死去，而你也永远"^^xsd:string .
-:TV_Line_764_zh a :TranslationVariant ; :relatedTo :Line_764 ; :text "不会再用这双眼看见这张脸，"^^xsd:string .
-:TV_Line_765_zh a :TranslationVariant ; :relatedTo :Line_765 ; :text "你就去向那些容你发疯的朋友撒野吧。"^^xsd:string .
-:TV_Line_766_zh a :TranslationVariant ; :relatedTo :Line_766 ; :text "主上，这年轻人怒气冲冲地走了。"^^xsd:string .
-:TV_Line_767_zh a :TranslationVariant ; :relatedTo :Line_767 ; :text "他这年纪，心一受伤便容易生怨。"^^xsd:string .
-:TV_Line_768_zh a :TranslationVariant ; :relatedTo :Line_768 ; :text "让他去吧，让他去想什么超人计划："^^xsd:string .
-:TV_Line_769_zh a :TranslationVariant ; :relatedTo :Line_769 ; :text "他也救不了这两个女人的命运。"^^xsd:string .
-:TV_Line_770_zh a :TranslationVariant ; :relatedTo :Line_770 ; :text "你打算把她们两个都杀了？"^^xsd:string .
-:TV_Line_771_zh a :TranslationVariant ; :relatedTo :Line_771 ; :text "你说得对。那个没沾手的，不杀。"^^xsd:string .
-:TV_Line_772_zh a :TranslationVariant ; :relatedTo :Line_772 ; :text "那另一个你打算怎样处死？"^^xsd:string .
+:TV_Line_762_ZH a :TranslationVariant ; :relatedTo :Line_762 ; :text "不，别做这种梦了——"^^xsd:string .
+:TV_Line_763_ZH a :TranslationVariant ; :relatedTo :Line_763 ; :text "她不会在我身边死去，而你也永远"^^xsd:string .
+:TV_Line_764_ZH a :TranslationVariant ; :relatedTo :Line_764 ; :text "不会再用这双眼看见这张脸，"^^xsd:string .
+:TV_Line_765_ZH a :TranslationVariant ; :relatedTo :Line_765 ; :text "你就去向那些容你发疯的朋友撒野吧。"^^xsd:string .
+:TV_Line_766_ZH a :TranslationVariant ; :relatedTo :Line_766 ; :text "主上，这年轻人怒气冲冲地走了。"^^xsd:string .
+:TV_Line_767_ZH a :TranslationVariant ; :relatedTo :Line_767 ; :text "他这年纪，心一受伤便容易生怨。"^^xsd:string .
+:TV_Line_768_ZH a :TranslationVariant ; :relatedTo :Line_768 ; :text "让他去吧，让他去想什么超人计划："^^xsd:string .
+:TV_Line_769_ZH a :TranslationVariant ; :relatedTo :Line_769 ; :text "他也救不了这两个女人的命运。"^^xsd:string .
+:TV_Line_770_ZH a :TranslationVariant ; :relatedTo :Line_770 ; :text "你打算把她们两个都杀了？"^^xsd:string .
+:TV_Line_771_ZH a :TranslationVariant ; :relatedTo :Line_771 ; :text "你说得对。那个没沾手的，不杀。"^^xsd:string .
+:TV_Line_772_ZH a :TranslationVariant ; :relatedTo :Line_772 ; :text "那另一个你打算怎样处死？"^^xsd:string .
 

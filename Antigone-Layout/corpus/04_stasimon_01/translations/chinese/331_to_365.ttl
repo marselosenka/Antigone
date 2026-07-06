@@ -4,111 +4,111 @@
 
 :stasimon_01-translations-331-365-chinese a owl:Ontology .
 
-:TV_Line_331_zh a :TranslationVariant ;
+:TV_Line_331_ZH a :TranslationVariant ;
     :text "如此得救，我当向诸神深致多重感谢。"^^xsd:string ;
     :relatedTo :Line_331 .
 
-:TV_Line_332_zh a :TranslationVariant ;
+:TV_Line_332_ZH a :TranslationVariant ;
     :text "合唱队：奇事甚多，而最奇者"^^xsd:string ;
     :relatedTo :Line_332 .
 
-:TV_Line_333_zh a :TranslationVariant ;
+:TV_Line_333_ZH a :TranslationVariant ;
     :text "莫过于人。"^^xsd:string ;
     :relatedTo :Line_333 .
 
-:TV_Line_334_zh a :TranslationVariant ;
+:TV_Line_334_ZH a :TranslationVariant ;
     :text "此种力量，甚至横越灰暗"^^xsd:string ;
     :relatedTo :Line_334 .
 
-:TV_Line_335_zh a :TranslationVariant ;
+:TV_Line_335_ZH a :TranslationVariant ;
     :text "大海与寒冬风暴，"^^xsd:string ;
     :relatedTo :Line_335 .
 
-:TV_Line_336_zh a :TranslationVariant ;
+:TV_Line_336_ZH a :TranslationVariant ;
     :text "穿行于翻涌巨浪之中，"^^xsd:string ;
     :relatedTo :Line_336 .
 
-:TV_Line_337_zh a :TranslationVariant ;
+:TV_Line_337_ZH a :TranslationVariant ;
     :text "从波涛之下挺进；而在诸神之中，"^^xsd:string ;
     :relatedTo :Line_337 .
 
-:TV_Line_338_zh a :TranslationVariant ;
+:TV_Line_338_ZH a :TranslationVariant ;
     :text "最古老、至高、"^^xsd:string ;
     :relatedTo :Line_338 .
 
-# :TV_Line_339_zh a :TranslationVariant ;
+# :TV_Line_339_ZH a :TranslationVariant ;
 #   :text "不死且不倦的大地（盖亚），也被他磨损，"^^xsd:string ;
 #    :relatedTo :Line_339 .
 
-:TV_Line_340_zh a :TranslationVariant ;
+:TV_Line_340_ZH a :TranslationVariant ;
     :text "当犁铧年复一年翻动土壤，"^^xsd:string ;
     :relatedTo :Line_340 .
 
-:TV_Line_341_zh a :TranslationVariant ;
+:TV_Line_341_ZH a :TranslationVariant ;
     :text "以马族之力耕作其上。"^^xsd:string ;
     :relatedTo :Line_341 .
 
-:TV_Line_342_zh a :TranslationVariant ;
+:TV_Line_342_ZH a :TranslationVariant ;
     :text "那轻灵多变的"^^xsd:string ;
     :relatedTo :Line_342 .
 
-:TV_Line_343_zh a :TranslationVariant ;
+:TV_Line_343_ZH a :TranslationVariant ;
     :text "飞鸟之族，他设网捕捉，"^^xsd:string ;
     :relatedTo :Line_343 .
 
-:TV_Line_344_zh a :TranslationVariant ;
+:TV_Line_344_ZH a :TranslationVariant ;
     :text "以及山野兽群，"^^xsd:string ;
     :relatedTo :Line_344 .
 
-:TV_Line_345_zh a :TranslationVariant ;
+:TV_Line_345_ZH a :TranslationVariant ;
     :text "与深海所居之生灵，"^^xsd:string ;
     :relatedTo :Line_345 .
 
-:TV_Line_346_zh a :TranslationVariant ;
+:TV_Line_346_ZH a :TranslationVariant ;
     :text "都落入编结网绳之中；"^^xsd:string ;
     :relatedTo :Line_346 .
 
-:TV_Line_347_zh a :TranslationVariant ;
+:TV_Line_347_ZH a :TranslationVariant ;
     :text "技艺高超的人，凭其机巧"^^xsd:string ;
     :relatedTo :Line_347 .
 
-:TV_Line_348_zh a :TranslationVariant ;
+:TV_Line_348_ZH a :TranslationVariant ;
     :text "制服了野性"^^xsd:string ;
     :relatedTo :Line_348 .
 
-:TV_Line_350_zh a :TranslationVariant ;
+:TV_Line_350_ZH a :TranslationVariant ;
     :text "山中猛兽；而长鬃之马"^^xsd:string ;
     :relatedTo :Line_350 .
 
-:TV_Line_351_zh a :TranslationVariant ;
+:TV_Line_351_ZH a :TranslationVariant ;
     :text "也被他纳入轭下，"^^xsd:string ;
     :relatedTo :Line_351 .
 
-:TV_Line_352_zh a :TranslationVariant ;
+:TV_Line_352_ZH a :TranslationVariant ;
     :text "以及不知疲倦的山野公牛。"^^xsd:string ;
     :relatedTo :Line_352 .
 
-:TV_Line_355_zh a :TranslationVariant ;
+:TV_Line_355_ZH a :TranslationVariant ;
     :text "语言、疾风般的思想、以及城邦生活的"^^xsd:string ;
     :relatedTo :Line_355 .
 
-:TV_Line_356_zh a :TranslationVariant ;
+:TV_Line_356_ZH a :TranslationVariant ;
     :text "性情，他都自学得来；又学会如何避开"^^xsd:string ;
     :relatedTo :Line_356 .
 
-:TV_Line_357_zh a :TranslationVariant ;
+:TV_Line_357_ZH a :TranslationVariant ;
     :text "露天高处的严霜与暴雨的利箭。"^^xsd:string ;
     :relatedTo :Line_357 .
 
-:TV_Line_358_zh a :TranslationVariant ;
+:TV_Line_358_ZH a :TranslationVariant ;
     :text "他资源百出；面对将来，几乎无所无策，"^^xsd:string ;
     :relatedTo :Line_358 .
 
-:TV_Line_360_zh a :TranslationVariant ;
+:TV_Line_360_ZH a :TranslationVariant ;
     :text "唯独对哈得斯，他不能求得逃脱；"^^xsd:string ;
     :relatedTo :Line_360 .
 
-:TV_Line_361_zh a :TranslationVariant ;
+:TV_Line_361_ZH a :TranslationVariant ;
     :text "但对难治之病，他也想出了疗法。"^^xsd:string ;
     :relatedTo :Line_361 .
 

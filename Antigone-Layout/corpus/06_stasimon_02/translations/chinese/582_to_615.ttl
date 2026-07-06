@@ -4,50 +4,50 @@
 
 :stasimon_02-translations-582-615-chinese a owl:Ontology .
 
-:TV_Line_583_zh a :TranslationVariant ; :relatedTo :Line_583 ;
+:TV_Line_583_ZH a :TranslationVariant ; :relatedTo :Line_583 ;
   :text "有福的是从未尝过苦难的人生。"^^xsd:string .
-:TV_Line_584_zh a :TranslationVariant ; :relatedTo :Line_584 ;
+:TV_Line_584_ZH a :TranslationVariant ; :relatedTo :Line_584 ;
   :text "凡其家室被诸神震动者，"^^xsd:string .
-:TV_Line_585_zh a :TranslationVariant ; :relatedTo :Line_585 ;
+:TV_Line_585_ZH a :TranslationVariant ; :relatedTo :Line_585 ;
   :text "毁灭便不会缺席，而会蔓延至众多人群，"^^xsd:string .
-:TV_Line_586_zh a :TranslationVariant ; :relatedTo :Line_586 ;
+:TV_Line_586_ZH a :TranslationVariant ; :relatedTo :Line_586 ;
   :text "正如暴戾色雷斯海风催起的涨潮"^^xsd:string .
-:TV_Line_587_zh a :TranslationVariant ; :relatedTo :Line_587 ;
+:TV_Line_587_ZH a :TranslationVariant ; :relatedTo :Line_587 ;
   :text "扑向阴郁深海之时，"^^xsd:string .
-:TV_Line_590_zh a :TranslationVariant ; :relatedTo :Line_590 ;
+:TV_Line_590_ZH a :TranslationVariant ; :relatedTo :Line_590 ;
   :text "便搅起海底黑沙，"^^xsd:string .
-:TV_Line_591_zh a :TranslationVariant ; :relatedTo :Line_591 ;
+:TV_Line_591_ZH a :TranslationVariant ; :relatedTo :Line_591 ;
   :text "拍岸之滨咆哮哀鸣。"^^xsd:string .
-:TV_Line_593_zh a :TranslationVariant ; :relatedTo :Line_593 ;
+:TV_Line_593_ZH a :TranslationVariant ; :relatedTo :Line_593 ;
   :text "我看见拉布达库斯家古老的不幸，继续压在"^^xsd:string .
-:TV_Line_595_zh a :TranslationVariant ; :relatedTo :Line_595 ;
+:TV_Line_595_ZH a :TranslationVariant ; :relatedTo :Line_595 ;
   :text "死者的不幸之上。"^^xsd:string .
-:TV_Line_596_zh a :TranslationVariant ; :relatedTo :Line_596 ;
+:TV_Line_596_ZH a :TranslationVariant ; :relatedTo :Line_596 ;
   :text "一代人不能解放一族，因为总有某位神把他们再度击倒，"^^xsd:string .
-:TV_Line_597_zh a :TranslationVariant ; :relatedTo :Line_597 ;
+:TV_Line_597_ZH a :TranslationVariant ; :relatedTo :Line_597 ;
   :text "不给解脱。如今那一道光"^^xsd:string .
-:TV_Line_600_zh a :TranslationVariant ; :relatedTo :Line_600 ;
+:TV_Line_600_ZH a :TranslationVariant ; :relatedTo :Line_600 ;
   :text "曾照在俄狄浦斯家最深根脉上的，"^^xsd:string .
-:TV_Line_601_zh a :TranslationVariant ; :relatedTo :Line_601 ;
+:TV_Line_601_ZH a :TranslationVariant ; :relatedTo :Line_601 ;
   :text "现在又被地下诸神的血尘斩断，"^^xsd:string .
-:TV_Line_602_zh a :TranslationVariant ; :relatedTo :Line_602 ;
+:TV_Line_602_ZH a :TranslationVariant ; :relatedTo :Line_602 ;
   :text "因言语之愚与心智之狂。"^^xsd:string .
-:TV_Line_605_zh a :TranslationVariant ; :relatedTo :Line_605 ;
+:TV_Line_605_ZH a :TranslationVariant ; :relatedTo :Line_605 ;
   :text "宙斯啊，人的何种越轨能约束你的力量？"^^xsd:string .
-:TV_Line_606_zh a :TranslationVariant ; :relatedTo :Line_606 ;
+:TV_Line_606_ZH a :TranslationVariant ; :relatedTo :Line_606 ;
   :text "连罗网万物的睡眠也无法夺去它，"^^xsd:string .
-:TV_Line_607_zh a :TranslationVariant ; :relatedTo :Line_607 ;
+:TV_Line_607_ZH a :TranslationVariant ; :relatedTo :Line_607 ;
   :text "诸神不疲之月也不能；而你在时中不老，"^^xsd:string .
-:TV_Line_610_zh a :TranslationVariant ; :relatedTo :Line_610 ;
+:TV_Line_610_ZH a :TranslationVariant ; :relatedTo :Line_610 ;
   :text "作为主宰，牢牢掌握奥林波斯闪耀大理石般的荣辉。"^^xsd:string .
-:TV_Line_611_zh a :TranslationVariant ; :relatedTo :Line_611 ;
+:TV_Line_611_ZH a :TranslationVariant ; :relatedTo :Line_611 ;
   :text "对将来、过去"^^xsd:string .
-:TV_Line_612_zh a :TranslationVariant ; :relatedTo :Line_612 ;
+:TV_Line_612_ZH a :TranslationVariant ; :relatedTo :Line_612 ;
   :text "与现在，这条法则都足够："^^xsd:string .
-:TV_Line_613_zh a :TranslationVariant ; :relatedTo :Line_613 ;
+:TV_Line_613_ZH a :TranslationVariant ; :relatedTo :Line_613 ;
   :text "凡人的生命中，凡伟大之物"^^xsd:string .
-:TV_Line_614_zh a :TranslationVariant ; :relatedTo :Line_614 ;
+:TV_Line_614_ZH a :TranslationVariant ; :relatedTo :Line_614 ;
   :text "无不伴随毁灭而来。"^^xsd:string .
-:TV_Line_615_zh a :TranslationVariant ; :relatedTo :Line_615 ;
+:TV_Line_615_ZH a :TranslationVariant ; :relatedTo :Line_615 ;
   :text "漂泊不定的希望，给许多人带来益处，"^^xsd:string .
 

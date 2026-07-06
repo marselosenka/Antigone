@@ -4,63 +4,63 @@
 
 :episode_04-translations-929-943-greek a owl:Ontology .
 
-:TV_Line_929_gr a :TranslationVariant ;
+:TV_Line_929_GR a :TranslationVariant ;
     :text "Ακόμα οι ίδιες ριπές των ανέμων"^^xsd:string ;
     :relatedTo :Line_929 .
 
-:TV_Line_930_gr a :TranslationVariant ;
+:TV_Line_930_GR a :TranslationVariant ;
     :text "κρατούν αυτή την ψυχή."^^xsd:string ;
     :relatedTo :Line_930 .
 
-:TV_Line_931_gr a :TranslationVariant ;
+:TV_Line_931_GR a :TranslationVariant ;
     :text "Γι’ αυτό, σε όσους την οδηγούν,"^^xsd:string ;
     :relatedTo :Line_931 .
 
-:TV_Line_932_gr a :TranslationVariant ;
+:TV_Line_932_GR a :TranslationVariant ;
     :text "θα πέσουν κλάματα για τη βραδύτητά τους."^^xsd:string ;
     :relatedTo :Line_932 .
 
-:TV_Line_933_gr a :TranslationVariant ;
+:TV_Line_933_GR a :TranslationVariant ;
     :text "Αλίμονο, αυτός ο λόγος έφτασε πολύ κοντά"^^xsd:string ;
     :relatedTo :Line_933 .
 
-:TV_Line_934_gr a :TranslationVariant ;
+:TV_Line_934_GR a :TranslationVariant ;
     :text "στον θάνατο."^^xsd:string ;
     :relatedTo :Line_934 .
 
-:TV_Line_935_gr a :TranslationVariant ;
+:TV_Line_935_GR a :TranslationVariant ;
     :text "Δεν σου δίνω καμιά παρηγοριά να ελπίζεις"^^xsd:string ;
     :relatedTo :Line_935 .
 
-:TV_Line_936_gr a :TranslationVariant ;
+:TV_Line_936_GR a :TranslationVariant ;
     :text "πως αυτά δεν θα γίνουν έτσι."^^xsd:string ;
     :relatedTo :Line_936 .
 
-:TV_Line_937_gr a :TranslationVariant ;
+:TV_Line_937_GR a :TranslationVariant ;
     :text "Ω πόλη της πατρικής Θήβας"^^xsd:string ;
     :relatedTo :Line_937 .
 
-:TV_Line_938_gr a :TranslationVariant ;
+:TV_Line_938_GR a :TranslationVariant ;
     :text "και θεοί των προγόνων μου,"^^xsd:string ;
     :relatedTo :Line_938 .
 
-:TV_Line_939_gr a :TranslationVariant ;
+:TV_Line_939_GR a :TranslationVariant ;
     :text "με οδηγούν τώρα και δεν καθυστερώ άλλο."^^xsd:string ;
     :relatedTo :Line_939 .
 
-:TV_Line_940_gr a :TranslationVariant ;
+:TV_Line_940_GR a :TranslationVariant ;
     :text "Κοιτάξτε, άρχοντες της Θήβας,"^^xsd:string ;
     :relatedTo :Line_940 .
 
-:TV_Line_941_gr a :TranslationVariant ;
+:TV_Line_941_GR a :TranslationVariant ;
     :text "την τελευταία που έμεινε από τη βασιλική γενιά,"^^xsd:string ;
     :relatedTo :Line_941 .
 
-:TV_Line_942_gr a :TranslationVariant ;
+:TV_Line_942_GR a :TranslationVariant ;
     :text "τι πάσχω, και από ποιους ανθρώπους,"^^xsd:string ;
     :relatedTo :Line_942 .
 
-:TV_Line_943_gr a :TranslationVariant ;
+:TV_Line_943_GR a :TranslationVariant ;
     :text "επειδή τίμησα την ευσέβεια."^^xsd:string ;
     :relatedTo :Line_943 .
 

@@ -4,127 +4,127 @@
 
 :episode_05-translations-1033-1063-greek a owl:Ontology .
 
-:TV_Line_1033_gr a :TranslationVariant ;
+:TV_Line_1033_GR a :TranslationVariant ;
     :text "Γέροντα, όλοι εσείς, σαν τοξότες σε στόχο,"^^xsd:string ;
     :relatedTo :Line_1033 .
 
-:TV_Line_1034_gr a :TranslationVariant ;
+:TV_Line_1034_GR a :TranslationVariant ;
     :text "χτυπάτε αυτόν τον άνθρωπο· κι ακόμη και από τη μαντική"^^xsd:string ;
     :relatedTo :Line_1034 .
 
-:TV_Line_1035_gr a :TranslationVariant ;
+:TV_Line_1035_GR a :TranslationVariant ;
     :text "δεν βρίσκω ησυχία από εσάς· γιατί από όλο το σινάφι σας"^^xsd:string ;
     :relatedTo :Line_1035 .
 
-:TV_Line_1036_gr a :TranslationVariant ;
+:TV_Line_1036_GR a :TranslationVariant ;
     :text "έχω από καιρό πουληθεί και παζαρευτεί σαν εμπόρευμα."^^xsd:string ;
     :relatedTo :Line_1036 .
 
-:TV_Line_1037_gr a :TranslationVariant ;
+:TV_Line_1037_GR a :TranslationVariant ;
     :text "Βγάλτε λοιπόν κέρδος· εμπορευτείτε το ήλεκτρο των Σάρδεων,"^^xsd:string ;
     :relatedTo :Line_1037 .
 
-:TV_Line_1038_gr a :TranslationVariant ;
+:TV_Line_1038_GR a :TranslationVariant ;
     :text "αν θέλετε, και το χρυσάφι της Ινδίας·"^^xsd:string ;
     :relatedTo :Line_1038 .
 
-:TV_Line_1039_gr a :TranslationVariant ;
+:TV_Line_1039_GR a :TranslationVariant ;
     :text "μα εκείνον τον άντρα δεν θα τον κρύψετε ποτέ σε τάφο,"^^xsd:string ;
     :relatedTo :Line_1039 .
 
-:TV_Line_1040_gr a :TranslationVariant ;
+:TV_Line_1040_GR a :TranslationVariant ;
     :text "ούτε κι αν οι αετοί του Δία θελήσουν"^^xsd:string ;
     :relatedTo :Line_1040 .
 
-:TV_Line_1041_gr a :TranslationVariant ;
+:TV_Line_1041_GR a :TranslationVariant ;
     :text "να τον αρπάξουν και να τον φέρουν τροφή στον θρόνο του Δία·"^^xsd:string ;
     :relatedTo :Line_1041 .
 
-:TV_Line_1042_gr a :TranslationVariant ;
+:TV_Line_1042_GR a :TranslationVariant ;
     :text "ούτε τότε εγώ, από φόβο αυτού του μιάσματος,"^^xsd:string ;
     :relatedTo :Line_1042 .
 
-:TV_Line_1043_gr a :TranslationVariant ;
+:TV_Line_1043_GR a :TranslationVariant ;
     :text "θα επέτρεπα να ταφεί εκείνος ο άντρας· γιατί ξέρω καλά"^^xsd:string ;
     :relatedTo :Line_1043 .
 
-:TV_Line_1044_gr a :TranslationVariant ;
+:TV_Line_1044_GR a :TranslationVariant ;
     :text "ότι κανένας άνθρωπος δεν έχει δύναμη να μολύνει τους θεούς."^^xsd:string ;
     :relatedTo :Line_1044 .
 
-:TV_Line_1045_gr a :TranslationVariant ;
+:TV_Line_1045_GR a :TranslationVariant ;
     :text "Οι άνθρωποι σφάλλουν, γέρο Τειρεσία· και ανάμεσα στους θνητούς"^^xsd:string ;
     :relatedTo :Line_1045 .
 
-:TV_Line_1046_gr a :TranslationVariant ;
+:TV_Line_1046_GR a :TranslationVariant ;
     :text "οι πολύ έξυπνοι συχνά πέφτουν σε ντροπιαστικά λάθη, όταν"^^xsd:string ;
     :relatedTo :Line_1046 .
 
-:TV_Line_1047_gr a :TranslationVariant ;
+:TV_Line_1047_GR a :TranslationVariant ;
     :text "ντύνουν άσχημα λόγια με ωραία λόγια για χάρη κέρδους."^^xsd:string ;
     :relatedTo :Line_1047 .
 
-:TV_Line_1048_gr a :TranslationVariant ;
+:TV_Line_1048_GR a :TranslationVariant ;
     :text "Αλίμονο! Ξέρει κανείς, καταλαβαίνει κανείς,"^^xsd:string ;
     :relatedTo :Line_1048 .
 
-:TV_Line_1049_gr a :TranslationVariant ;
+:TV_Line_1049_GR a :TranslationVariant ;
     :text "τι είναι αυτό; ποιο κοινό ρητό εννοείς;"^^xsd:string ;
     :relatedTo :Line_1049 .
 
-:TV_Line_1050_gr a :TranslationVariant ;
+:TV_Line_1050_GR a :TranslationVariant ;
     :text "Όσο πολύ καλό είναι η φρόνηση, το καλύτερο από τα αγαθά,"^^xsd:string ;
     :relatedTo :Line_1050 .
 
-:TV_Line_1051_gr a :TranslationVariant ;
+:TV_Line_1051_GR a :TranslationVariant ;
     :text "τόσο, νομίζω, η αφροσύνη είναι το μεγαλύτερο κακό."^^xsd:string ;
     :relatedTo :Line_1051 .
 
-:TV_Line_1052_gr a :TranslationVariant ;
+:TV_Line_1052_GR a :TranslationVariant ;
     :text "Κι όμως είσαι γεμάτος ακριβώς από αυτή την αρρώστια."^^xsd:string ;
     :relatedTo :Line_1052 .
 
-:TV_Line_1053_gr a :TranslationVariant ;
+:TV_Line_1053_GR a :TranslationVariant ;
     :text "Δεν θέλω να απαντώ σε προφήτη με ύβρεις."^^xsd:string ;
     :relatedTo :Line_1053 .
 
-:TV_Line_1054_gr a :TranslationVariant ;
+:TV_Line_1054_GR a :TranslationVariant ;
     :text "Κι όμως το κάνεις, όταν λες ότι εγώ προφητεύω ψεύτικα."^^xsd:string ;
     :relatedTo :Line_1054 .
 
-:TV_Line_1055_gr a :TranslationVariant ;
+:TV_Line_1055_GR a :TranslationVariant ;
     :text "Γιατί όλο το γένος των μάντεων αγαπά το χρήμα."^^xsd:string ;
     :relatedTo :Line_1055 .
 
-:TV_Line_1056_gr a :TranslationVariant ;
+:TV_Line_1056_GR a :TranslationVariant ;
     :text "Και το γένος των τυράννων αγαπά το αισχρό κέρδος."^^xsd:string ;
     :relatedTo :Line_1056 .
 
-:TV_Line_1057_gr a :TranslationVariant ;
+:TV_Line_1057_GR a :TranslationVariant ;
     :text "Ξέρεις ότι, λέγοντας αυτά, μιλάς στον άρχοντά σου;"^^xsd:string ;
     :relatedTo :Line_1057 .
 
-:TV_Line_1058_gr a :TranslationVariant ;
+:TV_Line_1058_GR a :TranslationVariant ;
     :text "Το ξέρω· γιατί μέσω εμού κράτησες αυτή την πόλη σωστή."^^xsd:string ;
     :relatedTo :Line_1058 .
 
-:TV_Line_1059_gr a :TranslationVariant ;
+:TV_Line_1059_GR a :TranslationVariant ;
     :text "Είσαι σοφός μάντης, αλλά φίλος της αδικίας."^^xsd:string ;
     :relatedTo :Line_1059 .
 
-:TV_Line_1060_gr a :TranslationVariant ;
+:TV_Line_1060_GR a :TranslationVariant ;
     :text "Θα με αναγκάσεις να πω όσα είναι στερεά μες στον νου μου."^^xsd:string ;
     :relatedTo :Line_1060 .
 
-:TV_Line_1061_gr a :TranslationVariant ;
+:TV_Line_1061_GR a :TranslationVariant ;
     :text "Πες τα λοιπόν, μόνο μη μιλάς για κέρδος."^^xsd:string ;
     :relatedTo :Line_1061 .
 
-:TV_Line_1062_gr a :TranslationVariant ;
+:TV_Line_1062_GR a :TranslationVariant ;
     :text "Έτσι κι αλλιώς, έτσι σου φαίνομαι, τουλάχιστον από τη δική σου μεριά."^^xsd:string ;
     :relatedTo :Line_1062 .
 
-:TV_Line_1063_gr a :TranslationVariant ;
+:TV_Line_1063_GR a :TranslationVariant ;
     :text "Μάθε το αυτό: δεν θα παζαρέψεις τη γνώμη μου."^^xsd:string ;
     :relatedTo :Line_1063 .
 

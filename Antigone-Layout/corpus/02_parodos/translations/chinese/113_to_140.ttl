@@ -4,107 +4,107 @@
 
 :parodos-translations-113-140-chinese a owl:Ontology .
 
-:TV_Line_115_zh a :TranslationVariant ;
+:TV_Line_115_ZH a :TranslationVariant ;
     :text "携带着众多兵器"^^xsd:string ;
     :relatedTo :Line_115 .
 
-:TV_Line_116_zh a :TranslationVariant ;
+:TV_Line_116_ZH a :TranslationVariant ;
     :text "和马鬃头盔。"^^xsd:string ;
     :relatedTo :Line_116 .
 
-:TV_Line_117_zh a :TranslationVariant ;
+:TV_Line_117_ZH a :TranslationVariant ;
     :text "他立在我们屋顶之上，嗜血的"^^xsd:string ;
     :relatedTo :Line_117 .
 
-:TV_Line_118_zh a :TranslationVariant ;
+:TV_Line_118_ZH a :TranslationVariant ;
     :text "巨口四面张开，"^^xsd:string ;
     :relatedTo :Line_118 .
 
-:TV_Line_119_zh a :TranslationVariant ;
+:TV_Line_119_ZH a :TranslationVariant ;
     :text "在七门关口举矛逼临，"^^xsd:string ;
     :relatedTo :Line_119 .
 
-:TV_Line_120_zh a :TranslationVariant ;
+:TV_Line_120_ZH a :TranslationVariant ;
     :text "却在尚未"^^xsd:string ;
     :relatedTo :Line_120 .
 
-:TV_Line_121_zh a :TranslationVariant ;
+:TV_Line_121_ZH a :TranslationVariant ;
     :text "用我们的鲜血填满那巨口之前便退去，"^^xsd:string ;
     :relatedTo :Line_121 .
 
-:TV_Line_122_zh a :TranslationVariant ;
+:TV_Line_122_ZH a :TranslationVariant ;
     :text "也未曾夺取我们的城塔冠顶，"^^xsd:string ;
     :relatedTo :Line_122 .
 
-:TV_Line_123_zh a :TranslationVariant ;
+:TV_Line_123_ZH a :TranslationVariant ;
     :text "未让松薪所养的赫淮斯托斯之火吞噬其上。"^^xsd:string ;
     :relatedTo :Line_123 .
 
-:TV_Line_124_zh a :TranslationVariant ;
+:TV_Line_124_ZH a :TranslationVariant ;
     :text "围在他背后的，是那样的冲突轰鸣，"^^xsd:string ;
     :relatedTo :Line_124 .
 
-:TV_Line_125_zh a :TranslationVariant ;
+:TV_Line_125_ZH a :TranslationVariant ;
     :text "是阿瑞斯的撞击之声，"^^xsd:string ;
     :relatedTo :Line_125 .
 
-:TV_Line_126_zh a :TranslationVariant ;
+:TV_Line_126_ZH a :TranslationVariant ;
     :text "使对面的巨龙也难以承受。"^^xsd:string ;
     :relatedTo :Line_126 .
 
-:TV_Line_127_zh a :TranslationVariant ;
+:TV_Line_127_ZH a :TranslationVariant ;
     :text "因为宙斯极其憎恶狂言大舌，"^^xsd:string ;
     :relatedTo :Line_127 .
 
-:TV_Line_128_zh a :TranslationVariant ;
+:TV_Line_128_ZH a :TranslationVariant ;
     :text "当他看见他们"^^xsd:string ;
     :relatedTo :Line_128 .
 
-:TV_Line_129_zh a :TranslationVariant ;
+:TV_Line_129_ZH a :TranslationVariant ;
     :text "如洪流般奔突而来，"^^xsd:string ;
     :relatedTo :Line_129 .
 
-:TV_Line_130_zh a :TranslationVariant ;
+:TV_Line_130_ZH a :TranslationVariant ;
     :text "在金甲喧嚣中傲慢张扬，"^^xsd:string ;
     :relatedTo :Line_130 .
 
-:TV_Line_131_zh a :TranslationVariant ;
+:TV_Line_131_ZH a :TranslationVariant ;
     :text "他便掷下炽烈的雷霆，"^^xsd:string ;
     :relatedTo :Line_131 .
 
-:TV_Line_132_zh a :TranslationVariant ;
+:TV_Line_132_ZH a :TranslationVariant ;
     :text "击向那人——正要"^^xsd:string ;
     :relatedTo :Line_132 .
 
-:TV_Line_133_zh a :TranslationVariant ;
+:TV_Line_133_ZH a :TranslationVariant ;
     :text "冲口高喊胜利之时——"^^xsd:string ;
     :relatedTo :Line_133 .
 
-:TV_Line_134_zh a :TranslationVariant ;
+:TV_Line_134_ZH a :TranslationVariant ;
     :text "他轰然倒在抗拒他的土地上，"^^xsd:string ;
     :relatedTo :Line_134 .
 
-:TV_Line_135_zh a :TranslationVariant ;
+:TV_Line_135_ZH a :TranslationVariant ;
     :text "那携火之人随后"^^xsd:string ;
     :relatedTo :Line_135 .
 
-:TV_Line_136_zh a :TranslationVariant ;
+:TV_Line_136_ZH a :TranslationVariant ;
     :text "在狂怒癫狂中喘息，"^^xsd:string ;
     :relatedTo :Line_136 .
 
-:TV_Line_137_zh a :TranslationVariant ;
+:TV_Line_137_ZH a :TranslationVariant ;
     :text "如可憎狂风之冲击。"^^xsd:string ;
     :relatedTo :Line_137 .
 
-:TV_Line_138_zh a :TranslationVariant ;
+:TV_Line_138_ZH a :TranslationVariant ;
     :text "然而结局转向了别处，"^^xsd:string ;
     :relatedTo :Line_138 .
 
-:TV_Line_139_zh a :TranslationVariant ;
+:TV_Line_139_ZH a :TranslationVariant ;
     :text "他反而转去冲击他人，"^^xsd:string ;
     :relatedTo :Line_139 .
 
-:TV_Line_140_zh a :TranslationVariant ;
+:TV_Line_140_ZH a :TranslationVariant ;
     :text "伟大的阿瑞斯在右翼猛击。"^^xsd:string ;
     :relatedTo :Line_140 .
 

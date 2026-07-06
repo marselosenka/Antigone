@@ -6,42 +6,42 @@
 :prologue-translations-90-99-english a owl:Ontology .
 # English translation variants extracted from 90_to_99.ttl
 
-:TV_Line_090_en a :TranslationVariant ;
+:TV_Line_090_EN a :TranslationVariant ;
     :text "You may perhaps succeed—but you are in love with the impossible."^^xsd:string ;
     :relatedTo :Line_090 .
 
-:TV_Line_091_en a :TranslationVariant ;
+:TV_Line_091_EN a :TranslationVariant ;
 :text "Then when I no longer have the strength, I will stop."^^xsd:string ;
 :relatedTo :Line_091 .
 
-:TV_Line_092_en a :TranslationVariant ;
+:TV_Line_092_EN a :TranslationVariant ;
 :text "But one should not begin by hunting the impossible."^^xsd:string ;
 :relatedTo :Line_092 .
 
-:TV_Line_093_en a :TranslationVariant ;
+:TV_Line_093_EN a :TranslationVariant ;
 :text "If you say that, you will earn my hatred"^^xsd:string ;
 :relatedTo :Line_093 .
 
-:TV_Line_094_en a :TranslationVariant ;
+:TV_Line_094_EN a :TranslationVariant ;
 :text "And you will rightly stand hateful to the dead man."^^xsd:string ;
 :relatedTo :Line_094 .
 
-:TV_Line_095_en a :TranslationVariant ;
+:TV_Line_095_EN a :TranslationVariant ;
 :text "But leave me, and my own misguided judgment,"^^xsd:string ;
 :relatedTo :Line_095 .
 
-:TV_Line_096_en a :TranslationVariant ;
+:TV_Line_096_EN a :TranslationVariant ;
 :text "To suffer this terrible thing; for I shall suffer nothing"^^xsd:string ;
 :relatedTo :Line_096 .
 
-:TV_Line_097_en a :TranslationVariant ;
+:TV_Line_097_EN a :TranslationVariant ;
 :text "So terrible as not to die nobly."^^xsd:string ;
 :relatedTo :Line_097 .
 
-:TV_Line_098_en a :TranslationVariant ;
+:TV_Line_098_EN a :TranslationVariant ;
 :text "Well then, if it seems best to you, go—but know this:"^^xsd:string ;
 :relatedTo :Line_098 .
 
-:TV_Line_099_en a :TranslationVariant ;
+:TV_Line_099_EN a :TranslationVariant ;
 :text "You go foolishly, yet to your loved ones you are rightly dear."^^xsd:string ;
 :relatedTo :Line_099 .

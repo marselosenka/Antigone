@@ -4,69 +4,69 @@
 
 :episode_04-translations-823-871-chinese a owl:Ontology .
 
-:TV_Line_823_zh a :TranslationVariant ; :relatedTo :Line_823 ;
+:TV_Line_823_ZH a :TranslationVariant ; :relatedTo :Line_823 ;
   :text "我听说那位异乡的弗里吉亚女子以极其悲惨的方式灭亡，"^^xsd:string .
-:TV_Line_825_zh a :TranslationVariant ; :relatedTo :Line_825 ;
+:TV_Line_825_ZH a :TranslationVariant ; :relatedTo :Line_825 ;
   :text "坦塔罗斯之女，在西皮洛斯山巅附近，"^^xsd:string .
-:TV_Line_826_zh a :TranslationVariant ; :relatedTo :Line_826 ;
+:TV_Line_826_ZH a :TranslationVariant ; :relatedTo :Line_826 ;
   :text "被石之新芽如常春藤般压伏。"^^xsd:string .
-:TV_Line_827_zh a :TranslationVariant ; :relatedTo :Line_827 ;
+:TV_Line_827_ZH a :TranslationVariant ; :relatedTo :Line_827 ;
   :text "人们说，她在那里不断消融，"^^xsd:string .
-:TV_Line_830_zh a :TranslationVariant ; :relatedTo :Line_830 ;
+:TV_Line_830_ZH a :TranslationVariant ; :relatedTo :Line_830 ;
   :text "雨与雪都不离开她；她以永恒的泪水"^^xsd:string .
-:TV_Line_831_zh a :TranslationVariant ; :relatedTo :Line_831 ;
+:TV_Line_831_ZH a :TranslationVariant ; :relatedTo :Line_831 ;
   :text "浸湿山坡。如今同样的命运之眠，也把我放倒。"^^xsd:string .
-:TV_Line_834_zh a :TranslationVariant ; :relatedTo :Line_834 ;
+:TV_Line_834_ZH a :TranslationVariant ; :relatedTo :Line_834 ;
   :text "但她是女神，又生自神明，"^^xsd:string .
-:TV_Line_835_zh a :TranslationVariant ; :relatedTo :Line_835 ;
+:TV_Line_835_ZH a :TranslationVariant ; :relatedTo :Line_835 ;
   :text "而我们是凡人，生于凡人。"^^xsd:string .
-:TV_Line_836_zh a :TranslationVariant ; :relatedTo :Line_836 ;
+:TV_Line_836_ZH a :TranslationVariant ; :relatedTo :Line_836 ;
   :text "可对将死之人来说，仅仅听见"^^xsd:string .
-:TV_Line_837_zh a :TranslationVariant ; :relatedTo :Line_837 ;
+:TV_Line_837_ZH a :TranslationVariant ; :relatedTo :Line_837 ;
   :text "自己活着与死后都得了与神相似的命运，"^^xsd:string .
-:TV_Line_838_zh a :TranslationVariant ; :relatedTo :Line_838 ;
+:TV_Line_838_ZH a :TranslationVariant ; :relatedTo :Line_838 ;
   :text "这本身已是重大的事。"^^xsd:string .
-:TV_Line_839_zh a :TranslationVariant ; :relatedTo :Line_839 ;
+:TV_Line_839_ZH a :TranslationVariant ; :relatedTo :Line_839 ;
   :text "哎呀，你们在嘲弄我！凭祖先之神起誓，"^^xsd:string .
-:TV_Line_840_zh a :TranslationVariant ; :relatedTo :Line_840 ;
+:TV_Line_840_ZH a :TranslationVariant ; :relatedTo :Line_840 ;
   :text "你们当面侮辱我，连我离去都不肯等吗？"^^xsd:string .
-:TV_Line_841_zh a :TranslationVariant ; :relatedTo :Line_841 ;
+:TV_Line_841_ZH a :TranslationVariant ; :relatedTo :Line_841 ;
   :text "啊，城邦啊，啊，这城富盛的男子们；"^^xsd:string .
-:TV_Line_842_zh a :TranslationVariant ; :relatedTo :Line_842 ;
+:TV_Line_842_ZH a :TranslationVariant ; :relatedTo :Line_842 ;
   :text "啊，狄耳刻的泉源，"^^xsd:string .
-:TV_Line_845_zh a :TranslationVariant ; :relatedTo :Line_845 ;
+:TV_Line_845_ZH a :TranslationVariant ; :relatedTo :Line_845 ;
   :text "啊，战车之城底比斯的林苑，至少你们请为我作证："^^xsd:string .
-:TV_Line_846_zh a :TranslationVariant ; :relatedTo :Line_846 ;
+:TV_Line_846_ZH a :TranslationVariant ; :relatedTo :Line_846 ;
   :text "我被亲人不哭不送，又凭怎样的法令，"^^xsd:string .
-:TV_Line_847_zh a :TranslationVariant ; :relatedTo :Line_847 ;
+:TV_Line_847_ZH a :TranslationVariant ; :relatedTo :Line_847 ;
   :text "走向那石封之墓的堤障，走向前所未有的坟墓。"^^xsd:string .
-:TV_Line_850_zh a :TranslationVariant ; :relatedTo :Line_850 ;
+:TV_Line_850_ZH a :TranslationVariant ; :relatedTo :Line_850 ;
   :text "我既不以死者之身居于死者之中，"^^xsd:string .
-:TV_Line_851_zh a :TranslationVariant ; :relatedTo :Line_851 ;
+:TV_Line_851_ZH a :TranslationVariant ; :relatedTo :Line_851 ;
   :text "也不在生者之间，不在死者之间。"^^xsd:string .
-:TV_Line_853_zh a :TranslationVariant ; :relatedTo :Line_853 ;
+:TV_Line_853_ZH a :TranslationVariant ; :relatedTo :Line_853 ;
   :text "你走到了大胆的极限，"^^xsd:string .
-:TV_Line_854_zh a :TranslationVariant ; :relatedTo :Line_854 ;
+:TV_Line_854_ZH a :TranslationVariant ; :relatedTo :Line_854 ;
   :text "走到正义高高的基座上，"^^xsd:string .
-:TV_Line_855_zh a :TranslationVariant ; :relatedTo :Line_855 ;
+:TV_Line_855_ZH a :TranslationVariant ; :relatedTo :Line_855 ;
   :text "又沉重地跌落，孩子；"^^xsd:string .
-:TV_Line_856_zh a :TranslationVariant ; :relatedTo :Line_856 ;
+:TV_Line_856_ZH a :TranslationVariant ; :relatedTo :Line_856 ;
   :text "你是在偿还某种父辈的债。"^^xsd:string .
-:TV_Line_858_zh a :TranslationVariant ; :relatedTo :Line_858 ;
+:TV_Line_858_ZH a :TranslationVariant ; :relatedTo :Line_858 ;
   :text "你触到了我最苦的忧思，"^^xsd:string .
-:TV_Line_859_zh a :TranslationVariant ; :relatedTo :Line_859 ;
+:TV_Line_859_ZH a :TranslationVariant ; :relatedTo :Line_859 ;
   :text "触到了我父亲那三重可悲的哀怜，"^^xsd:string .
-:TV_Line_860_zh a :TranslationVariant ; :relatedTo :Line_860 ;
+:TV_Line_860_ZH a :TranslationVariant ; :relatedTo :Line_860 ;
   :text "以及我们拉布达科斯家全部的命运。"^^xsd:string .
-:TV_Line_861_zh a :TranslationVariant ; :relatedTo :Line_861 ;
+:TV_Line_861_ZH a :TranslationVariant ; :relatedTo :Line_861 ;
   :text "唉，那些母系婚姻"^^xsd:string .
-:TV_Line_865_zh a :TranslationVariant ; :relatedTo :Line_865 ;
+:TV_Line_865_ZH a :TranslationVariant ; :relatedTo :Line_865 ;
   :text "带来的灾祸，还有我父亲与其苦命母亲的乱伦结合，"^^xsd:string .
-:TV_Line_866_zh a :TranslationVariant ; :relatedTo :Line_866 ;
+:TV_Line_866_ZH a :TranslationVariant ; :relatedTo :Line_866 ;
   :text "我这不幸之人，正是从那样的结合中生出；"^^xsd:string .
-:TV_Line_867_zh a :TranslationVariant ; :relatedTo :Line_867 ;
+:TV_Line_867_ZH a :TranslationVariant ; :relatedTo :Line_867 ;
   :text "如今我被诅咒、未婚，要去与他们同住。"^^xsd:string .
-:TV_Line_870_zh a :TranslationVariant ; :relatedTo :Line_870 ;
+:TV_Line_870_ZH a :TranslationVariant ; :relatedTo :Line_870 ;
   :text "兄弟啊，你得了不幸的婚配，"^^xsd:string .
-:TV_Line_871_zh a :TranslationVariant ; :relatedTo :Line_871 ;
+:TV_Line_871_ZH a :TranslationVariant ; :relatedTo :Line_871 ;
   :text "你死了，却又在我活着时把我也杀了。"^^xsd:string .

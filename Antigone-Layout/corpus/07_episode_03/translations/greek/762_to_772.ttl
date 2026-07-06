@@ -4,18 +4,18 @@
 
 :episode_03-translations-762-772-greek a owl:Ontology .
 
-:TV_Line_762_gr a :TranslationVariant ;
+:TV_Line_762_GR a :TranslationVariant ;
     :text "όχι βέβαια μπροστά μου, μην το νομίσεις ποτέ αυτό,"^^xsd:string ;
     :relatedTo :Line_762 .
 
-:TV_Line_763_gr a :TranslationVariant ;
+:TV_Line_763_GR a :TranslationVariant ;
     :text "ας τολμά να σκέφτεται πιο ψηλά απ’ όσο ταιριάζει σε άντρα."^^xsd:string ;
     :relatedTo :Line_763 .
 
-:TV_Line_769_gr a :TranslationVariant ;
+:TV_Line_769_GR a :TranslationVariant ;
     :text "τι, σκέφτεσαι να σκοτώσεις και τις δύο;"^^xsd:string ;
     :relatedTo :Line_769 .
 
-:TV_Line_771_gr a :TranslationVariant ;
+:TV_Line_771_GR a :TranslationVariant ;
     :text "και με ποιον θάνατο σκοπεύεις να τις θανατώσεις;"^^xsd:string ;
     :relatedTo :Line_771 .

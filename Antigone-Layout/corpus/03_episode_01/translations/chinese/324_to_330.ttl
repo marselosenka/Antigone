@@ -4,31 +4,31 @@
 
 :episode_01-translations-324-330-chinese a owl:Ontology .
 
-:TV_Line_324_zh a :TranslationVariant ;
+:TV_Line_324_ZH a :TranslationVariant ;
     :text "克瑞翁：那你就哀叹吧；若你们追不出"^^xsd:string ;
     :relatedTo :Line_324 .
 
-:TV_Line_325_zh a :TranslationVariant ;
+:TV_Line_325_ZH a :TranslationVariant ;
     :text "作案之人，你们就会明白"^^xsd:string ;
     :relatedTo :Line_325 .
 
-:TV_Line_326_zh a :TranslationVariant ;
+:TV_Line_326_ZH a :TranslationVariant ;
     :text "不义之财只会带来灾祸。"^^xsd:string ;
     :relatedTo :Line_326 .
 
-:TV_Line_327_zh a :TranslationVariant ;
+:TV_Line_327_ZH a :TranslationVariant ;
     :text "守卫：诸神啊，愿那歹徒被捉住！可无论捉到与否，"^^xsd:string ;
     :relatedTo :Line_327 .
 
-:TV_Line_328_zh a :TranslationVariant ;
+:TV_Line_328_ZH a :TranslationVariant ;
     :text "都全在命运；"^^xsd:string ;
     :relatedTo :Line_328 .
 
-:TV_Line_329_zh a :TranslationVariant ;
+:TV_Line_329_ZH a :TranslationVariant ;
     :text "反正我肯定不会再来这儿了！诸神啊，"^^xsd:string ;
     :relatedTo :Line_329 .
 
-:TV_Line_330_zh a :TranslationVariant ;
+:TV_Line_330_ZH a :TranslationVariant ;
     :text "此刻我竟得以脱身，真是出乎盼望、违乎所料。"^^xsd:string ;
     :relatedTo :Line_330 .
 

@@ -1,0 +1,333 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# ==========================================================
+# CHARACTER APPEARANCE BY SCENE
+# ==========================================================
+# The following triples link each globally defined character to the
+# scenes in which they appear or are meaningfully
+# present. Characters are defined once in this global file.
+#
+# Note: this records character presence/association only. Scene-specific
+# themes, motivations, emotions, and decisions remain attached to
+# the relevant speeches or scene-level structures.
+# ==========================================================
+
+:Antigone_Character_Antigone
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Antigone"^^xsd:string ;
+    :description "The protagonist and daughter of Oedipus. She bravely defies her uncle's decree to bury her brother, an act of familial and divine duty that drives the tragedy."^^xsd:string ;
+    :isChildOf :Antigone_Character_Oedipus ;
+    :isSiblingOf :Antigone_Character_Ismene,
+                 :Antigone_Character_Eteocles,
+                 :Antigone_Character_Polyneices ;
+    :isBetrothedTo :Antigone_Character_Haemon ;
+    :relatedTo :Antigone_Character_Creon ;
+    :characterAppearsIn 
+        :Antigone_Prologue,
+        :Antigone_Parodos,
+        :Antigone_Stasimon_01,
+        :Antigone_Episode_02,
+        :Antigone_Stasimon_02,
+        :Antigone_Episode_03,
+        :Antigone_Stasimon_03,
+        :Antigone_Episode04 .
+
+:Antigone_Character_Ares
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Ares"^^xsd:string ;
+    :description "God of war, invoked as a mythic figure connected with violence and battle."^^xsd:string ;
+    :characterAppearsIn :Antigone_Stasimon_04 .
+
+:Antigone_Character_Boreas
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Boreas"^^xsd:string ;
+    :description "The North Wind; father of Cleopatra in the mythological background referenced by the Chorus."^^xsd:string ;
+    :relatedTo :Antigone_Character_Cleopatra ;
+    :characterAppearsIn :Antigone_Stasimon_04 .
+
+:Antigone_Character_Boy
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Boy / Guide"^^xsd:string ;
+    :description "The boy who guides Teiresias; The eyes for the blind prophet."^^xsd:string ;
+    :relatedTo :Antigone_Character_Teiresias ;
+    :characterAppearsIn :Antigone_Episode_05 .
+
+:Antigone_Character_Brother
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Brother"^^xsd:string ;
+    :description "The brother to be buried; usually Polyneices, especially where the text refers generally to Antigone's brother."^^xsd:string ;
+    :relatedTo :Antigone_Character_Antigone,
+        :Antigone_Character_Ismene,
+        :Antigone_Character_Polyneices ;
+    :characterAppearsIn :Antigone_Prologue .
+
+:Antigone_Character_Chorus
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Chorus of Theban Elders"^^xsd:string ;
+    :description "A group of Theban elders who provide commentary, context, and background on the events unfolding in the story, serving as the moral voice of the community."^^xsd:string ;
+    :characterAppearsIn 
+        :Antigone_Parodos,
+        :Antigone_Episode_01,
+        :Antigone_Stasimon_01,
+        :Antigone_Episode_02,
+        :Antigone_Stasimon_02,
+        :Antigone_Episode_03,
+        :Antigone_Stasimon_03,
+        :Antigone_Episode04,
+        :Antigone_Stasimon_04,
+        :Antigone_Episode_05,
+        :Antigone_Hyporchema,
+        :Antigone_Scene_Exodus .
+
+:Antigone_Character_City
+    a :Character,
+        owl:NamedIndividual ;
+    :role "City / Thebes"^^xsd:string ;
+    :description "The civic body or city community invoked in political and public arguments."^^xsd:string ;
+    :characterAppearsIn :Antigone_Episode_03 .
+
+:Antigone_Character_Cleopatra
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Cleopatra"^^xsd:string ;
+    :description "Daughter of Boreas and mother of the Phineids, referenced as a mythological figure bound by fate."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Boreas,
+        :Antigone_Character_Phineids ;
+    :characterAppearsIn :Antigone_Stasimon_04 .
+
+:Antigone_Character_Creon
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Creon"^^xsd:string ;
+    :status "King of Thebes"^^xsd:string ;
+    :description "The King of Thebes and Antigone's uncle. He rules with strict political authority and decrees that the traitor Polyneices will not receive a proper burial."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Antigone,
+        :Antigone_Character_Ismene,
+        :Antigone_Character_Haemon,
+        :Antigone_Character_Eurydice,
+        :Antigone_Character_Megareus,
+        :Antigone_Character_Polyneices ;
+    :characterAppearsIn 
+        :Antigone_Prologue,
+        :Antigone_Parodos,
+        :Antigone_Episode_01,
+        :Antigone_Stasimon_01,
+        :Antigone_Episode_02,
+        :Antigone_Stasimon_02,
+        :Antigone_Episode_03,
+        :Antigone_Stasimon_03,
+        :Antigone_Episode04,
+        :Antigone_Episode_05,
+        :Antigone_Scene_Exodus .
+
+:Antigone_Character_Dionysus
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Dionysus"^^xsd:string ;
+    :description "God invoked in the hyporchema as a divine figure connected with Thebes and ritual celebration."^^xsd:string ;
+    :characterAppearsIn :Antigone_Hyporchema .
+
+:Antigone_Character_Eteocles
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Eteocles"^^xsd:string ;
+    :description "Brother of Antigone, Ismene, and Polyneices; killed in mutual conflict with Polyneices."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Antigone,
+        :Antigone_Character_Ismene,
+        :Antigone_Character_Oedipus,
+        :Antigone_Character_Polyneices ;
+    :characterAppearsIn 
+        :Antigone_Prologue,
+        :Antigone_Parodos,
+        :Antigone_Episode_01 .
+
+:Antigone_Character_Eurydice
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Eurydice"^^xsd:string ;
+    :description "Wife of Creon and mother of Haemon and Megareus."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Creon,
+        :Antigone_Character_Haemon,
+        :Antigone_Character_Megareus ;
+    :characterAppearsIn :Antigone_Scene_Exodus .
+
+:Antigone_Character_Fates
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Fates / Moirai"^^xsd:string ;
+    :description "Divine powers of destiny, referenced as forces that bind even noble or divine-born figures."^^xsd:string ;
+    :characterAppearsIn :Antigone_Stasimon_04 .
+
+:Antigone_Character_Furies
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Furies / Erinyes"^^xsd:string ;
+    :description "Avenging divine powers connected with curse, pollution, and retribution."^^xsd:string ;
+    :characterAppearsIn :Antigone_Episode_05 .
+
+:Antigone_Character_Guard
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Guard"^^xsd:string ;
+    :description "The guard who reports the burial of Polyneices and later brings Antigone before Creon."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Creon,
+        :Antigone_Character_Antigone,
+        :Antigone_Character_Polyneices ;
+    :characterAppearsIn 
+        :Antigone_Episode_01,
+        :Antigone_Stasimon_01,
+        :Antigone_Episode_02 .
+
+
+:Antigone_Character_Haemon
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Haemon"^^xsd:string ;
+    :description "Son of Creon and Eurydice; betrothed to Antigone."^^xsd:string ;
+    :isChildOf :Antigone_Character_Creon,
+        :Antigone_Character_Eurydice ;
+    :relatedTo 
+        :Antigone_Character_Creon,
+        :Antigone_Character_Eurydice,
+        :Antigone_Character_Antigone,
+        :Antigone_Character_Megareus ;
+    :characterAppearsIn 
+        :Antigone_Stasimon_02,
+        :Antigone_Episode_03,
+        :Antigone_Episode_05,
+        :Antigone_Scene_Exodus .
+
+
+:Antigone_Character_Hephaestus
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Hephaestus"^^xsd:string ;
+    :description "God associated with fire, invoked through imagery of burning or divine fire."^^xsd:string ;
+    :characterAppearsIn :Antigone_Episode_05 .
+
+:Antigone_Character_Ismene
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Ismene"^^xsd:string ;
+    :description "Sister of Antigone, Eteocles, and Polyneices; daughter of Oedipus."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Antigone,
+        :Antigone_Character_Oedipus,
+        :Antigone_Character_Eteocles,
+        :Antigone_Character_Polyneices,
+        :Antigone_Character_Creon ;
+    :characterAppearsIn 
+        :Antigone_Prologue,
+        :Antigone_Parodos,
+        :Antigone_Episode_02 .
+
+:Antigone_Character_Mankind
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Mankind / Human beings"^^xsd:string ;
+    :description "Humanity as a collective figure in the choral reflection on human power, skill, and limitation."^^xsd:string ;
+    :characterAppearsIn :Antigone_Stasimon_02 .
+
+:Antigone_Character_Megareus
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Megareus"^^xsd:string ;
+    :description "Elder son of Creon and Eurydice, whose prior death is lamented by Eurydice."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Haemon ;
+    :isChildOf :Antigone_Character_Creon,
+            :Antigone_Character_Eurydice ;
+    :characterAppearsIn :Antigone_Scene_Exodus .
+
+:Antigone_Character_Messenger
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Messenger"^^xsd:string ;
+    :description "Messenger who reports the deaths and final events of the Exodus."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Creon,
+        :Antigone_Character_Eurydice,
+        :Antigone_Character_Haemon,
+        :Antigone_Character_Antigone ;
+    :characterAppearsIn :Antigone_Scene_Exodus .
+
+:Antigone_Character_Oedipus
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Oedipus"^^xsd:string ;
+    :description "Father of Antigone, Ismene, Eteocles, and Polyneices; source of the inherited family suffering."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Antigone,
+        :Antigone_Character_Ismene,
+        :Antigone_Character_Eteocles,
+        :Antigone_Character_Polyneices ;
+    :characterAppearsIn 
+        :Antigone_Prologue,
+        :Antigone_Stasimon_01 .
+
+:Antigone_Character_Phineids
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Phineids"^^xsd:string ;
+    :description "The blinded sons of Phineus, referenced in the mythological background of Stasimon 4."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Cleopatra,
+        :Antigone_Character_PhineusWife ;
+    :characterAppearsIn :Antigone_Stasimon_04 .
+
+# She appears only in a line
+:Antigone_Character_PhineusWife
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Wife of Phineus"^^xsd:string ;
+    :description "The stepmother figure associated with the blinding of the Phineids in the mythological background."^^xsd:string ;
+    :relatedTo :Antigone_Character_Phineids ;
+    :characterAppearsIn :Antigone_Stasimon_04 .
+
+:Antigone_Character_Polyneices
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Polyneices"^^xsd:string ;
+    :description "Brother of Antigone, Ismene, and Eteocles; denied burial by Creon's edict."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Antigone,
+        :Antigone_Character_Ismene,
+        :Antigone_Character_Oedipus,
+        :Antigone_Character_Eteocles,
+        :Antigone_Character_Creon,
+        :Law_CreonBurialEdict ;
+    :characterAppearsIn 
+        :Antigone_Prologue,
+        :Antigone_Parodos,
+        :Antigone_Episode_01,
+        :Antigone_Episode_05 .
+
+:Antigone_Character_Teiresias
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Teiresias"^^xsd:string ;
+    :description "Blind prophet who warns Creon about divine anger and civic pollution."^^xsd:string ;
+    :relatedTo 
+        :Antigone_Character_Creon,
+        :Antigone_Character_Boy ;
+    :characterAppearsIn :Antigone_Episode_05 .
+
+:Antigone_Character_Zeus
+    a :Character,
+        owl:NamedIndividual ;
+    :role "Zeus"^^xsd:string ;
+    :description "Supreme god invoked as a divine power connected with fate, justice, punishment, and cosmic order."^^xsd:string ;
+    :characterAppearsIn :Antigone_Stasimon_02 .

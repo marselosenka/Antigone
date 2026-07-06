@@ -4,75 +4,75 @@
 
 :episode_01-translations-193-210-chinese a owl:Ontology .
 
-:TV_Line_193_zh a :TranslationVariant ;
+:TV_Line_193_ZH a :TranslationVariant ;
     :text "向全体市民，关于俄狄浦斯之子，"^^xsd:string ;
     :relatedTo :Line_193 .
 
-:TV_Line_194_zh a :TranslationVariant ;
+:TV_Line_194_ZH a :TranslationVariant ;
     :text "厄忒俄克勒斯，死于保卫"^^xsd:string ;
     :relatedTo :Line_194 .
 
-:TV_Line_195_zh a :TranslationVariant ;
+:TV_Line_195_ZH a :TranslationVariant ;
     :text "这座城——他是我们最卓越的战士——"^^xsd:string ;
     :relatedTo :Line_195 .
 
-:TV_Line_196_zh a :TranslationVariant ;
+:TV_Line_196_ZH a :TranslationVariant ;
     :text "当以一切应有礼仪安葬并受尊荣，"^^xsd:string ;
     :relatedTo :Line_196 .
 
-:TV_Line_197_zh a :TranslationVariant ;
+:TV_Line_197_ZH a :TranslationVariant ;
     :text "这是我邦最优秀者战死时应得之礼；"^^xsd:string ;
     :relatedTo :Line_197 .
 
-:TV_Line_198_zh a :TranslationVariant ;
+:TV_Line_198_ZH a :TranslationVariant ;
     :text "至于他的兄弟（波吕涅刻斯）："^^xsd:string ;
     :relatedTo :Line_198 .
 
-:TV_Line_199_zh a :TranslationVariant ;
+:TV_Line_199_ZH a :TranslationVariant ;
     :text "他曾被逐出此城，却又回来焚毁"^^xsd:string ;
     :relatedTo :Line_199 .
 
-:TV_Line_200_zh a :TranslationVariant ;
+:TV_Line_200_ZH a :TranslationVariant ;
     :text "父土与宗庙神明，欲将其夷平；"^^xsd:string ;
     :relatedTo :Line_200 .
 
-:TV_Line_201_zh a :TranslationVariant ;
+:TV_Line_201_ZH a :TranslationVariant ;
     :text "他想饮尽同族之血，"^^xsd:string ;
     :relatedTo :Line_201 .
 
-:TV_Line_202_zh a :TranslationVariant ;
+:TV_Line_202_ZH a :TranslationVariant ;
     :text "并把余下的人都变为奴隶。"^^xsd:string ;
     :relatedTo :Line_202 .
 
-:TV_Line_203_zh a :TranslationVariant ;
+:TV_Line_203_ZH a :TranslationVariant ;
     :text "全城已颁令："^^xsd:string ;
     :relatedTo :Line_203 .
 
-:TV_Line_204_zh a :TranslationVariant ;
+:TV_Line_204_ZH a :TranslationVariant ;
     :text "任何人都不可为此人举哀，亦不可"^^xsd:string ;
     :relatedTo :Line_204 .
 
-:TV_Line_205_zh a :TranslationVariant ;
+:TV_Line_205_ZH a :TranslationVariant ;
     :text "给他正当安葬。应任其曝尸不葬，"^^xsd:string ;
     :relatedTo :Line_205 .
 
-:TV_Line_206_zh a :TranslationVariant ;
+:TV_Line_206_ZH a :TranslationVariant ;
     :text "使其尸身被秃鹫与野犬撕裂。"^^xsd:string ;
     :relatedTo :Line_206 .
 
-:TV_Line_207_zh a :TranslationVariant ;
+:TV_Line_207_ZH a :TranslationVariant ;
     :text "这就是我的决意：我绝不容许"^^xsd:string ;
     :relatedTo :Line_207 .
 
-:TV_Line_208_zh a :TranslationVariant ;
+:TV_Line_208_ZH a :TranslationVariant ;
     :text "犯法者先于守法者受荣。"^^xsd:string ;
     :relatedTo :Line_208 .
 
-:TV_Line_209_zh a :TranslationVariant ;
+:TV_Line_209_ZH a :TranslationVariant ;
     :text "但凡真心为此城者，"^^xsd:string ;
     :relatedTo :Line_209 .
 
-:TV_Line_210_zh a :TranslationVariant ;
+:TV_Line_210_ZH a :TranslationVariant ;
     :text "我将使其死后与生前同样受敬。"^^xsd:string ;
     :relatedTo :Line_210 .
 

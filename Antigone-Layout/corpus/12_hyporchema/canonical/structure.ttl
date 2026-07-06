@@ -181,13 +181,13 @@ a owl:NamedIndividual, :Line ;
     a owl:NamedIndividual, :Line ;
     :lineNumber 1147 ;
     :canonicalReference "Stasimon5.1147"^^xsd:string ;
-    :text "φθεγμάτων ἐπίσκοπε,"^^xsd:string .
+    :text "φθεγμάτων ἐπίσκοπε,"^^xsd:string .
 
 :Line_1148
     a owl:NamedIndividual, :Line ;
     :lineNumber 1148 ;
     :canonicalReference "Stasimon5.1148"^^xsd:string ;
-    :text "παῖ Διὸς γένεθλον,"^^xsd:string .
+    :text "παῖ Διὸς γένεθλον,"^^xsd:string .
 
 # 1149 does not exist in Antigone
 
@@ -195,13 +195,13 @@ a owl:NamedIndividual, :Line ;
     a owl:NamedIndividual, :Line ;
     :lineNumber 1150 ;
     :canonicalReference "Stasimon5.1150"^^xsd:string ;
-    :text "ὦναξ, σαῖς ἅμα περιπόλοις"^^xsd:string .
+    :text "ὦναξ, σαῖς ἅμα περιπόλοις"^^xsd:string .
 
 :Line_1151
     a owl:NamedIndividual, :Line ;
     :lineNumber 1151 ;
     :canonicalReference "Stasimon5.1151"^^xsd:string ;
-    :text "Θυίαισιν, αἵ σε μαινόμεναι"^^xsd:string ;
+    :text "Θυίαισιν, αἵ σε μαινόμεναι"^^xsd:string ;
     :hasTheme :Theme_DionysianWorship ;
     :hasTheme :Theme_DionysiacWorship .
 

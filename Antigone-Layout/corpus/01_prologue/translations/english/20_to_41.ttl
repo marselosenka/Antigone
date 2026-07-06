@@ -6,90 +6,90 @@
 :prologue-translations-20-41-english a owl:Ontology .
 # English translation variants extracted from 20_to_41.ttl
 
-:TV_Line_020_en a :TranslationVariant ;
+:TV_Line_020_EN a :TranslationVariant ;
     :text "What is it? There seems to be a storm in you."^^xsd:string ;
     :relatedTo :Line_020 .
 
-:TV_Line_021_en a :TranslationVariant ;
+:TV_Line_021_EN a :TranslationVariant ;
     :text "Hasn’t Creon honored one of our"^^xsd:string ;
     :relatedTo :Line_021 .
 
-:TV_Line_022_en a :TranslationVariant ;
+:TV_Line_022_EN a :TranslationVariant ;
     :text "Brothers in burial, but not the other?"^^xsd:string ;
     :relatedTo :Line_022 .
 
-:TV_Line_023_en a :TranslationVariant ;
+:TV_Line_023_EN a :TranslationVariant ;
     :text "Eteocles, they say, has been tucked away"^^xsd:string ;
     :relatedTo :Line_023 .
 
-:TV_Line_024_en a :TranslationVariant ;
+:TV_Line_024_EN a :TranslationVariant ;
     :text "Beneath the earth, honored among the dead below"^^xsd:string ;
     :relatedTo :Line_024 .
 
-:TV_Line_025_en a :TranslationVariant ;
+:TV_Line_025_EN a :TranslationVariant ;
     :text "With formal observation of rite and custom."^^xsd:string ;
     :relatedTo :Line_025 .
 
-:TV_Line_026_en a :TranslationVariant ;
+:TV_Line_026_EN a :TranslationVariant ;
     :text "But Creon has proclaimed"^^xsd:string ;
     :relatedTo :Line_026 .
 
-:TV_Line_027_en a :TranslationVariant ;
+:TV_Line_027_EN a :TranslationVariant ;
     :text "That no one shall grieve nor lay to rest"^^xsd:string ;
     :relatedTo :Line_027 .
 
-:TV_Line_028_en a :TranslationVariant ;
+:TV_Line_028_EN a :TranslationVariant ;
     :text "That tortured corpse I still call Polyneices—"^^xsd:string ;
     :relatedTo :Line_028 .
 
-:TV_Line_029_en a :TranslationVariant ;
+:TV_Line_029_EN a :TranslationVariant ;
     :text "He shall be left unwept, unburied, a sweet treasure"^^xsd:string ;
     :relatedTo :Line_029 .
 
-:TV_Line_030_en a :TranslationVariant ;
+:TV_Line_030_EN a :TranslationVariant ;
     :text "For the vultures as they search for the grace of flesh."^^xsd:string ;
     :relatedTo :Line_030 .
 
-:TV_Line_031_en a :TranslationVariant ;
+:TV_Line_031_EN a :TranslationVariant ;
     :text "Good Creon has denied you and me—"^^xsd:string ;
     :relatedTo :Line_031 .
 
-:TV_Line_032_en a :TranslationVariant ;
+:TV_Line_032_EN a :TranslationVariant ;
     :text "Even me!—this rite."^^xsd:string ;
     :relatedTo :Line_032 .
 
-:TV_Line_033_en a :TranslationVariant ;
+:TV_Line_033_EN a :TranslationVariant ;
     :text "He’s coming here to proclaim it publicly"^^xsd:string ;
     :relatedTo :Line_033 .
 
-:TV_Line_034_en a :TranslationVariant ;
+:TV_Line_034_EN a :TranslationVariant ;
     :text "So none are ignorant, and these are not"^^xsd:string ;
     :relatedTo :Line_034 .
 
-:TV_Line_035_en a :TranslationVariant ;
+:TV_Line_035_EN a :TranslationVariant ;
     :text "just words—he means to act."^^xsd:string ;
     :relatedTo :Line_035 .
 
-:TV_Line_036_en a :TranslationVariant ;
+:TV_Line_036_EN a :TranslationVariant ;
     :text "The punishment shall be death by public stoning."^^xsd:string ;
     :relatedTo :Line_036 .
 
-:TV_Line_037_en a :TranslationVariant ;
+:TV_Line_037_EN a :TranslationVariant ;
     :text "This is the trouble you’re in, and you will soon reveal"^^xsd:string ;
     :relatedTo :Line_037 .
 
-:TV_Line_038_en a :TranslationVariant ;
+:TV_Line_038_EN a :TranslationVariant ;
     :text "Whether the virtue of our ancestors runs through your veins."^^xsd:string ;
     :relatedTo :Line_038 .
 
-:TV_Line_039_en a :TranslationVariant ;
+:TV_Line_039_EN a :TranslationVariant ;
     :text "Oh my poor sister, if this is true,"^^xsd:string ;
     :relatedTo :Line_039 .
 
-:TV_Line_040_en a :TranslationVariant ;
+:TV_Line_040_EN a :TranslationVariant ;
     :text "What’s the point in meddling?"^^xsd:string ;
     :relatedTo :Line_040 .
 
-:TV_Line_041_en a :TranslationVariant ;
+:TV_Line_041_EN a :TranslationVariant ;
     :text "Consider whether you’ll help me."^^xsd:string ;
     :relatedTo :Line_041 .

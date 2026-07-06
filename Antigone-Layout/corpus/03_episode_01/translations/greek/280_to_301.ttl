@@ -4,90 +4,90 @@
 
 :episode_01-translations-280-301-greek a owl:Ontology .
 
-:TV_Line_280_gr a :TranslationVariant ;
+:TV_Line_280_GR a :TranslationVariant ;
     :text "Σώπα, πριν με γεμίσεις οργή με τα λόγια σου,"^^xsd:string ;
     :relatedTo :Line_280 .
 
-:TV_Line_281_gr a :TranslationVariant ;
+:TV_Line_281_GR a :TranslationVariant ;
     :text "και φανείς μαζί και γέρος και ανόητος."^^xsd:string ;
     :relatedTo :Line_281 .
 
-:TV_Line_282_gr a :TranslationVariant ;
+:TV_Line_282_GR a :TranslationVariant ;
     :text "Γιατί λες ανυπόφορα πράγματα, λέγοντας πως οι θεοί"^^xsd:string ;
     :relatedTo :Line_282 .
 
-:TV_Line_283_gr a :TranslationVariant ;
+:TV_Line_283_GR a :TranslationVariant ;
     :text "έχουν πρόνοια γι’ αυτόν εδώ τον νεκρό."^^xsd:string ;
     :relatedTo :Line_283 .
 
-:TV_Line_284_gr a :TranslationVariant ;
+:TV_Line_284_GR a :TranslationVariant ;
     :text "Μήπως τον έθαβαν τιμώντας τον ως ευεργέτη,"^^xsd:string ;
     :relatedTo :Line_284 .
 
-:TV_Line_285_gr a :TranslationVariant ;
+:TV_Line_285_GR a :TranslationVariant ;
     :text "αυτόν που ήρθε"^^xsd:string ;
     :relatedTo :Line_285 .
 
-:TV_Line_286_gr a :TranslationVariant ;
+:TV_Line_286_GR a :TranslationVariant ;
     :text "να κάψει τους περίστυλους ναούς"^^xsd:string ;
     :relatedTo :Line_286 .
 
-:TV_Line_287_gr a :TranslationVariant ;
+:TV_Line_287_GR a :TranslationVariant ;
     :text "και τα αναθήματα, και τη γη τους, και να διασκορπίσει τους νόμους;"^^xsd:string ;
     :relatedTo :Line_287 .
 
-:TV_Line_288_gr a :TranslationVariant ;
+:TV_Line_288_GR a :TranslationVariant ;
     :text "Ή βλέπεις τους θεούς να τιμούν τους κακούς;"^^xsd:string ;
     :relatedTo :Line_288 .
 
-:TV_Line_289_gr a :TranslationVariant ;
+:TV_Line_289_GR a :TranslationVariant ;
     :text "Δεν γίνεται αυτό· αλλά από παλιά άντρες της πόλης"^^xsd:string ;
     :relatedTo :Line_289 .
 
-:TV_Line_290_gr a :TranslationVariant ;
+:TV_Line_290_GR a :TranslationVariant ;
     :text "που με δυσκολία υπέφεραν την κατάσταση, μουρμούριζαν για μένα"^^xsd:string ;
     :relatedTo :Line_290 .
 
-:TV_Line_291_gr a :TranslationVariant ;
+:TV_Line_291_GR a :TranslationVariant ;
     :text "κρυφά, κουνώντας το κεφάλι, και δεν έβαζαν κάτω από ζυγό"^^xsd:string ;
     :relatedTo :Line_291 .
 
-:TV_Line_292_gr a :TranslationVariant ;
+:TV_Line_292_GR a :TranslationVariant ;
     :text "τον λαιμό τους δίκαια, για να υποταχθούν σε μένα."^^xsd:string ;
     :relatedTo :Line_292 .
 
-:TV_Line_293_gr a :TranslationVariant ;
+:TV_Line_293_GR a :TranslationVariant ;
     :text "Από αυτά ξέρω καλά ότι αυτοί"^^xsd:string ;
     :relatedTo :Line_293 .
 
-:TV_Line_294_gr a :TranslationVariant ;
+:TV_Line_294_GR a :TranslationVariant ;
     :text "παρακινήθηκαν με μισθούς για να κάνουν αυτό."^^xsd:string ;
     :relatedTo :Line_294 .
 
-:TV_Line_295_gr a :TranslationVariant ;
+:TV_Line_295_GR a :TranslationVariant ;
     :text "Γιατί για τους ανθρώπους δεν φύτρωσε ποτέ"^^xsd:string ;
     :relatedTo :Line_295 .
 
-:TV_Line_296_gr a :TranslationVariant ;
+:TV_Line_296_GR a :TranslationVariant ;
     :text "πιο κακό νόμισμα από το ασήμι· αυτό και πόλεις"^^xsd:string ;
     :relatedTo :Line_296 .
 
-:TV_Line_297_gr a :TranslationVariant ;
+:TV_Line_297_GR a :TranslationVariant ;
     :text "ρημάζει, κι αυτό ξεσπιτώνει άντρες από τα σπίτια τους,"^^xsd:string ;
     :relatedTo :Line_297 .
 
-:TV_Line_298_gr a :TranslationVariant ;
+:TV_Line_298_GR a :TranslationVariant ;
     :text "κι αυτό διδάσκει και παραστραβώνει μυαλά"^^xsd:string ;
     :relatedTo :Line_298 .
 
-:TV_Line_299_gr a :TranslationVariant ;
+:TV_Line_299_GR a :TranslationVariant ;
     :text "χρηστά, ώστε να στέκονται σε αισχρές πράξεις των ανθρώπων,"^^xsd:string ;
     :relatedTo :Line_299 .
 
-:TV_Line_300_gr a :TranslationVariant ;
+:TV_Line_300_GR a :TranslationVariant ;
     :text "κι έδειξε στους ανθρώπους να γνωρίζουν την πανουργία"^^xsd:string ;
     :relatedTo :Line_300 .
 
-:TV_Line_301_gr a :TranslationVariant ;
+:TV_Line_301_GR a :TranslationVariant ;
     :text "και την ασέβεια κάθε έργου."^^xsd:string ;
     :relatedTo :Line_301 .

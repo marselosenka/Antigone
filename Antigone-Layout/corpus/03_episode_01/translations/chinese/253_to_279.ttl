@@ -4,111 +4,111 @@
 
 :episode_01-translations-253-279-chinese a owl:Ontology .
 
-:TV_Line_253_zh a :TranslationVariant ;
+:TV_Line_253_ZH a :TranslationVariant ;
     :text "当第一名守卫把这事给我们看时，"^^xsd:string ;
     :relatedTo :Line_253 .
 
-:TV_Line_254_zh a :TranslationVariant ;
+:TV_Line_254_ZH a :TranslationVariant ;
     :text "那景象对我们全体都是痛苦的惊异。"^^xsd:string ;
     :relatedTo :Line_254 .
 
-:TV_Line_255_zh a :TranslationVariant ;
+:TV_Line_255_ZH a :TranslationVariant ;
     :text "因为尸体先前覆土不见，却并不在墓中，"^^xsd:string ;
     :relatedTo :Line_255 .
 
-:TV_Line_256_zh a :TranslationVariant ;
+:TV_Line_256_ZH a :TranslationVariant ;
     :text "如今有尘土覆其上，像有人故意犯令而为，"^^xsd:string ;
     :relatedTo :Line_256 .
 
-:TV_Line_257_zh a :TranslationVariant ;
+:TV_Line_257_ZH a :TranslationVariant ;
     :text "看不出有地上野兽或狗"^^xsd:string ;
     :relatedTo :Line_257 .
 
-:TV_Line_258_zh a :TranslationVariant ;
+:TV_Line_258_ZH a :TranslationVariant ;
     :text "或任何别的生物来撕扯过他的肉。"^^xsd:string ;
     :relatedTo :Line_258 .
 
-:TV_Line_259_zh a :TranslationVariant ;
+:TV_Line_259_ZH a :TranslationVariant ;
     :text "我告诉你，大家立刻互相猜疑，"^^xsd:string ;
     :relatedTo :Line_259 .
 
-:TV_Line_260_zh a :TranslationVariant ;
+:TV_Line_260_ZH a :TranslationVariant ;
     :text "彼此指控，人人疑人人，"^^xsd:string ;
     :relatedTo :Line_260 .
 
-:TV_Line_261_zh a :TranslationVariant ;
+:TV_Line_261_ZH a :TranslationVariant ;
     :text "几乎要动手打起来，无人能拦住。"^^xsd:string ;
     :relatedTo :Line_261 .
 
-:TV_Line_262_zh a :TranslationVariant ;
+:TV_Line_262_ZH a :TranslationVariant ;
     :text "因为看起来人人都有嫌疑，却无人可拘，"^^xsd:string ;
     :relatedTo :Line_262 .
 
-:TV_Line_263_zh a :TranslationVariant ;
+:TV_Line_263_ZH a :TranslationVariant ;
     :text "人人都说自己不知是谁干的。"^^xsd:string ;
     :relatedTo :Line_263 .
 
-:TV_Line_264_zh a :TranslationVariant ;
+:TV_Line_264_ZH a :TranslationVariant ;
     :text "我们甚至准备接受烧红铁器试验，"^^xsd:string ;
     :relatedTo :Line_264 .
 
-:TV_Line_265_zh a :TranslationVariant ;
+:TV_Line_265_ZH a :TranslationVariant ;
     :text "并走过火焰，"^^xsd:string ;
     :relatedTo :Line_265 .
 
-:TV_Line_266_zh a :TranslationVariant ;
+:TV_Line_266_ZH a :TranslationVariant ;
     :text "还要向神明起誓——"^^xsd:string ;
     :relatedTo :Line_266 .
 
-:TV_Line_267_zh a :TranslationVariant ;
+:TV_Line_267_ZH a :TranslationVariant ;
     :text "我们并未做此事，也不知有人"^^xsd:string ;
     :relatedTo :Line_267 .
 
-:TV_Line_268_zh a :TranslationVariant ;
+:TV_Line_268_ZH a :TranslationVariant ;
     :text "策划或实施了什么。"^^xsd:string ;
     :relatedTo :Line_268 .
 
-:TV_Line_269_zh a :TranslationVariant ;
+:TV_Line_269_ZH a :TranslationVariant ;
     :text "最后，既然追查毫无结果，"^^xsd:string ;
     :relatedTo :Line_269 .
 
-:TV_Line_270_zh a :TranslationVariant ;
+:TV_Line_270_ZH a :TranslationVariant ;
     :text "我们惶然低头；因为我们既无路"^^xsd:string ;
     :relatedTo :Line_270 .
 
-:TV_Line_271_zh a :TranslationVariant ;
+:TV_Line_271_ZH a :TranslationVariant ;
     :text "可言说辩白，也看不出行动后能有善果。"^^xsd:string ;
     :relatedTo :Line_271 .
 
-:TV_Line_272_zh a :TranslationVariant ;
+:TV_Line_272_ZH a :TranslationVariant ;
     :text "于是有人提议，此事必须"^^xsd:string ;
     :relatedTo :Line_272 .
 
-:TV_Line_273_zh a :TranslationVariant ;
+:TV_Line_273_ZH a :TranslationVariant ;
     :text "上报给你，不得隐瞒。"^^xsd:string ;
     :relatedTo :Line_273 .
 
-:TV_Line_274_zh a :TranslationVariant ;
+:TV_Line_274_ZH a :TranslationVariant ;
     :text "这意见占了上风，而我这倒霉的人"^^xsd:string ;
     :relatedTo :Line_274 .
 
-:TV_Line_275_zh a :TranslationVariant ;
+:TV_Line_275_ZH a :TranslationVariant ;
     :text "被抽签中选，得了这份“奖赏”。"^^xsd:string ;
     :relatedTo :Line_275 .
 
-:TV_Line_276_zh a :TranslationVariant ;
+:TV_Line_276_ZH a :TranslationVariant ;
     :text "所以我来了：我本不愿来。"^^xsd:string ;
     :relatedTo :Line_276 .
 
-:TV_Line_277_zh a :TranslationVariant ;
+:TV_Line_277_ZH a :TranslationVariant ;
     :text "没人愿意做坏消息的传递者。"^^xsd:string ;
     :relatedTo :Line_277 .
 
-:TV_Line_278_zh a :TranslationVariant ;
+:TV_Line_278_ZH a :TranslationVariant ;
     :text "合唱队：主上，我心里又在想"^^xsd:string ;
     :relatedTo :Line_278 .
 
-:TV_Line_279_zh a :TranslationVariant ;
+:TV_Line_279_ZH a :TranslationVariant ;
     :text "这会不会其实是神意所为。"^^xsd:string ;
     :relatedTo :Line_279 .
 

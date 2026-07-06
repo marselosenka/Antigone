@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:stasimon01-semantics a owl:Ontology .
+:stasimon_01-semantics a owl:Ontology .
 
 # ==========================================================================
 # SCENE INFORMATION
@@ -45,7 +45,14 @@
              :Event_GuardBringsAccusation ;
   :hasConflict :Conflict_HumanSkillGoodOrEvil,
                :Conflict_CivicHonorVsCityless,
-               :Conflict_RoyalDecreeVsBurialAct .
+               :Conflict_RoyalDecreeVsBurialAct ;
+  :hasCharacter   :Antigone_Character_Chorus,
+                  :Antigone_Character_Guard,
+                  :Antigone_Character_Creon,
+                  :Antigone_Character_Antigone,
+                  :Antigone_Character_Oedipus .
+
+
 
 # ==========================================================================
 # CHARACTERS
@@ -107,10 +114,12 @@
         :Line_357, :Line_358, :Line_360,
         :Line_361 .
 
-:Speech_Chorus_362_383 a :Speech ; 
-  :containsLine :Line_366, :Line_367, :Line_369, :Line_370, :Line_371, :Line_375, :Line_376, :Line_377, :Line_378, :Line_379, :Line_380, :Line_381, :Line_382 .
 
-:Speech_Guard_383 a :Speech ; :speechBy :Antigone_Character_Guard .
+
+:Speech_Chorus_362_383 a :Speech ;
+  :speechBy :Antigone_Character_Chorus ;
+  :containsLine :Line_365, :Line_366, :Line_367, :Line_370, :Line_371, :Line_375, :Line_376, :Line_377, :Line_378, :Line_379, :Line_380, :Line_381, :Line_382, :Line_383 .
+
 
 # =========================================================================
 # THEMES

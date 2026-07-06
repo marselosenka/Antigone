@@ -4,78 +4,78 @@
 
 :prologue-translations-1-19-greek a owl:Ontology .
 
-:TV_Line_001_gr a :TranslationVariant ;
+:TV_Line_001_GR a :TranslationVariant ;
     :text "Ω Ισμήνη, αδελφή μου από τον ίδιο πατέρα και την ίδια μητέρα,"^^xsd:string ;
     :relatedTo :Line_001 .
 
-:TV_Line_002_gr a :TranslationVariant ;
+:TV_Line_002_GR a :TranslationVariant ;
     :text "ξέρεις ποιο από τα δεινά του Οιδίποδα"^^xsd:string ;
     :relatedTo :Line_002 .
 
-:TV_Line_003_gr a :TranslationVariant ;
+:TV_Line_003_GR a :TranslationVariant ;
     :text "δεν φέρνει ακόμη ο Δίας σε μας, όσο ζούμε; "^^xsd:string ;
     :relatedTo :Line_003 .
 
-:TV_Line_004_gr a :TranslationVariant ;
+:TV_Line_004_GR a :TranslationVariant ;
     :text "Γιατί δεν υπάρχει τίποτε, ούτε οδυνηρό ούτε συμφορά,"^^xsd:string ;
     :relatedTo :Line_004 .
 
-:TV_Line_005_gr a :TranslationVariant ;
+:TV_Line_005_GR a :TranslationVariant ;
     :text "ούτε αισχρό ούτε άτιμο, που να μην το είδα"^^xsd:string ;
     :relatedTo :Line_005 .
 
-:TV_Line_006_gr a :TranslationVariant ;
+:TV_Line_006_GR a :TranslationVariant ;
     :text "μέσα στις δικές σου και στις δικές μου συμφορές."^^xsd:string ;
     :relatedTo :Line_006 .
 
-:TV_Line_007_gr a :TranslationVariant ;
+:TV_Line_007_GR a :TranslationVariant ;
     :text "Και τώρα τι είναι πάλι αυτό που λένε ότι"^^xsd:string ;
     :relatedTo :Line_007 .
 
-:TV_Line_008_gr a :TranslationVariant ;
+:TV_Line_008_GR a :TranslationVariant ;
     :text "ο στρατηγός επέβαλε με κήρυγμα στην πόλη;"^^xsd:string ;
     :relatedTo :Line_008 .
 
-:TV_Line_009_gr a :TranslationVariant ;
+:TV_Line_009_GR a :TranslationVariant ;
     :text "Ξέρεις κάτι, άκουσες; Ή σου ξεφεύγουν"^^xsd:string ;
     :relatedTo :Line_009 .
 
-:TV_Line_010_gr a :TranslationVariant ;
+:TV_Line_010_GR a :TranslationVariant ;
     :text "τα κακά που έρχονται από τους εχθρούς στους δικούς μας;"^^xsd:string ;
     :relatedTo :Line_010 .
 
-:TV_Line_011_gr a :TranslationVariant ;
+:TV_Line_011_GR a :TranslationVariant ;
     :text "Σε μένα κανένα νέο, Αντιγόνη, για τους δικούς μας"^^xsd:string ;
     :relatedTo :Line_011 .
 
-:TV_Line_012_gr a :TranslationVariant ;
+:TV_Line_012_GR a :TranslationVariant ;
     :text "ούτε ευχάριστο ούτε οδυνηρό, δεν έφτασε, από τότε που"^^xsd:string ;
     :relatedTo :Line_012 .
 
-:TV_Line_013_gr a :TranslationVariant ;
+:TV_Line_013_GR a :TranslationVariant ;
     :text "στερηθήκαμε τους δυο αδελφούς μας εμείς οι δυο αδελφές,"^^xsd:string ;
     :relatedTo :Line_013 .
 
-:TV_Line_014_gr a :TranslationVariant ;
+:TV_Line_014_GR a :TranslationVariant ;
     :text "που πέθαναν την ίδια μέρα, από αμοιβαίο χτύπημα χεριού."^^xsd:string ;
     :relatedTo :Line_014 .
 
-:TV_Line_015_gr a :TranslationVariant ;
+:TV_Line_015_GR a :TranslationVariant ;
     :text "Από τότε που ο στρατός των Αργείων έφυγε"^^xsd:string ;
     :relatedTo :Line_015 .
 
-:TV_Line_016_gr a :TranslationVariant ;
+:TV_Line_016_GR a :TranslationVariant ;
     :text "αυτή τη νύχτα, δεν ξέρω τίποτε παραπάνω,"^^xsd:string ;
     :relatedTo :Line_016 .
 
-:TV_Line_017_gr a :TranslationVariant ;
+:TV_Line_017_GR a :TranslationVariant ;
     :text "ούτε πως ευτυχώ περισσότερο ούτε πως δυστυχώ."^^xsd:string ;
     :relatedTo :Line_017 .
 
-:TV_Line_018_gr a :TranslationVariant ;
+:TV_Line_018_GR a :TranslationVariant ;
     :text "Το ήξερα καλά, και γι' αυτό σε έβγαλα έξω από τις αυλές"^^xsd:string ;
     :relatedTo :Line_018 .
 
-:TV_Line_019_gr a :TranslationVariant ;
+:TV_Line_019_GR a :TranslationVariant ;
     :text "των πυλών, για να τα ακούσεις μόνη εσύ."^^xsd:string ;
     :relatedTo :Line_019 .

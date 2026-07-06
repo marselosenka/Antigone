@@ -6,38 +6,38 @@
 :episode_01-translations-211-222-english a owl:Ontology .
 # English translation variants extracted from 211_to_222.ttl
 
-:TV_Line_211_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_211 ;
+:TV_Line_211_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_211 ;
   :text "CHORUS. Such is your will, Creon son of Menoeceus,"^^xsd:string .
 
-:TV_Line_212_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_212 ;
+:TV_Line_212_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_212 ;
   :text "For the friends and the enemies of the state."^^xsd:string .
 
-:TV_Line_213_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_213 ;
+:TV_Line_213_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_213 ;
   :text "You have the power, I suppose, to enforce any law"^^xsd:string .
 
-:TV_Line_214_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_214 ;
+:TV_Line_214_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_214 ;
   :text "Concerning the living and the dead."^^xsd:string .
 
-:TV_Line_215_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_215 ;
+:TV_Line_215_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_215 ;
   :text "CREON. Make sure my orders are enforced."^^xsd:string .
 
-:TV_Line_216_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_216 ;
+:TV_Line_216_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_216 ;
   :text "CHORUS. Set that burden on some younger man."^^xsd:string .
 
-:TV_Line_217_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_217 ;
+:TV_Line_217_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_217 ;
   :text "CREON. No, no—there are already guards watching the corpse."^^xsd:string .
 
-:TV_Line_218_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_218 ;
+:TV_Line_218_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_218 ;
   :text "CHORUS. To be clear, what else are you asking?"^^xsd:string .
 
-:TV_Line_219_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_219 ;
+:TV_Line_219_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_219 ;
   :text "CREON. Don’t give an inch to those who disobey."^^xsd:string .
 
-:TV_Line_220_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_220 ;
+:TV_Line_220_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_220 ;
   :text "CHORUS. No one is foolish enough to love death."^^xsd:string .
 
-:TV_Line_221_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_221 ;
+:TV_Line_221_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_221 ;
   :text "CREON. You’re right, death is the reward; but greed"^^xsd:string .
 
-:TV_Line_222_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_222 ;
+:TV_Line_222_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_222 ;
   :text "Will often crush a man beneath his own desires."^^xsd:string .

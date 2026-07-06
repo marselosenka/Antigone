@@ -2,6 +2,8 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+:prologue-semantics a owl:Ontology .
+
 # ==========================
 # CHARACTERS
 # ==========================
@@ -328,7 +330,7 @@ a :Speech ;
 
 :Motivation_SeekNewsAndDecree
 a :Motivation ;
-:description "Antigone seeks Ismene�s knowledge about the newly proclaimed civic edict and the harms advancing from enemies toward their loved ones."^^xsd:string .
+:description "Antigone seeks Ismene's knowledge about the newly proclaimed civic edict and the harms advancing from enemies toward their loved ones."^^xsd:string .
 
 :Motivation_PrivateDisclosure
 a :Motivation ;
@@ -447,10 +449,6 @@ a :Motivation ;
     a :Emotion ;
     :description "Ismene resigns herself to obeying those in power and asks the dead for understanding."^^xsd:string .
 
-:Emotion_Resolve
-    a :Emotion ;
-    :description "Antigone shows unwavering resolve to bury her brother."^^xsd:string .
-
 :Emotion_ReverentDuty
     a :Emotion ;
     :description "Antigone frames the burial as a holy duty toward gods and the dead."^^xsd:string .
@@ -475,6 +473,9 @@ a :Motivation ;
     a :Emotion ;
     :description "Ismene observes Antigone's 'warm heart' and contrasts it with cold circumstances."^^xsd:string .
 
+:Emotion_Urgency
+a :Emotion ;
+:description "Urgent anxiety that Creon is coming to make a clear public proclamation and put it into action."^^xsd:string .
 
 ####################################################################
 # THEMES 

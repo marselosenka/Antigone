@@ -4,227 +4,227 @@
 
 :episode_04-translations-872-928-greek a owl:Ontology .
 
-:TV_Line_872_gr a :TranslationVariant ;
+:TV_Line_872_GR a :TranslationVariant ;
     :text "Η ευσέβεια έχει κάτι ευσεβές,"^^xsd:string ;
     :relatedTo :Line_872 .
 
-:TV_Line_873_gr a :TranslationVariant ;
+:TV_Line_873_GR a :TranslationVariant ;
     :text "μα η εξουσία, σε όποιον νοιάζεται για την εξουσία,"^^xsd:string ;
     :relatedTo :Line_873 .
 
-:TV_Line_874_gr a :TranslationVariant ;
+:TV_Line_874_GR a :TranslationVariant ;
     :text "δεν ανέχεται καμιά παράβαση·"^^xsd:string ;
     :relatedTo :Line_874 .
 
-:TV_Line_875_gr a :TranslationVariant ;
+:TV_Line_875_GR a :TranslationVariant ;
     :text "εσένα σε κατέστρεψε η ίδια σου η οργή."^^xsd:string ;
     :relatedTo :Line_875 .
 
-:TV_Line_876_gr a :TranslationVariant ;
+:TV_Line_876_GR a :TranslationVariant ;
     :text "Άκλαυτη, άφιλη, ανύπαντρη, η δύστυχη οδηγούμαι"^^xsd:string ;
     :relatedTo :Line_876 .
 
-:TV_Line_877_gr a :TranslationVariant ;
+:TV_Line_877_GR a :TranslationVariant ;
     :text "τον τελευταίο δρόμο. Δεν μου επιτρέπεται πια"^^xsd:string ;
     :relatedTo :Line_877 .
 
-:TV_Line_878_gr a :TranslationVariant ;
+:TV_Line_878_GR a :TranslationVariant ;
     :text "το ιερό μάτι της λαμπρής φλόγας"^^xsd:string ;
     :relatedTo :Line_878 .
 
-:TV_Line_880_gr a :TranslationVariant ;
+:TV_Line_880_GR a :TranslationVariant ;
     :text "δεν μου επιτρέπεται πια να βλέπω, της ταλαίπωρης·"^^xsd:string ;
     :relatedTo :Line_880 .
 
-:TV_Line_881_gr a :TranslationVariant ;
+:TV_Line_881_GR a :TranslationVariant ;
     :text "και τη μοίρα μου, χωρίς δάκρυ,"^^xsd:string ;
     :relatedTo :Line_881 .
 
-:TV_Line_882_gr a :TranslationVariant ;
+:TV_Line_882_GR a :TranslationVariant ;
     :text "κανείς δικός μου δεν θρηνεί."^^xsd:string ;
     :relatedTo :Line_882 .
 
-:TV_Line_883_gr a :TranslationVariant ;
+:TV_Line_883_GR a :TranslationVariant ;
     :text "Ξέρετε πως τα τραγούδια και οι θρήνοι πριν από τον θάνατο,"^^xsd:string ;
     :relatedTo :Line_883 .
 
-:TV_Line_884_gr a :TranslationVariant ;
+:TV_Line_884_GR a :TranslationVariant ;
     :text "κανείς δεν θα τα σταματούσε ποτέ, αν υπήρχε ανάγκη να τα λέει;"^^xsd:string ;
     :relatedTo :Line_884 .
 
-:TV_Line_885_gr a :TranslationVariant ;
+:TV_Line_885_GR a :TranslationVariant ;
     :text "Δεν θα την πάτε όσο γίνεται γρηγορότερα και, κλείνοντάς την"^^xsd:string ;
     :relatedTo :Line_885 .
 
-:TV_Line_886_gr a :TranslationVariant ;
+:TV_Line_886_GR a :TranslationVariant ;
     :text "στον σκεπασμένο τάφο, όπως πρόσταξα εγώ,"^^xsd:string ;
     :relatedTo :Line_886 .
 
-:TV_Line_887_gr a :TranslationVariant ;
+:TV_Line_887_GR a :TranslationVariant ;
     :text "αφήστε την μόνη, έρημη, είτε πρέπει να πεθάνει"^^xsd:string ;
     :relatedTo :Line_887 .
 
-:TV_Line_888_gr a :TranslationVariant ;
+:TV_Line_888_GR a :TranslationVariant ;
     :text "είτε να ζήσει θαμμένη μέσα σε τέτοια κατοικία."^^xsd:string ;
     :relatedTo :Line_888 .
 
-:TV_Line_889_gr a :TranslationVariant ;
+:TV_Line_889_GR a :TranslationVariant ;
     :text "μητέρα, και αγαπητή σε σένα, αγαπημένο κεφάλι αδελφέ μου·"^^xsd:string ;
     :relatedTo :Line_889 .
 
-:TV_Line_890_gr a :TranslationVariant ;
+:TV_Line_890_GR a :TranslationVariant ;
     :text "από την επάνω κατοικία όμως θα στερηθεί."^^xsd:string ;
     :relatedTo :Line_890 .
 
-:TV_Line_891_gr a :TranslationVariant ;
+:TV_Line_891_GR a :TranslationVariant ;
     :text "Ω τάφε, ω νυφικό δωμάτιο, ω σκαμμένη"^^xsd:string ;
     :relatedTo :Line_891 .
 
-:TV_Line_892_gr a :TranslationVariant ;
+:TV_Line_892_GR a :TranslationVariant ;
     :text "κατοικία παντοτινής φρουράς, όπου πηγαίνω"^^xsd:string ;
     :relatedTo :Line_892 .
 
-:TV_Line_893_gr a :TranslationVariant ;
+:TV_Line_893_GR a :TranslationVariant ;
     :text "προς τους δικούς μου, από τους οποίους"^^xsd:string ;
     :relatedTo :Line_893 .
 
-:TV_Line_894_gr a :TranslationVariant ;
+:TV_Line_894_GR a :TranslationVariant ;
     :text "η Περσεφόνη έχει δεχτεί το μεγαλύτερο πλήθος στους νεκρούς·"^^xsd:string ;
     :relatedTo :Line_894 .
 
-:TV_Line_895_gr a :TranslationVariant ;
+:TV_Line_895_GR a :TranslationVariant ;
     :text "τελευταία από όλους αυτούς εγώ, και με τον χειρότερο τρόπο,"^^xsd:string ;
     :relatedTo :Line_895 .
 
-:TV_Line_896_gr a :TranslationVariant ;
+:TV_Line_896_GR a :TranslationVariant ;
     :text "κατεβαίνω πολύ πριν ολοκληρωθεί το μερίδιο της ζωής μου."^^xsd:string ;
     :relatedTo :Line_896 .
 
-:TV_Line_897_gr a :TranslationVariant ;
+:TV_Line_897_GR a :TranslationVariant ;
     :text "Κι όμως, πηγαίνοντας, τρέφω μεγάλες ελπίδες"^^xsd:string ;
     :relatedTo :Line_897 .
 
-:TV_Line_898_gr a :TranslationVariant ;
+:TV_Line_898_GR a :TranslationVariant ;
     :text "πως θα φτάσω αγαπητή στον πατέρα, αγαπητή και σε σένα,"^^xsd:string ;
     :relatedTo :Line_898 .
 
-:TV_Line_899_gr a :TranslationVariant ;
+:TV_Line_899_GR a :TranslationVariant ;
     :text "μητέρα, και αγαπητή σε σένα, αδελφέ μου·"^^xsd:string ;
     :relatedTo :Line_899 .
 
-:TV_Line_900_gr a :TranslationVariant ;
+:TV_Line_900_GR a :TranslationVariant ;
     :text "γιατί όταν πεθάνατε, με τα χέρια μου εγώ"^^xsd:string ;
     :relatedTo :Line_900 .
 
-:TV_Line_901_gr a :TranslationVariant ;
+:TV_Line_901_GR a :TranslationVariant ;
     :text "σας έπλυνα, σας στόλισα, και πάνω στους τάφους σας"^^xsd:string ;
     :relatedTo :Line_901 .
 
-:TV_Line_902_gr a :TranslationVariant ;
+:TV_Line_902_GR a :TranslationVariant ;
     :text "έχυσα χοές· και τώρα, Πολυνείκη, το δικό σου"^^xsd:string ;
     :relatedTo :Line_902 .
 
-:TV_Line_903_gr a :TranslationVariant ;
+:TV_Line_903_GR a :TranslationVariant ;
     :text "σώμα σκεπάζοντας, τέτοια αμοιβή κερδίζω."^^xsd:string ;
     :relatedTo :Line_903 .
 
-:TV_Line_904_gr a :TranslationVariant ;
+:TV_Line_904_GR a :TranslationVariant ;
     :text "Κι όμως εγώ σε τίμησα, για όσους σκέφτονται σωστά."^^xsd:string ;
     :relatedTo :Line_904 .
 
-:TV_Line_905_gr a :TranslationVariant ;
+:TV_Line_905_GR a :TranslationVariant ;
     :text "Γιατί ποτέ, ούτε αν ήμουν μητέρα παιδιών,"^^xsd:string ;
     :relatedTo :Line_905 .
 
-:TV_Line_906_gr a :TranslationVariant ;
+:TV_Line_906_GR a :TranslationVariant ;
     :text "ούτε αν ο άντρας μου είχε πεθάνει και σάπιζε,"^^xsd:string ;
     :relatedTo :Line_906 .
 
-:TV_Line_907_gr a :TranslationVariant ;
+:TV_Line_907_GR a :TranslationVariant ;
     :text "δεν θα αναλάμβανα αυτόν τον κόπο σε πείσμα των πολιτών."^^xsd:string ;
     :relatedTo :Line_907 .
 
-:TV_Line_908_gr a :TranslationVariant ;
+:TV_Line_908_GR a :TranslationVariant ;
     :text "Για ποιον νόμο το λέω αυτό;"^^xsd:string ;
     :relatedTo :Line_908 .
 
-:TV_Line_909_gr a :TranslationVariant ;
+:TV_Line_909_GR a :TranslationVariant ;
     :text "Άλλον άντρα θα είχα, αν ο άντρας μου πέθαινε,"^^xsd:string ;
     :relatedTo :Line_909 .
 
-:TV_Line_910_gr a :TranslationVariant ;
+:TV_Line_910_GR a :TranslationVariant ;
     :text "και παιδί από άλλον, αν έχανα αυτό·"^^xsd:string ;
     :relatedTo :Line_910 .
 
-:TV_Line_911_gr a :TranslationVariant ;
+:TV_Line_911_GR a :TranslationVariant ;
     :text "μα αφού μάνα και πατέρας κρύβονται στον Άδη,"^^xsd:string ;
     :relatedTo :Line_911 .
 
-:TV_Line_912_gr a :TranslationVariant ;
+:TV_Line_912_GR a :TranslationVariant ;
     :text "δεν υπάρχει αδελφός που να μπορέσει ποτέ να γεννηθεί."^^xsd:string ;
     :relatedTo :Line_912 .
 
-:TV_Line_913_gr a :TranslationVariant ;
+:TV_Line_913_GR a :TranslationVariant ;
     :text "Με τέτοιο νόμο λοιπόν σε τίμησα πάνω απ’ όλους,"^^xsd:string ;
     :relatedTo :Line_913 .
 
-:TV_Line_914_gr a :TranslationVariant ;
+:TV_Line_914_GR a :TranslationVariant ;
     :text "μα στον Κρέοντα φάνηκε πως σφάλω"^^xsd:string ;
     :relatedTo :Line_914 .
 
-:TV_Line_915_gr a :TranslationVariant ;
+:TV_Line_915_GR a :TranslationVariant ;
     :text "και τόλμησα φοβερά πράγματα, αγαπημένο κεφάλι αδελφέ μου."^^xsd:string ;
     :relatedTo :Line_915 .
 
-:TV_Line_916_gr a :TranslationVariant ;
+:TV_Line_916_GR a :TranslationVariant ;
     :text "Και τώρα με οδηγεί, πιάνοντάς με από τα χέρια έτσι,"^^xsd:string ;
     :relatedTo :Line_916 .
 
-:TV_Line_917_gr a :TranslationVariant ;
+:TV_Line_917_GR a :TranslationVariant ;
     :text "χωρίς νυφική κλίνη, χωρίς γαμήλιο ύμνο, χωρίς μερίδιο"^^xsd:string ;
     :relatedTo :Line_917 .
 
-:TV_Line_918_gr a :TranslationVariant ;
+:TV_Line_918_GR a :TranslationVariant ;
     :text "ούτε στον γάμο ούτε στο μεγάλωμα παιδιών,"^^xsd:string ;
     :relatedTo :Line_918 .
 
-:TV_Line_919_gr a :TranslationVariant ;
+:TV_Line_919_GR a :TranslationVariant ;
     :text "αλλά έτσι, έρημη από τους δικούς μου, η δυστυχισμένη,"^^xsd:string ;
     :relatedTo :Line_919 .
 
-:TV_Line_920_gr a :TranslationVariant ;
+:TV_Line_920_GR a :TranslationVariant ;
     :text "ζωντανή πηγαίνω στις σκαμμένες κατοικίες των νεκρών."^^xsd:string ;
     :relatedTo :Line_920 .
 
-:TV_Line_921_gr a :TranslationVariant ;
+:TV_Line_921_GR a :TranslationVariant ;
     :text "Ποια δικαιοσύνη των θεών παράβηκα;"^^xsd:string ;
     :relatedTo :Line_921 .
 
-:TV_Line_922_gr a :TranslationVariant ;
+:TV_Line_922_GR a :TranslationVariant ;
     :text "Γιατί πρέπει εγώ η δύστυχη να κοιτώ πια"^^xsd:string ;
     :relatedTo :Line_922 .
 
-:TV_Line_923_gr a :TranslationVariant ;
+:TV_Line_923_GR a :TranslationVariant ;
     :text "στους θεούς; Ποιον από τους συμμάχους να φωνάξω;"^^xsd:string ;
     :relatedTo :Line_923 .
 
-:TV_Line_924_gr a :TranslationVariant ;
+:TV_Line_924_GR a :TranslationVariant ;
     :text "αφού με την ευσέβειά μου κέρδισα τη μομφή της ασέβειας;"^^xsd:string ;
     :relatedTo :Line_924 .
 
-:TV_Line_925_gr a :TranslationVariant ;
+:TV_Line_925_GR a :TranslationVariant ;
     :text "Αλλά αν αυτά είναι καλά στα μάτια των θεών,"^^xsd:string ;
     :relatedTo :Line_925 .
 
-:TV_Line_926_gr a :TranslationVariant ;
+:TV_Line_926_GR a :TranslationVariant ;
     :text "αφού πάθω, θα παραδεχτώ πως έσφαλα·"^^xsd:string ;
     :relatedTo :Line_926 .
 
-:TV_Line_927_gr a :TranslationVariant ;
+:TV_Line_927_GR a :TranslationVariant ;
     :text "αν όμως σφάλλουν αυτοί, μακάρι να μην πάθουν περισσότερα κακά"^^xsd:string ;
     :relatedTo :Line_927 .
 
-:TV_Line_928_gr a :TranslationVariant ;
+:TV_Line_928_GR a :TranslationVariant ;
     :text "απ’ όσα άδικα κάνουν σε μένα."^^xsd:string ;
     :relatedTo :Line_928 .
 

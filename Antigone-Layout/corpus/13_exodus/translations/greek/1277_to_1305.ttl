@@ -4,110 +4,110 @@
 
 :exodus-translations-1277-1305-greek a owl:Ontology .
 
-:TV_Line_1278_gr a :TranslationVariant ;
+:TV_Line_1278_GR a :TranslationVariant ;
     :text "Άνακτα, όπως στέκεσαι και κρατάς όσα κρατάς,"^^xsd:string ;
     :relatedTo :Line_1278 .
 
-:TV_Line_1279_gr a :TranslationVariant ;
+:TV_Line_1279_GR a :TranslationVariant ;
     :text "φαίνεται πως τα κουβαλάς στα χέρια σου, ενώ στο σπίτι"^^xsd:string ;
     :relatedTo :Line_1279 .
 
-:TV_Line_1280_gr a :TranslationVariant ;
+:TV_Line_1280_GR a :TranslationVariant ;
     :text "συνάντησες, και σύντομα θα δεις, κι άλλα κακά."^^xsd:string ;
     :relatedTo :Line_1280 .
 
-:TV_Line_1281_gr a :TranslationVariant ;
+:TV_Line_1281_GR a :TranslationVariant ;
     :text "Τι; Μπορεί να υπάρχει κάτι χειρότερο από αυτά τα κακά;"^^xsd:string ;
     :relatedTo :Line_1281 .
 
-:TV_Line_1282_gr a :TranslationVariant ;
+:TV_Line_1282_GR a :TranslationVariant ;
     :text "Η γυναίκα σου πέθανε, η αληθινή μητέρα αυτού του νεκρού γιου,"^^xsd:string ;
     :relatedTo :Line_1282 .
 
-:TV_Line_1283_gr a :TranslationVariant ;
+:TV_Line_1283_GR a :TranslationVariant ;
     :text "η δύστυχη, χτυπημένη μόλις τώρα από φρέσκες πληγές."^^xsd:string ;
     :relatedTo :Line_1283 .
 
-:TV_Line_1284_gr a :TranslationVariant ;
+:TV_Line_1284_GR a :TranslationVariant ;
     :text "Αχ μου, αχ μου, ακάθαρτο λιμάνι του Άδη,"^^xsd:string ;
     :relatedTo :Line_1284 .
 
-:TV_Line_1285_gr a :TranslationVariant ;
+:TV_Line_1285_GR a :TranslationVariant ;
     :text "γιατί, γιατί με αφανίζεις;"^^xsd:string ;
     :relatedTo :Line_1285 .
 
-:TV_Line_1286_gr a :TranslationVariant ;
+:TV_Line_1286_GR a :TranslationVariant ;
     :text "Εσύ που μου φέρνεις κακό μαντάτο,"^^xsd:string ;
     :relatedTo :Line_1286 .
 
-:TV_Line_1287_gr a :TranslationVariant ;
+:TV_Line_1287_GR a :TranslationVariant ;
     :text "που προέστειλες λύπη, τι λόγο κραυγάζεις;"^^xsd:string ;
     :relatedTo :Line_1287 .
 
-:TV_Line_1288_gr a :TranslationVariant ;
+:TV_Line_1288_GR a :TranslationVariant ;
     :text "Αλίμονο, αφάνισες άνθρωπο ήδη χαμένο."^^xsd:string ;
     :relatedTo :Line_1288 .
 
-:TV_Line_1289_gr a :TranslationVariant ;
+:TV_Line_1289_GR a :TranslationVariant ;
     :text "Τι λες, παιδί; Ποιο νέο πράγμα μου λες,"^^xsd:string ;
     :relatedTo :Line_1289 .
 
-:TV_Line_1290_gr a :TranslationVariant ;
+:TV_Line_1290_GR a :TranslationVariant ;
     :text "αλίμονο, αλίμονο,"^^xsd:string ;
     :relatedTo :Line_1290 .
 
-:TV_Line_1291_gr a :TranslationVariant ;
+:TV_Line_1291_GR a :TranslationVariant ;
     :text "ότι φόνος πάνω σε φόνο,"^^xsd:string ;
     :relatedTo :Line_1291 .
 
-:TV_Line_1292_gr a :TranslationVariant ;
+:TV_Line_1292_GR a :TranslationVariant ;
     :text "θάνατος γυναίκας, προστίθεται σε μένα;"^^xsd:string ;
     :relatedTo :Line_1292 .
 
-:TV_Line_1293_gr a :TranslationVariant ;
+:TV_Line_1293_GR a :TranslationVariant ;
     :text "Μπορείς να τη δεις· δεν είναι πια κρυμμένη μέσα."^^xsd:string ;
     :relatedTo :Line_1293 .
 
-:TV_Line_1294_gr a :TranslationVariant ;
+:TV_Line_1294_GR a :TranslationVariant ;
     :text "Αλίμονό μου!"^^xsd:string ;
     :relatedTo :Line_1294 .
 
-:TV_Line_1295_gr a :TranslationVariant ;
+:TV_Line_1295_GR a :TranslationVariant ;
     :text "Δύστυχος εγώ, βλέπω κι αυτό το δεύτερο κακό,"^^xsd:string ;
     :relatedTo :Line_1295 .
 
-:TV_Line_1296_gr a :TranslationVariant ;
+:TV_Line_1296_GR a :TranslationVariant ;
     :text "ποια μοίρα, ποια μοίρα με περιμένει ακόμη;"^^xsd:string ;
     :relatedTo :Line_1296 .
 
-:TV_Line_1297_gr a :TranslationVariant ;
+:TV_Line_1297_GR a :TranslationVariant ;
     :text "Μόλις τώρα κρατώ το παιδί μου στα χέρια,"^^xsd:string ;
     :relatedTo :Line_1297 .
 
-:TV_Line_1298_gr a :TranslationVariant ;
+:TV_Line_1298_GR a :TranslationVariant ;
     :text "και μπροστά μου αντικρίζω κι άλλο νεκρό σώμα."^^xsd:string ;
     :relatedTo :Line_1298 .
 
-:TV_Line_1300_gr a :TranslationVariant ;
+:TV_Line_1300_GR a :TranslationVariant ;
     :text "Αλίμονο, αλίμονο, δύστυχη μάνα, αλίμονο παιδί μου."^^xsd:string ;
     :relatedTo :Line_1300 .
 
-:TV_Line_1301_gr a :TranslationVariant ;
+:TV_Line_1301_GR a :TranslationVariant ;
     :text "Εκείνη, χτυπημένη βαριά, καθώς καθόταν στον βωμό,"^^xsd:string ;
     :relatedTo :Line_1301 .
 
-:TV_Line_1302_gr a :TranslationVariant ;
+:TV_Line_1302_GR a :TranslationVariant ;
     :text "έκλεισε τα σκοτεινιασμένα μάτια της, αφού πρώτα φώναξε"^^xsd:string ;
     :relatedTo :Line_1302 .
 
-:TV_Line_1303_gr a :TranslationVariant ;
+:TV_Line_1303_GR a :TranslationVariant ;
     :text "για το άδειο κρεβάτι του Μεγαρέα που πέθανε πριν,"^^xsd:string ;
     :relatedTo :Line_1303 .
 
-:TV_Line_1304_gr a :TranslationVariant ;
+:TV_Line_1304_GR a :TranslationVariant ;
     :text "και ύστερα για τούτον· και τελευταίο από όλους, για σένα,"^^xsd:string ;
     :relatedTo :Line_1304 .
 
-:TV_Line_1305_gr a :TranslationVariant ;
+:TV_Line_1305_GR a :TranslationVariant ;
     :text "έριξε κατάρες, λέγοντάς σε φονιά του παιδιού σου."^^xsd:string ;
     :relatedTo :Line_1305 .

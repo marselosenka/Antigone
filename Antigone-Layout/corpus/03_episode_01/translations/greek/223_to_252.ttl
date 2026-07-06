@@ -4,122 +4,122 @@
 
 :episode_01-translations-223-252-greek a owl:Ontology .
 
-:TV_Line_223_gr a :TranslationVariant ;
+:TV_Line_223_GR a :TranslationVariant ;
     :text "Άνακτα, δεν θα πω πως ήρθα"^^xsd:string ;
     :relatedTo :Line_223 .
 
-:TV_Line_224_gr a :TranslationVariant ;
+:TV_Line_224_GR a :TranslationVariant ;
     :text "λαχανιασμένος από βιασύνη, σηκώνοντας γοργό πόδι."^^xsd:string ;
     :relatedTo :Line_224 .
 
-:TV_Line_225_gr a :TranslationVariant ;
+:TV_Line_225_GR a :TranslationVariant ;
     :text "Γιατί πολλές φορές με σταμάτησαν οι σκέψεις"^^xsd:string ;
     :relatedTo :Line_225 .
 
-:TV_Line_226_gr a :TranslationVariant ;
+:TV_Line_226_GR a :TranslationVariant ;
     :text "και στον δρόμο γύριζα τον εαυτό μου πίσω, να ξαναγυρίσω."^^xsd:string ;
     :relatedTo :Line_226 .
 
-:TV_Line_227_gr a :TranslationVariant ;
+:TV_Line_227_GR a :TranslationVariant ;
     :text "Η ψυχή μου μου έλεγε πολλά μέσα μου:"^^xsd:string ;
     :relatedTo :Line_227 .
 
-:TV_Line_228_gr a :TranslationVariant ;
+:TV_Line_228_GR a :TranslationVariant ;
     :text "Δύστυχε, πού πας, για να πας να τιμωρηθείς;"^^xsd:string ;
     :relatedTo :Line_228 .
 
-:TV_Line_229_gr a :TranslationVariant ;
+:TV_Line_229_GR a :TranslationVariant ;
     :text "Ταλαιπωρε, θα μείνεις πάλι; Κι αν αυτά τα μάθει ο Κρέων"^^xsd:string ;
     :relatedTo :Line_229 .
 
-:TV_Line_230_gr a :TranslationVariant ;
+:TV_Line_230_GR a :TranslationVariant ;
     :text "από άλλον άντρα, πώς δεν θα πονέσεις τότε;"^^xsd:string ;
     :relatedTo :Line_230 .
 
-:TV_Line_231_gr a :TranslationVariant ;
+:TV_Line_231_GR a :TranslationVariant ;
     :text "Έτσι στριφογυρίζοντας, προχωρούσα αργός, με καθυστέρηση,"^^xsd:string ;
     :relatedTo :Line_231 .
 
-:TV_Line_232_gr a :TranslationVariant ;
+:TV_Line_232_GR a :TranslationVariant ;
     :text "κι έτσι ο κοντός δρόμος γινόταν μακρύς."^^xsd:string ;
     :relatedTo :Line_232 .
 
-:TV_Line_233_gr a :TranslationVariant ;
+:TV_Line_233_GR a :TranslationVariant ;
     :text "Στο τέλος όμως νίκησε το να έρθω εδώ"^^xsd:string ;
     :relatedTo :Line_233 .
 
-:TV_Line_234_gr a :TranslationVariant ;
+:TV_Line_234_GR a :TranslationVariant ;
     :text "σε σένα· κι αν δεν είχα τίποτα να πω, πάλι θα το πω."^^xsd:string ;
     :relatedTo :Line_234 .
 
-:TV_Line_235_gr a :TranslationVariant ;
+:TV_Line_235_GR a :TranslationVariant ;
     :text "Γιατί έρχομαι κρατημένος από μία ελπίδα,"^^xsd:string ;
     :relatedTo :Line_235 .
 
-:TV_Line_236_gr a :TranslationVariant ;
+:TV_Line_236_GR a :TranslationVariant ;
     :text "να μη πάθω τίποτε άλλο πέρα απ’ ό,τι είναι γραμμένο."^^xsd:string ;
     :relatedTo :Line_236 .
 
-:TV_Line_237_gr a :TranslationVariant ;
+:TV_Line_237_GR a :TranslationVariant ;
     :text "Και τι είναι αυτό που σου έχει φέρει αυτή την αθυμία;"^^xsd:string ;
     :relatedTo :Line_237 .
 
-:TV_Line_238_gr a :TranslationVariant ;
+:TV_Line_238_GR a :TranslationVariant ;
     :text "Θέλω πρώτα να σου πω για τον εαυτό μου· γιατί"^^xsd:string ;
     :relatedTo :Line_238 .
 
-:TV_Line_239_gr a :TranslationVariant ;
+:TV_Line_239_GR a :TranslationVariant ;
     :text "ούτε το έκανα εγώ αυτό, ούτε είδα ποιος ήταν ο δράστης"^^xsd:string ;
     :relatedTo :Line_239 .
 
-:TV_Line_240_gr a :TranslationVariant ;
+:TV_Line_240_GR a :TranslationVariant ;
     :text "και δεν θα ήταν δίκαιο να πέσω εγώ σε κακό για τούτο."^^xsd:string ;
     :relatedTo :Line_240 .
 
-:TV_Line_241_gr a :TranslationVariant ;
+:TV_Line_241_GR a :TranslationVariant ;
     :text "Καλά το σημαδεύεις και το φράζεις ολόγυρα"^^xsd:string ;
     :relatedTo :Line_241 .
 
-:TV_Line_242_gr a :TranslationVariant ;
+:TV_Line_242_GR a :TranslationVariant ;
     :text "το πράγμα· δείχνεις πως θα σημάνεις κάτι νέο."^^xsd:string ;
     :relatedTo :Line_242 .
 
-:TV_Line_243_gr a :TranslationVariant ;
+:TV_Line_243_GR a :TranslationVariant ;
     :text "Τα φοβερά πράγματα, βλέπεις, προσθέτουν μεγάλο δισταγμό."^^xsd:string ;
     :relatedTo :Line_243 .
 
-:TV_Line_244_gr a :TranslationVariant ;
+:TV_Line_244_GR a :TranslationVariant ;
     :text "Δεν θα μιλήσεις επιτέλους και ύστερα θα φύγεις;"^^xsd:string ;
     :relatedTo :Line_244 .
 
-:TV_Line_245_gr a :TranslationVariant ;
+:TV_Line_245_GR a :TranslationVariant ;
     :text "Και βέβαια σου λέω: τον νεκρό μόλις τώρα κάποιος"^^xsd:string ;
     :relatedTo :Line_245 .
 
-:TV_Line_246_gr a :TranslationVariant ;
+:TV_Line_246_GR a :TranslationVariant ;
     :text "τον έθαψε και έφυγε, κι επάνω στο σώμα έριξε"^^xsd:string ;
     :relatedTo :Line_246 .
 
-:TV_Line_247_gr a :TranslationVariant ;
+:TV_Line_247_GR a :TranslationVariant ;
     :text "ξερή σκόνη, κάνοντας τις νεκρικές προσφορές που πρέπει."^^xsd:string ;
     :relatedTo :Line_247 .
 
-:TV_Line_248_gr a :TranslationVariant ;
+:TV_Line_248_GR a :TranslationVariant ;
     :text "Τι λες; Ποιος από τους άντρες τόλμησε αυτά;"^^xsd:string ;
     :relatedTo :Line_248 .
 
-:TV_Line_249_gr a :TranslationVariant ;
+:TV_Line_249_GR a :TranslationVariant ;
     :text "Δεν ξέρω· γιατί εκεί δεν φαινόταν ούτε χτύπημα σκαψίματος"^^xsd:string ;
     :relatedTo :Line_249 .
 
-:TV_Line_250_gr a :TranslationVariant ;
+:TV_Line_250_GR a :TranslationVariant ;
     :text "ούτε ίχνος αξίνας· κι η γη ήταν σκληρή"^^xsd:string ;
     :relatedTo :Line_250 .
 
-:TV_Line_251_gr a :TranslationVariant ;
+:TV_Line_251_GR a :TranslationVariant ;
     :text "και άνυδρη, αράγιστη, ούτε πατημένη"^^xsd:string ;
     :relatedTo :Line_251 .
 
-:TV_Line_252_gr a :TranslationVariant ;
+:TV_Line_252_GR a :TranslationVariant ;
     :text "από τροχούς· άσημος έμεινε ο εργάτης."^^xsd:string ;
     :relatedTo :Line_252 .

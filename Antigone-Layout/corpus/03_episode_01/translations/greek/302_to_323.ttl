@@ -4,90 +4,90 @@
 
 :episode_01-translations-302-323-greek a owl:Ontology .
 
-:TV_Line_302_gr a :TranslationVariant ;
+:TV_Line_302_GR a :TranslationVariant ;
     :text "Όσοι λοιπόν, μισθωμένοι, έκαναν αυτά,"^^xsd:string ;
     :relatedTo :Line_302 .
 
-:TV_Line_303_gr a :TranslationVariant ;
+:TV_Line_303_GR a :TranslationVariant ;
     :text "κάποτε με τον χρόνο πλήρωσαν την ποινή τους."^^xsd:string ;
     :relatedTo :Line_303 .
 
-:TV_Line_304_gr a :TranslationVariant ;
+:TV_Line_304_GR a :TranslationVariant ;
     :text "Αλλά αν ακόμη ο Δίας έχει από μένα σεβασμό,"^^xsd:string ;
     :relatedTo :Line_304 .
 
-:TV_Line_305_gr a :TranslationVariant ;
+:TV_Line_305_GR a :TranslationVariant ;
     :text "να το ξέρεις καλά, και σου το λέω με όρκο,"^^xsd:string ;
     :relatedTo :Line_305 .
 
-:TV_Line_306_gr a :TranslationVariant ;
+:TV_Line_306_GR a :TranslationVariant ;
     :text "αν δεν βρείτε τον αυτουργό αυτού του τάφου"^^xsd:string ;
     :relatedTo :Line_306 .
 
-:TV_Line_307_gr a :TranslationVariant ;
+:TV_Line_307_GR a :TranslationVariant ;
     :text "και δεν τον φέρετε φανερό μπροστά στα μάτια μου,"^^xsd:string ;
     :relatedTo :Line_307 .
 
-:TV_Line_308_gr a :TranslationVariant ;
+:TV_Line_308_GR a :TranslationVariant ;
     :text "δεν θα σας αρκέσει μόνο ο Άδης, πριν"^^xsd:string ;
     :relatedTo :Line_308 .
 
-:TV_Line_309_gr a :TranslationVariant ;
+:TV_Line_309_GR a :TranslationVariant ;
     :text "κρεμασμένοι ζωντανοί ομολογήσετε αυτή την ύβρη,"^^xsd:string ;
     :relatedTo :Line_309 .
 
-:TV_Line_310_gr a :TranslationVariant ;
+:TV_Line_310_GR a :TranslationVariant ;
     :text "για να ξέρετε από πού πρέπει να παίρνετε το κέρδος"^^xsd:string ;
     :relatedTo :Line_310 .
 
-:TV_Line_311_gr a :TranslationVariant ;
+:TV_Line_311_GR a :TranslationVariant ;
     :text "στο εξής όταν αρπάζετε, και να μάθετε πως"^^xsd:string ;
     :relatedTo :Line_311 .
 
-:TV_Line_312_gr a :TranslationVariant ;
+:TV_Line_312_GR a :TranslationVariant ;
     :text "δεν πρέπει να αγαπά κανείς το κέρδος από κάθε πηγή."^^xsd:string ;
     :relatedTo :Line_312 .
 
-:TV_Line_313_gr a :TranslationVariant ;
+:TV_Line_313_GR a :TranslationVariant ;
     :text "Γιατί από τα αισχρά κέρδη τους περισσότερους"^^xsd:string ;
     :relatedTo :Line_313 .
 
-:TV_Line_314_gr a :TranslationVariant ;
+:TV_Line_314_GR a :TranslationVariant ;
     :text "θα τους δεις χαμένους παρά σωσμένους."^^xsd:string ;
     :relatedTo :Line_314 .
 
-:TV_Line_315_gr a :TranslationVariant ;
+:TV_Line_315_GR a :TranslationVariant ;
     :text "Θα μου δώσεις να μιλήσω ή να γυρίσω και να φύγω έτσι;"^^xsd:string ;
     :relatedTo :Line_315 .
 
-:TV_Line_316_gr a :TranslationVariant ;
+:TV_Line_316_GR a :TranslationVariant ;
     :text "Δεν ξέρεις και τώρα πόσο ενοχλητικά μιλάς;"^^xsd:string ;
     :relatedTo :Line_316 .
 
-:TV_Line_317_gr a :TranslationVariant ;
+:TV_Line_317_GR a :TranslationVariant ;
     :text "Στα αυτιά σε δαγκώνω ή στην ψυχή;"^^xsd:string ;
     :relatedTo :Line_317 .
 
-:TV_Line_318_gr a :TranslationVariant ;
+:TV_Line_318_GR a :TranslationVariant ;
     :text "Γιατί μετράς πού ακριβώς είναι η λύπη μου;"^^xsd:string ;
     :relatedTo :Line_318 .
 
-:TV_Line_319_gr a :TranslationVariant ;
+:TV_Line_319_GR a :TranslationVariant ;
     :text "Αυτός που το έκανε πονά τον νου σου· εγώ μονάχα τ’ αυτιά σου."^^xsd:string ;
     :relatedTo :Line_319 .
 
-:TV_Line_320_gr a :TranslationVariant ;
+:TV_Line_320_GR a :TranslationVariant ;
     :text "Αλίμονο, τι φανερός λογάς είσαι από τη φύση σου."^^xsd:string ;
     :relatedTo :Line_320 .
 
-:TV_Line_321_gr a :TranslationVariant ;
+:TV_Line_321_GR a :TranslationVariant ;
     :text "Όμως αυτό το έργο εγώ ποτέ δεν το έκανα."^^xsd:string ;
     :relatedTo :Line_321 .
 
-:TV_Line_322_gr a :TranslationVariant ;
+:TV_Line_322_GR a :TranslationVariant ;
     :text "Κι αυτά αφού πούλησες την ψυχή σου για ασήμι."^^xsd:string ;
     :relatedTo :Line_322 .
 
-:TV_Line_323_gr a :TranslationVariant ;
+:TV_Line_323_GR a :TranslationVariant ;
     :text "Αχ, φοβερό πράγμα, όταν εκείνος που νομίζει, νομίζει ψεύτικα."^^xsd:string ;
     :relatedTo :Line_323 .

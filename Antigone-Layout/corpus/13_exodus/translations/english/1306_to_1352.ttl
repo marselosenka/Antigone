@@ -6,166 +6,166 @@
 :exodus-translations-1306-1352-english a owl:Ontology .
 # English translation variants extracted from 1306_to_1352.ttl
 
-:TV_Line_1306_en a :TranslationVariant ;
+:TV_Line_1306_EN a :TranslationVariant ;
     :text "Alas, alas,"^^xsd:string ;
     :relatedTo :Line_1306 .
 
-:TV_Line_1307_en a :TranslationVariant ;
+:TV_Line_1307_EN a :TranslationVariant ;
     :text "I am startled with fear. Why has no one struck me"^^xsd:string ;
     :relatedTo :Line_1307 .
 
-:TV_Line_1308_en a :TranslationVariant ;
+:TV_Line_1308_EN a :TranslationVariant ;
     :text "Full in front with a two-edged sword?"^^xsd:string ;
     :relatedTo :Line_1308 .
 
-:TV_Line_1310_en a :TranslationVariant ;
+:TV_Line_1310_EN a :TranslationVariant ;
     :text "Wretched am I, alas,"^^xsd:string ;
     :relatedTo :Line_1310 .
 
-:TV_Line_1311_en a :TranslationVariant ;
+:TV_Line_1311_EN a :TranslationVariant ;
     :text "And mingled with wretched misery."^^xsd:string ;
     :relatedTo :Line_1311 .
 
-:TV_Line_1312_en a :TranslationVariant ;
+:TV_Line_1312_EN a :TranslationVariant ;
     :text "As having the blame for these things and those as well,"^^xsd:string ;
     :relatedTo :Line_1312 .
 
-:TV_Line_1313_en a :TranslationVariant ;
+:TV_Line_1313_EN a :TranslationVariant ;
     :text "You are accused by the doom of this dead woman."^^xsd:string ;
     :relatedTo :Line_1313 .
 
-:TV_Line_1314_en a :TranslationVariant ;
+:TV_Line_1314_EN a :TranslationVariant ;
     :text "And by what manner did she loose herself in blood?"^^xsd:string ;
     :relatedTo :Line_1314 .
 
-:TV_Line_1315_en a :TranslationVariant ;
+:TV_Line_1315_EN a :TranslationVariant ;
     :text "With her own hand she struck herself beneath the liver,"^^xsd:string ;
     :relatedTo :Line_1315 .
 
-:TV_Line_1316_en a :TranslationVariant ;
+:TV_Line_1316_EN a :TranslationVariant ;
     :text "When she learned of this sharply lamented suffering of her son."^^xsd:string ;
     :relatedTo :Line_1316 .
 
-:TV_Line_1317_en a :TranslationVariant ;
+:TV_Line_1317_EN a :TranslationVariant ;
     :text "Ah me, these things can never be fitted upon any other mortal"^^xsd:string ;
     :relatedTo :Line_1317 .
 
-:TV_Line_1318_en a :TranslationVariant ;
+:TV_Line_1318_EN a :TranslationVariant ;
     :text "As caused by my guilt."^^xsd:string ;
     :relatedTo :Line_1318 .
 
-:TV_Line_1319_en a :TranslationVariant ;
+:TV_Line_1319_EN a :TranslationVariant ;
     :text "For I, yes I, killed you, wretched one,"^^xsd:string ;
     :relatedTo :Line_1319 ;
     :hasTheme :Theme_FullConfession .
 
-:TV_Line_1320_en a :TranslationVariant ;
+:TV_Line_1320_EN a :TranslationVariant ;
     :text "I, I say, in truth. O servants,"^^xsd:string ;
     :relatedTo :Line_1320 .
 
-:TV_Line_1321_en a :TranslationVariant ;
+:TV_Line_1321_EN a :TranslationVariant ;
     :text "Take me away as fast as you can, take me out of sight,"^^xsd:string ;
     :relatedTo :Line_1321 .
 
-:TV_Line_1325_en a :TranslationVariant ;
+:TV_Line_1325_EN a :TranslationVariant ;
     :text "A man who is no more than nothing."^^xsd:string ;
     :relatedTo :Line_1325 .
 
-:TV_Line_1326_en a :TranslationVariant ;
+:TV_Line_1326_EN a :TranslationVariant ;
     :text "You counsel what is gain, if there is any gain in evils;"^^xsd:string ;
     :relatedTo :Line_1326 .
 
-:TV_Line_1327_en a :TranslationVariant ;
+:TV_Line_1327_EN a :TranslationVariant ;
     :text "For the least evil at one’s feet is best."^^xsd:string ;
     :relatedTo :Line_1327 .
 
-:TV_Line_1328_en a :TranslationVariant ;
+:TV_Line_1328_EN a :TranslationVariant ;
     :text "Let it come, let it come,"^^xsd:string ;
     :relatedTo :Line_1328 .
 
-:TV_Line_1329_en a :TranslationVariant ;
+:TV_Line_1329_EN a :TranslationVariant ;
     :text "Let the fairest fate of all appear for me,"^^xsd:string ;
     :relatedTo :Line_1329 .
 
-:TV_Line_1330_en a :TranslationVariant ;
+:TV_Line_1330_EN a :TranslationVariant ;
     :text "Bringing my final day,"^^xsd:string ;
     :relatedTo :Line_1330 .
 
-:TV_Line_1331_en a :TranslationVariant ;
+:TV_Line_1331_EN a :TranslationVariant ;
     :text "My utmost day. Let it come, let it come,"^^xsd:string ;
     :relatedTo :Line_1331 .
 
-:TV_Line_1332_en a :TranslationVariant ;
+:TV_Line_1332_EN a :TranslationVariant ;
     :text "So that I may never see another day."^^xsd:string ;
     :relatedTo :Line_1332 .
 
-:TV_Line_1334_en a :TranslationVariant ;
+:TV_Line_1334_EN a :TranslationVariant ;
     :text "These things are for the future. Of what lies before us,"^^xsd:string ;
     :relatedTo :Line_1334 .
 
-:TV_Line_1335_en a :TranslationVariant ;
+:TV_Line_1335_EN a :TranslationVariant ;
     :text "Something must be done; the care of that belongs to those whose care it is."^^xsd:string ;
     :relatedTo :Line_1335 .
 
-:TV_Line_1336_en a :TranslationVariant ;
+:TV_Line_1336_EN a :TranslationVariant ;
     :text "Yet I prayed as well for the things I speak of."^^xsd:string ;
     :relatedTo :Line_1336 .
 
-:TV_Line_1337_en a :TranslationVariant ;
+:TV_Line_1337_EN a :TranslationVariant ;
     :text "Pray now for nothing more; for from ordained fate"^^xsd:string ;
     :relatedTo :Line_1337 ;
     :hasTheme :Theme_InevitabilityOfFate .
 
-:TV_Line_1338_en a :TranslationVariant ;
+:TV_Line_1338_EN a :TranslationVariant ;
     :text "There is no release for mortals from misfortune."^^xsd:string ;
     :relatedTo :Line_1338 .
 
-:TV_Line_1339_en a :TranslationVariant ;
+:TV_Line_1339_EN a :TranslationVariant ;
     :text "Lead away this vain man out of sight,"^^xsd:string ;
     :relatedTo :Line_1339 .
 
-:TV_Line_1340_en a :TranslationVariant ;
+:TV_Line_1340_EN a :TranslationVariant ;
     :text "Who, child, killed you though not willingly,"^^xsd:string ;
     :relatedTo :Line_1340 .
 
-:TV_Line_1341_en a :TranslationVariant ;
+:TV_Line_1341_EN a :TranslationVariant ;
     :text "And you as well, my wife. Alas, wretched me,"^^xsd:string ;
     :relatedTo :Line_1341 .
 
-:TV_Line_1342_en a :TranslationVariant ;
+:TV_Line_1342_EN a :TranslationVariant ;
     :text "I do not know where to look, where to turn;"^^xsd:string ;
     :relatedTo :Line_1342 .
 
-:TV_Line_1345_en a :TranslationVariant ;
+:TV_Line_1345_EN a :TranslationVariant ;
     :text "For all is awry in my hands, and upon my head"^^xsd:string ;
     :relatedTo :Line_1345 .
 
-:TV_Line_1346_en a :TranslationVariant ;
+:TV_Line_1346_EN a :TranslationVariant ;
     :text "A fate hard to bear has leapt."^^xsd:string ;
     :relatedTo :Line_1346 .
 
-:TV_Line_1347_en a :TranslationVariant ;
+:TV_Line_1347_EN a :TranslationVariant ;
     :text "Far above all else, wisdom is"^^xsd:string ;
     :relatedTo :Line_1347 ;
     :hasTheme :Theme_WisdomThroughSuffering .
 
-:TV_Line_1348_en a :TranslationVariant ;
+:TV_Line_1348_EN a :TranslationVariant ;
     :text "The first condition of happiness; and one must"^^xsd:string ;
     :relatedTo :Line_1348 ;
     :hasTheme :Theme_Piety .
 
-:TV_Line_1350_en a :TranslationVariant ;
+:TV_Line_1350_EN a :TranslationVariant ;
     :text "In no way act impiously toward the gods. Great words"^^xsd:string ;
     :relatedTo :Line_1350 .
 
-:TV_Line_1351_en a :TranslationVariant ;
+:TV_Line_1351_EN a :TranslationVariant ;
     :text "Of the over-proud pay back great blows,"^^xsd:string ;
     :relatedTo :Line_1351 .
 
-:TV_Line_1352_en a :TranslationVariant ;
+:TV_Line_1352_EN a :TranslationVariant ;
     :text "And in the end"^^xsd:string ;
     :relatedTo :Line_1352 .
 
-:TV_Line_1353_en a :TranslationVariant ;
+:TV_Line_1353_EN a :TranslationVariant ;
     :text "Teach wisdom in old age."^^xsd:string ;
     :relatedTo :Line_1353 .

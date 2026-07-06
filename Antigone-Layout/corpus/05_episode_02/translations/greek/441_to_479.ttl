@@ -4,158 +4,158 @@
 
 :episode_02-translations-441-479-greek a owl:Ontology .
 
-:TV_Line_441_gr a :TranslationVariant ;
+:TV_Line_441_GR a :TranslationVariant ;
     :text "Εσένα, εσένα που σκύβεις το κεφάλι στη γη,"^^xsd:string ;
     :relatedTo :Line_441 .
 
-:TV_Line_442_gr a :TranslationVariant ;
+:TV_Line_442_GR a :TranslationVariant ;
     :text "λες ότι το έκανες ή το αρνείσαι;"^^xsd:string ;
     :relatedTo :Line_442 .
 
-:TV_Line_443_gr a :TranslationVariant ;
+:TV_Line_443_GR a :TranslationVariant ;
     :text "Και λέω πως το έκανα και δεν το αρνούμαι."^^xsd:string ;
     :relatedTo :Line_443 .
 
-:TV_Line_444_gr a :TranslationVariant ;
+:TV_Line_444_GR a :TranslationVariant ;
     :text "Εσύ μπορείς να φύγεις όπου θέλεις,"^^xsd:string ;
     :relatedTo :Line_444 .
 
-:TV_Line_445_gr a :TranslationVariant ;
+:TV_Line_445_GR a :TranslationVariant ;
     :text "ελεύθερος από βαριά κατηγορία."^^xsd:string ;
     :relatedTo :Line_445 .
 
-:TV_Line_446_gr a :TranslationVariant ;
+:TV_Line_446_GR a :TranslationVariant ;
     :text "Εσύ όμως πες μου, όχι με πολλά, αλλά σύντομα:"^^xsd:string ;
     :relatedTo :Line_446 .
 
-:TV_Line_447_gr a :TranslationVariant ;
+:TV_Line_447_GR a :TranslationVariant ;
     :text "γνώριζες ότι είχε κηρυχθεί να μην το κάνεις αυτό;"^^xsd:string ;
     :relatedTo :Line_447 .
 
-:TV_Line_448_gr a :TranslationVariant ;
+:TV_Line_448_GR a :TranslationVariant ;
     :text "Το ήξερα. Και πώς να μην το ήξερα; Ήταν φανερό."^^xsd:string ;
     :relatedTo :Line_448 .
 
-:TV_Line_449_gr a :TranslationVariant ;
+:TV_Line_449_GR a :TranslationVariant ;
     :text "Κι όμως τόλμησες να παραβείς αυτούς τους νόμους;"^^xsd:string ;
     :relatedTo :Line_449 .
 
-:TV_Line_450_gr a :TranslationVariant ;
+:TV_Line_450_GR a :TranslationVariant ;
     :text "Ναι, γιατί δεν ήταν ο Δίας που τα πρόσταξε αυτά,"^^xsd:string ;
     :relatedTo :Line_450 .
 
-:TV_Line_451_gr a :TranslationVariant ;
+:TV_Line_451_GR a :TranslationVariant ;
     :text "ούτε η Δίκη, που κατοικεί μαζί με τους θεούς του κάτω κόσμου,"^^xsd:string ;
     :relatedTo :Line_451 .
 
-:TV_Line_452_gr a :TranslationVariant ;
+:TV_Line_452_GR a :TranslationVariant ;
     :text "όρισε τέτοιους νόμους για τους ανθρώπους."^^xsd:string ;
     :relatedTo :Line_452 .
 
-:TV_Line_453_gr a :TranslationVariant ;
+:TV_Line_453_GR a :TranslationVariant ;
     :text "Ούτε πίστεψα πως οι δικές σου διαταγές είχαν τόση ισχύ,"^^xsd:string ;
     :relatedTo :Line_453 .
 
-:TV_Line_454_gr a :TranslationVariant ;
+:TV_Line_454_GR a :TranslationVariant ;
     :text "ώστε εσύ, θνητός άνθρωπος, να μπορείς να υπερβείς"^^xsd:string ;
     :relatedTo :Line_454 .
 
-:TV_Line_455_gr a :TranslationVariant ;
+:TV_Line_455_GR a :TranslationVariant ;
     :text "τους άγραφους και ακατάλυτους νόμους των θεών."^^xsd:string ;
     :relatedTo :Line_455 .
 
-:TV_Line_456_gr a :TranslationVariant ;
+:TV_Line_456_GR a :TranslationVariant ;
     :text "Γιατί αυτοί δεν ισχύουν μόνο για σήμερα ή χθες, αλλά πάντα,"^^xsd:string ;
     :relatedTo :Line_456 .
 
-:TV_Line_457_gr a :TranslationVariant ;
+:TV_Line_457_GR a :TranslationVariant ;
     :text "και κανείς δεν ξέρει από πότε φανερώθηκαν."^^xsd:string ;
     :relatedTo :Line_457 .
 
-:TV_Line_458_gr a :TranslationVariant ;
+:TV_Line_458_GR a :TranslationVariant ;
     :text "Εγώ δεν επρόκειτο, από φόβο μπροστά στην αλαζονεία κανενός,"^^xsd:string ;
     :relatedTo :Line_458 .
 
-:TV_Line_459_gr a :TranslationVariant ;
+:TV_Line_459_GR a :TranslationVariant ;
     :text "να δώσω στους θεούς δίκη γι’ αυτά."^^xsd:string ;
     :relatedTo :Line_459 .
 
-:TV_Line_460_gr a :TranslationVariant ;
+:TV_Line_460_GR a :TranslationVariant ;
     :text "Ήξερα ότι θα πεθάνω, πώς να μην το ξέρω;"^^xsd:string ;
     :relatedTo :Line_460 .
 
-:TV_Line_461_gr a :TranslationVariant ;
+:TV_Line_461_GR a :TranslationVariant ;
     :text "κι ας μην το είχες εσύ διακηρύξει. Αν όμως"^^xsd:string ;
     :relatedTo :Line_461 .
 
-:TV_Line_462_gr a :TranslationVariant ;
+:TV_Line_462_GR a :TranslationVariant ;
     :text "πεθάνω νωρίτερα, εγώ το λογαριάζω κέρδος."^^xsd:string ;
     :relatedTo :Line_462 .
 
-:TV_Line_463_gr a :TranslationVariant ;
+:TV_Line_463_GR a :TranslationVariant ;
     :text "Όποιος ζει μέσα σε τόσα πολλά δεινά, όπως εγώ,"^^xsd:string ;
     :relatedTo :Line_463 .
 
-:TV_Line_464_gr a :TranslationVariant ;
+:TV_Line_464_GR a :TranslationVariant ;
     :text "πώς να μη βρίσκει κέρδος τον θάνατο;"^^xsd:string ;
     :relatedTo :Line_464 .
 
-:TV_Line_465_gr a :TranslationVariant ;
+:TV_Line_465_GR a :TranslationVariant ;
     :text "Έτσι, για μένα το να λάχω αυτή τη μοίρα"^^xsd:string ;
     :relatedTo :Line_465 .
 
-:TV_Line_466_gr a :TranslationVariant ;
+:TV_Line_466_GR a :TranslationVariant ;
     :text "δεν είναι καθόλου πόνος· αλλά αν τον γιο της μάνας μου"^^xsd:string ;
     :relatedTo :Line_466 .
 
-:TV_Line_467_gr a :TranslationVariant ;
+:TV_Line_467_GR a :TranslationVariant ;
     :text "που πέθανε τον ανεχόμουν άταφο νεκρό,"^^xsd:string ;
     :relatedTo :Line_467 .
 
-:TV_Line_468_gr a :TranslationVariant ;
+:TV_Line_468_GR a :TranslationVariant ;
     :text "τότε θα πονούσα· για αυτά εδώ δεν λυπάμαι."^^xsd:string ;
     :relatedTo :Line_468 .
 
-:TV_Line_469_gr a :TranslationVariant ;
+:TV_Line_469_GR a :TranslationVariant ;
     :text "Κι αν τώρα σου φαίνομαι πως πράττω ανόητα,"^^xsd:string ;
     :relatedTo :Line_469 .
 
-:TV_Line_470_gr a :TranslationVariant ;
+:TV_Line_470_GR a :TranslationVariant ;
     :text "σχεδόν από ανόητο κατηγορούμαι για ανοησία."^^xsd:string ;
     :relatedTo :Line_470 .
 
-:TV_Line_471_gr a :TranslationVariant ;
+:TV_Line_471_GR a :TranslationVariant ;
     :text "Φανερώνει η σκληρή της φύση πως βγήκε από σκληρό πατέρα"^^xsd:string ;
     :relatedTo :Line_471 .
 
-:TV_Line_472_gr a :TranslationVariant ;
+:TV_Line_472_GR a :TranslationVariant ;
     :text "αυτό το κορίτσι. Δεν ξέρει να υποχωρεί στα δεινά."^^xsd:string ;
     :relatedTo :Line_472 .
 
-:TV_Line_473_gr a :TranslationVariant ;
+:TV_Line_473_GR a :TranslationVariant ;
     :text "Αλλά να ξέρεις: τα υπερβολικά άκαμπτα φρονήματα"^^xsd:string ;
     :relatedTo :Line_473 .
 
-:TV_Line_474_gr a :TranslationVariant ;
+:TV_Line_474_GR a :TranslationVariant ;
     :text "πέφτουν πρώτα, κι ο πιο σκληρός"^^xsd:string ;
     :relatedTo :Line_474 .
 
-:TV_Line_475_gr a :TranslationVariant ;
+:TV_Line_475_GR a :TranslationVariant ;
     :text "σίδηρος, πυρωμένος στη φωτιά και σκληραγωγημένος,"^^xsd:string ;
     :relatedTo :Line_475 .
 
-:TV_Line_476_gr a :TranslationVariant ;
+:TV_Line_476_GR a :TranslationVariant ;
     :text "πολύ συχνά τον βλέπεις να σπάζει και να ραγίζει."^^xsd:string ;
     :relatedTo :Line_476 .
 
-:TV_Line_477_gr a :TranslationVariant ;
+:TV_Line_477_GR a :TranslationVariant ;
     :text "Ξέρω πως και τα ορμητικά άλογα"^^xsd:string ;
     :relatedTo :Line_477 .
 
-:TV_Line_478_gr a :TranslationVariant ;
+:TV_Line_478_GR a :TranslationVariant ;
     :text "με μικρό χαλινάρι τα δαμάζουν· γιατί δεν επιτρέπεται"^^xsd:string ;
     :relatedTo :Line_478 .
 
-:TV_Line_479_gr a :TranslationVariant ;
+:TV_Line_479_GR a :TranslationVariant ;
     :text "να έχει μεγάλα φρονήματα όποιος είναι δούλος των άλλων."^^xsd:string ;
     :relatedTo :Line_479 .

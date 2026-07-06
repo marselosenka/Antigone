@@ -4,93 +4,93 @@
 
 :episode_05-translations-988-1032-chinese a owl:Ontology .
 
-:TV_Line_988_zh a :TranslationVariant ; :relatedTo :Line_988 ;
+:TV_Line_988_ZH a :TranslationVariant ; :relatedTo :Line_988 ;
   :text "底比斯的统治者们，我们沿着共同的路来了。"^^xsd:string .
-:TV_Line_989_zh a :TranslationVariant ; :relatedTo :Line_989 ;
+:TV_Line_989_ZH a :TranslationVariant ; :relatedTo :Line_989 ;
   :text "两个人共用一双眼睛；因为盲者"^^xsd:string .
-:TV_Line_990_zh a :TranslationVariant ; :relatedTo :Line_990 ;
+:TV_Line_990_ZH a :TranslationVariant ; :relatedTo :Line_990 ;
   :text "行路必须有向导带领。"^^xsd:string .
-:TV_Line_991_zh a :TranslationVariant ; :relatedTo :Line_991 ;
+:TV_Line_991_ZH a :TranslationVariant ; :relatedTo :Line_991 ;
   :text "出了什么事，老提瑞西阿斯？有什么新讯息？"^^xsd:string .
-:TV_Line_992_zh a :TranslationVariant ; :relatedTo :Line_992 ;
+:TV_Line_992_ZH a :TranslationVariant ; :relatedTo :Line_992 ;
   :text "我会告诉你；而你要听从先知。"^^xsd:string .
-:TV_Line_993_zh a :TranslationVariant ; :relatedTo :Line_993 ;
+:TV_Line_993_ZH a :TranslationVariant ; :relatedTo :Line_993 ;
   :text "确实，我从前从未背离你的劝告。"^^xsd:string .
-:TV_Line_994_zh a :TranslationVariant ; :relatedTo :Line_994 ;
+:TV_Line_994_ZH a :TranslationVariant ; :relatedTo :Line_994 ;
   :text "因此你曾使这城保持正直的航向。"^^xsd:string .
-:TV_Line_995_zh a :TranslationVariant ; :relatedTo :Line_995 ;
+:TV_Line_995_ZH a :TranslationVariant ; :relatedTo :Line_995 ;
   :text "我可以作证，我从中得了益处。"^^xsd:string .
-:TV_Line_996_zh a :TranslationVariant ; :relatedTo :Line_996 ;
+:TV_Line_996_ZH a :TranslationVariant ; :relatedTo :Line_996 ;
   :text "当心；你如今又站在命运的刀锋上。"^^xsd:string .
-:TV_Line_997_zh a :TranslationVariant ; :relatedTo :Line_997 ;
+:TV_Line_997_ZH a :TranslationVariant ; :relatedTo :Line_997 ;
   :text "怎么回事？你的话让我发抖。"^^xsd:string .
-:TV_Line_998_zh a :TranslationVariant ; :relatedTo :Line_998 ;
+:TV_Line_998_ZH a :TranslationVariant ; :relatedTo :Line_998 ;
   :text "你听见我技艺所示的征兆，就会知道。"^^xsd:string .
-:TV_Line_999_zh a :TranslationVariant ; :relatedTo :Line_999 ;
+:TV_Line_999_ZH a :TranslationVariant ; :relatedTo :Line_999 ;
   :text "当我坐在自己往日观鸟的位子上时，"^^xsd:string .
-:TV_Line_1000_zh a :TranslationVariant ; :relatedTo :Line_1000 ;
+:TV_Line_1000_ZH a :TranslationVariant ; :relatedTo :Line_1000 ;
   :text "那是群鸟常在我近处栖息之地，"^^xsd:string .
-:TV_Line_1001_zh a :TranslationVariant ; :relatedTo :Line_1001 ;
+:TV_Line_1001_ZH a :TranslationVariant ; :relatedTo :Line_1001 ;
   :text "我听见了奇异的鸟叫声，"^^xsd:string .
-:TV_Line_1002_zh a :TranslationVariant ; :relatedTo :Line_1002 ;
+:TV_Line_1002_ZH a :TranslationVariant ; :relatedTo :Line_1002 ;
   :text "它们以恶而狂乱的暴怒尖啸；"^^xsd:string .
-:TV_Line_1003_zh a :TranslationVariant ; :relatedTo :Line_1003 ;
+:TV_Line_1003_ZH a :TranslationVariant ; :relatedTo :Line_1003 ;
   :text "并且彼此以带血的爪子撕扯，"^^xsd:string .
-:TV_Line_1004_zh a :TranslationVariant ; :relatedTo :Line_1004 ;
+:TV_Line_1004_ZH a :TranslationVariant ; :relatedTo :Line_1004 ;
   :text "我明白了，因为它们振翼的拍击极其分明。"^^xsd:string .
-:TV_Line_1005_zh a :TranslationVariant ; :relatedTo :Line_1005 ;
+:TV_Line_1005_ZH a :TranslationVariant ; :relatedTo :Line_1005 ;
   :text "我立刻在各处燃烧的祭坛上，惧怕地试验火祭，"^^xsd:string .
-:TV_Line_1006_zh a :TranslationVariant ; :relatedTo :Line_1006 ;
+:TV_Line_1006_ZH a :TranslationVariant ; :relatedTo :Line_1006 ;
   :text "但从祭物里"^^xsd:string .
-:TV_Line_1007_zh a :TranslationVariant ; :relatedTo :Line_1007 ;
+:TV_Line_1007_ZH a :TranslationVariant ; :relatedTo :Line_1007 ;
   :text "赫淮斯托斯之火并未明亮升起；反而在灰上"^^xsd:string .
-:TV_Line_1008_zh a :TranslationVariant ; :relatedTo :Line_1008 ;
+:TV_Line_1008_ZH a :TranslationVariant ; :relatedTo :Line_1008 ;
   :text "大腿上的脂肪融化渗落，"^^xsd:string .
-:TV_Line_1009_zh a :TranslationVariant ; :relatedTo :Line_1009 ;
+:TV_Line_1009_ZH a :TranslationVariant ; :relatedTo :Line_1009 ;
   :text "冒烟并爆裂；并且在空中高处"^^xsd:string .
-:TV_Line_1010_zh a :TranslationVariant ; :relatedTo :Line_1010 ;
+:TV_Line_1010_ZH a :TranslationVariant ; :relatedTo :Line_1010 ;
   :text "苦胆四散，"^^xsd:string .
-:TV_Line_1011_zh a :TranslationVariant ; :relatedTo :Line_1011 ;
+:TV_Line_1011_ZH a :TranslationVariant ; :relatedTo :Line_1011 ;
   :text "连献祭的大腿骨都裸露出来，失去覆脂。"^^xsd:string .
-:TV_Line_1012_zh a :TranslationVariant ; :relatedTo :Line_1012 ;
+:TV_Line_1012_ZH a :TranslationVariant ; :relatedTo :Line_1012 ;
   :text "这个孩子把这些都教给了我："^^xsd:string .
-:TV_Line_1013_zh a :TranslationVariant ; :relatedTo :Line_1013 ;
+:TV_Line_1013_ZH a :TranslationVariant ; :relatedTo :Line_1013 ;
   :text "祭牲占兆失灵，不再显明征象；"^^xsd:string .
-:TV_Line_1014_zh a :TranslationVariant ; :relatedTo :Line_1014 ;
+:TV_Line_1014_ZH a :TranslationVariant ; :relatedTo :Line_1014 ;
   :text "因为他是我的引导者，就像我引导别人一样。"^^xsd:string .
-:TV_Line_1015_zh a :TranslationVariant ; :relatedTo :Line_1015 ;
+:TV_Line_1015_ZH a :TranslationVariant ; :relatedTo :Line_1015 ;
   :text "而这城因你的心志而染病；"^^xsd:string .
-:TV_Line_1016_zh a :TranslationVariant ; :relatedTo :Line_1016 ;
+:TV_Line_1016_ZH a :TranslationVariant ; :relatedTo :Line_1016 ;
   :text "因为我们的祭坛与家灶全都"^^xsd:string .
-:TV_Line_1017_zh a :TranslationVariant ; :relatedTo :Line_1017 ;
+:TV_Line_1017_ZH a :TranslationVariant ; :relatedTo :Line_1017 ;
   :text "被鸟与狗叼来的食物塞满，"^^xsd:string .
-:TV_Line_1018_zh a :TranslationVariant ; :relatedTo :Line_1018 ;
+:TV_Line_1018_ZH a :TranslationVariant ; :relatedTo :Line_1018 ;
   :text "那是那不幸的俄狄浦斯之子倒下的尸肉。"^^xsd:string .
-:TV_Line_1019_zh a :TranslationVariant ; :relatedTo :Line_1019 ;
+:TV_Line_1019_ZH a :TranslationVariant ; :relatedTo :Line_1019 ;
   :text "因此诸神不再从我们这里接受"^^xsd:string .
-:TV_Line_1020_zh a :TranslationVariant ; :relatedTo :Line_1020 ;
+:TV_Line_1020_ZH a :TranslationVariant ; :relatedTo :Line_1020 ;
   :text "祈祷的祭火，也不接受大腿脂肪的焚烟，"^^xsd:string .
-:TV_Line_1021_zh a :TranslationVariant ; :relatedTo :Line_1021 ;
+:TV_Line_1021_ZH a :TranslationVariant ; :relatedTo :Line_1021 ;
   :text "连鸟也发不出清晰的吉兆之声，"^^xsd:string .
-:TV_Line_1022_zh a :TranslationVariant ; :relatedTo :Line_1022 ;
+:TV_Line_1022_ZH a :TranslationVariant ; :relatedTo :Line_1022 ;
   :text "因为它们吞食了带人血的肥腻。"^^xsd:string .
-:TV_Line_1023_zh a :TranslationVariant ; :relatedTo :Line_1023 ;
+:TV_Line_1023_ZH a :TranslationVariant ; :relatedTo :Line_1023 ;
   :text "所以，我的孩子，想一想吧。"^^xsd:string .
-:TV_Line_1024_zh a :TranslationVariant ; :relatedTo :Line_1024 ;
+:TV_Line_1024_ZH a :TranslationVariant ; :relatedTo :Line_1024 ;
   :text "凡人都会犯错，这是所有人的共同处境；"^^xsd:string .
-:TV_Line_1025_zh a :TranslationVariant ; :relatedTo :Line_1025 ;
+:TV_Line_1025_ZH a :TranslationVariant ; :relatedTo :Line_1025 ;
   :text "但人若犯错，并不因此就无可救药，"^^xsd:string .
-:TV_Line_1026_zh a :TranslationVariant ; :relatedTo :Line_1026 ;
+:TV_Line_1026_ZH a :TranslationVariant ; :relatedTo :Line_1026 ;
   :text "只要他跌入恶中后，"^^xsd:string .
-:TV_Line_1027_zh a :TranslationVariant ; :relatedTo :Line_1027 ;
+:TV_Line_1027_ZH a :TranslationVariant ; :relatedTo :Line_1027 ;
   :text "愿意改正，而不顽固不动。"^^xsd:string .
-:TV_Line_1028_zh a :TranslationVariant ; :relatedTo :Line_1028 ;
+:TV_Line_1028_ZH a :TranslationVariant ; :relatedTo :Line_1028 ;
   :text "你要知道，僵硬不变会招来愚昧之责。"^^xsd:string .
-:TV_Line_1029_zh a :TranslationVariant ; :relatedTo :Line_1029 ;
+:TV_Line_1029_ZH a :TranslationVariant ; :relatedTo :Line_1029 ;
   :text "向死者让步吧，不要再打击已离世的人。"^^xsd:string .
-:TV_Line_1030_zh a :TranslationVariant ; :relatedTo :Line_1030 ;
+:TV_Line_1030_ZH a :TranslationVariant ; :relatedTo :Line_1030 ;
   :text "反复杀死死者，哪里有什么勇敢可言？"^^xsd:string .
-:TV_Line_1031_zh a :TranslationVariant ; :relatedTo :Line_1031 ;
+:TV_Line_1031_ZH a :TranslationVariant ; :relatedTo :Line_1031 ;
   :text "我为你着想，才说正确的话；而且要学习"^^xsd:string .
-:TV_Line_1032_zh a :TranslationVariant ; :relatedTo :Line_1032 ;
+:TV_Line_1032_ZH a :TranslationVariant ; :relatedTo :Line_1032 ;
   :text "向说得对的人学习，这最甘美，只要它带来益处。"^^xsd:string .

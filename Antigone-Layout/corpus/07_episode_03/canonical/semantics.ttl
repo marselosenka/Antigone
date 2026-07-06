@@ -2,7 +2,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:episode03-semantics a owl:Ontology .
+:episode_03-semantics a owl:Ontology .
 
 ################################################################
 # SCENES
@@ -141,7 +141,7 @@
 ################################################################
 
 :Speech_Creon_631_634 a :Speech ;
-    :speechBy :Creon_Character_Creon ;
+    :speechBy :Antigone_Character_Creon ;
     :containsLine :Line_631,
         :Line_632,
         :Line_633,
@@ -434,7 +434,7 @@
         :Line_780 ;
     :hasTheme :Theme_CivicPurityAndMiasma,
         :Theme_DeathAndHadesReverence ;
-    :speechBy :Creon_Character_Creon .
+    :speechBy :Antigone_Character_Creon .
 
 
 

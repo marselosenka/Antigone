@@ -4,134 +4,134 @@
 
 :exodus-translations-1244-1276-greek a owl:Ontology .
 
-:TV_Line_1244_gr a :TranslationVariant ;
+:TV_Line_1244_GR a :TranslationVariant ;
     :text "Τι λες γι’ αυτό; Η γυναίκα έφυγε πάλι,"^^xsd:string ;
     :relatedTo :Line_1244 .
 
-:TV_Line_1245_gr a :TranslationVariant ;
+:TV_Line_1245_GR a :TranslationVariant ;
     :text "χωρίς να πει λέξη, καλή ή κακή."^^xsd:string ;
     :relatedTo :Line_1245 .
 
-:TV_Line_1246_gr a :TranslationVariant ;
+:TV_Line_1246_GR a :TranslationVariant ;
     :text "Κι εγώ απορώ· όμως κρατώ την ελπίδα"^^xsd:string ;
     :relatedTo :Line_1246 .
 
-:TV_Line_1247_gr a :TranslationVariant ;
+:TV_Line_1247_GR a :TranslationVariant ;
     :text "ότι, ακούγοντας για τον πόνο του γιου της που έρχεται στην πόλη,"^^xsd:string ;
     :relatedTo :Line_1247 .
 
-:TV_Line_1248_gr a :TranslationVariant ;
+:TV_Line_1248_GR a :TranslationVariant ;
     :text "δεν θα θεωρήσει σωστό να θρηνήσει φανερά,"^^xsd:string ;
     :relatedTo :Line_1248 .
 
-:TV_Line_1249_gr a :TranslationVariant ;
+:TV_Line_1249_GR a :TranslationVariant ;
     :text "αλλά μέσα στο σπίτι θα βάλει τις δούλες να πενθήσουν το οικογενειακό πένθος."^^xsd:string ;
     :relatedTo :Line_1249 .
 
-:TV_Line_1250_gr a :TranslationVariant ;
+:TV_Line_1250_GR a :TranslationVariant ;
     :text "Γιατί δεν της λείπει η φρόνηση, ώστε να ξεστρατίσει."^^xsd:string ;
     :relatedTo :Line_1250 .
 
-:TV_Line_1251_gr a :TranslationVariant ;
+:TV_Line_1251_GR a :TranslationVariant ;
     :text "Δεν ξέρω· όμως για μένα η υπερβολική σιωπή"^^xsd:string ;
     :relatedTo :Line_1251 .
 
-:TV_Line_1252_gr a :TranslationVariant ;
+:TV_Line_1252_GR a :TranslationVariant ;
     :text "δεν φαίνεται λιγότερο δυσοίωνη από το πολύ μάταιο κλάμα."^^xsd:string ;
     :relatedTo :Line_1252 .
 
-:TV_Line_1253_gr a :TranslationVariant ;
+:TV_Line_1253_GR a :TranslationVariant ;
     :text "Τότε θα μάθουμε αν κρύβει κάτι αδάμαστο"^^xsd:string ;
     :relatedTo :Line_1253 .
 
-:TV_Line_1254_gr a :TranslationVariant ;
+:TV_Line_1254_GR a :TranslationVariant ;
     :text "στην κρυφή της καρδιά, οργισμένη και συγκρατημένη,"^^xsd:string ;
     :relatedTo :Line_1254 .
 
-:TV_Line_1255_gr a :TranslationVariant ;
+:TV_Line_1255_GR a :TranslationVariant ;
     :text "καθώς πάμε προς το σπίτι· γιατί πράγματι λες σωστά:"^^xsd:string ;
     :relatedTo :Line_1255 .
 
-:TV_Line_1256_gr a :TranslationVariant ;
+:TV_Line_1256_GR a :TranslationVariant ;
     :text "υπάρχει βέβαια κίνδυνος και στην υπερβολική σιωπή."^^xsd:string ;
     :relatedTo :Line_1256 .
 
-:TV_Line_1257_gr a :TranslationVariant ;
+:TV_Line_1257_GR a :TranslationVariant ;
     :text "Και να, έρχεται ο ίδιος ο βασιλιάς,"^^xsd:string ;
     :relatedTo :Line_1257 .
 
-:TV_Line_1258_gr a :TranslationVariant ;
+:TV_Line_1258_GR a :TranslationVariant ;
     :text "κρατώντας στα χέρια του καθαρό σημάδι μνήμης,"^^xsd:string ;
     :relatedTo :Line_1258 .
 
-:TV_Line_1259_gr a :TranslationVariant ;
+:TV_Line_1259_GR a :TranslationVariant ;
     :text "αν επιτρέπεται να το πούμε, συμφορά όχι από ξένα χέρια"^^xsd:string ;
     :relatedTo :Line_1259 .
 
-:TV_Line_1260_gr a :TranslationVariant ;
+:TV_Line_1260_GR a :TranslationVariant ;
     :text "αλλά γεννημένη από το δικό του σφάλμα."^^xsd:string ;
     :relatedTo :Line_1260 .
 
-:TV_Line_1261_gr a :TranslationVariant ;
+:TV_Line_1261_GR a :TranslationVariant ;
     :text "Αχ, τα σφάλματα του στραβού νου,"^^xsd:string ;
     :relatedTo :Line_1261 .
 
-:TV_Line_1262_gr a :TranslationVariant ;
+:TV_Line_1262_GR a :TranslationVariant ;
     :text "σκληρά και θανατερά,"^^xsd:string ;
     :relatedTo :Line_1262 .
 
-:TV_Line_1263_gr a :TranslationVariant ;
+:TV_Line_1263_GR a :TranslationVariant ;
     :text "που βλέπουν φονιάδες και σκοτωμένους"^^xsd:string ;
     :relatedTo :Line_1263 .
 
-:TV_Line_1264_gr a :TranslationVariant ;
+:TV_Line_1264_GR a :TranslationVariant ;
     :text "μέσα στο ίδιο το αίμα τους!"^^xsd:string ;
     :relatedTo :Line_1264 .
 
-:TV_Line_1265_gr a :TranslationVariant ;
+:TV_Line_1265_GR a :TranslationVariant ;
     :text "Αλίμονο για τις κακότυχες βουλές μου."^^xsd:string ;
     :relatedTo :Line_1265 .
 
-:TV_Line_1266_gr a :TranslationVariant ;
+:TV_Line_1266_GR a :TranslationVariant ;
     :text "Παιδί μου, νέο μέσα σε νέα μοίρα,"^^xsd:string ;
     :relatedTo :Line_1266 .
 
-:TV_Line_1267_gr a :TranslationVariant ;
+:TV_Line_1267_GR a :TranslationVariant ;
     :text "αλίμονο, αλίμονο,"^^xsd:string ;
     :relatedTo :Line_1267 .
 
-:TV_Line_1268_gr a :TranslationVariant ;
+:TV_Line_1268_GR a :TranslationVariant ;
     :text "πέθανες, χάθηκες,"^^xsd:string ;
     :relatedTo :Line_1268 .
 
-:TV_Line_1269_gr a :TranslationVariant ;
+:TV_Line_1269_GR a :TranslationVariant ;
     :text "από τη δική μου ανοησία, όχι από τη δική σου."^^xsd:string ;
     :relatedTo :Line_1269 .
 
-:TV_Line_1270_gr a :TranslationVariant ;
+:TV_Line_1270_GR a :TranslationVariant ;
     :text "Αλίμονο, φαίνεται πως είδες το δίκιο πολύ αργά."^^xsd:string ;
     :relatedTo :Line_1270 .
 
-:TV_Line_1271_gr a :TranslationVariant ;
+:TV_Line_1271_GR a :TranslationVariant ;
     :text "Αλίμονο!"^^xsd:string ;
     :relatedTo :Line_1271 .
 
-:TV_Line_1272_gr a :TranslationVariant ;
+:TV_Line_1272_GR a :TranslationVariant ;
     :text "Το έμαθα, δύστυχος· τότε πάνω στο κεφάλι μου"^^xsd:string ;
     :relatedTo :Line_1272 .
 
-:TV_Line_1273_gr a :TranslationVariant ;
+:TV_Line_1273_GR a :TranslationVariant ;
     :text "ένας θεός έβαλε μεγάλο βάρος που συντρίβει,"^^xsd:string ;
     :relatedTo :Line_1273 .
 
-:TV_Line_1274_gr a :TranslationVariant ;
+:TV_Line_1274_GR a :TranslationVariant ;
     :text "και με χτύπησε, κλονίζοντάς με σε άγριους δρόμους,"^^xsd:string ;
     :relatedTo :Line_1274 .
 
-:TV_Line_1275_gr a :TranslationVariant ;
+:TV_Line_1275_GR a :TranslationVariant ;
     :text "αλίμονο, αναποδογυρίζοντας τη συντριμμένη μου χαρά."^^xsd:string ;
     :relatedTo :Line_1275 .
 
-:TV_Line_1276_gr a :TranslationVariant ;
+:TV_Line_1276_GR a :TranslationVariant ;
     :text "Αχ, αχ, οι βαριές οδύνες των θνητών, δύσκολες να βασταχτούν."^^xsd:string ;
     :relatedTo :Line_1276 .

@@ -4,123 +4,123 @@
 
 :hyporchema-translations-1115-1154-greek a owl:Ontology .
 
-:TV_Line_1115_gr a :TranslationVariant ;
+:TV_Line_1115_GR a :TranslationVariant ;
     :text "Ω πολύωνυμε, δόξα της Καδμείας νύφης,"^^xsd:string ;
     :relatedTo :Line_1115 .
 
-:TV_Line_1116_gr a :TranslationVariant ;
+:TV_Line_1116_GR a :TranslationVariant ;
     :text "και γόνε του Δία που βροντά δυνατά,"^^xsd:string ;
     :relatedTo :Line_1116 .
 
-:TV_Line_1117_gr a :TranslationVariant ;
+:TV_Line_1117_GR a :TranslationVariant ;
     :text "εσύ που φρουρείς την ξακουστή Ιταλία,"^^xsd:string ;
     :relatedTo :Line_1117 .
 
-:TV_Line_1118_gr a :TranslationVariant ;
+:TV_Line_1118_GR a :TranslationVariant ;
     :text "και κυβερνάς"^^xsd:string ;
     :relatedTo :Line_1118 .
 
-:TV_Line_1119_gr a :TranslationVariant ;
+:TV_Line_1119_GR a :TranslationVariant ;
     :text "στο κοινό σπλάχνο της Ελευσίνιας"^^xsd:string ;
     :relatedTo :Line_1119 .
 
-:TV_Line_1120_gr a :TranslationVariant ;
+:TV_Line_1120_GR a :TranslationVariant ;
     :text "Δηούς, Βάκχε, αρχηγέ των Βακχών,"^^xsd:string ;
     :relatedTo :Line_1120 .
 
-:TV_Line_1121_gr a :TranslationVariant ;
+:TV_Line_1121_GR a :TranslationVariant ;
     :text "εσύ που κατοικείς στη μητρική σου Θήβα"^^xsd:string ;
     :relatedTo :Line_1121 .
 
-:TV_Line_1122_gr a :TranslationVariant ;
+:TV_Line_1122_GR a :TranslationVariant ;
     :text "κοντά στα ρέοντα νερά"^^xsd:string ;
     :relatedTo :Line_1122 .
 
-:TV_Line_1125_gr a :TranslationVariant ;
+:TV_Line_1125_GR a :TranslationVariant ;
     :text "του Ισμηνού και πάνω στο σπαρμένο χωράφι του άγριου δράκου."^^xsd:string ;
     :relatedTo :Line_1125 .
 
-:TV_Line_1126_gr a :TranslationVariant ;
+:TV_Line_1126_GR a :TranslationVariant ;
     :text "Ο αστραφτερός καπνός σε είδε"^^xsd:string ;
     :relatedTo :Line_1126 .
 
-:TV_Line_1127_gr a :TranslationVariant ;
+:TV_Line_1127_GR a :TranslationVariant ;
     :text "πάνω από τον δίκορφο βράχο, όπου οι Κωρύκιες"^^xsd:string ;
     :relatedTo :Line_1127 .
 
-:TV_Line_1128_gr a :TranslationVariant ;
+:TV_Line_1128_GR a :TranslationVariant ;
     :text "Βάκχες, οι νύμφες, προχωρούν σε πομπή·"^^xsd:string ;
     :relatedTo :Line_1128 .
 
-:TV_Line_1130_gr a :TranslationVariant ;
+:TV_Line_1130_GR a :TranslationVariant ;
     :text "και η Κασταλία πηγή."^^xsd:string ;
     :relatedTo :Line_1130 .
 
-:TV_Line_1131_gr a :TranslationVariant ;
+:TV_Line_1131_GR a :TranslationVariant ;
     :text "Και εσένα στέλνουν οι κισσοσκέπαστες πλαγιές"^^xsd:string ;
     :relatedTo :Line_1131 .
 
-:TV_Line_1132_gr a :TranslationVariant ;
+:TV_Line_1132_GR a :TranslationVariant ;
     :text "των Νύσιων λόφων και η πράσινη ακτή"^^xsd:string ;
     :relatedTo :Line_1132 .
 
-:TV_Line_1133_gr a :TranslationVariant ;
+:TV_Line_1133_GR a :TranslationVariant ;
     :text "γεμάτη σταφύλια,"^^xsd:string ;
     :relatedTo :Line_1133 .
 
-:TV_Line_1134_gr a :TranslationVariant ;
+:TV_Line_1134_GR a :TranslationVariant ;
     :text "ενώ αθάνατες φωνές"^^xsd:string ;
     :relatedTo :Line_1134 .
 
-:TV_Line_1135_gr a :TranslationVariant ;
+:TV_Line_1135_GR a :TranslationVariant ;
     :text "κραυγάζουν με έκσταση καθώς φρουρούν τους δρόμους της Θήβας."^^xsd:string ;
     :relatedTo :Line_1135 .
 
-:TV_Line_1137_gr a :TranslationVariant ;
+:TV_Line_1137_GR a :TranslationVariant ;
     :text "Την τιμάς πάνω από όλες τις πόλεις,"^^xsd:string ;
     :relatedTo :Line_1137 .
 
-:TV_Line_1138_gr a :TranslationVariant ;
+:TV_Line_1138_GR a :TranslationVariant ;
     :text "μαζί με τη μητέρα σου που τη χτύπησε κεραυνός·"^^xsd:string ;
     :relatedTo :Line_1138 .
 
-:TV_Line_1140_gr a :TranslationVariant ;
+:TV_Line_1140_GR a :TranslationVariant ;
     :text "και τώρα, που όλος ο λαός της πόλης κρατιέται"^^xsd:string ;
     :relatedTo :Line_1140 .
 
-:TV_Line_1141_gr a :TranslationVariant ;
+:TV_Line_1141_GR a :TranslationVariant ;
     :text "από βίαιη αρρώστια,"^^xsd:string ;
     :relatedTo :Line_1141 .
 
-:TV_Line_1142_gr a :TranslationVariant ;
+:TV_Line_1142_GR a :TranslationVariant ;
     :text "έλα με καθαρτήριο πόδι από την πλαγιά του Παρνασσού"^^xsd:string ;
     :relatedTo :Line_1142 .
 
-:TV_Line_1145_gr a :TranslationVariant ;
+:TV_Line_1145_GR a :TranslationVariant ;
     :text "ή πάνω από τον στεναγμό του πορθμού."^^xsd:string ;
     :relatedTo :Line_1145 .
 
-:TV_Line_1146_gr a :TranslationVariant ;
+:TV_Line_1146_GR a :TranslationVariant ;
     :text "Ω αρχηγέ του χορού των πυρόπνοων άστρων,"^^xsd:string ;
     :relatedTo :Line_1146 .
 
-:TV_Line_1147_gr a :TranslationVariant ;
+:TV_Line_1147_GR a :TranslationVariant ;
     :text "φρουρέ των φωνών της νύχτας,"^^xsd:string ;
     :relatedTo :Line_1147 .
 
-:TV_Line_1148_gr a :TranslationVariant ;
+:TV_Line_1148_GR a :TranslationVariant ;
     :text "παιδί γεννημένο από τον Δία, φάνηθι,"^^xsd:string ;
     :relatedTo :Line_1148 .
 
-:TV_Line_1150_gr a :TranslationVariant ;
+:TV_Line_1150_GR a :TranslationVariant ;
     :text "κύριέ μου, μαζί με τη συνοδεία σου"^^xsd:string ;
     :relatedTo :Line_1150 .
 
-:TV_Line_1151_gr a :TranslationVariant ;
+:TV_Line_1151_GR a :TranslationVariant ;
     :text "των Θυιάδων, που μέσα στη μανία τους"^^xsd:string ;
     :relatedTo :Line_1151 .
 
-:TV_Line_1152_gr a :TranslationVariant ;
+:TV_Line_1152_GR a :TranslationVariant ;
     :text "χορεύουν όλη τη νύχτα για σένα, τον Ίακχο, τον χορηγό τους."^^xsd:string ;
     :relatedTo :Line_1152 .
 

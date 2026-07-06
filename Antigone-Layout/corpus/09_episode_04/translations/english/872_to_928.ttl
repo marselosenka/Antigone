@@ -5,232 +5,232 @@
 :episode_04-translations-872-928-english a owl:Ontology .
 # English translation variants extracted from 872_to_928.ttl
 
-:TV_Line_872_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_872_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "To show reverence is indeed a kind of piety,"^^xsd:string ;
     :relatedTo :Line_872 .
 
-:TV_Line_873_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_873_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "but authority, for whoever holds authority,"^^xsd:string ;
     :relatedTo :Line_873 .
 #Added
-:TV_Line_874_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_874_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "can in no way be transgressed."^^xsd:string ;
     :relatedTo :Line_874 .
 
-:TV_Line_875_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_875_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "and your self-willed anger has destroyed you."^^xsd:string ;
     :relatedTo :Line_875 .
 
-:TV_Line_876_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_876_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Unwept, unloved, unwed, miserable, I am led"^^xsd:string ;
     :relatedTo :Line_876 .
 
-:TV_Line_877_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_877_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "down this final path. No more may I"^^xsd:string ;
     :relatedTo :Line_877 .
 
-:TV_Line_878_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_878_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "see the sacred eye of the flaming sun,"^^xsd:string ;
     :relatedTo :Line_878 .
 
 # Line 879 does not exist in structure.ttl
-# :TV_Line_879_en a owl:NamedIndividual, :TranslationVariant ;
+# :TV_Line_879_EN a owl:NamedIndividual, :TranslationVariant ;
 #     :text "No more can I, unhappy girl,"^^xsd:string ;
 #     :relatedTo :Line_879 .
 
-:TV_Line_880_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_880_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "no longer is it permitted for me, unhappy girl, to behold it."^^xsd:string ;
     :relatedTo :Line_880 .
 
-:TV_Line_881_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_881_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "No tears are shed for my fate,"^^xsd:string ;
     :relatedTo :Line_881 .
 
-:TV_Line_882_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_882_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "and no friend moans in grief."^^xsd:string ;
     :relatedTo :Line_882 .
 
-:TV_Line_883_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_883_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Do you know that songs and laments before death"^^xsd:string ;
     :relatedTo :Line_883 .
 
-:TV_Line_884_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_884_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "would never cease, if speaking them were useful?"^^xsd:string ;
     :relatedTo :Line_884 .
 
-:TV_Line_885_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_885_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Will you not bring her as quickly as possible, and in a roofed"^^xsd:string ;
     :relatedTo :Line_885 .
 
-:TV_Line_886_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_886_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "tomb enclose her, as I have ordered,"^^xsd:string ;
     :relatedTo :Line_886 .
 
-:TV_Line_887_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_887_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "and leave her alone and deserted, whether she must die"^^xsd:string ;
     :relatedTo :Line_887 .
 
-:TV_Line_888_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_888_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "or live entombed in such a dwelling."^^xsd:string ;
     :relatedTo :Line_888 .
 
-:TV_Line_889_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_889_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Our hands are clean as far as this girl is concerned."^^xsd:string ;
     :relatedTo :Line_889 .
 
-:TV_Line_890_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_890_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "but she will be deprived of her dwelling-place above."^^xsd:string ;
     :relatedTo :Line_890 .
 
-:TV_Line_891_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_891_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "O tomb, o bridal chamber, o deep-dug"^^xsd:string ;
     :relatedTo :Line_891 .
 
-:TV_Line_892_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_892_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Everlasting home, the place I go"^^xsd:string ;
     :relatedTo :Line_892 .
 
-:TV_Line_893_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_893_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "to my own people, of whom Persephone has received"^^xsd:string ;
     :relatedTo :Line_893 .
 
-:TV_Line_894_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_894_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Persephone has welcomed among the dead;"^^xsd:string ;
     :relatedTo :Line_894 .
 
-:TV_Line_895_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_895_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Last of them all, and by far most miserably,"^^xsd:string ;
     :relatedTo :Line_895 .
 
-:TV_Line_896_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_896_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I go down before my portion of life has reached its end."^^xsd:string ;
     :relatedTo :Line_896 .
 
-:TV_Line_897_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_897_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But when I go, I cherish the thought"^^xsd:string ;
     :relatedTo :Line_897 .
 
-:TV_Line_898_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_898_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "That I will go dear to my father, and dear to you,"^^xsd:string ;
     :relatedTo :Line_898 .
 
-:TV_Line_899_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_899_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "mother, and dear to you, my brother’s beloved head."^^xsd:string ;
     :relatedTo :Line_899 .
 
-:TV_Line_900_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_900_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Since when each of you died I washed you"^^xsd:string ;
     :relatedTo :Line_900 .
 
-:TV_Line_901_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_901_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "With my own hands, and adorned you, and poured out"^^xsd:string ;
     :relatedTo :Line_901 .
 
-:TV_Line_902_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_902_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Funeral libations—and now, Polyneices,"^^xsd:string ;
     :relatedTo :Line_902 .
 
-:TV_Line_903_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_903_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "This is my reward for burying you!"^^xsd:string ;
     :relatedTo :Line_903 .
 
-:TV_Line_904_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_904_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And yet, in the eyes of the wise, I honored you well."^^xsd:string ;
     :relatedTo :Line_904 .
 
-:TV_Line_905_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_905_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "If I were a mother of children,"^^xsd:string ;
     :relatedTo :Line_905 .
 
-:TV_Line_906_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_906_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Or if my husband rotted away dead,"^^xsd:string ;
     :relatedTo :Line_906 .
 
-:TV_Line_907_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_907_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "would I have taken on this burden in defiance of the citizens."^^xsd:string ;
     :relatedTo :Line_907 .
 
-:TV_Line_908_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_908_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But what law am I saying all this for?"^^xsd:string ;
     :relatedTo :Line_908 .
 
-:TV_Line_909_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_909_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "If my husband had died, I could’ve found another,"^^xsd:string ;
     :relatedTo :Line_909 .
 
-:TV_Line_910_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_910_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "and a child from another man, if I had lost this one;"^^xsd:string ;
     :relatedTo :Line_910 .
 
-:TV_Line_911_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_911_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "but with my mother and father hidden in Hades,"^^xsd:string ;
     :relatedTo :Line_911 .
 
-:TV_Line_912_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_912_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I can never have a new brother."^^xsd:string ;
     :relatedTo :Line_912 .
 
-:TV_Line_913_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_913_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "For such a law I honored you above all others,"^^xsd:string ;
     :relatedTo :Line_913 .
 
-:TV_Line_914_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_914_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But to Creon I seemed to act wrongfully"^^xsd:string ;
     :relatedTo :Line_914 .
 
-:TV_Line_915_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_915_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And to be terribly reckless, dear brother!"^^xsd:string ;
     :relatedTo :Line_915 .
 
-:TV_Line_916_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_916_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And now he leads me thus by the hands,"^^xsd:string ;
     :relatedTo :Line_916 .
 
-:TV_Line_917_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_917_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "without a marriage bed, without a bridal song, receiving no share"^^xsd:string ;
     :relatedTo :Line_917 .
 
-:TV_Line_918_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_918_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "of marriage or of the nurture of children,"^^xsd:string ;
     :relatedTo :Line_918 .
 
-:TV_Line_919_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_919_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But in this way, deserted by loved ones, ill-fated,"^^xsd:string ;
     :relatedTo :Line_919 .
 
-:TV_Line_920_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_920_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I come living to the graves of the dead."^^xsd:string ;
     :relatedTo :Line_920 .
 
-:TV_Line_921_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_921_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "What holy law did I violate?"^^xsd:string ;
     :relatedTo :Line_921 .
 
-:TV_Line_922_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_922_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Why must I, unhappy girl, still look to the gods?"^^xsd:string ;
     :relatedTo :Line_922 .
 
-:TV_Line_923_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_923_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Whom among allies should I call upon? Since, indeed,"^^xsd:string ;
     :relatedTo :Line_923 .
 
-:TV_Line_924_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_924_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "by acting piously, I have gained the charge of impiety."^^xsd:string ;
     :relatedTo :Line_924 .
 
-:TV_Line_925_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_925_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "But if these things please the gods,"^^xsd:string ;
     :relatedTo :Line_925 .
 
 #Added
-:TV_Line_926_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_926_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "after suffering, I would acknowledge that I have done wrong;"^^xsd:string ;
     :relatedTo :Line_926 .
 
-:TV_Line_927_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_927_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "but if these people are the ones who do wrong, may they suffer no more evil"^^xsd:string ;
     :relatedTo :Line_927 .
 
-:TV_Line_928_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_928_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "than what they unjustly inflict on me."^^xsd:string ;
     :relatedTo :Line_928 .

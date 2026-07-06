@@ -4,58 +4,58 @@
 
 :stasimon_01-translations-366-383-greek a owl:Ontology .
 
-:TV_Line_366_gr a :TranslationVariant ;
+:TV_Line_366_GR a :TranslationVariant ;
     :text "Άλλοτε προς το κακό, άλλοτε προς το καλό πορεύεται,"^^xsd:string ;
     :relatedTo :Line_366 .
 
-:TV_Line_367_gr a :TranslationVariant ;
+:TV_Line_367_GR a :TranslationVariant ;
     :text "τιμώντας τους νόμους της γης και τη θεώνυμη δικαιοσύνη των θεών,"^^xsd:string ;
     :relatedTo :Line_367 .
 
-#:TV_Line_368_gr a :TranslationVariant ;
+#:TV_Line_368_GR a :TranslationVariant ;
 #    :text "μα αυτό εδώ· πώς, ενώ το γνωρίζω, να αντιμιλήσω;"^^xsd:string ;
 #    :relatedTo :Line_368 .
 
-:TV_Line_370_gr a :TranslationVariant ;
+:TV_Line_370_GR a :TranslationVariant ;
     :text "υψίπολις είναι· άπολις εκείνος που με το μη καλό"^^xsd:string ;
     :relatedTo :Line_370 .
 
-:TV_Line_371_gr a :TranslationVariant ;
+:TV_Line_371_GR a :TranslationVariant ;
     :text "συνδέεται, χάρη στην τόλμη του· ούτε σε μένα σύντροφος της εστίας"^^xsd:string ;
     :relatedTo :Line_371 .
 
-:TV_Line_375_gr a :TranslationVariant ;
+:TV_Line_375_GR a :TranslationVariant ;
     :text "να γίνει, ούτε ίσος στο φρόνημα, όποιος αυτά πράττει."^^xsd:string ;
     :relatedTo :Line_375 .
 
-:TV_Line_376_gr a :TranslationVariant ;
+:TV_Line_376_GR a :TranslationVariant ;
     :text "Μπροστά σε δαιμόνιο τέρας ταλαντεύομαι,"^^xsd:string ;
     :relatedTo :Line_376 .
 
-:TV_Line_377_gr a :TranslationVariant ;
+:TV_Line_377_GR a :TranslationVariant ;
     :text "αυτό εδώ· πώς, ενώ το ξέρω, να το αρνηθώ;"^^xsd:string ;
     :relatedTo :Line_377 .
 
-:TV_Line_378_gr a :TranslationVariant ;
+:TV_Line_378_GR a :TranslationVariant ;
     :text "Πώς να πω πως αυτή δεν είναι η κόρη, η Αντιγόνη;"^^xsd:string ;
     :relatedTo :Line_378 .
 
-:TV_Line_379_gr a :TranslationVariant ;
+:TV_Line_379_GR a :TranslationVariant ;
     :text "Ω δύστυχη,"^^xsd:string ;
     :relatedTo :Line_379 .
 
-:TV_Line_380_gr a :TranslationVariant ;
+:TV_Line_380_GR a :TranslationVariant ;
     :text "κόρη δύστυχου πατέρα, του Οιδίποδα,"^^xsd:string ;
     :relatedTo :Line_380 .
 
-:TV_Line_381_gr a :TranslationVariant ;
+:TV_Line_381_GR a :TranslationVariant ;
     :text "τι ποτέ; δεν είσαι εσύ βέβαια ανυπάκουη"^^xsd:string ;
     :relatedTo :Line_381 .
 
-:TV_Line_382_gr a :TranslationVariant ;
+:TV_Line_382_GR a :TranslationVariant ;
     :text "να σε οδηγούν επειδή δεν πείστηκες στους βασιλικούς νόμους"^^xsd:string ;
     :relatedTo :Line_382 .
 
-:TV_Line_383_gr a :TranslationVariant ;
+:TV_Line_383_GR a :TranslationVariant ;
     :text "και επειδή σε κατέλαβαν μέσα σε αφροσύνη;"^^xsd:string ;
     :relatedTo :Line_383 .

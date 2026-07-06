@@ -4,74 +4,74 @@
 
 :episode_01-translations-193-210-greek a owl:Ontology .
 
-:TV_Line_193_gr a :TranslationVariant ;
+:TV_Line_193_GR a :TranslationVariant ;
     :text "Προς τους πολίτες, για τους γιους του Οιδίποδα:"^^xsd:string ;
     :relatedTo :Line_193 .
 
-:TV_Line_194_gr a :TranslationVariant ;
+:TV_Line_194_GR a :TranslationVariant ;
     :text "Τον Ετεοκλή, που πολεμώντας για την πόλη"^^xsd:string ;
     :relatedTo :Line_194 .
 
-:TV_Line_195_gr a :TranslationVariant ;
+:TV_Line_195_GR a :TranslationVariant ;
     :text "χάθηκε, έχοντας αριστεύσει με το δόρυ πάνω απ’ όλους,"^^xsd:string ;
     :relatedTo :Line_195 .
 
-:TV_Line_196_gr a :TranslationVariant ;
+:TV_Line_196_GR a :TranslationVariant ;
     :text "να τον κρύψουμε σε τάφο και να τελέσουμε όλες"^^xsd:string ;
     :relatedTo :Line_196 .
 
-:TV_Line_197_gr a :TranslationVariant ;
+:TV_Line_197_GR a :TranslationVariant ;
     :text "τις καθιερωμένες τιμές που πάνε στους άριστους νεκρούς."^^xsd:string ;
     :relatedTo :Line_197 .
 
-:TV_Line_198_gr a :TranslationVariant ;
+:TV_Line_198_GR a :TranslationVariant ;
     :text "Τον αδελφό του, τον ομόαιμο, τον Πολυνείκη λέω,"^^xsd:string ;
     :relatedTo :Line_198 .
 
-:TV_Line_199_gr a :TranslationVariant ;
+:TV_Line_199_GR a :TranslationVariant ;
     :text "που, εξόριστος, επέστρεψε θέλοντας τη γη των πατέρων"^^xsd:string ;
     :relatedTo :Line_199 .
 
-:TV_Line_200_gr a :TranslationVariant ;
+:TV_Line_200_GR a :TranslationVariant ;
     :text "και τους θεούς του γένους του"^^xsd:string ;
     :relatedTo :Line_200 .
 
-:TV_Line_201_gr a :TranslationVariant ;
+:TV_Line_201_GR a :TranslationVariant ;
     :text "να τους κατακάψει ολοκληρωτικά με φωτιά,"^^xsd:string ;
     :relatedTo :Line_201 .
 
-:TV_Line_202_gr a :TranslationVariant ;
+:TV_Line_202_GR a :TranslationVariant ;
     :text "να πιει το κοινό αίμα των συγγενών και τους άλλους να τους σύρει σκλάβους,"^^xsd:string ;
     :relatedTo :Line_202 .
 
-:TV_Line_203_gr a :TranslationVariant ;
+:TV_Line_203_GR a :TranslationVariant ;
     :text "γι’ αυτόν έχει κηρυχθεί στην πόλη"^^xsd:string ;
     :relatedTo :Line_203 .
 
-:TV_Line_204_gr a :TranslationVariant ;
+:TV_Line_204_GR a :TranslationVariant ;
     :text "να μη τον θάψει κανείς ούτε να τον θρηνήσει."^^xsd:string ;
     :relatedTo :Line_204 .
 
-:TV_Line_205_gr a :TranslationVariant ;
+:TV_Line_205_GR a :TranslationVariant ;
     :text "Να μείνει άταφος, έκθετος στο βλέμμα όλων,"^^xsd:string ;
     :relatedTo :Line_205 .
 
-:TV_Line_206_gr a :TranslationVariant ;
+:TV_Line_206_GR a :TranslationVariant ;
     :text "κομματιασμένος, βορά για όρνια και σκυλιά."^^xsd:string ;
     :relatedTo :Line_206 .
 
-:TV_Line_207_gr a :TranslationVariant ;
+:TV_Line_207_GR a :TranslationVariant ;
     :text "Τέτοιο είναι το φρόνημά μου· και ποτέ από μένα"^^xsd:string ;
     :relatedTo :Line_207 .
 
-:TV_Line_208_gr a :TranslationVariant ;
+:TV_Line_208_GR a :TranslationVariant ;
     :text "οι κακοί δεν θα πάρουν τιμή πάνω από τους δίκαιους."^^xsd:string ;
     :relatedTo :Line_208 .
 
-:TV_Line_209_gr a :TranslationVariant ;
+:TV_Line_209_GR a :TranslationVariant ;
     :text "Όποιος όμως είναι ευνοϊκός προς αυτή την πόλη,"^^xsd:string ;
     :relatedTo :Line_209 .
 
-:TV_Line_210_gr a :TranslationVariant ;
+:TV_Line_210_GR a :TranslationVariant ;
     :text "και πεθαμένος και ζωντανός, από μένα θα τιμηθεί το ίδιο."^^xsd:string ;
     :relatedTo :Line_210 .

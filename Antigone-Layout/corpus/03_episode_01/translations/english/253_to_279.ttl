@@ -6,83 +6,83 @@
 :episode_01-translations-253-279-english a owl:Ontology .
 # English translation variants extracted from 253_to_279.ttl
 
-:TV_Line_253_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_253 ;
+:TV_Line_253_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_253 ;
   :text "Now when the first watchman showed it to us,"^^xsd:string .
 
-:TV_Line_254_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_254 ;
+:TV_Line_254_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_254 ;
   :text "the sight was a grievous wonder to us all."^^xsd:string .
 
-:TV_Line_255_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_255 ;
+:TV_Line_255_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_255 ;
   :text "For the cold clay was hid from us nor was it in any sepulchre,"^^xsd:string .
 
-:TV_Line_256_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_256 ;
+:TV_Line_256_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_256 ;
   :text "But the dust was upon him, done like one reckless of law,"^^xsd:string .
 
-:TV_Line_257_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_257 ;
+:TV_Line_257_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_257 ;
   :text "Neither seemed it the beasts of the earth nor the dogs"^^xsd:string .
 
-:TV_Line_258_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_258 ;
+:TV_Line_258_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_258 ;
   :text "Nor any other creature did come essaying to rend his flesh."^^xsd:string .
 
-:TV_Line_259_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_259 ;
+:TV_Line_259_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_259 ;
   :text "Yea, I tell you, all did cast their suspicions straightway"^^xsd:string .
 
-:TV_Line_260_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_260 ;
+:TV_Line_260_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_260 ;
   :text "And all did accuse each other and everything—"^^xsd:string .
 
-:TV_Line_261_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_261 ;
+:TV_Line_261_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_261 ;
   :text "They were poised to fight, indeed, none did restrain them."^^xsd:string .
 
-:TV_Line_262_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_262 ;
+:TV_Line_262_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_262 ;
   :text "For, looked they all guilty, but none were imprisoned,"^^xsd:string .
 
-:TV_Line_263_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_263 ;
+:TV_Line_263_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_263 ;
   :text "And all spake that they wot not the doer of the deed."^^xsd:string .
 
-:TV_Line_264_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_264 ;
+:TV_Line_264_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_264 ;
   :text "Indeed, we were readied to endure ordeal by iron hot"^^xsd:string .
 
-:TV_Line_265_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_265 ;
+:TV_Line_265_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_265 ;
   :text "And through the flame to walk"^^xsd:string .
 
-:TV_Line_266_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_266 ;
+:TV_Line_266_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_266 ;
   :text "And swear upon the Holy Gods—"^^xsd:string .
 
-:TV_Line_267_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_267 ;
+:TV_Line_267_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_267 ;
   :text "Yet we did it not, nor wit we anybody"^^xsd:string .
 
-:TV_Line_268_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_268 ;
+:TV_Line_268_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_268 ;
   :text "Laying designs nor plotting nought."^^xsd:string .
 
-:TV_Line_269_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_269 ;
+:TV_Line_269_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_269 ;
   :text "At length, when inquiries seemed of no avail,"^^xsd:string .
 
-:TV_Line_270_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_270 ;
+:TV_Line_270_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_270 ;
   :text "bow our heads in fear; for we had no way"^^xsd:string .
 
-:TV_Line_271_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_271 ;
+:TV_Line_271_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_271 ;
   :text "either to speak against it or to see how by acting we could do well."^^xsd:string .
 
-:TV_Line_272_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_272 ;
+:TV_Line_272_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_272 ;
   :text "And the proposal was that this deed must be reported"^^xsd:string .
 
-:TV_Line_273_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_273 ;
+:TV_Line_273_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_273 ;
   :text "to you, and not kept hidden."^^xsd:string .
 
-:TV_Line_274_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_274 ;
+:TV_Line_274_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_274 ;
   :text "And this opinion prevailed, and me, the unlucky man,"^^xsd:string .
 
-:TV_Line_275_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_275 ;
+:TV_Line_275_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_275 ;
   :text "the lot appointed to win this prize."^^xsd:string .
 
-:TV_Line_276_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_276 ;
+:TV_Line_276_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_276 ;
   :text "Lo, here am I: I would fain be not."^^xsd:string .
 
-:TV_Line_277_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_277 ;
+:TV_Line_277_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_277 ;
   :text "None would wish to be bearer of ill tidings."^^xsd:string .
 
-:TV_Line_278_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_278 ;
+:TV_Line_278_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_278 ;
   :text "CHORUS. Lord, deep in my mind I wonder again"^^xsd:string .
 
-:TV_Line_279_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_279 ;
+:TV_Line_279_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_279 ;
   :text "if this isn’t something sent from the gods."^^xsd:string .

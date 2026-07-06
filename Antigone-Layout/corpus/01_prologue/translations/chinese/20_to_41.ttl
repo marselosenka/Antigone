@@ -4,91 +4,91 @@
 
 :prologue-translations-20-41-chinese a owl:Ontology .
 
-:TV_Line_020_zh a :TranslationVariant ;
+:TV_Line_020_ZH a :TranslationVariant ;
     :text "什么事？你像是在酝酿某个沉重的话。"^^xsd:string ;
     :relatedTo :Line_020 .
 
-:TV_Line_021_zh a :TranslationVariant ;
+:TV_Line_021_ZH a :TranslationVariant ;
     :text "克瑞翁不是对我们这两个兄弟"^^xsd:string ;
     :relatedTo :Line_021 .
 
-:TV_Line_022_zh a :TranslationVariant ;
+:TV_Line_022_ZH a :TranslationVariant ;
     :text "一个尊崇，一个羞辱，不许同葬吗？"^^xsd:string ;
     :relatedTo :Line_022 .
 
-:TV_Line_023_zh a :TranslationVariant ;
+:TV_Line_023_ZH a :TranslationVariant ;
     :text "他们说，厄忒俄克勒斯按正当的法与礼"^^xsd:string ;
     :relatedTo :Line_023 .
 
-:TV_Line_024_zh a :TranslationVariant ;
+:TV_Line_024_ZH a :TranslationVariant ;
     :text "依照正义与城邦法，"^^xsd:string ;
     :relatedTo :Line_024 .
 
-:TV_Line_025_zh a :TranslationVariant ;
+:TV_Line_025_ZH a :TranslationVariant ;
     :text "已被埋于地下，作为地下亡者中受尊敬的一员；"^^xsd:string ;
     :relatedTo :Line_025 .
 
-:TV_Line_026_zh a :TranslationVariant ;
+:TV_Line_026_ZH a :TranslationVariant ;
     :text "而不幸死去的波吕涅刻斯尸身"^^xsd:string ;
     :relatedTo :Line_026 .
 
-:TV_Line_027_zh a :TranslationVariant ;
+:TV_Line_027_ZH a :TranslationVariant ;
     :text "据说已向市民明令禁止"^^xsd:string ;
     :relatedTo :Line_027 .
 
-:TV_Line_028_zh a :TranslationVariant ;
+:TV_Line_028_ZH a :TranslationVariant ;
     :text "不许用坟土覆盖，也不许任何人为他哀哭，"^^xsd:string ;
     :relatedTo :Line_028 .
 
-:TV_Line_029_zh a :TranslationVariant ;
+:TV_Line_029_ZH a :TranslationVariant ;
     :text "让他无哭、无葬，成为飞鸟"^^xsd:string ;
     :relatedTo :Line_029 .
 
-:TV_Line_030_zh a :TranslationVariant ;
+:TV_Line_030_ZH a :TranslationVariant ;
     :text "眼前可口的食粮。"^^xsd:string ;
     :relatedTo :Line_030 .
 
-:TV_Line_031_zh a :TranslationVariant ;
+:TV_Line_031_ZH a :TranslationVariant ;
     :text "他们说这就是“善良的”克瑞翁"^^xsd:string ;
     :relatedTo :Line_031 .
 
-:TV_Line_032_zh a :TranslationVariant ;
+:TV_Line_032_ZH a :TranslationVariant ;
     :text "对你和我——我也算在内——所颁的命令，"^^xsd:string ;
     :relatedTo :Line_032 .
 
-:TV_Line_033_zh a :TranslationVariant ;
+:TV_Line_033_ZH a :TranslationVariant ;
     :text "并且他还要来到这里，对不知情的人"^^xsd:string ;
     :relatedTo :Line_033 .
 
-:TV_Line_034_zh a :TranslationVariant ;
+:TV_Line_034_ZH a :TranslationVariant ;
     :text "公开宣布此令，把这事"^^xsd:string ;
     :relatedTo :Line_034 .
 
-:TV_Line_035_zh a :TranslationVariant ;
+:TV_Line_035_ZH a :TranslationVariant ;
     :text "看得绝非小事：若谁敢做其中任何一条，"^^xsd:string ;
     :relatedTo :Line_035 .
 
-:TV_Line_036_zh a :TranslationVariant ;
+:TV_Line_036_ZH a :TranslationVariant ;
     :text "城中将以石击死。"^^xsd:string ;
     :relatedTo :Line_036 .
 
-:TV_Line_037_zh a :TranslationVariant ;
+:TV_Line_037_ZH a :TranslationVariant ;
     :text "事情就是这样；你很快就会表明"^^xsd:string ;
     :relatedTo :Line_037 .
 
-:TV_Line_038_zh a :TranslationVariant ;
+:TV_Line_038_ZH a :TranslationVariant ;
     :text "你是生来高贵，还是让高贵蒙羞。"^^xsd:string ;
     :relatedTo :Line_038 .
 
-:TV_Line_039_zh a :TranslationVariant ;
+:TV_Line_039_ZH a :TranslationVariant ;
     :text "可怜的人啊，既然如此，"^^xsd:string ;
     :relatedTo :Line_039 .
 
-:TV_Line_040_zh a :TranslationVariant ;
+:TV_Line_040_ZH a :TranslationVariant ;
     :text "我去解开或系上，还能多做什么？"^^xsd:string ;
     :relatedTo :Line_040 .
 
-:TV_Line_041_zh a :TranslationVariant ;
+:TV_Line_041_ZH a :TranslationVariant ;
     :text "你要不要与我同受劳苦，同做此事，想清楚。"^^xsd:string ;
     :relatedTo :Line_041 .
 

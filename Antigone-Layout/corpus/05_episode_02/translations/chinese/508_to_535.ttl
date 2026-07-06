@@ -4,59 +4,59 @@
 
 :episode_02-translations-508-535-chinese a owl:Ontology .
 
-:TV_Line_508_zh a :TranslationVariant ; :relatedTo :Line_508 ;
+:TV_Line_508_ZH a :TranslationVariant ; :relatedTo :Line_508 ;
   :text "在所有卡德摩斯后裔中，只有你这样看。"^^xsd:string .
-:TV_Line_509_zh a :TranslationVariant ; :relatedTo :Line_509 ;
+:TV_Line_509_ZH a :TranslationVariant ; :relatedTo :Line_509 ;
   :text "他们也这样看，只是在你面前闭口不言。"^^xsd:string .
-:TV_Line_510_zh a :TranslationVariant ; :relatedTo :Line_510 ;
+:TV_Line_510_ZH a :TranslationVariant ; :relatedTo :Line_510 ;
   :text "你不为自己与他们想法不同而羞愧吗？"^^xsd:string .
-:TV_Line_511_zh a :TranslationVariant ; :relatedTo :Line_511 ;
+:TV_Line_511_ZH a :TranslationVariant ; :relatedTo :Line_511 ;
   :text "敬重同血亲的人，根本不算羞耻。"^^xsd:string .
-:TV_Line_512_zh a :TranslationVariant ; :relatedTo :Line_512 ;
+:TV_Line_512_ZH a :TranslationVariant ; :relatedTo :Line_512 ;
   :text "那个与他对阵而死的人，不也是同血亲吗？"^^xsd:string .
-:TV_Line_513_zh a :TranslationVariant ; :relatedTo :Line_513 ;
+:TV_Line_513_ZH a :TranslationVariant ; :relatedTo :Line_513 ;
   :text "是同血亲，同父同母。"^^xsd:string .
-:TV_Line_514_zh a :TranslationVariant ; :relatedTo :Line_514 ;
+:TV_Line_514_ZH a :TranslationVariant ; :relatedTo :Line_514 ;
   :text "那你为何给他这样的敬礼，这对那位却是不敬？"^^xsd:string .
-:TV_Line_515_zh a :TranslationVariant ; :relatedTo :Line_515 ;
+:TV_Line_515_ZH a :TranslationVariant ; :relatedTo :Line_515 ;
   :text "那位死者不会赞同你这话。"^^xsd:string .
-:TV_Line_516_zh a :TranslationVariant ; :relatedTo :Line_516 ;
+:TV_Line_516_ZH a :TranslationVariant ; :relatedTo :Line_516 ;
   :text "若你把他与不敬神者同等尊崇。"^^xsd:string .
-:TV_Line_517_zh a :TranslationVariant ; :relatedTo :Line_517 ;
+:TV_Line_517_ZH a :TranslationVariant ; :relatedTo :Line_517 ;
   :text "他死时不是奴隶，而是兄弟。"^^xsd:string .
-:TV_Line_518_zh a :TranslationVariant ; :relatedTo :Line_518 ;
+:TV_Line_518_ZH a :TranslationVariant ; :relatedTo :Line_518 ;
   :text "可一个在蹂躏这片土地，另一个在保卫它。"^^xsd:string .
-:TV_Line_519_zh a :TranslationVariant ; :relatedTo :Line_519 ;
+:TV_Line_519_ZH a :TranslationVariant ; :relatedTo :Line_519 ;
   :text "但哈得斯要求人人遵同一法则。"^^xsd:string .
-:TV_Line_520_zh a :TranslationVariant ; :relatedTo :Line_520 ;
+:TV_Line_520_ZH a :TranslationVariant ; :relatedTo :Line_520 ;
   :text "善者不该与恶者分得同样命运。"^^xsd:string .
-:TV_Line_521_zh a :TranslationVariant ; :relatedTo :Line_521 ;
+:TV_Line_521_ZH a :TranslationVariant ; :relatedTo :Line_521 ;
   :text "谁知道这在地下是否算作虔敬？"^^xsd:string .
-:TV_Line_522_zh a :TranslationVariant ; :relatedTo :Line_522 ;
+:TV_Line_522_ZH a :TranslationVariant ; :relatedTo :Line_522 ;
   :text "敌人即便死后，也不会变成朋友。"^^xsd:string .
-:TV_Line_523_zh a :TranslationVariant ; :relatedTo :Line_523 ;
+:TV_Line_523_ZH a :TranslationVariant ; :relatedTo :Line_523 ;
   :text "我生来不是要分享仇恨，而是要分享爱。"^^xsd:string .
-:TV_Line_524_zh a :TranslationVariant ; :relatedTo :Line_524 ;
+:TV_Line_524_ZH a :TranslationVariant ; :relatedTo :Line_524 ;
   :text "那你就下去吧；若你非爱不可，就去爱地下那些人。"^^xsd:string .
-:TV_Line_525_zh a :TranslationVariant ; :relatedTo :Line_525 ;
+:TV_Line_525_ZH a :TranslationVariant ; :relatedTo :Line_525 ;
   :text "只要我还活着，女人就别想支配我。"^^xsd:string .
-:TV_Line_526_zh a :TranslationVariant ; :relatedTo :Line_526 ;
+:TV_Line_526_ZH a :TranslationVariant ; :relatedTo :Line_526 ;
   :text "可看，伊斯墨涅正在城门前。"^^xsd:string .
-:TV_Line_527_zh a :TranslationVariant ; :relatedTo :Line_527 ;
+:TV_Line_527_ZH a :TranslationVariant ; :relatedTo :Line_527 ;
   :text "她因姐妹之爱，为姐姐流泪。"^^xsd:string .
-:TV_Line_528_zh a :TranslationVariant ; :relatedTo :Line_528 ;
+:TV_Line_528_ZH a :TranslationVariant ; :relatedTo :Line_528 ;
   :text "她眉上有一片阴云，"^^xsd:string .
-:TV_Line_529_zh a :TranslationVariant ; :relatedTo :Line_529 ;
+:TV_Line_529_ZH a :TranslationVariant ; :relatedTo :Line_529 ;
   :text "带着血色，"^^xsd:string .
-:TV_Line_530_zh a :TranslationVariant ; :relatedTo :Line_530 ;
+:TV_Line_530_ZH a :TranslationVariant ; :relatedTo :Line_530 ;
   :text "把她的面容染污。"^^xsd:string .
-:TV_Line_531_zh a :TranslationVariant ; :relatedTo :Line_531 ;
+:TV_Line_531_ZH a :TranslationVariant ; :relatedTo :Line_531 ;
   :text "而你在屋里，像暗藏的毒蛇，"^^xsd:string .
-:TV_Line_532_zh a :TranslationVariant ; :relatedTo :Line_532 ;
+:TV_Line_532_ZH a :TranslationVariant ; :relatedTo :Line_532 ;
   :text "暗中吸噬我，我却并未察觉，"^^xsd:string .
-:TV_Line_533_zh a :TranslationVariant ; :relatedTo :Line_533 ;
+:TV_Line_533_ZH a :TranslationVariant ; :relatedTo :Line_533 ;
   :text "竟养着两重祸患、王位的颠覆者。"^^xsd:string .
-:TV_Line_534_zh a :TranslationVariant ; :relatedTo :Line_534 ;
+:TV_Line_534_ZH a :TranslationVariant ; :relatedTo :Line_534 ;
   :text "来，现在告诉我：这次埋葬，"^^xsd:string .
-:TV_Line_535_zh a :TranslationVariant ; :relatedTo :Line_535 ;
+:TV_Line_535_ZH a :TranslationVariant ; :relatedTo :Line_535 ;
   :text "你也要说自己有份，还是发誓你并不知情？"^^xsd:string .

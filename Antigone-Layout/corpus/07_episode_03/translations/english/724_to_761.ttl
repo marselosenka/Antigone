@@ -5,154 +5,154 @@
 :episode_03-translations-724-761-english a owl:Ontology .
 # English translation variants extracted from 724_to_761.ttl
 
-:TV_Line_724_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_724_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Your majesty, if he speaks suitably, it is right that you learn from him,"^^xsd:string ;
     :relatedTo :Line_724 .
 
-:TV_Line_725_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_725_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And you from him, Haemon: for both sides have spoken well."^^xsd:string ;
     :relatedTo :Line_725 .
 
-:TV_Line_726_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_726_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Are we so rattled with age that"^^xsd:string ;
     :relatedTo :Line_726 .
 
-:TV_Line_727_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_727_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Young men must do the teaching now?"^^xsd:string ;
     :relatedTo :Line_727 .
 
-:TV_Line_728_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_728_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "That’s not right at all: even if I am young,"^^xsd:string ;
     :relatedTo :Line_728 .
 
-:TV_Line_729_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_729_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "It’s best to judge by my actions, not just by my age."^^xsd:string ;
     :relatedTo :Line_729 .
 
-:TV_Line_730_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_730_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And is there any use in honoring rebels?"^^xsd:string ;
     :relatedTo :Line_730 .
 
-:TV_Line_731_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_731_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "I wouldn’t even tell someone else to honor rebels."^^xsd:string ;
     :relatedTo :Line_731 .
 
-:TV_Line_732_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_732_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And has she not come down with that very affliction?"^^xsd:string ;
     :relatedTo :Line_732 .
 
-:TV_Line_733_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_733_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "All of Thebes disagrees with you."^^xsd:string ;
     :relatedTo :Line_733 .
 
-:TV_Line_734_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_734_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Will the city now be telling me how to rule?"^^xsd:string ;
     :relatedTo :Line_734 .
 
-:TV_Line_735_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_735_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Can’t you see how childishly you’ve spoken?"^^xsd:string ;
     :relatedTo :Line_735 .
 
-:TV_Line_736_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_736_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Must I rule this land by someone else’s opinions?"^^xsd:string ;
     :relatedTo :Line_736 .
 
-:TV_Line_737_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_737_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "It’s not a city if it only belongs to one man."^^xsd:string ;
     :relatedTo :Line_737 .
 
-:TV_Line_738_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_738_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Is the city not ruled by the man in charge?"^^xsd:string ;
     :relatedTo :Line_738 .
 
-:TV_Line_739_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_739_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And I’m sure you’d rule very nicely in a wasteland."^^xsd:string ;
     :relatedTo :Line_739 .
 
-:TV_Line_740_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_740_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "It seems this one’s taken sides with the woman."^^xsd:string ;
     :relatedTo :Line_740 .
 
-:TV_Line_741_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_741_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Yeah, if you’re a woman. I’m actually trying to help you."^^xsd:string ;
     :relatedTo :Line_741 .
 
-:TV_Line_742_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_742_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You ungrateful child, putting your own father on trial!"^^xsd:string ;
     :relatedTo :Line_742 .
 
-:TV_Line_743_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_743_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Only because I can see that you’re making a mistake."^^xsd:string ;
     :relatedTo :Line_743 .
 
-:TV_Line_744_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_744_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Is it a mistake to respect my own authority?"^^xsd:string ;
     :relatedTo :Line_744 .
 
-:TV_Line_745_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_745_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "No, but you can’t worship yourself while you walk all over the gods."^^xsd:string ;
     :relatedTo :Line_745 .
 
-:TV_Line_746_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_746_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You polluted creature, whipped by a woman!"^^xsd:string ;
     :relatedTo :Line_746 .
 
-:TV_Line_747_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_747_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You would never find emotions clouding my judgement."^^xsd:string ;
     :relatedTo :Line_747 .
 
-:TV_Line_748_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_748_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Yet every word you say is in her defense."^^xsd:string ;
     :relatedTo :Line_748 .
 
-:TV_Line_749_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_749_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And yours, and mine, and the gods’ below."^^xsd:string ;
     :relatedTo :Line_749 .
 
-:TV_Line_750_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_750_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You will never marry this girl while she’s alive."^^xsd:string ;
     :relatedTo :Line_750 .
 
-:TV_Line_751_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_751_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Then she will die, and in death kill another."^^xsd:string ;
     :relatedTo :Line_751 .
 
-:TV_Line_752_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_752_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You would really dare to make so bold a threat?"^^xsd:string ;
     :relatedTo :Line_752 .
 
-:TV_Line_753_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_753_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "What threat is there in discussing your foolish plans?"^^xsd:string ;
     :relatedTo :Line_753 .
 
-:TV_Line_754_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_754_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You whine while you talk, since you lack wisdom."^^xsd:string ;
     :relatedTo :Line_754 .
 
-:TV_Line_755_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_755_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "If you weren’t my father, I’d say you were out of your mind."^^xsd:string ;
     :relatedTo :Line_755 .
 
-:TV_Line_756_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_756_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Oh don’t flatter me—you’re a slave to that woman!"^^xsd:string ;
     :relatedTo :Line_756 .
 
-:TV_Line_757_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_757_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "So you want to do all of the talking and none of the listening?"^^xsd:string ;
     :relatedTo :Line_757 .
 
-:TV_Line_758_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_758_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Oh really? It’s clear, by Olympus,"^^xsd:string ;
     :relatedTo :Line_758 .
 
-:TV_Line_759_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_759_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You’re happy to abuse me with these insults."^^xsd:string ;
     :relatedTo :Line_759 .
 
-:TV_Line_760_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_760_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Bring that wretched creature before his eyes at once,"^^xsd:string ;
     :relatedTo :Line_760 .
 
-:TV_Line_761_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_761_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "So she can die while her bridegroom stands idly by."^^xsd:string ;
     :relatedTo :Line_761 .

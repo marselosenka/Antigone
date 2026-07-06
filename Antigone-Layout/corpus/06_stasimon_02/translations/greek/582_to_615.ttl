@@ -4,98 +4,98 @@
 
 :stasimon_02-translations-582-615-greek a owl:Ontology .
 
-:TV_Line_583_gr a :TranslationVariant ;
+:TV_Line_583_GR a :TranslationVariant ;
     :text "Ευτυχισμένοι είναι όσοι περνούν τη ζωή τους χωρίς να γευτούν συμφορές·"^^xsd:string ;
     :relatedTo :Line_583 .
 
-:TV_Line_584_gr a :TranslationVariant ;
+:TV_Line_584_GR a :TranslationVariant ;
     :text "γιατί όταν ένα σπίτι κλονιστεί από θεϊκή δύναμη,"^^xsd:string ;
     :relatedTo :Line_584 .
 
-:TV_Line_585_gr a :TranslationVariant ;
+:TV_Line_585_GR a :TranslationVariant ;
     :text "η συμφορά δεν παύει να σαρώνει ολόκληρο το πλήθος της γενιάς."^^xsd:string ;
     :relatedTo :Line_585 .
 
-:TV_Line_586_gr a :TranslationVariant ;
+:TV_Line_586_GR a :TranslationVariant ;
     :text "όμοια, όταν κύματα θαλασσινά, βαριά στην πνοή,"^^xsd:string ;
     :relatedTo :Line_586 .
 
-:TV_Line_587_gr a :TranslationVariant ;
+:TV_Line_587_GR a :TranslationVariant ;
     :text "με θρακικούς ανέμους πέσουν πάνω στο σκοτεινό πέλαγος,"^^xsd:string ;
     :relatedTo :Line_587 .
 
 # Line 588, 589 does not exist in Antigone. 
 
-:TV_Line_590_gr a :TranslationVariant ;
+:TV_Line_590_GR a :TranslationVariant ;
     :text "κυλά από τον βυθό τη μαύρη άμμο και"^^xsd:string ;
     :relatedTo :Line_590 .
 
-:TV_Line_591_gr a :TranslationVariant ;
+:TV_Line_591_GR a :TranslationVariant ;
     :text "οι ακτές, χτυπημένες από ανέμους, μουγκρίζουν αντίχτυπα."^^xsd:string ;
     :relatedTo :Line_591 .
 
 # Line 592 does not exist in Antigone.
 
-:TV_Line_593_gr a :TranslationVariant ;
+:TV_Line_593_GR a :TranslationVariant ;
     :text "κι ούτε γενιά λυτρώνει γενιά, αλλά τη γκρεμίζει"^^xsd:string ;
     :relatedTo :Line_593 .
 
 # Line 594 does not exist in Antigone. 
 
-:TV_Line_595_gr a :TranslationVariant ;
+:TV_Line_595_GR a :TranslationVariant ;
     :text "συμφορές πέφτουν πάνω σε συμφορές για τους χαμένους,"^^xsd:string ;
     :relatedTo :Line_595 .
 
-:TV_Line_596_gr a :TranslationVariant ;
+:TV_Line_596_GR a :TranslationVariant ;
     :text "και καμιά γενιά δεν λυτρώνει την άλλη, αλλά την γκρεμίζει."^^xsd:string ;
     :relatedTo :Line_596 .
 
-:TV_Line_597_gr a :TranslationVariant ;
+:TV_Line_597_GR a :TranslationVariant ;
     :text "κάποιος θεός, κι από αυτό δεν υπάρχει λύτρωση. Τώρα πια από τα έσχατα"^^xsd:string ;
     :relatedTo :Line_597 .
 
 # Line 598, 599 does not exist in Antigone .
 
-:TV_Line_600_gr a :TranslationVariant ;
+:TV_Line_600_GR a :TranslationVariant ;
     :text "την κόβει η αιματωμένη σκόνη των κάτω θεών,"^^xsd:string ;
     :relatedTo :Line_600 .
 
 # Line 603 and 604 does not exist in Antigone.
 
-:TV_Line_605_gr a :TranslationVariant ;
+:TV_Line_605_GR a :TranslationVariant ;
     :text "Ω Δία, ποια ανθρώπινη ύβρη μπορεί να συγκρατήσει τη δύναμή σου;"^^xsd:string ;
     :relatedTo :Line_605 .
 
-:TV_Line_606_gr a :TranslationVariant ;
+:TV_Line_606_GR a :TranslationVariant ;
     :text "ούτε ο ύπνος, που κυριεύει τα πάντα, μπορεί ποτέ να την καταβάλει,"^^xsd:string ;
     :relatedTo :Line_606 .
 
-:TV_Line_607_gr a :TranslationVariant ;
+:TV_Line_607_GR a :TranslationVariant ;
     :text "ούτε οι ακούραστοι μήνες των θεών· αλλά μέσα στον αγέραστο χρόνο"^^xsd:string ;
     :relatedTo :Line_607 .
 
 # Lines 608, 609 do not exist in Antigone.
 
-:TV_Line_610_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_610_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "ως κυρίαρχος κατέχεις τη λαμπερή, μαρμαρόχρωμη αίγλη του Ολύμπου."^^xsd:string ;
     :relatedTo :Line_610 .
 
-:TV_Line_611_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_611_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "και ό,τι έπειτα ακολουθεί και ό,τι πρόκειται να έρθει"^^xsd:string ;
     :relatedTo :Line_611 .
 
-:TV_Line_612_gr a :TranslationVariant ;
+:TV_Line_612_GR a :TranslationVariant ;
     :text "και το πριν θα αρκέσει"^^xsd:string ;
     :relatedTo :Line_612 .
 
-:TV_Line_613_gr a :TranslationVariant ;
+:TV_Line_613_GR a :TranslationVariant ;
     :text "νόμος: τίποτε μεγάλο δεν κυριεύει"^^xsd:string ;
     :relatedTo :Line_613 .
 
-:TV_Line_614_gr a :TranslationVariant ;
+:TV_Line_614_GR a :TranslationVariant ;
     :text "τον θνητό χωρίς να τον οδηγήσει ο θεός στην άτη."^^xsd:string ;
     :relatedTo :Line_614 .
 
-:TV_Line_615_gr a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_615_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "Γιατί η πολύπλανη ελπίδα γίνεται παρηγοριά για πολλούς ανθρώπους,"^^xsd:string ;
     :relatedTo :Line_615 .

@@ -4,33 +4,33 @@
 
 :episode_04-translations-929-943-chinese a owl:Ontology .
 
-:TV_Line_929_zh a :TranslationVariant ; :relatedTo :Line_929 ;
+:TV_Line_929_ZH a :TranslationVariant ; :relatedTo :Line_929 ;
   :text "同样的风暴之阵"^^xsd:string .
-:TV_Line_930_zh a :TranslationVariant ; :relatedTo :Line_930 ;
+:TV_Line_930_ZH a :TranslationVariant ; :relatedTo :Line_930 ;
   :text "仍抓着她的心魂不放。"^^xsd:string .
-:TV_Line_931_zh a :TranslationVariant ; :relatedTo :Line_931 ;
+:TV_Line_931_ZH a :TranslationVariant ; :relatedTo :Line_931 ;
   :text "因此，对那些押送她的人，"^^xsd:string .
-:TV_Line_932_zh a :TranslationVariant ; :relatedTo :Line_932 ;
+:TV_Line_932_ZH a :TranslationVariant ; :relatedTo :Line_932 ;
   :text "会因他们的迟缓而降下哭号。"^^xsd:string .
-:TV_Line_933_zh a :TranslationVariant ; :relatedTo :Line_933 ;
+:TV_Line_933_ZH a :TranslationVariant ; :relatedTo :Line_933 ;
   :text "哎呀，这句话"^^xsd:string .
-:TV_Line_934_zh a :TranslationVariant ; :relatedTo :Line_934 ;
+:TV_Line_934_ZH a :TranslationVariant ; :relatedTo :Line_934 ;
   :text "已逼近死亡得太近了。"^^xsd:string .
-:TV_Line_935_zh a :TranslationVariant ; :relatedTo :Line_935 ;
+:TV_Line_935_ZH a :TranslationVariant ; :relatedTo :Line_935 ;
   :text "我无法再给你们任何安慰，"^^xsd:string .
-:TV_Line_936_zh a :TranslationVariant ; :relatedTo :Line_936 ;
+:TV_Line_936_ZH a :TranslationVariant ; :relatedTo :Line_936 ;
   :text "说这些事不会发生在她身上。"^^xsd:string .
-:TV_Line_937_zh a :TranslationVariant ; :relatedTo :Line_937 ;
+:TV_Line_937_ZH a :TranslationVariant ; :relatedTo :Line_937 ;
   :text "啊，祖国底比斯之城，"^^xsd:string .
-:TV_Line_938_zh a :TranslationVariant ; :relatedTo :Line_938 ;
+:TV_Line_938_ZH a :TranslationVariant ; :relatedTo :Line_938 ;
   :text "啊，先祖诸神，"^^xsd:string .
-:TV_Line_939_zh a :TranslationVariant ; :relatedTo :Line_939 ;
+:TV_Line_939_ZH a :TranslationVariant ; :relatedTo :Line_939 ;
   :text "我此刻被带走，不再拖延。"^^xsd:string .
-:TV_Line_940_zh a :TranslationVariant ; :relatedTo :Line_940 ;
+:TV_Line_940_ZH a :TranslationVariant ; :relatedTo :Line_940 ;
   :text "看吧，底比斯的统治者们，"^^xsd:string .
-:TV_Line_941_zh a :TranslationVariant ; :relatedTo :Line_941 ;
+:TV_Line_941_ZH a :TranslationVariant ; :relatedTo :Line_941 ;
   :text "王室血脉最后留下的人，"^^xsd:string .
-:TV_Line_942_zh a :TranslationVariant ; :relatedTo :Line_942 ;
+:TV_Line_942_ZH a :TranslationVariant ; :relatedTo :Line_942 ;
   :text "我受了怎样的苦，又是被怎样的人所害，"^^xsd:string .
-:TV_Line_943_zh a :TranslationVariant ; :relatedTo :Line_943 ;
+:TV_Line_943_ZH a :TranslationVariant ; :relatedTo :Line_943 ;
   :text "只因我尊崇虔敬！"^^xsd:string .

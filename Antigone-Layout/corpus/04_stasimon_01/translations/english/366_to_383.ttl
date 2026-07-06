@@ -5,41 +5,41 @@
 :stasimon_01-translations-366-383-english a owl:Ontology .
 # English translation variants extracted from 366_to_383.ttl
 
-:TV_Line_366_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_366 ;
+:TV_Line_366_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_366 ;
   :text "Sometimes toward evil, other times toward good he veers,"^^xsd:string .
 
-:TV_Line_367_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_367 ;
+:TV_Line_367_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_367 ;
   :text "heeding the laws of the earth and the sworn justice of the gods,"^^xsd:string .
 
-:TV_Line_370_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_370 ;
+:TV_Line_370_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_370 ;
   :text "high in the city; but stateless is he with whom ignobility"^^xsd:string .
 
-:TV_Line_371_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_371 ;
+:TV_Line_371_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_371 ;
   :text "dwells for the sake of his daring. May he never share my hearth,"^^xsd:string .
 
-:TV_Line_375_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_375 ;
+:TV_Line_375_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_375 ;
   :text "nor think like me, he who does such things."^^xsd:string .
 
-:TV_Line_376_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_376 ;
+:TV_Line_376_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_376 ;
   :text "CHORUS. I am in doubt at this divine portent,"^^xsd:string .
 
-:TV_Line_377_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_377 ;
+:TV_Line_377_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_377 ;
   :text "this: how can I, knowing the truth, deny"^^xsd:string .
 
-:TV_Line_378_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_378 ;
+:TV_Line_378_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_378 ;
   :text "that this is not the girl Antigone?"^^xsd:string .
 
-:TV_Line_379_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_379 ;
+:TV_Line_379_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_379 ;
   :text "O unfortunate woman,"^^xsd:string .
 
-:TV_Line_380_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_380 ;
+:TV_Line_380_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_380 ;
   :text "and daughter of an unfortunate father, Oedipus,"^^xsd:string .
 
-:TV_Line_381_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_381 ;
+:TV_Line_381_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_381 ;
   :text "what is this? Surely they are not taking you away for disobeying"^^xsd:string .
 
-:TV_Line_382_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_382 ;
+:TV_Line_382_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_382 ;
   :text "the royal laws,"^^xsd:string .
 
-:TV_Line_383_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_383 ;
+:TV_Line_383_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_383 ;
   :text "having caught you in an act of folly?"^^xsd:string .

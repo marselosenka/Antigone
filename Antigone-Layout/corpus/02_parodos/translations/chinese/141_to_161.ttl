@@ -4,87 +4,87 @@
 
 :parodos-translations-141-161-chinese a owl:Ontology .
 
-:TV_Line_141_zh a :TranslationVariant ;
+:TV_Line_141_ZH a :TranslationVariant ;
     :text "七位将领在七座城门前，"^^xsd:string ;
     :relatedTo :Line_141 .
 
-:TV_Line_142_zh a :TranslationVariant ;
+:TV_Line_142_ZH a :TranslationVariant ;
     :text "各与对手相当，留下了"^^xsd:string ;
     :relatedTo :Line_142 .
 
-:TV_Line_143_zh a :TranslationVariant ;
+:TV_Line_143_ZH a :TranslationVariant ;
     :text "全铜战利品献给胜利之宙斯，"^^xsd:string ;
     :relatedTo :Line_143 .
 
-:TV_Line_144_zh a :TranslationVariant ;
+:TV_Line_144_ZH a :TranslationVariant ;
     :text "唯有那两名可憎之人，同父"^^xsd:string ;
     :relatedTo :Line_144 .
 
-:TV_Line_145_zh a :TranslationVariant ;
+:TV_Line_145_ZH a :TranslationVariant ;
     :text "同母而生，却彼此相向，"^^xsd:string ;
     :relatedTo :Line_145 .
 
-:TV_Line_146_zh a :TranslationVariant ;
+:TV_Line_146_ZH a :TranslationVariant ;
     :text "举起两支征服之矛，"^^xsd:string ;
     :relatedTo :Line_146 .
 
-:TV_Line_147_zh a :TranslationVariant ;
+:TV_Line_147_ZH a :TranslationVariant ;
     :text "并共同分得同一死亡。"^^xsd:string ;
     :relatedTo :Line_147 .
 
-:TV_Line_148_zh a :TranslationVariant ;
+:TV_Line_148_ZH a :TranslationVariant ;
     :text "如今，大名鼎鼎的胜利女神已临，"^^xsd:string ;
     :relatedTo :Line_148 .
 
-:TV_Line_149_zh a :TranslationVariant ;
+:TV_Line_149_ZH a :TranslationVariant ;
     :text "来到战车丰饶的底比斯，喜悦于她的喜悦；"^^xsd:string ;
     :relatedTo :Line_149 .
 
-:TV_Line_150_zh a :TranslationVariant ;
+:TV_Line_150_ZH a :TranslationVariant ;
     :text "所以现在，战事既毕，"^^xsd:string ;
     :relatedTo :Line_150 .
 
-:TV_Line_151_zh a :TranslationVariant ;
+:TV_Line_151_ZH a :TranslationVariant ;
     :text "让我们把遗忘覆盖其上，"^^xsd:string ;
     :relatedTo :Line_151 .
 
-:TV_Line_152_zh a :TranslationVariant ;
+:TV_Line_152_ZH a :TranslationVariant ;
     :text "走向众神的全部神庙，"^^xsd:string ;
     :relatedTo :Line_152 .
 
-:TV_Line_153_zh a :TranslationVariant ;
+:TV_Line_153_ZH a :TranslationVariant ;
     :text "以通宵舞蹈庆祭。"^^xsd:string ;
     :relatedTo :Line_153 .
 
-:TV_Line_154_zh a :TranslationVariant ;
+:TV_Line_154_ZH a :TranslationVariant ;
     :text "并让震撼底比斯的酒神"^^xsd:string ;
     :relatedTo :Line_154 .
 
-:TV_Line_155_zh a :TranslationVariant ;
+:TV_Line_155_ZH a :TranslationVariant ;
     :text "来领舞。"^^xsd:string ;
     :relatedTo :Line_155 .
 
-:TV_Line_156_zh a :TranslationVariant ;
+:TV_Line_156_ZH a :TranslationVariant ;
     :text "但看，国王来了，"^^xsd:string ;
     :relatedTo :Line_156 .
 
-:TV_Line_157_zh a :TranslationVariant ;
+:TV_Line_157_ZH a :TranslationVariant ;
     :text "墨诺伊刻斯之子克瑞翁，刚刚出现，"^^xsd:string ;
     :relatedTo :Line_157 .
 
-:TV_Line_158_zh a :TranslationVariant ;
+:TV_Line_158_ZH a :TranslationVariant ;
     :text "因神所赐的新运而来。"^^xsd:string ;
     :relatedTo :Line_158 .
 
-:TV_Line_159_zh a :TranslationVariant ;
+:TV_Line_159_ZH a :TranslationVariant ;
     :text "他来此，像是在筹划某个新决断，"^^xsd:string ;
     :relatedTo :Line_159 .
 
-:TV_Line_160_zh a :TranslationVariant ;
+:TV_Line_160_ZH a :TranslationVariant ;
     :text "因为他已召集这长老议会"^^xsd:string ;
     :relatedTo :Line_160 .
 
-:TV_Line_161_zh a :TranslationVariant ;
+:TV_Line_161_ZH a :TranslationVariant ;
     :text "以一纸共同诏令相请？"^^xsd:string ;
     :relatedTo :Line_161 .
 

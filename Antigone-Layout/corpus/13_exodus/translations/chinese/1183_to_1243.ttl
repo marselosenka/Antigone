@@ -4,125 +4,125 @@
 
 :exodus-translations-1183-1243-chinese a owl:Ontology .
 
-:TV_Line_1183_zh a :TranslationVariant ; :relatedTo :Line_1183 ;
+:TV_Line_1183_ZH a :TranslationVariant ; :relatedTo :Line_1183 ;
   :text "诸位城民，我在出门时已听到这消息，"^^xsd:string .
-:TV_Line_1184_zh a :TranslationVariant ; :relatedTo :Line_1184 ;
+:TV_Line_1184_ZH a :TranslationVariant ; :relatedTo :Line_1184 ;
   :text "正要去帕拉斯女神那里，"^^xsd:string .
-:TV_Line_1185_zh a :TranslationVariant ; :relatedTo :Line_1185 ;
+:TV_Line_1185_ZH a :TranslationVariant ; :relatedTo :Line_1185 ;
   :text "站在她前面作祈求者祷告。"^^xsd:string .
-:TV_Line_1186_zh a :TranslationVariant ; :relatedTo :Line_1186 ;
+:TV_Line_1186_ZH a :TranslationVariant ; :relatedTo :Line_1186 ;
   :text "当我拉开门闩时，"^^xsd:string .
-:TV_Line_1187_zh a :TranslationVariant ; :relatedTo :Line_1187 ;
+:TV_Line_1187_ZH a :TranslationVariant ; :relatedTo :Line_1187 ;
   :text "家中的哀痛声"^^xsd:string .
-:TV_Line_1188_zh a :TranslationVariant ; :relatedTo :Line_1188 ;
+:TV_Line_1188_ZH a :TranslationVariant ; :relatedTo :Line_1188 ;
   :text "撞进我耳里，我便惊惧后退，"^^xsd:string .
-:TV_Line_1189_zh a :TranslationVariant ; :relatedTo :Line_1189 ;
+:TV_Line_1189_ZH a :TranslationVariant ; :relatedTo :Line_1189 ;
   :text "倒在侍女中间，整个人僵住。"^^xsd:string .
-:TV_Line_1190_zh a :TranslationVariant ; :relatedTo :Line_1190 ;
+:TV_Line_1190_ZH a :TranslationVariant ; :relatedTo :Line_1190 ;
   :text "但请再把事情讲一遍；"^^xsd:string .
-:TV_Line_1191_zh a :TranslationVariant ; :relatedTo :Line_1191 ;
+:TV_Line_1191_ZH a :TranslationVariant ; :relatedTo :Line_1191 ;
   :text "我并非不识痛苦，我听得下去。"^^xsd:string .
-:TV_Line_1192_zh a :TranslationVariant ; :relatedTo :Line_1192 ;
+:TV_Line_1192_ZH a :TranslationVariant ; :relatedTo :Line_1192 ;
   :text "好夫人，我会讲；我亲自在场，"^^xsd:string .
-:TV_Line_1193_zh a :TranslationVariant ; :relatedTo :Line_1193 ;
+:TV_Line_1193_ZH a :TranslationVariant ; :relatedTo :Line_1193 ;
   :text "不会漏掉真相中的任何一句；"^^xsd:string .
-:TV_Line_1194_zh a :TranslationVariant ; :relatedTo :Line_1194 ;
+:TV_Line_1194_ZH a :TranslationVariant ; :relatedTo :Line_1194 ;
   :text "因为若我去粉饰它，"^^xsd:string .
-:TV_Line_1195_zh a :TranslationVariant ; :relatedTo :Line_1195 ;
+:TV_Line_1195_ZH a :TranslationVariant ; :relatedTo :Line_1195 ;
   :text "后来只会被揭作说谎；真相总是正直的。"^^xsd:string .
-:TV_Line_1196_zh a :TranslationVariant ; :relatedTo :Line_1196 ;
+:TV_Line_1196_ZH a :TranslationVariant ; :relatedTo :Line_1196 ;
   :text "我作你丈夫的引路人，"^^xsd:string .
-:TV_Line_1197_zh a :TranslationVariant ; :relatedTo :Line_1197 ;
+:TV_Line_1197_ZH a :TranslationVariant ; :relatedTo :Line_1197 ;
   :text "到平原最远处，那儿还躺着"^^xsd:string .
-:TV_Line_1198_zh a :TranslationVariant ; :relatedTo :Line_1198 ;
+:TV_Line_1198_ZH a :TranslationVariant ; :relatedTo :Line_1198 ;
   :text "波吕涅刻斯那被狗啃噬、无人怜恤的尸身；"^^xsd:string .
-:TV_Line_1199_zh a :TranslationVariant ; :relatedTo :Line_1199 ;
+:TV_Line_1199_ZH a :TranslationVariant ; :relatedTo :Line_1199 ;
   :text "我们先祈求道路女神"^^xsd:string .
-:TV_Line_1200_zh a :TranslationVariant ; :relatedTo :Line_1200 ;
+:TV_Line_1200_ZH a :TranslationVariant ; :relatedTo :Line_1200 ;
   :text "与普路同怜悯地收回怒气，"^^xsd:string .
-:TV_Line_1201_zh a :TranslationVariant ; :relatedTo :Line_1201 ;
+:TV_Line_1201_ZH a :TranslationVariant ; :relatedTo :Line_1201 ;
   :text "随后以净水洗净他，并以新砍下的"^^xsd:string .
-:TV_Line_1202_zh a :TranslationVariant ; :relatedTo :Line_1202 ;
+:TV_Line_1202_ZH a :TranslationVariant ; :relatedTo :Line_1202 ;
   :text "枝条焚尽所余残骸，"^^xsd:string .
-:TV_Line_1203_zh a :TranslationVariant ; :relatedTo :Line_1203 ;
+:TV_Line_1203_ZH a :TranslationVariant ; :relatedTo :Line_1203 ;
   :text "再高高堆起故土之丘；"^^xsd:string .
-:TV_Line_1204_zh a :TranslationVariant ; :relatedTo :Line_1204 ;
+:TV_Line_1204_ZH a :TranslationVariant ; :relatedTo :Line_1204 ;
   :text "之后我们回到那石砌的密室，"^^xsd:string .
-:TV_Line_1205_zh a :TranslationVariant ; :relatedTo :Line_1205 ;
+:TV_Line_1205_ZH a :TranslationVariant ; :relatedTo :Line_1205 ;
   :text "那姑娘在哈得斯中的空洞婚房。"^^xsd:string .
-:TV_Line_1206_zh a :TranslationVariant ; :relatedTo :Line_1206 ;
+:TV_Line_1206_ZH a :TranslationVariant ; :relatedTo :Line_1206 ;
   :text "有人从远处听见一声刺耳哀哭，"^^xsd:string .
-:TV_Line_1207_zh a :TranslationVariant ; :relatedTo :Line_1207 ;
+:TV_Line_1207_ZH a :TranslationVariant ; :relatedTo :Line_1207 ;
   :text "为那无葬的婚室而哭，"^^xsd:string .
-:TV_Line_1208_zh a :TranslationVariant ; :relatedTo :Line_1208 ;
+:TV_Line_1208_ZH a :TranslationVariant ; :relatedTo :Line_1208 ;
   :text "便走近并把此事报给克瑞翁主上；"^^xsd:string .
-:TV_Line_1209_zh a :TranslationVariant ; :relatedTo :Line_1209 ;
+:TV_Line_1209_ZH a :TranslationVariant ; :relatedTo :Line_1209 ;
   :text "他越走近，那模糊的喊声"^^xsd:string .
-:TV_Line_1210_zh a :TranslationVariant ; :relatedTo :Line_1210 ;
+:TV_Line_1210_ZH a :TranslationVariant ; :relatedTo :Line_1210 ;
   :text "越在他周围变得清楚；他沉重呻吟着喊道："^^xsd:string .
-:TV_Line_1211_zh a :TranslationVariant ; :relatedTo :Line_1211 ;
+:TV_Line_1211_ZH a :TranslationVariant ; :relatedTo :Line_1211 ;
   :text "我这不幸的人啊，"^^xsd:string .
-:TV_Line_1212_zh a :TranslationVariant ; :relatedTo :Line_1212 ;
+:TV_Line_1212_ZH a :TranslationVariant ; :relatedTo :Line_1212 ;
   :text "难道我也成了先知？难道我正在走"^^xsd:string .
-:TV_Line_1213_zh a :TranslationVariant ; :relatedTo :Line_1213 ;
+:TV_Line_1213_ZH a :TranslationVariant ; :relatedTo :Line_1213 ;
   :text "我所走过最致命的一条路？"^^xsd:string .
-:TV_Line_1214_zh a :TranslationVariant ; :relatedTo :Line_1214 ;
+:TV_Line_1214_ZH a :TranslationVariant ; :relatedTo :Line_1214 ;
   :text "那是我儿子的声音在击打我。奴仆们，"^^xsd:string .
-:TV_Line_1215_zh a :TranslationVariant ; :relatedTo :Line_1215 ;
+:TV_Line_1215_ZH a :TranslationVariant ; :relatedTo :Line_1215 ;
   :text "快过去，站到墓旁，"^^xsd:string .
-:TV_Line_1216_zh a :TranslationVariant ; :relatedTo :Line_1216 ;
+:TV_Line_1216_ZH a :TranslationVariant ; :relatedTo :Line_1216 ;
   :text "看那石缝被撕开的地方，"^^xsd:string .
-:TV_Line_1217_zh a :TranslationVariant ; :relatedTo :Line_1217 ;
+:TV_Line_1217_ZH a :TranslationVariant ; :relatedTo :Line_1217 ;
   :text "俯向洞口看清楚，"^^xsd:string .
-:TV_Line_1218_zh a :TranslationVariant ; :relatedTo :Line_1218 ;
+:TV_Line_1218_ZH a :TranslationVariant ; :relatedTo :Line_1218 ;
   :text "我听到的是否真是海蒙之声，还是神在骗我。"^^xsd:string .
-:TV_Line_1219_zh a :TranslationVariant ; :relatedTo :Line_1219 ;
+:TV_Line_1219_ZH a :TranslationVariant ; :relatedTo :Line_1219 ;
   :text "照这位绝望君王的命令，"^^xsd:string .
-:TV_Line_1220_zh a :TranslationVariant ; :relatedTo :Line_1220 ;
+:TV_Line_1220_ZH a :TranslationVariant ; :relatedTo :Line_1220 ;
   :text "我们看去，在墓穴最深处"^^xsd:string .
-:TV_Line_1221_zh a :TranslationVariant ; :relatedTo :Line_1221 ;
+:TV_Line_1221_ZH a :TranslationVariant ; :relatedTo :Line_1221 ;
   :text "看见她悬在颈上，"^^xsd:string .
-:TV_Line_1222_zh a :TranslationVariant ; :relatedTo :Line_1222 ;
+:TV_Line_1222_ZH a :TranslationVariant ; :relatedTo :Line_1222 ;
   :text "以细麻绳编成的套索自缢，"^^xsd:string .
-:TV_Line_1223_zh a :TranslationVariant ; :relatedTo :Line_1223 ;
+:TV_Line_1223_ZH a :TranslationVariant ; :relatedTo :Line_1223 ;
   :text "而他环抱着她的腰，"^^xsd:string .
-:TV_Line_1224_zh a :TranslationVariant ; :relatedTo :Line_1224 ;
+:TV_Line_1224_ZH a :TranslationVariant ; :relatedTo :Line_1224 ;
   :text "哀悼他在下界失去的新妇，"^^xsd:string .
-:TV_Line_1225_zh a :TranslationVariant ; :relatedTo :Line_1225 ;
+:TV_Line_1225_ZH a :TranslationVariant ; :relatedTo :Line_1225 ;
   :text "哀悼父亲的作为，也哀悼他不幸的婚床。"^^xsd:string .
-:TV_Line_1226_zh a :TranslationVariant ; :relatedTo :Line_1226 ;
+:TV_Line_1226_ZH a :TranslationVariant ; :relatedTo :Line_1226 ;
   :text "父亲看见他后，发出可怕喊声"^^xsd:string .
-:TV_Line_1227_zh a :TranslationVariant ; :relatedTo :Line_1227 ;
+:TV_Line_1227_ZH a :TranslationVariant ; :relatedTo :Line_1227 ;
   :text "奔过去，哭着呼唤："^^xsd:string .
-:TV_Line_1228_zh a :TranslationVariant ; :relatedTo :Line_1228 ;
+:TV_Line_1228_ZH a :TranslationVariant ; :relatedTo :Line_1228 ;
   :text "可怜的人，你做了什么？"^^xsd:string .
-:TV_Line_1229_zh a :TranslationVariant ; :relatedTo :Line_1229 ;
+:TV_Line_1229_ZH a :TranslationVariant ; :relatedTo :Line_1229 ;
   :text "什么念头占了你？你毁在何等灾祸中？"^^xsd:string .
-:TV_Line_1230_zh a :TranslationVariant ; :relatedTo :Line_1230 ;
+:TV_Line_1230_ZH a :TranslationVariant ; :relatedTo :Line_1230 ;
   :text "出来吧，我儿，我恳求你，如同求神者！"^^xsd:string .
-:TV_Line_1231_zh a :TranslationVariant ; :relatedTo :Line_1231 ;
+:TV_Line_1231_ZH a :TranslationVariant ; :relatedTo :Line_1231 ;
   :text "可那孩子以凶野眼神瞪着他，"^^xsd:string .
-:TV_Line_1232_zh a :TranslationVariant ; :relatedTo :Line_1232 ;
+:TV_Line_1232_ZH a :TranslationVariant ; :relatedTo :Line_1232 ;
   :text "朝他脸上啐了一口，一言不发便拔出"^^xsd:string .
-:TV_Line_1233_zh a :TranslationVariant ; :relatedTo :Line_1233 ;
+:TV_Line_1233_ZH a :TranslationVariant ; :relatedTo :Line_1233 ;
   :text "双刃剑；父亲转身逃开时，"^^xsd:string .
-:TV_Line_1234_zh a :TranslationVariant ; :relatedTo :Line_1234 ;
+:TV_Line_1234_ZH a :TranslationVariant ; :relatedTo :Line_1234 ;
   :text "他一击不中；随后这苦命青年"^^xsd:string .
-:TV_Line_1235_zh a :TranslationVariant ; :relatedTo :Line_1235 ;
+:TV_Line_1235_ZH a :TranslationVariant ; :relatedTo :Line_1235 ;
   :text "愤怒转向自己，就地俯身"^^xsd:string .
-:TV_Line_1236_zh a :TranslationVariant ; :relatedTo :Line_1236 ;
+:TV_Line_1236_ZH a :TranslationVariant ; :relatedTo :Line_1236 ;
   :text "把刀锋刺进自己肋侧中央；"^^xsd:string .
-:TV_Line_1237_zh a :TranslationVariant ; :relatedTo :Line_1237 ;
+:TV_Line_1237_ZH a :TranslationVariant ; :relatedTo :Line_1237 ;
   :text "还剩微弱呼吸时，他用将熄的手抱住那姑娘，"^^xsd:string .
-:TV_Line_1238_zh a :TranslationVariant ; :relatedTo :Line_1238 ;
+:TV_Line_1238_ZH a :TranslationVariant ; :relatedTo :Line_1238 ;
   :text "并在喘息中喷出急促细流，"^^xsd:string .
-:TV_Line_1239_zh a :TranslationVariant ; :relatedTo :Line_1239 ;
+:TV_Line_1239_ZH a :TranslationVariant ; :relatedTo :Line_1239 ;
   :text "血滴洒在她雪白的脸颊上。"^^xsd:string .
-:TV_Line_1240_zh a :TranslationVariant ; :relatedTo :Line_1240 ;
+:TV_Line_1240_ZH a :TranslationVariant ; :relatedTo :Line_1240 ;
   :text "死者卧在死者旁，这苦命青年终于"^^xsd:string .
-:TV_Line_1241_zh a :TranslationVariant ; :relatedTo :Line_1241 ;
+:TV_Line_1241_ZH a :TranslationVariant ; :relatedTo :Line_1241 ;
   :text "在哈得斯宫中完成了他的婚礼礼仪，"^^xsd:string .
-:TV_Line_1242_zh a :TranslationVariant ; :relatedTo :Line_1242 ;
+:TV_Line_1242_ZH a :TranslationVariant ; :relatedTo :Line_1242 ;
   :text "向人们显明：失去理智"^^xsd:string .
-:TV_Line_1243_zh a :TranslationVariant ; :relatedTo :Line_1243 ;
+:TV_Line_1243_ZH a :TranslationVariant ; :relatedTo :Line_1243 ;
   :text "是人所能遭遇的最大祸害。"^^xsd:string .

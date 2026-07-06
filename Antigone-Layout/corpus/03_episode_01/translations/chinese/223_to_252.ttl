@@ -4,123 +4,123 @@
 
 :episode_01-translations-223-252-chinese a owl:Ontology .
 
-:TV_Line_223_zh a :TranslationVariant ;
+:TV_Line_223_ZH a :TranslationVariant ;
     :text "可畏的君王，我不敢说我是"^^xsd:string ;
     :relatedTo :Line_223 .
 
-:TV_Line_224_zh a :TranslationVariant ;
+:TV_Line_224_ZH a :TranslationVariant ;
     :text "喘着气快步赶来、抬着轻捷双足而来。"^^xsd:string ;
     :relatedTo :Line_224 .
 
-:TV_Line_225_zh a :TranslationVariant ;
+:TV_Line_225_ZH a :TranslationVariant ;
     :text "我途中多次因心中刺痛而停下，"^^xsd:string ;
     :relatedTo :Line_225 .
 
-:TV_Line_226_zh a :TranslationVariant ;
+:TV_Line_226_ZH a :TranslationVariant ;
     :text "又在路上反复掉头，想折返。"^^xsd:string ;
     :relatedTo :Line_226 .
 
-:TV_Line_227_zh a :TranslationVariant ;
+:TV_Line_227_ZH a :TranslationVariant ;
     :text "因为我心里有许多声音对我说："^^xsd:string ;
     :relatedTo :Line_227 .
 
-:TV_Line_228_zh a :TranslationVariant ;
+:TV_Line_228_ZH a :TranslationVariant ;
     :text "“倒霉鬼，你为何赶去受罚？"^^xsd:string ;
     :relatedTo :Line_228 .
 
-:TV_Line_229_zh a :TranslationVariant ;
+:TV_Line_229_ZH a :TranslationVariant ;
     :text "蠢货，你又拖延？若克瑞翁"^^xsd:string ;
     :relatedTo :Line_229 .
 
-:TV_Line_230_zh a :TranslationVariant ;
+:TV_Line_230_ZH a :TranslationVariant ;
     :text "从别人那里知道此事，你岂不更惨？”"^^xsd:string ;
     :relatedTo :Line_230 .
 
-:TV_Line_231_zh a :TranslationVariant ;
+:TV_Line_231_ZH a :TranslationVariant ;
     :text "就这样反复争辩，我慢吞吞地走着。"^^xsd:string ;
     :relatedTo :Line_231 .
 
-:TV_Line_232_zh a :TranslationVariant ;
+:TV_Line_232_ZH a :TranslationVariant ;
     :text "于是短路也变成长路。"^^xsd:string ;
     :relatedTo :Line_232 .
 
-:TV_Line_233_zh a :TranslationVariant ;
+:TV_Line_233_ZH a :TranslationVariant ;
     :text "最后，来此之念还是占了上风。"^^xsd:string ;
     :relatedTo :Line_233 .
 
-:TV_Line_234_zh a :TranslationVariant ;
+:TV_Line_234_ZH a :TranslationVariant ;
     :text "就算我什么也不说，也还是得把它说出来："^^xsd:string ;
     :relatedTo :Line_234 .
 
-:TV_Line_235_zh a :TranslationVariant ;
+:TV_Line_235_ZH a :TranslationVariant ;
     :text "我抱着一个希望而来，"^^xsd:string ;
     :relatedTo :Line_235 .
 
-:TV_Line_236_zh a :TranslationVariant ;
+:TV_Line_236_ZH a :TranslationVariant ;
     :text "不受命定之外的苦。"^^xsd:string ;
     :relatedTo :Line_236 .
 
-:TV_Line_237_zh a :TranslationVariant ;
+:TV_Line_237_ZH a :TranslationVariant ;
     :text "是什么把你吓成这样？"^^xsd:string ;
     :relatedTo :Line_237 .
 
-:TV_Line_238_zh a :TranslationVariant ;
+:TV_Line_238_ZH a :TranslationVariant ;
     :text "我先要说我自己：因为我既没有"^^xsd:string ;
     :relatedTo :Line_238 .
 
-:TV_Line_239_zh a :TranslationVariant ;
+:TV_Line_239_ZH a :TranslationVariant ;
     :text "做这事，也不知道是谁做的。"^^xsd:string ;
     :relatedTo :Line_239 .
 
-:TV_Line_240_zh a :TranslationVariant ;
+:TV_Line_240_ZH a :TranslationVariant ;
     :text "要我为此受罚并不公正。"^^xsd:string ;
     :relatedTo :Line_240 .
 
-:TV_Line_241_zh a :TranslationVariant ;
+:TV_Line_241_ZH a :TranslationVariant ;
     :text "你这是先瞄准，又先筑起防线，"^^xsd:string ;
     :relatedTo :Line_241 .
 
-:TV_Line_242_zh a :TranslationVariant ;
+:TV_Line_242_ZH a :TranslationVariant ;
     :text "看来你要说的是件怪事。"^^xsd:string ;
     :relatedTo :Line_242 .
 
-:TV_Line_243_zh a :TranslationVariant ;
+:TV_Line_243_ZH a :TranslationVariant ;
     :text "确实，可怕之事总让人迟疑很久。"^^xsd:string ;
     :relatedTo :Line_243 .
 
-:TV_Line_244_zh a :TranslationVariant ;
+:TV_Line_244_ZH a :TranslationVariant ;
     :text "快说你要说的，说完就滚。"^^xsd:string ;
     :relatedTo :Line_244 .
 
-:TV_Line_245_zh a :TranslationVariant ;
+:TV_Line_245_ZH a :TranslationVariant ;
     :text "我说了：尸体刚刚被人"^^xsd:string ;
     :relatedTo :Line_245 .
 
-:TV_Line_246_zh a :TranslationVariant ;
+:TV_Line_246_ZH a :TranslationVariant ;
     :text "行了葬礼并离去：在尸身上"^^xsd:string ;
     :relatedTo :Line_246 .
 
-:TV_Line_247_zh a :TranslationVariant ;
+:TV_Line_247_ZH a :TranslationVariant ;
     :text "洒了干渴之尘，作了应有殓祭。"^^xsd:string ;
     :relatedTo :Line_247 .
 
-:TV_Line_248_zh a :TranslationVariant ;
+:TV_Line_248_ZH a :TranslationVariant ;
     :text "你说什么？谁竟敢做这事？"^^xsd:string ;
     :relatedTo :Line_248 .
 
-:TV_Line_249_zh a :TranslationVariant ;
+:TV_Line_249_ZH a :TranslationVariant ;
     :text "我不知道：没有斧痕，也没有锄痕，"^^xsd:string ;
     :relatedTo :Line_249 .
 
-:TV_Line_250_zh a :TranslationVariant ;
+:TV_Line_250_ZH a :TranslationVariant ;
     :text "湿土却干硬平整，也没有任何车辙，"^^xsd:string ;
     :relatedTo :Line_250 .
 
-:TV_Line_251_zh a :TranslationVariant ;
+:TV_Line_251_ZH a :TranslationVariant ;
     :text "湿土却干硬平整，也没有任何车辙，"^^xsd:string ;
     :relatedTo :Line_251 .
 
-:TV_Line_252_zh a :TranslationVariant ;
+:TV_Line_252_ZH a :TranslationVariant ;
     :text "那人什么痕迹都没留下。"^^xsd:string ;
     :relatedTo :Line_252 .
 

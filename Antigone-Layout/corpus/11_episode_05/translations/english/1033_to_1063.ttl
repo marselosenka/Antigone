@@ -6,127 +6,127 @@
 :episode_05-translations-1033-1063-english a owl:Ontology .
 # English translation variants extracted from 1033_to_1063.ttl
 
-:TV_Line_1033_en a :TranslationVariant ;
+:TV_Line_1033_EN a :TranslationVariant ;
     :text "Old man, all of you, like archers at a target,"^^xsd:string ;
     :relatedTo :Line_1033 .
 
-:TV_Line_1034_en a :TranslationVariant ;
+:TV_Line_1034_EN a :TranslationVariant ;
     :text "Are shooting at this man; and from prophecy too"^^xsd:string ;
     :relatedTo :Line_1034 .
 
-:TV_Line_1035_en a :TranslationVariant ;
+:TV_Line_1035_EN a :TranslationVariant ;
     :text "I get no peace from you; for by your whole tribe"^^xsd:string ;
     :relatedTo :Line_1035 .
 
-:TV_Line_1036_en a :TranslationVariant ;
+:TV_Line_1036_EN a :TranslationVariant ;
     :text "I have long since been sold off and trafficked like cargo."^^xsd:string ;
     :relatedTo :Line_1036 .
 
-:TV_Line_1037_en a :TranslationVariant ;
+:TV_Line_1037_EN a :TranslationVariant ;
     :text "Make your profit then; trade in the electrum of Sardis,"^^xsd:string ;
     :relatedTo :Line_1037 .
 
-:TV_Line_1038_en a :TranslationVariant ;
+:TV_Line_1038_EN a :TranslationVariant ;
     :text "If you wish, and in the gold of India too;"^^xsd:string ;
     :relatedTo :Line_1038 .
 
-:TV_Line_1039_en a :TranslationVariant ;
+:TV_Line_1039_EN a :TranslationVariant ;
     :text "But you will never hide that man in a grave,"^^xsd:string ;
     :relatedTo :Line_1039 .
 
-:TV_Line_1040_en a :TranslationVariant ;
+:TV_Line_1040_EN a :TranslationVariant ;
     :text "Not even if the eagles of Zeus should wish"^^xsd:string ;
     :relatedTo :Line_1040 .
 
-:TV_Line_1041_en a :TranslationVariant ;
+:TV_Line_1041_EN a :TranslationVariant ;
     :text "To snatch him up and carry him as food to Zeus’ throne,"^^xsd:string ;
     :relatedTo :Line_1041 .
 
-:TV_Line_1042_en a :TranslationVariant ;
+:TV_Line_1042_EN a :TranslationVariant ;
     :text "Not even then would I, in fear of that pollution,"^^xsd:string ;
     :relatedTo :Line_1042 .
 
-:TV_Line_1043_en a :TranslationVariant ;
+:TV_Line_1043_EN a :TranslationVariant ;
     :text "Allow that man to be buried; for I know well that"^^xsd:string ;
     :relatedTo :Line_1043 .
 
-:TV_Line_1044_en a :TranslationVariant ;
+:TV_Line_1044_EN a :TranslationVariant ;
     :text "No human being has the power to pollute the gods."^^xsd:string ;
     :relatedTo :Line_1044 .
 
-:TV_Line_1045_en a :TranslationVariant ;
+:TV_Line_1045_EN a :TranslationVariant ;
     :text "Men fall, old Teiresias, even among mortals"^^xsd:string ;
     :relatedTo :Line_1045 .
 
-:TV_Line_1046_en a :TranslationVariant ;
+:TV_Line_1046_EN a :TranslationVariant ;
     :text "The very clever ones often fall into shameful errors, when they"^^xsd:string ;
     :relatedTo :Line_1046 .
 
-:TV_Line_1047_en a :TranslationVariant ;
+:TV_Line_1047_EN a :TranslationVariant ;
     :text "Dress ugly words in fine speech for the sake of profit."^^xsd:string ;
     :relatedTo :Line_1047 .
 
-:TV_Line_1048_en a :TranslationVariant ;
+:TV_Line_1048_EN a :TranslationVariant ;
     :text "Alas! Does any man know, does any man understand,"^^xsd:string ;
     :relatedTo :Line_1048 .
 
-:TV_Line_1049_en a :TranslationVariant ;
+:TV_Line_1049_EN a :TranslationVariant ;
     :text "What is this? What common saying do you mean?"^^xsd:string ;
     :relatedTo :Line_1049 .
 
-:TV_Line_1050_en a :TranslationVariant ;
+:TV_Line_1050_EN a :TranslationVariant ;
     :text "How much the best of possessions is good judgment?"^^xsd:string ;
     :relatedTo :Line_1050 .
 
-:TV_Line_1051_en a :TranslationVariant ;
+:TV_Line_1051_EN a :TranslationVariant ;
     :text "By just so much, I think, lack of judgment is the greatest harm."^^xsd:string ;
     :relatedTo :Line_1051 .
 
-:TV_Line_1052_en a :TranslationVariant ;
+:TV_Line_1052_EN a :TranslationVariant ;
     :text "And yet you are full of precisely that disease."^^xsd:string ;
     :relatedTo :Line_1052 ;
     :description "Teiresias diagnoses Creon with the disease of thoughtlessness/madness."^^xsd:string .
 
-:TV_Line_1053_en a :TranslationVariant ;
+:TV_Line_1053_EN a :TranslationVariant ;
     :text "I do not wish to answer a prophet with insults."^^xsd:string ;
     :relatedTo :Line_1053 .
 
-:TV_Line_1054_en a :TranslationVariant ;
+:TV_Line_1054_EN a :TranslationVariant ;
     :text "And yet you do, when you say that I prophesy falsely."^^xsd:string ;
     :relatedTo :Line_1054 .
 
-:TV_Line_1055_en a :TranslationVariant ;
+:TV_Line_1055_EN a :TranslationVariant ;
     :text "For the whole prophetic tribe loves money."^^xsd:string ;
     :relatedTo :Line_1055 .
 
-:TV_Line_1056_en a :TranslationVariant ;
+:TV_Line_1056_EN a :TranslationVariant ;
     :text "And the race of tyrants loves shameful gain."^^xsd:string ;
     :relatedTo :Line_1056 .
 
-:TV_Line_1057_en a :TranslationVariant ;
+:TV_Line_1057_EN a :TranslationVariant ;
     :text "Do you know that in saying this you speak to your ruler?"^^xsd:string ;
     :relatedTo :Line_1057 .
 
-:TV_Line_1058_en a :TranslationVariant ;
+:TV_Line_1058_EN a :TranslationVariant ;
     :text "I know it; for through me you have this city preserved."^^xsd:string ;
     :relatedTo :Line_1058 .
 
-:TV_Line_1059_en a :TranslationVariant ;
+:TV_Line_1059_EN a :TranslationVariant ;
     :text "You are a wise prophet, but one who loves wrongdoing."^^xsd:string ;
     :relatedTo :Line_1059 .
 
-:TV_Line_1060_en a :TranslationVariant ;
+:TV_Line_1060_EN a :TranslationVariant ;
     :text "You will drive me to speak the fixed things in my mind."^^xsd:string ;
     :relatedTo :Line_1060 .
 
-:TV_Line_1061_en a :TranslationVariant ;
+:TV_Line_1061_EN a :TranslationVariant ;
     :text "Speak then, only do not speak for profit."^^xsd:string ;
     :relatedTo :Line_1061 .
 
-:TV_Line_1062_en a :TranslationVariant ;
+:TV_Line_1062_EN a :TranslationVariant ;
     :text "That is already how I seem to you, on your side at least."^^xsd:string ;
     :relatedTo :Line_1062 .
 
-:TV_Line_1063_en a :TranslationVariant ;
+:TV_Line_1063_EN a :TranslationVariant ;
     :text "Know this: you will not bargain away my judgment."^^xsd:string ;
     :relatedTo :Line_1063 .

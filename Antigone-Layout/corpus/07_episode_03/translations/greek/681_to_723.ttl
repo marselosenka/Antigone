@@ -4,110 +4,110 @@
 
 :episode_03-translations-681-723-greek a owl:Ontology .
 
-:TV_Line_682_gr a :TranslationVariant ;
+:TV_Line_682_GR a :TranslationVariant ;
     :text "φαίνεσαι, γι' αυτά που λες, να μιλάς με φρόνηση."^^xsd:string ;
     :relatedTo :Line_682 .
 
-:TV_Line_683_gr a :TranslationVariant ;
+:TV_Line_683_GR a :TranslationVariant ;
     :text "από όλα όσα υπάρχουν, αυτό είναι το υπέρτατο κτήμα."^^xsd:string ;
     :relatedTo :Line_683 .
 
-:TV_Line_685_gr a :TranslationVariant ;
+:TV_Line_685_GR a :TranslationVariant ;
     :text "κι εγώ, ότι εσύ δεν τα λες σωστά αυτά,"^^xsd:string ;
     :relatedTo :Line_685 .
 
-:TV_Line_686_gr a :TranslationVariant ;
+:TV_Line_686_GR a :TranslationVariant ;
     :text "ούτε θα μπορούσα ούτε θα ήξερα να το πω."^^xsd:string ;
     :relatedTo :Line_686 .
 
-:TV_Line_687_gr a :TranslationVariant ;
+:TV_Line_687_GR a :TranslationVariant ;
     :text "θα μπορούσε όμως και στον άλλον να ταιριάζει το σωστό."^^xsd:string ;
     :relatedTo :Line_687 .
 
-:TV_Line_688_gr a :TranslationVariant ;
+:TV_Line_688_GR a :TranslationVariant ;
     :text "όταν κάποιος μιλά ή πράττει ή έχει κάτι να σε ψέξει."^^xsd:string ;
     :relatedTo :Line_688 .
 
-:TV_Line_690_gr a :TranslationVariant ;
+:TV_Line_690_GR a :TranslationVariant ;
     :text "εμένα όμως κρυφά φτάνουν στ’ αυτιά μου αυτά,"^^xsd:string ;
     :relatedTo :Line_690 .
 
-:TV_Line_693_gr a :TranslationVariant ;
+:TV_Line_693_GR a :TranslationVariant ;
     :text "πως αυτή είναι η πιο ανάξια από όλες τις γυναίκες"^^xsd:string ;
     :relatedTo :Line_693 .
 
-:TV_Line_695_gr a :TranslationVariant ;
+:TV_Line_695_GR a :TranslationVariant ;
     :text "να χάνεται τόσο άσχημα για έργα τόσο ένδοξα."^^xsd:string ;
     :relatedTo :Line_695 .
 
-:TV_Line_696_gr a :TranslationVariant ;
+:TV_Line_696_GR a :TranslationVariant ;
     :text "που δεν άφησε τον πεσμένο αδελφό της άταφο,"^^xsd:string ;
     :relatedTo :Line_696 .
 
-:TV_Line_698_gr a :TranslationVariant ;
+:TV_Line_698_GR a :TranslationVariant ;
     :text "ούτε να χαθεί από κάποιο αρπακτικό όρνιο."^^xsd:string ;
     :relatedTo :Line_698 .
 
-:TV_Line_699_gr a :TranslationVariant ;
+:TV_Line_699_GR a :TranslationVariant ;
     :text "κι εγώ, αν εσύ, πατέρα, πράττεις σωστά και ευτυχώς,"^^xsd:string ;
     :relatedTo :Line_699 .
 
-:TV_Line_702_gr a :TranslationVariant ;
+:TV_Line_702_GR a :TranslationVariant ;
     :text "δεν υπάρχει τίποτα πιο πολύτιμο για μένα,"^^xsd:string ;
     :relatedTo :Line_702 .
 
-:TV_Line_703_gr a :TranslationVariant ;
+:TV_Line_703_GR a :TranslationVariant ;
     :text "γιατί ποιο μεγαλύτερο στολίδι στα παιδιά από πατέρα που ακμάζει σε δόξα,"^^xsd:string ;
     :relatedTo :Line_703 .
 
-:TV_Line_704_gr a :TranslationVariant ;
+:TV_Line_704_GR a :TranslationVariant ;
     :text "ή ποιο στον πατέρα από τη δόξα των παιδιών;"^^xsd:string ;
     :relatedTo :Line_704 .
 
-:TV_Line_705_gr a :TranslationVariant ;
+:TV_Line_705_GR a :TranslationVariant ;
     :text "μην έχεις τη γνώμη πως μόνο εσύ τα λες σωστά."^^xsd:string ;
     :relatedTo :Line_705 .
 
-:TV_Line_707_gr a :TranslationVariant ;
+:TV_Line_707_GR a :TranslationVariant ;
     :text "όποιος νομίζει πως μόνο αυτός φρονεί,"^^xsd:string ;
     :relatedTo :Line_707 .
 
-:TV_Line_708_gr a :TranslationVariant ;
+:TV_Line_708_GR a :TranslationVariant ;
     :text "ή πως μόνο αυτός έχει γλώσσα ή ψυχή,"^^xsd:string ;
     :relatedTo :Line_708 .
 
-:TV_Line_709_gr a :TranslationVariant ;
+:TV_Line_709_GR a :TranslationVariant ;
     :text "τέτοιοι, όταν ανοιχτούν, φαίνονται κούφιοι."^^xsd:string ;
     :relatedTo :Line_709 .
 
-:TV_Line_710_gr a :TranslationVariant ;
+:TV_Line_710_GR a :TranslationVariant ;
     :text "και για τον σοφό δεν είναι ντροπή να μη μένει άκαμπτος."^^xsd:string ;
     :relatedTo :Line_710 .
 
-:TV_Line_712_gr a :TranslationVariant ;
+:TV_Line_712_GR a :TranslationVariant ;
     :text "έτσι και το καράβι που κρατά σφιχτά το πανί"^^xsd:string ;
     :relatedTo :Line_712 .
 
-:TV_Line_716_gr a :TranslationVariant ;
+:TV_Line_716_GR a :TranslationVariant ;
     :text "αν μένει τεντωμένο και δεν υποχωρεί καθόλου, γυρίζει ανάποδα."^^xsd:string ;
     :relatedTo :Line_716 .
 
-:TV_Line_717_gr a :TranslationVariant ;
+:TV_Line_717_GR a :TranslationVariant ;
     :text "γιατί, αν υπάρχει κάποια σωστή γνώμη ακόμη κι από νεότερο από μένα,"^^xsd:string ;
     :relatedTo :Line_717 .
 
-:TV_Line_720_gr a :TranslationVariant ;
+:TV_Line_720_GR a :TranslationVariant ;
     :text "λέω πως είναι πολύ καλύτερο"^^xsd:string ;
     :relatedTo :Line_720 .
 
-:TV_Line_721_gr a :TranslationVariant ;
+:TV_Line_721_GR a :TranslationVariant ;
     :text "να είναι ο άνθρωπος γεμάτος γνώση σε όλα·"^^xsd:string ;
     :relatedTo :Line_721 .
 
-:TV_Line_722_gr a :TranslationVariant ;
+:TV_Line_722_GR a :TranslationVariant ;
     :text "κι αν όχι—γιατί συχνά η τύχη δεν γέρνει εκεί—"^^xsd:string ;
     :relatedTo :Line_722 .
 
-:TV_Line_723_gr a :TranslationVariant ;
+:TV_Line_723_GR a :TranslationVariant ;
     :text "να μαθαίνει· κι αυτό που ειπώθηκε καλά, καλό είναι να το ακούς."^^xsd:string ;
     :relatedTo :Line_723 .

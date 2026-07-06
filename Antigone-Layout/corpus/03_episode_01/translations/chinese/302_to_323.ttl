@@ -4,91 +4,91 @@
 
 :episode_01-translations-302-323-chinese a owl:Ontology .
 
-:TV_Line_302_zh a :TranslationVariant ;
+:TV_Line_302_ZH a :TranslationVariant ;
     :text "凡收受此类贿赂的人，"^^xsd:string ;
     :relatedTo :Line_302 .
 
-:TV_Line_303_zh a :TranslationVariant ;
+:TV_Line_303_ZH a :TranslationVariant ;
     :text "迟早都要付出代价。"^^xsd:string ;
     :relatedTo :Line_303 .
 
-:TV_Line_304_zh a :TranslationVariant ;
+:TV_Line_304_ZH a :TranslationVariant ;
     :text "只要我仍向宙斯祈祷，"^^xsd:string ;
     :relatedTo :Line_304 .
 
-:TV_Line_305_zh a :TranslationVariant ;
+:TV_Line_305_ZH a :TranslationVariant ;
     :text "记住我的话——我向你们发誓："^^xsd:string ;
     :relatedTo :Line_305 .
 
-:TV_Line_306_zh a :TranslationVariant ;
+:TV_Line_306_ZH a :TranslationVariant ;
     :text "若你们不把"^^xsd:string ;
     :relatedTo :Line_306 .
 
-:TV_Line_307_zh a :TranslationVariant ;
+:TV_Line_307_ZH a :TranslationVariant ;
     :text "那行此埋葬之人带到我眼前，"^^xsd:string ;
     :relatedTo :Line_307 .
 
-:TV_Line_308_zh a :TranslationVariant ;
+:TV_Line_308_ZH a :TranslationVariant ;
     :text "你们将遭逢比死更坏的命运："^^xsd:string ;
     :relatedTo :Line_308 .
 
-:TV_Line_309_zh a :TranslationVariant ;
+:TV_Line_309_ZH a :TranslationVariant ;
     :text "你们会被活活吊起，直到供出同党——"^^xsd:string ;
     :relatedTo :Line_309 .
 
-:TV_Line_310_zh a :TranslationVariant ;
+:TV_Line_310_ZH a :TranslationVariant ;
     :text "那时你们在偷窃中便会知道，你们的收入"^^xsd:string ;
     :relatedTo :Line_310 .
 
-:TV_Line_311_zh a :TranslationVariant ;
+:TV_Line_311_ZH a :TranslationVariant ;
     :text "本该来自何处，也终将明白"^^xsd:string ;
     :relatedTo :Line_311 .
 
-:TV_Line_312_zh a :TranslationVariant ;
+:TV_Line_312_ZH a :TranslationVariant ;
     :text "钱多并不总是好事。"^^xsd:string ;
     :relatedTo :Line_312 .
 
-:TV_Line_313_zh a :TranslationVariant ;
+:TV_Line_313_ZH a :TranslationVariant ;
     :text "你们会知道，此种可耻行径里"^^xsd:string ;
     :relatedTo :Line_313 .
 
-:TV_Line_314_zh a :TranslationVariant ;
+:TV_Line_314_ZH a :TranslationVariant ;
     :text "你们所得不及所失。"^^xsd:string ;
     :relatedTo :Line_314 .
 
-:TV_Line_315_zh a :TranslationVariant ;
+:TV_Line_315_ZH a :TranslationVariant ;
     :text "守卫：我可以说话，还是立刻滚开？"^^xsd:string ;
     :relatedTo :Line_315 .
 
-:TV_Line_316_zh a :TranslationVariant ;
+:TV_Line_316_ZH a :TranslationVariant ;
     :text "克瑞翁：你看不出你每说一句都让我痛吗？"^^xsd:string ;
     :relatedTo :Line_316 .
 
-:TV_Line_317_zh a :TranslationVariant ;
+:TV_Line_317_ZH a :TranslationVariant ;
     :text "守卫：我刺痛的是你的耳朵，还是你的心？"^^xsd:string ;
     :relatedTo :Line_317 .
 
-:TV_Line_318_zh a :TranslationVariant ;
+:TV_Line_318_ZH a :TranslationVariant ;
     :text "克瑞翁：为何还要试探我痛苦的极限？"^^xsd:string ;
     :relatedTo :Line_318 .
 
-:TV_Line_319_zh a :TranslationVariant ;
+:TV_Line_319_ZH a :TranslationVariant ;
     :text "守卫：罪犯刺痛你的心，我只刺痛你的耳朵。"^^xsd:string ;
     :relatedTo :Line_319 .
 
-:TV_Line_320_zh a :TranslationVariant ;
+:TV_Line_320_ZH a :TranslationVariant ;
     :text "克瑞翁：你现在只是胡言乱语。"^^xsd:string ;
     :relatedTo :Line_320 .
 
-:TV_Line_321_zh a :TranslationVariant ;
+:TV_Line_321_ZH a :TranslationVariant ;
     :text "守卫：也许吧，但这罪不是我犯的。"^^xsd:string ;
     :relatedTo :Line_321 .
 
-:TV_Line_322_zh a :TranslationVariant ;
+:TV_Line_322_ZH a :TranslationVariant ;
     :text "克瑞翁：你拿灵魂换银子。"^^xsd:string ;
     :relatedTo :Line_322 .
 
-:TV_Line_323_zh a :TranslationVariant ;
+:TV_Line_323_ZH a :TranslationVariant ;
     :text "守卫：唉，真可悲，裁判竟错判了人。"^^xsd:string ;
     :relatedTo :Line_323 .
 

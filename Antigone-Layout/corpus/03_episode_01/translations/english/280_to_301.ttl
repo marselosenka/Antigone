@@ -6,68 +6,68 @@
 :episode_01-translations-280-301-english a owl:Ontology .
 # English translation variants extracted from 280_to_301.ttl
 
-:TV_Line_280_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_280 ;
+:TV_Line_280_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_280 ;
   :text "CREON. Shut up! Before your words fill me with rage 280"^^xsd:string .
 
-:TV_Line_281_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_281 ;
+:TV_Line_281_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_281 ;
   :text "And we find out that you’re both old and stupid."^^xsd:string .
 
-:TV_Line_282_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_282 ;
+:TV_Line_282_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_282 ;
   :text "What you’ve said is unthinkable,"^^xsd:string .
 
-:TV_Line_283_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_283 ;
+:TV_Line_283_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_283 ;
   :text "That the gods are protecting this corpse."^^xsd:string .
 
-:TV_Line_284_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_284 ;
+:TV_Line_284_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_284 ;
   :text "Did they bury this man"^^xsd:string .
 
-:TV_Line_285_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_285 ;
+:TV_Line_285_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_285 ;
   :text "To honor his good deeds?"^^xsd:string .
 
-:TV_Line_286_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_286 ;
+:TV_Line_286_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_286 ;
   :text "This man who came to burn 285"^^xsd:string .
 
-:TV_Line_287_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_287 ;
+:TV_Line_287_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_287 ;
   :text "Their pillar-girded temples, their holy offerings, their land—"^^xsd:string .
 
-:TV_Line_288_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_288 ;
+:TV_Line_288_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_288 ;
   :text "This man who threw the laws to the wind?"^^xsd:string .
 
-:TV_Line_289_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_289 ;
+:TV_Line_289_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_289 ;
   :text "No; but for some time now certain men of the city"^^xsd:string .
 
-:TV_Line_290_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_290 ;
+:TV_Line_290_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_290 ;
   :text "Have been muttering against me, 290"^^xsd:string .
 
-:TV_Line_291_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_291 ;
+:TV_Line_291_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_291 ;
   :text "Throwing back their heads in secret, refusing to bring"^^xsd:string .
 
-:TV_Line_292_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_292 ;
+:TV_Line_292_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_292 ;
   :text "Their necks under the yoke in just submission to me."^^xsd:string .
 
-:TV_Line_293_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_293 ;
+:TV_Line_293_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_293 ;
   :text "For this reason it is clear that"^^xsd:string .
 
-:TV_Line_294_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_294 ;
+:TV_Line_294_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_294 ;
   :text "These men were bribed."^^xsd:string .
 
-:TV_Line_295_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_295 ;
+:TV_Line_295_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_295 ;
   :text "In all mankind there is no worse custom 295"^^xsd:string .
 
-:TV_Line_296_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_296 ;
+:TV_Line_296_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_296 ;
   :text "Than money. It corrupts cities,"^^xsd:string .
 
-:TV_Line_297_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_297 ;
+:TV_Line_297_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_297 ;
   :text "It drives men from their homes,"^^xsd:string .
 
-:TV_Line_298_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_298 ;
+:TV_Line_298_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_298 ;
   :text "It seduces them and instructs their otherwise"^^xsd:string .
 
-:TV_Line_299_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_299 ;
+:TV_Line_299_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_299 ;
   :text "Capable minds in the ways of savagery."^^xsd:string .
 
-:TV_Line_300_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_300 ;
+:TV_Line_300_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_300 ;
   :text "It taught mankind wickedness. 300"^^xsd:string .
 
-:TV_Line_301_En a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_301 ;
+:TV_Line_301_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_301 ;
   :text "It makes every act ungodly."^^xsd:string .

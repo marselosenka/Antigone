@@ -5,52 +5,52 @@
 :episode_04-translations-806-822-english a owl:Ontology .
 # English translation variants extracted from 806_to_822.ttl
 
-:TV_Line_806_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_806_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Look at me, o citizens of my fatherland, as I set out"^^xsd:string ;
     :relatedTo :Line_806 .
 
-:TV_Line_807_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_807_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "on my last journey, as I gaze upon my last sunlight,"^^xsd:string ;
     :relatedTo :Line_807 .
 
 # Line 808, 809 do not exist in Antigone
-:TV_Line_810_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_810_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "and never again; but Hades, who puts all to sleep, leads me, still living,"^^xsd:string ;
     :relatedTo :Line_810 .
 
-:TV_Line_811_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_811_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "To Acheron’s"^^xsd:string ;
     :relatedTo :Line_811 .
 
-:TV_Line_812_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_812_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "shore, without any share in bridal songs or wedding rites,"^^xsd:string ;
     :relatedTo :Line_812 .
 
 # Line 813, 814 do not exist in Antigone
-:TV_Line_815_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_815_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "No song has been sung for me at my marriage, but instead I shall wed Acheron."^^xsd:string ;
     :relatedTo :Line_815 .
 
-:TV_Line_817_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_817_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "And so in renown and with praise"^^xsd:string ;
     :relatedTo :Line_817 .
 
-:TV_Line_818_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_818_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "You journey to the corpse-filled depths,"^^xsd:string ;
     :relatedTo :Line_818 .
 
-:TV_Line_819_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_819_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Neither lashed by flesh-wasting plague"^^xsd:string ;
     :relatedTo :Line_819 .
 
-:TV_Line_820_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_820_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Nor chancing upon death by sword;"^^xsd:string ;
     :relatedTo :Line_820 .
 
-:TV_Line_821_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_821_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "Rather, living alone and self-determined,"^^xsd:string ;
     :relatedTo :Line_821 .
 
-:TV_Line_822_en a owl:NamedIndividual, :TranslationVariant ;
+:TV_Line_822_EN a owl:NamedIndividual, :TranslationVariant ;
     :text "you will go down to Hades, alone among mortals."^^xsd:string ;
     :relatedTo :Line_822 .

@@ -6,78 +6,78 @@
 :prologue-translations-1-19-english a owl:Ontology .
 # English translation variants extracted from 1_to_19.ttl
 
-:TV_Line_001_en a :TranslationVariant ;
+:TV_Line_001_EN a :TranslationVariant ;
 :text "Ismene, sweet Ismene, my dear sister!"^^xsd:string ;
 :relatedTo :Line_001 .
 
-:TV_Line_002_en a :TranslationVariant ;
+:TV_Line_002_EN a :TranslationVariant ;
 :text "Will Zeus, in our lifetime, spare us"^^xsd:string ;
 :relatedTo :Line_002 .
 
-:TV_Line_003_en a :TranslationVariant ;
+:TV_Line_003_EN a :TranslationVariant ;
 :text "From the troubles of Oedipus?"^^xsd:string ;
 :relatedTo :Line_003 .
 
-:TV_Line_004_en a :TranslationVariant ;
+:TV_Line_004_EN a :TranslationVariant ;
 :text "You and I have already"^^xsd:string ;
 :relatedTo :Line_004 .
 
-:TV_Line_005_en a :TranslationVariant ;
+:TV_Line_005_EN a :TranslationVariant ;
 :text "Suffered every pain, every disaster,"^^xsd:string ;
 :relatedTo :Line_005 .
 
-:TV_Line_006_en a :TranslationVariant ;
+:TV_Line_006_EN a :TranslationVariant ;
 :text "Every shame, every dishonor in our own troubles."^^xsd:string ;
 :relatedTo :Line_006 .
 
-:TV_Line_007_en a :TranslationVariant ;
+:TV_Line_007_EN a :TranslationVariant ;
 :text "Now—what’s this new decree"^^xsd:string ;
 :relatedTo :Line_007 .
 
-:TV_Line_008_en a :TranslationVariant ;
+:TV_Line_008_EN a :TranslationVariant ;
 :text "They say the general has imposed"^^xsd:string ;
 :relatedTo :Line_008 .
 
-:TV_Line_009_en a :TranslationVariant ;
+:TV_Line_009_EN a :TranslationVariant ;
 :text "Upon the city? Have you heard word of our brothers,"^^xsd:string ;
 :relatedTo :Line_009 .
 
-:TV_Line_010_en a :TranslationVariant ;
+:TV_Line_010_EN a :TranslationVariant ;
 :text "Or do the crimes of our enemies fall on deaf ears?"^^xsd:string ;
 :relatedTo :Line_010 .
 
-:TV_Line_011_en a :TranslationVariant ;
+:TV_Line_011_EN a :TranslationVariant ;
 :text "I’ve heard nothing new, Antigone, of our brothers,"^^xsd:string ;
 :relatedTo :Line_011 .
 
-:TV_Line_012_en a :TranslationVariant ;
+:TV_Line_012_EN a :TranslationVariant ;
 :text "Good or bad. No one has come"^^xsd:string ;
 :relatedTo :Line_012 .
 
-:TV_Line_013_en a :TranslationVariant ;
+:TV_Line_013_EN a :TranslationVariant ;
 :text "Since we two sisters lost our two brothers,"^^xsd:string ;
 :relatedTo :Line_013 .
 
-:TV_Line_014_en a :TranslationVariant ;
+:TV_Line_014_EN a :TranslationVariant ;
 :text "Dead on a single day, each by the other’s hand."^^xsd:string ;
 :relatedTo :Line_014 .
 
-:TV_Line_015_en a :TranslationVariant ;
+:TV_Line_015_EN a :TranslationVariant ;
 :text "The Argive army disappeared in the night—"^^xsd:string ;
 :relatedTo :Line_015 .
 
-:TV_Line_016_en a :TranslationVariant ;
+:TV_Line_016_EN a :TranslationVariant ;
 :text "I know nothing more"^^xsd:string ;
 :relatedTo :Line_016 .
 
-:TV_Line_017_en a :TranslationVariant ;
+:TV_Line_017_EN a :TranslationVariant ;
 :text "Of what is to come of me."^^xsd:string ;
 :relatedTo :Line_017 .
 
-:TV_Line_018_en a :TranslationVariant ;
+:TV_Line_018_EN a :TranslationVariant ;
 :text "That’s why I called you here with me,"^^xsd:string ;
 :relatedTo :Line_018 .
 
-:TV_Line_019_en a :TranslationVariant ;
+:TV_Line_019_EN a :TranslationVariant ;
 :text "Outside the gates, so only you would hear."^^xsd:string ;
 :relatedTo :Line_019 .

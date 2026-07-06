@@ -3,21 +3,34 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+:stasimon_04-semantics a owl:Ontology .
+
 # =========================
 # SCENE INFORMATION
 # =========================
 
 :Antigone_Stasimon_04
-a :Stasimon_04 ;
-:sceneNumber "Stasimon 4"^^xsd:string ;
-:hasSpeech 
-    :Speech_Chorus_944_953,
-    :Speech_Chorus_955_965,
-    :Speech_Chorus_966_976,
-    :Speech_Chorus_977_987 ;
-:developsTheme :Theme_FateInevitability, :Theme_NobleSuffering ;
-:referencesMyth :Myth_PhineusSons, :Myth_CleopatraBoread ;
-:hasHistoricalContext :Context_MythologicalPrecedents .
+    a :Stasimon_04,
+        owl:NamedIndividual ;
+    :sceneNumber "Stasimon 4"^^xsd:string ;
+    :hasSpeech 
+        :Speech_Chorus_944_953,
+        :Speech_Chorus_955_965,
+        :Speech_Chorus_966_976,
+        :Speech_Chorus_977_987 ;
+    :developsTheme 
+        :Theme_FateInevitability,
+        :Theme_NobleSuffering ;
+    :referencesMyth 
+        :Myth_PhineusSons,
+        :Myth_CleopatraBoread ;
+    :relatedTo :Context_MythologicalPrecedents ;
+    :involvesCharacter 
+      :Antigone_Character_Chorus,
+      :Antigone_Character_Phineids,
+      :Antigone_Character_Cleopatra,
+      :Antigone_Character_Ares,
+      :Antigone_Character_Fates .
 
 # =========================
 # CHARACTERS
@@ -53,7 +66,7 @@ a :Character ;
 # SPEECHES
 # =========================
 
-:Speech_Chorus_944_953 a :ChoralSong ;
+:Speech_Chorus_944_953 a :ChoralSong;
   :speechBy :Antigone_Character_Chorus ;
   :containsLine :Line_944, :Line_945, :Line_946, :Line_947, :Line_950, :Line_951, :Line_952, :Line_953 .
 

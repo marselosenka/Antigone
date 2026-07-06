@@ -2,7 +2,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-:stasimon02-structure a owl:Ontology .
+:stasimon_02-structure a owl:Ontology .
 
 #:Line_582 a owl:NamedIndividual, :Line ;
 #    :lineNumber 582 ;
@@ -13,6 +13,7 @@
 :Line_583 a owl:NamedIndividual, :Line ;
     :lineNumber 583 ;
     :canonicalReference "583"^^xsd:string ;
+    :partOfScene :Antigone_Scene_Stasimon_02;
     :text "Εὐδαίμονες οἷσι κακῶν ἀγευστος αἰών·"^^xsd:string ;
     :hasTheme :Theme_HumanFrailty .
 

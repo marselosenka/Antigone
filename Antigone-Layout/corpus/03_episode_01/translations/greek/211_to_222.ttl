@@ -4,50 +4,50 @@
 
 :episode_01-translations-211-222-greek a owl:Ontology .
 
-:TV_Line_211_gr a :TranslationVariant ;
+:TV_Line_211_GR a :TranslationVariant ;
     :text "Σε σένα αρέσει, γιε του Μενοικέα, να πράττεις έτσι"^^xsd:string ;
     :relatedTo :Line_211 .
 
-:TV_Line_212_gr a :TranslationVariant ;
+:TV_Line_212_GR a :TranslationVariant ;
     :text "για τον εχθρικό και τον ευνοϊκό προς την πόλη."^^xsd:string ;
     :relatedTo :Line_212 .
 
-:TV_Line_213_gr a :TranslationVariant ;
+:TV_Line_213_GR a :TranslationVariant ;
     :text "Και να χρησιμοποιείς κάθε νόμο, αυτό είναι στο χέρι σου"^^xsd:string ;
     :relatedTo :Line_213 .
 
-:TV_Line_214_gr a :TranslationVariant ;
+:TV_Line_214_GR a :TranslationVariant ;
     :text "και για τους νεκρούς και για όσους ζούμε."^^xsd:string ;
     :relatedTo :Line_214 .
 
-:TV_Line_215_gr a :TranslationVariant ;
+:TV_Line_215_GR a :TranslationVariant ;
     :text "Να είστε λοιπόν τώρα φύλακες όσων ειπώθηκαν."^^xsd:string ;
     :relatedTo :Line_215 .
 
-:TV_Line_216_gr a :TranslationVariant ;
+:TV_Line_216_GR a :TranslationVariant ;
     :text "Βάλε το βάρος αυτό σε κάποιον νεότερο."^^xsd:string ;
     :relatedTo :Line_216 .
 
-:TV_Line_217_gr a :TranslationVariant ;
+:TV_Line_217_GR a :TranslationVariant ;
     :text "Αλλά υπάρχουν ήδη έτοιμοι επιτηρητές του νεκρού."^^xsd:string ;
     :relatedTo :Line_217 .
 
-:TV_Line_218_gr a :TranslationVariant ;
+:TV_Line_218_GR a :TranslationVariant ;
     :text "Τι άλλο λοιπόν μας διατάζεις ακόμη;"^^xsd:string ;
     :relatedTo :Line_218 .
 
-:TV_Line_219_gr a :TranslationVariant ;
+:TV_Line_219_GR a :TranslationVariant ;
     :text "Να μην υποχωρείτε καθόλου σ’ εκείνους που δεν πειθαρχούν."^^xsd:string ;
     :relatedTo :Line_219 .
 
-:TV_Line_220_gr a :TranslationVariant ;
+:TV_Line_220_GR a :TranslationVariant ;
     :text "Δεν υπάρχει τόσο ανόητος που να ποθεί να πεθάνει."^^xsd:string ;
     :relatedTo :Line_220 .
 
-:TV_Line_221_gr a :TranslationVariant ;
+:TV_Line_221_GR a :TranslationVariant ;
     :text "Κι όμως αυτό είναι το κέρδος τους· μα συχνά οι ελπίδες"^^xsd:string ;
     :relatedTo :Line_221 .
 
-:TV_Line_222_gr a :TranslationVariant ;
+:TV_Line_222_GR a :TranslationVariant ;
     :text "και το κέρδος έχουν οδηγήσει τους ανθρώπους στην καταστροφή."^^xsd:string ;
     :relatedTo :Line_222 .

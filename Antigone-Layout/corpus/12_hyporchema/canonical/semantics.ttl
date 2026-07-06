@@ -2,6 +2,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+:hyporchema-semantics a owl:Ontology .
 
 :Antigone_Hyporchema a :Hyporchema ;
     :hasSpeech 
