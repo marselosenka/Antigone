@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     /* Triples: try Fuseki, fall back to corpus count */
     const FALLBACK_TRIPLES = 6789;
-    fetch('http://localhost:3030/antigone/query?query=' +
+    fetch('/antigone_kb/query?query=' +
         encodeURIComponent('SELECT (COUNT(*) AS ?n) WHERE { ?s ?p ?o }'),
         { headers: { 'Accept': 'application/sparql-results+json' } })
         .then(r => r.ok ? r.json() : Promise.reject())

@@ -1,7 +1,7 @@
 
 const sceneReader = (() => {
 
-    const ENDPOINT = 'http://localhost:3030/antigone/query';
+    const ENDPOINT = '/antigone_kb/query';
 
     /* Cache so we don't re-query when the user re-clicks the same scene */
     const cache = new Map();   // sceneId → { lines: [...], speakers: Map<lineNum,charId> }
@@ -332,6 +332,7 @@ SELECT DISTINCT ?speech ?theme ?myth ?motivation ?n WHERE {
 
     async function loadScene(sceneId) {
         currentSceneId = sceneId;
+        try { sessionStorage.setItem('antigone_scene', sceneId); } catch (_) {}
         const scene = playData.scenes.find(s => s.id === sceneId);
         if (!scene) return;
 

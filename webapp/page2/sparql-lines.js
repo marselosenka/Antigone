@@ -1,7 +1,7 @@
 // SPARQL LINE NAVIGATOR  (Page 2)
 const sparqlLineNavigator = (() => {
     const state = {
-        endpoint:        'http://localhost:3030/antigone/query',
+        endpoint:        '/antigone_kb/query',
         lines:           [],
         currentIndex:    -1,
         lineIndexByNumber: new Map()
@@ -127,6 +127,7 @@ ORDER BY ?n
 
             showLineByIndex(firstIndex);
             setStatus(`Loaded ${state.lines.length} lines. Ready to navigate.`);
+            try { sessionStorage.setItem('antigone_lines', JSON.stringify(state.lines)); } catch (_) {}
             if (goButton) goButton.disabled = false;
         } catch (error) {
             setStatus(`SPARQL error: ${error.message}`);
@@ -234,6 +235,24 @@ ORDER BY ?n
         if (!loadButton || !nextButton || !prevButton || !goButton || !input) return;
 
         loadButton.addEventListener('click', loadLines);
+
+        // Auto-restore previously loaded lines (survives page navigation)
+        try {
+            const saved = sessionStorage.getItem('antigone_lines');
+            if (saved) {
+                const arr = JSON.parse(saved);
+                if (Array.isArray(arr) && arr.length) {
+                    state.lines = arr;
+                    state.lineIndexByNumber = new Map(arr.map((line, i) => [line.lineNumber, i]));
+                    const firstIndex = findNextDisplayableIndex(-1);
+                    if (firstIndex !== -1) {
+                        showLineByIndex(firstIndex);
+                        setStatus(`Loaded ${state.lines.length} lines (restored).`);
+                        if (goButton) goButton.disabled = false;
+                    }
+                }
+            }
+        } catch (_) {}
         nextButton.addEventListener('click', showNextLine);
         prevButton.addEventListener('click', showPreviousLine);
         goButton.addEventListener('click',   goToLineFromInput);

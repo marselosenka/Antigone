@@ -7,6 +7,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     /* Whenever the navigator changes line, refresh context sidebar + reader highlight */
     sparqlLineNavigator.onLineChange = handleLineChange;
+
+    /* Auto-restore the last opened scene (survives page navigation) */
+    try {
+        const savedScene = sessionStorage.getItem('antigone_scene');
+        if (savedScene) {
+            const tag = Array.from(document.querySelectorAll('#scenes-container-page2 .tag'))
+                .find(t => {
+                    const sc = playData.scenes.find(s => s.name === t.textContent.trim());
+                    return sc && sc.id === savedScene;
+                });
+            if (tag) tag.click();
+        }
+    } catch (_) {}
 });
 
 function renderSceneList() {
