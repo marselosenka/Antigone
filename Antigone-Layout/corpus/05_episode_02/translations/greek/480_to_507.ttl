@@ -1,3 +1,7 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
 # --- 480 ---
 :TV_Line_480_GR a owl:NamedIndividual, :TranslationVariant ;
 :relatedTo :Line_480 ;
