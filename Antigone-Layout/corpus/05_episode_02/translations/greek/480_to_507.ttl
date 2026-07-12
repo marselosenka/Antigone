@@ -1,0 +1,139 @@
+# --- 480 ---
+:TV_Line_480_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_480 ;
+:text "Αυτή ήξερε καλά και τότε να φέρεται με αυθάδεια,"^^xsd:string .
+
+# --- 481 ---
+:TV_Line_481_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_481 ;
+:text "παραβαίνοντας τους νόμους που είχαν θεσπιστεί?"^^xsd:string .
+
+# --- 482 ---
+:TV_Line_482_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_482 ;
+:text "και τώρα, αφού το έπραξε, αυτή είναι η δεύτερη ύβρη της:"^^xsd:string .
+
+# --- 483 ---
+:TV_Line_483_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_483 ;
+:text "να καυχιέται γι’ αυτά και να γελά για όσα έκανε."^^xsd:string .
+
+# --- 484 ---
+:TV_Line_484_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_484 ;
+:text "Τώρα λοιπόν εγώ δεν είμαι άντρας, αλλά άντρας είναι αυτή,"^^xsd:string .
+
+# --- 485 ---
+:TV_Line_485_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_485 ;
+:text "αν αυτή η νίκη της μείνει ατιμώρητη."^^xsd:string .
+
+# --- 486 ---
+:TV_Line_486_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_486 ;
+:text "Μα είτε είναι κόρη της αδελφής μου είτε συγγενεύει μαζί μου πιο στενά"^^xsd:string .
+
+# --- 487 ---
+:TV_Line_487_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_487 ;
+:text "από όλους όσοι τελούν υπό την προστασία του Δία του σπιτιού μας,"^^xsd:string .
+
+# --- 488 ---
+:TV_Line_488_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_488 ;
+:text "ούτε αυτή ούτε η ομόαιμη αδελφή της θα ξεφύγουν"^^xsd:string .
+
+# --- 489 ---
+:TV_Line_489_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_489 ;
+:text "από τον πιο άθλιο θάνατο? γιατί και εκείνη εξίσου"^^xsd:string .
+
+# --- 490 ---
+:TV_Line_490_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_490 ;
+:text "την κατηγορώ πως σχεδίασε αυτή την ταφή."^^xsd:string .
+
+# --- 491 ---
+:TV_Line_491_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_491 ;
+:text "Καλέστε κι εκείνη· γιατί μόλις τώρα την είδα μέσα"^^xsd:string .
+
+# --- 492 ---
+:TV_Line_492_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_492 ;
+:text "να παραληρεί και να μην έχει τον νου της."^^xsd:string .
+
+# --- 493 ---
+:TV_Line_493_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_493 ;
+:text "Γιατί η ταραχή της ψυχής συχνά προδίδει από πριν τον κλέφτη"^^xsd:string .
+
+# --- 494 ---
+:TV_Line_494_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_494 ;
+:text "εκείνων που μηχανεύονται άδικα πράγματα στα κρυφά·"^^xsd:string .
+
+# --- 495 ---
+:TV_Line_495_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_495 ;
+:text "μα μισώ ακόμη περισσότερο όποιον, όταν πιαστεί σε κακή πράξη,"^^xsd:string .
+
+# --- 496 ---
+:TV_Line_496_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_496 ;
+:text "ύστερα προσπαθεί να την παρουσιάσει ως έντιμη."^^xsd:string .
+
+# --- 497 ---
+:TV_Line_497_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_497 ;
+:text "Θέλεις κάτι περισσότερο από το να με συλλάβεις και να με σκοτώσεις;"^^xsd:string .
+
+# --- 498 --
+:TV_Line_498_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_498 ;
+:text "Εγώ τίποτε περισσότερο· αν το πετύχω αυτό, τα έχω όλα."^^xsd:string .
+
+# --- 499 ---
+:TV_Line_499_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_499 ;
+:text "Τότε γιατί αργείς; Γιατί από τα λόγια σου τίποτε"^^xsd:string .
+
+# --- 500 ---
+:TV_Line_500_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_500 ;
+:text "δεν μου είναι ευχάριστο, ούτε μακάρι να μου αρέσει ποτέ·"^^xsd:string .
+
+# --- 501 ---
+:TV_Line_501_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_501 ;
+:text "Το ίδιο και τα δικά μου λόγια είναι από τη φύση τους δυσάρεστα σ’ εσένα."^^xsd:string .
+
+# --- 502 ---
+:TV_Line_502_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_502 ;
+:text "Κι όμως, από πού θα μπορούσα να αποκτήσω ενδοξότερη δόξα"^^xsd:string .
+
+# --- 503 ---
+:TV_Line_503_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_503 ;
+:text "παρά βάζοντας στον τάφο τον αδελφό μου,"^^xsd:string .
+
+# --- 504 ---
+:TV_Line_504_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_504 ;
+:text "τον ίδιο μου τον αδελφό; Όλοι αυτοί θα έλεγαν πως το εγκρίνουν,"^^xsd:string .
+
+# --- 505 ---
+:TV_Line_505_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_505 ;
+:text "αν ο φόβος δεν τους κρατούσε τη γλώσσα κλειστή."^^xsd:string .
+
+# --- 506 ---
+:TV_Line_506_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_506 ;
+:text "Μα η τυραννία, ανάμεσα στα πολλά άλλα προνόμιά της,"^^xsd:string .
+
+# --- 507 ---
+:TV_Line_507_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_507 ;
+:text "μπορεί να κάνει και να λέει ό,τι θέλει."^^xsd:string .

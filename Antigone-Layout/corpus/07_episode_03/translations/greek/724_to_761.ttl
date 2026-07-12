@@ -4,13 +4,33 @@
 
 :episode_03-translations-724-761-greek a owl:Ontology .
 
+:TV_Line_724_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_724 ;
+    :text "Άρχοντα, είναι σωστό, αν εκείνος λέει κάτι εύστοχο,"^^xsd:string .
+
+:TV_Line_725_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_725 ;
+    :text "να μάθεις από αυτόν, κι εκείνος πάλι από εσένα· γιατί και οι δύο μιλήσατε σωστά."^^xsd:string .
+
 :TV_Line_726_GR a :TranslationVariant ;
     :text "και τίποτα άδικο· κι αν εγώ είμαι νέος,"^^xsd:string ;
     :relatedTo :Line_726 .
 
+:TV_Line_727_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_727 ;
+    :text "Στην ηλικία μου θα διδαχθώ λοιπόν φρόνηση από έναν τόσο νέο άντρα;"^^xsd:string .
+
+:TV_Line_728_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_728 ;
+    :text "Τίποτε που να μην είναι δίκαιο· κι αν εγώ είμαι νέος,"^^xsd:string .
+
 :TV_Line_729_GR a :TranslationVariant ;
     :text "είναι άραγε σωστό έργο να τιμάς τους άτακτους;"^^xsd:string ;
     :relatedTo :Line_729 .
+
+:TV_Line_730_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_730 ;
+    :text "Είναι λοιπόν σωστό να σέβεται κανείς όσους παρανομούν;"^^xsd:string .
 
 :TV_Line_731_GR a :TranslationVariant ;
     :text "ούτε θα πρόσταζα ποτέ να σέβεται κανείς τους κακούς."^^xsd:string ;
@@ -40,6 +60,26 @@
     :text "παγκάκιστε, πηγαίνεις έτσι ενάντια στον πατέρα;"^^xsd:string ;
     :relatedTo :Line_737 .
 
+:TV_Line_738_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_738 ;
+    :text "Δεν θεωρείται η πόλη κτήμα εκείνου που την κυβερνά;"^^xsd:string .
+
+:TV_Line_739_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_739 ;
+    :text "Θα κυβερνούσες θαυμάσια μόνος σου μια έρημη χώρα."^^xsd:string .
+
+:TV_Line_740_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_740 ;
+    :text "Αυτός, καθώς φαίνεται, συμμαχεί με τη γυναίκα."^^xsd:string .
+
+:TV_Line_741_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_741 ;
+    :text "Αν εσύ είσαι γυναίκα· γιατί για σένα νοιάζομαι."^^xsd:string .
+
+:TV_Line_742_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_742 ;
+    :text "Αχ, παλιάνθρωπε, αντιδικείς έτσι με τον πατέρα σου;"^^xsd:string .
+
 :TV_Line_743_GR a :TranslationVariant ;
     :text "γιατί δεν σε βλέπω να σφάλλεις από το δίκαιο."^^xsd:string ;
     :relatedTo :Line_743 .
@@ -47,6 +87,18 @@
 :TV_Line_744_GR a :TranslationVariant ;
     :text "δεν θα με πιάσεις κατώτερο μπροστά στα αισχρά."^^xsd:string ;
     :relatedTo :Line_744 .
+
+:TV_Line_745_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_745 ;
+    :text "Γιατί δεν δείχνεις σεβασμό, αφού καταπατάς τις τιμές των θεών."^^xsd:string .
+
+:TV_Line_746_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_746 ;
+    :text "Αχ, μιαρό ήθος, κατώτερο ακόμη κι από γυναίκας."^^xsd:string .
+
+:TV_Line_747_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_747 ;
+    :text "Δεν θα με έβρισκες τουλάχιστον ηττημένο από τις ντροπές."^^xsd:string .
 
 :TV_Line_748_GR a :TranslationVariant ;
     :text "όλος αυτός ο λόγος σου είναι για χάρη εκείνης."^^xsd:string ;
@@ -60,9 +112,21 @@
     :text "και μάλιστα έτσι προχωράς, απειλώντας με θράσος;"^^xsd:string ;
     :relatedTo :Line_750 .
 
+:TV_Line_751_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_751 ;
+    :text "Εκείνη λοιπόν θα πεθάνει, και πεθαίνοντας θα καταστρέψει κι άλλον."^^xsd:string .
+
+:TV_Line_752_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_752 ;
+    :text "Ώστε προχωρείς τόσο θρασύς και με απειλές;"^^xsd:string .
+
 :TV_Line_753_GR a :TranslationVariant ;
     :text "φωνάζοντας θα διορθώσεις εμένα, ενώ εσύ είσαι άδειος νου."^^xsd:string ;
     :relatedTo :Line_753 .
+
+:TV_Line_754_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_754 ;
+    :text "Κλαίγοντας θα βάλεις μυαλό, εσύ που ο ίδιος δεν έχεις μυαλό."^^xsd:string .
 
 :TV_Line_755_GR a :TranslationVariant ;
     :text "αν δεν ήσουν πατέρας, θα έλεγα πως δεν φρονείς σωστά."^^xsd:string ;
@@ -72,10 +136,22 @@
     :text "θέλεις να μιλάς και, μιλώντας, να μη ακούς τίποτα;"^^xsd:string ;
     :relatedTo :Line_756 .
 
+:TV_Line_757_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_757 ;
+    :text "Θέλεις να μιλάς και, ενώ μιλάς, να μην ακούς τίποτε;"^^xsd:string .
+
 :TV_Line_758_GR a :TranslationVariant ;
     :text "χαίρεσαι να με γεννάς μέσα στις κατηγορίες;"^^xsd:string ;
     :relatedTo :Line_758 .
 
+:TV_Line_759_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_759 ;
+    :text "Χαιρέκακα θα με βρίζεις με κατηγορίες."^^xsd:string .
+
 :TV_Line_760_GR a :TranslationVariant ;
     :text "μπροστά σου θα πεθάνει, κοντά στον μνηστήρα της."^^xsd:string ;
     :relatedTo :Line_760 .
+
+:TV_Line_761_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_761 ;
+    :text "Θα πεθάνει μπροστά σου, κοντά στον μνηστήρα της."^^xsd:string .

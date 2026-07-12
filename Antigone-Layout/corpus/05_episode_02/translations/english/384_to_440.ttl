@@ -57,25 +57,25 @@
   :text "to be free and clear of these troubles."^^xsd:string .
 
 :TV_Line_401_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_401 ;
-  :text "CREON. You bring her? In what way and where was she taken?"^^xsd:string .
+  :text "You bring her? In what way and where was she taken?"^^xsd:string .
 
 :TV_Line_402_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_402 ;
-  :text "GUARD. She was burying the man; you know all there is."^^xsd:string .
+  :text "She was burying the man; you know all there is."^^xsd:string .
 
 :TV_Line_403_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_403 ;
-  :text "CREON. Do you understand and speak correctly what you say?"^^xsd:string .
+  :text "Do you understand and speak correctly what you say?"^^xsd:string .
 
 :TV_Line_404_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_404 ;
-  :text "GUARD. I saw her burying the corpse which you"^^xsd:string .
+  :text "I saw her burying the corpse which you"^^xsd:string .
 
 :TV_Line_405_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_405 ;
   :text "had forbidden. Are my words clear and plain enough?"^^xsd:string .
 
 :TV_Line_406_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_406 ;
-  :text "CREON. And how was she seen and caught in the act?"^^xsd:string .
+  :text "And how was she seen and caught in the act?"^^xsd:string .
 
 :TV_Line_407_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_407 ;
-  :text "GUARD. It happened this way: When we arrived,"^^xsd:string .
+  :text "It happened this way: When we arrived,"^^xsd:string .
 
 :TV_Line_408_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_408 ;
   :text "driven by those terrible threats of yours,"^^xsd:string .
@@ -111,12 +111,12 @@
   :text "a whirlwind raised a storm, a heavenly grief,"^^xsd:string .
 
 :TV_Line_419_EN a owl:NamedIndividual ,
-:TranslationVariant ; :relatedTo :Line_419 ;
-:text "filling the plain, ravaging all in terror,"^^xsd:string .
+  :TranslationVariant ; :relatedTo :Line_419 ;
+  :text "filling the plain, ravaging all in terror,"^^xsd:string .
 
 :TV_Line_420_EN a owl:NamedIndividual ,
-:TranslationVariant ; :relatedTo :Line_420 ;
-:text "stripping the woodland forest, while the vast air filled with dust,"^^xsd:string .
+  :TranslationVariant ; :relatedTo :Line_420 ;
+  :text "stripping the woodland forest, while the vast air filled with dust,"^^xsd:string .
 
 :TV_Line_421_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_421 ;
   :text "We closed our eyes and endured that divine plague."^^xsd:string .

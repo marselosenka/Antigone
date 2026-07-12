@@ -843,13 +843,13 @@
 :Line_1293 a :Line ;
     :lineNumber 1293 ;
     :canonicalReference "1293" ;
-    :text "ΧΟ. Ὁρᾶν πάρεστιν· οὐ γὰρ ἐν μυχοῖς ἔτι."^^xsd:string .
+    :text "Ὁρᾶν πάρεστιν· οὐ γὰρ ἐν μυχοῖς ἔτι."^^xsd:string .
 
 # --- 1294 ---
 :Line_1294 a :Line ;
     :lineNumber 1294 ;
     :canonicalReference "1294" ;
-    :text "ΚΡ. Οἴμοι,"^^xsd:string .
+    :text "Οἴμοι,"^^xsd:string .
 
 # --- 1295 ---
 :Line_1295 a :Line ;

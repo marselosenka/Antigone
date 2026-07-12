@@ -10,6 +10,7 @@
     :canonicalReference "781"^^xsd:string ;
     :text "Ἔρως ἀνίκατε μάχαν, Ἔρως, ὃς ἐν κτήμασι πίπτεις,"^^xsd:string .
 
+# --- 782 ---
 :Line_782 a owl:NamedIndividual, :Line ;
     :lineNumber 782 ;
     :canonicalReference "782"^^xsd:string ;
@@ -25,11 +26,13 @@
 #    :canonicalReference "784"^^xsd:string ;
 #    :text "νεάνιδος ἐννυχεύεις,"^^xsd:string .
 
+# --- 785 ---
 :Line_785 a owl:NamedIndividual, :Line ;
     :lineNumber 785 ;
     :canonicalReference "785"^^xsd:string ;
     :text "φοιτᾷς δʼ ὑπερπόντιος ἔν τʼ ἀγρονόμοις αὐλαῖς·"^^xsd:string .
 
+# --- 786 ---
 :Line_786 a owl:NamedIndividual, :Line ;
     :lineNumber 786 ;
     :canonicalReference "786"^^xsd:string ;
@@ -50,16 +53,19 @@
 #    :canonicalReference "789"^^xsd:string ;
 #    :text "ἁμερίων σέ γ᾽ ἀνθρώπων, ὁ δ᾽ ἔχων μέμηνεν."^^xsd:string .
 
+# --- 790 ---
 :Line_790 a owl:NamedIndividual, :Line ;
     :lineNumber 790 ;
     :canonicalReference "790"^^xsd:string ;
     :text "οὔθʼ ἁμερίων σέ γʼ ἀνθρώπων. ὁ δʼ ἔχων μέμηνεν."^^xsd:string .
 
+# --- 791 ---
 :Line_791 a owl:NamedIndividual, :Line ;
     :lineNumber 791 ;
     :canonicalReference "791"^^xsd:string ;
     :text "σὺ καὶ δικαίων ἀδίκους φρένας παρασπᾷς ἐπὶ λώβᾳ,"^^xsd:string .
 
+# --- 792 ---
 :Line_792 a owl:NamedIndividual, :Line ;
     :lineNumber 792 ;
     :canonicalReference "792"^^xsd:string ;
@@ -75,11 +81,13 @@
 #    :canonicalReference "794"^^xsd:string ;
 #    :text "νικᾷ δ᾽ ἐναργὴς βλεφάρων"^^xsd:string .
 
+# --- 795 ---
 :Line_795 a owl:NamedIndividual, :Line ;
     :lineNumber 795 ;
     :canonicalReference "795"^^xsd:string ;
     :text "νικᾷ δʼ ἐναργὴς βλεφάρων ἵμερος εὐλέκτρου"^^xsd:string .
 
+# --- 796 ---
 :Line_796 a owl:NamedIndividual, :Line ;
     :lineNumber 796 ;
     :canonicalReference "796"^^xsd:string ;
@@ -100,16 +108,19 @@
 #    :canonicalReference "799"^^xsd:string ;
 #    :text "ἔξω φέρομαι τάδ᾽ ὁρῶν, ἴσχειν δ᾽"^^xsd:string .
 
+# --- 800 ---
 :Line_800 a owl:NamedIndividual, :Line ;
     :lineNumber 800 ;
     :canonicalReference "800"^^xsd:string ;
     :text "θεσμῶν. ἄμαχος γὰρ ἐμπαίζει θεὸς Ἀφροδίτα."^^xsd:string .
 
+# --- 801 ---
 :Line_801 a owl:NamedIndividual, :Line ;
     :lineNumber 801 ;
     :canonicalReference "801"^^xsd:string ;
     :text "νῦν δʼ ἤδη ʼγὼ καὐτὸς θεσμῶν"^^xsd:string .
 
+# --- 802 ---
 :Line_802 a owl:NamedIndividual, :Line ;
     :lineNumber 802 ;
     :canonicalReference "802"^^xsd:string ;

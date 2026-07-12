@@ -9,7 +9,7 @@
   :text "Rescued so, I owe the gods a great many thanks."^^xsd:string .
 
 :TV_Line_332_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_332 ;
-  :text "CHORUS. There are many marvelous things, and nothing"^^xsd:string .
+  :text "There are many marvelous things, and nothing"^^xsd:string .
 
 :TV_Line_333_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_333 ;
   :text "more marvelous than man exists."^^xsd:string .

@@ -1,0 +1,139 @@
+# --- 480 ---
+:TV_Line_480_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_480 ;
+:text "她当时就已经懂得如何肆意妄为，"^^xsd:string .
+
+# --- 481 ---
+:TV_Line_481_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_481 ;
+:text "竟敢违犯已经颁布的法令；"^^xsd:string .
+
+# --- 482 ---
+:TV_Line_482_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_482 ;
+:text "而如今，既然她已经做下此事，这便是她第二次的狂妄："^^xsd:string .
+
+# --- 483 ---
+:TV_Line_483_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_483 ;
+:text "竟以此自夸，还嘲笑自己所做的一切。"^^xsd:string .
+
+# --- 484 ---
+:TV_Line_484_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_484 ;
+:text "那么现在，我便不算男人，反倒她才是男人，"^^xsd:string .
+
+# --- 485 ---
+:TV_Line_485_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_485 ;
+:text "若她的这场胜利可以不受惩罚地维持下去。"^^xsd:string .
+
+# --- 486 ---
+:TV_Line_486_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_486 ;
+:text "但无论她是我姐妹的女儿，还是与我血缘更近的人，"^^xsd:string .
+
+# --- 487 ---
+:TV_Line_487_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_487 ;
+:text "比所有受我们家宅守护神宙斯庇护的亲族都更亲近，"^^xsd:string .
+
+# --- 488 ---
+:TV_Line_488_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_488 ;
+:text "她和她那同血的姐妹都休想逃脱"^^xsd:string .
+
+# --- 489 ---
+:TV_Line_489_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_489 ;
+:text "最惨烈的死亡；因为我同样指控另一个女人"^^xsd:string .
+
+# --- 490 ---
+:TV_Line_490_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_490 ;
+:text "参与谋划了这场安葬。"^^xsd:string .
+
+# --- 491 ---
+:TV_Line_491_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_491 ;
+:text "也把她叫来；因为我刚才看见她在里面"^^xsd:string .
+
+# --- 492 ---
+:TV_Line_492_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_492 ;
+:text "狂乱不已，神志全然失常。"^^xsd:string .
+
+# --- 493 ---
+:TV_Line_493_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_493 ;
+:text "一个人的心神往往会事先暴露出来，成为告发者，"^^xsd:string .
+
+# --- 494 ---
+:TV_Line_494_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_494 ;
+:text "揭穿那些在暗中谋划不义之事的人；"^^xsd:string .
+
+# --- 495 ---
+:TV_Line_495_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_495 ;
+:text "然而我尤其厌恶一个人在恶行败露之后，"^^xsd:string .
+
+# --- 496 ---
+:TV_Line_496_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_496 ;
+:text "还企图把这件事粉饰成光彩之举。"^^xsd:string .
+
+# --- 497 ---
+:TV_Line_497_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_497 ;
+:text "你抓住我之后，除了杀死我，还想要什么更多的吗？"^^xsd:string .
+
+# --- 498 ---
+:TV_Line_498_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_498 ;
+:text "我什么也不要；只要做到这一点，我便拥有了一切。"^^xsd:string .
+
+# --- 499 ---
+:TV_Line_499_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_499 ;
+:text "那么你还在等什么？因为你说的这些话，"^^xsd:string .
+
+# --- 500 ---
+:TV_Line_500_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_500 ;
+:text "没有一句令我满意，也愿它们永远不会令我满意；"^^xsd:string .
+
+# --- 501 ---
+:TV_Line_501_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_501 ;
+:text "同样，我的话天生也令你不悦。"^^xsd:string .
+
+# --- 502 ---
+:TV_Line_502_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_502 ;
+:text "然而，我还能从什么行为中赢得更崇高的荣耀，"^^xsd:string .
+
+# --- 503 ---
+:TV_Line_503_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_503 ;
+:text "胜过亲手将我的同胞兄长安葬入墓呢？"^^xsd:string .
+
+# --- 504 ---
+:TV_Line_504_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_504 ;
+:text "这里所有的人都会说，他们赞同此事，"^^xsd:string .
+
+# --- 505 ---
+:TV_Line_505_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_505 ;
+:text "若不是恐惧封住了他们的舌头。"^^xsd:string .
+
+# --- 506 ---
+:TV_Line_506_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_506 ;
+:text "但专制统治还享有许多别的特权："^^xsd:string .
+
+# --- 507 ---
+:TV_Line_507_ZH a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_507 ;
+:text "它可以随心所欲地行动，也可以随心所欲地说话。"^^xsd:string .

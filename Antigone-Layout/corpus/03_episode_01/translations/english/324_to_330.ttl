@@ -7,7 +7,7 @@
 # English translation variants extracted from 324_to_330.ttl
 
 :TV_Line_324_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_324 ;
-  :text "CREON. Grumble over this then: if you can’t track down"^^xsd:string .
+  :text "Grumble over this then: if you can’t track down"^^xsd:string .
 
 :TV_Line_325_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_325 ;
   :text "The criminal who’s done this, you’ll find that 325"^^xsd:string .
@@ -16,7 +16,7 @@
   :text "Your ill-gotten gains bring you only misery."^^xsd:string .
 
 :TV_Line_327_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_327 ;
-  :text "GUARD. O ye gods, may this outlaw be found! Yet it is all one, whether he"^^xsd:string .
+  :text "O ye gods, may this outlaw be found! Yet it is all one, whether he"^^xsd:string .
 
 :TV_Line_328_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_328 ;
   :text "Be caught or be he not—as such is solely in fate’s domain—"^^xsd:string .

@@ -75,9 +75,14 @@
 :TV_Line_652_GR a owl:NamedIndividual, :TranslationVariant ;
     :text "ποια πληγή θα μπορούσε να υπάρξει μεγαλύτερη από έναν κακό φίλο;"^^xsd:string ;
     :relatedTo :Line_652 .
+
 :TV_Line_653_GR a :TranslationVariant ;
     :text "αυτή την κόρη να τη νυμφεύσει κάποιος στον Άδη."^^xsd:string ;
     :relatedTo :Line_653 .
+
+:TV_Line_654_GR a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_654 ;
+:text "να παντρέψεις αυτή την κόρη με κάποιον στον Άδη."^^xsd:string .
 
 :TV_Line_655_GR a :TranslationVariant ;
     :text "αυτήν, τη μόνη απ’ όλη την πόλη, που απείστησε,"^^xsd:string ;

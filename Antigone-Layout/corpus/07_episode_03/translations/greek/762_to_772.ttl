@@ -12,10 +12,38 @@
     :text "ας τολμά να σκέφτεται πιο ψηλά απ’ όσο ταιριάζει σε άντρα."^^xsd:string ;
     :relatedTo :Line_763 .
 
+:TV_Line_764_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_764 ;
+    :text "δεν θα ξαναδείς το πρόσωπό μου μπροστά στα μάτια σου,"^^xsd:string .
+
+:TV_Line_765_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_765 ;
+    :text "για να παραλογίζεσαι μαζί με όσους φίλους σου το θέλουν."^^xsd:string .
+
+:TV_Line_766_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_766 ;
+    :text "Ο άντρας έφυγε γρήγορα και οργισμένος, άρχοντα·"^^xsd:string .
+
+:TV_Line_767_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_767 ;
+    :text "κι ένας τόσο νέος νους, όταν πονά, γίνεται επικίνδυνος."^^xsd:string .
+
+:TV_Line_768_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_768 ;
+    :text "Ας κάνει ό,τι θέλει· ας υπερηφανεύεται πέρα από τα ανθρώπινα μέτρα·"^^xsd:string .
+
 :TV_Line_769_GR a :TranslationVariant ;
     :text "τι, σκέφτεσαι να σκοτώσεις και τις δύο;"^^xsd:string ;
     :relatedTo :Line_769 .
 
+:TV_Line_770_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_770 ;
+    :text "Σκοπεύεις λοιπόν να σκοτώσεις και τις δύο;"^^xsd:string .
+
 :TV_Line_771_GR a :TranslationVariant ;
     :text "και με ποιον θάνατο σκοπεύεις να τις θανατώσεις;"^^xsd:string ;
     :relatedTo :Line_771 .
+
+:TV_Line_772_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_772 ;
+    :text "Και με ποιον τρόπο σχεδιάζεις να τη σκοτώσεις;"^^xsd:string .

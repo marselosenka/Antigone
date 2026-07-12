@@ -25,7 +25,7 @@
   :text "To honor his good deeds?"^^xsd:string .
 
 :TV_Line_286_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_286 ;
-  :text "This man who came to burn 285"^^xsd:string .
+  :text "This man who came to burn"^^xsd:string .
 
 :TV_Line_287_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_287 ;
   :text "Their pillar-girded temples, their holy offerings, their land—"^^xsd:string .
@@ -37,7 +37,7 @@
   :text "No; but for some time now certain men of the city"^^xsd:string .
 
 :TV_Line_290_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_290 ;
-  :text "Have been muttering against me, 290"^^xsd:string .
+  :text "Have been muttering against me,"^^xsd:string .
 
 :TV_Line_291_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_291 ;
   :text "Throwing back their heads in secret, refusing to bring"^^xsd:string .
@@ -52,7 +52,7 @@
   :text "These men were bribed."^^xsd:string .
 
 :TV_Line_295_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_295 ;
-  :text "In all mankind there is no worse custom 295"^^xsd:string .
+  :text "In all mankind there is no worse custom"^^xsd:string .
 
 :TV_Line_296_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_296 ;
   :text "Than money. It corrupts cities,"^^xsd:string .
@@ -67,7 +67,7 @@
   :text "Capable minds in the ways of savagery."^^xsd:string .
 
 :TV_Line_300_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_300 ;
-  :text "It taught mankind wickedness. 300"^^xsd:string .
+  :text "It taught mankind wickedness."^^xsd:string .
 
 :TV_Line_301_EN a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_301 ;
   :text "It makes every act ungodly."^^xsd:string .

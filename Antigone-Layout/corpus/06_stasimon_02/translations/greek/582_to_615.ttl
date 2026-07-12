@@ -60,6 +60,18 @@
     :text "την κόβει η αιματωμένη σκόνη των κάτω θεών,"^^xsd:string ;
     :relatedTo :Line_600 .
 
+# --- 601 ---
+
+:TV_Line_601_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_601 ;
+    :text "πάνω της πέφτει το αιματοβαμμένο χώμα των θεών του Κάτω Κόσμου,"^^xsd:string .
+
+# --- 602 ---
+
+:TV_Line_602_GR a owl:NamedIndividual, :TranslationVariant ;
+    :relatedTo :Line_602 ;
+    :text "μαζί με την παραφροσύνη του λόγου και την Ερινύα του νου."^^xsd:string .
+
 # Line 603 and 604 does not exist in Antigone.
 
 :TV_Line_605_GR a :TranslationVariant ;

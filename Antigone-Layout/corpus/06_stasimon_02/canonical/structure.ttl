@@ -10,6 +10,7 @@
 #    :text "ΧΟ. Εὐδαίμονες οἷσι κακῶν"^^xsd:string ;
 #    :hasTheme :Theme_HumanFrailty .
 
+# --- 583 ---
 :Line_583 a owl:NamedIndividual, :Line ;
     :lineNumber 583 ;
     :canonicalReference "583"^^xsd:string ;
@@ -17,22 +18,26 @@
     :text "Εὐδαίμονες οἷσι κακῶν ἀγευστος αἰών·"^^xsd:string ;
     :hasTheme :Theme_HumanFrailty .
 
+# --- 584 ---
 :Line_584 a owl:NamedIndividual, :Line ;
     :lineNumber 584 ;
     :canonicalReference "584"^^xsd:string ;
     :text "οἷς γάρ ἄν σεισθῇ θεόθεν δόμος,"^^xsd:string ;
     :relatedTo :Event_DivineIntervention .
 
+# --- 585 ---
 :Line_585 a owl:NamedIndividual, :Line ;
     :lineNumber 585 ;
     :canonicalReference "585"^^xsd:string ;
     :text "ἄτας οὐδὲν ἀλλείπει γενεᾶς ἀπὸ πλήθος ἅρπον·"^^xsd:string .
 
+# --- 586 ---
 :Line_586 a owl:NamedIndividual, :Line ;
     :lineNumber 586 ;
     :canonicalReference "586"^^xsd:string ;
     :text "ὅμοιον ἔστε ποντίαις οὔδματα δυσπνόοις ἔταν"^^xsd:string .
 
+# --- 587 ---
 :Line_587 a owl:NamedIndividual, :Line ;
     :lineNumber 587 ;
     :canonicalReference "587"^^xsd:string ;
@@ -48,11 +53,13 @@
 #    :canonicalReference "589"^^xsd:string ;
 #    :text "ἔρεβος ἔφαλον ἐπιδράμῃ πνοαῖς,"^^xsd:string .
 
+# --- 590 ---
 :Line_590 a owl:NamedIndividual, :Line ;
     :lineNumber 590 ;
     :canonicalReference "590"^^xsd:string ;
     :text "κυλίνδει βυσσόθεν κελαινὴν θῖνα καί"^^xsd:string .
 
+# --- 591 ---
 :Line_591 a owl:NamedIndividual, :Line ;
     :lineNumber 591 ;
     :canonicalReference "591"^^xsd:string ;
@@ -63,6 +70,7 @@
 #    :canonicalReference "592"^^xsd:string ;
 #    :text "στόμα βρέμουσιν"^^xsd:string .
 
+# --- 593 ---
 :Line_593 a owl:NamedIndividual, :Line ;
     :lineNumber 593 ;
     :canonicalReference "593"^^xsd:string ;
@@ -77,17 +85,20 @@
 #    :hasTheme :Theme_GenerationalCurse ;
 #    :experiencesEmotion :Emotion_Despair .
 
+# --- 595 ---
 :Line_595 a owl:NamedIndividual, :Line ;
     :lineNumber 595 ;
     :canonicalReference "595"^^xsd:string ;
     :text "πήματα φθιμένων ἐπὶ πήμασι πίπτοντ"^^xsd:string ;
     :relatedTo :Event_GenerationalRuin .
 
+# --- 596 ---
 :Line_596 a owl:NamedIndividual, :Line ;
     :lineNumber 596 ;
     :canonicalReference "596"^^xsd:string ;
     :text "οὐδὲ ἀπαλλάσσει γενεᾱ̀ν γένος, ἀλλὰ ἀρείπει"^^xsd:string .
 
+# --- 597 ---
 :Line_597 a owl:NamedIndividual, :Line ;
     :lineNumber 597 ;
     :canonicalReference "597"^^xsd:string ;
@@ -103,18 +114,21 @@
 #    :canonicalReference "599"^^xsd:string ;
 #    :text "οὐδ' ἔχει λύσιν."^^xsd:string .
 
+# --- 600 ---
 :Line_600 a owl:NamedIndividual, :Line ;
     :lineNumber 600 ;
     :canonicalReference "600"^^xsd:string ;
     :text "ἄίζας ἀ τέτατο φάος ἐν Οἰδίπου δόμοις,"^^xsd:string ;
     :relatedTo :Cause_FollyAndFrenzy .
 
+# --- 601 ---
 :Line_601 a owl:NamedIndividual, :Line ;
     :lineNumber 601 ;
     :canonicalReference "601"^^xsd:string ;
     :text "κατὰ αἵ νιν φοινία θεῶν τῶν νερτέρων"^^xsd:string ;
     :relatedTo :Effect_DestructionOfOedipusHouse .
 
+# --- 602 ---
 :Line_602 a owl:NamedIndividual, :Line ;
     :lineNumber 602 ;
     :canonicalReference "602"^^xsd:string ;
@@ -131,6 +145,7 @@
 #    :text "Τεάν, Ζε?, δύναμιν τίς ἐν- στροφή β?"^^xsd:string ;
 #    :hasConflict :Conflict_DivineOmnipotenceVsHumanAspiration .
 
+# --- 605 ---
 :Line_605 a owl:NamedIndividual, :Line ;
     :lineNumber 605 ;
     :canonicalReference "605"^^xsd:string ;
@@ -138,12 +153,14 @@
     :relatedTo :Event_TransgressionOfPower ;
     :hasConflict :Conflict_DivineOmnipotenceVsHumanAspiration .
 
+# --- 606 ---
 :Line_606 a owl:NamedIndividual, :Line ;
     :lineNumber 606 ;
     :canonicalReference "606"^^xsd:string ;
     :text "τὸν οὔθ' ὕπνος αἴρει ποθ' ἡ παντογήρως"^^xsd:string ;
     :hasTheme :Theme_DivineOmnipotence .
 
+# --- 607 ---
 :Line_607 a owl:NamedIndividual, :Line ;
     :lineNumber 607 ;
     :canonicalReference "607"^^xsd:string ;
@@ -160,27 +177,32 @@
 #    :text "ἀγήρως δὲ χρόνῳ δυνάστας"^^xsd:string ;
 #    :experiencesEmotion :Emotion_AweAndReverence .
 
+# --- 610 ---
 :Line_610 a owl:NamedIndividual, :Line ;
     :lineNumber 610 ;
     :canonicalReference "610"^^xsd:string ;
     :text "δυνάστας κατέχεις ὄλύμπου μαρμαρόεσσαν αἴγλαν."^^xsd:string ;
     :experiencesEmotion :Emotion_AweAndReverence .
 
+# --- 611 ---
 :Line_611 a owl:NamedIndividual, :Line ;
     :lineNumber 611 ;
     :canonicalReference "611"^^xsd:string ;
     :text "Τό τε ἔπειτα καί τὸ μέλλον"^^xsd:string .
 
+# --- 612 ---
 :Line_612 a owl:NamedIndividual, :Line ;
     :lineNumber 612 ;
     :canonicalReference "612"^^xsd:string ;
     :text "καί τὸ πρῖν ἀπαρκέσει"^^xsd:string .
 
+# --- 613 ---
 :Line_613 a owl:NamedIndividual, :Line ;
     :lineNumber 613 ;
     :canonicalReference "613"^^xsd:string ;
     :text "νόμος ἱδίοιδὲν ἅρπει"^^xsd:string .
 
+# --- 614 ---
 :Line_614 a owl:NamedIndividual, :Line ;
     :lineNumber 614 ;
     :canonicalReference "614"^^xsd:string ;
@@ -188,18 +210,21 @@
     :advocatesFor :EthicalPrinciple_GreatnessBringsRuin ;
     :relatedTo :Event_InevitableRuin .
 
+# --- 615 ---
 :Line_615 a owl:NamedIndividual, :Line ;
     :lineNumber 615 ;
     :canonicalReference "615"^^xsd:string ;
     :text "ἁ γὰρ δὰ πολύπλαγκτος ἐλπὶς πολλοῦς μὲν ἄνασις ἀνδρῶν,"^^xsd:string ;
     :hasTheme :Theme_FalseHope .
 
+# --- 616 ---
 :Line_616 a owl:NamedIndividual, :Line ;
     :lineNumber 616 ;
     :canonicalReference "616"^^xsd:string ;
     :text "πολλοῦς δὲ ἀπάτα κουφονόων ἐρώτων·"^^xsd:string ;
     :hasTheme :Theme_FalseHope .
 
+# --- 617 ---
 :Line_617 a owl:NamedIndividual, :Line ;
     :lineNumber 617 ;
     :canonicalReference "617"^^xsd:string ;
@@ -208,6 +233,7 @@
 
 # 618, 619 do not exist in the text.
 
+# --- 620 ---
 :Line_620 a owl:NamedIndividual, :Line ;
     :lineNumber 620 ;
     :canonicalReference "620"^^xsd:string ;
@@ -215,6 +241,7 @@
     :relatedTo :Effect_UnexpectedPain ;
     :hasTheme :Theme_DivineMadness .
 
+# --- 621 ---
 :Line_621 a owl:NamedIndividual, :Line ;
     :lineNumber 621 ;
     :canonicalReference "621"^^xsd:string ;
@@ -223,12 +250,14 @@
     :hasTheme :Theme_DivineMadness ;
     :hasConflict :Conflict_EvilAppearingAsGood .
 
+# --- 622 ---
 :Line_622 a owl:NamedIndividual, :Line ;
     :lineNumber 622 ;
     :canonicalReference "622"^^xsd:string ;
     :text "τῇδε ἐμμεν ὅτῳ φρένας"^^xsd:string ;
     :relatedTo :Cause_DivineDeception .
 
+# --- 623 ---
 :Line_623 a owl:NamedIndividual, :Line ;
     :lineNumber 623 ;
     :canonicalReference "623"^^xsd:string ;
@@ -239,22 +268,26 @@
 #    :canonicalReference "624"^^xsd:string ;
 #    :text "θεῦς ἄγει πρὸς ἔταν·"^^xsd:string .
 
+# --- 625 ---
 :Line_625 a owl:NamedIndividual, :Line ;
     :lineNumber 625 ;
     :canonicalReference "625"^^xsd:string ;
     :text "πράσσει δ' ἐλίγιστον χρόνον ἐκτὸς ἔτας."^^xsd:string ;
     :relatedTo :Effect_InevitableRuin .
 
+# --- 626 ---
 :Line_626 a owl:NamedIndividual, :Line ;
     :lineNumber 626 ;
     :canonicalReference "626"^^xsd:string ;
     :text "ἴδε μὲν Αἵμων, παίδων τῶν σῶν"^^xsd:string .
 
+# --- 627 ---
 :Line_627 a owl:NamedIndividual, :Line ;
     :lineNumber 627 ;
     :canonicalReference "627"^^xsd:string ;
     :text "νέατον γέννημα· ἀρὰ ὀχνύμενος"^^xsd:string .
 
+# --- 628 ---
 :Line_628 a owl:NamedIndividual, :Line ;
     :lineNumber 628 ;
     :canonicalReference "628"^^xsd:string ;
@@ -266,6 +299,7 @@
 #    :canonicalReference "629"^^xsd:string ;
 #    :text "τάλιδος ἔκει μόρον ἀντιγόνης,"^^xsd:string .
 
+# --- 630 ---
 :Line_630 a owl:NamedIndividual, :Line ;
     :lineNumber 630 ;
     :canonicalReference "630"^^xsd:string ;

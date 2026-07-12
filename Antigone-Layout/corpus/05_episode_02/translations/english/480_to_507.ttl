@@ -1,0 +1,139 @@
+# --- 480 ---
+:TV_Line_480_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_480 ;
+:text "She already knew how to act insolently then,"^^xsd:string .
+
+# --- 481 ---
+:TV_Line_481_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_481 ;
+:text "when she transgressed the laws that had been established;"^^xsd:string .
+
+# --- 482 ---
+:TV_Line_482_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_482 ;
+:text "and now, after doing it, this is her second act of insolence:"^^xsd:string .
+
+# --- 483 ---
+:TV_Line_483_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_483 ;
+:text "to boast of it and laugh at what she has done."^^xsd:string .
+
+# --- 484 ---
+:TV_Line_484_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_484 ;
+:text "Indeed, now I am no man, but she is the man,"^^xsd:string .
+
+# --- 485 ---
+:TV_Line_485_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_485 ;
+:text "if this triumph of hers is allowed to stand without penalty."^^xsd:string .
+
+# --- 486 ---
+:TV_Line_486_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_486 ;
+:text "But whether she is my sister's child or closer to me in blood"^^xsd:string .
+
+# --- 487 ---
+:TV_Line_487_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_487 ;
+:text "than all who share the protection of Zeus of our household,"^^xsd:string .
+
+# --- 488 ---
+:TV_Line_488_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_488 ;
+:text "neither she nor her sister of the same blood shall escape"^^xsd:string .
+
+# --- 489 ---
+:TV_Line_489_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_489 ;
+:text "the most shameful death; for I accuse that other woman equally"^^xsd:string .
+
+# --- 490 ---
+:TV_Line_490_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_490 ;
+:text "of having planned this burial."^^xsd:string .
+
+# --- 491 ---
+:TV_Line_491_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_491 ;
+:text "Call her too; for I saw her inside just now,"^^xsd:string .
+
+# --- 492 ---
+:TV_Line_492_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_492 ;
+:text "raving and no longer in command of her mind."^^xsd:string .
+
+# --- 493 ---
+:TV_Line_493_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_493 ;
+:text "A troubled mind is often caught beforehand as the betrayer"^^xsd:string .
+
+# --- 494 ---
+:TV_Line_494_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_494 ;
+:text "of those who plot wrongful deeds in darkness;"^^xsd:string .
+
+# --- 495 ---
+:TV_Line_495_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_495 ;
+:text "yet I especially hate it when someone, caught in wrongdoing,"^^xsd:string .
+
+# --- 496 ---
+:TV_Line_496_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_496 ;
+:text "then tries to make the deed appear honourable."^^xsd:string .
+
+# --- 497 ---
+:TV_Line_497_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_497 ;
+:text "Do you want anything more than to seize and kill me?"^^xsd:string .
+
+# --- 498 ---
+:TV_Line_498_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_498 ;
+:text "Nothing more; once I have that, I have everything."^^xsd:string .
+
+# --- 499 ---
+:TV_Line_499_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_499 ;
+:text "Why, then, do you delay? For none of your words"^^xsd:string .
+
+# --- 500 ---
+:TV_Line_500_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_500 ;
+:text "pleases me, nor may any of them ever please me;"^^xsd:string .
+
+# --- 501 ---
+:TV_Line_501_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_501 ;
+:text "And so, by nature, my words are displeasing to you as well."^^xsd:string .
+
+# --- 502 ---
+:TV_Line_502_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_502 ;
+:text "Yet from what deed could I have won greater glory"^^xsd:string .
+
+# --- 503 ---
+:TV_Line_503_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_503 ;
+:text "than by placing my own brother in his grave?"^^xsd:string .
+
+# --- 504 ---
+:TV_Line_504_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_504 ;
+:text "All these people would say that this pleases them,"^^xsd:string .
+
+# --- 505 ---
+:TV_Line_505_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_505 ;
+:text "if fear did not keep their tongues confined."^^xsd:string .
+
+# --- 506 ---
+:TV_Line_506_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_506 ;
+:text "But tyranny enjoys many other privileges as well:"^^xsd:string .
+
+# --- 507 ---
+:TV_Line_507_EN a owl:NamedIndividual, :TranslationVariant ;
+:relatedTo :Line_507 ;
+:text "it may do and say whatever it wishes."^^xsd:string .

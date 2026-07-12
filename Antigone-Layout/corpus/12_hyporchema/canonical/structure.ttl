@@ -4,6 +4,7 @@
 
 :hyporchema-structure a owl:Ontology .
 
+# --- 1115 ---
 :Line_1115
     a owl:NamedIndividual, :Line ;
     :lineNumber 1115 ;
@@ -13,24 +14,28 @@
     :referencesMyth :MythologicalBackground_Semele ;
     :hasTheme :Theme_DivineIntervention .
 
+# --- 1116 ---
 :Line_1116
     a owl:NamedIndividual, :Line ;
     :lineNumber 1116 ;
     :canonicalReference "Stasimon5.1116"^^xsd:string ;
     :text "καὶ Διὸς βαρυβρεμέτα"^^xsd:string .
 
+# --- 1117 ---
 :Line_1117
     a owl:NamedIndividual, :Line ;
     :lineNumber 1117 ;
     :canonicalReference "Stasimon5.1117"^^xsd:string ;
     :text "γένος, κλυτὰν ὃς ἀμφέπεις"^^xsd:string .
 
+# --- 1118 ---
 :Line_1118
     a owl:NamedIndividual, :Line ;
     :lineNumber 1118 ;
     :canonicalReference "Stasimon5.1118"^^xsd:string ;
     :text "Ἰταλίαν, μέδεις δὲ"^^xsd:string .
 
+# --- 1119 ---
 :Line_1119
     a owl:NamedIndividual, :Line ;
     :lineNumber 1119 ;
@@ -38,6 +43,7 @@
     :text "παγκοίνοις, Ἐλευσινίας"^^xsd:string ;
     :referencesMyth :MythologicalBackground_Dionysus .
 
+# --- 1120 ---
 :Line_1120
     a owl:NamedIndividual, :Line ;
     :lineNumber 1120 ;
@@ -45,6 +51,7 @@
     :text "Δῃοῦς ἐν κόλποις, Βακχεῦ Βακχᾶν"^^xsd:string ;
     :referencesMyth :Antigone_Character_Dionysus .
 
+# --- 1121 ---
 :Line_1121
     a owl:NamedIndividual, :Line ;
     :lineNumber 1121 ;
@@ -52,12 +59,14 @@
     :text "ὁ ματρόπολιν Θήβαν"^^xsd:string ;
     :hasTheme :Theme_ThebesPatronage .
 
+# --- 1122 ---
 :Line_1122
     a owl:NamedIndividual, :Line ;
     :lineNumber 1122 ;
     :canonicalReference "Stasimon5.1122"^^xsd:string ;
     :text "ναιετῶν παρʼ ὑγρῶν"^^xsd:string .
 
+# --- 1125 ---
 :Line_1125
     a owl:NamedIndividual, :Line ;
     :lineNumber 1125 ;
@@ -65,12 +74,14 @@
     :text "Ἰσμηνοῦ ῥείθρων ἀγρίου τʼ ἐπὶ σπορᾷ δράκοντος."^^xsd:string ;
     :referencesMyth :MythologicalBackground_Dragon .
 
+# --- 1126 ---
 :Line_1126
     a owl:NamedIndividual, :Line ;
     :lineNumber 1126 ;
     :canonicalReference "Stasimon5.1126"^^xsd:string ;
     :text "σὲ δʼ ὑπὲρ διλόφου πέτρας στέροψ ὄπωπε"^^xsd:string .
 
+# --- 1127 ---
 :Line_1127
     a owl:NamedIndividual, :Line ;
     :lineNumber 1127 ;
@@ -78,6 +89,7 @@
     :text "λιγνύς, ἔνθα Κωρύκιαι"^^xsd:string .
 
 
+# --- 1128 ---
 :Line_1128
     a owl:NamedIndividual, :Line ;
     :lineNumber 1128 ;
@@ -87,18 +99,21 @@
 
 # 1129 does not exist in the text
 
+# --- 1130 ---
 :Line_1130
     a owl:NamedIndividual, :Line ;
     :lineNumber 1130 ;
     :canonicalReference "Stasimon5.1130"^^xsd:string ;
     :text "Κασταλίας τε νᾶμα."^^xsd:string .
 
+# --- 1131 ---
 :Line_1131
     a owl:NamedIndividual, :Line ;
     :lineNumber 1131 ;
     :canonicalReference "Stasimon5.1131"^^xsd:string ;
     :text "καί σε Νυσαίων ὀρέων"^^xsd:string .
 
+# --- 1132 ---
 :Line_1132
     a owl:NamedIndividual, :Line ;
     :lineNumber 1132 ;
@@ -106,18 +121,21 @@
     :text "κισσήρεις ὄχθαι χλωρά τʼ ἀκτὰ"^^xsd:string ;
     :hasIntertextualReference :Myth_Nysa .
 
+# --- 1133 ---
 :Line_1133
     a owl:NamedIndividual, :Line ;
     :lineNumber 1133 ;
     :canonicalReference "Stasimon5.1133"^^xsd:string ;
     :text "πολυστάφυλος πέμπει,"^^xsd:string .
 
+# --- 1134 ---
 :Line_1134
     a owl:NamedIndividual, :Line ;
     :lineNumber 1134 ;
     :canonicalReference "Stasimon5.1134"^^xsd:string ;
     :text "ἀμβρότων ἐπέων"^^xsd:string .
 
+# --- 1135 ---
 :Line_1135
     a owl:NamedIndividual, :Line ;
     :lineNumber 1135 ;
@@ -126,6 +144,7 @@
 
 # 1136 does not exist in the text
 
+# --- 1137 ---
 :Line_1137
     a owl:NamedIndividual, :Line ;
     :lineNumber 1137 ;
@@ -133,6 +152,7 @@
     :text "τὰν ἐκ πασᾶν τιμᾷς ὑπερτάταν πόλεων"^^xsd:string ;
     :description "Reference to Dionysus honoring Thebes above all cities."^^xsd:string .
 
+# --- 1138 ---
 :Line_1138
     a owl:NamedIndividual, :Line ;
     :lineNumber 1138 ;
@@ -141,6 +161,7 @@
     :hasIntertextualReference :Myth_Semele ;
     :referencesMyth :MythologicalBackground_Semele .
 
+# --- 1140 ---
 :Line_1140
     a owl:NamedIndividual, :Line ;
     :lineNumber 1140 ;
@@ -149,6 +170,7 @@
     :hasTheme :Theme_CivicPollution ;
     :hasConflict :Conflict_ThebesVsPlague .
 
+# --- 1141 ---
 :Line_1141
 a owl:NamedIndividual, :Line ;
 :lineNumber 1141 ;
@@ -157,6 +179,7 @@ a owl:NamedIndividual, :Line ;
 :hasTheme :Theme_CivicCleansing ;
 :containsRhetoricalDevice :Metaphor_Disease .
 
+# --- 1142 ---
 :Line_1142
 a owl:NamedIndividual, :Line ;
 :lineNumber 1142 ;
@@ -165,24 +188,28 @@ a owl:NamedIndividual, :Line ;
 :hasTheme :Theme_Purification .
 
 
+# --- 1145 ---
 :Line_1145
     a owl:NamedIndividual, :Line ;
     :lineNumber 1145 ;
     :canonicalReference "Stasimon5.1145"^^xsd:string ;
     :text "ἢ στονόεντα πορθμόν."^^xsd:string .
 
+# --- 1146 ---
 :Line_1146
     a owl:NamedIndividual, :Line ;
     :lineNumber 1146 ;
     :canonicalReference "Stasimon5.1146"^^xsd:string ;
     :text "Ἰὼ πῦρ πνειόντων χοράγ ̓ ἄστρων, νυχίων"^^xsd:string .
 
+# --- 1147 ---
 :Line_1147
     a owl:NamedIndividual, :Line ;
     :lineNumber 1147 ;
     :canonicalReference "Stasimon5.1147"^^xsd:string ;
     :text "φθεγμάτων ἐπίσκοπε,"^^xsd:string .
 
+# --- 1148 ---
 :Line_1148
     a owl:NamedIndividual, :Line ;
     :lineNumber 1148 ;
@@ -191,12 +218,14 @@ a owl:NamedIndividual, :Line ;
 
 # 1149 does not exist in Antigone
 
+# --- 1150 ---
 :Line_1150
     a owl:NamedIndividual, :Line ;
     :lineNumber 1150 ;
     :canonicalReference "Stasimon5.1150"^^xsd:string ;
     :text "ὦναξ, σαῖς ἅμα περιπόλοις"^^xsd:string .
 
+# --- 1151 ---
 :Line_1151
     a owl:NamedIndividual, :Line ;
     :lineNumber 1151 ;
@@ -205,6 +234,7 @@ a owl:NamedIndividual, :Line ;
     :hasTheme :Theme_DionysianWorship ;
     :hasTheme :Theme_DionysiacWorship .
 
+# --- 1152 ---
 :Line_1152
     a owl:NamedIndividual, :Line ;
     :lineNumber 1152 ;
