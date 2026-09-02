@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-french a owl:Ontology .
+# French translation variants for 781_to_805.ttl
+
+:TV_Line_781_FR a :TranslationVariant ;
+:text "Éros invincible au combat, Éros, toi qui tombes sur les possessions,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_FR a :TranslationVariant ;
+:text "toi qui passes la nuit sur les tendres joues d’une jeune fille,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+:TV_Line_783_FR a :TranslationVariant ;
+:text "toi qui, sur les tendres joues"^^xsd:string ;
+:relatedTo :Line_783 .
+
+:TV_Line_784_FR a :TranslationVariant ;
+:text "d’une jeune fille, passes la nuit,"^^xsd:string ;
+:relatedTo :Line_784 .
+
+:TV_Line_785_FR a :TranslationVariant ;
+:text "tu parcours l’au-delà de la mer et les demeures rurales ;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_FR a :TranslationVariant ;
+:text "et aucun des immortels n’est capable de te fuir,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+:TV_Line_787_FR a :TranslationVariant ;
+:text "et aucun des immortels"^^xsd:string ;
+:relatedTo :Line_787 .
+
+:TV_Line_788_FR a :TranslationVariant ;
+:text "n’est capable de te fuir, ni"^^xsd:string ;
+:relatedTo :Line_788 .
+
+:TV_Line_789_FR a :TranslationVariant ;
+:text "aucun des hommes d’un jour ; celui qui te possède est fou."^^xsd:string ;
+:relatedTo :Line_789 .
+
+:TV_Line_790_FR a :TranslationVariant ;
+:text "ni aucun des hommes d’un jour ne te fuit ; celui qui te possède est fou."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_FR a :TranslationVariant ;
+:text "Toi aussi, tu détournes vers l’outrage les esprits justes en esprits injustes,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_FR a :TranslationVariant ;
+:text "toi aussi, cette querelle entre hommes du même sang, tu l’as troublée,"^^xsd:string ;
+:relatedTo :Line_792 .
+
+:TV_Line_793_FR a :TranslationVariant ;
+:text "des hommes du même sang, tu l’as troublée ;"^^xsd:string ;
+:relatedTo :Line_793 .
+
+:TV_Line_794_FR a :TranslationVariant ;
+:text "et vainc, manifeste, le désir des paupières"^^xsd:string ;
+:relatedTo :Line_794 .
+
+:TV_Line_795_FR a :TranslationVariant ;
+:text "et vainc, manifeste, le désir des paupières de la fiancée au beau lit,"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_FR a :TranslationVariant ;
+:text "de la fiancée, assis auprès des grandes autorités"^^xsd:string ;
+:relatedTo :Line_796 .
+
+:TV_Line_797_FR a :TranslationVariant ;
+:text "assis auprès des autorités des lois ; car invincible, la déesse Aphrodite se joue de nous."^^xsd:string ;
+:relatedTo :Line_797 .
+
+:TV_Line_798_FR a :TranslationVariant ;
+:text "Mais maintenant déjà, moi aussi, hors des lois"^^xsd:string ;
+:relatedTo :Line_798 .
+
+:TV_Line_799_FR a :TranslationVariant ;
+:text "je suis emporté en voyant ces choses, et retenir"^^xsd:string ;
+:relatedTo :Line_799 .
+
+:TV_Line_800_FR a :TranslationVariant ;
+:text "les lois ; car invincible, la déesse Aphrodite se joue de nous."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_FR a :TranslationVariant ;
+:text "Mais maintenant déjà, moi aussi, hors des lois"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_FR a :TranslationVariant ;
+:text "je suis emporté en voyant ces choses, et retenir"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_FR a :TranslationVariant ;
+:text "je ne peux plus les sources des larmes,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_FR a :TranslationVariant ;
+:text "quand je vois la chambre où tous couchent,"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_FR a :TranslationVariant ;
+:text "cette Antigone l’accomplissant."^^xsd:string ;
+:relatedTo :Line_805 .

@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-russian a owl:Ontology .
+# Russian translation variants for 724_to_761.ttl
+
+:TV_Line_724_RU a :TranslationVariant ;
+:text "Владыка, тебе естественно, если он говорит что-то своевременное,"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_RU a :TranslationVariant ;
+:text "учиться, и тебе, в свою очередь, у него; ведь хорошо сказано с обеих сторон."^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_RU a :TranslationVariant ;
+:text "Мы в таком возрасте и будем учиться"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_RU a :TranslationVariant ;
+:text "разуму по природе у человека такого возраста?"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_RU a :TranslationVariant ;
+:text "Ничему несправедливому; а если я молод,"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_RU a :TranslationVariant ;
+:text "нужно смотреть не на время, а скорее на дела."^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_RU a :TranslationVariant ;
+:text "Разве дело — почитать нарушающих порядок?"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_RU a :TranslationVariant ;
+:text "Я бы не велел быть благочестивым к дурным."^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_RU a :TranslationVariant ;
+:text "Разве она захвачена такой болезнью?"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_RU a :TranslationVariant ;
+:text "Народ этого города Фив не говорит этого."^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_RU a :TranslationVariant ;
+:text "Город скажет нам, что мне нужно приказывать?"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_RU a :TranslationVariant ;
+:text "Видишь, как ты сказал это слишком по-юному?"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_RU a :TranslationVariant ;
+:text "Разве мне нужно править этой землей для другого, а не для себя?"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_RU a :TranslationVariant ;
+:text "Нет города, который принадлежит одному человеку."^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_RU a :TranslationVariant ;
+:text "Разве город не считается принадлежащим властвующему?"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_RU a :TranslationVariant ;
+:text "Хорошо бы ты один правил пустынной землей."^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_RU a :TranslationVariant ;
+:text "Этот, как кажется, союзничает с женщиной."^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_RU a :TranslationVariant ;
+:text "Если ты женщина. Ведь я забочусь о тебе."^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_RU a :TranslationVariant ;
+:text "О наихудший, идя судом против отца?"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_RU a :TranslationVariant ;
+:text "Ведь я вижу, что ты ошибаешься несправедливо."^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_RU a :TranslationVariant ;
+:text "Я ошибаюсь, почитая мою власть?"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_RU a :TranslationVariant ;
+:text "Ты не почитаешь ее, попирая почести богов."^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_RU a :TranslationVariant ;
+:text "О скверный нрав и уступающий женщине."^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_RU a :TranslationVariant ;
+:text "Ты не выбрал бы меня побежденным постыдным."^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_RU a :TranslationVariant ;
+:text "Во всяком случае вся твоя речь за нее."^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_RU a :TranslationVariant ;
+:text "И за тебя, и за меня, и за нижних богов."^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_RU a :TranslationVariant ;
+:text "Никогда ты не женишься на ней, пока она еще жива."^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_RU a :TranslationVariant ;
+:text "Она умрет, и умерев погубит кого-то."^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_RU a :TranslationVariant ;
+:text "Неужели ты так дерзко наступаешь с угрозами?"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_RU a :TranslationVariant ;
+:text "Какая же угроза — говорить против пустых мнений?"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_RU a :TranslationVariant ;
+:text "Плача, будешь учить разуму, сам будучи пуст от разума."^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_RU a :TranslationVariant ;
+:text "Если бы ты не был отцом, я сказал бы, что ты не в здравом уме."^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_RU a :TranslationVariant ;
+:text "Будучи рабом женщины, не болтай со мной."^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_RU a :TranslationVariant ;
+:text "Ты хочешь что-то говорить и, говоря, ничего не слушать?"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_RU a :TranslationVariant ;
+:text "Правда? Но этим Олимпом, знай,"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_RU a :TranslationVariant ;
+:text "ты не будешь радостно мучить меня упреками."^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_RU a :TranslationVariant ;
+:text "Приведите эту ненавистную, чтобы сейчас перед глазами,"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_RU a :TranslationVariant ;
+:text "при нем, она умерла рядом с женихом."^^xsd:string ;
+:relatedTo :Line_761 .

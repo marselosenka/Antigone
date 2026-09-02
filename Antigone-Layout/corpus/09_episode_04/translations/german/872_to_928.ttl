@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-german a owl:Ontology .
+# German translation variants for 872_to_928.ttl
+
+:TV_Line_872_DE a :TranslationVariant ;
+:text "Ehren ist zwar irgendeine Frömmigkeit,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_DE a :TranslationVariant ;
+:text "Macht aber, wem Macht am Herzen liegt,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_DE a :TranslationVariant ;
+:text "ist keineswegs überschreitbar;"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_DE a :TranslationVariant ;
+:text "dich aber hat dein selbstgewollter Zorn vernichtet."^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_DE a :TranslationVariant ;
+:text "Unbeweint, freundlos, ohne Brautlied, elend, werde ich geführt"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_DE a :TranslationVariant ;
+:text "den letzten Weg. Nicht mehr ist mir dieses"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_DE a :TranslationVariant ;
+:text "heilige Auge der Fackel"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 is commented out in canonical.
+
+:TV_Line_880_DE a :TranslationVariant ;
+:text "zu sehen erlaubt, mir Elender;"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_DE a :TranslationVariant ;
+:text "mein tränenloses Schicksal"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_DE a :TranslationVariant ;
+:text "beklagt keiner der Freunde."^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_DE a :TranslationVariant ;
+:text "Wisst ihr denn, dass Lieder und Klagen vor dem Sterben,"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_DE a :TranslationVariant ;
+:text "wenn sie nötig wären, kein einziger je aufhörend sprechen könnte?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_DE a :TranslationVariant ;
+:text "Werdet ihr sie nicht schnellstens führen und in einem überdachten"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_DE a :TranslationVariant ;
+:text "Grab einschließen, wie ich gesagt habe,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_DE a :TranslationVariant ;
+:text "und allein, verlassen lassen, ob sie sterben muss"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_DE a :TranslationVariant ;
+:text "oder in solchem Haus lebend begraben sein?"^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_DE a :TranslationVariant ;
+:text "Denn wir sind rein in dem, was diese Jungfrau betrifft;"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_DE a :TranslationVariant ;
+:text "ihrer Wohnung oben aber wird sie jedenfalls beraubt werden."^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_DE a :TranslationVariant ;
+:text "O Grab, o Brautgemach, o ausgegrabene"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_DE a :TranslationVariant ;
+:text "Wohnung, immer bewacht, wohin ich gehe"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_DE a :TranslationVariant ;
+:text "zu den Meinen, von deren Zahl unter den Toten"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_DE a :TranslationVariant ;
+:text "Persephone die meisten der Zugrundegegangenen aufgenommen hat;"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_DE a :TranslationVariant ;
+:text "von ihnen gehe ich als Letzte und bei weitem am schlimmsten"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_DE a :TranslationVariant ;
+:text "hinab, bevor mein Anteil am Leben zu Ende gekommen ist."^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_DE a :TranslationVariant ;
+:text "Wenn ich aber komme, nähre ich mich sehr an Hoffnungen,"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_DE a :TranslationVariant ;
+:text "lieb dem Vater zu kommen und dir lieb,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_DE a :TranslationVariant ;
+:text "Mutter, und dir lieb, brüderliches Haupt;"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_DE a :TranslationVariant ;
+:text "denn als ihr gestorben wart, habe ich euch mit eigener Hand"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_DE a :TranslationVariant ;
+:text "gewaschen und geschmückt und grabbezogene"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_DE a :TranslationVariant ;
+:text "Spenden gegeben; jetzt aber, Polyneikes, indem ich deinen"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_DE a :TranslationVariant ;
+:text "Leib bestatte, gewinne ich solches."^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_DE a :TranslationVariant ;
+:text "Und doch habe ich dich bei denen, die gut denken, geehrt."^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_DE a :TranslationVariant ;
+:text "Denn niemals, weder wenn ich Mutter von Kindern wäre,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_DE a :TranslationVariant ;
+:text "noch wenn mir ein Gatte gestorben verweste,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_DE a :TranslationVariant ;
+:text "hätte ich gegen den Willen der Bürger diese Mühe auf mich genommen."^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_DE a :TranslationVariant ;
+:text "Welchem Gesetz zuliebe sage ich denn dies?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_DE a :TranslationVariant ;
+:text "Ein anderer Gatte wäre mir, wenn einer gestorben wäre,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_DE a :TranslationVariant ;
+:text "und ein Kind von einem anderen Mann, wenn ich dieses verloren hätte;"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_DE a :TranslationVariant ;
+:text "da Mutter aber und Vater im Hades verborgen liegen,"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_DE a :TranslationVariant ;
+:text "gibt es keinen Bruder, der jemals wieder hervorsprossen könnte."^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_DE a :TranslationVariant ;
+:text "Nach solchem Gesetz habe ich dich also über alles geehrt,"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_DE a :TranslationVariant ;
+:text "doch Kreon schien dies Verfehlen zu sein"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_DE a :TranslationVariant ;
+:text "und Furchtbares zu wagen, o brüderliches Haupt."^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_DE a :TranslationVariant ;
+:text "Und nun führt er mich, so mit den Händen ergriffen,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_DE a :TranslationVariant ;
+:text "bettlos, ohne Brautlied, weder an der Ehe"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_DE a :TranslationVariant ;
+:text "Anteil erlangend noch an der Aufzucht von Kindern,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_DE a :TranslationVariant ;
+:text "sondern so, verlassen von Freunden, ich Unglückliche,"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_DE a :TranslationVariant ;
+:text "gehe lebend zu den Ausgrabungen der Gestorbenen;"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_DE a :TranslationVariant ;
+:text "welches Recht der Daimonen habe ich überschritten?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_DE a :TranslationVariant ;
+:text "Warum muss ich Unglückliche noch zu den Göttern"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_DE a :TranslationVariant ;
+:text "blicken? Welchen der Verbündeten soll ich anrufen? Da ich ja"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_DE a :TranslationVariant ;
+:text "durch Frömmigkeit den Vorwurf der Unfrömmigkeit erworben habe."^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_DE a :TranslationVariant ;
+:text "Doch wenn dies also bei den Göttern schön ist,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_DE a :TranslationVariant ;
+:text "werden wir, nachdem wir gelitten haben, einsehen, dass wir gefehlt haben;"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_DE a :TranslationVariant ;
+:text "wenn aber diese fehlen, mögen sie nicht mehr Übel"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_DE a :TranslationVariant ;
+:text "erleiden, als sie mir rechtswidrig antun."^^xsd:string ;
+:relatedTo :Line_928 .

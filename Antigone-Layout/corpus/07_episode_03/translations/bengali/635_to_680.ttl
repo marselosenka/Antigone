@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-bengali a owl:Ontology .
+# Bengali translation variants for 635_to_680.ttl
+
+:TV_Line_635_BN a :TranslationVariant ;
+:text "পিতা, আমি তোমারই; আর তুমি আমার জন্য যে বিচারধারা ধরে রাখো,"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_BN a :TranslationVariant ;
+:text "সৎ পথে সেগুলি আমাকে সোজা করো, আর আমি সেগুলিই অনুসরণ করব।"^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_BN a :TranslationVariant ;
+:text "কারণ আমার কাছে কোনো বিবাহই যোগ্য গণ্য হবে না"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_BN a :TranslationVariant ;
+:text "তোমার সুশাসিত পথনির্দেশের চেয়ে বড় হয়ে ওঠার।"^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_BN a :TranslationVariant ;
+:text "এইভাবেই, হে পুত্র, বক্ষের মধ্যে ধরে রাখা উচিত,"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_BN a :TranslationVariant ;
+:text "পিতার সিদ্ধান্তের পেছনে সবসময় দাঁড়ানো উচিত।"^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_BN a :TranslationVariant ;
+:text "এই কারণেই মানুষ প্রার্থনা করে সন্তান জন্ম দিয়ে"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_BN a :TranslationVariant ;
+:text "গৃহে আজ্ঞাবহ সন্তান রাখতে,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_BN a :TranslationVariant ;
+:text "যাতে তারা শত্রুকে অমঙ্গলের জবাব অমঙ্গল দিয়ে দেয়"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_BN a :TranslationVariant ;
+:text "আর বন্ধুকে পিতার সমান সম্মান করে।"^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_BN a :TranslationVariant ;
+:text "কিন্তু যে মানুষ নিষ্ফল সন্তান জন্মায়,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_BN a :TranslationVariant ;
+:text "তার সম্পর্কে তুমি আর কী বলবে, সে নিজের জন্য কেবল দুঃখই"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_BN a :TranslationVariant ;
+:text "জন্ম দিয়েছে, আর শত্রুদের জন্য প্রচুর হাসির খোরাক?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_BN a :TranslationVariant ;
+:text "তাই কখনও নয়, হে পুত্র, আনন্দের বশে তোমার মন"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_BN a :TranslationVariant ;
+:text "কোনো নারীর জন্য ফেলে দিও না; জেনে রেখো যে"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_BN a :TranslationVariant ;
+:text "এটি এক শীতল আলিঙ্গন হয়ে ওঠে,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_BN a :TranslationVariant ;
+:text "গৃহে সহশয্যা এক দুষ্ট স্ত্রী। কারণ কী"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_BN a :TranslationVariant ;
+:text "এক দুষ্ট বন্ধুর চেয়ে বড় ক্ষত হতে পারে?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_BN a :TranslationVariant ;
+:text "বরং থুথু ফেলে, যেন শত্রুকে, তাকে ছেড়ে দাও,"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_BN a :TranslationVariant ;
+:text "এই কন্যাকে হেডিসে কারও সঙ্গে বিবাহিত হতে দাও।"^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_BN a :TranslationVariant ;
+:text "কারণ যখন আমি তাকে প্রকাশ্যে ধরে ফেলেছি,"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_BN a :TranslationVariant ;
+:text "সমগ্র নগরের মধ্যে একমাত্র তাকে নগরের প্রতি অবিশ্বাসী হতে,"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_BN a :TranslationVariant ;
+:text "আমি নিজেকে নগরের কাছে মিথ্যা করে তুলব না,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_BN a :TranslationVariant ;
+:text "বরং তাকে হত্যা করব। এ বিষয়ে সে জিউসকে আহ্বান করুক,"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_BN a :TranslationVariant ;
+:text "রক্তসম্পর্কের দেবতাকে। কারণ যদি জন্মগত আত্মীয়দের"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_BN a :TranslationVariant ;
+:text "অশৃঙ্খলভাবে বড় করি, তবে বংশের বাইরের লোকদের তো আরও বেশি।"^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_BN a :TranslationVariant ;
+:text "কারণ যে মানুষ নিজের ঘরের লোকদের মধ্যে"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_BN a :TranslationVariant ;
+:text "সৎ, সে নগরেও ন্যায়বান বলে প্রকাশ পাবে।"^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_BN a :TranslationVariant ;
+:text "কিন্তু যে সীমা পেরিয়ে আইনকে জোর করে"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_BN a :TranslationVariant ;
+:text "অথবা শাসকদের আদেশ দেওয়ার কথা ভাবে,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_BN a :TranslationVariant ;
+:text "সে আমার কাছ থেকে প্রশংসা পাবে না।"^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_BN a :TranslationVariant ;
+:text "বরং নগর যাকে স্থাপন করে, তারই কথা শুনতে হবে,"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_BN a :TranslationVariant ;
+:text "ক্ষুদ্র বিষয়েও, ন্যায় বিষয়েও, আর বিপরীত বিষয়েও।"^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_BN a :TranslationVariant ;
+:text "এমন মানুষ সম্পর্কে আমি নিশ্চয় বিশ্বাস করব"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_BN a :TranslationVariant ;
+:text "সে ভালোভাবে শাসন করবে, আর ভালোভাবে শাসিত হতেও চাইবে,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_BN a :TranslationVariant ;
+:text "আর বর্শার ঝড়ে নিযুক্ত হলে"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_BN a :TranslationVariant ;
+:text "ন্যায়বান ও সাহসী সহযোদ্ধা হয়ে স্থির থাকবে।"^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_BN a :TranslationVariant ;
+:text "অরাজকতার চেয়ে বড় অমঙ্গল নেই।"^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_BN a :TranslationVariant ;
+:text "এটাই নগর ধ্বংস করে, এটাই ঘরবাড়িকে"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_BN a :TranslationVariant ;
+:text "উচ্ছিন্ন করে, এটাই মিত্রবাহিনীর বর্শার"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_BN a :TranslationVariant ;
+:text "পালাবদল ছিন্নভিন্ন করে; আর যারা সোজা শৃঙ্খলায় থাকে,"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_BN a :TranslationVariant ;
+:text "তাদের অধিকাংশ প্রাণ রক্ষা করে আনুগত্য।"^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_BN a :TranslationVariant ;
+:text "এইভাবেই শৃঙ্খলিত ব্যবস্থাকে রক্ষা করতে হবে,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_BN a :TranslationVariant ;
+:text "আর কোনোভাবেই নারীর কাছে পরাজিত হওয়া চলবে না।"^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_BN a :TranslationVariant ;
+:text "কারণ যদি পড়তেই হয়, পুরুষের হাতে পড়া ভালো,"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_BN a :TranslationVariant ;
+:text "তাহলে আমাদের নারীদের চেয়ে দুর্বল বলা হবে না।"^^xsd:string ;
+:relatedTo :Line_680 .

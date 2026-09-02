@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-indonesian a owl:Ontology .
+# Indonesian translation variants for 223_to_252.ttl
+
+:TV_Line_223_ID a :TranslationVariant ;
+:text "Tuan, aku tidak akan berkata bahwa karena tergesa-gesa"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_ID a :TranslationVariant ;
+:text "aku datang sesak napas, mengangkat kaki ringan."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_ID a :TranslationVariant ;
+:text "Sebab banyak penghentian pikiran menahanku,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_ID a :TranslationVariant ;
+:text "membuat aku berputar di jalan-jalan untuk kembali;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_ID a :TranslationVariant ;
+:text "karena jiwaku banyak berkata kepadaku dengan bercerita,"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_ID a :TranslationVariant ;
+:text "malang, mengapa kau pergi ke tempat yang setelah sampai akan membuatmu dihukum?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_ID a :TranslationVariant ;
+:text "sial, kau akan tinggal lagi? Dan jika Kreon mengetahui hal ini"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_ID a :TranslationVariant ;
+:text "dari lelaki lain, bagaimana engkau tidak akan menderita?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_ID a :TranslationVariant ;
+:text "Dengan memutar hal-hal semacam itu, aku menempuhnya lambat-laun,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_ID a :TranslationVariant ;
+:text "dan demikian jalan yang pendek menjadi panjang."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_ID a :TranslationVariant ;
+:text "Namun pada akhirnya datang kemari kepadamu"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_ID a :TranslationVariant ;
+:text "menang; dan meskipun akan kukatakan yang bukan apa-apa, tetap akan kukatakan."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_ID a :TranslationVariant ;
+:text "Sebab aku datang berpegang pada harapan"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_ID a :TranslationVariant ;
+:text "bahwa aku tidak akan menderita apa pun selain yang ditentukan nasib."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_ID a :TranslationVariant ;
+:text "Apa sebabnya engkau memiliki kemurungan ini?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_ID a :TranslationVariant ;
+:text "Aku ingin memberitahumu lebih dulu perkara diriku sendiri; sebab"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_ID a :TranslationVariant ;
+:text "perkara itu tidak kulakukan, tidak pula kulihat siapa pelakunya,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_ID a :TranslationVariant ;
+:text "dan dengan adil aku tidak semestinya jatuh ke dalam suatu bencana."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_ID a :TranslationVariant ;
+:text "Baik benar engkau membidik dan memagari perkara itu berkeliling;"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_ID a :TranslationVariant ;
+:text "jelas engkau akan menandakan sesuatu yang baru."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_ID a :TranslationVariant ;
+:text "Sebab hal-hal mengerikan memang menambahkan banyak keraguan."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_ID a :TranslationVariant ;
+:text "Maka tidakkah akhirnya kau akan berkata, lalu pergi setelah bebas?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_ID a :TranslationVariant ;
+:text "Nah, sekarang aku berkata kepadamu: seseorang baru saja mengubur"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_ID a :TranslationVariant ;
+:text "mayat itu dan pergi, menaburkan debu kering"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_ID a :TranslationVariant ;
+:text "di atas kulitnya dan melakukan penyucian yang wajib."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_ID a :TranslationVariant ;
+:text "Apa katamu? Siapa di antara lelaki yang berani melakukan ini?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_ID a :TranslationVariant ;
+:text "Aku tidak tahu; sebab di sana tidak ada bekas pukulan"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_ID a :TranslationVariant ;
+:text "beliung, tidak ada lemparan cangkul; tanahnya keras"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_ID a :TranslationVariant ;
+:text "dan kering, tidak retak dan tidak dilalui"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_ID a :TranslationVariant ;
+:text "oleh roda, tetapi pelakunya adalah seseorang tanpa tanda."^^xsd:string ;
+:relatedTo :Line_252 .

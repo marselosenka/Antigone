@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-arabic a owl:Ontology .
+# Arabic translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone
+
+:TV_Line_1278_AR a :TranslationVariant ;
+:text "يا سيدي، كأنك تملك وتحوز،"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_AR a :TranslationVariant ;
+:text "إذ تحمل هذه التي أمام يديك، أما التي في البيوت"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_AR a :TranslationVariant ;
+:text "فيبدو أنك، وقد جئت، سترى قريبًا شرورًا."^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_AR a :TranslationVariant ;
+:text "ماذا؟ أيوجد أيضًا ما هو أسوأ من الشرور؟"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_AR a :TranslationVariant ;
+:text "زوجتك ماتت، أم هذا الميت بكل معنى الأمومة،"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_AR a :TranslationVariant ;
+:text "تعيسةً، الآن بضربات مقطوعة حديثًا."^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_AR a :TranslationVariant ;
+:text "آه، آه، يا ميناء هاديس الذي لا يطهر،"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_AR a :TranslationVariant ;
+:text "لماذا إذن، لماذا تهلكني؟"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_AR a :TranslationVariant ;
+:text "يا من أرسلت إليّ أنباء الشر"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_AR a :TranslationVariant ;
+:text "وأرسلت الآلام أمامك، أي قول تصرخ به؟"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_AR a :TranslationVariant ;
+:text "آه، لقد أجهزت على رجل هالك."^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_AR a :TranslationVariant ;
+:text "ماذا تقول، يا فتى؟ أي خبر جديد تقول لي،"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_AR a :TranslationVariant ;
+:text "آه آه، آه آه،"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_AR a :TranslationVariant ;
+:text "أن ذبيحةً فوق هلاك"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_AR a :TranslationVariant ;
+:text "قد أُحيطت بي، موت امرأة؟"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_AR a :TranslationVariant ;
+:text "الرؤية متاحة؛ فهي لم تعد في المخادع."^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_AR a :TranslationVariant ;
+:text "واحسرتاه،"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_AR a :TranslationVariant ;
+:text "أرى هذا الشر الثاني الآخر، أنا التعيس."^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_AR a :TranslationVariant ;
+:text "أي قدر إذن، أي قدر ما زال ينتظرني؟"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_AR a :TranslationVariant ;
+:text "فأنا الآن أحمل في يديّ ابني،"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_AR a :TranslationVariant ;
+:text "وأرى أمامي ميتًا آخر."^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in Antigone
+
+:TV_Line_1300_AR a :TranslationVariant ;
+:text "واهًا واهًا، أيتها الأم الشقية، واهًا يا بني."^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_AR a :TranslationVariant ;
+:text "أما هي، وقد طُعنت طعنة حادة وهي جالسة عند المذبح،"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_AR a :TranslationVariant ;
+:text "فأطلقت جفنيها الأسودين، بعدما ناحت"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_AR a :TranslationVariant ;
+:text "على فراش ميغاريوس الخالي، الذي مات من قبل،"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_AR a :TranslationVariant ;
+:text "ثم على هذا أيضًا، وفي النهاية عليك"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_AR a :TranslationVariant ;
+:text "أنشدت أفعالًا شريرة، يا قاتل الابن."^^xsd:string ;
+:relatedTo :Line_1305 .

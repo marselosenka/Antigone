@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-spanish a owl:Ontology .
+# Spanish translation variants for 781_to_805.ttl
+
+:TV_Line_781_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Eros, invencible en la batalla; Eros, que te precipitas sobre los bienes,"^^xsd:string ;
+    :relatedTo :Line_781 .
+
+:TV_Line_782_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "que pasas la noche en las suaves mejillas de una joven,"^^xsd:string ;
+    :relatedTo :Line_782 .
+
+# Lines 783 and 784 do not exist in Antigone.
+
+:TV_Line_785_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "y vas errante sobre el mar y entre los patios campesinos;"^^xsd:string ;
+    :relatedTo :Line_785 .
+
+:TV_Line_786_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "de ti no puede huir ninguno de los inmortales,"^^xsd:string ;
+    :relatedTo :Line_786 .
+
+# Lines 787, 788 and 789 do not exist in Antigone.
+
+:TV_Line_790_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "ni de los hombres de un día; y quien te posee queda enloquecido."^^xsd:string ;
+    :relatedTo :Line_790 .
+
+:TV_Line_791_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Tú arrastras aun las mentes justas a la injusticia, para ruina;"^^xsd:string ;
+    :relatedTo :Line_791 .
+
+:TV_Line_792_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "tú también has turbado esta disputa de hombres de la misma sangre."^^xsd:string ;
+    :relatedTo :Line_792 .
+
+# Lines 793 and 794 do not exist in Antigone.
+
+:TV_Line_795_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Vence el deseo claro que brota de los ojos de la novia de bello lecho,"^^xsd:string ;
+    :relatedTo :Line_795 .
+
+:TV_Line_796_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "sentado junto a los grandes poderes de las leyes."^^xsd:string ;
+    :relatedTo :Line_796 .
+
+# Lines 797, 798 and 799 do not exist in Antigone.
+
+:TV_Line_800_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Pues irresistible juega la diosa Afrodita."^^xsd:string ;
+    :relatedTo :Line_800 .
+
+:TV_Line_801_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Y ahora ya yo mismo soy llevado"^^xsd:string ;
+    :relatedTo :Line_801 .
+
+:TV_Line_802_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "fuera de las leyes al ver esto, y ya no puedo contener"^^xsd:string ;
+    :relatedTo :Line_802 .
+
+:TV_Line_803_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "las fuentes de mis lágrimas,"^^xsd:string ;
+    :relatedTo :Line_803 .
+
+:TV_Line_804_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "cuando veo la cámara que todo lo recibe,"^^xsd:string ;
+    :relatedTo :Line_804 .
+
+:TV_Line_805_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "hacia la que esta Antígona avanza."^^xsd:string ;
+    :relatedTo :Line_805 .

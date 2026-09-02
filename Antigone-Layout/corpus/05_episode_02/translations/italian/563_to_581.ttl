@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-italian a owl:Ontology .
+# Italian translation variants for 563_to_581.ttl
+
+:TV_Line_563_IT a :TranslationVariant ;
+:text "Infatti mai, signore, neppure il senno che germoglia rimane"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_IT a :TranslationVariant ;
+:text "a quelli che stanno male, ma si allontana."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_IT a :TranslationVariant ;
+:text "A te almeno, quando scegliesti con i malvagi di fare mali."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_IT a :TranslationVariant ;
+:text "Che cosa infatti sarebbe vivibile per me sola senza questa?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_IT a :TranslationVariant ;
+:text "Ma di questa non parlare; infatti non esiste più."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_IT a :TranslationVariant ;
+:text "Ma ucciderai la promessa sposa di tuo figlio?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_IT a :TranslationVariant ;
+:text "Infatti anche di altre sono arabili i solchi."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_IT a :TranslationVariant ;
+:text "Non come era armonizzata a lui questa."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_IT a :TranslationVariant ;
+:text "Odio donne cattive per i miei figli."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_IT a :TranslationVariant ;
+:text "O carissimo Emone, come ti disonora tuo padre."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_IT a :TranslationVariant ;
+:text "Troppo mi addolori, tu e il tuo letto."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_IT a :TranslationVariant ;
+:text "Davvero priverai tuo figlio di questa?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_IT a :TranslationVariant ;
+:text "Hades sarà colui che porrà fine a queste nozze."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_IT a :TranslationVariant ;
+:text "È deciso, a quanto pare, che costei muoia."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_IT a :TranslationVariant ;
+:text "Per te e per me. Non più indugi, ma lei"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_IT a :TranslationVariant ;
+:text "conducete dentro, servi; da questo momento bisogna"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_IT a :TranslationVariant ;
+:text "che queste donne siano donne e non lasciate libere."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_IT a :TranslationVariant ;
+:text "Infatti fuggono anche gli audaci, quando vicino"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_IT a :TranslationVariant ;
+:text "ormai vedono Hades davanti alla vita."^^xsd:string ;
+:relatedTo :Line_581 .

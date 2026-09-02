@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-spanish a owl:Ontology .
+# Spanish translation variants for 616_to_630.ttl
+
+:TV_Line_616_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "pero para muchos otros es engaño de deseos ligeros."^^xsd:string ;
+    :relatedTo :Line_616 .
+
+:TV_Line_617_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Al que nada sabe lo arrastra antes de que toque con el pie el fuego ardiente."^^xsd:string ;
+    :relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in Antigone.
+
+:TV_Line_620_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Pues con sabiduría se ha revelado una palabra famosa:"^^xsd:string ;
+    :relatedTo :Line_620 .
+
+:TV_Line_621_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "que lo malo parece alguna vez bueno"^^xsd:string ;
+    :relatedTo :Line_621 .
+
+:TV_Line_622_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "a aquel cuya mente"^^xsd:string ;
+    :relatedTo :Line_622 .
+
+:TV_Line_623_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "un dios conduce hacia la ruina."^^xsd:string ;
+    :relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone.
+
+:TV_Line_625_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Y obra fuera de la ruina solo por brevísimo tiempo."^^xsd:string ;
+    :relatedTo :Line_625 .
+
+:TV_Line_626_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Mira, aquí está Hemón, el más joven de tus hijos;"^^xsd:string ;
+    :relatedTo :Line_626 .
+
+:TV_Line_627_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "¿viene dolido por la suerte"^^xsd:string ;
+    :relatedTo :Line_627 .
+
+:TV_Line_628_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "de Antígona, su prometida,"^^xsd:string ;
+    :relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone.
+
+:TV_Line_630_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "afligido por el engaño de sus bodas?"^^xsd:string ;
+    :relatedTo :Line_630 .

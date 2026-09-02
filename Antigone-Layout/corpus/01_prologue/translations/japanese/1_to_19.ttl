@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-japanese a owl:Ontology .
+# Japanese translation variants for 1_to_19.ttl
+
+:TV_Line_001_JA a :TranslationVariant ;
+:text "イスメネよ、同じ母胎から生まれた実の妹の頭よ、"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_JA a :TranslationVariant ;
+:text "オイディプスから来た災いのうち、ゼウスが"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_JA a :TranslationVariant ;
+:text "私たち二人がなお生きている間に果たさぬものを、あなたは知っているのか。"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_JA a :TranslationVariant ;
+:text "というのも、苦しいものも、破滅を免れたものも、"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_JA a :TranslationVariant ;
+:text "恥ずべきものも、不名誉なものも、"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_JA a :TranslationVariant ;
+:text "あなたと私の災いの中で、私がまだ見ていないものは何一つないからだ。"^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_JA a :TranslationVariant ;
+:text "そして今また、将軍が全市民の町に"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_JA a :TranslationVariant ;
+:text "たった今布告を出したと言われるこれは何なのか。"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_JA a :TranslationVariant ;
+:text "あなたは何か聞いて知っているのか。それとも、"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_JA a :TranslationVariant ;
+:text "敵から友へ向かって進む災いが、あなたに気づかれずにいるのか。"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_JA a :TranslationVariant ;
+:text "私のところには、アンティゴネよ、友のことについて"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_JA a :TranslationVariant ;
+:text "甘い話も苦しい話も何一つ来ていない、"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_JA a :TranslationVariant ;
+:text "私たち二人が二人の兄弟を奪われて以来、"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_JA a :TranslationVariant ;
+:text "一日のうちに、二重の手によって死んだあの二人を。"^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_JA a :TranslationVariant ;
+:text "そしてアルゴス勢の軍が去ってしまった後、"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_JA a :TranslationVariant ;
+:text "今夜のうちに、私はそれ以上のことを何も知らない、"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_JA a :TranslationVariant ;
+:text "より幸いになったとも、より災いに遭ったとも。"^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_JA a :TranslationVariant ;
+:text "私はよく知っていた。だからこのために、屋敷の門の外へ"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_JA a :TranslationVariant ;
+:text "あなたを呼び出したのだ、あなただけが聞くように。"^^xsd:string ;
+:relatedTo :Line_019 .

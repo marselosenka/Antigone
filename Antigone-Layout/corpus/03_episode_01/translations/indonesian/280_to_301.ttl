@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-indonesian a owl:Ontology .
+# Indonesian translation variants for 280_to_301.ttl
+
+:TV_Line_280_ID a :TranslationVariant ;
+:text "Berhentilah berkata-kata sebelum engkau memenuhi aku juga dengan murka,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_ID a :TranslationVariant ;
+:text "agar engkau tidak ditemukan sekaligus tanpa akal dan tua."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_ID a :TranslationVariant ;
+:text "Sebab engkau mengatakan hal-hal yang tak tertahankan ketika berkata bahwa para dewa"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_ID a :TranslationVariant ;
+:text "memiliki perhatian terhadap mayat ini."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_ID a :TranslationVariant ;
+:text "Apakah karena sangat menghormatinya sebagai dermawan"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_ID a :TranslationVariant ;
+:text "mereka menguburkannya, dia yang datang untuk membakar"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_ID a :TranslationVariant ;
+:text "kuil-kuil berpilar dan persembahan-persembahan,"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_ID a :TranslationVariant ;
+:text "serta untuk menghancurkan tanah mereka dan hukum-hukum mereka?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_ID a :TranslationVariant ;
+:text "Ataukah engkau melihat para dewa menghormati orang-orang jahat?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_ID a :TranslationVariant ;
+:text "Itu tidak mungkin; tetapi hal-hal ini sejak lama juga"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_ID a :TranslationVariant ;
+:text "orang-orang kota yang sulit menanggungnya bergumam kepadaku"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_ID a :TranslationVariant ;
+:text "secara tersembunyi, menggoyangkan kepala, dan di bawah kuk"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_ID a :TranslationVariant ;
+:text "tidak menahan leher mereka dengan adil agar mencintaiku."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_ID a :TranslationVariant ;
+:text "Dari hal-hal ini aku tahu dengan baik"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_ID a :TranslationVariant ;
+:text "bahwa orang-orang ini, disesatkan oleh upah, telah melakukan ini."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_ID a :TranslationVariant ;
+:text "Sebab tidak ada bagi manusia suatu lembaga buruk"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_ID a :TranslationVariant ;
+:text "yang tumbuh seperti perak; ia bahkan menghancurkan kota-kota,"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_ID a :TranslationVariant ;
+:text "ia mengusir lelaki dari rumah-rumah,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_ID a :TranslationVariant ;
+:text "ia mengajar dan mengubah pikiran"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_ID a :TranslationVariant ;
+:text "yang baik di antara manusia untuk berdiri menuju perbuatan-perbuatan memalukan,"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_ID a :TranslationVariant ;
+:text "dan ia menunjukkan kepada manusia bagaimana memiliki kelicikan"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_ID a :TranslationVariant ;
+:text "dan mengetahui kefasikan dari setiap perbuatan."^^xsd:string ;
+:relatedTo :Line_301 .

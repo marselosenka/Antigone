@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-persian a owl:Ontology .
+# Persian translation variants for 211_to_222.ttl
+
+:TV_Line_211_FA a :TranslationVariant ;
+:text "ای پسر منویکئوس، تو می‌پسندی که اینها را انجام دهی"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_FA a :TranslationVariant ;
+:text "درباره آن که بدخواه این شهر است و آن که نیک‌خواه شهر است؛"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_FA a :TranslationVariant ;
+:text "و به‌کار بردن هر قانونی در اختیار توست،"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_FA a :TranslationVariant ;
+:text "هم درباره مردگان و هم درباره همه ما که زنده‌ایم."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_FA a :TranslationVariant ;
+:text "پس اکنون شما نگهبانان آنچه گفته شد باشید."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_FA a :TranslationVariant ;
+:text "این کار را به کسی جوان‌تر بسپار تا آن را بر دوش گیرد."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_FA a :TranslationVariant ;
+:text "اما نگهبانانی آماده برای آن مرده هستند."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_FA a :TranslationVariant ;
+:text "پس دیگر چه چیز دیگری را هنوز فرمان می‌دهی؟"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_FA a :TranslationVariant ;
+:text "این‌که به آنان که به این فرمان‌ها اعتماد ندارند، راه ندهید."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_FA a :TranslationVariant ;
+:text "هیچ کس چنان نادان نیست که عاشق مردن باشد."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_FA a :TranslationVariant ;
+:text "و با این همه، همین مزد است؛ اما زیر امیدها،"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_FA a :TranslationVariant ;
+:text "سود بارها مردان را نابود کرده است."^^xsd:string ;
+:relatedTo :Line_222 .

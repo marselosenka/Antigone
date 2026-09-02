@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-arabic a owl:Ontology .
+# Arabic translation variants for 113_to_140.ttl
+
+:TV_Line_113_AR a :TranslationVariant ;
+:text "طار فوق الأرض كالنسر،"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_AR a :TranslationVariant ;
+:text "مغطى بجناح من ثلج أبيض،"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_AR a :TranslationVariant ;
+:text "مع أسلحة كثيرة"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_AR a :TranslationVariant ;
+:text "ومع خوذ ذات أعراف خيل."^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_AR a :TranslationVariant ;
+:text "وإذ وقف فوق السقوف، فاتحًا حولها فكين متعطشين للقتل"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_AR a :TranslationVariant ;
+:text "بالرماح عند فم الأبواب السبعة،"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_AR a :TranslationVariant ;
+:text "مضى قبل أن"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_AR a :TranslationVariant ;
+:text "يمتلئ فكه من دمائنا، وقبل أن يأخذ إكليل الأبراج"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_AR a :TranslationVariant ;
+:text "هيفايستوس الصنوبري النار. هكذا امتد حول ظهره"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Lines 122, 123, and 124 do not exist in canonical.
+
+:TV_Line_125_AR a :TranslationVariant ;
+:text "صخب آريس، صعبًا على التنين الخصم أن يقهره."^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in canonical.
+
+:TV_Line_127_AR a :TranslationVariant ;
+:text "فإن زيوس يمقت أشد المقت تفاخر اللسان العظيم،"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_AR a :TranslationVariant ;
+:text "ولما رآهم"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_AR a :TranslationVariant ;
+:text "مقبلين بتيار عظيم،"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_AR a :TranslationVariant ;
+:text "متعاظمين بصلصلة الذهب،"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_AR a :TranslationVariant ;
+:text "رماهم بنار قاذفة"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_AR a :TranslationVariant ;
+:text "عند أعلى الحواجز، وقد كان"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_AR a :TranslationVariant ;
+:text "مندفعًا ليهتف بالنصر؛"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_AR a :TranslationVariant ;
+:text "فسقط على الأرض المضادة، مترنحًا،"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_AR a :TranslationVariant ;
+:text "حامل النار، الذي كان حينئذٍ بدفعة مجنونة"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_AR a :TranslationVariant ;
+:text "يهيم باكخيًّا وينفث"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_AR a :TranslationVariant ;
+:text "هبّات أكره الرياح."^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_AR a :TranslationVariant ;
+:text "وكانت بعض الأمور له على نحو،"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_AR a :TranslationVariant ;
+:text "وأخرى على آخرين أخذ يديرها، وهو يضرب،"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_AR a :TranslationVariant ;
+:text "آريس العظيم، ماسكًا الجهة اليمنى."^^xsd:string ;
+:relatedTo :Line_140 .

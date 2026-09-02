@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-korean a owl:Ontology .
+# Korean translation variants for 781_to_805.ttl
+
+:TV_Line_781_KO a :TranslationVariant ;
+:text "에로스여, 싸움에서 정복되지 않는 자여, 에로스여, 소유물들 위로 떨어지는 자여,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_KO a :TranslationVariant ;
+:text "젊은 처녀의 부드러운 뺨 위에서 밤을 지새우는 자여,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Lines 783 and 784 do not exist in Antigone
+
+:TV_Line_785_KO a :TranslationVariant ;
+:text "바다 너머로 다니고, 들을 다스리는 집들 안에도 드나드는 자여."^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_KO a :TranslationVariant ;
+:text "너에게서 불멸의 자들 가운데 아무도 도망칠 수 없고,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Lines 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_KO a :TranslationVariant ;
+:text "하루살이 인간들 가운데 누구도 너에게서 도망칠 수 없다. 너를 지닌 자는 미쳐 버린다."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_KO a :TranslationVariant ;
+:text "너는 정의로운 이들의 마음도 불의한 마음으로, 모욕을 향해 끌어 빗나가게 한다."^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_KO a :TranslationVariant ;
+:text "너는 또한 같은 피의 남자들 사이의 이 다툼을 흔들어 놓았다."^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Lines 793 and 794 do not exist in Antigone
+
+:TV_Line_795_KO a :TranslationVariant ;
+:text "그리고 잘 꾸며진 침상의 신부 눈꺼풀에서 또렷이 빛나는 욕망이 이긴다,"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_KO a :TranslationVariant ;
+:text "위대한 법들의 지배 안에 곁자리로 앉아 있는 자가."^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Lines 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_KO a :TranslationVariant ;
+:text "아무도 맞설 수 없는 신, 아프로디테가 장난치기 때문이다."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_KO a :TranslationVariant ;
+:text "그러나 이제는 나 자신도 이미 법들의"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_KO a :TranslationVariant ;
+:text "밖으로 실려 간다, 이것들을 보면서. 더는"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_KO a :TranslationVariant ;
+:text "눈물의 샘들을 억누를 수 없다,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_KO a :TranslationVariant ;
+:text "모두가 함께 눕는 방으로 향하는 것을 볼 때,"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_KO a :TranslationVariant ;
+:text "이 안티고네가 그것을 끝마치며 가는 것을."^^xsd:string ;
+:relatedTo :Line_805 .

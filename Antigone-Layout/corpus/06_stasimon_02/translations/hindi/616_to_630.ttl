@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-hindi a owl:Ontology .
+# Hindi translation variants for 616_to_630.ttl
+
+:TV_Line_616_HI a :TranslationVariant ;
+:text "और बहुतों के लिए हल्के मन की इच्छाओं का छल;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_HI a :TranslationVariant ;
+:text "जानने वाले को भी वह कुछ नहीं समझने देती, जब तक कोई गर्म अग्नि पर पाँव"^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Line 618 and 619 do not exist in Antigone
+
+:TV_Line_620_HI a :TranslationVariant ;
+:text "न छू ले। क्योंकि ज्ञान से प्रसिद्ध वचन प्रकट हुआ है:"^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_HI a :TranslationVariant ;
+:text "कभी बुराई को भलाई समझना"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_HI a :TranslationVariant ;
+:text "उसी के लिए होता है, जिसके मन को"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_HI a :TranslationVariant ;
+:text "देवता विनाश की ओर ले जाता है;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone
+
+:TV_Line_625_HI a :TranslationVariant ;
+:text "और वह विनाश से बाहर बहुत थोड़े समय ही काम करता है।"^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_HI a :TranslationVariant ;
+:text "देखो, हाइमन, तेरे पुत्रों की"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_HI a :TranslationVariant ;
+:text "सबसे नई संतान; क्या वह अभिशाप से दबा हुआ"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_HI a :TranslationVariant ;
+:text "अपनी वधू अन्तिगोने का भाग्य लेकर आया है,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone
+
+:TV_Line_630_HI a :TranslationVariant ;
+:text "विवाह-शय्याओं के छल से अत्यंत पीड़ित?"^^xsd:string ;
+:relatedTo :Line_630 .

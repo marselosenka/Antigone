@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-portuguese a owl:Ontology .
+# Portuguese translation variants for 823_to_871.ttl
+
+:TV_Line_823_PT a :TranslationVariant ;
+:text "Ouvi, sim, que pereceu de modo tristíssimo a estrangeira frígia"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in canonical.
+
+:TV_Line_825_PT a :TranslationVariant ;
+:text "de Tântalo, junto ao alto Sípilo, a quem, como hera aderente,"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_PT a :TranslationVariant ;
+:text "um broto pétreo subjugou; e a ela, derretendo-se, as chuvas,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_PT a :TranslationVariant ;
+:text "segundo o dizer dos homens,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Lines 828 and 829 do not exist in canonical.
+
+:TV_Line_830_PT a :TranslationVariant ;
+:text "e a neve nunca a deixam; e sob sobrancelhas de todo chorosas ela umedece"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_PT a :TranslationVariant ;
+:text "as encostas; a ela, muito semelhante, um deus me deita."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Lines 832 and 833 do not exist in canonical.
+
+:TV_Line_834_PT a :TranslationVariant ;
+:text "Mas ela era deusa e nascida de deuses,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_PT a :TranslationVariant ;
+:text "e nós somos mortais e nascidos de mortais."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_PT a :TranslationVariant ;
+:text "Contudo, para quem morreu é grande ouvir"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_PT a :TranslationVariant ;
+:text "que coube em sorte partilhar com os semelhantes aos deuses."^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_PT a :TranslationVariant ;
+:text "viva, e depois morta."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_PT a :TranslationVariant ;
+:text "Ai de mim, sou ridicularizada. Por que, pelos deuses paternos,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_PT a :TranslationVariant ;
+:text "me ultrajas não depois que eu partir, mas enquanto ainda estou visível?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_PT a :TranslationVariant ;
+:text "Ó cidade, ó homens ricos da cidade;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_PT a :TranslationVariant ;
+:text "ai, fontes dirceias"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Lines 843 and 844 do not exist in canonical.
+
+:TV_Line_845_PT a :TranslationVariant ;
+:text "e bosque de Tebas de belos carros, a vós ao menos tomo por cotestemunhas,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_PT a :TranslationVariant ;
+:text "como, sem pranto dos amigos, por quais leis"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_PT a :TranslationVariant ;
+:text "vou para o cercado tumular, amontoado de terra, de uma sepultura estranha;"^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Lines 848 and 849 do not exist in canonical.
+
+:TV_Line_850_PT a :TranslationVariant ;
+:text "nem morta entre os mortos,"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_PT a :TranslationVariant ;
+:text "estrangeira residente, nem entre os vivos, nem entre os mortos."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in canonical.
+
+:TV_Line_853_PT a :TranslationVariant ;
+:text "Avançando ao extremo da audácia,"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_PT a :TranslationVariant ;
+:text "ao alto pedestal de Justiça,"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_PT a :TranslationVariant ;
+:text "caíste, ó filha, em muito;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_PT a :TranslationVariant ;
+:text "e pagas alguma prova paterna."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in canonical.
+
+:TV_Line_858_PT a :TranslationVariant ;
+:text "Tocaste nas mais dolorosas inquietações para mim,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_PT a :TranslationVariant ;
+:text "o lamento três vezes lavrado de meu pai e de todo"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_PT a :TranslationVariant ;
+:text "o nosso destino entre os ilustres Labdácidas."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_PT a :TranslationVariant ;
+:text "Ai, do leito materno"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Lines 862, 863, and 864 do not exist in canonical.
+
+:TV_Line_865_PT a :TranslationVariant ;
+:text "as ruínas e os leitos autogerados de minha mãe desditosa com meu pai,"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_PT a :TranslationVariant ;
+:text "de que tais pessoas um dia eu, a infeliz, nasci;"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_PT a :TranslationVariant ;
+:text "para junto deles, amaldiçoada, sem núpcias, eu, esta estrangeira, vou."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Lines 868 and 869 do not exist in canonical.
+
+:TV_Line_870_PT a :TranslationVariant ;
+:text "Ó irmão, encontrando núpcias desditosas,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_PT a :TranslationVariant ;
+:text "morto, mataste-me enquanto eu ainda existia."^^xsd:string ;
+:relatedTo :Line_871 .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-bengali a owl:Ontology .
+# Bengali translation variants for 1_to_19.ttl
+
+:TV_Line_001_BN a :TranslationVariant ;
+:text "হে ইসমেনের আপন সহোদরা, আমার রক্তের মাথা,"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_BN a :TranslationVariant ;
+:text "তুমি কি জানো, ঐদিপাসের বংশের দুঃখগুলির মধ্যে"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_BN a :TranslationVariant ;
+:text "কোনটি আছে যা জিউস আমাদের দুজন জীবিত থাকতে পূর্ণ করছেন না?"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_BN a :TranslationVariant ;
+:text "কারণ ব্যথাদায়ক কিছুই নেই, দুর্যোগহীন কিছুই নেই,"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_BN a :TranslationVariant ;
+:text "লজ্জাজনক কিছুই নেই, অসম্মানজনক কিছুই নেই, যা আমি"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_BN a :TranslationVariant ;
+:text "তোমার আর আমার দুঃখের মধ্যে দেখিনি।"^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_BN a :TranslationVariant ;
+:text "আর এখন আবার এই কী ঘোষণা, তারা বলে, সেনাপতি"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_BN a :TranslationVariant ;
+:text "এইমাত্র সমস্ত নগরের মানুষের জন্য জারি করেছেন?"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_BN a :TranslationVariant ;
+:text "তুমি কি কিছু পেয়েছ, কিছু শুনেছ? নাকি তোমার অজান্তে"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_BN a :TranslationVariant ;
+:text "শত্রুদের অনিষ্ট আমাদের আপনজনদের দিকে এগিয়ে আসছে?"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_BN a :TranslationVariant ;
+:text "আমার কাছে, আন্তিগোনে, আপনজনদের কোনো সংবাদ"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_BN a :TranslationVariant ;
+:text "না মধুর, না বেদনাময়, এসে পৌঁছেছে, সেই থেকে"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_BN a :TranslationVariant ;
+:text "আমরা দুই বোন দুই ভাই থেকে বঞ্চিত হয়েছি,"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_BN a :TranslationVariant ;
+:text "একই দিনে, দুই হাতে, তারা দুজন মারা গেছে;"^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_BN a :TranslationVariant ;
+:text "আর যেহেতু আরগসের সেনা এই রাতেই"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_BN a :TranslationVariant ;
+:text "অদৃশ্য হয়েছে, তার বেশি আমি কিছু জানি না,"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_BN a :TranslationVariant ;
+:text "না বেশি সৌভাগ্যবতী, না বেশি বিপর্যস্ত।"^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_BN a :TranslationVariant ;
+:text "আমি তা ভালো করেই জানতাম; তাই তোমাকে প্রাসাদের ফটকের বাইরে"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_BN a :TranslationVariant ;
+:text "এই কারণে ডেকে পাঠিয়েছি, যেন তুমি একাই শোনো।"^^xsd:string ;
+:relatedTo :Line_019 .

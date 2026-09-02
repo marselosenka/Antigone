@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-bengali a owl:Ontology .
+# Bengali translation variants for 681_to_723.ttl
+
+:TV_Line_681_BN a :TranslationVariant ;
+:text "আমরা যদি বয়সের দ্বারা প্রতারিত না হয়ে থাকি,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_BN a :TranslationVariant ;
+:text "তুমি যেসব কথা বলছ, সেগুলি বিচক্ষণতার সঙ্গে বলছ বলেই মনে হয়।"^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_BN a :TranslationVariant ;
+:text "পিতা, দেবতারা মানুষের মধ্যে বোধ জন্ম দেন,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_BN a :TranslationVariant ;
+:text "যা যত সম্পদ আছে, সব কিছুর মধ্যে সর্বোচ্চ।"^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_BN a :TranslationVariant ;
+:text "আর তুমি যে এগুলি ঠিক বলছ না—এ কথা আমি"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_BN a :TranslationVariant ;
+:text "বলতে পারতাম না, বলতেও জানতাম না।"^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_BN a :TranslationVariant ;
+:text "তবু অন্যের কাছেও ভালো কিছু থাকতে পারে।"^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_BN a :TranslationVariant ;
+:text "আমি তো তোমার জন্যই স্বভাবত সবকিছু লক্ষ্য করি,"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_BN a :TranslationVariant ;
+:text "কেউ কী বলে, কী করে, বা কী নিন্দা করার আছে।"^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_BN a :TranslationVariant ;
+:text "কারণ সাধারণ নাগরিকের কাছে তোমার দৃষ্টি ভয়ংকর"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_BN a :TranslationVariant ;
+:text "এমন কথার জন্য, যা শুনে তুমি আনন্দ পাবে না।"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_BN a :TranslationVariant ;
+:text "কিন্তু অন্ধকারের আড়ালে এসব শোনা আমার পক্ষে সম্ভব,"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_BN a :TranslationVariant ;
+:text "এই কন্যার জন্য নগর কীভাবে বিলাপ করে,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_BN a :TranslationVariant ;
+:text "সব নারীর মধ্যে সে কীভাবে সবচেয়ে অযোগ্য"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_BN a :TranslationVariant ;
+:text "সর্বশ্রেষ্ঠ কাজের জন্য নিকৃষ্টতম মৃত্যু পেতে।"^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_BN a :TranslationVariant ;
+:text "সে তো নিজের সহোদর ভাইকে রক্তক্ষয়ের মধ্যে"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_BN a :TranslationVariant ;
+:text "পড়ে থাকতে, অদাফন অবস্থায়, মাংসভোজী কুকুরদের দ্বারা"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_BN a :TranslationVariant ;
+:text "বা কোনো পাখির দ্বারা ধ্বংস হতে দেয়নি।"^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_BN a :TranslationVariant ;
+:text "সে কি সোনার মতো সম্মানের অংশ পাওয়ার যোগ্য নয়?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_BN a :TranslationVariant ;
+:text "এমন অন্ধকার গুঞ্জন নিঃশব্দে ছড়িয়ে পড়ছে।"^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_BN a :TranslationVariant ;
+:text "আর তুমি সাফল্যের সঙ্গে কাজ করলে, পিতা,"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_BN a :TranslationVariant ;
+:text "আমার কাছে তার চেয়ে মূল্যবান কোনো সম্পদ নেই।"^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_BN a :TranslationVariant ;
+:text "কারণ পিতার উন্নত খ্যাতির চেয়ে সন্তানের কাছে"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_BN a :TranslationVariant ;
+:text "আর কী বড় গৌরব, কিংবা সন্তানের খ্যাতির চেয়ে পিতার কাছে কী?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_BN a :TranslationVariant ;
+:text "তাই নিজের মধ্যে একমাত্র এক স্বভাবই বহন করো না,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_BN a :TranslationVariant ;
+:text "যে তুমি যা বলো, সেটাই ঠিক, আর কিছু নয়।"^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_BN a :TranslationVariant ;
+:text "কারণ যে নিজেই মনে করে সে একাই চিন্তা করতে পারে,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_BN a :TranslationVariant ;
+:text "অথবা তার ভাষা বা প্রাণ এমন, যা অন্য কারও নেই,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_BN a :TranslationVariant ;
+:text "তাদের খুলে দেখলে ফাঁপা বলেই প্রকাশ পায়।"^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_BN a :TranslationVariant ;
+:text "কিন্তু মানুষ, সে জ্ঞানী হলেও, অনেক কিছু শেখা"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_BN a :TranslationVariant ;
+:text "লজ্জার নয়, আর অতিরিক্ত টানটান না থাকাও লজ্জার নয়।"^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_BN a :TranslationVariant ;
+:text "তুমি দেখো, শীতের স্রোতস্বিনীর ধারায়"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_BN a :TranslationVariant ;
+:text "যেসব গাছ নুয়ে পড়ে, তারা ডালপালা রক্ষা করে,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_BN a :TranslationVariant ;
+:text "আর যারা প্রতিরোধ করে, তারা শিকড়সহ বিনষ্ট হয়।"^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_BN a :TranslationVariant ;
+:text "তেমনি জাহাজে যে নাবিক পাল-পায়ের দড়ি"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_BN a :TranslationVariant ;
+:text "টানটান করে ধরে কিছুতেই ছাড় দেয় না, সে উল্টে নিচে"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_BN a :TranslationVariant ;
+:text "বাকি পথ উল্টো বেঞ্চ নিয়ে নৌযাত্রা করে।"^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_BN a :TranslationVariant ;
+:text "তাই নতি স্বীকার করো, আর ক্রোধকে বদলাবার সুযোগ দাও।"^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_BN a :TranslationVariant ;
+:text "কারণ আমার মতো তরুণের কাছ থেকেও যদি কোনো মত"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_BN a :TranslationVariant ;
+:text "যোগ হয়, আমি বলি, অনেক শ্রেষ্ঠ হলো"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_BN a :TranslationVariant ;
+:text "মানুষের জন্ম নেওয়া সব জ্ঞানে পূর্ণ হয়ে;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_BN a :TranslationVariant ;
+:text "কিন্তু যদি তা না হয়—কারণ বিষয়টি সাধারণত সেদিকে ঝোঁকে না—"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_BN a :TranslationVariant ;
+:text "তবে যারা ভালো বলে, তাদের কাছ থেকে শেখাও সুন্দর।"^^xsd:string ;
+:relatedTo :Line_723 .

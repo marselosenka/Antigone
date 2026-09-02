@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-french a owl:Ontology .
+# French translation variants for 113_to_140.ttl
+
+:TV_Line_113_FR a :TranslationVariant ;
+:text "comme un aigle, il vola au-dessus de la terre,"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_FR a :TranslationVariant ;
+:text "couvert d’une aile de neige blanche,"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_FR a :TranslationVariant ;
+:text "avec beaucoup d’armes"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_FR a :TranslationVariant ;
+:text "et avec des casques à crinières de chevaux."^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_FR a :TranslationVariant ;
+:text "Debout au-dessus des toits, ouvrant tout autour sa gueule avec des lances avides de meurtre,"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_FR a :TranslationVariant ;
+:text "contre la bouche aux sept portes,"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_FR a :TranslationVariant ;
+:text "il s’en alla avant jamais"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_FR a :TranslationVariant ;
+:text "d’être rassasié de notre sang dans ses mâchoires, et avant que la couronne des tours"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_FR a :TranslationVariant ;
+:text "soit prise par l’Héphaïstos nourri de pin. Tel, autour de son dos, s’étendit"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Lines 122, 123 and 124 do not exist in Antigone.
+
+:TV_Line_125_FR a :TranslationVariant ;
+:text "le fracas d’Arès, difficile lutte pour le dragon adversaire."^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in Antigone.
+
+:TV_Line_127_FR a :TranslationVariant ;
+:text "Car Zeus hait au plus haut point les vantardises d’une grande langue,"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_FR a :TranslationVariant ;
+:text "et les voyant"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_FR a :TranslationVariant ;
+:text "s’avancer en un grand flot,"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_FR a :TranslationVariant ;
+:text "arrogants dans le fracas de l’or,"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_FR a :TranslationVariant ;
+:text "il jette, par le feu lancé,"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_FR a :TranslationVariant ;
+:text "depuis les plus hauts seuils déjà,"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_FR a :TranslationVariant ;
+:text "celui qui s’élançait pour crier victoire;"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_FR a :TranslationVariant ;
+:text "et sur la terre qui le repoussait il tomba, balancé,"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_FR a :TranslationVariant ;
+:text "porteur de feu, lui qui alors, dans un élan furieux,"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_FR a :TranslationVariant ;
+:text "soufflait en bacchant"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_FR a :TranslationVariant ;
+:text "par rafales de vents très hostiles."^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_FR a :TranslationVariant ;
+:text "Mais il en fut autrement pour les uns,"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_FR a :TranslationVariant ;
+:text "et contre d’autres, sur d’autres encore, il allait les malmenant,"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_FR a :TranslationVariant ;
+:text "le grand Arès, cheval de droite."^^xsd:string ;
+:relatedTo :Line_140 .

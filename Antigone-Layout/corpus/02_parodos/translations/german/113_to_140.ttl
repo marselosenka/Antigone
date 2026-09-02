@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-german a owl:Ontology .
+# German translation variants for 113_to_140.ttl
+
+:TV_Line_113_DE a :TranslationVariant ;
+:text "flog wie ein Adler über das Land,"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_DE a :TranslationVariant ;
+:text "gedeckt mit einer Schwinge weißen Schnees,"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_DE a :TranslationVariant ;
+:text "mit vielen Waffen"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_DE a :TranslationVariant ;
+:text "und mit pferdehaargeschmückten Helmen."^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_DE a :TranslationVariant ;
+:text "Über den Dächern stehend, ringsum mit blutdürstigen Lanzen klaffend,"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_DE a :TranslationVariant ;
+:text "ging er gegen den siebentorigen Mund"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_DE a :TranslationVariant ;
+:text "vor, ehe er je mit unseren"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_DE a :TranslationVariant ;
+:text "Bluten seinen Rachen füllen und den Kranz der Türme"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_DE a :TranslationVariant ;
+:text "mit fichtenglühendem Hephaistos nehmen konnte. Solcher Lärm spannte sich um seinen Rücken"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Lines 122, 123 and 124 do not exist in canonical.
+
+:TV_Line_125_DE a :TranslationVariant ;
+:text "des Ares, schwer zu bewältigendes Gegenstück des feindlichen Drachen."^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in canonical.
+
+:TV_Line_127_DE a :TranslationVariant ;
+:text "Denn Zeus hasst übermäßig die Prahlereien"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_DE a :TranslationVariant ;
+:text "einer großen Zunge, und als er sie sah,"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_DE a :TranslationVariant ;
+:text "wie sie mit großem Strom herannahten,"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_DE a :TranslationVariant ;
+:text "hochmütig durch das Klirren des Goldes,"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_DE a :TranslationVariant ;
+:text "warf er mit geschleudertem Feuer den, der auf den äußersten"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_DE a :TranslationVariant ;
+:text "Zinnen schon"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_DE a :TranslationVariant ;
+:text "zum Siegesruf ansetzte;"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_DE a :TranslationVariant ;
+:text "auf die widertönende Erde fiel er, von Tantalos’ Los getroffen,"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_DE a :TranslationVariant ;
+:text "der Feuerträger, der damals mit rasender Anstürmung"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_DE a :TranslationVariant ;
+:text "bacchisch schwärmend hauchte"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_DE a :TranslationVariant ;
+:text "mit Stößen der feindlichsten Winde."^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_DE a :TranslationVariant ;
+:text "Das eine hielt er so,"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_DE a :TranslationVariant ;
+:text "das andere gegen andere wendete er, sie erschütternd,"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_DE a :TranslationVariant ;
+:text "der große Ares, das rechte Gespannpferd."^^xsd:string ;
+:relatedTo :Line_140 .

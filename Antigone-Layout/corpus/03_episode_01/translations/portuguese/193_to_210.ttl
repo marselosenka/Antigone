@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-portuguese a owl:Ontology .
+# Portuguese translation variants for 193_to_210.ttl
+
+:TV_Line_193_PT a :TranslationVariant ;
+:text "aos cidadãos sobre os filhos vindos de Édipo:"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_PT a :TranslationVariant ;
+:text "Etéocles, que combatendo por esta cidade"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_PT a :TranslationVariant ;
+:text "morreu, tendo-se distinguido em tudo pela lança,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_PT a :TranslationVariant ;
+:text "que seja escondido em sepultura e purificado com todos"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_PT a :TranslationVariant ;
+:text "os ritos que chegam aos melhores mortos lá embaixo;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_PT a :TranslationVariant ;
+:text "mas o consanguíneo deste, falo de Polinices,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_PT a :TranslationVariant ;
+:text "que a terra paterna e os deuses da sua linhagem,"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_PT a :TranslationVariant ;
+:text "voltando do exílio, quis com fogo"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_PT a :TranslationVariant ;
+:text "queimar até os alicerces, quis provar"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_PT a :TranslationVariant ;
+:text "do sangue comum e levar os outros escravizados,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_PT a :TranslationVariant ;
+:text "quanto a esse, foi proclamado a esta cidade que ninguém"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_PT a :TranslationVariant ;
+:text "o honre com sepultura nem o lamente,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_PT a :TranslationVariant ;
+:text "mas que o deixe insepulto, e que seu corpo seja visto"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_PT a :TranslationVariant ;
+:text "comido por aves e por cães, e ultrajado."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_PT a :TranslationVariant ;
+:text "Tal é meu pensamento, e nunca, de mim ao menos,"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_PT a :TranslationVariant ;
+:text "os maus terão honra antes dos justos."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_PT a :TranslationVariant ;
+:text "Mas quem for favorável a esta cidade, morto"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_PT a :TranslationVariant ;
+:text "e vivo, igualmente será honrado por mim."^^xsd:string ;
+:relatedTo :Line_210 .

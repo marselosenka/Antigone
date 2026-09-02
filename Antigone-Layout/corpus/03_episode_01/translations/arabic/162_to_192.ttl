@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-arabic a owl:Ontology .
+# Arabic translation variants for 162_to_192.ttl
+
+:TV_Line_162_AR a :TranslationVariant ;
+:text "أيها الرجال، إن الآلهة قد أقامت شؤون المدينة آمنة"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_AR a :TranslationVariant ;
+:text "بعد أن زعزعتها باضطراب عظيم، فأعادتها مستقيمة؛"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_AR a :TranslationVariant ;
+:text "أما أنتم، فقد أرسلت إليكم رسلًا من بين الجميع على حدة"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_AR a :TranslationVariant ;
+:text "لتأتوا، لعلمي أولًا أنكم كنتم دائمًا"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_AR a :TranslationVariant ;
+:text "توقرون جيدًا سلطان عروش لايوس،"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_AR a :TranslationVariant ;
+:text "ثم ثانية، حين كان أوديب يقيم المدينة،"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_AR a :TranslationVariant ;
+:text "وبعد أن هلك، ظللتم حول أبنائه"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_AR a :TranslationVariant ;
+:text "ثابتين بأفكار راسخة."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_AR a :TranslationVariant ;
+:text "فلما هلك ذانك بمصير مزدوج في يوم واحد،"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_AR a :TranslationVariant ;
+:text "ضاربين ومضروبين،"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_AR a :TranslationVariant ;
+:text "بدنس أيديهما الذاتية،"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_AR a :TranslationVariant ;
+:text "فإني أنا أملك الآن كل السلطان والعروش"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_AR a :TranslationVariant ;
+:text "بحكم قربى النسب من الهالكين."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_AR a :TranslationVariant ;
+:text "ومن العسير معرفة نفس كل رجل"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_AR a :TranslationVariant ;
+:text "وفكره ورأيه، قبل أن"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_AR a :TranslationVariant ;
+:text "يظهر متمرسًا في الحكم والقوانين."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_AR a :TranslationVariant ;
+:text "ففي رأيي، من يوجّه مدينة كلها"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_AR a :TranslationVariant ;
+:text "ولا يتمسك بأفضل المشورات،"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_AR a :TranslationVariant ;
+:text "بل يمسك لسانه مغلقًا من خوف ما،"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_AR a :TranslationVariant ;
+:text "يبدو لي الآن ومنذ القديم أسوأ الناس؛"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_AR a :TranslationVariant ;
+:text "ومن يعد صديقًا أعظم من وطنه،"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_AR a :TranslationVariant ;
+:text "فهذا لا أعدّه شيئًا."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_AR a :TranslationVariant ;
+:text "فأنا، وليعلم زيوس الذي يرى كل شيء دائمًا،"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_AR a :TranslationVariant ;
+:text "لن أصمت إذا رأيت الهلاك"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_AR a :TranslationVariant ;
+:text "مقبلًا على المواطنين بدل الخلاص،"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_AR a :TranslationVariant ;
+:text "ولا أجعل أبدًا رجلًا عدوًّا للأرض"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_AR a :TranslationVariant ;
+:text "صديقًا لي، وأنا أعلم هذا:"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_AR a :TranslationVariant ;
+:text "أن هذه هي التي تحفظنا، وعلى ظهرها"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_AR a :TranslationVariant ;
+:text "إذ نبحر مستقيمة، نصنع الأصدقاء."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_AR a :TranslationVariant ;
+:text "بمثل هذه القوانين سأُعلي هذه المدينة."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_AR a :TranslationVariant ;
+:text "والآن قد أعلنت أمورًا شقيقة لهذه"^^xsd:string ;
+:relatedTo :Line_192 .

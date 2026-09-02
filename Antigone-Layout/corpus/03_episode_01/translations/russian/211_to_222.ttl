@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-russian a owl:Ontology .
+# Russian translation variants for 211_to_222.ttl
+
+:TV_Line_211_RU a :TranslationVariant ;
+:text "Тебе это угодно, сын Менекея, делать"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_RU a :TranslationVariant ;
+:text "с враждебным этому городу и с благосклонным к городу;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_RU a :TranslationVariant ;
+:text "и пользоваться всяким законом — это у тебя есть"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_RU a :TranslationVariant ;
+:text "и в отношении умерших, и сколько нас живых."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_RU a :TranslationVariant ;
+:text "Итак, будьте теперь стражами сказанного."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_RU a :TranslationVariant ;
+:text "Поручи это нести кому-нибудь моложе."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_RU a :TranslationVariant ;
+:text "Но уже есть готовые надзиратели за мертвецом."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_RU a :TranslationVariant ;
+:text "Что же еще ты поручаешь об этом?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_RU a :TranslationVariant ;
+:text "Не уступать тем, кто не верит этим приказам."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_RU a :TranslationVariant ;
+:text "Нет столь глупого, кто любит умереть."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_RU a :TranslationVariant ;
+:text "И однако плата именно такова; но под надеждами"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_RU a :TranslationVariant ;
+:text "корысть часто губила мужей."^^xsd:string ;
+:relatedTo :Line_222 .

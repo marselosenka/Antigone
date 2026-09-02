@@ -1,0 +1,58 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-100-112-german a owl:Ontology .
+# German translation variants for 100_to_112.ttl
+
+:TV_Line_100_DE a :TranslationVariant ;
+:text "Strahl der Sonne, das schönste"^^xsd:string ;
+:relatedTo :Line_100 .
+
+:TV_Line_101_DE a :TranslationVariant ;
+:text "Licht, das dem siebentorigen"^^xsd:string ;
+:relatedTo :Line_101 .
+
+:TV_Line_102_DE a :TranslationVariant ;
+:text "Theben je von den früheren Lichtern erschien,"^^xsd:string ;
+:relatedTo :Line_102 .
+
+:TV_Line_103_DE a :TranslationVariant ;
+:text "du bist endlich erschienen, o Augenlid"^^xsd:string ;
+:relatedTo :Line_103 .
+
+:TV_Line_104_DE a :TranslationVariant ;
+:text "des goldenen Tages, über den dirkäischen"^^xsd:string ;
+:relatedTo :Line_104 .
+
+:TV_Line_105_DE a :TranslationVariant ;
+:text "Strömen kommend,"^^xsd:string ;
+:relatedTo :Line_105 .
+
+:TV_Line_106_DE a :TranslationVariant ;
+:text "den weißschildigen Mann aus Argos,"^^xsd:string ;
+:relatedTo :Line_106 .
+
+:TV_Line_107_DE a :TranslationVariant ;
+:text "der in voller Rüstung gegangen war,"^^xsd:string ;
+:relatedTo :Line_107 .
+
+:TV_Line_108_DE a :TranslationVariant ;
+:text "den flüchtigen Vorläufer mit schärferem"^^xsd:string ;
+:relatedTo :Line_108 .
+
+:TV_Line_109_DE a :TranslationVariant ;
+:text "Zügel in Bewegung setzend."^^xsd:string ;
+:relatedTo :Line_109 .
+
+:TV_Line_110_DE a :TranslationVariant ;
+:text "Ihn hatte gegen unser Land Polyneikes,"^^xsd:string ;
+:relatedTo :Line_110 .
+
+:TV_Line_111_DE a :TranslationVariant ;
+:text "erhoben aus zweideutigen Streitigkeiten,"^^xsd:string ;
+:relatedTo :Line_111 .
+
+:TV_Line_112_DE a :TranslationVariant ;
+:text "als Feind hergeführt; und er, scharf kreischend,"^^xsd:string ;
+:relatedTo :Line_112 .

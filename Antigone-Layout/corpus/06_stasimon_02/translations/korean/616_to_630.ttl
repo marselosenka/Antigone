@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-korean a owl:Ontology .
+# Korean translation variants for 616_to_630.ttl
+
+:TV_Line_616_KO a :TranslationVariant ;
+:text "많은 이들에게는 가벼운 마음의 욕망들의 속임수이다."^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_KO a :TranslationVariant ;
+:text "아는 자에게는 아무것도 휩쓸어 가지 않는다, 누군가 뜨거운 불에 발을"^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in Antigone
+
+:TV_Line_620_KO a :TranslationVariant ;
+:text "닿기 전까지는. 지혜로부터 유명한 말이 드러났기 때문이다."^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_KO a :TranslationVariant ;
+:text "악한 것들이 때로 선한 것처럼 보인다,"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_KO a :TranslationVariant ;
+:text "그 사람에게, 마음을"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_KO a :TranslationVariant ;
+:text "신이 파멸로 이끌 때에는."^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone
+
+:TV_Line_625_KO a :TranslationVariant ;
+:text "그리고 그는 파멸 밖에서 아주 짧은 시간만을 지낸다."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_KO a :TranslationVariant ;
+:text "보라, 하이몬이, 당신 자식들 가운데"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_KO a :TranslationVariant ;
+:text "가장 어린 소생이. 그는 슬픔에 짓눌려 오는가,"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_KO a :TranslationVariant ;
+:text "약혼녀 안티고네의 죽음의 운명 때문에,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone
+
+:TV_Line_630_KO a :TranslationVariant ;
+:text "혼상의 속임수로 견딜 수 없는 고통을 겪으며?"^^xsd:string ;
+:relatedTo :Line_630 .

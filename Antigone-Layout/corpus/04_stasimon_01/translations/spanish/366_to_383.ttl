@@ -1,0 +1,45 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-spanish a owl:Ontology .
+# Spanish translation variants for 366_to_383.ttl
+
+:TV_Line_366_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_366 ;
+  :text "Unas veces hacia el mal, otras hacia el bien avanza,"^^xsd:string .
+
+:TV_Line_367_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_367 ;
+  :text "honrando las leyes de la tierra y la justicia jurada de los dioses,"^^xsd:string .
+
+:TV_Line_370_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_370 ;
+  :text "alto en la ciudad; sin ciudad queda aquel con quien lo no noble"^^xsd:string .
+
+:TV_Line_371_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_371 ;
+  :text "convive por audacia. Que no comparta mi hogar"^^xsd:string .
+
+:TV_Line_375_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_375 ;
+  :text "ni piense igual que yo quien hace tales cosas."^^xsd:string .
+
+:TV_Line_376_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_376 ;
+  :text "Ante este prodigio divino estoy dudando"^^xsd:string .
+
+:TV_Line_377_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_377 ;
+  :text "esto: ¿cómo, sabiéndolo, negaré"^^xsd:string .
+
+:TV_Line_378_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_378 ;
+  :text "que esta muchacha sea Antígona?"^^xsd:string .
+
+:TV_Line_379_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_379 ;
+  :text "Oh desdichada"^^xsd:string .
+
+:TV_Line_380_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_380 ;
+  :text "e hija de un padre desdichado, Edipo,"^^xsd:string .
+
+:TV_Line_381_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_381 ;
+  :text "¿qué pasa? No será que te llevan por desobedecer"^^xsd:string .
+
+:TV_Line_382_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_382 ;
+  :text "las leyes reales,"^^xsd:string .
+
+:TV_Line_383_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_383 ;
+  :text "tras sorprenderte en insensatez."^^xsd:string .

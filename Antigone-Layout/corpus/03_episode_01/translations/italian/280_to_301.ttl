@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-italian a owl:Ontology .
+# Italian translation variants for 280_to_301.ttl
+
+:TV_Line_280_IT a :TranslationVariant ;
+:text "Smetti, prima che parlando tu riempia anche me d'ira,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_IT a :TranslationVariant ;
+:text "affinché tu non sia trovato insieme stolto e vecchio."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_IT a :TranslationVariant ;
+:text "Dici infatti cose intollerabili dicendo che i demoni"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_IT a :TranslationVariant ;
+:text "hanno provvidenza riguardo a questo morto."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_IT a :TranslationVariant ;
+:text "Forse onorandolo oltre misura come benefattore"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_IT a :TranslationVariant ;
+:text "lo nascondevano, lui che i templi circondati da colonne"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_IT a :TranslationVariant ;
+:text "venne per incendiare, e le offerte votive"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_IT a :TranslationVariant ;
+:text "e la loro terra e le leggi a disperdere?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_IT a :TranslationVariant ;
+:text "Oppure vedi gli dèi onorare i malvagi?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_IT a :TranslationVariant ;
+:text "Non è così; ma queste cose già da tempo uomini della città,"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_IT a :TranslationVariant ;
+:text "sopportando a stento, mormoravano contro di me"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_IT a :TranslationVariant ;
+:text "di nascosto, scuotendo il capo, e non sotto il giogo"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_IT a :TranslationVariant ;
+:text "tenevano giustamente il collo, così da amarmi."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_IT a :TranslationVariant ;
+:text "Da costoro so bene che questi"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_IT a :TranslationVariant ;
+:text "sedotti da paghe hanno compiuto queste cose."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_IT a :TranslationVariant ;
+:text "Nulla infatti per gli uomini come l'argento"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_IT a :TranslationVariant ;
+:text "germogliò come cattiva moneta; questo anche città"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_IT a :TranslationVariant ;
+:text "distrugge, questo fa uscire uomini dalle case,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_IT a :TranslationVariant ;
+:text "questo insegna e muta le menti"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_IT a :TranslationVariant ;
+:text "buone dei mortali a stare presso cose vergognose,"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_IT a :TranslationVariant ;
+:text "e mostrò agli uomini di avere ogni scelleratezza"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_IT a :TranslationVariant ;
+:text "e di conoscere l'empietà di ogni opera."^^xsd:string ;
+:relatedTo :Line_301 .

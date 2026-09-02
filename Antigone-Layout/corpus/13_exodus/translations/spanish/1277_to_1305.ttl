@@ -1,0 +1,39 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-spanish a owl:Ontology .
+# Spanish translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone.
+
+:TV_Line_1278_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1278 ; :text "Señor, parece que tienes y posees males:"^^xsd:string .
+:TV_Line_1279_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1279 ; :text "unos los traes ante tus manos, y otros en la casa,"^^xsd:string .
+:TV_Line_1280_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1280 ; :text "según parece al llegar, pronto los verás."^^xsd:string .
+:TV_Line_1281_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1281 ; :text "¿Qué? ¿Hay todavía algo peor que estos males?"^^xsd:string .
+:TV_Line_1282_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1282 ; :text "Tu mujer ha muerto, madre verdadera de este cadáver,"^^xsd:string .
+:TV_Line_1283_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1283 ; :text "desdichada, ahora mismo por golpes recién cortados."^^xsd:string .
+:TV_Line_1284_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1284 ; :text "Ay, ay, puerto de Hades imposible de purificar,"^^xsd:string .
+:TV_Line_1285_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1285 ; :text "¿por qué, por qué me destruyes?"^^xsd:string .
+:TV_Line_1286_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1286 ; :text "Oh mensajero de males para mí,"^^xsd:string .
+:TV_Line_1287_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1287 ; :text "que has enviado dolores delante, ¿qué palabra gritas?"^^xsd:string .
+:TV_Line_1288_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1288 ; :text "Ay, has acabado de destruir a un hombre ya destruido."^^xsd:string .
+:TV_Line_1289_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1289 ; :text "¿Qué dices, muchacho? ¿Qué cosa nueva me cuentas,"^^xsd:string .
+:TV_Line_1290_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1290 ; :text "ay, ay,"^^xsd:string .
+:TV_Line_1291_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1291 ; :text "qué víctima añadida a la destrucción,"^^xsd:string .
+:TV_Line_1292_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1292 ; :text "qué muerte de mujer yace sobre mí?"^^xsd:string .
+:TV_Line_1293_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1293 ; :text "Puedes verla; ya no está en lo interior."^^xsd:string .
+:TV_Line_1294_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1294 ; :text "Ay de mí,"^^xsd:string .
+:TV_Line_1295_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1295 ; :text "desdichado, veo este otro segundo mal."^^xsd:string .
+:TV_Line_1296_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1296 ; :text "¿Qué destino, qué destino me espera todavía?"^^xsd:string .
+:TV_Line_1297_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1297 ; :text "Ahora mismo tengo en mis manos a mi hijo,"^^xsd:string .
+:TV_Line_1298_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1298 ; :text "desdichado, y miro enfrente otro cadáver."^^xsd:string .
+
+# Line 1299 does not exist in Antigone.
+
+:TV_Line_1300_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1300 ; :text "Ay, ay, madre desdichada; ay, hijo."^^xsd:string .
+:TV_Line_1301_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1301 ; :text "Ella, herida de golpe agudo, sentada junto al altar,"^^xsd:string .
+:TV_Line_1302_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1302 ; :text "cerró sus negros párpados, después de lamentar"^^xsd:string .
+:TV_Line_1303_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1303 ; :text "el lecho vacío de Megareo, muerto antes,"^^xsd:string .
+:TV_Line_1304_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1304 ; :text "y luego el de este; y al final, contra ti,"^^xsd:string .
+:TV_Line_1305_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1305 ; :text "cantó en maldición tus malas acciones, llamándote matador de tu hijo."^^xsd:string .

@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-bengali a owl:Ontology .
+# Bengali translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_BN a :TranslationVariant ;
+:text "ক্রেয়োন: হায় হায়, হায় হায়,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_BN a :TranslationVariant ;
+:text "ভয়ে আমি উন্মুক্ত হয়ে গেছি। কেন কেউ আমাকে সম্মুখ থেকে"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_BN a :TranslationVariant ;
+:text "দ্বিধারী তলোয়ারে আঘাত করল না?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in Antigone
+
+:TV_Line_1310_BN a :TranslationVariant ;
+:text "হতভাগা আমি, হায়,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_BN a :TranslationVariant ;
+:text "হতভাগ্য দুঃখের সঙ্গে আমি মিশে গেছি।"^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_BN a :TranslationVariant ;
+:text "দূত: এসব ও ওসবের জন্য দায়ী বলে"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_BN a :TranslationVariant ;
+:text "এই মৃত নারীর মৃত্যুর দিক থেকে তোমার উপর অভিযোগ চাপানো হয়েছিল।"^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_BN a :TranslationVariant ;
+:text "ক্রেয়োন: আর কোন পদ্ধতিতে সে রক্তের মধ্যে নিজেকে মুক্ত করল?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_BN a :TranslationVariant ;
+:text "দূত: নিজের হাতে যকৃতের নিচে নিজেকে আঘাত করে,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_BN a :TranslationVariant ;
+:text "যখন সে পুত্রের এই তীক্ষ্ণ-বিলাপিত দুঃখ জানল।"^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_BN a :TranslationVariant ;
+:text "ক্রেয়োন: হায় আমার, এসব কখনও অন্য কোনো মর্ত্যের উপর"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_BN a :TranslationVariant ;
+:text "আমার দোষ ছাড়া মানানসই হবে না।"^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_BN a :TranslationVariant ;
+:text "কারণ আমি, আমিই তোমাকে হত্যা করেছি, হে হতভাগা,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_BN a :TranslationVariant ;
+:text "আমি—সত্য কথা বলছি। হে পরিচারকেরা,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_BN a :TranslationVariant ;
+:text "যত তাড়াতাড়ি সম্ভব আমাকে নিয়ে যাও, চোখের আড়াল করো,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Line 1322, 1323 and 1324 do not exist in Antigone
+
+:TV_Line_1325_BN a :TranslationVariant ;
+:text "যে আর নেই, বরং কারও চেয়েও কম।"^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_BN a :TranslationVariant ;
+:text "কোরাস: তুমি লাভের কথা বলছ, যদি অমঙ্গলে কোনো লাভ থাকে;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_BN a :TranslationVariant ;
+:text "কারণ পায়ের কাছে থাকা অমঙ্গল যত ক্ষুদ্র, তত শ্রেষ্ঠ।"^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_BN a :TranslationVariant ;
+:text "ক্রেয়োন: আসুক, আসুক,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_BN a :TranslationVariant ;
+:text "আমার মৃত্যুগুলির মধ্যে সবচেয়ে সুন্দরটি দেখা দিক,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_BN a :TranslationVariant ;
+:text "আমার শেষ দিন এনে,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_BN a :TranslationVariant ;
+:text "সর্বশেষ দিন; আসুক, আসুক,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_BN a :TranslationVariant ;
+:text "যাতে আর কোনো দিন না দেখি।"^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in Antigone
+
+:TV_Line_1334_BN a :TranslationVariant ;
+:text "কোরাস: এসব ভবিষ্যতের কথা। সামনে যা রয়েছে,"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_BN a :TranslationVariant ;
+:text "তার কিছু করা দরকার; কারণ যাদের এ নিয়ে ভাবা উচিত, তাদেরই তা ভাবতে হবে।"^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_BN a :TranslationVariant ;
+:text "ক্রেয়োন: কিন্তু যেসবের কথা বলছি, সেগুলোর জন্যই আমিও প্রার্থনা করেছি।"^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_BN a :TranslationVariant ;
+:text "কোরাস: এখন আর কিছু প্রার্থনা কোরো না; কারণ নির্দিষ্ট ভাগ্যের"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_BN a :TranslationVariant ;
+:text "দুর্যোগ থেকে মর্ত্যদের মুক্তি নেই।"^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_BN a :TranslationVariant ;
+:text "ক্রেয়োন: এই ব্যর্থ মানুষটিকে চোখের আড়াল নিয়ে যাও,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_BN a :TranslationVariant ;
+:text "যে, হে পুত্র, তোমাকে অনিচ্ছায় হত্যা করেছে,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_BN a :TranslationVariant ;
+:text "আর তোমাকেও, এই নারীকে, হায় হতভাগা আমি; আমার নেই"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_BN a :TranslationVariant ;
+:text "কোন দিকে তাকাই, কোথায় হেলি;"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Line 1343 and 1344 do not exist in Antigone
+
+:TV_Line_1345_BN a :TranslationVariant ;
+:text "কারণ হাতে থাকা সবকিছু তির্যক, আর আমার মাথার উপর"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_BN a :TranslationVariant ;
+:text "বহন করা কঠিন ভাগ্য ঝাঁপিয়ে পড়েছে।"^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_BN a :TranslationVariant ;
+:text "কোরাস: বহু দূর পর্যন্ত বোধই সুখের"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_BN a :TranslationVariant ;
+:text "প্রথম শর্ত; আর দেবতাদের প্রতি"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in Antigone
+
+:TV_Line_1350_BN a :TranslationVariant ;
+:text "কোনোভাবেই অধর্ম করা উচিত নয়; বড় বড় কথা"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_BN a :TranslationVariant ;
+:text "অহংকারীদের বড় আঘাত ফিরিয়ে দিয়ে,"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_BN a :TranslationVariant ;
+:text "প্রতিদান শোধ করে,"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_BN a :TranslationVariant ;
+:text "বার্ধক্যে বোধ শেখায়।"^^xsd:string ;
+:relatedTo :Line_1353 .

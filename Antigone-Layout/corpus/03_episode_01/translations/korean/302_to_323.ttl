@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-korean a owl:Ontology .
+# Korean translation variants for 302_to_323.ttl
+
+:TV_Line_302_KO a :TranslationVariant ;
+:text "보수를 벌어 이것들을 이룬 모든 자들은"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_KO a :TranslationVariant ;
+:text "언젠가 시간이 지나 벌을 치르게 되었다."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_KO a :TranslationVariant ;
+:text "그러나 만일 제우스가 아직 나에게서 존경을 받고 있다면,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_KO a :TranslationVariant ;
+:text "이것을 잘 알아라, 나는 맹세하여 네게 말한다,"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_KO a :TranslationVariant ;
+:text "너희가 이 무덤의 직접 행한 자를"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_KO a :TranslationVariant ;
+:text "찾아내 내 눈앞에 드러내지 않는다면,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_KO a :TranslationVariant ;
+:text "너희에게 하데스 하나만으로는 충분하지 않을 것이다, 너희가"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_KO a :TranslationVariant ;
+:text "살아 매달린 채 이 오만한 짓을 밝히기 전에는,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_KO a :TranslationVariant ;
+:text "그리하여 이익을 어디서 가져와야 하는지 알고,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_KO a :TranslationVariant ;
+:text "앞으로 약탈하게 하고, 또 배우게 하려는 것이다,"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_KO a :TranslationVariant ;
+:text "모든 것에서 이익 얻기를 사랑해서는 안 된다는 것을."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_KO a :TranslationVariant ;
+:text "수치스러운 취득들로부터는 더 많은 이들이"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_KO a :TranslationVariant ;
+:text "구원받기보다 파멸하는 것을 볼 수 있기 때문이다."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_KO a :TranslationVariant ;
+:text "말하도록 허락하시겠습니까, 아니면 그대로 돌아서 가겠습니까?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_KO a :TranslationVariant ;
+:text "너는 지금도 네가 얼마나 괴롭게 말하는지 모르는가?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_KO a :TranslationVariant ;
+:text "귀에 물어뜯습니까, 아니면 영혼에 물어뜯습니까?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_KO a :TranslationVariant ;
+:text "너는 왜 내 고통이 어디 있는지 재려 하느냐?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_KO a :TranslationVariant ;
+:text "행한 자는 당신의 마음을 괴롭게 하고, 귀는 제가 괴롭게 합니다."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_KO a :TranslationVariant ;
+:text "아아, 너는 분명히 수다스러운 자로 태어났구나."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_KO a :TranslationVariant ;
+:text "그렇다고 제가 결코 이 일을 행한 자는 아닙니다."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_KO a :TranslationVariant ;
+:text "그것도 은 때문에 네 영혼을 팔아넘기고서 말이다."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_KO a :TranslationVariant ;
+:text "아아, 판단하는 자가 거짓으로 판단하는 것은 참으로 두려운 일입니다."^^xsd:string ;
+:relatedTo :Line_323 .

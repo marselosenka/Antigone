@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-hindi a owl:Ontology .
+# Hindi translation variants for 635_to_680.ttl
+
+:TV_Line_635_HI a :TranslationVariant ;
+:text "पिता, मैं तेरा हूँ, और तू मेरे लिए जो विचार रखता है"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_HI a :TranslationVariant ;
+:text "वे अच्छे हैं; तू मुझे सीधा करता है, और मैं उनका अनुसरण करूँगा।"^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_HI a :TranslationVariant ;
+:text "क्योंकि मेरे लिए कोई विवाह योग्य नहीं माना जाएगा"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_HI a :TranslationVariant ;
+:text "तेरे अच्छे मार्गदर्शन से बढ़कर होने के लिए।"^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_HI a :TranslationVariant ;
+:text "क्योंकि ऐसे ही, हे पुत्र, छाती के भीतर रखना चाहिए,"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_HI a :TranslationVariant ;
+:text "पिता की राय के पीछे हर बात में खड़ा रहना।"^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_HI a :TranslationVariant ;
+:text "इसी कारण पुरुष प्रार्थना करते हैं कि संतान"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_HI a :TranslationVariant ;
+:text "आज्ञाकारी पैदा कर घरों में रखें,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_HI a :TranslationVariant ;
+:text "ताकि वे शत्रु को बुराइयों से प्रतिघात दें"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_HI a :TranslationVariant ;
+:text "और मित्र को पिता के बराबर सम्मान दें।"^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_HI a :TranslationVariant ;
+:text "पर जो अनुपयोगी बच्चे पैदा करता है,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_HI a :TranslationVariant ;
+:text "तू उसके लिए और क्या कहेगा, सिवा इसके कि उसने अपने लिए कष्ट"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_HI a :TranslationVariant ;
+:text "और शत्रुओं के लिए बहुत हँसी पैदा की?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_HI a :TranslationVariant ;
+:text "इसलिए कभी नहीं, हे पुत्र, आनंद के कारण अपना मन"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_HI a :TranslationVariant ;
+:text "किसी स्त्री के लिए मत फेंकना, यह जानते हुए कि"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_HI a :TranslationVariant ;
+:text "यह ठंडा आलिंगन बन जाता है,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_HI a :TranslationVariant ;
+:text "घर में सहशय्या दुष्ट स्त्री। क्योंकि क्या"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_HI a :TranslationVariant ;
+:text "दुष्ट मित्र से बड़ा घाव हो सकता है?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_HI a :TranslationVariant ;
+:text "बल्कि थूककर, जैसे शत्रु को, उसे छोड़ दे,"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_HI a :TranslationVariant ;
+:text "इस कन्या को हेडिस में किसी से विवाह करने दे।"^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_HI a :TranslationVariant ;
+:text "क्योंकि जब मैंने उसे स्पष्ट रूप से पकड़ लिया"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_HI a :TranslationVariant ;
+:text "पूरे नगर में अकेली नगर से अविश्वास करती हुई,"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_HI a :TranslationVariant ;
+:text "मैं अपने को नगर के सामने झूठा नहीं ठहराऊँगा,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_HI a :TranslationVariant ;
+:text "बल्कि उसे मारूँगा। इन बातों पर वह ज़ीउस को पुकारे,"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_HI a :TranslationVariant ;
+:text "रक्त-संबंधी देवता को। क्योंकि यदि अपने जन्मजात संबंधियों को"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_HI a :TranslationVariant ;
+:text "अव्यवस्थित पालूँगा, तो कुल से बाहर वालों को तो और भी अधिक।"^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_HI a :TranslationVariant ;
+:text "क्योंकि जो मनुष्य अपने घर के लोगों में"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_HI a :TranslationVariant ;
+:text "सच्चा है, वह नगर में भी न्यायवान दिखाई देगा।"^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_HI a :TranslationVariant ;
+:text "पर जो सीमा पार कर नियमों पर बल करता है"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_HI a :TranslationVariant ;
+:text "या शासकों को आदेश देने का विचार करता है,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_HI a :TranslationVariant ;
+:text "वह मुझसे प्रशंसा पाने वाला नहीं।"^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_HI a :TranslationVariant ;
+:text "बल्कि नगर जिसे स्थापित करे, उसकी बात सुननी चाहिए,"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_HI a :TranslationVariant ;
+:text "छोटी बातों में, न्याय की बातों में, और विपरीत बातों में भी।"^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_HI a :TranslationVariant ;
+:text "ऐसे मनुष्य पर मैं विश्वास करूँगा"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_HI a :TranslationVariant ;
+:text "कि वह अच्छा शासन करेगा और अच्छा शासित होना भी चाहेगा,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_HI a :TranslationVariant ;
+:text "और भाले के तूफ़ान में आगे रखा गया"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_HI a :TranslationVariant ;
+:text "न्यायवान और बहादुर सहायक बनकर ठहरा रहेगा।"^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_HI a :TranslationVariant ;
+:text "अराजकता से बड़ा कोई बुरा नहीं।"^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_HI a :TranslationVariant ;
+:text "यह नगरों को नष्ट करती है, यह घरों को"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_HI a :TranslationVariant ;
+:text "उजाड़ देती है, यह मित्र-भाले की"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_HI a :TranslationVariant ;
+:text "पलटनों को तोड़ देती है; और जो सीधे रहते हैं,"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_HI a :TranslationVariant ;
+:text "उनके बहुत-से शरीरों को अनुशासन बचाता है।"^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_HI a :TranslationVariant ;
+:text "इसलिए व्यवस्थित बातों की रक्षा करनी चाहिए,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_HI a :TranslationVariant ;
+:text "और किसी भी तरह स्त्री से पराजित नहीं होना चाहिए।"^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_HI a :TranslationVariant ;
+:text "क्योंकि यदि गिरना ही हो, तो पुरुष के हाथ से गिरना बेहतर है,"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_HI a :TranslationVariant ;
+:text "और हम स्त्रियों से कमतर नहीं कहलाएँगे।"^^xsd:string ;
+:relatedTo :Line_680 .

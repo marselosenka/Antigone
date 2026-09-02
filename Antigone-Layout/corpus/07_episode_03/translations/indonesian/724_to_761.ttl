@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-indonesian a owl:Ontology .
+# Indonesian translation variants for 724_to_761.ttl
+
+:TV_Line_724_ID a :TranslationVariant ;
+:text "Tuan, adalah patut bagimu, jika ia mengatakan sesuatu tepat waktunya,"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_ID a :TranslationVariant ;
+:text "untuk belajar, dan baginya juga darimu; sebab baik telah dikatakan di kedua sisi."^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_ID a :TranslationVariant ;
+:text "Apakah orang setua kami ini sungguh akan diajari"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_ID a :TranslationVariant ;
+:text "untuk berpikir oleh lelaki semuda ini?"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_ID a :TranslationVariant ;
+:text "Tidak dalam hal yang tidak adil; tetapi jika aku muda,"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_ID a :TranslationVariant ;
+:text "orang harus melihat tindakan lebih daripada umur."^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_ID a :TranslationVariant ;
+:text "Sebab apakah ini suatu tindakan: menghormati orang-orang yang tidak tertib?"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_ID a :TranslationVariant ;
+:text "Aku pun tidak akan menyuruh siapa pun berbakti kepada yang jahat."^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_ID a :TranslationVariant ;
+:text "Bukankah dia ini telah terkena penyakit semacam itu?"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_ID a :TranslationVariant ;
+:text "Rakyat sesama kota Thebes ini mengatakan tidak."^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_ID a :TranslationVariant ;
+:text "Apakah kota akan berkata kepadaku bagaimana aku harus memerintah?"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_ID a :TranslationVariant ;
+:text "Lihatlah bagaimana engkau mengatakannya terlalu muda."^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_ID a :TranslationVariant ;
+:text "Haruskah aku memerintah negeri ini untuk orang lain, bukan untukku?"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_ID a :TranslationVariant ;
+:text "Sebab tidak ada kota yang menjadi milik satu orang."^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_ID a :TranslationVariant ;
+:text "Bukankah kota dianggap milik orang yang berkuasa?"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_ID a :TranslationVariant ;
+:text "Bagus benar jika engkau sendiri memerintah tanah kosong."^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_ID a :TranslationVariant ;
+:text "Orang ini, tampaknya, bersekutu dengan perempuan itu."^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_ID a :TranslationVariant ;
+:text "Jika memang engkau perempuan. Sebab aku peduli kepadamu."^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_ID a :TranslationVariant ;
+:text "Wahai yang paling buruk, engkau pergi melalui pengadilan melawan ayahmu?"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_ID a :TranslationVariant ;
+:text "Sebab kulihat engkau bersalah dalam perkara yang tidak adil."^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_ID a :TranslationVariant ;
+:text "Apakah aku bersalah karena menghormati kekuasaanku sendiri?"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_ID a :TranslationVariant ;
+:text "Sebab engkau tidak menghormati, ketika menginjak-injak kehormatan para dewa."^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_ID a :TranslationVariant ;
+:text "Wahai tabiat kotor dan lebih rendah daripada perempuan."^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_ID a :TranslationVariant ;
+:text "Engkau tidak akan menangkapku sebagai lebih rendah dari hal-hal memalukan."^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_ID a :TranslationVariant ;
+:text "Setidaknya seluruh pembicaraanmu ini demi perempuan itu."^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_ID a :TranslationVariant ;
+:text "Demi engkau juga dan demi aku, serta demi para dewa bawah."^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_ID a :TranslationVariant ;
+:text "Perempuan itu tidak mungkin akan kaukawini selagi masih hidup."^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_ID a :TranslationVariant ;
+:text "Maka ia akan mati, dan setelah mati ia akan membinasakan seseorang."^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_ID a :TranslationVariant ;
+:text "Apakah engkau maju dengan berani sambil mengancam demikian?"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_ID a :TranslationVariant ;
+:text "Ancaman apa yang ada dalam berbicara kepada pikiran kosong?"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_ID a :TranslationVariant ;
+:text "Dengan menangis engkau akan mendapatkan akal, engkau sendiri kosong akal."^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_ID a :TranslationVariant ;
+:text "Jika engkau bukan ayahku, aku akan berkata engkau tidak berpikir baik."^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_ID a :TranslationVariant ;
+:text "Karena menjadi budak perempuan, jangan mengoceh kepadaku."^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_ID a :TranslationVariant ;
+:text "Apakah engkau mau berkata sesuatu, dan sambil berkata tidak mendengar apa pun?"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_ID a :TranslationVariant ;
+:text "Benarkah? Tetapi demi Olympus ini, ketahuilah,"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_ID a :TranslationVariant ;
+:text "engkau tidak akan bersukacita menyiksaku dengan celaan."^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_ID a :TranslationVariant ;
+:text "Bawa makhluk kebencian itu, agar di depan matanya segera,"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_ID a :TranslationVariant ;
+:text "di hadapan mempelainya, ia mati dekat dengannya."^^xsd:string ;
+:relatedTo :Line_761 .

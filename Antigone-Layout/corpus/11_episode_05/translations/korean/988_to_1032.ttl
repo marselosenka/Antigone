@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-korean a owl:Ontology .
+# Korean translation variants for 988_to_1032.ttl
+
+:TV_Line_988_KO a :TranslationVariant ;
+:text "테바이의 왕들이여, 우리는 함께하는 길을 왔다,"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_KO a :TranslationVariant ;
+:text "한 사람의 눈으로 둘이 보면서. 눈먼 자들에게는"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_KO a :TranslationVariant ;
+:text "이 길은 앞서 이끄는 자에게서 이루어지기 때문이다."^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_KO a :TranslationVariant ;
+:text "무슨 일인가, 늙은 테이레시아스여, 새로운 것이 무엇인가?"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_KO a :TranslationVariant ;
+:text "내가 가르치겠다. 그리고 너는 예언자를 따르라."^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_KO a :TranslationVariant ;
+:text "그래도 이전에는 내가 당신의 마음에서 떨어져 서 있지 않았습니다."^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_KO a :TranslationVariant ;
+:text "그래서 너는 이 도시를 곧은 길로 항해시키고 있다."^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_KO a :TranslationVariant ;
+:text "저는 겪은 일로써 그것들이 유익했음을 증언할 수 있습니다."^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_KO a :TranslationVariant ;
+:text "이제 다시 네가 운명의 칼날 위에 서 있음을 생각하라."^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_KO a :TranslationVariant ;
+:text "무슨 일입니까? 저는 당신의 입을 두려워하여 떱니다."^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_KO a :TranslationVariant ;
+:text "내 기술의 징표들을 들으면 너는 알게 될 것이다."^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_KO a :TranslationVariant ;
+:text "나는 오래된 새점의 자리에"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_KO a :TranslationVariant ;
+:text "앉았는데, 그곳은 내게 온갖 새의 항구였다."^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_KO a :TranslationVariant ;
+:text "그때 나는 새들의 알 수 없는 소리를 들었다, 나쁜"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_KO a :TranslationVariant ;
+:text "광기와 야만스러운 소리로 울부짖는 것을."^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_KO a :TranslationVariant ;
+:text "그리고 서로를 살의 가득한 발톱으로 찢고 있음을"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_KO a :TranslationVariant ;
+:text "알았다. 날개들의 소용돌이 소리가 분명했기 때문이다."^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_KO a :TranslationVariant ;
+:text "곧 두려워져, 나는 불로 태우는 제물을 시험했다,"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_KO a :TranslationVariant ;
+:text "온통 불타는 제단들에서. 그러나 희생제물들로부터"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_KO a :TranslationVariant ;
+:text "헤파이스토스는 빛나지 않았고, 오히려 재 위에서"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_KO a :TranslationVariant ;
+:text "넓적다리의 젖은 진액이 썩어 녹아내렸고,"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_KO a :TranslationVariant ;
+:text "연기를 내고 침을 뱉었으며, 공중으로"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_KO a :TranslationVariant ;
+:text "쓸개즙들이 흩뿌려졌다. 그리고 흘러내려"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_KO a :TranslationVariant ;
+:text "넓적다리뼈들은 덮고 있던 지방에서 벗겨져 드러나 있었다."^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_KO a :TranslationVariant ;
+:text "이런 것들을 나는 이 아이에게서 배웠다,"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_KO a :TranslationVariant ;
+:text "징표 없는 제의의 예언들이 쇠하고 있음을."^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_KO a :TranslationVariant ;
+:text "그는 내 길잡이이고, 나는 다른 이들의 길잡이이기 때문이다."^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_KO a :TranslationVariant ;
+:text "그리고 이것들 때문에, 네 마음에서 이 도시는 병들어 있다."^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_KO a :TranslationVariant ;
+:text "우리의 제단들과 완전한 화덕들이"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_KO a :TranslationVariant ;
+:text "새들과 개들의 먹이로 가득하기 때문이다,"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_KO a :TranslationVariant ;
+:text "불운하게 쓰러진 오이디푸스의 자식의 것으로."^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_KO a :TranslationVariant ;
+:text "그래서 신들은 더 이상 우리에게서 희생의 기도를"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_KO a :TranslationVariant ;
+:text "받지 않고, 넓적다리뼈의 불꽃도 받지 않는다."^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_KO a :TranslationVariant ;
+:text "새도 길한 징표의 울음소리를 내어 보내지 않는다,"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_KO a :TranslationVariant ;
+:text "사람을 죽인 피의 기름을 먹어 버렸기 때문이다."^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_KO a :TranslationVariant ;
+:text "그러니 이것들을 생각하라, 아이야. 모든 사람들에게"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_KO a :TranslationVariant ;
+:text "잘못하는 것은 공통된 일이기 때문이다."^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_KO a :TranslationVariant ;
+:text "그러나 잘못한 뒤에는, 재앙에"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_KO a :TranslationVariant ;
+:text "떨어진 자가 그것을 고치고 움직이지 않는 자로 남지 않는다면,"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_KO a :TranslationVariant ;
+:text "그 사람은 더 이상 어리석지도 불운하지도 않은 자다."^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_KO a :TranslationVariant ;
+:text "완고함은 어리석음의 죄를 진다."^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_KO a :TranslationVariant ;
+:text "그러니 죽은 자에게 양보하고, 죽어 없어진 자를"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_KO a :TranslationVariant ;
+:text "찌르지 마라. 죽은 자를 다시 죽이는 데 무슨 용맹이 있는가?"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_KO a :TranslationVariant ;
+:text "너를 위해 잘 생각하여, 나는 잘 말한다. 배우는 것은"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_KO a :TranslationVariant ;
+:text "잘 말하는 자에게서라면 가장 즐겁다, 이익을 가져온다면."^^xsd:string ;
+:relatedTo :Line_1032 .

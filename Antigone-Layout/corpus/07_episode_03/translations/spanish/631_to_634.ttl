@@ -1,0 +1,11 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-spanish a owl:Ontology .
+# Spanish translation variants for 631_to_634.ttl
+
+:TV_Line_631_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_631 ; :text "Pronto lo sabremos con más certeza que los adivinos."^^xsd:string .
+:TV_Line_632_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_632 ; :text "Hijo, ¿acaso has oído el voto definitivo"^^xsd:string .
+:TV_Line_633_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_633 ; :text "sobre tu prometida y vienes furioso contra tu padre?"^^xsd:string .
+:TV_Line_634_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_634 ; :text "¿O somos para ti amigos en todo, hagamos lo que hagamos?"^^xsd:string .

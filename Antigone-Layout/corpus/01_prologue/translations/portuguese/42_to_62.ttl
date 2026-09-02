@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-portuguese a owl:Ontology .
+# Portuguese translation variants for 42_to_62.ttl
+
+:TV_Line_042_PT a :TranslationVariant ;
+:text "Que perigo é esse? Para onde vai teu pensamento?"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_PT a :TranslationVariant ;
+:text "Se com esta mão ajudarás a erguer o morto."^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_PT a :TranslationVariant ;
+:text "Então pensas mesmo em sepultá-lo, proibido à cidade?"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_PT a :TranslationVariant ;
+:text "Ao menos meu irmão, e teu também, se tu não quiseres,"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_PT a :TranslationVariant ;
+:text "pois não serei apanhada traindo-o."^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_PT a :TranslationVariant ;
+:text "Ó desgraçada, mesmo Creonte tendo proibido?"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_PT a :TranslationVariant ;
+:text "Mas nada lhe cabe impedir-me dos meus."^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_PT a :TranslationVariant ;
+:text "Ai de mim; pensa, irmã, como nosso pai"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_PT a :TranslationVariant ;
+:text "morreu odioso e sem glória para nós,"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_PT a :TranslationVariant ;
+:text "quando, por faltas descobertas por ele mesmo,"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_PT a :TranslationVariant ;
+:text "feriu seus dois olhos com a própria mão autora;"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_PT a :TranslationVariant ;
+:text "depois, mãe e esposa, palavra dupla,"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_PT a :TranslationVariant ;
+:text "desonra a vida com laços trançados;"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_PT a :TranslationVariant ;
+:text "em terceiro lugar, dois irmãos num só dia,"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_PT a :TranslationVariant ;
+:text "os dois infelizes, matando-se a si mesmos,"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_PT a :TranslationVariant ;
+:text "cumpriram morte comum por mãos recíprocas."^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_PT a :TranslationVariant ;
+:text "Agora, por sua vez, só nós duas restantes, vê"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_PT a :TranslationVariant ;
+:text "quanto pior morreremos, se pela força da lei"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_PT a :TranslationVariant ;
+:text "transgredirmos o decreto ou o poder dos tiranos."^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_PT a :TranslationVariant ;
+:text "Mas é preciso considerar isto: primeiro, que mulheres"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_PT a :TranslationVariant ;
+:text "nascemos, de modo que não lutaremos contra homens;"^^xsd:string ;
+:relatedTo :Line_062 .

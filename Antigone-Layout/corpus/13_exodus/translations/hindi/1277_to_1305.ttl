@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-hindi a owl:Ontology .
+# Hindi translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone
+
+:TV_Line_1278_HI a :TranslationVariant ;
+:text "हे स्वामी, जैसे तू लिए हुए और धारण किए हुए है,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_HI a :TranslationVariant ;
+:text "तू हाथों के सामने ये दुःख लाता प्रतीत होता है, और घर में"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_HI a :TranslationVariant ;
+:text "आकर तू और भी बुराइयाँ शीघ्र देखेगा।"^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_HI a :TranslationVariant ;
+:text "क्या? क्या बुराइयों से भी अधिक बुरा कुछ और है?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_HI a :TranslationVariant ;
+:text "तेरी पत्नी मर चुकी है, इस मृतक की सर्वथा माता,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_HI a :TranslationVariant ;
+:text "अभागी, अभी-अभी नए लगाए घावों से।"^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_HI a :TranslationVariant ;
+:text "हाय, हाय, हेडीस का अशुद्धि-अक्षम बंदरगाह,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_HI a :TranslationVariant ;
+:text "क्यों, आखिर क्यों तू मुझे नष्ट करता है?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_HI a :TranslationVariant ;
+:text "हे मेरे लिए बुरी सूचना लाने वाले,"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_HI a :TranslationVariant ;
+:text "पहले से भेजे हुए दुःखों के बाद, तू कौन-सा वचन पुकारता है?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_HI a :TranslationVariant ;
+:text "हाय, तूने पहले से नष्ट मनुष्य को और नष्ट कर दिया।"^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_HI a :TranslationVariant ;
+:text "क्या कहता है, हे बालक? तू मुझे कौन-सी नई बात बताता है,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_HI a :TranslationVariant ;
+:text "हाय, हाय,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_HI a :TranslationVariant ;
+:text "विनाश पर बलि की तरह,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_HI a :TranslationVariant ;
+:text "स्त्री की मृत्यु भी मेरे ऊपर पड़ी है?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_HI a :TranslationVariant ;
+:text "देखना संभव है; क्योंकि वह अब भीतर छिपी नहीं।"^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_HI a :TranslationVariant ;
+:text "हाय,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_HI a :TranslationVariant ;
+:text "मैं अभागा यह दूसरा दुःख भी देखता हूँ।"^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_HI a :TranslationVariant ;
+:text "कौन-सा, कौन-सा भाग्य अब भी मेरा इंतज़ार करता है?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_HI a :TranslationVariant ;
+:text "अभी तो मैं अपने हाथों में पुत्र को लिए हूँ,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_HI a :TranslationVariant ;
+:text "अभागा, और सामने दूसरे मृतक को देखता हूँ।"^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in Antigone
+
+:TV_Line_1300_HI a :TranslationVariant ;
+:text "हाय हाय, अभागी माता, हाय पुत्र।"^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_HI a :TranslationVariant ;
+:text "वह तीक्ष्ण-घातित, वेदी के पास बैठी हुई,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_HI a :TranslationVariant ;
+:text "काली आँखें बंद कर गई, पहले चीत्कार कर"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_HI a :TranslationVariant ;
+:text "पहले मरे मेगारेउस की खाली शय्या पर,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_HI a :TranslationVariant ;
+:text "फिर इस पुत्र पर, और अंत में तुझ पर"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_HI a :TranslationVariant ;
+:text "बाल-हंता कहकर बुरे कर्मों का शाप गाते हुए।"^^xsd:string ;
+:relatedTo :Line_1305 .

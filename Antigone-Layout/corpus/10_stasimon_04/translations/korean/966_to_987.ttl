@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-korean a owl:Ontology .
+# Korean translation variants for 966_to_987.ttl
+
+:TV_Line_966_KO a :TranslationVariant ;
+:text "그리고 두 바다의 검푸른 바위들 곁에,"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_KO a :TranslationVariant ;
+:text "보스포로스의 해안들과 트라키아인들의 해변이 있다."^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Lines 968 and 969 do not exist in Antigone
+
+:TV_Line_970_KO a :TranslationVariant ;
+:text "살뮈데소스, 그곳에서 가까운 도시의 아레스가"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_KO a :TranslationVariant ;
+:text "두 피네우스의 아들들에게"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_KO a :TranslationVariant ;
+:text "저주받은 상처를 보았다,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_KO a :TranslationVariant ;
+:text "사나운 아내에 의해 눈멀게 된 상처를,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_KO a :TranslationVariant ;
+:text "복수의 눈동자 둘레에서 보이지 않게 되어,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_KO a :TranslationVariant ;
+:text "피 묻은"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_KO a :TranslationVariant ;
+:text "손들과 북의 뾰족한 끝들에 맞아 부서진 것을."^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_KO a :TranslationVariant ;
+:text "그리고 녹아 쇠약해지며, 가엾은 이들은 가엾은 고난을"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Lines 978 and 979 do not exist in Antigone
+
+:TV_Line_980_KO a :TranslationVariant ;
+:text "울고 있었다, 어머니에게서 혼인 없는 출생을 가진 채."^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_KO a :TranslationVariant ;
+:text "그녀는 오래된 태생의 자들,"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_KO a :TranslationVariant ;
+:text "에레크테우스 가문의 씨앗이었고,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_KO a :TranslationVariant ;
+:text "멀리 떨어진 동굴들 안에서"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_KO a :TranslationVariant ;
+:text "아버지의 폭풍들 속에서 길러졌다."^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_KO a :TranslationVariant ;
+:text "보레아스, 말과 함께 달리는 자, 가파른 바위 위를 곧은 발로 넘는 자의"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_KO a :TranslationVariant ;
+:text "신들의 딸이었다. 그러나 그녀에게도 또한,"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_KO a :TranslationVariant ;
+:text "긴 생명의 모이라이들이 닿았다, 아이야."^^xsd:string ;
+:relatedTo :Line_987 .

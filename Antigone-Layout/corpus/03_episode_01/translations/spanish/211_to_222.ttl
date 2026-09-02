@@ -1,0 +1,55 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-spanish a owl:Ontology .
+# Spanish translation variants for 211_to_222.ttl
+
+:TV_Line_211_ES a :TranslationVariant ;
+    :text "A ti te agrada, hijo de Meneceo, hacer esto"^^xsd:string ;
+    :relatedTo :Line_211 .
+
+:TV_Line_212_ES a :TranslationVariant ;
+    :text "con el hostil y con el favorable a esta ciudad."^^xsd:string ;
+    :relatedTo :Line_212 .
+
+:TV_Line_213_ES a :TranslationVariant ;
+    :text "Usar cualquier ley, eso está en tu poder"^^xsd:string ;
+    :relatedTo :Line_213 .
+
+:TV_Line_214_ES a :TranslationVariant ;
+    :text "respecto de los muertos y de cuantos vivimos."^^xsd:string ;
+    :relatedTo :Line_214 .
+
+:TV_Line_215_ES a :TranslationVariant ;
+    :text "Entonces sed ahora guardianes de lo que se ha dicho."^^xsd:string ;
+    :relatedTo :Line_215 .
+
+:TV_Line_216_ES a :TranslationVariant ;
+    :text "Encarga a alguien más joven soportar esa carga."^^xsd:string ;
+    :relatedTo :Line_216 .
+
+:TV_Line_217_ES a :TranslationVariant ;
+    :text "Pero ya hay vigilantes preparados para el cadáver."^^xsd:string ;
+    :relatedTo :Line_217 .
+
+:TV_Line_218_ES a :TranslationVariant ;
+    :text "¿Qué otra cosa, entonces, nos encomiendas aún?"^^xsd:string ;
+    :relatedTo :Line_218 .
+
+:TV_Line_219_ES a :TranslationVariant ;
+    :text "No ceder ante quienes desobedezcan esto."^^xsd:string ;
+    :relatedTo :Line_219 .
+
+:TV_Line_220_ES a :TranslationVariant ;
+    :text "No hay nadie tan necio que ame morir."^^xsd:string ;
+    :relatedTo :Line_220 .
+
+:TV_Line_221_ES a :TranslationVariant ;
+    :text "Y sin embargo esa es la paga; pero por esperanzas"^^xsd:string ;
+    :relatedTo :Line_221 .
+
+:TV_Line_222_ES a :TranslationVariant ;
+    :text "el lucro ha destruido muchas veces a los hombres."^^xsd:string ;
+    :relatedTo :Line_222 .

@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-german a owl:Ontology .
+# German translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_DE a :TranslationVariant ;
+:text "O alle Bürger, von den Worten vernahm ich"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_DE a :TranslationVariant ;
+:text "als ich zum Ausgang schritt, zur Göttin Pallas,"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_DE a :TranslationVariant ;
+:text "damit ich als Fürsprecherin mit Gebeten käme."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_DE a :TranslationVariant ;
+:text "Und gerade löste ich die Riegel des aufziehbaren Tores"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_DE a :TranslationVariant ;
+:text "und ließ sie los, da trifft mich der Laut eines häuslichen Übels"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_DE a :TranslationVariant ;
+:text "durch die Ohren; rücklings aber neige ich mich"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_DE a :TranslationVariant ;
+:text "vor Furcht zu den Dienerinnen und werde betäubt."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_DE a :TranslationVariant ;
+:text "Doch was die Rede war, sagt noch einmal;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_DE a :TranslationVariant ;
+:text "denn da ich der Übel nicht unerfahren bin, werde ich hören."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_DE a :TranslationVariant ;
+:text "Ich, liebe Herrin, werde auch als Dabeigewesener sprechen"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_DE a :TranslationVariant ;
+:text "und kein Wort der Wahrheit auslassen;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_DE a :TranslationVariant ;
+:text "denn warum sollte ich dich mit Dingen besänftigen, wegen derer wir später"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_DE a :TranslationVariant ;
+:text "als Lügner erscheinen werden? Gerade ist die Wahrheit immer."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_DE a :TranslationVariant ;
+:text "Ich folgte deinem Gatten als Wegführer"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_DE a :TranslationVariant ;
+:text "zur äußersten Ebene, wo erbarmungslos"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_DE a :TranslationVariant ;
+:text "noch der von Hunden zerfleischte Leib des Polyneikes lag;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_DE a :TranslationVariant ;
+:text "und ihn nun, nachdem wir die wegbegleitende Göttin"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_DE a :TranslationVariant ;
+:text "und Pluton gebeten hatten, die Zorne gnädig zurückzuhalten,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_DE a :TranslationVariant ;
+:text "wuschen wir mit reinem Bad und verbrannten mit frisch geschnittenen"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_DE a :TranslationVariant ;
+:text "Zweigen, was von ihm übrig geblieben war,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_DE a :TranslationVariant ;
+:text "und nachdem wir einen hochköpfigen Hügel aus heimischer Erde"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_DE a :TranslationVariant ;
+:text "aufgeschüttet hatten, gingen wir wieder zur steingestreuten"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_DE a :TranslationVariant ;
+:text "Brautkammer des Hades für das Mädchen, der hohlen, hinein."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_DE a :TranslationVariant ;
+:text "Aus der Ferne aber hört jemand den Laut aufrechter Klagerufe"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_DE a :TranslationVariant ;
+:text "rings um die unbestattete Brautkammer,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_DE a :TranslationVariant ;
+:text "und er kommt und zeigt es dem Herrn Kreon an;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_DE a :TranslationVariant ;
+:text "um ihn aber, als er näher schritt, ging der undeutliche Laut"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_DE a :TranslationVariant ;
+:text "des elenden Rufes immer näher; und aufstöhnend stieß er ein"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_DE a :TranslationVariant ;
+:text "schwer beweintes Wort aus: O ich Unglücklicher,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_DE a :TranslationVariant ;
+:text "bin ich also Seher? Gehe ich etwa den unglücklichsten"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_DE a :TranslationVariant ;
+:text "Weg von allen vergangenen Wegen?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_DE a :TranslationVariant ;
+:text "Der Laut meines Kindes wedelt mir entgegen. Doch, Diener,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_DE a :TranslationVariant ;
+:text "geht schnell näher und stellt euch beim Grab auf,"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_DE a :TranslationVariant ;
+:text "und schaut, indem ihr durch die steingebrochene Fuge des Erdhaufens"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_DE a :TranslationVariant ;
+:text "zum eigentlichen Mund hinabsteigt, ob ich Haimons"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_DE a :TranslationVariant ;
+:text "Laut verstehe oder von den Göttern betrogen werde."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_DE a :TranslationVariant ;
+:text "Nach diesen Befehlen des mutlosen Herrn"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_DE a :TranslationVariant ;
+:text "schauten wir; und im hintersten Grabraum"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_DE a :TranslationVariant ;
+:text "sahen wir sie, am Hals aufgehängt,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_DE a :TranslationVariant ;
+:text "an einer fadenartigen Schlinge aus Leinen befestigt,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_DE a :TranslationVariant ;
+:text "ihn aber um ihre Mitte geschlungen daneben liegend,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_DE a :TranslationVariant ;
+:text "den Untergang des Lagers unten beklagend"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_DE a :TranslationVariant ;
+:text "und die Werke des Vaters und das unglückliche Bett."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_DE a :TranslationVariant ;
+:text "Als jener ihn sieht, geht er mit finsterem Stöhnen hinein"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_DE a :TranslationVariant ;
+:text "zu ihm und ruft laut klagend:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_DE a :TranslationVariant ;
+:text "O Duldender, was für ein Werk hast du getan? Welchen"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_DE a :TranslationVariant ;
+:text "Sinn hattest du? In welchem Unglück bist du zugrunde gegangen?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_DE a :TranslationVariant ;
+:text "Komm heraus, Kind, als Bittender flehe ich dich an."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_DE a :TranslationVariant ;
+:text "Der Knabe aber, ihn mit wilden Augen anstarrend,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_DE a :TranslationVariant ;
+:text "spuckte ihm ins Gesicht und, ohne etwas zu erwidern, zog"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_DE a :TranslationVariant ;
+:text "des Schwertes doppelte Zähne; als der Vater davoneilte,"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_DE a :TranslationVariant ;
+:text "verfehlte er ihn in der Flucht; dann der Unglückliche,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_DE a :TranslationVariant ;
+:text "auf sich selbst erzürnt, so wie er war, beugte sich vor"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_DE a :TranslationVariant ;
+:text "und stieß die Klinge mitten in seine Seite; in den feuchten"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_DE a :TranslationVariant ;
+:text "Arm noch bei Bewusstsein schmiegt er sich an die Jungfrau;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_DE a :TranslationVariant ;
+:text "und röchelnd stößt er einen scharfen Strom"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_DE a :TranslationVariant ;
+:text "blutiger Tropfen auf die weiße Wange aus."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_DE a :TranslationVariant ;
+:text "Tot liegt er neben der Toten, die hochzeitlichen"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_DE a :TranslationVariant ;
+:text "Vollendungen, der Elende, in den Häusern des Hades erlangt,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_DE a :TranslationVariant ;
+:text "zeigend unter den Menschen, dass Ratlosigkeit"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_DE a :TranslationVariant ;
+:text "dem Mann als bei weitem größtes Übel anhaftet."^^xsd:string ;
+:relatedTo :Line_1243 .

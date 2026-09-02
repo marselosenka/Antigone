@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-persian a owl:Ontology .
+# Persian translation variants for 141_to_161.ttl
+
+:TV_Line_141_FA a :TranslationVariant ;
+:text "زیرا هفت سردار در برابر هفت دروازه،"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_FA a :TranslationVariant ;
+:text "برابر در برابر برابر گماشته شده، بر جای گذاشتند"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_FA a :TranslationVariant ;
+:text "پیشکش‌های سراسر برنزی خود را برای زئوسِ پیروزی‌بخش،"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_FA a :TranslationVariant ;
+:text "جز آن دو نفر نفرت‌انگیز، که از یک پدر"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_FA a :TranslationVariant ;
+:text "و یک مادر زاده شدند و در برابر خودشان"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_FA a :TranslationVariant ;
+:text "نیزه‌های دوچیره را برافراشتند و"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_FA a :TranslationVariant ;
+:text "هر دو بهره‌ای از مرگ مشترک گرفتند."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_FA a :TranslationVariant ;
+:text "اما اکنون پیروزیِ پرآوازه آمده است،"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_FA a :TranslationVariant ;
+:text "شادمان همراه تبایِ ارابه‌بسیار،"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_FA a :TranslationVariant ;
+:text "پس از جنگ‌های"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_FA a :TranslationVariant ;
+:text "اکنون فراموشی را بنهیم،"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_FA a :TranslationVariant ;
+:text "و به همه پرستشگاه‌های خدایان"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_FA a :TranslationVariant ;
+:text "با رقص‌های سراسرشب درآییم،"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_FA a :TranslationVariant ;
+:text "و آن باکخیوس که تبای را می‌لرزاند"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_FA a :TranslationVariant ;
+:text "پیشوای رقص باشد."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_FA a :TranslationVariant ;
+:text "اما اینک، زیرا به‌راستی پادشاه این سرزمین،"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_FA a :TranslationVariant ;
+:text "کرئون پسر منویکئوس، تازه‌برآمده،"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_FA a :TranslationVariant ;
+:text "بر اثر رخدادهای تازه‌ای که از خدایان رسیده،"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_FA a :TranslationVariant ;
+:text "پیش می‌آید، چه اندیشه‌ای را پارو می‌زند؟"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_FA a :TranslationVariant ;
+:text "از آن رو که این انجمن پیران را"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_FA a :TranslationVariant ;
+:text "فراخوانده، و با فرمانی همگانی فرستاده است."^^xsd:string ;
+:relatedTo :Line_161 .

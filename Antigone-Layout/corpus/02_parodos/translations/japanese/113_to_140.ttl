@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-japanese a owl:Ontology .
+# Japanese translation variants for 113_to_140.ttl
+
+:TV_Line_113_JA a :TranslationVariant ;
+:text "鷲のように地の上を飛び越えた、"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_JA a :TranslationVariant ;
+:text "白い雪の翼に覆われて、"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_JA a :TranslationVariant ;
+:text "多くの武具とともに、"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_JA a :TranslationVariant ;
+:text "馬毛の飾りを持つ兜とともに。"^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_JA a :TranslationVariant ;
+:text "屋根の上に立ち、血に飢えた槍で"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_JA a :TranslationVariant ;
+:text "七つの門の口を周囲から大きく開いて、"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_JA a :TranslationVariant ;
+:text "やって来た、私たちの"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_JA a :TranslationVariant ;
+:text "血で顎を満たされる前に、また塔の冠を"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_JA a :TranslationVariant ;
+:text "松に養われたヘファイストスの火が奪う前に。彼の背の周りにはこのような"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Lines 122, 123 and 124 do not exist in Antigone
+
+:TV_Line_125_JA a :TranslationVariant ;
+:text "アレスの轟きが張りめぐらされた、敵対する竜には扱いがたいものとして。"^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in Antigone
+
+:TV_Line_127_JA a :TranslationVariant ;
+:text "というのも、ゼウスは大きな舌の誇りを"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_JA a :TranslationVariant ;
+:text "ひどく憎み、彼らを見て、"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_JA a :TranslationVariant ;
+:text "大きな流れとなって近づいて来る者たちを、"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_JA a :TranslationVariant ;
+:text "黄金の響きに高ぶる者たちを、"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_JA a :TranslationVariant ;
+:text "投げる火で、境目の"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_JA a :TranslationVariant ;
+:text "頂の上で、すでに"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_JA a :TranslationVariant ;
+:text "勝利を叫ぼうと突進する者を打ち倒した。"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_JA a :TranslationVariant ;
+:text "彼は反響する大地の上に、宙に揺さぶられて落ちた、"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_JA a :TranslationVariant ;
+:text "火を運ぶ者、彼はその時、狂った突進とともに"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_JA a :TranslationVariant ;
+:text "バッコスの狂乱のように息を吹きかけていた、"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_JA a :TranslationVariant ;
+:text "最も憎むべき風の突風で。"^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_JA a :TranslationVariant ;
+:text "だが、一方は別のものを保ち、"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_JA a :TranslationVariant ;
+:text "また別のものを、別の者たちの上へ、打ち据えながら振り回した、"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_JA a :TranslationVariant ;
+:text "偉大なアレス、右側で手綱を取る者が。"^^xsd:string ;
+:relatedTo :Line_140 .

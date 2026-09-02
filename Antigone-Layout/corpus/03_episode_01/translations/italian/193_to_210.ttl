@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-italian a owl:Ontology .
+# Italian translation variants for 193_to_210.ttl
+
+:TV_Line_193_IT a :TranslationVariant ;
+:text "ai cittadini riguardo ai figli venuti da Edipo:"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_IT a :TranslationVariant ;
+:text "Eteocle, colui che combattendo per questa città"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_IT a :TranslationVariant ;
+:text "è morto, eccellendo in tutto con la lancia,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_IT a :TranslationVariant ;
+:text "sia nascosto nella tomba e siano purificate tutte"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_IT a :TranslationVariant ;
+:text "le cose che spettano giù ai migliori tra i morti;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_IT a :TranslationVariant ;
+:text "ma il consanguineo di costui, dico Polinice,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_IT a :TranslationVariant ;
+:text "che la terra paterna e gli dèi nativi,"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_IT a :TranslationVariant ;
+:text "tornato dall'esilio, volle col fuoco"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_IT a :TranslationVariant ;
+:text "bruciare da cima a fondo, e volle del sangue"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_IT a :TranslationVariant ;
+:text "comune saziarsi, e condurre gli altri come schiavi,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_IT a :TranslationVariant ;
+:text "per costui è stato proclamato a questa città che con tomba"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_IT a :TranslationVariant ;
+:text "nessuno lo onori né lo pianga,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_IT a :TranslationVariant ;
+:text "ma lo lasci insepolto e come corpo per gli uccelli"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_IT a :TranslationVariant ;
+:text "e per i cani, da mangiare e da vedere oltraggiato."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_IT a :TranslationVariant ;
+:text "Tale è il mio pensiero, e mai da me"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_IT a :TranslationVariant ;
+:text "gli ingiusti avranno onore prima dei giusti."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_IT a :TranslationVariant ;
+:text "Ma chiunque sia benevolo verso questa città, morto"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_IT a :TranslationVariant ;
+:text "e vivo allo stesso modo sarà onorato da me."^^xsd:string ;
+:relatedTo :Line_210 .

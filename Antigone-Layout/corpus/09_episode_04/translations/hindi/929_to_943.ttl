@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-hindi a owl:Ontology .
+# Hindi translation variants for 929_to_943.ttl
+
+:TV_Line_929_HI a :TranslationVariant ;
+:text "अब भी उन्हीं हवाओं की वही"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_HI a :TranslationVariant ;
+:text "आत्मा की झोंकें इसे पकड़े हुए हैं।"^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_HI a :TranslationVariant ;
+:text "इसलिए इसे ले जाने वालों को"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_HI a :TranslationVariant ;
+:text "अपनी देर के कारण रोना पड़ेगा।"^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_HI a :TranslationVariant ;
+:text "हाय, यह वचन मृत्यु के"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_HI a :TranslationVariant ;
+:text "सबसे निकट आ पहुँचा है।"^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_HI a :TranslationVariant ;
+:text "मैं तुझे कोई साहस नहीं दिलाता"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_HI a :TranslationVariant ;
+:text "कि ये बातें इस प्रकार पूरी न होंगी।"^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_HI a :TranslationVariant ;
+:text "हे थीब्स की भूमि का पितृ-नगर,"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_HI a :TranslationVariant ;
+:text "और पूर्वजों के देवताओं,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_HI a :TranslationVariant ;
+:text "अब मैं ले जाई जा रही हूँ और अब विलंब नहीं करती।"^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_HI a :TranslationVariant ;
+:text "देखो, हे थीब्स के अधिपतियो,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_HI a :TranslationVariant ;
+:text "राजवंश की अकेली बची हुई को,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_HI a :TranslationVariant ;
+:text "मैं कैसे कष्ट, और किन पुरुषों के हाथों, सहती हूँ,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_HI a :TranslationVariant ;
+:text "क्योंकि मैंने धर्मनिष्ठा का सम्मान किया।"^^xsd:string ;
+:relatedTo :Line_943 .

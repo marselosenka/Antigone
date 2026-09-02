@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-russian a owl:Ontology .
+# Russian translation variants for 536_to_562.ttl
+
+:TV_Line_536_RU a :TranslationVariant ;
+:text "Я совершила дело, если эта соглашается,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_RU a :TranslationVariant ;
+:text "и участвую, и несу долю обвинения."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_RU a :TranslationVariant ;
+:text "Но справедливость не позволит тебе этого, поскольку"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_RU a :TranslationVariant ;
+:text "ни ты не хотела, ни я не сделала тебя соучастницей."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_RU a :TranslationVariant ;
+:text "Но в твоих бедах я не стыжусь,"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_RU a :TranslationVariant ;
+:text "делая себя спутницей плавания в страдании."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_RU a :TranslationVariant ;
+:text "Чье дело, Аид и те внизу свидетели;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_RU a :TranslationVariant ;
+:text "а любящую словами я не люблю как подругу."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_RU a :TranslationVariant ;
+:text "Нет же, сестра, не бесчесть меня тем, что я не"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_RU a :TranslationVariant ;
+:text "умру с тобой и не очищу умершего."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_RU a :TranslationVariant ;
+:text "Не умирай со мной общей смертью и того, чего не коснулась,"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_RU a :TranslationVariant ;
+:text "не делай своим. Достаточно будет, что умру я."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_RU a :TranslationVariant ;
+:text "И какая жизнь будет мне мила, если я оставлена без тебя?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_RU a :TranslationVariant ;
+:text "Спрашивай Креонта; ведь ты попечительница этого."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_RU a :TranslationVariant ;
+:text "Зачем ты мучишь меня этим, не получая никакой пользы?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_RU a :TranslationVariant ;
+:text "Если я смеюсь над тобой, то смеюсь страдая."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_RU a :TranslationVariant ;
+:text "Чем же теперь еще могла бы я помочь тебе?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_RU a :TranslationVariant ;
+:text "Спаси себя; я не завидую тебе, если убежишь."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_RU a :TranslationVariant ;
+:text "Увы мне, несчастной, неужели я лишусь твоей судьбы?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_RU a :TranslationVariant ;
+:text "Ведь ты выбрала жить, а я — умереть."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_RU a :TranslationVariant ;
+:text "Но не без моих высказанных слов."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_RU a :TranslationVariant ;
+:text "Ты казалась одним разумной, я — другим."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_RU a :TranslationVariant ;
+:text "И все же вина у нас обеих равна."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_RU a :TranslationVariant ;
+:text "Мужайся; ты живешь, а моя душа давно"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_RU a :TranslationVariant ;
+:text "умерла, чтобы помогать умершим."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_RU a :TranslationVariant ;
+:text "Я говорю, что из этих двух девушек одна только сейчас"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_RU a :TranslationVariant ;
+:text "явилась безумной, другая же — с самого рождения."^^xsd:string ;
+:relatedTo :Line_562 .

@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-russian a owl:Ontology .
+# Russian translation variants for 823_to_871.ttl
+
+:TV_Line_823_RU a :TranslationVariant ;
+:text "Я слышала, что погибла самой скорбной смертью фригийская гостья"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in Antigone
+
+:TV_Line_825_RU a :TranslationVariant ;
+:text "дочь Тантала у вершины Сипила, ее, словно неотступный плющ,"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_RU a :TranslationVariant ;
+:text "каменный росток укротил, и ее, тающую от дождей,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_RU a :TranslationVariant ;
+:text "как говорит людская молва,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Line 828 and 829 do not exist in Antigone
+
+:TV_Line_830_RU a :TranslationVariant ;
+:text "снег никогда не оставляет, и он смачивает под всеплачущими бровями"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_RU a :TranslationVariant ;
+:text "шею; с ней меня демон укладывает самой подобной."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Line 832 and 833 do not exist in Antigone
+
+:TV_Line_834_RU a :TranslationVariant ;
+:text "Но она ведь богиня и богорожденная,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_RU a :TranslationVariant ;
+:text "а мы смертные и от смертных рожденные."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_RU a :TranslationVariant ;
+:text "И все же для умершей велико и слышать,"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_RU a :TranslationVariant ;
+:text "что она получила общий удел с равными богам,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_RU a :TranslationVariant ;
+:text "живой, а затем и умершей."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_RU a :TranslationVariant ;
+:text "Увы мне, надо мной смеются. Почему, ради отеческих богов,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_RU a :TranslationVariant ;
+:text "ты оскорбляешь меня не ушедшую, но еще видимую?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_RU a :TranslationVariant ;
+:text "О город, о богатые мужи города;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_RU a :TranslationVariant ;
+:text "ио, диркейские источники,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Line 843 and 844 do not exist in Antigone
+
+:TV_Line_845_RU a :TranslationVariant ;
+:text "и роща прекрасно колесничных Фив, все же я беру вас свидетелями,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_RU a :TranslationVariant ;
+:text "какая я, неоплаканная друзьями, по каким законам"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_RU a :TranslationVariant ;
+:text "иду к насыпанной могильной ограде странной могилы;"^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Line 848 and 849 do not exist in Antigone
+
+:TV_Line_850_RU a :TranslationVariant ;
+:text "ни мертвая среди мертвых,"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_RU a :TranslationVariant ;
+:text "не сожительница ни живых, ни умерших."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in Antigone
+
+:TV_Line_853_RU a :TranslationVariant ;
+:text "Выступив к крайнему пределу дерзости,"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_RU a :TranslationVariant ;
+:text "на высокое основание Правды"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_RU a :TranslationVariant ;
+:text "ты упала, о дитя, сильно;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_RU a :TranslationVariant ;
+:text "и платишь какую-то отцовскую награду."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in Antigone
+
+:TV_Line_858_RU a :TranslationVariant ;
+:text "Ты коснулась самых мучительных для меня забот,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_RU a :TranslationVariant ;
+:text "трижды возделанного отцовского плача и всего"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_RU a :TranslationVariant ;
+:text "нашего жребия у славных Лабдакидов."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_RU a :TranslationVariant ;
+:text "Ио, материнские ложа,"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Line 862, 863 and 864 do not exist in Antigone
+
+:TV_Line_865_RU a :TranslationVariant ;
+:text "гибельные саморожденные ложа моего отца и злосчастной матери,"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_RU a :TranslationVariant ;
+:text "от каких я, несчастная, когда-то родилась;"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_RU a :TranslationVariant ;
+:text "к ним, проклятая и безбрачная, эта я иду сожительницей."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Line 868 and 869 do not exist in Antigone
+
+:TV_Line_870_RU a :TranslationVariant ;
+:text "О брат, достигший несчастных браков,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_RU a :TranslationVariant ;
+:text "умерев, ты убил меня, еще живую."^^xsd:string ;
+:relatedTo :Line_871 .

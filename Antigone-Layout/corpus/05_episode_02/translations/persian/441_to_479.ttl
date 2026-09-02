@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-persian a owl:Ontology .
+# Persian translation variants for 441_to_479.ttl
+
+:TV_Line_441_FA a :TranslationVariant ;
+:text "تو، آری تو که سرت را به زمین خم کرده‌ای،"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_FA a :TranslationVariant ;
+:text "می‌گویی این کارها را کرده‌ای، یا انکار می‌کنی که نکرده‌ای؟"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_FA a :TranslationVariant ;
+:text "می‌گویم کرده‌ام، و انکار نمی‌کنم که نکرده باشم."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_FA a :TranslationVariant ;
+:text "تو می‌توانی خودت را به هر جا که می‌خواهی ببری،"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_FA a :TranslationVariant ;
+:text "آزاد از اتهامی سنگین و بیرون از آن."^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_FA a :TranslationVariant ;
+:text "اما تو به من بگو، نه به درازا، بلکه کوتاه،"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_FA a :TranslationVariant ;
+:text "آیا می‌دانستی فرمان داده شده که این کارها را نکنی؟"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_FA a :TranslationVariant ;
+:text "می‌دانستم؛ چرا نمی‌بایست بدانم؟ آشکار بود."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_FA a :TranslationVariant ;
+:text "و با این همه جرئت کردی از این قانون‌ها فراتر بروی؟"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_FA a :TranslationVariant ;
+:text "زیرا زئوس نبود که اینها را برای من اعلام کرد،"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_FA a :TranslationVariant ;
+:text "و نه عدالت، هم‌خانه خدایان زیرین،"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_FA a :TranslationVariant ;
+:text "چنین قانون‌هایی را در میان انسان‌ها مقرر کرده است."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_FA a :TranslationVariant ;
+:text "و نمی‌پنداشتم فرمان‌های تو"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_FA a :TranslationVariant ;
+:text "چنان نیرو داشته باشند که قوانین نانوشته و استوار خدایان را،"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_FA a :TranslationVariant ;
+:text "با آن‌که تو میرایی، بتوانی زیر پا بگذاری."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_FA a :TranslationVariant ;
+:text "زیرا اینها نه امروز و دیروز، بلکه همیشه"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_FA a :TranslationVariant ;
+:text "زنده‌اند، و هیچ کس نمی‌داند از کی پدیدار شده‌اند."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_FA a :TranslationVariant ;
+:text "من قرار نبود، از ترس اندیشه هیچ مردی،"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_FA a :TranslationVariant ;
+:text "کیفر اینها را نزد خدایان"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_FA a :TranslationVariant ;
+:text "بپردازم؛ زیرا می‌دانستم که خواهم مرد، مگر نه؟"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_FA a :TranslationVariant ;
+:text "حتی اگر تو از پیش اعلام نکرده بودی. و اگر پیش از زمان"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_FA a :TranslationVariant ;
+:text "بمیرم، من آن را برای خود سود می‌نامم."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_FA a :TranslationVariant ;
+:text "زیرا هر کس در میان بدی‌های بسیار، چنان‌که من،"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_FA a :TranslationVariant ;
+:text "زندگی کند، چگونه با مردن سود نمی‌برد؟"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_FA a :TranslationVariant ;
+:text "پس برای من رسیدن به این سرنوشت"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_FA a :TranslationVariant ;
+:text "هیچ دردی به حساب نمی‌آید؛ اما اگر جسدِ"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_FA a :TranslationVariant ;
+:text "زاده از مادر خودم را، مرده و بی‌دفن، تاب می‌آوردم،"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_FA a :TranslationVariant ;
+:text "از آن درد می‌کشیدم؛ از اینها دردی ندارم."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_FA a :TranslationVariant ;
+:text "و اگر اکنون به نظر تو من کاری ابلهانه کرده‌ام،"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_FA a :TranslationVariant ;
+:text "شاید از ابلهی، به دست ابلهی، محکوم می‌شوم."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_FA a :TranslationVariant ;
+:text "سرشت خشن دختر، از پدری خشن، آشکار است."^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_FA a :TranslationVariant ;
+:text "او نمی‌داند در برابر بدی‌ها سر فرود آورد."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_FA a :TranslationVariant ;
+:text "اما بدان که اندیشه‌های بیش از اندازه سخت"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_FA a :TranslationVariant ;
+:text "بیش از همه می‌افتند؛ و سخت‌ترین"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_FA a :TranslationVariant ;
+:text "آهن را، که در آتش پخته و سخت شده است،"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_FA a :TranslationVariant ;
+:text "بسیار می‌توانی ببینی که شکسته و ترک‌خورده است؛"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_FA a :TranslationVariant ;
+:text "و می‌دانم اسبان خشمگین را با لگامی کوچک"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_FA a :TranslationVariant ;
+:text "رام کرده‌اند؛ زیرا بزرگ اندیشیدن سزاوار کسی نیست"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_FA a :TranslationVariant ;
+:text "که برده نزدیکان خویش است."^^xsd:string ;
+:relatedTo :Line_479 .

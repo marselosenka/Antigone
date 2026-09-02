@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-german a owl:Ontology .
+# German translation variants for 20_to_41.ttl
+
+:TV_Line_20_DE a :TranslationVariant ;
+:text "Was ist es denn? Denn du machst offenbar eine düstere Rede."^^xsd:string ;
+:relatedTo :Line_20 .
+
+:TV_Line_21_DE a :TranslationVariant ;
+:text "Hat nicht Kreon unsere beiden Brüder hinsichtlich des Grabes,"^^xsd:string ;
+:relatedTo :Line_21 .
+
+:TV_Line_22_DE a :TranslationVariant ;
+:text "den einen ehrend, den anderen entehrend, behandelt?"^^xsd:string ;
+:relatedTo :Line_22 .
+
+:TV_Line_23_DE a :TranslationVariant ;
+:text "Eteokles zwar, wie man sagt, hat er nach gerechtem Recht"^^xsd:string ;
+:relatedTo :Line_23 .
+
+:TV_Line_24_DE a :TranslationVariant ;
+:text "und Gesetz handelnd unter der Erde"^^xsd:string ;
+:relatedTo :Line_24 .
+
+:TV_Line_25_DE a :TranslationVariant ;
+:text "verborgen, geehrt bei den Toten unten;"^^xsd:string ;
+:relatedTo :Line_25 .
+
+:TV_Line_26_DE a :TranslationVariant ;
+:text "doch den Leichnam des elend gestorbenen Polyneikes,"^^xsd:string ;
+:relatedTo :Line_26 .
+
+:TV_Line_27_DE a :TranslationVariant ;
+:text "sagt man, sei den Bürgern ausgerufen worden, ihn nicht"^^xsd:string ;
+:relatedTo :Line_27 .
+
+:TV_Line_28_DE a :TranslationVariant ;
+:text "mit einem Grab zu bedecken und dass niemand ihn beweine,"^^xsd:string ;
+:relatedTo :Line_28 .
+
+:TV_Line_29_DE a :TranslationVariant ;
+:text "sondern ihn unbeweint, unbestattet zu lassen, den Vögeln ein süßer"^^xsd:string ;
+:relatedTo :Line_29 .
+
+:TV_Line_30_DE a :TranslationVariant ;
+:text "Schatz, sichtbar zur Freude der Speise."^^xsd:string ;
+:relatedTo :Line_30 .
+
+:TV_Line_31_DE a :TranslationVariant ;
+:text "Solches, sagt man, habe der gute Kreon dir"^^xsd:string ;
+:relatedTo :Line_31 .
+
+:TV_Line_32_DE a :TranslationVariant ;
+:text "und mir, denn ich sage auch mir, verkündet,"^^xsd:string ;
+:relatedTo :Line_32 .
+
+:TV_Line_33_DE a :TranslationVariant ;
+:text "und er komme hierher, um dies denen, die es nicht wissen,"^^xsd:string ;
+:relatedTo :Line_33 .
+
+:TV_Line_34_DE a :TranslationVariant ;
+:text "klar vorher zu verkünden und die Sache"^^xsd:string ;
+:relatedTo :Line_34 .
+
+:TV_Line_35_DE a :TranslationVariant ;
+:text "nicht als etwas Geringes zu behandeln, sondern wer auch nur etwas davon tut,"^^xsd:string ;
+:relatedTo :Line_35 .
+
+:TV_Line_36_DE a :TranslationVariant ;
+:text "dem sei in der Stadt der Tod durch Steinigung des Volkes bestimmt."^^xsd:string ;
+:relatedTo :Line_36 .
+
+:TV_Line_37_DE a :TranslationVariant ;
+:text "So steht dies für dich, und bald wirst du zeigen,"^^xsd:string ;
+:relatedTo :Line_37 .
+
+:TV_Line_38_DE a :TranslationVariant ;
+:text "ob du edel geboren bist oder schlecht aus Edlen."^^xsd:string ;
+:relatedTo :Line_38 .
+
+:TV_Line_39_DE a :TranslationVariant ;
+:text "Was aber, Unglückliche, wenn dies so steht, könnte ich,"^^xsd:string ;
+:relatedTo :Line_39 .
+
+:TV_Line_40_DE a :TranslationVariant ;
+:text "es lösend oder bindend, noch hinzufügen?"^^xsd:string ;
+:relatedTo :Line_40 .
+
+:TV_Line_41_DE a :TranslationVariant ;
+:text "Prüfe, ob du mit mir Mühe tragen und mitwirken wirst."^^xsd:string ;
+:relatedTo :Line_41 .

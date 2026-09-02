@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-indonesian a owl:Ontology .
+# Indonesian translation variants for 508_to_535.ttl
+
+:TV_Line_508_ID a :TranslationVariant ;
+:text "Engkau sendiri dari semua orang Kadmeia ini melihat hal itu."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_ID a :TranslationVariant ;
+:text "Mereka juga melihatnya, tetapi menutup mulut demi engkau."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_ID a :TranslationVariant ;
+:text "Dan engkau tidak malu jika berpikir berbeda dari mereka?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_ID a :TranslationVariant ;
+:text "Sebab tidak ada yang memalukan dalam menghormati orang satu rahim."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_ID a :TranslationVariant ;
+:text "Bukankah yang mati di pihak sebaliknya juga sedarah?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_ID a :TranslationVariant ;
+:text "Sedarah dari satu ibu dan ayah yang sama."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_ID a :TranslationVariant ;
+:text "Lalu bagaimana engkau memberi kehormatan yang fasik terhadap dia?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_ID a :TranslationVariant ;
+:text "Mayat yang telah mati itu tidak akan memberi kesaksian demikian."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_ID a :TranslationVariant ;
+:text "Jika memang engkau menghormatinya setara dengan yang fasik."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_ID a :TranslationVariant ;
+:text "Sebab bukan seorang budak, melainkan saudara yang binasa."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_ID a :TranslationVariant ;
+:text "Ia menghancurkan negeri ini; yang lain berdiri membelanya."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_ID a :TranslationVariant ;
+:text "Namun Hades menginginkan hukum-hukum ini sama."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_ID a :TranslationVariant ;
+:text "Tetapi orang baik tidak mendapat bagian yang sama dengan yang buruk."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_ID a :TranslationVariant ;
+:text "Siapa tahu apakah di bawah sana hal-hal ini suci?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_ID a :TranslationVariant ;
+:text "Musuh tidak pernah menjadi sahabat, bahkan ketika ia mati."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_ID a :TranslationVariant ;
+:text "Aku lahir bukan untuk ikut membenci, melainkan untuk ikut mencintai."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_ID a :TranslationVariant ;
+:text "Maka pergilah ke bawah, dan jika harus mencintai, cintailah"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_ID a :TranslationVariant ;
+:text "mereka; selama aku hidup, perempuan tidak akan memerintah."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_ID a :TranslationVariant ;
+:text "Dan sungguh, di depan gerbang inilah Ismene,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_ID a :TranslationVariant ;
+:text "menitikkan air mata di bawah karena kasih kepada saudara;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_ID a :TranslationVariant ;
+:text "awan di atas alisnya menodai"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_ID a :TranslationVariant ;
+:text "wajahnya yang berdarah,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_ID a :TranslationVariant ;
+:text "membasahi pipinya yang indah."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_ID a :TranslationVariant ;
+:text "Dan engkau, yang di dalam rumah seperti ular berbisa yang disusupkan"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_ID a :TranslationVariant ;
+:text "diam-diam mengisapku, dan aku tidak menyadari"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_ID a :TranslationVariant ;
+:text "bahwa aku memelihara dua kehancuran dan pemberontakan takhta,"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_ID a :TranslationVariant ;
+:text "mari, katakan kepadaku: apakah engkau juga akan mengaku ikut"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_ID a :TranslationVariant ;
+:text "dalam penguburan ini, atau bersumpah bahwa engkau tidak tahu?"^^xsd:string ;
+:relatedTo :Line_535 .

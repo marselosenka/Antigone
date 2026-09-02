@@ -1,0 +1,31 @@
+@prefix : <http://example.org/antigone#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+:stasimon_04-translations-966-987-spanish a owl:Ontology .
+# Spanish translation variants for 966_to_987.ttl
+
+:TV_Line_966_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_966 ; :text "Junto a las rocas azul oscuro del doble mar"^^xsd:string .
+:TV_Line_967_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_967 ; :text "están las costas del Bósforo y la ribera tracia,"^^xsd:string .
+
+# Lines 968 and 969 do not exist in Antigone.
+
+:TV_Line_970_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_970 ; :text "Salmideso, donde Ares, vecino de la ciudad,"^^xsd:string .
+:TV_Line_971_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_971 ; :text "en los dos hijos de Fineo"^^xsd:string .
+:TV_Line_972_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_972 ; :text "vio una herida maldita,"^^xsd:string .
+:TV_Line_973_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_973 ; :text "cegada por una esposa salvaje,"^^xsd:string .
+:TV_Line_974_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_974 ; :text "ciega en las órbitas vengadoras de los ojos,"^^xsd:string .
+:TV_Line_975_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_975 ; :text "golpeadas bajo manos"^^xsd:string .
+:TV_Line_976_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_976 ; :text "sangrientas y con las puntas de las lanzaderas."^^xsd:string .
+:TV_Line_977_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_977 ; :text "Y consumiéndose, miserables, por una miserable desgracia,"^^xsd:string .
+
+# Lines 978 and 979 do not exist in Antigone.
+
+:TV_Line_980_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_980 ; :text "lloraban, teniendo una madre de nacimiento sin bodas;"^^xsd:string .
+:TV_Line_981_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_981 ; :text "y ella, por su linaje, procedía de los antiguos"^^xsd:string .
+:TV_Line_982_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_982 ; :text "Erecteidas,"^^xsd:string .
+:TV_Line_983_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_983 ; :text "y en cuevas remotas"^^xsd:string .
+:TV_Line_984_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_984 ; :text "fue criada entre las tormentas paternas;"^^xsd:string .
+:TV_Line_985_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_985 ; :text "hija de Bóreas, compañero de caballos, sobre el risco escarpado,"^^xsd:string .
+:TV_Line_986_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_986 ; :text "hija de dioses; pero también sobre ella"^^xsd:string .
+:TV_Line_987_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_987 ; :text "las Moiras longevas se apoderaron, oh hija."^^xsd:string .

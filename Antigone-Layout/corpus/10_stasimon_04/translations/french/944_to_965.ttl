@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-french a owl:Ontology .
+# French translation variants for 944_to_965.ttl
+
+:TV_Line_944_FR a :TranslationVariant ;
+:text "Danaé aussi endura d’échanger la lumière céleste"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_FR a :TranslationVariant ;
+:text "pour son corps enfermé dans des chambres liées de bronze ;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_FR a :TranslationVariant ;
+:text "cachée dans une chambre semblable à un tombeau, elle fut mise sous le joug ;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_FR a :TranslationVariant ;
+:text "et pourtant, par sa naissance, elle était honorée, ô enfant, enfant,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Lines 948 and 949 do not exist in canonical.
+
+:TV_Line_950_FR a :TranslationVariant ;
+:text "et elle gardait en dépôt les semences de Zeus ruisselantes d’or."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_FR a :TranslationVariant ;
+:text "Mais quelque puissance du destin est terrible ;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_FR a :TranslationVariant ;
+:text "ni la richesse, ni Arès, ni une tour, ni les noirs navires battus par la mer"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_FR a :TranslationVariant ;
+:text "ne pourraient lui échapper."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in canonical.
+
+:TV_Line_955_FR a :TranslationVariant ;
+:text "Fut aussi mis sous le joug le fils irascible de Dryas,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_FR a :TranslationVariant ;
+:text "roi des Édoniens, à cause de ses colères railleuses,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_FR a :TranslationVariant ;
+:text "par Dionysos, enfermé dans une prison rocheuse."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_FR a :TranslationVariant ;
+:text "Ainsi la terrible force de la folie s’écoule goutte à goutte,"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in canonical.
+
+:TV_Line_960_FR a :TranslationVariant ;
+:text "et sa vigueur fleurie. Celui-là reconnut dans ses folies"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_FR a :TranslationVariant ;
+:text "qu’il touchait le dieu avec des langues railleuses."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_FR a :TranslationVariant ;
+:text "Car il arrêtait les femmes possédées par le dieu et le feu évien,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Lines 963 and 964 do not exist in canonical.
+
+:TV_Line_965_FR a :TranslationVariant ;
+:text "et il excitait les Muses amies de la flûte."^^xsd:string ;
+:relatedTo :Line_965 .

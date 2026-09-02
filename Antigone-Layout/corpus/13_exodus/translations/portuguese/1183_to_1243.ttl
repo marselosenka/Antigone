@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-portuguese a owl:Ontology .
+# Portuguese translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_PT a :TranslationVariant ;
+:text "Ó todos os cidadãos, percebi as palavras"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_PT a :TranslationVariant ;
+:text "quando caminhava para a saída, para que da deusa Palas"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_PT a :TranslationVariant ;
+:text "eu me aproximasse como intercessora de preces."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_PT a :TranslationVariant ;
+:text "E acontece que eu soltava os ferrolhos da porta"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_PT a :TranslationVariant ;
+:text "que se abria, e o som de um mal doméstico"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_PT a :TranslationVariant ;
+:text "me fere pelos ouvidos; e reclino-me de costas,"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_PT a :TranslationVariant ;
+:text "assustada, junto às servas, e fico aturdida."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_PT a :TranslationVariant ;
+:text "Mas, qualquer que fosse o relato, dizei-o de novo;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_PT a :TranslationVariant ;
+:text "pois não inexperiente de males o ouvirei."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_PT a :TranslationVariant ;
+:text "Eu, querida senhora, também estando presente falarei,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_PT a :TranslationVariant ;
+:text "e não omitirei palavra alguma da verdade;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_PT a :TranslationVariant ;
+:text "pois por que te suavizaria com coisas pelas quais depois"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_PT a :TranslationVariant ;
+:text "apareceremos mentirosos? A verdade é sempre reta."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_PT a :TranslationVariant ;
+:text "Eu, como guia dos pés, segui teu esposo"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_PT a :TranslationVariant ;
+:text "até o extremo da planície, onde jazia ainda o cruel"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_PT a :TranslationVariant ;
+:text "corpo de Polinices, dilacerado por cães;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_PT a :TranslationVariant ;
+:text "e por ele, após pedir à deusa dos caminhos"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_PT a :TranslationVariant ;
+:text "e a Plutão que contivessem propícios suas iras,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_PT a :TranslationVariant ;
+:text "lavando-o com puro banho, em ramos recém-arrancados"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_PT a :TranslationVariant ;
+:text "queimamos juntamente o que restava;"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_PT a :TranslationVariant ;
+:text "e, amontoando um túmulo de alto cume com terra própria,"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_PT a :TranslationVariant ;
+:text "de novo entrávamos para a câmara nupcial de pedra"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_PT a :TranslationVariant ;
+:text "da jovem, oco aposento de Hades."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_PT a :TranslationVariant ;
+:text "E de longe alguém ouve voz de altos lamentos"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_PT a :TranslationVariant ;
+:text "em torno da câmara sem honras fúnebres,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_PT a :TranslationVariant ;
+:text "e, vindo, assinala-o ao senhor Creonte;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_PT a :TranslationVariant ;
+:text "e ao redor dele, quando mais perto rastejava,"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_PT a :TranslationVariant ;
+:text "passa o som confuso de um grito infeliz; e, gemendo, lança"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_PT a :TranslationVariant ;
+:text "uma palavra difícil de chorar: Ai, infeliz de mim,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_PT a :TranslationVariant ;
+:text "acaso sou adivinho? Acaso caminho pela mais desditosa"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_PT a :TranslationVariant ;
+:text "vereda dentre todos os caminhos passados?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_PT a :TranslationVariant ;
+:text "A voz de meu filho me atinge. Mas, servos,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_PT a :TranslationVariant ;
+:text "ide rápidos para mais perto, e, estando junto ao túmulo,"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_PT a :TranslationVariant ;
+:text "observai, entrando pela junta arrancada de pedras"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_PT a :TranslationVariant ;
+:text "do monte de terra até a própria boca, se a voz de Hêmon"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_PT a :TranslationVariant ;
+:text "compreendo, ou se sou enganado pelos deuses."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_PT a :TranslationVariant ;
+:text "Estas coisas, por ordens do senhor desanimado,"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_PT a :TranslationVariant ;
+:text "observávamos; e no mais fundo do túmulo"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_PT a :TranslationVariant ;
+:text "vimo-la pendente pelo pescoço,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_PT a :TranslationVariant ;
+:text "atada por laço de linho tramado do véu,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_PT a :TranslationVariant ;
+:text "e ele, caído em torno do meio dela, abraçado,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_PT a :TranslationVariant ;
+:text "lamentando a destruição do leito de baixo"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_PT a :TranslationVariant ;
+:text "e as obras do pai e o desditoso casamento."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_PT a :TranslationVariant ;
+:text "E ele, quando o vê, gemendo de modo odioso, para dentro"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_PT a :TranslationVariant ;
+:text "avança até ele e, gritando alto, chama:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_PT a :TranslationVariant ;
+:text "Ó sofredor, que obra realizaste? Que"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_PT a :TranslationVariant ;
+:text "pensamento tiveste? Em que desgraça foste destruído?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_PT a :TranslationVariant ;
+:text "Sai, filho, suplicante te imploro."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_PT a :TranslationVariant ;
+:text "Mas o filho, olhando-o com olhos selvagens,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_PT a :TranslationVariant ;
+:text "cuspindo-lhe no rosto e nada respondendo, da espada"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_PT a :TranslationVariant ;
+:text "puxa os dentes duplos; e, enquanto o pai investia,"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_PT a :TranslationVariant ;
+:text "errou-o pela fuga; então o desditoso,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_PT a :TranslationVariant ;
+:text "irado consigo mesmo, como estava, inclinando-se"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_PT a :TranslationVariant ;
+:text "cravou no meio do flanco a espada; e no úmido"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_PT a :TranslationVariant ;
+:text "braço ainda flexível, consciente, abraça-se à virgem;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_PT a :TranslationVariant ;
+:text "e, arquejando, lança um jorro agudo"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_PT a :TranslationVariant ;
+:text "de gotas sangrentas sobre a branca face."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_PT a :TranslationVariant ;
+:text "Jaz morto junto à morta, tendo obtido, miserável,"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_PT a :TranslationVariant ;
+:text "os ritos nupciais nas moradas de Hades,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_PT a :TranslationVariant ;
+:text "mostrando entre os homens que a insensatez"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_PT a :TranslationVariant ;
+:text "é o maior mal que se prende ao homem."^^xsd:string ;
+:relatedTo :Line_1243 .

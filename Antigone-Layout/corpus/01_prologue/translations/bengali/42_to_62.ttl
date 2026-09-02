@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-bengali a owl:Ontology .
+# Bengali translation variants for 42_to_62.ttl
+
+:TV_Line_042_BN a :TranslationVariant ;
+:text "কী ধরনের বিপদ? তোমার মন কোথায় গেছে?"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_BN a :TranslationVariant ;
+:text "এই হাতে তুমি কি মৃতদেহটি তুলতে সাহায্য করবে?"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_BN a :TranslationVariant ;
+:text "তুমি কি সত্যিই তাকে কবর দিতে ভাবছ, যখন নগর তা নিষিদ্ধ করেছে?"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_BN a :TranslationVariant ;
+:text "সে অন্তত আমার ভাই, আর তোমারও—যদি তুমি না চাও,"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_BN a :TranslationVariant ;
+:text "তবু ভাইকে বিশ্বাসঘাতকতা করে ধরা পড়ব না আমি।"^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_BN a :TranslationVariant ;
+:text "হে দুঃসাহসিনী, ক্রেয়ন নিষেধ করেছেন, তবুও?"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_BN a :TranslationVariant ;
+:text "আমার আপনজন থেকে আমাকে বিরত রাখার কোনো অধিকার তার নেই।"^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_BN a :TranslationVariant ;
+:text "হায়; ভাবো, হে বোন, আমাদের পিতা"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_BN a :TranslationVariant ;
+:text "কী ঘৃণিত ও কুখ্যাতভাবে মারা গেলেন,"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_BN a :TranslationVariant ;
+:text "নিজের হাতে ধরা পড়া অপরাধগুলির কারণে"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_BN a :TranslationVariant ;
+:text "নিজের কর্মী হাতে নিজের দুই চোখ আঘাতে নষ্ট করে;"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_BN a :TranslationVariant ;
+:text "তারপর মা ও স্ত্রী—দুই নামে এক—"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_BN a :TranslationVariant ;
+:text "বোনা ফাঁস দিয়ে নিজের জীবন অপমান করলেন;"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_BN a :TranslationVariant ;
+:text "তৃতীয়ত, আমাদের দুই ভাই একদিনেই"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_BN a :TranslationVariant ;
+:text "নিজেদের হত্যা করে, হতভাগ্য দুজন,"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_BN a :TranslationVariant ;
+:text "পরস্পরের হাতে যৌথ মৃত্যুর কাজ শেষ করল।"^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_BN a :TranslationVariant ;
+:text "আর এখন আবার আমরা দুজন মাত্র বাকি—দেখো,"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_BN a :TranslationVariant ;
+:text "কত ভয়ংকরভাবে আমরা মরব, যদি আইনের জোরে"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_BN a :TranslationVariant ;
+:text "শাসকদের সিদ্ধান্ত বা ক্ষমতা অতিক্রম করি।"^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_BN a :TranslationVariant ;
+:text "কিন্তু প্রথমে এই কথা মনে রাখা চাই—আমরা নারী"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_BN a :TranslationVariant ;
+:text "হিসেবে জন্মেছি, পুরুষদের বিরুদ্ধে লড়াই করার নয়।"^^xsd:string ;
+:relatedTo :Line_062 .

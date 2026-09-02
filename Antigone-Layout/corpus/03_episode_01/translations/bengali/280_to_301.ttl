@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-bengali a owl:Ontology .
+# Bengali translation variants for 280_to_301.ttl
+
+:TV_Line_280_BN a :TranslationVariant ;
+:text "থামো, কথা বলতে বলতে আমাকেও ক্রোধে পূর্ণ করার আগে,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_BN a :TranslationVariant ;
+:text "নইলে তুমি একসঙ্গে নির্বোধ ও বৃদ্ধ বলে ধরা পড়বে।"^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_BN a :TranslationVariant ;
+:text "কারণ তুমি অসহনীয় কথা বলছ, যখন বলছ দেবতারা"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_BN a :TranslationVariant ;
+:text "এই মৃতের বিষয়ে পূর্বচিন্তা রাখেন।"^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_BN a :TranslationVariant ;
+:text "তারা কি তাকে উপকারী বলে অতিশয় সম্মান করে"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_BN a :TranslationVariant ;
+:text "ঢেকে দিয়েছিল, যে চারস্তম্ভ মন্দিরগুলি"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_BN a :TranslationVariant ;
+:text "ও উৎসর্গগুলি পোড়াতে এসেছিল,"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_BN a :TranslationVariant ;
+:text "তাদের ভূমি ও আইন ছড়িয়ে নষ্ট করতে এসেছিল?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_BN a :TranslationVariant ;
+:text "নাকি তুমি দেবতাদের দুষ্টদের সম্মান করতে দেখছ?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_BN a :TranslationVariant ;
+:text "তা নয়; কিন্তু অনেক দিন ধরেই নগরের"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_BN a :TranslationVariant ;
+:text "মানুষরা এসব কষ্টে সহ্য করে আমার বিরুদ্ধে গুঞ্জন করছিল"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_BN a :TranslationVariant ;
+:text "গোপনে, মাথা নাড়ছিল, আর জোয়ালের নিচে"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_BN a :TranslationVariant ;
+:text "ন্যায়ভাবে ঘাড় রাখছিল না, যেন আমাকে ভালোবাসে।"^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_BN a :TranslationVariant ;
+:text "এসব থেকেই আমি ভালো করে জানি, এদের"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_BN a :TranslationVariant ;
+:text "মজুরির দ্বারা প্ররোচিত হয়ে এই কাজ করা হয়েছে।"^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_BN a :TranslationVariant ;
+:text "কারণ মানুষের মধ্যে রুপোর মতো"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_BN a :TranslationVariant ;
+:text "খারাপ মুদ্রা আর কিছু জন্মায়নি; এটি নগরও"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_BN a :TranslationVariant ;
+:text "ধ্বংস করে, এটি মানুষকে ঘর থেকে তাড়িয়ে তোলে,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_BN a :TranslationVariant ;
+:text "এটি মানুষদের সৎ মনকে শেখায় ও বদলে দেয়"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_BN a :TranslationVariant ;
+:text "যেন তারা লজ্জাজনক কাজে দাঁড়ায়;"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_BN a :TranslationVariant ;
+:text "এটি মানুষকে দুষ্কর্ম ধারণ করতে দেখিয়েছে"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_BN a :TranslationVariant ;
+:text "আর প্রত্যেক কাজের অধর্ম জানতে শিখিয়েছে।"^^xsd:string ;
+:relatedTo :Line_301 .

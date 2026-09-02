@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-french a owl:Ontology .
+# French translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_FR a :TranslationVariant ;
+:text "Ô tous les citoyens, j’ai perçu vos paroles"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_FR a :TranslationVariant ;
+:text "en marchant vers la sortie, afin d’aller auprès de la déesse Pallas"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_FR a :TranslationVariant ;
+:text "pour l’approcher comme porteuse de prières."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_FR a :TranslationVariant ;
+:text "Et au moment où je détachais les verrous"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_FR a :TranslationVariant ;
+:text "de la porte à tirer, le son d’un mal domestique"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_FR a :TranslationVariant ;
+:text "me frappe aux oreilles ; et, de peur, je me renverse"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_FR a :TranslationVariant ;
+:text "dans les bras des servantes et je suis frappée de stupeur."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_FR a :TranslationVariant ;
+:text "Mais quel que fût le récit, dites-le de nouveau ;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_FR a :TranslationVariant ;
+:text "car, n’étant pas inexpérimentée des maux, je l’entendrai."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_FR a :TranslationVariant ;
+:text "Moi, chère maîtresse, présent aussi, je parlerai,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_FR a :TranslationVariant ;
+:text "et je n’omettrai aucune parole de la vérité ;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_FR a :TranslationVariant ;
+:text "car pourquoi t’adoucirais-je par des choses dont plus tard"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_FR a :TranslationVariant ;
+:text "nous paraîtrions menteurs ? La vérité est toujours droite."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_FR a :TranslationVariant ;
+:text "Moi, comme guide de ton époux, je le suivis"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_FR a :TranslationVariant ;
+:text "vers l’extrémité de la plaine, là où gisait encore"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_FR a :TranslationVariant ;
+:text "le corps sans pitié de Polynice, déchiré par les chiens ;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_FR a :TranslationVariant ;
+:text "et celui-là, après avoir prié la déesse des chemins"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_FR a :TranslationVariant ;
+:text "et Pluton de retenir leurs colères bienveillantes,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_FR a :TranslationVariant ;
+:text "nous l’avons lavé d’un bain pur, et avec des rameaux fraîchement coupés"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_FR a :TranslationVariant ;
+:text "nous avons brûlé ensemble ce qui restait,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_FR a :TranslationVariant ;
+:text "et, ayant élevé un tombeau droit au sommet avec la terre natale,"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_FR a :TranslationVariant ;
+:text "nous sommes ensuite entrés vers la chambre de la jeune fille,"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_FR a :TranslationVariant ;
+:text "la couche creuse d’Hadès, pavée de pierre."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_FR a :TranslationVariant ;
+:text "Alors, de loin, quelqu’un entend une voix de hautes lamentations"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_FR a :TranslationVariant ;
+:text "autour de la chambre sans rites funèbres,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_FR a :TranslationVariant ;
+:text "et il va le signaler au maître Créon ;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_FR a :TranslationVariant ;
+:text "et autour de lui, à mesure qu’il avançait plus près,"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_FR a :TranslationVariant ;
+:text "des signes indistincts d’un cri misérable se répandaient ; il gémit et lança"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_FR a :TranslationVariant ;
+:text "une parole difficile à pleurer : Ô malheureux que je suis,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_FR a :TranslationVariant ;
+:text "suis-je donc devin ? Est-ce donc le plus funeste"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_FR a :TranslationVariant ;
+:text "chemin que je parcours parmi les routes passées ?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_FR a :TranslationVariant ;
+:text "La voix de mon enfant me caresse. Allons, serviteurs,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_FR a :TranslationVariant ;
+:text "allez vite plus près, et, vous tenant près du tombeau,"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_FR a :TranslationVariant ;
+:text "examinez, après avoir pénétré l’ouverture arrachée aux pierres"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_FR a :TranslationVariant ;
+:text "du tas de terre, jusqu’à la bouche même, si c’est la voix d’Hémon"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_FR a :TranslationVariant ;
+:text "que j’entends, ou si je suis trompé par les dieux."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_FR a :TranslationVariant ;
+:text "Selon ces ordres de notre maître découragé,"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_FR a :TranslationVariant ;
+:text "nous regardions ; et, dans le fond du tombeau,"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_FR a :TranslationVariant ;
+:text "nous vîmes celle-ci suspendue par le cou,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_FR a :TranslationVariant ;
+:text "attachée par un lacet filé de son voile,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_FR a :TranslationVariant ;
+:text "et lui, autour du milieu du corps, tombé contre elle,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_FR a :TranslationVariant ;
+:text "gémissant la destruction du lit d’en bas"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_FR a :TranslationVariant ;
+:text "et les actes de son père et la malheureuse couche."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_FR a :TranslationVariant ;
+:text "Et lui, quand il le voit, ayant gémi d’un cri sombre, entre"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_FR a :TranslationVariant ;
+:text "vers lui et, poussant un haut cri, appelle :"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_FR a :TranslationVariant ;
+:text "Ô infortuné, quelle œuvre as-tu accomplie ? Quelle"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_FR a :TranslationVariant ;
+:text "pensée as-tu eue ? Dans quel malheur t’es-tu perdu ?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_FR a :TranslationVariant ;
+:text "Sors, enfant, suppliant, je t’en prie."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_FR a :TranslationVariant ;
+:text "Mais l’enfant, l’ayant regardé avec des yeux sauvages,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_FR a :TranslationVariant ;
+:text "lui cracha au visage, et, sans répondre un mot,"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_FR a :TranslationVariant ;
+:text "tira les deux tranchants de son épée ; mais, comme son père"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_FR a :TranslationVariant ;
+:text "s’élançait, il le manqua par sa fuite ; alors le malheureux,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_FR a :TranslationVariant ;
+:text "irrité contre lui-même, tel qu’il était, se tendant en avant,"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_FR a :TranslationVariant ;
+:text "enfonça l’épée au milieu de ses côtes, et, encore conscient,"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_FR a :TranslationVariant ;
+:text "avec son bras humide, il embrasse la jeune fille ;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_FR a :TranslationVariant ;
+:text "et, haletant, il jette un jet aigu"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_FR a :TranslationVariant ;
+:text "de gouttes sanglantes sur sa joue blanche."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_FR a :TranslationVariant ;
+:text "Il gît, mort près d’une morte, ayant reçu les rites"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_FR a :TranslationVariant ;
+:text "nuptiaux, malheureux, dans les demeures d’Hadès,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_FR a :TranslationVariant ;
+:text "ayant montré parmi les hommes combien l’absence de conseil"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_FR a :TranslationVariant ;
+:text "est de beaucoup le plus grand mal attaché à l’homme."^^xsd:string ;
+:relatedTo :Line_1243 .

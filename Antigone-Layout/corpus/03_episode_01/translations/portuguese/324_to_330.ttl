@@ -1,0 +1,34 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-324-330-portuguese a owl:Ontology .
+# Portuguese translation variants for 324_to_330.ttl
+
+:TV_Line_324_PT a :TranslationVariant ;
+:text "Agora enfeita tua opinião; mas se estes"^^xsd:string ;
+:relatedTo :Line_324 .
+
+:TV_Line_325_PT a :TranslationVariant ;
+:text "que fizeram isto não me aparecerem,"^^xsd:string ;
+:relatedTo :Line_325 .
+
+:TV_Line_326_PT a :TranslationVariant ;
+:text "direis que ganhos covardes produzem desgraças."^^xsd:string ;
+:relatedTo :Line_326 .
+
+:TV_Line_327_PT a :TranslationVariant ;
+:text "Que ele seja encontrado, sobretudo; mas se, contudo,"^^xsd:string ;
+:relatedTo :Line_327 .
+
+:TV_Line_328_PT a :TranslationVariant ;
+:text "for apanhado ou não, pois isso a sorte julgará,"^^xsd:string ;
+:relatedTo :Line_328 .
+
+:TV_Line_329_PT a :TranslationVariant ;
+:text "não há modo de me veres vindo aqui de novo."^^xsd:string ;
+:relatedTo :Line_329 .
+
+:TV_Line_330_PT a :TranslationVariant ;
+:text "Pois agora, fora da esperança e do meu juízo,"^^xsd:string ;
+:relatedTo :Line_330 .

@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-indonesian a owl:Ontology .
+# Indonesian translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_ID a :TranslationVariant ;
+:text "Aiai, aiai,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_ID a :TranslationVariant ;
+:text "aku terbang terkejut oleh takut. Mengapa tidak ada orang memukulku"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_ID a :TranslationVariant ;
+:text "tepat di depan dengan pedang bermata dua?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in Antigone
+
+:TV_Line_1310_ID a :TranslationVariant ;
+:text "aku yang malang, aiai,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_ID a :TranslationVariant ;
+:text "dan aku telah bercampur dengan kesengsaraan malang."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_ID a :TranslationVariant ;
+:text "Karena memegang kesalahan atas hal-hal ini dan yang itu juga,"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_ID a :TranslationVariant ;
+:text "engkau didakwa oleh nasib perempuan mati ini."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_ID a :TranslationVariant ;
+:text "Dengan cara apa pula ia melepaskan dirinya dalam darah?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_ID a :TranslationVariant ;
+:text "Dengan tangannya sendiri ia memukul dirinya di bawah hati,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_ID a :TranslationVariant ;
+:text "ketika ia mengetahui penderitaan anaknya yang diratapi tajam ini."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_ID a :TranslationVariant ;
+:text "Aduh, hal-hal ini tidak akan pernah cocok atas manusia fana lain"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_ID a :TranslationVariant ;
+:text "sebagai berasal dari kesalahanku."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_ID a :TranslationVariant ;
+:text "Sebab aku, ya aku, membunuhmu, wahai yang malang,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_ID a :TranslationVariant ;
+:text "aku, kukatakan dengan benar. Io, para pelayan,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_ID a :TranslationVariant ;
+:text "bawalah aku pergi secepat mungkin, bawalah aku keluar dari jalan,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Line 1322, 1323, and 1324 do not exist in Antigone
+
+:TV_Line_1325_ID a :TranslationVariant ;
+:text "orang yang tidak lebih ada daripada siapa pun."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_ID a :TranslationVariant ;
+:text "Engkau menasihati keuntungan, jika ada keuntungan dalam keburukan;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_ID a :TranslationVariant ;
+:text "sebab keburukan di kaki yang paling singkat adalah yang terbaik."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_ID a :TranslationVariant ;
+:text "Biarlah datang, biarlah datang,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_ID a :TranslationVariant ;
+:text "biarlah tampak nasib yang paling indah dari nasib-nasibku,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_ID a :TranslationVariant ;
+:text "membawa hari terakhir bagiku,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_ID a :TranslationVariant ;
+:text "hari tertinggiku; biarlah datang, biarlah datang,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_ID a :TranslationVariant ;
+:text "agar aku tidak lagi melihat hari lain."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in Antigone
+
+:TV_Line_1334_ID a :TranslationVariant ;
+:text "Hal-hal itu untuk masa depan. Dari hal-hal yang terletak di depan,"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_ID a :TranslationVariant ;
+:text "sesuatu harus dilakukan; sebab urusan ini menjadi perhatian mereka yang harus memperhatikannya."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_ID a :TranslationVariant ;
+:text "Tetapi hal-hal yang kuucapkan itu juga telah kudoakan bersama."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_ID a :TranslationVariant ;
+:text "Jangan sekarang berdoa lagi apa pun; sebab dari nasib yang telah ditentukan"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_ID a :TranslationVariant ;
+:text "tidak ada pembebasan bagi manusia fana dari kemalangan."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_ID a :TranslationVariant ;
+:text "Bawalah orang sia-sia ini keluar dari jalan,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_ID a :TranslationVariant ;
+:text "yang, wahai anak, membunuhmu bukan dengan sukarela,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_ID a :TranslationVariant ;
+:text "dan engkau juga, istriku. Aduh, aku yang malang, aku tidak punya"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_ID a :TranslationVariant ;
+:text "ke arah mana harus memandang, ke mana harus bersandar; sebab semuanya"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Line 1343 and 1344 do not exist in Antigone
+
+:TV_Line_1345_ID a :TranslationVariant ;
+:text "miring di tanganku, dan di atas kepalaku"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_ID a :TranslationVariant ;
+:text "nasib yang sulit dipikul telah melompat masuk."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_ID a :TranslationVariant ;
+:text "Jauh di atas segalanya, berpikir bijak"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_ID a :TranslationVariant ;
+:text "adalah yang pertama dari kebahagiaan; dan dalam hal terhadap para dewa"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in Antigone
+
+:TV_Line_1350_ID a :TranslationVariant ;
+:text "sama sekali tidak boleh bertindak tidak saleh; kata-kata besar"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_ID a :TranslationVariant ;
+:text "dari orang-orang yang terlalu angkuh, setelah membayar pukulan-pukulan besar,"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_ID a :TranslationVariant ;
+:text "pada akhirnya"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_ID a :TranslationVariant ;
+:text "mengajarkan kebijaksanaan pada usia tua."^^xsd:string ;
+:relatedTo :Line_1353 .

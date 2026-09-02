@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-russian a owl:Ontology .
+# Russian translation variants for 223_to_252.ttl
+
+:TV_Line_223_RU a :TranslationVariant ;
+:text "Владыка, я скажу не то, что от быстроты"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_RU a :TranslationVariant ;
+:text "прихожу задыхаясь, подняв легкую ногу."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_RU a :TranslationVariant ;
+:text "Ведь я имел много остановок размышлений,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_RU a :TranslationVariant ;
+:text "на дорогах кружил самого себя к возвращению;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_RU a :TranslationVariant ;
+:text "ибо душа говорила мне много, ведя речь:"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_RU a :TranslationVariant ;
+:text "несчастный, зачем идешь туда, куда придя дашь ответ?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_RU a :TranslationVariant ;
+:text "бедный, останешься снова? А если Креонт узнает это"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_RU a :TranslationVariant ;
+:text "от другого человека, как тогда ты не будешь страдать?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_RU a :TranslationVariant ;
+:text "Так вращая эти мысли, я медленно совершал путь,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_RU a :TranslationVariant ;
+:text "и так короткая дорога становится длинной."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_RU a :TranslationVariant ;
+:text "Наконец, однако, победило прийти сюда"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_RU a :TranslationVariant ;
+:text "к тебе; и если даже скажу ничто, все же скажу."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_RU a :TranslationVariant ;
+:text "Ибо я прихожу, ухватившись за надежду,"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_RU a :TranslationVariant ;
+:text "что не претерплю ничего иного, кроме предназначенного."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_RU a :TranslationVariant ;
+:text "Что же это, из-за чего ты держишь такую безнадежность?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_RU a :TranslationVariant ;
+:text "Хочу сначала сказать тебе о моем собственном; ведь"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_RU a :TranslationVariant ;
+:text "дела я не делал и не видел, кто был делавший,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_RU a :TranslationVariant ;
+:text "и по справедливости не должен был бы попасть в какую-либо беду."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_RU a :TranslationVariant ;
+:text "Хорошо же целишь и кругом загораживаешь"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_RU a :TranslationVariant ;
+:text "дело; ясно, что ты возвестишь что-то новое."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_RU a :TranslationVariant ;
+:text "Ведь страшные вещи, знаешь, прибавляют много промедления."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_RU a :TranslationVariant ;
+:text "Так не скажешь ли наконец, а затем, избавившись, уйдешь?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_RU a :TranslationVariant ;
+:text "Вот уже говорю тебе: мертвеца кто-то только что,"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_RU a :TranslationVariant ;
+:text "похоронив, ушел, и на кожу жаждущую"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_RU a :TranslationVariant ;
+:text "пыль рассыпал, и совершил очищения, какие должно."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_RU a :TranslationVariant ;
+:text "Что говоришь? Кто из людей был тот, кто дерзнул на это?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_RU a :TranslationVariant ;
+:text "Не знаю; ведь там не было ни удара кирки,"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_RU a :TranslationVariant ;
+:text "ни выброса мотыгой; жесткая же земля"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_RU a :TranslationVariant ;
+:text "и сухая, не расколотая и не изъезженная"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_RU a :TranslationVariant ;
+:text "колесами, но работник был какой-то без следа."^^xsd:string ;
+:relatedTo :Line_252 .

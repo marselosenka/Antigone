@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-korean a owl:Ontology .
+# Korean translation variants for 563_to_581.ttl
+
+:TV_Line_563_KO a :TranslationVariant ;
+:text "왕이여, 재앙을 겪는 이들에게는 어떤 이성이 돋아나더라도"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_KO a :TranslationVariant ;
+:text "결코 머물지 않고, 벗어나 버립니다."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_KO a :TranslationVariant ;
+:text "네게는 특히 그렇다, 네가 나쁜 자들과 함께 나쁜 일을 하기로 선택했을 때."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_KO a :TranslationVariant ;
+:text "이 여자 없이, 홀로인 제게 무슨 삶이 살 만하겠습니까?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_KO a :TranslationVariant ;
+:text "하지만 이 여자는 말하지 마라. 그녀는 더 이상 존재하지 않기 때문이다."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_KO a :TranslationVariant ;
+:text "그러나 당신은 당신 아들의 혼례를 죽이려 하십니까?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_KO a :TranslationVariant ;
+:text "다른 밭들도 갈 수 있는 밭이기 때문이다."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_KO a :TranslationVariant ;
+:text "그에게 이 여자와 맞춰져 있던 것과 같지는 않습니다."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_KO a :TranslationVariant ;
+:text "나는 아들들에게 나쁜 여자들을 증오한다."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_KO a :TranslationVariant ;
+:text "오 가장 사랑하는 하이몬이여, 아버지가 너를 얼마나 모욕하는가."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_KO a :TranslationVariant ;
+:text "너와 네 혼상은 너무 지나치게 나를 괴롭힌다."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_KO a :TranslationVariant ;
+:text "정녕 이 여자로부터 당신 자신의 자식을 빼앗으시겠습니까?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_KO a :TranslationVariant ;
+:text "하데스가 이 혼례들을 멈추는 자로 태어났다."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_KO a :TranslationVariant ;
+:text "보아하니, 이 여자가 죽기로 결정된 듯합니다."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_KO a :TranslationVariant ;
+:text "너에게도, 나에게도 그렇다. 더 지체하지 말고, 그녀를"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_KO a :TranslationVariant ;
+:text "안으로 데려가라, 종들아. 이제부터는"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_KO a :TranslationVariant ;
+:text "이 여자들이 여자답게 있어야 하며 풀려 있어서는 안 된다."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_KO a :TranslationVariant ;
+:text "대담한 자들도 도망치기 때문이다, 삶 가까이에"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_KO a :TranslationVariant ;
+:text "이미 하데스를 바라볼 때에는."^^xsd:string ;
+:relatedTo :Line_581 .

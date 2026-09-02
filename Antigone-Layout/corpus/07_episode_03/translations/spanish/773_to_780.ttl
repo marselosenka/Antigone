@@ -1,0 +1,15 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-spanish a owl:Ontology .
+# Spanish translation variants for 773_to_780.ttl
+
+:TV_Line_773_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_773 ; :text "La llevaré a un lugar desierto, donde no haya huella de mortales,"^^xsd:string .
+:TV_Line_774_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_774 ; :text "y la ocultaré viva en una excavación rocosa,"^^xsd:string .
+:TV_Line_775_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_775 ; :text "poniéndole delante solo tanto alimento como baste para expiar la impureza,"^^xsd:string .
+:TV_Line_776_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_776 ; :text "para que toda la ciudad escape de la mancha."^^xsd:string .
+:TV_Line_777_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_777 ; :text "Y allí, suplicando a Hades, el único de los dioses que venera,"^^xsd:string .
+:TV_Line_778_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_778 ; :text "quizá obtenga no morir,"^^xsd:string .
+:TV_Line_779_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_779 ; :text "o al menos entonces aprenderá esto:"^^xsd:string .
+:TV_Line_780_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_780 ; :text "que es trabajo inútil venerar lo que pertenece al Hades."^^xsd:string .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-french a owl:Ontology .
+# French translation variants for 563_to_581.ttl
+
+:TV_Line_563_FR a :TranslationVariant ;
+:text "Car jamais, seigneur, même l’esprit qui naît avec quelqu’un ne demeure"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_FR a :TranslationVariant ;
+:text "chez ceux qui vont mal, mais il s’écarte."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_FR a :TranslationVariant ;
+:text "Chez toi du moins, lorsque tu as choisi de faire des maux avec les mauvais."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_FR a :TranslationVariant ;
+:text "Car quelle vie serait vivable pour moi seule, sans celle-ci ?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_FR a :TranslationVariant ;
+:text "Mais ne parle pas de celle-ci ; car elle n’est plus."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_FR a :TranslationVariant ;
+:text "Mais tu tueras la promise de ton propre enfant ?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_FR a :TranslationVariant ;
+:text "Car les sillons des autres aussi sont labourables."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_FR a :TranslationVariant ;
+:text "Mais non comme elle était accordée à celui-là."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_FR a :TranslationVariant ;
+:text "Moi, je hais les femmes mauvaises pour mes fils."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_FR a :TranslationVariant ;
+:text "Ô très cher Hémon, comme ton père te déshonore."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_FR a :TranslationVariant ;
+:text "Tu me peines trop, toi aussi et ton lit nuptial."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_FR a :TranslationVariant ;
+:text "Vraiment, priveras-tu de celle-ci ton propre fils ?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_FR a :TranslationVariant ;
+:text "Hadès est né pour faire cesser ces noces."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_FR a :TranslationVariant ;
+:text "Il est décidé, semble-t-il, qu’elle meure."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_FR a :TranslationVariant ;
+:text "Oui, pour toi et pour moi. Plus de délais, mais elle,"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_FR a :TranslationVariant ;
+:text "emmenez-la dedans, serviteurs ; et à partir de maintenant il faut"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_FR a :TranslationVariant ;
+:text "que ces femmes soient femmes, et non laissées libres."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_FR a :TranslationVariant ;
+:text "Car même les audacieux fuient, lorsqu’ils voient près d’eux"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_FR a :TranslationVariant ;
+:text "déjà Hadès, à côté de leur vie."^^xsd:string ;
+:relatedTo :Line_581 .

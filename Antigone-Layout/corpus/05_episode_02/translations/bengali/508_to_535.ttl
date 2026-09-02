@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-bengali a owl:Ontology .
+# Bengali translation variants for 508_to_535.ttl
+
+:TV_Line_508_BN a :TranslationVariant ;
+:text "ক্যাডমীয়দের মধ্যে একা তুমিই এটি দেখছ।"^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_BN a :TranslationVariant ;
+:text "তারাও দেখে, কিন্তু তোমার সামনে মুখ বন্ধ করে।"^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_BN a :TranslationVariant ;
+:text "এদের থেকে আলাদা চিন্তা করলে তুমি লজ্জা পাও না?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_BN a :TranslationVariant ;
+:text "একই গর্ভের জনদের সম্মান করা কোনো লজ্জার নয়।"^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_BN a :TranslationVariant ;
+:text "তবে বিপরীত পাশে মারা যাওয়া জনটিও কি রক্তের নয়?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_BN a :TranslationVariant ;
+:text "রক্তের—একই মা এবং একই পিতার থেকে।"^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_BN a :TranslationVariant ;
+:text "তবে কেন তাকে অধার্মিক সম্মান দিচ্ছ?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_BN a :TranslationVariant ;
+:text "মৃত দেহটি এ কথা সাক্ষ্য দেবে না।"^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_BN a :TranslationVariant ;
+:text "যদি তুমি তাকে অধার্মিকের সমান সম্মান করো।"^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_BN a :TranslationVariant ;
+:text "সে দাস হয়ে নয়, ভাই হয়ে মারা গেছে।"^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_BN a :TranslationVariant ;
+:text "কিন্তু সে এই ভূমি লুণ্ঠন করতে এসেছিল; অন্যজন রক্ষায় দাঁড়িয়েছিল।"^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_BN a :TranslationVariant ;
+:text "তবু হেডিস একইভাবে এই আইনগুলো কামনা করে।"^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_BN a :TranslationVariant ;
+:text "কিন্তু সৎজনের প্রাপ্য দুষ্টের সঙ্গে সমান নয়।"^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_BN a :TranslationVariant ;
+:text "কে জানে, নিচে এগুলো পবিত্র বলে গণ্য হয় কি না?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_BN a :TranslationVariant ;
+:text "শত্রু কখনও বন্ধু নয়, সে মারা গেলেও নয়।"^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_BN a :TranslationVariant ;
+:text "আমি একসঙ্গে ঘৃণা করতে নয়, একসঙ্গে ভালোবাসতে জন্মেছি।"^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_BN a :TranslationVariant ;
+:text "তাহলে নিচে গিয়ে, যদি ভালোবাসতেই হয়, তাদের ভালোবাসো;"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_BN a :TranslationVariant ;
+:text "আমি বেঁচে থাকতে কোনো নারী শাসন করবে না।"^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_BN a :TranslationVariant ;
+:text "আর সত্যিই, ফটকের সামনে এই যে ইসমেনে,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_BN a :TranslationVariant ;
+:text "ভাইপ্রেমী অশ্রু ঝরাচ্ছে;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_BN a :TranslationVariant ;
+:text "ভ্রুর উপর রক্তাভ মেঘ"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_BN a :TranslationVariant ;
+:text "তার মুখমণ্ডলকে লজ্জিত করছে,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_BN a :TranslationVariant ;
+:text "সুন্দর মুখের গাল ভিজিয়ে।"^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_BN a :TranslationVariant ;
+:text "আর তুমি, যে ঘরে সাপের মতো গোপনে"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_BN a :TranslationVariant ;
+:text "লুকিয়ে আমাকে চুষে খাচ্ছিলে, আর আমি জানতাম না"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_BN a :TranslationVariant ;
+:text "দুই বিপদ ও সিংহাসনের বিরুদ্ধে বিদ্রোহ লালন করছি—"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_BN a :TranslationVariant ;
+:text "আসো, আমায় বলো, তুমিও কি এই কবরের অংশগ্রহণ"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_BN a :TranslationVariant ;
+:text "স্বীকার করবে, না না-জানা বলে শপথ করবে?"^^xsd:string ;
+:relatedTo :Line_535 .

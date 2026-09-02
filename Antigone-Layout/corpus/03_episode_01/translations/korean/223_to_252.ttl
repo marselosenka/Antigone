@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-korean a owl:Ontology .
+# Korean translation variants for 223_to_252.ttl
+
+:TV_Line_223_KO a :TranslationVariant ;
+:text "왕이여, 내가 말하겠지만, 속도 때문에"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_KO a :TranslationVariant ;
+:text "숨차게 와서 가벼운 발을 들어 올렸다고는 말하지 않겠습니다."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_KO a :TranslationVariant ;
+:text "나는 생각들의 멈춤을 여러 번 겪었고,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_KO a :TranslationVariant ;
+:text "길에서 되돌아가려고 나 자신을 빙빙 돌렸기 때문입니다."^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_KO a :TranslationVariant ;
+:text "내 영혼이 많은 말을 하며 내게 말했기 때문입니다,"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_KO a :TranslationVariant ;
+:text "불쌍한 자여, 왜 가느냐, 그곳에 가면 벌을 받을 곳으로?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_KO a :TranslationVariant ;
+:text "가엾은 자여, 또 머무를 것이냐? 만일 크레온이 이것을"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_KO a :TranslationVariant ;
+:text "다른 사람에게서 알게 된다면, 너는 어찌 고통받지 않겠느냐?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_KO a :TranslationVariant ;
+:text "이런 것들을 굴리며 나는 천천히, 느리게 나아갔습니다,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_KO a :TranslationVariant ;
+:text "그래서 짧은 길이 길어졌습니다."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_KO a :TranslationVariant ;
+:text "그러나 마침내 여기 당신에게 오는 일이"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_KO a :TranslationVariant ;
+:text "이겼습니다. 비록 아무것도 아닌 것을 말하더라도, 그래도 말하겠습니다."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_KO a :TranslationVariant ;
+:text "나는 희망을 붙잡고 오기 때문입니다,"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_KO a :TranslationVariant ;
+:text "운명으로 정해진 것 외에는 아무것도 겪지 않으리라는 희망을."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_KO a :TranslationVariant ;
+:text "무엇 때문에 이런 낙담을 품고 있는가?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_KO a :TranslationVariant ;
+:text "먼저 제 자신의 일들을 당신께 말하고 싶습니다. 그"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_KO a :TranslationVariant ;
+:text "일을 저는 하지도 않았고, 행한 자가 누구인지 보지도 못했습니다."^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_KO a :TranslationVariant ;
+:text "그러므로 제가 어떤 재앙에 떨어지는 것은 정당하지 않을 것입니다."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_KO a :TranslationVariant ;
+:text "너는 잘 겨냥하고, 그 일을"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_KO a :TranslationVariant ;
+:text "사방으로 막고 있구나. 네가 무언가 새로운 것을 알릴 것임을 드러낸다."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_KO a :TranslationVariant ;
+:text "두려운 일들은 정말 많은 주저함을 더합니다."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_KO a :TranslationVariant ;
+:text "그러면 도대체 말하지 않겠느냐, 그리고 떠나가겠느냐?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_KO a :TranslationVariant ;
+:text "이제 말하겠습니다. 누군가 방금 그 죽은 자를"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_KO a :TranslationVariant ;
+:text "묻고 떠났습니다, 살갗 위에 목마른"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_KO a :TranslationVariant ;
+:text "먼지를 뿌리고, 해야 할 정화 의식을 행한 뒤에."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_KO a :TranslationVariant ;
+:text "무슨 말을 하는가? 어떤 사람이 감히 이것들을 했느냐?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_KO a :TranslationVariant ;
+:text "모릅니다. 그곳에는 곡괭이의"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_KO a :TranslationVariant ;
+:text "흔적도, 괭이로 파낸 자국도 없었습니다. 땅은 딱딱하고"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_KO a :TranslationVariant ;
+:text "마른 채, 갈라지지도 않았고 수레바퀴에"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_KO a :TranslationVariant ;
+:text "밟힌 것도 아니었습니다. 일한 자는 아무 표시도 없는 자였습니다."^^xsd:string ;
+:relatedTo :Line_252 .

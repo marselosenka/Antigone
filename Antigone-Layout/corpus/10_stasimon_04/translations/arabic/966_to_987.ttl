@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-arabic a owl:Ontology .
+# Arabic translation variants for 966_to_987.ttl
+
+:TV_Line_966_AR a :TranslationVariant ;
+:text "وعند الصخرتين الداكنتي الزرقة، قرب البحر المزدوج،"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_AR a :TranslationVariant ;
+:text "سواحل البوسفور وشاطئ التراقيين،"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Line 968 and 969 do not exist in Antigone
+
+:TV_Line_970_AR a :TranslationVariant ;
+:text "سالميديسوس، حيث رأى آريس القريب من المدينة"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_AR a :TranslationVariant ;
+:text "لابني فينيوس الاثنين"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_AR a :TranslationVariant ;
+:text "الجرح الملعون،"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_AR a :TranslationVariant ;
+:text "إذ أعمتهما زوجة وحشية،"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_AR a :TranslationVariant ;
+:text "عمىً في دوائر العيون المنتقمة،"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_AR a :TranslationVariant ;
+:text "وقد حُطمت بأيدٍ دموية"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_AR a :TranslationVariant ;
+:text "وبرؤوس المكوكات الحادة."^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_AR a :TranslationVariant ;
+:text "وكانا يذوبان، بائسين، على عذاب بائس،"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Line 978 and 979 do not exist in Antigone
+
+:TV_Line_980_AR a :TranslationVariant ;
+:text "يبكيان، ولهما من الأم مولدٌ بلا زواج؛"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_AR a :TranslationVariant ;
+:text "أما هي فكانت، من جهة النسل، من القدماء المولودين"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_AR a :TranslationVariant ;
+:text "من الإريخثيين،"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_AR a :TranslationVariant ;
+:text "وفي كهوف بعيدة"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_AR a :TranslationVariant ;
+:text "رُبّيت وسط عواصف أبيها،"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_AR a :TranslationVariant ;
+:text "بورياس، رفيق الخيل، فوق الجرف شديد الانتصاب،"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_AR a :TranslationVariant ;
+:text "ابنة الآلهة؛ لكن حتى عليها أيضًا"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_AR a :TranslationVariant ;
+:text "قبضت الموائر الطويلات العمر، يا طفلتي."^^xsd:string ;
+:relatedTo :Line_987 .

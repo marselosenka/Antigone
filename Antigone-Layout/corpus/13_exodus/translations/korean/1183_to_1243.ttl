@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-korean a owl:Ontology .
+# Korean translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_KO a :TranslationVariant ;
+:text "오 모든 시민들이여, 나는 그 말들을 들었다,"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_KO a :TranslationVariant ;
+:text "밖으로 나아가며, 팔라스 여신에게"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_KO a :TranslationVariant ;
+:text "기도의 탄원자로 다가가려 하던 중에."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_KO a :TranslationVariant ;
+:text "마침 나는 빗장을 뒤로 당겨"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_KO a :TranslationVariant ;
+:text "문을 열고 있었는데, 집안 재앙의 소리가"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_KO a :TranslationVariant ;
+:text "내 귀를 때렸다. 나는 두려워 뒤로 기울어져"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_KO a :TranslationVariant ;
+:text "시녀들 곁에 쓰러져 정신을 잃었다."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_KO a :TranslationVariant ;
+:text "그러나 그 이야기가 무엇이었는지 다시 말해 달라."^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_KO a :TranslationVariant ;
+:text "나는 고통에 익숙하지 않은 자가 아니니, 들을 것이다."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_KO a :TranslationVariant ;
+:text "사랑하는 여주인이여, 제가 그 자리에 있었으니 말하겠습니다,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_KO a :TranslationVariant ;
+:text "그리고 진실의 말은 하나도 빼지 않겠습니다."^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_KO a :TranslationVariant ;
+:text "훗날에 가서"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_KO a :TranslationVariant ;
+:text "거짓으로 드러날 일을 왜 부드럽게 말하겠습니까? 진실은 언제나 바릅니다."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_KO a :TranslationVariant ;
+:text "저는 당신 남편의 길잡이로 따라갔습니다,"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_KO a :TranslationVariant ;
+:text "평야 끝까지, 그곳에는 아직도 무자비하게"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_KO a :TranslationVariant ;
+:text "개들에게 찢긴 폴뤼네이케스의 몸이 누워 있었습니다."^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_KO a :TranslationVariant ;
+:text "먼저 우리는 길가의 여신과"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_KO a :TranslationVariant ;
+:text "플루톤에게 분노를 자비롭게 억누르도록 기도하고,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_KO a :TranslationVariant ;
+:text "그를 깨끗한 물로 씻긴 뒤, 갓 꺾은"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_KO a :TranslationVariant ;
+:text "가지들로 남아 있던 것을 함께 태웠습니다,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_KO a :TranslationVariant ;
+:text "그리고 고향의 흙으로 곧게 솟은 무덤 봉분을 쌓았습니다."^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_KO a :TranslationVariant ;
+:text "그런 다음 다시 돌로 덮인 소녀의"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_KO a :TranslationVariant ;
+:text "하데스의 텅 빈 신방으로 들어갔습니다."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_KO a :TranslationVariant ;
+:text "멀리서부터 날카로운 통곡의 소리를"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_KO a :TranslationVariant ;
+:text "장례 없는 신방 주위에서 누군가 듣고,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_KO a :TranslationVariant ;
+:text "와서 주인 크레온에게 알렸습니다."^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_KO a :TranslationVariant ;
+:text "그가 더 가까이 다가갈수록, 불분명했던 비참한 외침이"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_KO a :TranslationVariant ;
+:text "그를 둘러싸며 더욱 가까이 다가왔고, 그는 탄식하며"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_KO a :TranslationVariant ;
+:text "애통한 말을 내뱉었습니다. 아, 불쌍한 나여,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_KO a :TranslationVariant ;
+:text "내가 예언자인가? 내가 가장 불행한"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_KO a :TranslationVariant ;
+:text "길을 걷고 있는가, 지나온 모든 길들 가운데?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_KO a :TranslationVariant ;
+:text "아들의 목소리가 나를 쓰다듬는구나. 그러나 시종들아,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_KO a :TranslationVariant ;
+:text "빨리 더 가까이 가라, 무덤 곁에 서서"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_KO a :TranslationVariant ;
+:text "흙더미의 돌이 뜯겨 난 이음새를 살펴보라,"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_KO a :TranslationVariant ;
+:text "그 입구 자체로 들어가서, 내가 하이몬의"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_KO a :TranslationVariant ;
+:text "목소리를 듣는 것인지, 신들에게 속고 있는 것인지 보라."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_KO a :TranslationVariant ;
+:text "마음이 꺾인 주인의 이러한 명령에 따라"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_KO a :TranslationVariant ;
+:text "우리는 살펴보았습니다. 그리고 무덤의 가장 안쪽에서"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_KO a :TranslationVariant ;
+:text "그녀가 목에 매달려 있는 것을 보았습니다,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_KO a :TranslationVariant ;
+:text "고운 베의 실 같은 올가미에 묶인 채."^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_KO a :TranslationVariant ;
+:text "그리고 그는 그녀의 허리께에 달라붙어 엎드려 있었습니다,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_KO a :TranslationVariant ;
+:text "아래 세상의 신방이 잃어진 것을 통곡하며,"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_KO a :TranslationVariant ;
+:text "아버지의 행위들과 불쌍한 혼인 침상을 통곡하며."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_KO a :TranslationVariant ;
+:text "그가 그들을 보자, 끔찍하게 탄식하며 안으로"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_KO a :TranslationVariant ;
+:text "그에게 다가가 큰 소리로 울부짖고 불렀습니다."^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_KO a :TranslationVariant ;
+:text "오 가련한 자여, 어떤 일을 저질렀느냐? 어떤"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_KO a :TranslationVariant ;
+:text "생각을 품었느냐? 어떤 재앙 속에서 파멸했느냐?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_KO a :TranslationVariant ;
+:text "나오라, 아이야. 탄원자로서 네게 빈다."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_KO a :TranslationVariant ;
+:text "그러나 소년은 사나운 눈으로 그를 노려보고,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_KO a :TranslationVariant ;
+:text "얼굴에 침을 뱉고 아무 대답도 하지 않은 채, 칼의"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_KO a :TranslationVariant ;
+:text "두 날 선 이빨을 뽑았습니다. 아버지가 달려들다가"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_KO a :TranslationVariant ;
+:text "도망쳐 피하자 빗나갔습니다. 그러자 불운한 소년은,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_KO a :TranslationVariant ;
+:text "자기 자신에게 분노하여, 그 상태 그대로 몸을 굽혀"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_KO a :TranslationVariant ;
+:text "칼날을 옆구리 한가운데에 박았습니다. 그리고 축축한"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_KO a :TranslationVariant ;
+:text "팔로 아직 의식이 남은 채 처녀를 끌어안았습니다."^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_KO a :TranslationVariant ;
+:text "그리고 숨을 헐떡이며 날카로운 흐름을 내뿜었습니다,"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_KO a :TranslationVariant ;
+:text "피 어린 방울들을 그녀의 흰 뺨 위에."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_KO a :TranslationVariant ;
+:text "그는 시신 곁에 시신으로 누워 있습니다, 가련한 자가"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_KO a :TranslationVariant ;
+:text "하데스의 집에서 혼례의 완성을 얻은 채,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_KO a :TranslationVariant ;
+:text "인간들 가운데 무분별함이"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_KO a :TranslationVariant ;
+:text "한 사람에게 붙는 가장 큰 악임을 보여 주면서."^^xsd:string ;
+:relatedTo :Line_1243 .

@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-german a owl:Ontology .
+# German translation variants for 762_to_772.ttl
+
+:TV_Line_762_DE a :TranslationVariant ;
+:text "Ganz gewiss nicht vor mir, dies meine niemals,"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_DE a :TranslationVariant ;
+:text "weder wird diese nahe bei mir sterben, noch wirst du je"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_DE a :TranslationVariant ;
+:text "mein Haupt mit deinen Augen sehen,"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_DE a :TranslationVariant ;
+:text "sodass du mit den Freunden, die es wollen, zusammen rasend bist."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_DE a :TranslationVariant ;
+:text "Der Mann, Herr, ist aus Zorn schnell fortgegangen;"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_DE a :TranslationVariant ;
+:text "ein Sinn in solchem Alter ist, wenn verletzt, schwer."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_DE a :TranslationVariant ;
+:text "Mag er handeln; mag er Größeres denken, als einem Mann zukommt;"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_DE a :TranslationVariant ;
+:text "die zwei Mädchen aber wird er doch nicht vom Tod befreien."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_DE a :TranslationVariant ;
+:text "Denn meinst du, beide von ihnen zu töten?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_DE a :TranslationVariant ;
+:text "Nicht die, die nicht berührte; denn gut sprichst du also."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_DE a :TranslationVariant ;
+:text "Mit welchem Tod aber beschließt du, sie zu töten?"^^xsd:string ;
+:relatedTo :Line_772 .

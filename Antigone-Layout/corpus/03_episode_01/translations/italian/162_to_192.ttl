@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-italian a owl:Ontology .
+# Italian translation variants for 162_to_192.ttl
+
+:TV_Line_162_IT a :TranslationVariant ;
+:text "Uomini, le cose della città gli dèi sicuramente"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_IT a :TranslationVariant ;
+:text "dopo averle scosse con molto ondeggiamento, le rialzarono di nuovo;"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_IT a :TranslationVariant ;
+:text "ma voi io, con messaggeri, separatamente da tutti,"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_IT a :TranslationVariant ;
+:text "mandai a chiamare, sapendo anzitutto che le potenze"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_IT a :TranslationVariant ;
+:text "dei troni di Laio sempre veneravate bene,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_IT a :TranslationVariant ;
+:text "e poi di nuovo, quando Edipo raddrizzava la città,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_IT a :TranslationVariant ;
+:text "e dopo che egli perì, attorno ai figli di quelli ancora"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_IT a :TranslationVariant ;
+:text "restavate con saldi pensieri."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_IT a :TranslationVariant ;
+:text "Poiché dunque quelli, per doppia sorte, in un solo"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_IT a :TranslationVariant ;
+:text "giorno perirono, colpendo e"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_IT a :TranslationVariant ;
+:text "colpiti con contaminazione di mano propria,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_IT a :TranslationVariant ;
+:text "ora io tengo tutti i poteri e i troni"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_IT a :TranslationVariant ;
+:text "per prossimità di stirpe con i morti."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_IT a :TranslationVariant ;
+:text "Impossibile è conoscere appieno di ogni uomo"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_IT a :TranslationVariant ;
+:text "anima, pensiero e giudizio, prima che"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_IT a :TranslationVariant ;
+:text "appaia provato nei comandi e nelle leggi."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_IT a :TranslationVariant ;
+:text "Per me infatti chiunque, governando tutta una città,"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_IT a :TranslationVariant ;
+:text "non afferra i consigli migliori,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_IT a :TranslationVariant ;
+:text "ma per qualche paura tiene chiusa la lingua,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_IT a :TranslationVariant ;
+:text "sembra pessimo, ora e da sempre;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_IT a :TranslationVariant ;
+:text "e chiunque considera un amico maggiore della propria patria,"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_IT a :TranslationVariant ;
+:text "costui io non lo pongo in alcun luogo."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_IT a :TranslationVariant ;
+:text "Io infatti, lo sappia Zeus che sempre vede tutto,"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_IT a :TranslationVariant ;
+:text "non tacerei mai vedendo la rovina"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_IT a :TranslationVariant ;
+:text "avanzare contro i cittadini invece della salvezza,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_IT a :TranslationVariant ;
+:text "né mai porrei per me come amico un uomo nemico della terra,"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_IT a :TranslationVariant ;
+:text "sapendo questo: che"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_IT a :TranslationVariant ;
+:text "questa è colei che salva, e su di essa"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_IT a :TranslationVariant ;
+:text "navigando diritta facciamo gli amici."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_IT a :TranslationVariant ;
+:text "Con leggi tali io farò crescere questa città."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_IT a :TranslationVariant ;
+:text "E ora, conformi a queste, ho proclamato"^^xsd:string ;
+:relatedTo :Line_192 .

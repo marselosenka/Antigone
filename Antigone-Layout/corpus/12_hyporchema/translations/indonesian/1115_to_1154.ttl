@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-indonesian a owl:Ontology .
+# Indonesian translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_ID a :TranslationVariant ;
+:text "Wahai yang bernama banyak, kemuliaan pengantin perempuan Kadmeia"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_ID a :TranslationVariant ;
+:text "dan keturunan Zeus yang berguruh berat,"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_ID a :TranslationVariant ;
+:text "engkau yang melingkupi Italia yang termasyhur,"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_ID a :TranslationVariant ;
+:text "dan memerintah"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_ID a :TranslationVariant ;
+:text "di pangkuan bersama milik Deo"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_ID a :TranslationVariant ;
+:text "Eleusinia, Bacchus pemimpin para Bacchante,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_ID a :TranslationVariant ;
+:text "engkau yang mendiami Thebes, kota ibumu,"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_ID a :TranslationVariant ;
+:text "di samping aliran-aliran basah"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Line 1123 and 1124 do not exist in Antigone
+
+:TV_Line_1125_ID a :TranslationVariant ;
+:text "Ismenos, dan di atas taburan naga buas."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_ID a :TranslationVariant ;
+:text "Dan kilatan berasap telah melihatmu di atas batu berpunuk dua,"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_ID a :TranslationVariant ;
+:text "di tempat para nimfa Korykia"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_ID a :TranslationVariant ;
+:text "para Bacchante berjalan dalam arak-arakan,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in Antigone
+
+:TV_Line_1130_ID a :TranslationVariant ;
+:text "dan mata air Kastalia."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_ID a :TranslationVariant ;
+:text "Dan engkau dikirim oleh lereng-lereng"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_ID a :TranslationVariant ;
+:text "pegunungan Nysa yang bermahkota ivy dan pantai hijau"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_ID a :TranslationVariant ;
+:text "yang kaya anggur,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_ID a :TranslationVariant ;
+:text "sementara kata-kata abadi"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_ID a :TranslationVariant ;
+:text "berseru euai sambil mengawasi jalan-jalan Thebes;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in Antigone
+
+:TV_Line_1137_ID a :TranslationVariant ;
+:text "kota yang dari semua kota paling tinggi kauhormati"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_ID a :TranslationVariant ;
+:text "bersama ibumu yang tersambar petir;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in Antigone
+
+:TV_Line_1140_ID a :TranslationVariant ;
+:text "dan sekarang, ketika kota seluruh rakyat"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_ID a :TranslationVariant ;
+:text "ditahan oleh penyakit yang ganas,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_ID a :TranslationVariant ;
+:text "datanglah dengan kaki penyuci melintasi lereng Parnasos"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Line 1143 and 1144 do not exist in Antigone
+
+:TV_Line_1145_ID a :TranslationVariant ;
+:text "atau selat yang mengerang."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_ID a :TranslationVariant ;
+:text "Io, pemimpin paduan bintang-bintang yang mengembuskan api,"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_ID a :TranslationVariant ;
+:text "pengawas suara-suara malam,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_ID a :TranslationVariant ;
+:text "anak keturunan Zeus,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in Antigone
+
+:TV_Line_1150_ID a :TranslationVariant ;
+:text "wahai tuan, bersama para pengiringmu"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_ID a :TranslationVariant ;
+:text "para Thyiad, yang dalam kegilaan"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_ID a :TranslationVariant ;
+:text "menari bagi Iakkhos sang pengatur."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Line 1153 and 1154 do not exist in Antigone

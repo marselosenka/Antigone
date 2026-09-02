@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-german a owl:Ontology .
+# German translation variants for 90_to_99.ttl
+
+:TV_Line_90_DE a :TranslationVariant ;
+:text "Wenn du es überhaupt vermagst; doch du liebst Unmögliches."^^xsd:string ;
+:relatedTo :Line_90 .
+
+:TV_Line_91_DE a :TranslationVariant ;
+:text "Also werde ich, wenn ich dann keine Kraft mehr habe, aufhören."^^xsd:string ;
+:relatedTo :Line_91 .
+
+:TV_Line_92_DE a :TranslationVariant ;
+:text "Von Anfang an ziemt es sich nicht, Unmögliches zu jagen."^^xsd:string ;
+:relatedTo :Line_92 .
+
+:TV_Line_93_DE a :TranslationVariant ;
+:text "Wenn du das sagen wirst, wirst du von mir gehasst werden,"^^xsd:string ;
+:relatedTo :Line_93 .
+
+:TV_Line_94_DE a :TranslationVariant ;
+:text "und dem Toten wirst du mit Recht feindlich daliegen."^^xsd:string ;
+:relatedTo :Line_94 .
+
+:TV_Line_95_DE a :TranslationVariant ;
+:text "Aber lass mich und meine aus mir kommende Torheit"^^xsd:string ;
+:relatedTo :Line_95 .
+
+:TV_Line_96_DE a :TranslationVariant ;
+:text "dieses Schreckliche erleiden; denn ich werde nichts"^^xsd:string ;
+:relatedTo :Line_96 .
+
+:TV_Line_97_DE a :TranslationVariant ;
+:text "so Großes erleiden, dass ich nicht schön sterben könnte."^^xsd:string ;
+:relatedTo :Line_97 .
+
+:TV_Line_98_DE a :TranslationVariant ;
+:text "Nun, wenn es dir gut scheint, geh; doch dies wisse:"^^xsd:string ;
+:relatedTo :Line_98 .
+
+:TV_Line_99_DE a :TranslationVariant ;
+:text "unverständig gehst du, den Freunden aber richtig lieb."^^xsd:string ;
+:relatedTo :Line_99 .

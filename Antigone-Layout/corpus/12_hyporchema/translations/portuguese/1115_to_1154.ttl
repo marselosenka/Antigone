@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-portuguese a owl:Ontology .
+# Portuguese translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_PT a :TranslationVariant ;
+:text "Ó de muitos nomes, ornamento da noiva cadmeia,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_PT a :TranslationVariant ;
+:text "e descendência de Zeus de grave trovão,"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_PT a :TranslationVariant ;
+:text "linhagem, tu que envolves de cuidado"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_PT a :TranslationVariant ;
+:text "a ilustre Itália, e governas"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_PT a :TranslationVariant ;
+:text "nos seios comuns da eleusina"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_PT a :TranslationVariant ;
+:text "Deó, Baco dos bacantes,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_PT a :TranslationVariant ;
+:text "tu que habitas Tebas, cidade-mãe,"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_PT a :TranslationVariant ;
+:text "junto às úmidas"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Lines 1123 and 1124 do not exist in canonical.
+
+:TV_Line_1125_PT a :TranslationVariant ;
+:text "correntes do Ismeno e sobre a semeadura do dragão selvagem."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_PT a :TranslationVariant ;
+:text "E sobre a rocha de dois cumes te viu o clarão"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_PT a :TranslationVariant ;
+:text "fumacento, onde as corícias"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_PT a :TranslationVariant ;
+:text "ninfas bacantes avançam,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in canonical.
+
+:TV_Line_1130_PT a :TranslationVariant ;
+:text "e a corrente de Castália."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_PT a :TranslationVariant ;
+:text "E a ti as encostas dos montes niseus,"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_PT a :TranslationVariant ;
+:text "cobertas de hera, e a verde margem"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_PT a :TranslationVariant ;
+:text "rica em cachos de uva enviam,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_PT a :TranslationVariant ;
+:text "enquanto palavras imortais"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_PT a :TranslationVariant ;
+:text "gritam evoé, velando pelas ruas tebanas;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in canonical.
+
+:TV_Line_1137_PT a :TranslationVariant ;
+:text "a esta honras acima de todas as cidades"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_PT a :TranslationVariant ;
+:text "junto com tua mãe fulminada pelo raio;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in canonical.
+
+:TV_Line_1140_PT a :TranslationVariant ;
+:text "e agora, visto que é tomada por violenta"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_PT a :TranslationVariant ;
+:text "doença a cidade de todo o povo,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_PT a :TranslationVariant ;
+:text "vem com pé purificador sobre a encosta parnasiana"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Lines 1143 and 1144 do not exist in canonical.
+
+:TV_Line_1145_PT a :TranslationVariant ;
+:text "ou sobre o estreito cheio de gemidos."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_PT a :TranslationVariant ;
+:text "Ó guia do coro dos astros que sopram fogo, das noturnas"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_PT a :TranslationVariant ;
+:text "vozes vigilante,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_PT a :TranslationVariant ;
+:text "filho, geração de Zeus,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in canonical.
+
+:TV_Line_1150_PT a :TranslationVariant ;
+:text "ó senhor, junto com tuas servidoras"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_PT a :TranslationVariant ;
+:text "Tíades, que, em delírio,"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_PT a :TranslationVariant ;
+:text "a ti, Íaco dispensador, celebram."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Lines 1153 and 1154 do not exist in canonical.

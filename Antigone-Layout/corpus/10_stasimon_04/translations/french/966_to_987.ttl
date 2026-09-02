@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-french a owl:Ontology .
+# French translation variants for 966_to_987.ttl
+
+:TV_Line_966_FR a :TranslationVariant ;
+:text "Près des rochers bleu sombre de la double mer,"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_FR a :TranslationVariant ;
+:text "les côtes bosporiennes et le rivage des Thraces,"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Lines 968 and 969 do not exist in canonical.
+
+:TV_Line_970_FR a :TranslationVariant ;
+:text "Salmydesse, où Arès, voisin de la cité,"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_FR a :TranslationVariant ;
+:text "pour les deux fils de Phinée,"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_FR a :TranslationVariant ;
+:text "vit la blessure maudite,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_FR a :TranslationVariant ;
+:text "aveuglée par une épouse sauvage,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_FR a :TranslationVariant ;
+:text "aveugle dans les cercles vengeurs des yeux,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_FR a :TranslationVariant ;
+:text "frappés par des mains"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_FR a :TranslationVariant ;
+:text "sanglantes et par les pointes des navettes."^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_FR a :TranslationVariant ;
+:text "Et, se consumant, malheureux, dans une malheureuse souffrance,"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Lines 978 and 979 do not exist in canonical.
+
+:TV_Line_980_FR a :TranslationVariant ;
+:text "ils pleuraient, ayant la naissance non nuptiale de leur mère ;"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_FR a :TranslationVariant ;
+:text "et elle, par sa semence, atteignait"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_FR a :TranslationVariant ;
+:text "les antiques Érechthéides,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_FR a :TranslationVariant ;
+:text "et dans des antres lointains"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_FR a :TranslationVariant ;
+:text "elle fut nourrie parmi les tempêtes paternelles,"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_FR a :TranslationVariant ;
+:text "Borée, compagnon des chevaux, au-dessus du rocher escarpé,"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_FR a :TranslationVariant ;
+:text "enfant des dieux ; mais sur elle aussi,"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_FR a :TranslationVariant ;
+:text "les Moires de longue vie ont mis la main, ô enfant."^^xsd:string ;
+:relatedTo :Line_987 .

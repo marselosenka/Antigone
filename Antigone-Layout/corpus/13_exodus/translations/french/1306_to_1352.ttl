@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-french a owl:Ontology .
+# French translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_FR a :TranslationVariant ;
+:text "Aiai, aiai,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_FR a :TranslationVariant ;
+:text "je vole hors de moi par peur. Pourquoi quelqu’un ne m’a-t-il pas frappé"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_FR a :TranslationVariant ;
+:text "en face avec une épée à double tranchant ?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in canonical.
+
+:TV_Line_1310_FR a :TranslationVariant ;
+:text "Malheureux que je suis, aiai,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_FR a :TranslationVariant ;
+:text "je suis mêlé à une malheureuse douleur."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_FR a :TranslationVariant ;
+:text "Comme responsable de ces maux et de ceux-là,"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_FR a :TranslationVariant ;
+:text "tu fus accusé des morts par cette morte."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_FR a :TranslationVariant ;
+:text "Et par quel mode de meurtre s’est-elle délivrée ?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_FR a :TranslationVariant ;
+:text "Ayant frappé sous le foie, de sa propre main, elle-même,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_FR a :TranslationVariant ;
+:text "quand elle apprit cette souffrance de son enfant aux cris aigus."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_FR a :TranslationVariant ;
+:text "Hélas, hélas pour moi, ces choses ne s’ajusteront jamais"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_FR a :TranslationVariant ;
+:text "sur aucun autre des mortels par ma faute."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_FR a :TranslationVariant ;
+:text "Car moi, moi, je t’ai tuée, ô malheureux,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_FR a :TranslationVariant ;
+:text "moi, je dis la vérité. Io, serviteurs,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_FR a :TranslationVariant ;
+:text "emmenez-moi au plus vite, menez-moi hors du chemin,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Lines 1322, 1323 and 1324 do not exist in canonical.
+
+:TV_Line_1325_FR a :TranslationVariant ;
+:text "moi qui suis plus inexistant que personne."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_FR a :TranslationVariant ;
+:text "Tu conseilles des gains, s’il y a quelque gain dans les maux ;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_FR a :TranslationVariant ;
+:text "car les maux présents les plus courts sont les meilleurs."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_FR a :TranslationVariant ;
+:text "Qu’il vienne, qu’il vienne,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_FR a :TranslationVariant ;
+:text "qu’il apparaisse, le plus beau de mes destins,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_FR a :TranslationVariant ;
+:text "m’apportant mon dernier jour,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_FR a :TranslationVariant ;
+:text "le suprême ; qu’il vienne, qu’il vienne,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_FR a :TranslationVariant ;
+:text "afin que je ne voie plus aucun autre jour."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in canonical.
+
+:TV_Line_1334_FR a :TranslationVariant ;
+:text "Ces choses appartiennent à l’avenir. Il faut faire quelque chose"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_FR a :TranslationVariant ;
+:text "de ce qui est devant nous ; car le souci en appartient à ceux qui doivent s’en soucier."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_FR a :TranslationVariant ;
+:text "Mais ce que je désire, cela je l’ai prié avec vous."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_FR a :TranslationVariant ;
+:text "Ne prie donc plus rien ; car d’un malheur destiné"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_FR a :TranslationVariant ;
+:text "il n’est pas de délivrance pour les mortels."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_FR a :TranslationVariant ;
+:text "Emmenez hors du chemin un homme vain,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_FR a :TranslationVariant ;
+:text "qui, ô enfant, t’ai tué malgré moi,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_FR a :TranslationVariant ;
+:text "et toi aussi, celle-ci, hélas malheureux, et je ne sais"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_FR a :TranslationVariant ;
+:text "vers lequel des deux regarder, où m’incliner ; car tout"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Lines 1343 and 1344 do not exist in canonical.
+
+:TV_Line_1345_FR a :TranslationVariant ;
+:text "ce que j’ai dans les mains est de travers, et sur ma tête"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_FR a :TranslationVariant ;
+:text "un destin difficile à porter s’est jeté."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_FR a :TranslationVariant ;
+:text "De beaucoup, penser est la première condition"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_FR a :TranslationVariant ;
+:text "du bonheur ; et il faut, envers les dieux,"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in canonical.
+
+:TV_Line_1350_FR a :TranslationVariant ;
+:text "ne rien commettre d’impie ; les grandes paroles"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_FR a :TranslationVariant ;
+:text "des orgueilleux, ayant payé en retour"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_FR a :TranslationVariant ;
+:text "de grands coups,"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_FR a :TranslationVariant ;
+:text "ont enseigné à penser dans la vieillesse."^^xsd:string ;
+:relatedTo :Line_1353 .

@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-persian a owl:Ontology .
+# Persian translation variants for 616_to_630.ttl
+
+:TV_Line_616_FA a :TranslationVariant ;
+:text "و برای بسیاری دیگر فریبِ خواهش‌های سبک‌اندیش است؛"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_FA a :TranslationVariant ;
+:text "و برای داننده، هیچ نمی‌رباید، پیش از آن‌که کسی پایش را به آتش گرم"^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in Antigone
+
+:TV_Line_620_FA a :TranslationVariant ;
+:text "نزدیک کند. زیرا با خرد، سخنی از نامداران آشکار شده است."^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_FA a :TranslationVariant ;
+:text "این‌که بدی‌ها گاه نیکی به نظر می‌آیند"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_FA a :TranslationVariant ;
+:text "برای آن کسی که"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_FA a :TranslationVariant ;
+:text "خدا اندیشه‌هایش را به سوی تباهی می‌برد؛"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone
+
+:TV_Line_625_FA a :TranslationVariant ;
+:text "و او تنها کوتاه‌ترین زمان را بیرون از تباهی می‌گذراند."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_FA a :TranslationVariant ;
+:text "بنگر، هایمون، واپسین زاده از فرزندان تو،"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_FA a :TranslationVariant ;
+:text "آیا با اندوه از سرنوشت"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_FA a :TranslationVariant ;
+:text "نامزدش آنتیگونه می‌آید،"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone
+
+:TV_Line_630_FA a :TranslationVariant ;
+:text "از فریب بستر زناشویی، سخت دردمند؟"^^xsd:string ;
+:relatedTo :Line_630 .

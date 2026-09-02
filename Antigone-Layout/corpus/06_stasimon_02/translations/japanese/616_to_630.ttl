@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-japanese a owl:Ontology .
+# Japanese translation variants for 616_to_630.ttl
+
+:TV_Line_616_JA a :TranslationVariant ;
+:text "多くの者には軽い心の欲望の欺きである。"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_JA a :TranslationVariant ;
+:text "知る者には何も奪わず、誰かが熱い火へ足を"^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in Antigone
+
+:TV_Line_620_JA a :TranslationVariant ;
+:text "触れるまでは。というのも、名高い者たちの言葉から、知恵として明らかにされた。"^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_JA a :TranslationVariant ;
+:text "悪しきものが、ある時には善きものと思われる、"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_JA a :TranslationVariant ;
+:text "その者にとって、心を"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_JA a :TranslationVariant ;
+:text "神が破滅へ導く時には。"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone
+
+:TV_Line_625_JA a :TranslationVariant ;
+:text "そして彼は破滅の外で、ごく短い時を過ごす。"^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_JA a :TranslationVariant ;
+:text "見よ、ハイモンが、あなたの子らの"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_JA a :TranslationVariant ;
+:text "最も若い生まれの者が。彼は嘆きに苦しんで来るのか、"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_JA a :TranslationVariant ;
+:text "婚約者アンティゴネの死の運命のために、"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone
+
+:TV_Line_630_JA a :TranslationVariant ;
+:text "婚床の欺きに耐えがたい苦しみを受けて。"^^xsd:string ;
+:relatedTo :Line_630 .

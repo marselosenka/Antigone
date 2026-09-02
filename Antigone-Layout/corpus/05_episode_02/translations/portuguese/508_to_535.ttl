@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-portuguese a owl:Ontology .
+# Portuguese translation variants for 508_to_535.ttl
+
+:TV_Line_508_PT a :TranslationVariant ;
+:text "Tu sozinha, entre estes cadmeus, vês isto."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_PT a :TranslationVariant ;
+:text "Também estes veem, mas diante de ti fecham a boca."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_PT a :TranslationVariant ;
+:text "E tu não te envergonhas, se pensas separada deles?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_PT a :TranslationVariant ;
+:text "Nada há de vergonhoso em honrar os do mesmo ventre."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_PT a :TranslationVariant ;
+:text "Também não era do mesmo sangue o que morreu contra ele?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_PT a :TranslationVariant ;
+:text "Do mesmo sangue, de uma só mãe e do mesmo pai."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_PT a :TranslationVariant ;
+:text "Como então prestas a um honra ímpia para com o outro?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_PT a :TranslationVariant ;
+:text "O cadáver morto não testemunhará isso."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_PT a :TranslationVariant ;
+:text "Sim, se o honras por igual ao ímpio."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_PT a :TranslationVariant ;
+:text "Pois não morreu escravo, mas irmão."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_PT a :TranslationVariant ;
+:text "Devastando esta terra; o outro, resistindo por ela."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_PT a :TranslationVariant ;
+:text "Mesmo assim, Hades deseja estas leis."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_PT a :TranslationVariant ;
+:text "Mas o bom não cabe ter parte igual ao mau."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_PT a :TranslationVariant ;
+:text "Quem sabe se lá embaixo isto é santo?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_PT a :TranslationVariant ;
+:text "O inimigo jamais é amigo, nem quando morre."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_PT a :TranslationVariant ;
+:text "Nasci não para odiar junto, mas para amar junto."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_PT a :TranslationVariant ;
+:text "Vai então para baixo e, se é preciso amar, ama"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_PT a :TranslationVariant ;
+:text "aqueles; enquanto eu viver, mulher não governará."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_PT a :TranslationVariant ;
+:text "E eis que diante das portas está Ismene,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_PT a :TranslationVariant ;
+:text "derramando lágrimas fraternas lá de baixo;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_PT a :TranslationVariant ;
+:text "e uma nuvem sobre as sobrancelhas envergonha"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_PT a :TranslationVariant ;
+:text "o rosto ensanguentado,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_PT a :TranslationVariant ;
+:text "molhando a bela face."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_PT a :TranslationVariant ;
+:text "E tu, que em casa, como víbora escondida,"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_PT a :TranslationVariant ;
+:text "me sugavas às ocultas, e eu não percebia"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_PT a :TranslationVariant ;
+:text "que nutria duas ruínas e revoltas contra os tronos,"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_PT a :TranslationVariant ;
+:text "vem, diz-me agora: também tu deste sepultamento"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_PT a :TranslationVariant ;
+:text "dirás participar, ou negarás saber?"^^xsd:string ;
+:relatedTo :Line_535 .

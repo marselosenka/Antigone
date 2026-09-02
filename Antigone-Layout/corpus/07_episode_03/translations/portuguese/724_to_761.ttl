@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-portuguese a owl:Ontology .
+# Portuguese translation variants for 724_to_761.ttl
+
+:TV_Line_724_PT a :TranslationVariant ;
+:text "Senhor, é justo que tu, se ele diz algo oportuno,"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_PT a :TranslationVariant ;
+:text "aprendas, e tu, por tua vez, dele; pois bem foi dito dos dois lados."^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_PT a :TranslationVariant ;
+:text "Nós, desta idade, deveremos então ser ensinados"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_PT a :TranslationVariant ;
+:text "a pensar por um homem de tal natureza?"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_PT a :TranslationVariant ;
+:text "Nada que não seja justo; e se eu sou jovem,"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_PT a :TranslationVariant ;
+:text "não é o tempo que se deve observar mais que as ações."^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_PT a :TranslationVariant ;
+:text "É obra honrar os que perturbam a ordem?"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_PT a :TranslationVariant ;
+:text "Eu nem ordenaria ser piedoso para com os maus."^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_PT a :TranslationVariant ;
+:text "Pois ela não está tomada por tal doença?"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_PT a :TranslationVariant ;
+:text "Não o diz o povo concidadão desta Tebe."^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_PT a :TranslationVariant ;
+:text "A cidade então me dirá como devo ordenar?"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_PT a :TranslationVariant ;
+:text "Vês como disseste isso como demasiado jovem?"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_PT a :TranslationVariant ;
+:text "Por outro, ou por mim, devo governar esta terra?"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_PT a :TranslationVariant ;
+:text "Pois não é cidade aquela que é de um só homem."^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_PT a :TranslationVariant ;
+:text "A cidade não é considerada do governante?"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_PT a :TranslationVariant ;
+:text "Bem governarias sozinho uma terra deserta."^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_PT a :TranslationVariant ;
+:text "Este, ao que parece, combate ao lado da mulher."^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_PT a :TranslationVariant ;
+:text "Se realmente és mulher tu; pois de ti eu cuido."^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_PT a :TranslationVariant ;
+:text "Ó péssimo, vais a julgamento contra teu pai?"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_PT a :TranslationVariant ;
+:text "Pois vejo que erras coisas injustas."^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_PT a :TranslationVariant ;
+:text "Erro então ao respeitar meu próprio poder?"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_PT a :TranslationVariant ;
+:text "Não respeitas, pisando as honras dos deuses."^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_PT a :TranslationVariant ;
+:text "Ó caráter impuro e posterior a uma mulher."^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_PT a :TranslationVariant ;
+:text "Não me encontrarias inferior às coisas vergonhosas."^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_PT a :TranslationVariant ;
+:text "Ao menos todo este teu discurso é por ela."^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_PT a :TranslationVariant ;
+:text "E também por ti e por mim, e pelos deuses inferiores."^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_PT a :TranslationVariant ;
+:text "Não há modo de jamais desposares esta ainda viva."^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_PT a :TranslationVariant ;
+:text "Ela então morrerá, e morrendo destruirá alguém."^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_PT a :TranslationVariant ;
+:text "De fato, ameaçando assim, avanças ousado?"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_PT a :TranslationVariant ;
+:text "Que ameaça há em falar contra pensamentos vazios?"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_PT a :TranslationVariant ;
+:text "Chorando me instruirás, tu mesmo vazio de juízo."^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_PT a :TranslationVariant ;
+:text "Se não fosses meu pai, eu diria que não pensas bem."^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_PT a :TranslationVariant ;
+:text "Tu, escravo de uma mulher, não me bajules."^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_PT a :TranslationVariant ;
+:text "Queres dizer algo e, falando, nada ouvir?"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_PT a :TranslationVariant ;
+:text "É verdade? Mas por este Olimpo, sabe que"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_PT a :TranslationVariant ;
+:text "não te alegrarás em me ultrajar com censuras."^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_PT a :TranslationVariant ;
+:text "Trazei esse objeto de ódio, para que diante dos olhos, agora mesmo,"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_PT a :TranslationVariant ;
+:text "morra presente, junto ao noivo."^^xsd:string ;
+:relatedTo :Line_761 .

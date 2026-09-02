@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-japanese a owl:Ontology .
+# Japanese translation variants for 90_to_99.ttl
+
+:TV_Line_090_JA a :TranslationVariant ;
+:text "たとえあなたにできるとしても。だがあなたは不可能なことを愛している。"^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_JA a :TranslationVariant ;
+:text "それなら、私がもう力を持たなくなった時、私はやめるだろう。"^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_JA a :TranslationVariant ;
+:text "だが初めから不可能なことを追い求めるのはふさわしくない。"^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_JA a :TranslationVariant ;
+:text "もしあなたがそう言うなら、あなたは私からは憎まれるだろうし、"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_JA a :TranslationVariant ;
+:text "死んだ者にも、正当に憎い者として寄り添うだろう。"^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_JA a :TranslationVariant ;
+:text "だが私と、私から出る悪い判断とに任せておきなさい、"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_JA a :TranslationVariant ;
+:text "この恐ろしいことを受けるように。というのも私は"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_JA a :TranslationVariant ;
+:text "美しく死ねないほどの、そんな恐ろしいことは何も受けないだろうから。"^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_JA a :TranslationVariant ;
+:text "だが、あなたがよいと思うなら行きなさい。そしてこのことを知りなさい、"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_JA a :TranslationVariant ;
+:text "あなたは愚かに行くが、友たちには正しく愛しい者として行く。"^^xsd:string ;
+:relatedTo :Line_099 .

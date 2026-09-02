@@ -1,0 +1,35 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-spanish a owl:Ontology .
+# Spanish translation variants for 944_to_965.ttl
+
+:TV_Line_944_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_944 ; :text "También Dánae soportó cambiar la luz celestial"^^xsd:string .
+:TV_Line_945_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_945 ; :text "por su cuerpo encerrado en moradas ceñidas de bronce;"^^xsd:string .
+:TV_Line_946_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_946 ; :text "oculta en una cámara semejante a una tumba, quedó sometida."^^xsd:string .
+:TV_Line_947_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_947 ; :text "Y, sin embargo, era honrada por su linaje, oh hija, hija,"^^xsd:string .
+
+# Lines 948 and 949 do not exist in Antigone.
+
+:TV_Line_950_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_950 ; :text "y guardaba la semilla de Zeus, que fluía en oro."^^xsd:string .
+:TV_Line_951_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_951 ; :text "Pero terrible es cierto poder del destino:"^^xsd:string .
+:TV_Line_952_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_952 ; :text "ni riqueza, ni Ares, ni torre, ni negras naves"^^xsd:string .
+:TV_Line_953_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_953 ; :text "golpeadas por el mar podrían escapar de él."^^xsd:string .
+
+# Line 954 does not exist in Antigone.
+
+:TV_Line_955_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_955 ; :text "También fue sometido el hijo iracundo de Drías,"^^xsd:string .
+:TV_Line_956_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_956 ; :text "rey de los edones, por sus furias burlonas,"^^xsd:string .
+:TV_Line_957_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_957 ; :text "encerrado por Dioniso en prisión rocosa."^^xsd:string .
+:TV_Line_958_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_958 ; :text "Así fue destilándose el terrible vigor"^^xsd:string .
+
+# Line 959 does not exist in Antigone.
+
+:TV_Line_960_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_960 ; :text "y la fuerza floreciente de su locura. Aquel aprendió en sus arrebatos,"^^xsd:string .
+:TV_Line_961_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_961 ; :text "al tocar al dios con lenguas burlonas."^^xsd:string .
+:TV_Line_962_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_962 ; :text "Pues detenía a las mujeres poseídas por el dios y el fuego báquico,"^^xsd:string .
+
+# Lines 963 and 964 do not exist in Antigone.
+
+:TV_Line_965_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_965 ; :text "y provocaba a las Musas amantes de las flautas."^^xsd:string .

@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-hindi a owl:Ontology .
+# Hindi translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_HI a :TranslationVariant ;
+:text "हाय हाय,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_HI a :TranslationVariant ;
+:text "मैं भय से उड़ पड़ा हूँ। किसी ने सामने से"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_HI a :TranslationVariant ;
+:text "दो धार वाली तलवार से मुझे क्यों नहीं मारा?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in Antigone
+
+:TV_Line_1310_HI a :TranslationVariant ;
+:text "अभागा मैं, हाय,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_HI a :TranslationVariant ;
+:text "और अभागे दुःख से मिला हुआ हूँ।"^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_HI a :TranslationVariant ;
+:text "इन और उन दोनों बातों का दोषी होने के कारण"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_HI a :TranslationVariant ;
+:text "इस मृत स्त्री के भाग्य से तू आरोपित किया गया।"^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_HI a :TranslationVariant ;
+:text "और किस प्रकार उसने रक्त में अपने को मुक्त किया?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_HI a :TranslationVariant ;
+:text "अपने हाथ से उसने अपने यकृत के नीचे प्रहार किया,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_HI a :TranslationVariant ;
+:text "जब उसने पुत्र के इस तीव्र-विलापित दुःख को जाना।"^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_HI a :TranslationVariant ;
+:text "हाय मुझ पर, ये बातें कभी किसी दूसरे नश्वर पर"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_HI a :TranslationVariant ;
+:text "मेरे दोष से मेल नहीं खाएँगी।"^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_HI a :TranslationVariant ;
+:text "क्योंकि मैंने, मैंने ही तुझे मारा, हे दयनीय,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_HI a :TranslationVariant ;
+:text "मैं कहता हूँ, यह सत्य है। हे सेवको,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_HI a :TranslationVariant ;
+:text "मुझे जितना शीघ्र हो ले जाओ, मुझे मार्ग से हटा दो,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Line 1322, 1323 and 1324 do not exist in Antigone
+
+:TV_Line_1325_HI a :TranslationVariant ;
+:text "जो कुछ नहीं से भी अधिक कुछ नहीं है।"^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_HI a :TranslationVariant ;
+:text "तू लाभ की सलाह देता है, यदि बुराइयों में कोई लाभ है;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_HI a :TranslationVariant ;
+:text "क्योंकि पैरों के पास की बुराइयों में सबसे छोटी सर्वोत्तम है।"^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_HI a :TranslationVariant ;
+:text "आए, आए,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_HI a :TranslationVariant ;
+:text "मेरे भाग्यों में सबसे सुंदर भाग्य प्रकट हो,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_HI a :TranslationVariant ;
+:text "मेरे लिए अंतिम दिन लाते हुए,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_HI a :TranslationVariant ;
+:text "सबसे अंतिम; आए, आए,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_HI a :TranslationVariant ;
+:text "कि मैं अब कोई और दिन न देखूँ।"^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in Antigone
+
+:TV_Line_1334_HI a :TranslationVariant ;
+:text "ये बातें आने वाले समय की हैं। सामने रखी बातों में से कुछ"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_HI a :TranslationVariant ;
+:text "करना चाहिए; क्योंकि जिनको इनकी चिंता करनी है, वे करेंगे।"^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_HI a :TranslationVariant ;
+:text "पर जिन बातों की मैं कामना करता हूँ, उनके लिए मैंने भी प्रार्थना की है।"^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_HI a :TranslationVariant ;
+:text "अब कुछ भी प्रार्थना मत कर; क्योंकि नियत"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_HI a :TranslationVariant ;
+:text "दुर्भाग्य से नश्वर जनों के लिए कोई मुक्ति नहीं।"^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_HI a :TranslationVariant ;
+:text "इस व्यर्थ पुरुष को मार्ग से ले जाओ,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_HI a :TranslationVariant ;
+:text "जिसने, हे पुत्र, अनिच्छा से तुझे मार डाला,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_HI a :TranslationVariant ;
+:text "और तुझे भी, हे स्त्री; हाय, दयनीय मैं, मेरे पास नहीं"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_HI a :TranslationVariant ;
+:text "किधर देखूँ, कहाँ झुकूँ;"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Line 1343 and 1344 do not exist in Antigone
+
+:TV_Line_1345_HI a :TranslationVariant ;
+:text "क्योंकि हाथों में सब कुछ टेढ़ा है, और मेरे सिर पर"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_HI a :TranslationVariant ;
+:text "असह्य भाग्य आ घुसा है।"^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_HI a :TranslationVariant ;
+:text "बहुत अधिक, बुद्धि सुख-समृद्धि की"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_HI a :TranslationVariant ;
+:text "पहली शर्त है; और देवताओं के प्रति"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in Antigone
+
+:TV_Line_1350_HI a :TranslationVariant ;
+:text "किसी भी तरह अधर्म नहीं करना चाहिए; और बड़े वचन"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_HI a :TranslationVariant ;
+:text "अहंकारियों के बड़े प्रहार चुकाकर"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_HI a :TranslationVariant ;
+:text "दंड देकर"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_HI a :TranslationVariant ;
+:text "बुढ़ापे में बुद्धि सिखाते हैं।"^^xsd:string ;
+:relatedTo :Line_1353 .

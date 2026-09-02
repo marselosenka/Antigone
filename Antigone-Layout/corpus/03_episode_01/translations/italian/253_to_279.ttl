@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-italian a owl:Ontology .
+# Italian translation variants for 253_to_279.ttl
+
+:TV_Line_253_IT a :TranslationVariant ;
+:text "Quando poi il primo guardiano del giorno a noi"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_IT a :TranslationVariant ;
+:text "lo mostrò, per tutti era presente un prodigio penoso;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_IT a :TranslationVariant ;
+:text "quello infatti era sparito, non in forma di tomba,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_IT a :TranslationVariant ;
+:text "ma sottile polvere stava sopra, come di uno che fugge contaminazione."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_IT a :TranslationVariant ;
+:text "Segni né di bestia né di qualche cane"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_IT a :TranslationVariant ;
+:text "venuto e non lacerante apparivano."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_IT a :TranslationVariant ;
+:text "Cattive parole rumoreggiavano tra noi,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_IT a :TranslationVariant ;
+:text "guardia accusando guardia, e sarebbe venuta"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_IT a :TranslationVariant ;
+:text "alla fine una percossa, e non c'era chi l'avrebbe impedita."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_IT a :TranslationVariant ;
+:text "Infatti ciascuno era in qualche modo colui che aveva compiuto l'opera,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_IT a :TranslationVariant ;
+:text "e nessuno era evidente, ma fuggiva nel non sapere."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_IT a :TranslationVariant ;
+:text "Eravamo pronti anche a sollevare ferri ardenti con le mani,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_IT a :TranslationVariant ;
+:text "e ad attraversare il fuoco, e giurare sugli dèi"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_IT a :TranslationVariant ;
+:text "di non aver fatto né sapere con alcuno"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_IT a :TranslationVariant ;
+:text "che avesse deliberato o compiuto la cosa."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_IT a :TranslationVariant ;
+:text "Alla fine, quando per quelli che cercavano non c'era nulla di più,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_IT a :TranslationVariant ;
+:text "uno parlò, che fece chinare a tutti verso terra il capo"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_IT a :TranslationVariant ;
+:text "per paura; infatti non avevamo modo"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_IT a :TranslationVariant ;
+:text "né di replicare né come, agendo, avremmo fatto bene."^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_IT a :TranslationVariant ;
+:text "La proposta era che si dovesse riferire"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_IT a :TranslationVariant ;
+:text "a te questa opera e non tenerla nascosta."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_IT a :TranslationVariant ;
+:text "E queste cose vinsero, e me sventurato"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_IT a :TranslationVariant ;
+:text "la sorte designa a prendere questo bene."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_IT a :TranslationVariant ;
+:text "Sono presente contro voglia, non presso chi vuole, lo so;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_IT a :TranslationVariant ;
+:text "nessuno infatti ama un messaggero di cattive parole."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_IT a :TranslationVariant ;
+:text "Signore, a me da tempo il pensiero valuta se"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_IT a :TranslationVariant ;
+:text "questa opera non sia anche qualcosa mosso da un dio."^^xsd:string ;
+:relatedTo :Line_279 .

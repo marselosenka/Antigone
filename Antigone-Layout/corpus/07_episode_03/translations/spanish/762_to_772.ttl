@@ -1,0 +1,18 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-spanish a owl:Ontology .
+# Spanish translation variants for 762_to_772.ttl
+
+:TV_Line_762_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_762 ; :text "No, al menos ante mí; eso no lo pienses jamás."^^xsd:string .
+:TV_Line_763_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_763 ; :text "Ni ella morirá cerca de mí, ni tú nunca"^^xsd:string .
+:TV_Line_764_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_764 ; :text "volverás a mirar mi rostro con tus ojos,"^^xsd:string .
+:TV_Line_765_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_765 ; :text "para que delires en compañía de los amigos que quieran."^^xsd:string .
+:TV_Line_766_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_766 ; :text "El hombre, señor, se ha marchado rápido por ira."^^xsd:string .
+:TV_Line_767_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_767 ; :text "Una mente tan joven, cuando sufre, se vuelve pesada."^^xsd:string .
+:TV_Line_768_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_768 ; :text "Que actúe; que piense en algo más grande de lo que corresponde a un hombre."^^xsd:string .
+:TV_Line_769_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_769 ; :text "Pero no librará a estas dos muchachas de su destino."^^xsd:string .
+:TV_Line_770_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_770 ; :text "¿Piensas entonces matar a las dos?"^^xsd:string .
+:TV_Line_771_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_771 ; :text "No a la que no tocó el hecho; en eso dices bien."^^xsd:string .
+:TV_Line_772_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_772 ; :text "¿Y con qué muerte decides matar a la otra?"^^xsd:string .

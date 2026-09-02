@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-portuguese a owl:Ontology .
+# Portuguese translation variants for 366_to_383.ttl
+
+:TV_Line_366_PT a :TranslationVariant ;
+:text "ora para o mal, outra vez para o bem se arrasta,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_PT a :TranslationVariant ;
+:text "honrando as leis da terra e a justiça jurada dos deuses,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Lines 368 and 369 are commented out in canonical.
+
+:TV_Line_370_PT a :TranslationVariant ;
+:text "alto na cidade; sem cidade é aquele a quem o não belo"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_PT a :TranslationVariant ;
+:text "acompanha por causa da audácia. Que junto ao meu fogo"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Lines 372, 373, and 374 are commented out in canonical.
+
+:TV_Line_375_PT a :TranslationVariant ;
+:text "não venha, nem pense igual a mim, quem faz estas coisas."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_PT a :TranslationVariant ;
+:text "Diante de prodígio divino fico em dupla dúvida"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_PT a :TranslationVariant ;
+:text "sobre isto; como, sabendo, contestarei"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_PT a :TranslationVariant ;
+:text "que esta não é a jovem Antígona?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_PT a :TranslationVariant ;
+:text "Ó infeliz"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_PT a :TranslationVariant ;
+:text "e filha do infeliz pai Édipo,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_PT a :TranslationVariant ;
+:text "que é isto? Não te levam, por certo, como desobediente"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_PT a :TranslationVariant ;
+:text "às leis reais"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_PT a :TranslationVariant ;
+:text "e apanhada em insensatez?"^^xsd:string ;
+:relatedTo :Line_383 .

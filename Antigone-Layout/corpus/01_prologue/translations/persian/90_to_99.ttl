@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-persian a owl:Ontology .
+# Persian translation variants for 90_to_99.ttl
+
+:TV_Line_090_FA a :TranslationVariant ;
+:text "اگر هم بتوانی؛ اما دلبسته ناممکن‌ها هستی."^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_FA a :TranslationVariant ;
+:text "پس، آنگاه که دیگر توان نداشته باشم، بازخواهم ایستاد."^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_FA a :TranslationVariant ;
+:text "اما از آغاز شکار ناممکن‌ها سزاوار نیست."^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_FA a :TranslationVariant ;
+:text "اگر اینها را بگویی، از سوی من منفور خواهی شد،"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_FA a :TranslationVariant ;
+:text "و به حق نزد مرده نیز دشمن خواهی ماند."^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_FA a :TranslationVariant ;
+:text "اما بگذار من و بی‌خردی برخاسته از خودم"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_FA a :TranslationVariant ;
+:text "این امر هولناک را تحمل کنیم؛ زیرا هیچ چیزی را چنان"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_FA a :TranslationVariant ;
+:text "تحمل نخواهم کرد که مرا از مرگی زیبا بازدارد."^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_FA a :TranslationVariant ;
+:text "پس اگر به نظرت می‌رسد، برو؛ اما این را بدان که"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_FA a :TranslationVariant ;
+:text "بی‌خردانه می‌روی، ولی برای دوستانت به‌درستی عزیز هستی."^^xsd:string ;
+:relatedTo :Line_099 .

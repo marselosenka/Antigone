@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-portuguese a owl:Ontology .
+# Portuguese translation variants for 929_to_943.ttl
+
+:TV_Line_929_PT a :TranslationVariant ;
+:text "Ainda dos mesmos ventos estes mesmos"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_PT a :TranslationVariant ;
+:text "golpes da alma a possuem."^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_PT a :TranslationVariant ;
+:text "Portanto, aos que a conduzem, por causa disso,"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_PT a :TranslationVariant ;
+:text "haverá prantos por sua demora."^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_PT a :TranslationVariant ;
+:text "Ai de mim, muito perto da morte"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_PT a :TranslationVariant ;
+:text "esta palavra chegou."^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_PT a :TranslationVariant ;
+:text "Não te exorto de modo algum a ter coragem"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_PT a :TranslationVariant ;
+:text "de que estas coisas não sejam assim confirmadas."^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_PT a :TranslationVariant ;
+:text "Ó cidade paterna da terra de Tebas"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_PT a :TranslationVariant ;
+:text "e deuses ancestrais,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_PT a :TranslationVariant ;
+:text "sou conduzida já, e não mais demoro."^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_PT a :TranslationVariant ;
+:text "Vede, governantes de Tebas,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_PT a :TranslationVariant ;
+:text "a única restante dos reis,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_PT a :TranslationVariant ;
+:text "que coisas sofro, e por homens de que espécie,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_PT a :TranslationVariant ;
+:text "por ter reverenciado a piedade."^^xsd:string ;
+:relatedTo :Line_943 .

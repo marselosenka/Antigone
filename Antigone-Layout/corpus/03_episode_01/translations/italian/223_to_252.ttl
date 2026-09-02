@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-italian a owl:Ontology .
+# Italian translation variants for 223_to_252.ttl
+
+:TV_Line_223_IT a :TranslationVariant ;
+:text "Signore, dirò non che sotto impulso di fretta"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_IT a :TranslationVariant ;
+:text "giungo ansante, sollevando piede leggero."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_IT a :TranslationVariant ;
+:text "Molte infatti ebbi soste di pensieri,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_IT a :TranslationVariant ;
+:text "girando me stesso sulle strade verso il ritorno;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_IT a :TranslationVariant ;
+:text "infatti l'anima mi parlava molto, narrando:"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_IT a :TranslationVariant ;
+:text "infelice, perché vai dove, giunto, pagherai pena?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_IT a :TranslationVariant ;
+:text "miserabile, ti fermerai ancora? E se Creonte saprà queste cose"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_IT a :TranslationVariant ;
+:text "da un altro uomo, come dunque tu non soffrirai?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_IT a :TranslationVariant ;
+:text "Rivolgendo tali cose, avanzavo lentamente con indugio,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_IT a :TranslationVariant ;
+:text "e così una strada breve diventa lunga."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_IT a :TranslationVariant ;
+:text "Alla fine però vinse il venire qui"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_IT a :TranslationVariant ;
+:text "da te; e anche se dirò il nulla, parlerò tuttavia."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_IT a :TranslationVariant ;
+:text "Vengo infatti aggrappato alla speranza,"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_IT a :TranslationVariant ;
+:text "di non subire altro se non ciò che è destinato."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_IT a :TranslationVariant ;
+:text "Che cos'è, per cui hai questo scoraggiamento?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_IT a :TranslationVariant ;
+:text "Voglio dirti prima le cose mie; infatti il"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_IT a :TranslationVariant ;
+:text "fatto né lo feci né vidi chi fosse colui che agiva,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_IT a :TranslationVariant ;
+:text "né giustamente potrei cadere in qualche male."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_IT a :TranslationVariant ;
+:text "Bene miri e ti barrichi in cerchio"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_IT a :TranslationVariant ;
+:text "intorno alla cosa; mostri che segnalerai qualcosa di nuovo."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_IT a :TranslationVariant ;
+:text "Infatti le cose terribili aggiungono molto indugio."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_IT a :TranslationVariant ;
+:text "Non parlerai dunque una buona volta, e poi, liberato, te ne andrai?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_IT a :TranslationVariant ;
+:text "E già ti dico: il morto qualcuno poco fa"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_IT a :TranslationVariant ;
+:text "dopo averlo seppellito se n'è andato, e sulla pelle polvere assetata"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_IT a :TranslationVariant ;
+:text "spargendo e compiendo le purificazioni che occorrono."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_IT a :TranslationVariant ;
+:text "Che dici? Chi degli uomini osò queste cose?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_IT a :TranslationVariant ;
+:text "Non lo so; là infatti non c'era colpo"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_IT a :TranslationVariant ;
+:text "di scure né scavo di zappa; dura era la terra"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_IT a :TranslationVariant ;
+:text "e asciutta, non spaccata né percorsa"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_IT a :TranslationVariant ;
+:text "da ruote, ma l'artefice era qualcuno senza segno."^^xsd:string ;
+:relatedTo :Line_252 .

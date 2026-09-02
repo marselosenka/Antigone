@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-japanese a owl:Ontology .
+# Japanese translation variants for 988_to_1032.ttl
+
+:TV_Line_988_JA a :TranslationVariant ;
+:text "テーバイの君たちよ、私たちは共通の道を来た、"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_JA a :TranslationVariant ;
+:text "一人の目で二人が見ながら。盲人にとっては"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_JA a :TranslationVariant ;
+:text "この道は案内者によって成り立つものだからだ。"^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_JA a :TranslationVariant ;
+:text "何事だ、老いたティレシアスよ、新しいことは。"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_JA a :TranslationVariant ;
+:text "私が教えよう。そしてあなたは予言者に従え。"^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_JA a :TranslationVariant ;
+:text "実際、以前には私はあなたの心から離れて立ったことはなかった。"^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_JA a :TranslationVariant ;
+:text "だからこそ、あなたはこの町をまっすぐな道で舵取りしている。"^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_JA a :TranslationVariant ;
+:text "私は受けた利益によって、それが有益だったと証言できる。"^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_JA a :TranslationVariant ;
+:text "今また、運命の刃の上に立っていると心得よ。"^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_JA a :TranslationVariant ;
+:text "何事だ。私はあなたの口を恐れて震える。"^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_JA a :TranslationVariant ;
+:text "私の技のしるしを聞いて、あなたは知るだろう。"^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_JA a :TranslationVariant ;
+:text "というのも、古い鳥占いの座へ"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_JA a :TranslationVariant ;
+:text "座った時、そこはあらゆる鳥の港だったが、"^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_JA a :TranslationVariant ;
+:text "私は鳥たちの見知らぬ声を聞いた、悪い"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_JA a :TranslationVariant ;
+:text "狂乱と野蛮な声で鳴き叫ぶ声を。"^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_JA a :TranslationVariant ;
+:text "そして殺意ある爪で互いを裂いているのだと"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_JA a :TranslationVariant ;
+:text "私は知った。翼のざわめきは不明瞭ではなかったからだ。"^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_JA a :TranslationVariant ;
+:text "すぐに恐れて、私は焼き尽くす供物を試みた、"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_JA a :TranslationVariant ;
+:text "あらゆる側から燃える祭壇で。だが犠牲からは"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_JA a :TranslationVariant ;
+:text "ヘファイストスは輝かず、むしろ灰の上で"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_JA a :TranslationVariant ;
+:text "腿の脂からにじむ液が溶け崩れ、"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_JA a :TranslationVariant ;
+:text "煙を上げ、吐き出し、空高く"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_JA a :TranslationVariant ;
+:text "胆汁が飛び散り、落ち崩れた"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_JA a :TranslationVariant ;
+:text "腿骨は覆う脂肪から裸になって横たわっていた。"^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_JA a :TranslationVariant ;
+:text "このようなことを、私はこの少年から学んだ、"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_JA a :TranslationVariant ;
+:text "しるしなき儀式の予言が衰えていることを。"^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_JA a :TranslationVariant ;
+:text "彼は私の案内者であり、私は他の者たちの案内者だからだ。"^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_JA a :TranslationVariant ;
+:text "そしてこれらのことにより、あなたの心からこの町は病んでいる。"^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_JA a :TranslationVariant ;
+:text "というのも、私たちの祭壇と完全な炉は"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_JA a :TranslationVariant ;
+:text "鳥たちと犬たちの餌で満ちている、"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_JA a :TranslationVariant ;
+:text "不幸に倒れたオイディプスの子からの餌で。"^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_JA a :TranslationVariant ;
+:text "それゆえ神々は、もはや私たちから"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_JA a :TranslationVariant ;
+:text "犠牲の祈りも、腿肉の炎も受け取らず、"^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_JA a :TranslationVariant ;
+:text "鳥もよいしるしの叫びを響かせない、"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_JA a :TranslationVariant ;
+:text "人を殺す血の脂を食べたからだ。"^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_JA a :TranslationVariant ;
+:text "だから、子よ、これらを考えよ。人間たちには"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_JA a :TranslationVariant ;
+:text "すべての者に共通して、過ちを犯すことがある。"^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_JA a :TranslationVariant ;
+:text "だが過ちを犯した後、その者はもはや"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_JA a :TranslationVariant ;
+:text "無思慮でも不幸でもない、災いに"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_JA a :TranslationVariant ;
+:text "落ちてそれを癒やし、動かぬままでいない者ならば。"^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_JA a :TranslationVariant ;
+:text "頑固さは、まことに愚かさの罪を負う。"^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_JA a :TranslationVariant ;
+:text "だが死んだ者に譲れ。滅びた者を"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_JA a :TranslationVariant ;
+:text "刺すな。死んだ者をさらに殺すことに、どんな力があるのか。"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_JA a :TranslationVariant ;
+:text "あなたのためによく考えて、私はよく語る。学ぶことは"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_JA a :TranslationVariant ;
+:text "よく語る者からなら最も甘い、もし利益をもたらすならば。"^^xsd:string ;
+:relatedTo :Line_1032 .

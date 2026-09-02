@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-french a owl:Ontology .
+# French translation variants for 536_to_562.ttl
+
+:TV_Line_536_FR a :TranslationVariant ;
+:text "J’ai fait l’acte, si celle-ci y consent,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_FR a :TranslationVariant ;
+:text "et j’y prends part avec elle, et je porte l’accusation."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_FR a :TranslationVariant ;
+:text "Mais la justice ne te permettra pas cela, puisque"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_FR a :TranslationVariant ;
+:text "ni tu ne l’as voulu, ni moi je ne t’ai associée."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_FR a :TranslationVariant ;
+:text "Mais dans tes maux, je n’ai pas honte"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_FR a :TranslationVariant ;
+:text "de me faire compagne de navigation de ta souffrance."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_FR a :TranslationVariant ;
+:text "De qui est l’acte, Hadès et ceux d’en bas en sont témoins ;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_FR a :TranslationVariant ;
+:text "mais par des paroles, moi, je n’aime pas une amie qui aime."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_FR a :TranslationVariant ;
+:text "Ne me déshonore donc pas, sœur, en me refusant"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_FR a :TranslationVariant ;
+:text "de mourir avec toi et de purifier le mort."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_FR a :TranslationVariant ;
+:text "Ne meurs pas avec moi en commun, et ne fais pas tiennes"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_FR a :TranslationVariant ;
+:text "les choses auxquelles tu n’as pas touché. Moi, mourante, je suffirai."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_FR a :TranslationVariant ;
+:text "Et quelle vie me serait chère, laissée sans toi ?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_FR a :TranslationVariant ;
+:text "Interroge Créon ; car c’est de lui que tu te soucies."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_FR a :TranslationVariant ;
+:text "Pourquoi me peines-tu ainsi, sans en rien profiter ?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_FR a :TranslationVariant ;
+:text "Certes, c’est en souffrant que je ris, si vraiment je ris de toi."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_FR a :TranslationVariant ;
+:text "Comment donc pourrais-je encore maintenant t’aider autrement ?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_FR a :TranslationVariant ;
+:text "Sauve-toi toi-même ; je ne t’envie pas d’échapper."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_FR a :TranslationVariant ;
+:text "Hélas, malheureuse, manquerai-je aussi ton destin ?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_FR a :TranslationVariant ;
+:text "Car toi, tu as choisi de vivre, et moi de mourir."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_FR a :TranslationVariant ;
+:text "Mais ce ne fut pas sans paroles dites par moi."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_FR a :TranslationVariant ;
+:text "Toi, tu semblais bien penser aux uns ; moi, aux autres."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_FR a :TranslationVariant ;
+:text "Et pourtant égale pour nous deux est la faute."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_FR a :TranslationVariant ;
+:text "Prends courage ; toi, tu vis, mais mon âme, depuis longtemps,"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_FR a :TranslationVariant ;
+:text "est morte, afin de secourir les morts."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_FR a :TranslationVariant ;
+:text "Je dis que ces deux enfants, l’une à l’instant"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_FR a :TranslationVariant ;
+:text "s’est montrée sans raison, l’autre depuis qu’elle est née d’abord."^^xsd:string ;
+:relatedTo :Line_562 .

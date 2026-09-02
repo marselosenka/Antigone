@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-japanese a owl:Ontology .
+# Japanese translation variants for 872_to_928.ttl
+
+:TV_Line_872_JA a :TranslationVariant ;
+:text "敬うことは、ある種の敬虔である。"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_JA a :TranslationVariant ;
+:text "だが権力は、権力を気にかける者にとって、"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_JA a :TranslationVariant ;
+:text "決して踏み越えられるものではない。"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_JA a :TranslationVariant ;
+:text "あなたを滅ぼしたのは、自ら判断した気質である。"^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_JA a :TranslationVariant ;
+:text "泣かれず、友もなく、婚礼歌もなく、哀れな私は連れて行かれる、"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_JA a :TranslationVariant ;
+:text "最後の道を。もはや私にはこの"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_JA a :TranslationVariant ;
+:text "松明の聖なる目を"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in Antigone
+
+:TV_Line_880_JA a :TranslationVariant ;
+:text "見る掟はない、哀れな私には。"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_JA a :TranslationVariant ;
+:text "そして私の運命を、涙なしに、"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_JA a :TranslationVariant ;
+:text "友の誰も嘆かない。"^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_JA a :TranslationVariant ;
+:text "死ぬ前の歌と嘆きを、あなた方は知っているのか、"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_JA a :TranslationVariant ;
+:text "もし必要なら語っても、一人として止められないほどに。"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_JA a :TranslationVariant ;
+:text "できるだけ早く連れて行かないのか。そして屋根ある"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_JA a :TranslationVariant ;
+:text "墓で包み、私が言ったように、"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_JA a :TranslationVariant ;
+:text "彼女をただ一人、孤独に放っておけ。死なねばならぬなら、"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_JA a :TranslationVariant ;
+:text "あるいはこのような住まいの墓で生きたまま埋められねばならぬなら。"^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_JA a :TranslationVariant ;
+:text "我々はこの娘に関することでは清い。"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_JA a :TranslationVariant ;
+:text "しかし上の世界での同居からは奪われるだろう。"^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_JA a :TranslationVariant ;
+:text "おお墓よ、おお婚礼の間よ、おお掘り下げられた"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_JA a :TranslationVariant ;
+:text "住まい、永遠に見張られる家よ、そこへ私は進む。"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_JA a :TranslationVariant ;
+:text "私自身の者たちのもとへ。彼らの数を死者たちの中で"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_JA a :TranslationVariant ;
+:text "ペルセファッサが滅びた者として最も多く受け入れている。"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_JA a :TranslationVariant ;
+:text "その者たちの最後として、私は、はるかに最も悪く"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_JA a :TranslationVariant ;
+:text "下って行く、私の生の分け前が尽きる前に。"^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_JA a :TranslationVariant ;
+:text "それでも、到着すれば、私は強く希望の中で養われている、"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_JA a :TranslationVariant ;
+:text "父には愛しい者として行くだろう、あなたにも親愛なる者として、"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_JA a :TranslationVariant ;
+:text "母よ、そしてあなたにも愛しい者として、兄弟の頭よ。"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_JA a :TranslationVariant ;
+:text "というのも、あなた方が死んだ時、私は自分の手で"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_JA a :TranslationVariant ;
+:text "洗い、整え、墓前の"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_JA a :TranslationVariant ;
+:text "供えの酒を捧げた。だが今、ポリュネイケスよ、あなたの"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_JA a :TranslationVariant ;
+:text "体を包み整えたことで、このような報いを得ている。"^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_JA a :TranslationVariant ;
+:text "それでも私は、よく考える者たちにとって、あなたを敬ったのだ。"^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_JA a :TranslationVariant ;
+:text "というのも、もし私が子らの母であったとしても、"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_JA a :TranslationVariant ;
+:text "またもし夫が死んで私のために朽ちていたとしても、"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_JA a :TranslationVariant ;
+:text "市民たちの力に逆らって、この苦労を選ぶことはなかっただろう。"^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_JA a :TranslationVariant ;
+:text "どのような法のために、私はこれらを喜びとして言うのか。"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_JA a :TranslationVariant ;
+:text "夫が死んでも、私には別の夫があり得た、"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_JA a :TranslationVariant ;
+:text "またこの者を失ったなら、別の男から子もあり得た。"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_JA a :TranslationVariant ;
+:text "だが母と父がハデスの中に隠されているなら、"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_JA a :TranslationVariant ;
+:text "兄弟は決して新たに芽生えることはない。"^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_JA a :TranslationVariant ;
+:text "このような法によって、私はあなたを特に敬った。"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_JA a :TranslationVariant ;
+:text "だがクレオンには、これが過ちであり、"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_JA a :TranslationVariant ;
+:text "恐ろしいことをあえてすることと思われたのだ、兄弟の頭よ。"^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_JA a :TranslationVariant ;
+:text "そして今、彼はこのように私を手で捕らえて連れて行く、"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_JA a :TranslationVariant ;
+:text "寝床なく、婚礼歌もなく、結婚の"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_JA a :TranslationVariant ;
+:text "分け前も、子を養う分け前も得ていない私を。"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_JA a :TranslationVariant ;
+:text "このように友たちから孤独にされた不幸な私は、"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_JA a :TranslationVariant ;
+:text "生きたまま死者たちの掘られた住まいへ行く。"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_JA a :TranslationVariant ;
+:text "神々のどのような正義を踏み越えたというのか。"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_JA a :TranslationVariant ;
+:text "なぜ私、不幸な者は、なお神々へ"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_JA a :TranslationVariant ;
+:text "目を向けるべきなのか。どの味方を呼ぶべきなのか。なぜならまさに、"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_JA a :TranslationVariant ;
+:text "敬虔に行ったことで、不敬を得たのだから。"^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_JA a :TranslationVariant ;
+:text "だが、もしこれらが神々のもとで美しいことなら、"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_JA a :TranslationVariant ;
+:text "苦しみを受けて、過ちを犯した者として認めよう。"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_JA a :TranslationVariant ;
+:text "しかしもしこの者たちが過ちを犯しているなら、これ以上の悪を"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_JA a :TranslationVariant ;
+:text "受けないように、彼らが不正に私へ行っている以上には。"^^xsd:string ;
+:relatedTo :Line_928 .

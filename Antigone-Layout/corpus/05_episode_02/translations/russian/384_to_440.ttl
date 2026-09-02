@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-russian a owl:Ontology .
+# Russian translation variants for 384_to_440.ttl
+
+:TV_Line_384_RU a :TranslationVariant ;
+:text "Вот она, та самая, совершившая это дело;"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_RU a :TranslationVariant ;
+:text "мы схватили ее, когда она хоронила. Но где Креонт?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_RU a :TranslationVariant ;
+:text "Вот он из дома возвращается как раз к нужному."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_RU a :TranslationVariant ;
+:text "Что такое? С какой соразмерной судьбой я вышел?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_RU a :TranslationVariant ;
+:text "Владыка, для смертных нет ничего, что нельзя было бы отречься."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_RU a :TranslationVariant ;
+:text "Ибо последующая мысль обманывает суждение; ведь"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_RU a :TranslationVariant ;
+:text "я клялся, что едва ли когда-нибудь приду сюда,"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_RU a :TranslationVariant ;
+:text "из-за твоих угроз, которыми я тогда был обвеян бурей;"^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_RU a :TranslationVariant ;
+:text "но ведь радость вне ожидания"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_RU a :TranslationVariant ;
+:text "и сверх надежд не похожа длиной ни на какую другую усладу;"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_RU a :TranslationVariant ;
+:text "я пришел, хотя клятвами был отрекшимся,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_RU a :TranslationVariant ;
+:text "ведя эту девушку, которая была схвачена, когда"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_RU a :TranslationVariant ;
+:text "украшала могилу. Жребий здесь не трясся,"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_RU a :TranslationVariant ;
+:text "но это мое счастливое находное, не чье-либо другое."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_RU a :TranslationVariant ;
+:text "И теперь, владыка, сам взяв ее, как хочешь,"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_RU a :TranslationVariant ;
+:text "суди и изобличай; а я свободен"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_RU a :TranslationVariant ;
+:text "и по праву должен быть избавлен от этих бед."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_RU a :TranslationVariant ;
+:text "Ты ведешь ее каким образом и где взяв?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_RU a :TranslationVariant ;
+:text "Она хоронила того мужа; ты знаешь все."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_RU a :TranslationVariant ;
+:text "Понимаешь ли ты и говоришь ли правильно то, что утверждаешь?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_RU a :TranslationVariant ;
+:text "Я видел ее, как она хоронила того мертвеца,"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_RU a :TranslationVariant ;
+:text "которого ты запретил. Разве я не говорю ясно и очевидно?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_RU a :TranslationVariant ;
+:text "И как она была замечена и схвачена на месте?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_RU a :TranslationVariant ;
+:text "Таково было дело. Когда мы пришли,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_RU a :TranslationVariant ;
+:text "после тех страшных угроз от тебя,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_RU a :TranslationVariant ;
+:text "сместив всю пыль, которая покрывала"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_RU a :TranslationVariant ;
+:text "мертвеца, и хорошо обнажив гниющее тело,"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_RU a :TranslationVariant ;
+:text "мы сидели с вершин холмов, укрытые от ветра,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_RU a :TranslationVariant ;
+:text "избегая, чтобы запах от него не ударил нас,"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_RU a :TranslationVariant ;
+:text "каждый будил другого к бдительности злыми"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_RU a :TranslationVariant ;
+:text "бранными окриками, если кто-то оставил бы этот труд без заботы."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_RU a :TranslationVariant ;
+:text "Так было столько времени, пока в середине"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_RU a :TranslationVariant ;
+:text "эфира не стал яркий круг солнца"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_RU a :TranslationVariant ;
+:text "и зной не разогревал; и тогда внезапно с земли"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_RU a :TranslationVariant ;
+:text "вихрь, подняв небесную бурю-бедствие,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_RU a :TranslationVariant ;
+:text "наполняет равнину, терзая всю листву"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_RU a :TranslationVariant ;
+:text "равнинного леса, и великий"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_RU a :TranslationVariant ;
+:text "эфир наполнился; закрыв глаза, мы терпели божественную болезнь."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_RU a :TranslationVariant ;
+:text "И когда это спустя долгое время прошло,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_RU a :TranslationVariant ;
+:text "девушка видна, и она издает горький"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_RU a :TranslationVariant ;
+:text "острый звук птицы, как когда она видит"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_RU a :TranslationVariant ;
+:text "ложе птенцов пустым и осиротелым."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_RU a :TranslationVariant ;
+:text "Так и она, когда видит мертвеца обнаженным,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_RU a :TranslationVariant ;
+:text "разрыдалась в стенаниях и злые проклятия"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_RU a :TranslationVariant ;
+:text "проклинала тем, кто совершил это дело."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_RU a :TranslationVariant ;
+:text "И руками тотчас несет жаждущую пыль,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_RU a :TranslationVariant ;
+:text "и из хорошо выкованного медного кувшина сверху"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_RU a :TranslationVariant ;
+:text "тройными возлияниями венчает мертвеца."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_RU a :TranslationVariant ;
+:text "А мы, увидев, бросились, и вместе ее"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_RU a :TranslationVariant ;
+:text "сразу ловили, ничуть не испуганную,"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_RU a :TranslationVariant ;
+:text "и прежние, и нынешние"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_RU a :TranslationVariant ;
+:text "поступки изобличали; она ни от чего не отрекалась,"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_RU a :TranslationVariant ;
+:text "одновременно мне приятно и мучительно вместе."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_RU a :TranslationVariant ;
+:text "Ведь самому избежать бед"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_RU a :TranslationVariant ;
+:text "сладчайше, но друзей вести в беду"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_RU a :TranslationVariant ;
+:text "мучительно; однако брать все это меньшим"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_RU a :TranslationVariant ;
+:text "для меня естественно, чем мое спасение."^^xsd:string ;
+:relatedTo :Line_440 .

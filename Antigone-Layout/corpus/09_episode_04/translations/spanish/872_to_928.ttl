@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-spanish a owl:Ontology .
+# Spanish translation variants for 872_to_928.ttl
+
+:TV_Line_872_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_872 ; :text "Venerar es, en verdad, cierta piedad;"^^xsd:string .
+:TV_Line_873_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_873 ; :text "pero el poder, para quien se ocupa del poder,"^^xsd:string .
+:TV_Line_874_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_874 ; :text "no puede ser transgredido de ningún modo;"^^xsd:string .
+:TV_Line_875_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_875 ; :text "y tu carácter decidido por sí mismo te ha destruido."^^xsd:string .
+:TV_Line_876_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_876 ; :text "Sin llanto, sin amigos, sin himeneo, infeliz, soy conducida"^^xsd:string .
+:TV_Line_877_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_877 ; :text "por el último camino. Ya no me es lícito"^^xsd:string .
+:TV_Line_878_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_878 ; :text "ver este ojo sagrado de la antorcha,"^^xsd:string .
+
+# Line 879 does not exist in Antigone.
+
+:TV_Line_880_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_880 ; :text "verlo, a mí, desdichada;"^^xsd:string .
+:TV_Line_881_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_881 ; :text "y mi destino, sin lágrimas,"^^xsd:string .
+:TV_Line_882_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_882 ; :text "ninguno de mis amigos lo lamenta."^^xsd:string .
+:TV_Line_883_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_883 ; :text "¿Sabéis que cantos y gemidos antes de morir"^^xsd:string .
+:TV_Line_884_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_884 ; :text "nadie los haría cesar, si hubiera utilidad en decirlos?"^^xsd:string .
+:TV_Line_885_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_885 ; :text "¿No la llevaréis cuanto antes, y en una tumba cubierta,"^^xsd:string .
+:TV_Line_886_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_886 ; :text "envolviéndola, como yo he dicho,"^^xsd:string .
+:TV_Line_887_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_887 ; :text "la dejaréis sola y desierta, ya deba morir,"^^xsd:string .
+:TV_Line_888_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_888 ; :text "ya viva enterrada en semejante morada?"^^xsd:string .
+:TV_Line_889_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_889 ; :text "Nosotros quedamos puros en lo que toca a esta muchacha;"^^xsd:string .
+:TV_Line_890_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_890 ; :text "pero será privada de su residencia de arriba."^^xsd:string .
+:TV_Line_891_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_891 ; :text "Oh tumba, oh cámara nupcial, oh excavada"^^xsd:string .
+:TV_Line_892_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_892 ; :text "morada, guardiana eterna, adonde me encamino"^^xsd:string .
+:TV_Line_893_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_893 ; :text "hacia los míos, de quienes en el número de los muertos"^^xsd:string .
+:TV_Line_894_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_894 ; :text "Perséfone ha recibido a la mayor parte de los perdidos;"^^xsd:string .
+:TV_Line_895_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_895 ; :text "de ellos, la última yo, y con mucho la más desgraciada,"^^xsd:string .
+:TV_Line_896_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_896 ; :text "desciendo antes de que se agote la porción de mi vida."^^xsd:string .
+:TV_Line_897_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_897 ; :text "Pero al llegar alimento firmemente la esperanza"^^xsd:string .
+:TV_Line_898_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_898 ; :text "de llegar querida para mi padre, querida también para ti,"^^xsd:string .
+:TV_Line_899_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_899 ; :text "madre, y querida para ti, cabeza de mi hermano;"^^xsd:string .
+:TV_Line_900_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_900 ; :text "pues, cuando moristeis, con mis propias manos yo"^^xsd:string .
+:TV_Line_901_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_901 ; :text "os lavé, os adorné y derramé"^^xsd:string .
+:TV_Line_902_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_902 ; :text "libaciones sobre la tumba. Y ahora, Polinices, por tu"^^xsd:string .
+:TV_Line_903_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_903 ; :text "cuerpo, al cubrirlo, gano tales cosas."^^xsd:string .
+:TV_Line_904_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_904 ; :text "Y, sin embargo, ante los sensatos te honré bien."^^xsd:string .
+:TV_Line_905_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_905 ; :text "Pues nunca, ni aunque hubiera sido madre de hijos,"^^xsd:string .
+:TV_Line_906_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_906 ; :text "ni aunque mi esposo, muerto, se consumiera,"^^xsd:string .
+:TV_Line_907_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_907 ; :text "habría tomado este trabajo contra la fuerza de los ciudadanos."^^xsd:string .
+:TV_Line_908_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_908 ; :text "¿En favor de qué ley digo entonces estas cosas?"^^xsd:string .
+:TV_Line_909_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_909 ; :text "Si mi esposo hubiera muerto, habría otro para mí,"^^xsd:string .
+:TV_Line_910_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_910 ; :text "y un hijo de otro hombre, si hubiera perdido a este;"^^xsd:string .
+:TV_Line_911_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_911 ; :text "pero, estando mi madre y mi padre ocultos en el Hades,"^^xsd:string .
+:TV_Line_912_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_912 ; :text "no hay hermano alguno que pudiera nacer jamás."^^xsd:string .
+:TV_Line_913_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_913 ; :text "Por tal ley, entonces, te preferí por encima de todos,"^^xsd:string .
+:TV_Line_914_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_914 ; :text "pero a Creonte le pareció que con esto erraba"^^xsd:string .
+:TV_Line_915_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_915 ; :text "y osaba cosas terribles, cabeza de mi hermano."^^xsd:string .
+:TV_Line_916_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_916 ; :text "Y ahora me conduce, tomándome así por las manos,"^^xsd:string .
+:TV_Line_917_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_917 ; :text "sin lecho, sin himeneo, sin haber obtenido parte alguna"^^xsd:string .
+:TV_Line_918_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_918 ; :text "de matrimonio ni de crianza de hijos,"^^xsd:string .
+:TV_Line_919_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_919 ; :text "sino de este modo, abandonada por los míos, yo, la desdichada,"^^xsd:string .
+:TV_Line_920_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_920 ; :text "voy viva a las excavaciones de los muertos."^^xsd:string .
+:TV_Line_921_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_921 ; :text "¿Qué justicia de los dioses he transgredido?"^^xsd:string .
+:TV_Line_922_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_922 ; :text "¿Por qué debo yo, la infeliz, mirar todavía"^^xsd:string .
+:TV_Line_923_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_923 ; :text "hacia los dioses? ¿A cuál de los aliados llamar? Puesto que, en verdad,"^^xsd:string .
+:TV_Line_924_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_924 ; :text "por obrar piadosamente me he ganado la acusación de impiedad."^^xsd:string .
+:TV_Line_925_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_925 ; :text "Pero si estas cosas son buenas entre los dioses,"^^xsd:string .
+:TV_Line_926_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_926 ; :text "al sufrir reconoceríamos que hemos errado;"^^xsd:string .
+:TV_Line_927_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_927 ; :text "pero si estos son quienes yerran, que no sufran males mayores"^^xsd:string .
+:TV_Line_928_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_928 ; :text "que los que injustamente me hacen."^^xsd:string .

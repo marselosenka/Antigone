@@ -1,0 +1,108 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-582-615-spanish a owl:Ontology .
+# Spanish translation variants for 582_to_615.ttl
+
+# Line 582 does not exist.
+
+:TV_Line_583_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Felices aquellos cuya vida no ha probado los males."^^xsd:string ;
+    :relatedTo :Line_583 .
+
+:TV_Line_584_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Pues para quienes una casa es sacudida por los dioses,"^^xsd:string ;
+    :relatedTo :Line_584 .
+
+:TV_Line_585_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "ninguna ruina falta, arrastrándose por multitud de generaciones."^^xsd:string ;
+    :relatedTo :Line_585 .
+
+:TV_Line_586_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Es semejante a las olas marinas cuando, con soplos tempestuosos,"^^xsd:string ;
+    :relatedTo :Line_586 .
+
+:TV_Line_587_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "el viento tracio corre sobre la oscuridad del mar profundo."^^xsd:string ;
+    :relatedTo :Line_587 .
+
+:TV_Line_590_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Revuelve desde el abismo la arena negra,"^^xsd:string ;
+    :relatedTo :Line_590 .
+
+:TV_Line_591_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "y las costas golpeadas de frente braman bajo los malos vientos."^^xsd:string ;
+    :relatedTo :Line_591 .
+
+# Line 592 does not exist in Antigone.
+
+:TV_Line_593_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Veo antiguas penas de la casa de los Labdácidas"^^xsd:string ;
+    :relatedTo :Line_593 .
+
+# Line 594 does not exist in Antigone.
+
+:TV_Line_595_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "caer sobre penas de los muertos ya consumidos."^^xsd:string ;
+    :relatedTo :Line_595 .
+
+:TV_Line_596_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Una generación no libera a otra generación, sino que la derriba"^^xsd:string ;
+    :relatedTo :Line_596 .
+
+:TV_Line_597_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "algún dios, y no tiene liberación. Pues ahora, desde las últimas"^^xsd:string ;
+    :relatedTo :Line_597 .
+
+# Lines 598 and 599 do not exist in Antigone.
+
+:TV_Line_600_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "raíces, la luz que se extendía en la casa de Edipo"^^xsd:string ;
+    :relatedTo :Line_600 .
+
+:TV_Line_601_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "la siega el polvo sangriento de los dioses inferiores,"^^xsd:string ;
+    :relatedTo :Line_601 .
+
+:TV_Line_602_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "por la insensatez de la palabra y el delirio de la mente."^^xsd:string ;
+    :relatedTo :Line_602 .
+
+# Lines 603 and 604 do not exist in Antigone.
+
+:TV_Line_605_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Tu poder, Zeus, ¿qué transgresión de los hombres podría contenerlo?"^^xsd:string ;
+    :relatedTo :Line_605 .
+
+:TV_Line_606_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Ni el sueño, que todo envejece, lo toma jamás,"^^xsd:string ;
+    :relatedTo :Line_606 .
+
+:TV_Line_607_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "ni los meses incansables de los dioses; en tiempo sin vejez"^^xsd:string ;
+    :relatedTo :Line_607 .
+
+:TV_Line_610_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "como soberano posees el resplandor marmóreo del Olimpo."^^xsd:string ;
+    :relatedTo :Line_610 .
+
+:TV_Line_611_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Lo que viene después, lo que ha de venir,"^^xsd:string ;
+    :relatedTo :Line_611 .
+
+:TV_Line_612_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "y lo anterior, todo lo alcanzará"^^xsd:string ;
+    :relatedTo :Line_612 .
+
+:TV_Line_613_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "esta ley: nada de lo grande avanza"^^xsd:string ;
+    :relatedTo :Line_613 .
+
+:TV_Line_614_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "en la vida de los mortales sin ruina."^^xsd:string ;
+    :relatedTo :Line_614 .
+
+:TV_Line_615_ES a owl:NamedIndividual, :TranslationVariant ;
+    :text "Pues la esperanza muy errante es para muchos hombres beneficio,"^^xsd:string ;
+    :relatedTo :Line_615 .

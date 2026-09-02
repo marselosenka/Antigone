@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-russian a owl:Ontology .
+# Russian translation variants for 635_to_680.ttl
+
+:TV_Line_635_RU a :TranslationVariant ;
+:text "Отец, я твой, и ты, имея для меня"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_RU a :TranslationVariant ;
+:text "добрые суждения, направляешь меня прямо; им я последую."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_RU a :TranslationVariant ;
+:text "Ибо для меня никакой брак не будет оценен"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_RU a :TranslationVariant ;
+:text "выше, чем твое хорошее руководство."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_RU a :TranslationVariant ;
+:text "Так, сын, нужно держать в груди:"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_RU a :TranslationVariant ;
+:text "стоять во всем позади отцовского мнения."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_RU a :TranslationVariant ;
+:text "Ибо ради этого мужи молятся иметь в домах"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_RU a :TranslationVariant ;
+:text "рожденных послушных детей,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_RU a :TranslationVariant ;
+:text "чтобы и врагу воздавали злом"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_RU a :TranslationVariant ;
+:text "и друга чтили наравне с отцом."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_RU a :TranslationVariant ;
+:text "А кто порождает бесполезных детей,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_RU a :TranslationVariant ;
+:text "что иное ты сказал бы о нем, кроме того, что для себя труды"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_RU a :TranslationVariant ;
+:text "он породил, а врагам — большой смех?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_RU a :TranslationVariant ;
+:text "Так никогда, сын, не выбрасывай разум из-за наслаждения"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_RU a :TranslationVariant ;
+:text "ради женщины, зная, что"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_RU a :TranslationVariant ;
+:text "это становится холодным объятием,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_RU a :TranslationVariant ;
+:text "дурная женщина, супруга в доме. Ибо какая"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_RU a :TranslationVariant ;
+:text "рана могла бы быть больше, чем дурной друг?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_RU a :TranslationVariant ;
+:text "Но, плюнув, словно на враждебную, отпусти"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_RU a :TranslationVariant ;
+:text "эту девушку в Аиде сочетаться браком с кем-нибудь."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_RU a :TranslationVariant ;
+:text "Ибо раз я сам явно схватил ее,"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_RU a :TranslationVariant ;
+:text "единственную из всего города, не повинующуюся,"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_RU a :TranslationVariant ;
+:text "я не поставлю себя лжецом перед городом,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_RU a :TranslationVariant ;
+:text "но убью ее. Пусть к этому воспевает Зевса"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_RU a :TranslationVariant ;
+:text "родового. Ведь если прирожденное в родстве"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_RU a :TranslationVariant ;
+:text "я взращу беспорядочным, тем более тех, кто вне рода."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_RU a :TranslationVariant ;
+:text "Ибо тот, кто в собственных делах является мужем"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_RU a :TranslationVariant ;
+:text "добрым, окажется справедливым и в городе."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_RU a :TranslationVariant ;
+:text "А кто, переступая, насилует законы"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_RU a :TranslationVariant ;
+:text "или замышляет приказывать властвующим,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_RU a :TranslationVariant ;
+:text "тот не получит от меня похвалы."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_RU a :TranslationVariant ;
+:text "Но кого город поставит, того нужно слушать"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_RU a :TranslationVariant ;
+:text "и в малом, и в справедливом, и в противоположном."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_RU a :TranslationVariant ;
+:text "И такому мужу я доверился бы,"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_RU a :TranslationVariant ;
+:text "что он хорошо правит и хорошо хочет быть управляемым,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_RU a :TranslationVariant ;
+:text "и в буре копья, поставленный в строй,"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_RU a :TranslationVariant ;
+:text "останется справедливым и добрым соратником."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_RU a :TranslationVariant ;
+:text "Нет зла большего, чем безначалие."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_RU a :TranslationVariant ;
+:text "Оно губит города, оно делает дома"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_RU a :TranslationVariant ;
+:text "опустошенными, оно разрывает бегство"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_RU a :TranslationVariant ;
+:text "союзного копья; а у тех, кто стоит прямо,"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_RU a :TranslationVariant ;
+:text "большинство тел спасает повиновение власти."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_RU a :TranslationVariant ;
+:text "Так нужно защищать установленный порядок,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_RU a :TranslationVariant ;
+:text "и никак нельзя быть побежденным женщиной."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_RU a :TranslationVariant ;
+:text "Лучше ведь, если уж нужно, пасть от мужчины,"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_RU a :TranslationVariant ;
+:text "и тогда нас не назвали бы худшими, чем женщины."^^xsd:string ;
+:relatedTo :Line_680 .

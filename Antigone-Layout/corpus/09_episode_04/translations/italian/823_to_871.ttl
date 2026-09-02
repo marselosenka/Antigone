@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-italian a owl:Ontology .
+# Italian translation variants for 823_to_871.ttl
+
+:TV_Line_823_IT a :TranslationVariant ;
+:text "Ho udito davvero che morì in modo tristissimo l’ospite frigia,"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in canonical.
+
+:TV_Line_825_IT a :TranslationVariant ;
+:text "la figlia di Tantalo, presso la vetta del Sipilo, che come edera tenace"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_IT a :TranslationVariant ;
+:text "un germoglio roccioso domò; e le piogge, mentre ella si scioglie,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_IT a :TranslationVariant ;
+:text "secondo il dire degli uomini,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Lines 828 and 829 do not exist in canonical.
+
+:TV_Line_830_IT a :TranslationVariant ;
+:text "e la neve mai la lasciano; bagna sotto ciglia tutte piangenti"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_IT a :TranslationVariant ;
+:text "i colli; a lei il demone mi addormenta somigliantissima."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Lines 832 and 833 do not exist in canonical.
+
+:TV_Line_834_IT a :TranslationVariant ;
+:text "Ma ella era dea, certo, e nata da dèi,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_IT a :TranslationVariant ;
+:text "noi invece mortali e nati da mortali."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_IT a :TranslationVariant ;
+:text "Eppure, per una morta, è grande anche udire"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_IT a :TranslationVariant ;
+:text "di aver avuto in sorte parte uguale agli dèi,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_IT a :TranslationVariant ;
+:text "da viva e poi da morta."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_IT a :TranslationVariant ;
+:text "Ahimè, sono derisa. Perché, per gli dèi paterni,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_IT a :TranslationVariant ;
+:text "mi oltraggi non quando sono partita, ma davanti a tutti?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_IT a :TranslationVariant ;
+:text "O città, o uomini ricchi della città;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_IT a :TranslationVariant ;
+:text "io, fonti di Dirce,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Lines 843 and 844 do not exist in canonical.
+
+:TV_Line_845_IT a :TranslationVariant ;
+:text "e bosco di Tebe dai bei carri, almeno voi prendo come testimoni,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_IT a :TranslationVariant ;
+:text "come, non pianta dagli amici, e secondo quali leggi"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_IT a :TranslationVariant ;
+:text "vado verso il recinto sepolcrale di una tomba tumulata."^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Lines 848 and 849 do not exist in canonical.
+
+:TV_Line_850_IT a :TranslationVariant ;
+:text "né morta, fra i morti,"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_IT a :TranslationVariant ;
+:text "né partecipe dei vivi, né dei morti."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in canonical.
+
+:TV_Line_853_IT a :TranslationVariant ;
+:text "Avanzata fino all’estremo dell’audacia,"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_IT a :TranslationVariant ;
+:text "contro l’alto piedistallo della Giustizia"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_IT a :TranslationVariant ;
+:text "sei caduta, figlia, molto;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_IT a :TranslationVariant ;
+:text "e paghi una qualche prova paterna."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in canonical.
+
+:TV_Line_858_IT a :TranslationVariant ;
+:text "Hai toccato per me il pensiero più doloroso,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_IT a :TranslationVariant ;
+:text "il lamento tre volte rivoltato per mio padre e per tutto"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_IT a :TranslationVariant ;
+:text "il nostro destino fra i celebri Labdacidi."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_IT a :TranslationVariant ;
+:text "Io, sciagure materne dei letti"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Lines 862, 863, and 864 do not exist in canonical.
+
+:TV_Line_865_IT a :TranslationVariant ;
+:text "e giacigli autogenerati di mia madre sventurata con mio padre,"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_IT a :TranslationVariant ;
+:text "da quali persone io, la misera, un tempo nacqui;"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_IT a :TranslationVariant ;
+:text "verso di loro, maledetta e senza nozze, io vado come compagna di dimora."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Lines 868 and 869 do not exist in canonical.
+
+:TV_Line_870_IT a :TranslationVariant ;
+:text "O fratello, imbattutosi in nozze sventurate,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_IT a :TranslationVariant ;
+:text "morto, hai ucciso me ancora viva."^^xsd:string ;
+:relatedTo :Line_871 .

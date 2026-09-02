@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-arabic a owl:Ontology .
+# Arabic translation variants for 944_to_965.ttl
+
+:TV_Line_944_AR a :TranslationVariant ;
+:text "وقد احتملت دانائي أيضًا أن تستبدل النور السماوي"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_AR a :TranslationVariant ;
+:text "بجسدها في ساحات موثقة بالنحاس؛"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_AR a :TranslationVariant ;
+:text "وهي مختفية في مخدع شبيه بالقبر، سُخّرت إلى رباطها؛"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_AR a :TranslationVariant ;
+:text "ومع ذلك كانت مكرمة في نسبها، يا طفلتي، يا طفلتي،"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Line 948 and 949 do not exist in Antigone
+
+:TV_Line_950_AR a :TranslationVariant ;
+:text "وكانت تحفظ ذرية زيوس الذهبية السيلان."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_AR a :TranslationVariant ;
+:text "لكن قوة القدر، أية قوة، رهيبة؛"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_AR a :TranslationVariant ;
+:text "لا الغنى، ولا آريس، ولا برج، ولا السفن السوداء"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_AR a :TranslationVariant ;
+:text "المضروبة بأمواج البحر، يستطيعون الإفلات منها."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in Antigone
+
+:TV_Line_955_AR a :TranslationVariant ;
+:text "وقُيّد أيضًا ابن درياس، سريع الغضب،"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_AR a :TranslationVariant ;
+:text "ملك الإدونيين، بسبب سخرياته وغضباته"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_AR a :TranslationVariant ;
+:text "من ديونيسوس، محبوسًا في قيد صخري."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_AR a :TranslationVariant ;
+:text "هكذا يتقطر منه هول الجنون"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in Antigone
+
+:TV_Line_960_AR a :TranslationVariant ;
+:text "وقوته المزهرة؛ فقد عرف ذلك الرجل، في جنونه،"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_AR a :TranslationVariant ;
+:text "أنه كان يمسّ الإله بألسنة ساخرة."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_AR a :TranslationVariant ;
+:text "فقد كان يوقف النساء المملوءات بالإله والنار الصارخة إيوي،"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Line 963 and 964 do not exist in Antigone
+
+:TV_Line_965_AR a :TranslationVariant ;
+:text "وكان يهيّج ربات الفنون المحبات للمزامير."^^xsd:string ;
+:relatedTo :Line_965 .

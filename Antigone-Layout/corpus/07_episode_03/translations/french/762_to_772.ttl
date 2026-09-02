@@ -1,0 +1,28 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-french a owl:Ontology .
+# French translation variants for 762_to_772.ttl
+
+:TV_Line_762_FR a :TranslationVariant ;
+:text "Non certes, du moins pas pour moi ; ne pense jamais cela."^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_FR a :TranslationVariant ;
+:text "Qu’il agisse, qu’il pense plus grandement qu’il ne convient à un homme en partant ;"^^xsd:string ;
+:relatedTo :Line_763 .
+
+# Lines 764, 765, 766, 767 and 768 do not exist in canonical.
+
+:TV_Line_769_FR a :TranslationVariant ;
+:text "Car tu penses les tuer toutes deux, elle et sa sœur ?"^^xsd:string ;
+:relatedTo :Line_769 .
+
+# Line 770 does not exist in canonical.
+
+:TV_Line_771_FR a :TranslationVariant ;
+:text "Et par quel sort projette-t-il de la tuer ?"^^xsd:string ;
+:relatedTo :Line_771 .
+
+# Line 772 does not exist in canonical.

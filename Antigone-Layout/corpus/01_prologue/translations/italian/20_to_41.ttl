@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-italian a owl:Ontology .
+# Italian translation variants for 20_to_41.ttl
+
+:TV_Line_20_IT a :TranslationVariant ;
+:text "Che cosa c'è? Infatti riveli una parola agitata."^^xsd:string ;
+:relatedTo :Line_20 .
+
+:TV_Line_21_IT a :TranslationVariant ;
+:text "Non ha forse Creonte, dei due nostri fratelli,"^^xsd:string ;
+:relatedTo :Line_21 .
+
+:TV_Line_22_IT a :TranslationVariant ;
+:text "onorato l'uno con sepoltura e disonorato l'altro?"^^xsd:string ;
+:relatedTo :Line_22 .
+
+:TV_Line_23_IT a :TranslationVariant ;
+:text "Eteocle, come dicono, servendosi di giustizia"^^xsd:string ;
+:relatedTo :Line_23 .
+
+:TV_Line_24_IT a :TranslationVariant ;
+:text "giusta e di legge, sotto terra"^^xsd:string ;
+:relatedTo :Line_24 .
+
+:TV_Line_25_IT a :TranslationVariant ;
+:text "lo nascose, onorato tra i morti di laggiù;"^^xsd:string ;
+:relatedTo :Line_25 .
+
+:TV_Line_26_IT a :TranslationVariant ;
+:text "ma il cadavere di Polinice, morto miseramente,"^^xsd:string ;
+:relatedTo :Line_26 .
+
+:TV_Line_27_IT a :TranslationVariant ;
+:text "dicono sia stato proclamato ai cittadini che nessuno"^^xsd:string ;
+:relatedTo :Line_27 .
+
+:TV_Line_28_IT a :TranslationVariant ;
+:text "lo copra con tomba né alcuno lo pianga,"^^xsd:string ;
+:relatedTo :Line_28 .
+
+:TV_Line_29_IT a :TranslationVariant ;
+:text "ma sia lasciato senza pianto, insepolto, dolce tesoro"^^xsd:string ;
+:relatedTo :Line_29 .
+
+:TV_Line_30_IT a :TranslationVariant ;
+:text "per gli uccelli che lo guardano, per il piacere del pasto."^^xsd:string ;
+:relatedTo :Line_30 .
+
+:TV_Line_31_IT a :TranslationVariant ;
+:text "Tali cose dicono che il buon Creonte a te"^^xsd:string ;
+:relatedTo :Line_31 .
+
+:TV_Line_32_IT a :TranslationVariant ;
+:text "e a me, dico infatti anche a me, abbia proclamato,"^^xsd:string ;
+:relatedTo :Line_32 .
+
+:TV_Line_33_IT a :TranslationVariant ;
+:text "e che venga qui per proclamare chiaramente queste cose"^^xsd:string ;
+:relatedTo :Line_33 .
+
+:TV_Line_34_IT a :TranslationVariant ;
+:text "a quelli che non le sanno, e che consideri la cosa"^^xsd:string ;
+:relatedTo :Line_34 .
+
+:TV_Line_35_IT a :TranslationVariant ;
+:text "non come nulla, ma chiunque faccia qualcosa di queste cose"^^xsd:string ;
+:relatedTo :Line_35 .
+
+:TV_Line_36_IT a :TranslationVariant ;
+:text "abbia proposta nella città una morte per lapidazione pubblica."^^xsd:string ;
+:relatedTo :Line_36 .
+
+:TV_Line_37_IT a :TranslationVariant ;
+:text "Così stanno per te queste cose, e presto mostrerai"^^xsd:string ;
+:relatedTo :Line_37 .
+
+:TV_Line_38_IT a :TranslationVariant ;
+:text "se sei nata nobile o cattiva da nobili."^^xsd:string ;
+:relatedTo :Line_38 .
+
+:TV_Line_39_IT a :TranslationVariant ;
+:text "E che cosa, o infelice, se queste cose stanno così, io"^^xsd:string ;
+:relatedTo :Line_39 .
+
+:TV_Line_40_IT a :TranslationVariant ;
+:text "sciogliendo o stringendo potrei aggiungere di più?"^^xsd:string ;
+:relatedTo :Line_40 .
+
+:TV_Line_41_IT a :TranslationVariant ;
+:text "Guarda se condividerai la fatica e collaborerai."^^xsd:string ;
+:relatedTo :Line_41 .

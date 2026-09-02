@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-korean a owl:Ontology .
+# Korean translation variants for 280_to_301.ttl
+
+:TV_Line_280_KO a :TranslationVariant ;
+:text "그만두어라, 네 말이 나까지 분노로 가득 채우기 전에,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_KO a :TranslationVariant ;
+:text "네가 어리석고 동시에 늙은 자로 드러나지 않도록."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_KO a :TranslationVariant ;
+:text "네가 말하는 것은 견딜 수 없는 말이다, 신들이"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_KO a :TranslationVariant ;
+:text "이 죽은 자에 대해 배려를 가진다고 말하니."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_KO a :TranslationVariant ;
+:text "그들이 그를 은인으로 과분히 존중하여"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_KO a :TranslationVariant ;
+:text "감추었단 말인가, 그는 기둥으로 둘러싸인"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_KO a :TranslationVariant ;
+:text "신전들과 봉헌물들을 불태우려고 왔고,"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_KO a :TranslationVariant ;
+:text "그들의 땅과 법들을 흩어 버리려고 했는데?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_KO a :TranslationVariant ;
+:text "아니면 신들이 나쁜 자들을 존중하는 것을 네가 보는가?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_KO a :TranslationVariant ;
+:text "그럴 수 없다. 오히려 오래전부터 도시의"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_KO a :TranslationVariant ;
+:text "사람들이 이것들을 간신히 견디며 나에 대해 웅얼거렸다,"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_KO a :TranslationVariant ;
+:text "몰래 머리를 흔들며, 멍에 아래에서도"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_KO a :TranslationVariant ;
+:text "정당하게 목을 두지 않았다, 나를 사랑해야 하는데도."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_KO a :TranslationVariant ;
+:text "이 일들로부터 나는 이들이 잘 알고 있다,"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_KO a :TranslationVariant ;
+:text "보수에 이끌려 이것들을 행했다는 것을."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_KO a :TranslationVariant ;
+:text "사람들에게 은보다"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_KO a :TranslationVariant ;
+:text "더 나쁜 관습은 돋아난 적이 없다. 이것이 도시들도"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_KO a :TranslationVariant ;
+:text "파괴하고, 이것이 사람들을 집에서 몰아낸다."^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_KO a :TranslationVariant ;
+:text "이것이 가르치고, 사람들의 좋은"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_KO a :TranslationVariant ;
+:text "마음을 수치스러운 일들 쪽으로 바꾸어 세운다."^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_KO a :TranslationVariant ;
+:text "또 사람들에게 온갖 간계를 갖도록 보여 주었고,"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_KO a :TranslationVariant ;
+:text "모든 일의 불경함을 알게 했다."^^xsd:string ;
+:relatedTo :Line_301 .

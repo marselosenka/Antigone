@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-bengali a owl:Ontology .
+# Bengali translation variants for 441_to_479.ttl
+
+:TV_Line_441_BN a :TranslationVariant ;
+:text "তোমাকেই বলছি, তোমাকে, যে মাথা মাটির দিকে নত করছ,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_BN a :TranslationVariant ;
+:text "স্বীকার করো, না অস্বীকার করো যে এসব করোনি?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_BN a :TranslationVariant ;
+:text "আমি বলি করেছি, আর না-করার অস্বীকার করি না।"^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_BN a :TranslationVariant ;
+:text "তুমি নিজেকে যেখানে ইচ্ছা নিয়ে যেতে পারো,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_BN a :TranslationVariant ;
+:text "ভারী অভিযোগের বাইরে মুক্ত হয়ে।"^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_BN a :TranslationVariant ;
+:text "আর তুমি আমাকে বলো, দীর্ঘ করে নয়, সংক্ষেপে,"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_BN a :TranslationVariant ;
+:text "তুমি কি জানত যে এসব না করতে ঘোষণা করা হয়েছিল?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_BN a :TranslationVariant ;
+:text "জানতাম; কেন জানব না? তা তো প্রকাশ্য ছিল।"^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_BN a :TranslationVariant ;
+:text "তবু তুমি এসব আইন অতিক্রম করতে সাহস করলে?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_BN a :TranslationVariant ;
+:text "কারণ জিউস তো আমার কাছে এসব ঘোষণা করেননি,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_BN a :TranslationVariant ;
+:text "আর নিচের দেবতাদের সহবাসিনী ন্যায়ও"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_BN a :TranslationVariant ;
+:text "মানুষদের মধ্যে এমন আইন নির্ধারণ করেনি।"^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_BN a :TranslationVariant ;
+:text "আমি ভাবিনি তোমার ঘোষণাগুলো এত শক্তিশালী"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_BN a :TranslationVariant ;
+:text "যে অমর, অলিখিত ও অবিচল দেবীয়"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_BN a :TranslationVariant ;
+:text "বিধান একজন মরণশীল হয়েও অতিক্রম করতে পারে।"^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_BN a :TranslationVariant ;
+:text "কারণ এগুলো আজ বা গতকাল নয়, বরং চিরকাল"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_BN a :TranslationVariant ;
+:text "বেঁচে আছে, আর কেউ জানে না কখন থেকে তা প্রকাশিত।"^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_BN a :TranslationVariant ;
+:text "এসবের জন্য আমি কোনো মানুষের"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_BN a :TranslationVariant ;
+:text "মনোভাবকে ভয় করে দেবতাদের কাছে বিচার"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_BN a :TranslationVariant ;
+:text "দিতে যাচ্ছিলাম না; কারণ মরব তা আগেই জানতাম—কেন নয়?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_BN a :TranslationVariant ;
+:text "তুমি ঘোষণা না করলেও। আর যদি সময়ের"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_BN a :TranslationVariant ;
+:text "আগেই মরতে হয়, আমি তাকে লাভ বলি।"^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_BN a :TranslationVariant ;
+:text "কারণ যে বহু দুঃখের মধ্যে, আমার মতো,"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_BN a :TranslationVariant ;
+:text "বেঁচে থাকে, সে মরে কীভাবে লাভ পায় না?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_BN a :TranslationVariant ;
+:text "এইভাবে এই মৃত্যু পাওয়া আমার কাছে"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_BN a :TranslationVariant ;
+:text "কোনো যন্ত্রণা নয়; কিন্তু যদি আমার মায়ের"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_BN a :TranslationVariant ;
+:text "মৃত সন্তানকে অদাফন মৃতদেহ হিসেবে সহ্য করতাম,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_BN a :TranslationVariant ;
+:text "তাতেই যন্ত্রণা পেতাম; এসবের জন্য আমি ব্যথিত নই।"^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_BN a :TranslationVariant ;
+:text "আর যদি তোমার কাছে এখন আমাকে মূর্খ কাজ করতে মনে হয়,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_BN a :TranslationVariant ;
+:text "তবে প্রায় মূর্খের কাছেই মূর্খতার দোষ পাচ্ছি।"^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_BN a :TranslationVariant ;
+:text "এই মেয়ের কঠোর সন্তানত্ব কঠোর পিতা থেকে এসেছে তা স্পষ্ট;"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_BN a :TranslationVariant ;
+:text "সে বিপদের কাছে নতি স্বীকার করতে জানে না।"^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_BN a :TranslationVariant ;
+:text "কিন্তু জেনে রাখো, অতিরিক্ত কঠোর মনোভাব"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_BN a :TranslationVariant ;
+:text "সবচেয়ে বেশি পড়ে যায়; আর সবচেয়ে শক্ত"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_BN a :TranslationVariant ;
+:text "লোহাও, আগুনে পুড়ে অতিরিক্ত কঠিন হলে,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_BN a :TranslationVariant ;
+:text "ভাঙা ও ফেটে যাওয়া সবচেয়ে বেশি দেখা যায়।"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_BN a :TranslationVariant ;
+:text "ছোট লাগাম দিয়ে আমি জানি উগ্র"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_BN a :TranslationVariant ;
+:text "ঘোড়াদের নিয়ন্ত্রিত হতে; কারণ যে পাশের লোকের দাস,"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_BN a :TranslationVariant ;
+:text "তার বড় চিন্তা করা চলে না।"^^xsd:string ;
+:relatedTo :Line_479 .

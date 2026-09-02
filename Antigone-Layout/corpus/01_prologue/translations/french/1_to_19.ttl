@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-french a owl:Ontology .
+# French translation variants for 1_to_19.ttl
+
+:TV_Line_001_FR a :TranslationVariant ;
+:text "Ô tête d’Ismène, commune avec moi par le même sang,"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_FR a :TranslationVariant ;
+:text "sais-tu s’il est un seul des maux venus d’Œdipe"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_FR a :TranslationVariant ;
+:text "que Zeus n’accomplisse pas encore pour nous deux vivantes ?"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_FR a :TranslationVariant ;
+:text "Car il n’est rien de douloureux ni d’étranger au désastre,"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_FR a :TranslationVariant ;
+:text "rien de honteux ni de déshonorant,"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_FR a :TranslationVariant ;
+:text "que je n’aie vu parmi tes maux et les miens."^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_FR a :TranslationVariant ;
+:text "Et maintenant, quel est donc, dit-on, ce nouvel édit"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_FR a :TranslationVariant ;
+:text "que le chef vient tout juste d’imposer à toute la cité ?"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_FR a :TranslationVariant ;
+:text "As-tu quelque chose ? L’as-tu entendu ? Ou t’échappe-t-il"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_FR a :TranslationVariant ;
+:text "que des maux venus des ennemis marchent contre nos amis ?"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_FR a :TranslationVariant ;
+:text "Pour moi, Antigone, aucune parole sur nos proches,"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_FR a :TranslationVariant ;
+:text "ni douce ni douloureuse, ne m’est parvenue depuis que"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_FR a :TranslationVariant ;
+:text "nous deux avons été privées de nos deux frères,"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_FR a :TranslationVariant ;
+:text "morts tous deux en un seul jour, par une double main."^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_FR a :TranslationVariant ;
+:text "Depuis que l’armée des Argiens a disparu"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_FR a :TranslationVariant ;
+:text "dans cette nuit même, je ne sais rien de plus,"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_FR a :TranslationVariant ;
+:text "ni que je sois plus heureuse, ni que je sois plus ruinée."^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_FR a :TranslationVariant ;
+:text "Je le savais bien, et c’est pour cela que je t’ai fait sortir"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_FR a :TranslationVariant ;
+:text "hors des portes de la cour, afin que toi seule m’entendes."^^xsd:string ;
+:relatedTo :Line_019 .

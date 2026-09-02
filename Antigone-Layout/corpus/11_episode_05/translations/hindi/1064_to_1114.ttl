@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-hindi a owl:Ontology .
+# Hindi translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_HI a :TranslationVariant ;
+:text "पर यह अच्छी तरह जान ले कि अभी बहुत अधिक"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_HI a :TranslationVariant ;
+:text "सूर्य के दौड़ते चक्र पूरे करने से पहले,"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_HI a :TranslationVariant ;
+:text "तू स्वयं अपने ही उदर से उत्पन्नों में से एक"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_HI a :TranslationVariant ;
+:text "मृतक को मृतकों के बदले देकर खड़ा होगा,"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_HI a :TranslationVariant ;
+:text "क्योंकि तूने ऊपर वालों में से एक को नीचे फेंक रखा है,"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_HI a :TranslationVariant ;
+:text "और जीवित आत्मा को अपमानपूर्वक कब्र में बसा दिया है,"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_HI a :TranslationVariant ;
+:text "और नीचे के देवताओं का मृतक यहाँ ऊपर रख छोड़ा है,"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_HI a :TranslationVariant ;
+:text "भागहीन, अंतिम संस्कारहीन, अपवित्र शव।"^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_HI a :TranslationVariant ;
+:text "इन बातों में न तेरा अधिकार है, न ऊपर के"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_HI a :TranslationVariant ;
+:text "देवताओं का, पर तेरे कारण ये बलपूर्वक किए जाते हैं।"^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_HI a :TranslationVariant ;
+:text "इनके कारण विलंब से नष्ट करने वाली दंडदाता"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_HI a :TranslationVariant ;
+:text "हेडीस और देवताओं की एरिन्येस तेरी घात में बैठी हैं,"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_HI a :TranslationVariant ;
+:text "कि तू इन्हीं समान बुराइयों में पकड़ा जाए।"^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_HI a :TranslationVariant ;
+:text "और देख ले कि क्या मैं चाँदी लेकर रिश्वतखाया हुआ बोलता हूँ;"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_HI a :TranslationVariant ;
+:text "क्योंकि अधिक समय बीते बिना प्रकट हो जाएगा"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_HI a :TranslationVariant ;
+:text "तेरे घर में पुरुषों और स्त्रियों का विलाप।"^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_HI a :TranslationVariant ;
+:text "और सभी नगर वैर से उद्वेलित हो रहे हैं,"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_HI a :TranslationVariant ;
+:text "जिनके चिथड़ों को या तो कुत्तों ने पवित्र किया,"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_HI a :TranslationVariant ;
+:text "या पशुओं ने, या किसी पंखदार पक्षी ने, ले जाते हुए"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_HI a :TranslationVariant ;
+:text "अपवित्र गंध को नगर के अग्नि-स्थानों तक।"^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_HI a :TranslationVariant ;
+:text "ऐसे तुझ पर, क्योंकि तू मुझे दुख देता है, धनुर्धर की तरह"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_HI a :TranslationVariant ;
+:text "मैंने क्रोध में हृदय के बाण छोड़ दिए हैं,"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_HI a :TranslationVariant ;
+:text "निश्चित बाण, जिनकी गर्मी से तू बचकर नहीं निकलेगा।"^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_HI a :TranslationVariant ;
+:text "हे बालक, तू हमें घरों की ओर ले चल, ताकि"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_HI a :TranslationVariant ;
+:text "यह अपना क्रोध नवयुवकों पर छोड़े,"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_HI a :TranslationVariant ;
+:text "और सीखे कि जीभ को अधिक शांत रखना है"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_HI a :TranslationVariant ;
+:text "और मन को अभी के मन से बेहतर रखना है।"^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_HI a :TranslationVariant ;
+:text "स्वामी, वह पुरुष भयानक भविष्यवाणियाँ कहकर चला गया है;"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_HI a :TranslationVariant ;
+:text "और हम जानते हैं, जबसे मैं"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_HI a :TranslationVariant ;
+:text "इस बाल को काले से सफेद में बदलकर धारण करता हूँ,"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_HI a :TranslationVariant ;
+:text "कि उसने कभी इस नगर से झूठ नहीं बोला।"^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_HI a :TranslationVariant ;
+:text "मैं स्वयं भी जान चुका हूँ और मन से विचलित हूँ।"^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_HI a :TranslationVariant ;
+:text "क्योंकि झुकना भी भयानक है, और विरोध करके"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_HI a :TranslationVariant ;
+:text "आत्मा को विनाश से टकरा देना भी भयानक स्थिति है।"^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_HI a :TranslationVariant ;
+:text "मेनोइकियस के पुत्र, उत्तम सलाह लेनी चाहिए।"^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_HI a :TranslationVariant ;
+:text "तो फिर क्या करना चाहिए? कहो। मैं मानूँगा।"^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_HI a :TranslationVariant ;
+:text "जाकर कन्या को खोदी हुई छतदार जगह से"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_HI a :TranslationVariant ;
+:text "छोड़ दो, और पड़े हुए शव के लिए कब्र बनाओ।"^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_HI a :TranslationVariant ;
+:text "क्या तुम इसका अनुमोदन करते हो और चाहते हो कि मैं झुक जाऊँ?"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_HI a :TranslationVariant ;
+:text "हाँ, स्वामी, जितना संभव हो उतनी शीघ्रता से; क्योंकि"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_HI a :TranslationVariant ;
+:text "देवताओं की शीघ्रपद हानियाँ दुष्टबुद्धियों को काट देती हैं।"^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_HI a :TranslationVariant ;
+:text "हाय; कठिन तो है, पर मैं हृदय से हटता हूँ"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_HI a :TranslationVariant ;
+:text "यह करना; आवश्यकता से युद्ध नहीं करना चाहिए।"^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_HI a :TranslationVariant ;
+:text "तो जा, ये काम कर, और दूसरों की ओर मत मुड़।"^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_HI a :TranslationVariant ;
+:text "जैसा हूँ वैसा ही मैं चलूँगा; चलो, चलो, सेवको,"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_HI a :TranslationVariant ;
+:text "जो उपस्थित हो और जो अनुपस्थित हो, हाथों में कुल्हाड़ियाँ"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_HI a :TranslationVariant ;
+:text "लेकर दिखाई देने वाली जगह की ओर दौड़ पड़ो।"^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_HI a :TranslationVariant ;
+:text "और मैं, क्योंकि मत इस ओर मुड़ गया है,"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_HI a :TranslationVariant ;
+:text "स्वयं ही बाँधा था और उपस्थित होकर स्वयं ही खोलूँगा।"^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_HI a :TranslationVariant ;
+:text "क्योंकि मुझे भय है कि स्थापित नियमों को"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_HI a :TranslationVariant ;
+:text "बचाते हुए जीवन पूरा करना ही सर्वोत्तम है।"^^xsd:string ;
+:relatedTo :Line_1114 .

@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-german a owl:Ontology .
+# German translation variants for 141_to_161.ttl
+
+:TV_Line_141_DE a :TranslationVariant ;
+:text "Denn sieben Anführer an sieben Toren,"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_DE a :TranslationVariant ;
+:text "als Gleiche gegen Gleiche gestellt, ließen zurück"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_DE a :TranslationVariant ;
+:text "dem Zeus des Sieges ihre ganz ehernen Opfergaben,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_DE a :TranslationVariant ;
+:text "außer den beiden Verhassten, die von einem Vater"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_DE a :TranslationVariant ;
+:text "und einer Mutter geboren, gegeneinander"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_DE a :TranslationVariant ;
+:text "zwei siegreiche Lanzen erhoben und"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_DE a :TranslationVariant ;
+:text "beide Anteil am gemeinsamen Tod erhielten."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_DE a :TranslationVariant ;
+:text "Aber nun kam die großnamige Nike,"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_DE a :TranslationVariant ;
+:text "dem wagenreichen Theben freudig entgegen,"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_DE a :TranslationVariant ;
+:text "und von den Kriegen"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_DE a :TranslationVariant ;
+:text "der Gegenwart wollen wir Vergessenheit setzen,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_DE a :TranslationVariant ;
+:text "und zu allen Tempeln der Götter mit Tänzen"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_DE a :TranslationVariant ;
+:text "die ganze Nacht hindurch wollen wir gehen;"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_DE a :TranslationVariant ;
+:text "und der Theben erschütternde"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_DE a :TranslationVariant ;
+:text "Bacchische Gott möge führen."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_DE a :TranslationVariant ;
+:text "Doch, denn hier ist nun der König des Landes,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_DE a :TranslationVariant ;
+:text "Kreon, der Sohn des Menoikeus, neu angekommen"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_DE a :TranslationVariant ;
+:text "bei den frischen Fügungen der Götter,"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_DE a :TranslationVariant ;
+:text "er kommt, welche Absicht wohl rudernd,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_DE a :TranslationVariant ;
+:text "da er diese Versammlung der Alten"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_DE a :TranslationVariant ;
+:text "anberaumt hat, indem er sie durch gemeinsamen Ruf aussandte."^^xsd:string ;
+:relatedTo :Line_161 .

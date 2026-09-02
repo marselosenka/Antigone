@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-german a owl:Ontology .
+# German translation variants for 773_to_780.ttl
+
+:TV_Line_773_DE a :TranslationVariant ;
+:text "Ich führe sie dahin, wo eine Spur von Sterblichen öde ist,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_DE a :TranslationVariant ;
+:text "und werde sie lebend in einer felsigen Gruft verbergen,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_DE a :TranslationVariant ;
+:text "so viel Nahrung vorlegend, wie nur gegen Befleckung genügt,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_DE a :TranslationVariant ;
+:text "damit die ganze Stadt der Verunreinigung entkommt."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_DE a :TranslationVariant ;
+:text "Und dort wird sie Hades, den einzigen der Götter, den sie ehrt,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_DE a :TranslationVariant ;
+:text "irgendwo bittend erreichen, nicht zu sterben,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_DE a :TranslationVariant ;
+:text "oder sie wird doch wenigstens dann erkennen, dass"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_DE a :TranslationVariant ;
+:text "es überflüssige Mühe ist, die Dinge im Hades zu ehren."^^xsd:string ;
+:relatedTo :Line_780 .

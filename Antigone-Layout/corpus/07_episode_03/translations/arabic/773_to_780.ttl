@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-arabic a owl:Ontology .
+# Arabic translation variants for 773_to_780.ttl
+
+:TV_Line_773_AR a :TranslationVariant ;
+:text "سآخذها إلى حيث يكون مسلك البشر خاليًا،"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_AR a :TranslationVariant ;
+:text "وأخفيها حية في كهف صخري محفور،"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_AR a :TranslationVariant ;
+:text "واضعًا أمامها من الطعام قدر ما يكفي وحده لدفع الدنس،"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_AR a :TranslationVariant ;
+:text "حتى تفلت المدينة كلها من التلوث."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_AR a :TranslationVariant ;
+:text "وهناك، وهي تطلب هاديس، الإله الوحيد الذي تبجله،"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_AR a :TranslationVariant ;
+:text "لعلها تنال ألا تموت،"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_AR a :TranslationVariant ;
+:text "أو ستعرف على الأقل حينئذٍ أن"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_AR a :TranslationVariant ;
+:text "تبجيل ما في هاديس عناء زائد."^^xsd:string ;
+:relatedTo :Line_780 .

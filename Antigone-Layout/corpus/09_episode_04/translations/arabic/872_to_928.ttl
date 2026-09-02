@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-arabic a owl:Ontology .
+# Arabic translation variants for 872_to_928.ttl
+
+:TV_Line_872_AR a :TranslationVariant ;
+:text "إن التبجيل ضربٌ من التقوى،"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_AR a :TranslationVariant ;
+:text "أما السلطة، فمن يعنيه أمر السلطة،"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_AR a :TranslationVariant ;
+:text "فلا تكون قابلة للتجاوز بأي وجه،"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_AR a :TranslationVariant ;
+:text "وقد أهلكك غضبك الذاتيّ الحكم."^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_AR a :TranslationVariant ;
+:text "غير مبكيّة، بلا صديق، بلا نشيد زفاف، أنا التعيسة أُقاد"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_AR a :TranslationVariant ;
+:text "في الطريق الأخيرة. لم يعد لي هذا"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_AR a :TranslationVariant ;
+:text "العين المقدسة للمصباح،"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in Antigone
+
+:TV_Line_880_AR a :TranslationVariant ;
+:text "عين الشمس، جائزًا أن أراها، أنا التعيسة؛"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_AR a :TranslationVariant ;
+:text "وقدري الذي لا دموع عليه"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_AR a :TranslationVariant ;
+:text "لا يندبه أحد من الأحبة."^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_AR a :TranslationVariant ;
+:text "أتعلمون أن الأغاني والمراثي قبل الموت،"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_AR a :TranslationVariant ;
+:text "لو كان قولها نافعًا، لما كفّ عنها أحد قط؟"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_AR a :TranslationVariant ;
+:text "ألا تسوقونها بأسرع ما يمكن، وفي قبر مسقوف"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_AR a :TranslationVariant ;
+:text "تطوقونها، كما قلت أنا،"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_AR a :TranslationVariant ;
+:text "وتتركونها وحيدةً مهجورة، سواء كان يجب أن تموت،"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_AR a :TranslationVariant ;
+:text "أو أن تُقبَر حيةً في مثل هذا المسكن."^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_AR a :TranslationVariant ;
+:text "فنحن أطهار فيما يتعلق بهذه الفتاة؛"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_AR a :TranslationVariant ;
+:text "لكنها، على كل حال، ستُحرم من الإقامة التي في الأعلى."^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_AR a :TranslationVariant ;
+:text "يا قبر، يا حجرة عرس، يا مسكنًا"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_AR a :TranslationVariant ;
+:text "محفورًا في الأرض، حارسًا إلى الأبد، حيث أمضي"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_AR a :TranslationVariant ;
+:text "إلى خاصتي، الذين من عددهم بين الموتى"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_AR a :TranslationVariant ;
+:text "استقبلت فرسيفوني أكثرهم ممن هلكوا؛"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_AR a :TranslationVariant ;
+:text "وأنا آخرهم، وبأشد شقاء بكثير،"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_AR a :TranslationVariant ;
+:text "أنزل قبل أن تبلغ حصتي من الحياة تمامها."^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_AR a :TranslationVariant ;
+:text "ومع ذلك، حين آتي، أُغذّي نفسي بقوة على الآمال"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_AR a :TranslationVariant ;
+:text "أنني سأجيء عزيزةً على أبي، وعزيزةً عليكِ،"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_AR a :TranslationVariant ;
+:text "يا أمي، وعزيزةً عليك، يا رأس أخي."^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_AR a :TranslationVariant ;
+:text "لأنني، حين متّم، بيدي أنا"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_AR a :TranslationVariant ;
+:text "غسلتكم وزينتكم، وقدمت عند قبوركم"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_AR a :TranslationVariant ;
+:text "سكائب القربان؛ أما الآن، يا بولينيكيس، فإن جسدك"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_AR a :TranslationVariant ;
+:text "إذ واريته، أنال مثل هذا الجزاء."^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_AR a :TranslationVariant ;
+:text "ومع ذلك فقد أكرمتك، في رأي ذوي الفهم، إكرامًا حسنًا."^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_AR a :TranslationVariant ;
+:text "فما كنتُ قط، لا لو كنت أمًّا لأبناء،"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_AR a :TranslationVariant ;
+:text "ولا لو كان زوجي ميتًا يتعفن،"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_AR a :TranslationVariant ;
+:text "لأختار هذا العناء رغمًا عن المواطنين."^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_AR a :TranslationVariant ;
+:text "ومن أجل أي قانون أقول هذا حقًا؟"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_AR a :TranslationVariant ;
+:text "لو مات زوجي، لكان لي زوج آخر،"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_AR a :TranslationVariant ;
+:text "وولد من رجل آخر، إن فقدت هذا؛"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_AR a :TranslationVariant ;
+:text "أما وقد اختفى أبي وأمي في هاديس،"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_AR a :TranslationVariant ;
+:text "فلا يوجد أخ يمكن أن ينبت لي أبدًا."^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_AR a :TranslationVariant ;
+:text "وبمثل هذا القانون، إذ فضّلتك فوق غيرك،"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_AR a :TranslationVariant ;
+:text "بدا لكريون أنني أخطئ في هذه الأمور،"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_AR a :TranslationVariant ;
+:text "وأجترح أفعالًا رهيبة، يا رأس أخي."^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_AR a :TranslationVariant ;
+:text "والآن يقودني، وقد أخذني هكذا بين يديه،"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_AR a :TranslationVariant ;
+:text "بلا فراش زوجي، بلا نشيد زفاف، ولم أنل"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_AR a :TranslationVariant ;
+:text "نصيبًا من زواج ولا من تربية أطفال،"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_AR a :TranslationVariant ;
+:text "بل هكذا، مهجورةً من الأحبة، أنا سيئة الحظ،"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_AR a :TranslationVariant ;
+:text "حيةً أمضي إلى حفريات الموتى."^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_AR a :TranslationVariant ;
+:text "أي عدل من عدل الآلهة تجاوزتُ؟"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_AR a :TranslationVariant ;
+:text "لماذا ينبغي لي، أنا الشقية، أن أنظر بعدُ إلى الآلهة؟"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_AR a :TranslationVariant ;
+:text "أي حليف أنادي؟ إذ إنني حقًا،"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_AR a :TranslationVariant ;
+:text "بالتقوى، اكتسبتُ تهمة الكفر."^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_AR a :TranslationVariant ;
+:text "ولكن إن كانت هذه الأمور حسنة عند الآلهة،"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_AR a :TranslationVariant ;
+:text "فسنعرف، بعد أن نعاني، أننا أخطأنا؛"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_AR a :TranslationVariant ;
+:text "أما إن كان هؤلاء هم المخطئين، فلا يعانوا شرورًا أكثر"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_AR a :TranslationVariant ;
+:text "مما يفعلونه بي ظلمًا."^^xsd:string ;
+:relatedTo :Line_928 .

@@ -1,0 +1,26 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-spanish a owl:Ontology .
+# Spanish translation variants for 563_to_581.ttl
+
+:TV_Line_563_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_563 ; :text "Pues nunca, señor, permanece la razón que brota"^^xsd:string .
+:TV_Line_564_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_564 ; :text "en quienes obran mal, sino que se aparta."^^xsd:string .
+:TV_Line_565_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_565 ; :text "Al menos en ti, cuando elegiste hacer males con los malos."^^xsd:string .
+:TV_Line_566_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_566 ; :text "¿Qué vida me queda sola, sin esta?"^^xsd:string .
+:TV_Line_567_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_567 ; :text "Pero no hables de esta; pues ya no existe."^^xsd:string .
+:TV_Line_568_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_568 ; :text "¿Matarás entonces a la prometida de tu propio hijo?"^^xsd:string .
+:TV_Line_569_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_569 ; :text "También hay surcos cultivables de otras mujeres."^^xsd:string .
+:TV_Line_570_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_570 ; :text "No tan ajustados a él como lo estaba esta."^^xsd:string .
+:TV_Line_571_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_571 ; :text "Odio a las malas mujeres para mis hijos."^^xsd:string .
+:TV_Line_572_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_572 ; :text "Oh queridísimo Hemón, cómo te deshonra tu padre."^^xsd:string .
+:TV_Line_573_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_573 ; :text "Demasiado me afligís tú y tu lecho nupcial."^^xsd:string .
+:TV_Line_574_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_574 ; :text "¿Privarás entonces de ella a tu propio hijo?"^^xsd:string .
+:TV_Line_575_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_575 ; :text "Hades será quien ponga fin a estas bodas."^^xsd:string .
+:TV_Line_576_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_576 ; :text "Está decidido, según parece, que esta debe morir."^^xsd:string .
+:TV_Line_577_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_577 ; :text "Para ti y para mí. No más demoras: ahora"^^xsd:string .
+:TV_Line_578_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_578 ; :text "llevadla dentro, servidores; desde este momento"^^xsd:string .
+:TV_Line_579_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_579 ; :text "estas mujeres deben estar sujetas, no sueltas."^^xsd:string .
+:TV_Line_580_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_580 ; :text "Pues también los audaces huyen cuando cerca"^^xsd:string .
+:TV_Line_581_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_581 ; :text "ven ya a Hades junto a su vida."^^xsd:string .

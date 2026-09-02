@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-japanese a owl:Ontology .
+# Japanese translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_JA a :TranslationVariant ;
+:text "多くの名を持つ者よ、カドモスの花嫁の栄光よ、"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_JA a :TranslationVariant ;
+:text "そして重く轟くゼウスの"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_JA a :TranslationVariant ;
+:text "血筋よ、名高い地を守る者、"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_JA a :TranslationVariant ;
+:text "イタリアを、そして統べる者よ、"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_JA a :TranslationVariant ;
+:text "万人に共通する、エレウシスの"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_JA a :TranslationVariant ;
+:text "デオの懐にあって、バッカイのバッコスよ、"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_JA a :TranslationVariant ;
+:text "母なる都テーバイに住む者、"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_JA a :TranslationVariant ;
+:text "湿った流れのほとりに"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Lines 1123 and 1124 do not exist in Antigone
+
+:TV_Line_1125_JA a :TranslationVariant ;
+:text "イスメノスの流れと、荒々しい竜の蒔かれた地の上に。"^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_JA a :TranslationVariant ;
+:text "また、二つの峰を持つ岩の上で、閃く"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_JA a :TranslationVariant ;
+:text "煙があなたを見た、そこではコリュキアの"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_JA a :TranslationVariant ;
+:text "バッコスに仕えるニンフたちが進み行く、"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in Antigone
+
+:TV_Line_1130_JA a :TranslationVariant ;
+:text "そしてカスタリアの流れも。"^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_JA a :TranslationVariant ;
+:text "また、ニュサの山々の"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_JA a :TranslationVariant ;
+:text "蔦に覆われた斜面と緑の岸が、"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_JA a :TranslationVariant ;
+:text "葡萄に富み、あなたを送り出す、"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_JA a :TranslationVariant ;
+:text "不死なる言葉が"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_JA a :TranslationVariant ;
+:text "エウアイと叫び、テーバイの通りを見守りながら。"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in Antigone
+
+:TV_Line_1137_JA a :TranslationVariant ;
+:text "その都を、すべての都の中で最も高きものとして、あなたは敬う、"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_JA a :TranslationVariant ;
+:text "雷に撃たれた母とともに。"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in Antigone
+
+:TV_Line_1140_JA a :TranslationVariant ;
+:text "そして今、暴力的な"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_JA a :TranslationVariant ;
+:text "病に全市の民が捕らえられているのだから、"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_JA a :TranslationVariant ;
+:text "清めの足で、パルナッソスの斜面を越えて来たれ、"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Lines 1143 and 1144 do not exist in Antigone
+
+:TV_Line_1145_JA a :TranslationVariant ;
+:text "あるいは呻く海峡を越えて。"^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_JA a :TranslationVariant ;
+:text "イオ、火を吐く星々の合唱を導く者、夜の"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_JA a :TranslationVariant ;
+:text "声の見張り手よ、"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_JA a :TranslationVariant ;
+:text "ゼウスから生まれた子よ、"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in Antigone
+
+:TV_Line_1150_JA a :TranslationVariant ;
+:text "王よ、あなたの侍女たちとともに、"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_JA a :TranslationVariant ;
+:text "テュイアデスたちとともに、彼女たちは狂乱してあなたを"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_JA a :TranslationVariant ;
+:text "その司る者イアッコスとして。"^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Lines 1153 and 1154 do not exist in Antigone

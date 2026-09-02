@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-persian a owl:Ontology .
+# Persian translation variants for 20_to_41.ttl
+
+:TV_Line_020_FA a :TranslationVariant ;
+:text "چیست؟ زیرا آشکار است که سخنی تیره در دل می‌پرورانی."^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_FA a :TranslationVariant ;
+:text "آیا کرئون از دو برادر ما یکی را"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_FA a :TranslationVariant ;
+:text "با گور گرامی نداشته و دیگری را خوار نداشته است؟"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_FA a :TranslationVariant ;
+:text "اته‌اوکلس را، چنان‌که می‌گویند، با داوری"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_FA a :TranslationVariant ;
+:text "دادگرانه و آیین، در زیر زمین"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_FA a :TranslationVariant ;
+:text "پنهان کرد، تا در میان مردگان زیرین گرامی باشد؛"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_FA a :TranslationVariant ;
+:text "اما جسد پولونیکِس را، که به تیره‌بختی مرد،"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_FA a :TranslationVariant ;
+:text "می‌گویند برای شهروندان اعلام شده است که کسی"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_FA a :TranslationVariant ;
+:text "او را در گور نپوشاند و هیچ کس بر او مویه نکند،"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_FA a :TranslationVariant ;
+:text "بلکه او را بی‌گریه و بی‌گور رها کنند، گنجی شیرین برای پرندگان،"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_FA a :TranslationVariant ;
+:text "تا به لذت خوراک به او بنگرند."^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_FA a :TranslationVariant ;
+:text "می‌گویند کرئون نیک‌نهاد چنین چیزهایی را برای تو"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_FA a :TranslationVariant ;
+:text "و برای من نیز، زیرا من هم می‌گویم برای من، اعلام کرده است،"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_FA a :TranslationVariant ;
+:text "و به اینجا می‌آید تا اینها را برای آنان که نمی‌دانند"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_FA a :TranslationVariant ;
+:text "روشن و آشکار اعلام کند؛ و این کار را"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_FA a :TranslationVariant ;
+:text "چیز ناچیز نمی‌شمارد، بلکه هر کس چیزی از اینها را انجام دهد،"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_FA a :TranslationVariant ;
+:text "مرگِ سنگسار عمومی در شهر برایش نهاده شده است."^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_FA a :TranslationVariant ;
+:text "اینها برای تو چنین‌اند؛ و به‌زودی نشان خواهی داد"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_FA a :TranslationVariant ;
+:text "که آیا به‌راستی نجیب‌زاده‌ای یا فرومایه‌ای از نیکان."^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_FA a :TranslationVariant ;
+:text "اما ای تیره‌روز، اگر این چیزها چنین‌اند، من"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_FA a :TranslationVariant ;
+:text "با گشودن یا بستن چه چیز بیشتری می‌توانم بیفزایم؟"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_FA a :TranslationVariant ;
+:text "بنگر که آیا در رنج با من شریک می‌شوی و با من همکاری می‌کنی."^^xsd:string ;
+:relatedTo :Line_041 .

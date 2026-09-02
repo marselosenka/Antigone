@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-arabic a owl:Ontology .
+# Arabic translation variants for 536_to_562.ttl
+
+:TV_Line_536_AR a :TranslationVariant ;
+:text "لقد فعلت العمل، إن كانت هذه توافق،"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_AR a :TranslationVariant ;
+:text "وأشارك معها وأحمل نصيبي من التهمة."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_AR a :TranslationVariant ;
+:text "لكن العدالة لن تسمح لك بهذا، إذ"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_AR a :TranslationVariant ;
+:text "لا أنت أردت، ولا أنا أشركتك."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_AR a :TranslationVariant ;
+:text "لكن في شرورك لا أخجل"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_AR a :TranslationVariant ;
+:text "من أن أجعل نفسي شريكة في إبحار هذا المصاب."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_AR a :TranslationVariant ;
+:text "هاديس والذين في الأسفل شاهدون على من له العمل؛"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_AR a :TranslationVariant ;
+:text "أما المحبة بالكلام فلا أعدها محبة محبوبة."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_AR a :TranslationVariant ;
+:text "لا، يا أختي، لا تهينيني بحرماني"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_AR a :TranslationVariant ;
+:text "أن أموت معك وأن أطهر الميت."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_AR a :TranslationVariant ;
+:text "لا تموتي معي ولا تجعلي ما لم تلمسيه"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_AR a :TranslationVariant ;
+:text "ملكًا لك. سأكفي أنا ميتة."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_AR a :TranslationVariant ;
+:text "وأي حياة عزيزة لي إذا تُركت بلاك؟"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_AR a :TranslationVariant ;
+:text "اسألي كريون؛ فأنتِ راعية أمره."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_AR a :TranslationVariant ;
+:text "لم تؤذينني بهذه الأمور وأنت لا تنتفعين بشيء؟"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_AR a :TranslationVariant ;
+:text "إن كنت أضحك عليك، فأنا أضحك وأنا متألمة حقًا."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_AR a :TranslationVariant ;
+:text "فبماذا أستطيع الآن أيضًا أن أنفعك؟"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_AR a :TranslationVariant ;
+:text "أنقذي نفسك؛ لا أحسدك على النجاة."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_AR a :TranslationVariant ;
+:text "وا أسفاه، يا شقية، أأخطئ نصيب موتك؟"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_AR a :TranslationVariant ;
+:text "أنت اخترتِ أن تعيشي، وأنا أن أموت."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_AR a :TranslationVariant ;
+:text "لكن ذلك لم يكن بعد أقوال مني لا تقال."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_AR a :TranslationVariant ;
+:text "لقد بدا لك أنك تفكرين حسنًا عند هؤلاء، وبدا لي عند أولئك."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_AR a :TranslationVariant ;
+:text "ومع ذلك فالخطأ واحد لنا نحن الاثنتين."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_AR a :TranslationVariant ;
+:text "تشجعي؛ أنت تعيشين، أما نفسي أنا فمنذ زمن"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_AR a :TranslationVariant ;
+:text "قد ماتت، حتى تنفع الموتى."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_AR a :TranslationVariant ;
+:text "أقول إن هاتين الفتاتين: إحداهما ظهرت الآن"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_AR a :TranslationVariant ;
+:text "بلا عقل، والأخرى منذ أول ما وُلدت."^^xsd:string ;
+:relatedTo :Line_562 .

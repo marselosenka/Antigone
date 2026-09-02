@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-italian a owl:Ontology .
+# Italian translation variants for 988_to_1032.ttl
+
+:TV_Line_988_IT a :TranslationVariant ;
+:text "Signori di Tebe, siamo giunti per una via comune,"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_IT a :TranslationVariant ;
+:text "due che vedono con gli occhi di uno solo; infatti per i ciechi"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_IT a :TranslationVariant ;
+:text "questa è la strada, per mezzo di una guida."^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_IT a :TranslationVariant ;
+:text "Che cosa c’è, vecchio Tiresia, di nuovo?"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_IT a :TranslationVariant ;
+:text "Io lo insegnerò, e tu obbedisci al veggente."^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_IT a :TranslationVariant ;
+:text "Certo, prima d’ora non mi sono mai allontanato dal tuo senno."^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_IT a :TranslationVariant ;
+:text "Perciò governi questa città lungo una rotta diritta."^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_IT a :TranslationVariant ;
+:text "Posso testimoniare, avendolo provato, benefici utili."^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_IT a :TranslationVariant ;
+:text "Sta’ attento: ora di nuovo cammini sul rasoio della sorte."^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_IT a :TranslationVariant ;
+:text "Che cosa c’è? Come io rabbrividisco alla tua bocca."^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_IT a :TranslationVariant ;
+:text "Lo saprai, ascoltando i segni della mia arte."^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_IT a :TranslationVariant ;
+:text "Infatti, sedendo sull’antico seggio dell’osservazione degli uccelli,"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_IT a :TranslationVariant ;
+:text "dove per me era porto di ogni augurio,"^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_IT a :TranslationVariant ;
+:text "odo un grido sconosciuto di uccelli,"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_IT a :TranslationVariant ;
+:text "che gridavano con cattivo pungolo e barbarizzato;"^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_IT a :TranslationVariant ;
+:text "e lacerandosi l’un l’altro con artigli omicidi"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_IT a :TranslationVariant ;
+:text "lo riconobbi; infatti il fruscio delle ali non era oscuro."^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_IT a :TranslationVariant ;
+:text "Subito, preso da timore, assaggiai i sacrifici bruciati"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_IT a :TranslationVariant ;
+:text "sugli altari tutti fiammeggianti; ma dalle vittime"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_IT a :TranslationVariant ;
+:text "Efesto non splendeva, ma sulla cenere"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_IT a :TranslationVariant ;
+:text "la goccia marcescente delle cosce si scioglieva"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_IT a :TranslationVariant ;
+:text "e fumava e sputava, e in alto"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_IT a :TranslationVariant ;
+:text "le bile si disperdevano, e cadute giù"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_IT a :TranslationVariant ;
+:text "le cosce giacevano nude del grasso che le copriva."^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_IT a :TranslationVariant ;
+:text "Tali cose appresi da questo ragazzo qui,"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_IT a :TranslationVariant ;
+:text "vaticini di riti senza segni che venivano meno;"^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_IT a :TranslationVariant ;
+:text "infatti costui è guida per me, e io per gli altri."^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_IT a :TranslationVariant ;
+:text "E queste cose dalla tua mente rendono malata la città;"^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_IT a :TranslationVariant ;
+:text "infatti i nostri altari e focolari compiuti"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_IT a :TranslationVariant ;
+:text "sono pieni, per opera di uccelli e cani, del pasto"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_IT a :TranslationVariant ;
+:text "del figlio caduto dello sventurato Edipo."^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_IT a :TranslationVariant ;
+:text "E poi gli dèi non accolgono più da noi"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_IT a :TranslationVariant ;
+:text "preghiere sacrificali né fiamma di cosce,"^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_IT a :TranslationVariant ;
+:text "né un uccello emette grida di buon presagio,"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_IT a :TranslationVariant ;
+:text "poiché hanno mangiato il grasso di sangue assassino d’uomini."^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_IT a :TranslationVariant ;
+:text "Dunque pensa a queste cose, figlio. Infatti per tutti"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_IT a :TranslationVariant ;
+:text "gli uomini è comune l’errare;"^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_IT a :TranslationVariant ;
+:text "ma quando ha errato, quell’uomo non è più"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_IT a :TranslationVariant ;
+:text "privo di consiglio né sventurato, se caduto nel male"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_IT a :TranslationVariant ;
+:text "lo cura e non resta immobile;"^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_IT a :TranslationVariant ;
+:text "l’ostinazione, certo, incorre nell’accusa di stoltezza."^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_IT a :TranslationVariant ;
+:text "Ma cedi al morto, e non pungolare chi è perito;"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_IT a :TranslationVariant ;
+:text "quale forza c’è nell’uccidere ancora il morto?"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_IT a :TranslationVariant ;
+:text "Pensando bene per te, parlo bene; e imparare"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_IT a :TranslationVariant ;
+:text "da chi parla bene è dolcissimo, se porta guadagno."^^xsd:string ;
+:relatedTo :Line_1032 .

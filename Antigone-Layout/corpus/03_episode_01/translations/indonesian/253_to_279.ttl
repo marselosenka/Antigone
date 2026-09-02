@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-indonesian a owl:Ontology .
+# Indonesian translation variants for 253_to_279.ttl
+
+:TV_Line_253_ID a :TranslationVariant ;
+:text "Dan ketika penjaga hari pertama menunjukkan kepada kami,"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_ID a :TranslationVariant ;
+:text "keheranan yang menyusahkan hadir pada semua orang;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_ID a :TranslationVariant ;
+:text "sebab mayat itu memang telah lenyap dari pandangan, bukan tertimbun makam,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_ID a :TranslationVariant ;
+:text "tetapi debu tipis ada di atasnya, seolah dari orang yang menghindari cemar."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_ID a :TranslationVariant ;
+:text "Tidak tampak tanda binatang buas maupun anjing"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_ID a :TranslationVariant ;
+:text "yang datang, ataupun yang menyeretnya."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_ID a :TranslationVariant ;
+:text "Perkataan buruk bergemuruh di antara kami,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_ID a :TranslationVariant ;
+:text "penjaga menyalahkan penjaga, dan akhirnya akan terjadi"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_ID a :TranslationVariant ;
+:text "pukulan, dan tidak ada yang hadir untuk mencegah."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_ID a :TranslationVariant ;
+:text "Sebab setiap orang adalah seseorang yang telah melakukan pekerjaan itu,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_ID a :TranslationVariant ;
+:text "namun tidak seorang pun jelas, semua lari kepada tidak tahu."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_ID a :TranslationVariant ;
+:text "Kami siap mengangkat besi panas dengan tangan,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_ID a :TranslationVariant ;
+:text "dan berjalan melalui api, dan bersumpah demi para dewa"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_ID a :TranslationVariant ;
+:text "bahwa kami tidak melakukan dan tidak mengetahui bersama siapa pun"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_ID a :TranslationVariant ;
+:text "yang merencanakan perkara itu ataupun yang mengerjakannya."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_ID a :TranslationVariant ;
+:text "Akhirnya, ketika tidak ada lagi keuntungan bagi mereka yang menyelidiki,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_ID a :TranslationVariant ;
+:text "seseorang berkata, yang mendorong semua orang menundukkan kepala"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_ID a :TranslationVariant ;
+:text "ke tanah karena takut; sebab kami tidak mampu"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_ID a :TranslationVariant ;
+:text "menjawab balik ataupun mengetahui bagaimana dengan bertindak baik"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_ID a :TranslationVariant ;
+:text "kami dapat berhasil. Perkataannya adalah bahwa perkara ini"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_ID a :TranslationVariant ;
+:text "harus dibawa kepadamu dan tidak disembunyikan."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_ID a :TranslationVariant ;
+:text "Dan hal-hal ini menang, dan undian menjatuhkan aku yang malang"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_ID a :TranslationVariant ;
+:text "untuk menerima kebaikan ini."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_ID a :TranslationVariant ;
+:text "Aku hadir tanpa rela kepada orang-orang yang juga tidak rela, aku tahu;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_ID a :TranslationVariant ;
+:text "sebab tidak seorang pun menyukai pembawa pesan kata-kata buruk."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_ID a :TranslationVariant ;
+:text "Tuan, sejak lama pikiranku mempertimbangkan"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_ID a :TranslationVariant ;
+:text "jangan-jangan perbuatan ini digerakkan oleh dewa."^^xsd:string ;
+:relatedTo :Line_279 .

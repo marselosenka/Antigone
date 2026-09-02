@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-persian a owl:Ontology .
+# Persian translation variants for 631_to_634.ttl
+
+:TV_Line_631_FA a :TranslationVariant ;
+:text "به‌زودی بهتر از پیشگویان خواهیم دانست."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_FA a :TranslationVariant ;
+:text "ای پسر، آیا چون حکم نهایی را درباره"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_FA a :TranslationVariant ;
+:text "نامزد آینده‌ات شنیده‌ای، خشمگین نزد پدرت آمده‌ای؟"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_FA a :TranslationVariant ;
+:text "یا ما، هر چه کنیم، در همه حال برای تو عزیزیم؟"^^xsd:string ;
+:relatedTo :Line_634 .

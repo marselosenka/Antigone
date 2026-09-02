@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-french a owl:Ontology .
+# French translation variants for 616_to_630.ttl
+
+:TV_Line_616_FR a :TranslationVariant ;
+:text "mais pour beaucoup une tromperie des désirs à l’esprit léger ;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_FR a :TranslationVariant ;
+:text "elle rampe vers celui qui ne sait rien, avant qu’on ne touche du pied un feu brûlant."^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in canonical.
+
+:TV_Line_620_FR a :TranslationVariant ;
+:text "Car avec sagesse une parole venue des célèbres s’est manifestée."^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_FR a :TranslationVariant ;
+:text "Que les choses mauvaises semblent parfois bonnes"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_FR a :TranslationVariant ;
+:text "à celui-ci, dont les esprits"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_FR a :TranslationVariant ;
+:text "un dieu mène vers la ruine ;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 is commented out in canonical.
+
+:TV_Line_625_FR a :TranslationVariant ;
+:text "et il agit très peu de temps hors de la ruine."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_FR a :TranslationVariant ;
+:text "Vois donc Hémon, de tes enfants"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_FR a :TranslationVariant ;
+:text "le plus jeune rejeton ; vient-il accablé par le sort"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_FR a :TranslationVariant ;
+:text "de sa promise Antigone,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 is commented out in canonical.
+
+:TV_Line_630_FR a :TranslationVariant ;
+:text "profondément affligé par la tromperie de ses noces ?"^^xsd:string ;
+:relatedTo :Line_630 .

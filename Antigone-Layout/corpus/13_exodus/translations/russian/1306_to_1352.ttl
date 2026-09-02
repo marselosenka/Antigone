@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-russian a owl:Ontology .
+# Russian translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_RU a :TranslationVariant ;
+:text "Ай-ай, ай-ай,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_RU a :TranslationVariant ;
+:text "я взлетел от страха. Почему никто меня прямо"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_RU a :TranslationVariant ;
+:text "не ударил обоюдоострым мечом?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in Antigone
+
+:TV_Line_1310_RU a :TranslationVariant ;
+:text "несчастный я, ай-ай,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_RU a :TranslationVariant ;
+:text "и смешан я с несчастной бедой."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_RU a :TranslationVariant ;
+:text "Как имеющего вину за это и за то"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_RU a :TranslationVariant ;
+:text "ты обвинен судьбами этой умершей."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_RU a :TranslationVariant ;
+:text "Каким же образом она освободила себя в крови?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_RU a :TranslationVariant ;
+:text "Своей рукой она ударила себя под печень, когда"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_RU a :TranslationVariant ;
+:text "узнала об этом горькооплаканном страдании сына."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_RU a :TranslationVariant ;
+:text "О горе мне, это никогда ни на другого смертного"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_RU a :TranslationVariant ;
+:text "не будет возложено по моей вине."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_RU a :TranslationVariant ;
+:text "Ведь я тебя, я тебя убил, о несчастный,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_RU a :TranslationVariant ;
+:text "я, говорю истинно. Ио, слуги,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_RU a :TranslationVariant ;
+:text "уведите меня как можно скорее, уведите меня прочь,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Lines 1322, 1323 and 1324 do not exist in Antigone
+
+:TV_Line_1325_RU a :TranslationVariant ;
+:text "того, кто больше не существует, чем кто-либо."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_RU a :TranslationVariant ;
+:text "Ты советуешь пользу, если есть какая польза в бедах;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_RU a :TranslationVariant ;
+:text "ведь ближайшие у ног беды, если кратчайшие, — лучшие."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_RU a :TranslationVariant ;
+:text "Пусть придет, пусть придет,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_RU a :TranslationVariant ;
+:text "пусть явится прекраснейшая из моих судеб,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_RU a :TranslationVariant ;
+:text "принося мне последний день,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_RU a :TranslationVariant ;
+:text "предельный; пусть придет, пусть придет,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_RU a :TranslationVariant ;
+:text "чтобы мне больше не увидеть другого дня."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in Antigone
+
+:TV_Line_1334_RU a :TranslationVariant ;
+:text "Это — будущее. Из того, что перед нами, нужно"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_RU a :TranslationVariant ;
+:text "что-то делать; забота об этом у тех, кому должно заботиться."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_RU a :TranslationVariant ;
+:text "Но о том, что я говорю, я тоже помолился."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_RU a :TranslationVariant ;
+:text "Теперь не молись больше ни о чем; ибо от назначенной"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_RU a :TranslationVariant ;
+:text "смертным нет избавления от беды."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_RU a :TranslationVariant ;
+:text "Уведите прочь этого тщетного человека,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_RU a :TranslationVariant ;
+:text "который, о дитя, тебя не по воле убил,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_RU a :TranslationVariant ;
+:text "и тебя также, эту жену; увы мне, несчастному, и я не имею,"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_RU a :TranslationVariant ;
+:text "на кого взглянуть, куда склониться; ведь все"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Lines 1343 and 1344 do not exist in Antigone
+
+:TV_Line_1345_RU a :TranslationVariant ;
+:text "косо в моих руках, а на мою голову"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_RU a :TranslationVariant ;
+:text "вошла судьба, тяжкая для перенесения."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_RU a :TranslationVariant ;
+:text "Много выше всего разумение"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_RU a :TranslationVariant ;
+:text "есть первое основание счастья; и нужно в отношении богов"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in Antigone
+
+:TV_Line_1350_RU a :TranslationVariant ;
+:text "ни в чем не быть нечестивым; великие же слова"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_RU a :TranslationVariant ;
+:text "надменных, выплатив великие удары,"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_RU a :TranslationVariant ;
+:text "в воздаяние"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_RU a :TranslationVariant ;
+:text "на старости научили разумению."^^xsd:string ;
+:relatedTo :Line_1353 .

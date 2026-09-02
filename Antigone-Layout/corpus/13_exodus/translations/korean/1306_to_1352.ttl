@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-korean a owl:Ontology .
+# Korean translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_KO a :TranslationVariant ;
+:text "아아, 아아,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_KO a :TranslationVariant ;
+:text "두려움으로 나는 뛰어올랐다. 왜 아무도 나를 마주하여"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_KO a :TranslationVariant ;
+:text "양날의 칼로 치지 않았는가?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in Antigone
+
+:TV_Line_1310_KO a :TranslationVariant ;
+:text "가련한 나여, 아아,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_KO a :TranslationVariant ;
+:text "나는 가련한 고통과 뒤섞여 있다."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_KO a :TranslationVariant ;
+:text "이 일들과 저 일들의 책임을 지닌 자로서,"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_KO a :TranslationVariant ;
+:text "당신은 이 죽은 여인의 운명에 의해 고발받았습니다."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_KO a :TranslationVariant ;
+:text "그런데 어떤 방식으로 피 속에서 그녀는 자신을 풀어 놓았는가?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_KO a :TranslationVariant ;
+:text "간 아래를 찔러, 자기 손으로 자신을 찔렀습니다,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_KO a :TranslationVariant ;
+:text "아들의 이 날카롭게 통곡할 고통을 알게 되었을 때."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_KO a :TranslationVariant ;
+:text "아아, 이 일들은 다른 어떤 죽을 자에게도"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_KO a :TranslationVariant ;
+:text "결코 맞추어지지 않을 것이다, 내 책임에서 나온 것으로."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_KO a :TranslationVariant ;
+:text "내가, 내가 너를 죽였다, 오 가련한 자여,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_KO a :TranslationVariant ;
+:text "내가, 진실을 말한다. 아, 시종들아,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_KO a :TranslationVariant ;
+:text "나를 가능한 한 빨리 데려가라, 나를 눈앞에서 치워라,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Lines 1322, 1323 and 1324 do not exist in Antigone
+
+:TV_Line_1325_KO a :TranslationVariant ;
+:text "없는 자, 아니 아무도 아닌 자보다 못한 사람을."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_KO a :TranslationVariant ;
+:text "당신은 이로운 것을 권합니다, 재앙 속에 무슨 이로움이 있다면."^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_KO a :TranslationVariant ;
+:text "발앞에 닥친 재앙들은 가장 짧은 것이 가장 좋기 때문입니다."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_KO a :TranslationVariant ;
+:text "오라, 오라,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_KO a :TranslationVariant ;
+:text "내 운명들 가운데 가장 아름다운 운명이 나타나라,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_KO a :TranslationVariant ;
+:text "내게 마지막 날을 가져오는"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_KO a :TranslationVariant ;
+:text "최고의 운명이여. 오라, 오라,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_KO a :TranslationVariant ;
+:text "내가 더 이상 다른 날을 보지 않도록."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in Antigone
+
+:TV_Line_1334_KO a :TranslationVariant ;
+:text "그것들은 앞으로의 일입니다. 놓여 있는 일들 중 무엇인가를"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_KO a :TranslationVariant ;
+:text "해야 합니다. 이 일들은 돌보아야 할 자들이 돌봅니다."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_KO a :TranslationVariant ;
+:text "그러나 내가 바라는 것들, 그것들을 함께 기도하였다."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_KO a :TranslationVariant ;
+:text "이제 아무것도 기도하지 마십시오. 정해진"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_KO a :TranslationVariant ;
+:text "재앙에서 벗어남은 죽을 자들에게 없기 때문입니다."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_KO a :TranslationVariant ;
+:text "쓸모없는 사람을 눈앞에서 데려가라,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_KO a :TranslationVariant ;
+:text "오 아이야, 내가 원해서가 아니라 너를 죽였고,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_KO a :TranslationVariant ;
+:text "또 너도, 이 여인도 죽였으니, 아아 가련한 나여. 나는"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_KO a :TranslationVariant ;
+:text "어느 쪽을 보아야 할지, 어디에 기대야 할지 알지 못한다. 모든 것이"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Lines 1343 and 1344 do not exist in Antigone
+
+:TV_Line_1345_KO a :TranslationVariant ;
+:text "내 손안에서는 비뚤어졌고, 내 머리 위에는"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_KO a :TranslationVariant ;
+:text "감당하기 어려운 운명이 들이닥쳤다."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_KO a :TranslationVariant ;
+:text "분별이야말로 행복의"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_KO a :TranslationVariant ;
+:text "첫째 조건으로 크게 자리한다. 그리고 신들에 관한 일에서는"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in Antigone
+
+:TV_Line_1350_KO a :TranslationVariant ;
+:text "조금도 불경해서는 안 된다. 오만한 자들의"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_KO a :TranslationVariant ;
+:text "큰 말들은 큰 타격들을"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_KO a :TranslationVariant ;
+:text "대가로 치르고 나서"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_KO a :TranslationVariant ;
+:text "늙어서야 분별을 가르쳤다."^^xsd:string ;
+:relatedTo :Line_1353 .

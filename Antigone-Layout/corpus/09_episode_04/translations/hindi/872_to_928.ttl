@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-hindi a owl:Ontology .
+# Hindi translation variants for 872_to_928.ttl
+
+:TV_Line_872_HI a :TranslationVariant ;
+:text "श्रद्धा करना सचमुच एक प्रकार की धर्मनिष्ठा है,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_HI a :TranslationVariant ;
+:text "पर सत्ता, जिसके पास सत्ता की चिंता है,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_HI a :TranslationVariant ;
+:text "किसी भी तरह लाँघी नहीं जा सकती,"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_HI a :TranslationVariant ;
+:text "और तेरे अपने निर्णय वाले क्रोध ने तुझे नष्ट कर दिया।"^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_HI a :TranslationVariant ;
+:text "अनरोई, अमित्र, अविवाहिता, अभागी, मैं ले जाई जा रही हूँ"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_HI a :TranslationVariant ;
+:text "इस अंतिम मार्ग पर। अब मेरे लिए यह"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_HI a :TranslationVariant ;
+:text "दीप्ति की पवित्र आँख"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in Antigone
+
+:TV_Line_880_HI a :TranslationVariant ;
+:text "देखना, हाय अभागी मुझे, अब धर्मसम्मत नहीं।"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_HI a :TranslationVariant ;
+:text "और मेरे भाग्य पर, जो आँसुओं से विहीन है,"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_HI a :TranslationVariant ;
+:text "मेरे अपनों में से कोई विलाप नहीं करता।"^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_HI a :TranslationVariant ;
+:text "क्या तुम जानते हो कि मृत्यु से पहले गीत और विलाप,"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_HI a :TranslationVariant ;
+:text "यदि उन्हें बोलना उपयोगी हो, तो कोई भी उन्हें कभी रोक न सके?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_HI a :TranslationVariant ;
+:text "क्या तुम उसे यथाशीघ्र नहीं ले जाओगे, और छतदार"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_HI a :TranslationVariant ;
+:text "समाधि में लपेटकर बंद करोगे, जैसा मैंने कहा है,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_HI a :TranslationVariant ;
+:text "और उसे अकेली, निर्जन छोड़ दोगे, चाहे मरना आवश्यक हो,"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_HI a :TranslationVariant ;
+:text "या ऐसे आवास में जीवित ही समाधिस्थ रहना।"^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_HI a :TranslationVariant ;
+:text "क्योंकि इस कन्या के संबंध में हमारे हाथ पवित्र हैं;"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_HI a :TranslationVariant ;
+:text "पर ऊपर की निवास-भूमि से वह वंचित रहेगी।"^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_HI a :TranslationVariant ;
+:text "हे समाधि, हे विवाह-कक्ष, हे खोदी हुई"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_HI a :TranslationVariant ;
+:text "सदा पहरा देने वाली निवास-भूमि, जहाँ मैं जा रही हूँ"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_HI a :TranslationVariant ;
+:text "अपने लोगों के पास, जिनकी संख्या मृतकों में"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_HI a :TranslationVariant ;
+:text "सबसे अधिक फेर्सेफासा ने नष्ट हुए लोगों में स्वीकार की है;"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_HI a :TranslationVariant ;
+:text "उनमें सबसे अंतिम मैं, और बहुत ही सबसे दयनीय,"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_HI a :TranslationVariant ;
+:text "नीचे उतर रही हूँ, इससे पहले कि मेरे जीवन का भाग पूरा पहुँचे।"^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_HI a :TranslationVariant ;
+:text "फिर भी वहाँ पहुँचकर मैं इस आशा में दृढ़ता से अपने को पालती हूँ"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_HI a :TranslationVariant ;
+:text "कि पिता को प्रिय होकर पहुँचूँगी, और तुम्हें भी प्रिय,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_HI a :TranslationVariant ;
+:text "माँ, और तुम्हें भी प्रिय, हे भाई के प्रिय मस्तक;"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_HI a :TranslationVariant ;
+:text "क्योंकि जब तुममें से हर एक मरा, तो अपने हाथों से मैंने"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_HI a :TranslationVariant ;
+:text "तुम्हें धोया, सजाया, और समाधि पर"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_HI a :TranslationVariant ;
+:text "अर्घ्य चढ़ाए; पर अब, पोलिनाइकेस, तेरे"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_HI a :TranslationVariant ;
+:text "शरीर को ढँकते हुए ऐसा प्रतिफल पाती हूँ।"^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_HI a :TranslationVariant ;
+:text "और फिर भी बुद्धिमानों की दृष्टि में मैंने तेरा उचित सम्मान किया।"^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_HI a :TranslationVariant ;
+:text "क्योंकि न कभी, यदि मैं बच्चों की माँ होती,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_HI a :TranslationVariant ;
+:text "और न यदि मेरा पति मरकर गल रहा होता,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_HI a :TranslationVariant ;
+:text "नागरिकों के बल के विरुद्ध मैं यह परिश्रम उठाती।"^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_HI a :TranslationVariant ;
+:text "किस नियम के कारण मैं ये बातें कह रही हूँ?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_HI a :TranslationVariant ;
+:text "यदि पति मर जाता, तो मुझे दूसरा मिल सकता था,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_HI a :TranslationVariant ;
+:text "और दूसरे पुरुष से संतान, यदि मैं इस संतान से वंचित होती;"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_HI a :TranslationVariant ;
+:text "पर जब माता और पिता हेडीस में छिपे हुए हैं,"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_HI a :TranslationVariant ;
+:text "कोई भाई कभी फिर अंकुरित होकर उत्पन्न नहीं हो सकता।"^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_HI a :TranslationVariant ;
+:text "ऐसे ही नियम से मैंने तुझे सबसे ऊपर सम्मान दिया,"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_HI a :TranslationVariant ;
+:text "पर क्रेओन को ये कर्म अपराध लगे,"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_HI a :TranslationVariant ;
+:text "और भयानक दुस्साहस लगे, हे भाई के प्रिय मस्तक।"^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_HI a :TranslationVariant ;
+:text "और अब वह मुझे इस प्रकार हाथों से पकड़कर ले जाता है,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_HI a :TranslationVariant ;
+:text "शय्याहीन, विवाह-गीतहीन, विवाह का कोई"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_HI a :TranslationVariant ;
+:text "भाग न पाकर, न बच्चों के पालन-पोषण का भाग,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_HI a :TranslationVariant ;
+:text "बल्कि इस प्रकार अपनों से छोड़ी हुई, मैं अभागी,"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_HI a :TranslationVariant ;
+:text "जीवित ही मृतकों की खोदी हुई समाधियों में जा रही हूँ;"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_HI a :TranslationVariant ;
+:text "मैंने देवताओं के कौन से न्याय को लाँघा?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_HI a :TranslationVariant ;
+:text "मुझ अभागी को देवताओं की ओर अब भी क्यों"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_HI a :TranslationVariant ;
+:text "देखना चाहिए? सहयोगियों में किसे पुकारूँ? क्योंकि सचमुच"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_HI a :TranslationVariant ;
+:text "धर्मनिष्ठा करते हुए मैंने अधर्म का आरोप पाया है।"^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_HI a :TranslationVariant ;
+:text "पर यदि ये बातें देवताओं के बीच सचमुच उचित हैं,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_HI a :TranslationVariant ;
+:text "तो कष्ट भोगकर हम मान लेंगे कि हमने भूल की;"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_HI a :TranslationVariant ;
+:text "पर यदि ये लोग भूल करते हैं, तो वे उससे अधिक दुःख न भोगें"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_HI a :TranslationVariant ;
+:text "जितना वे मेरे साथ अन्यायपूर्वक कर रहे हैं।"^^xsd:string ;
+:relatedTo :Line_928 .

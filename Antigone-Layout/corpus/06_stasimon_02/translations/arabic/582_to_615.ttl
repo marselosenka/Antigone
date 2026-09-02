@@ -1,0 +1,112 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-582-615-arabic a owl:Ontology .
+# Arabic translation variants for 582_to_615.ttl
+
+# Line 582 does not exist in canonical.
+
+:TV_Line_583_AR a :TranslationVariant ;
+:text "سعداء هم الذين يكون العمر عندهم غير ذائق للشرور؛"^^xsd:string ;
+:relatedTo :Line_583 .
+
+:TV_Line_584_AR a :TranslationVariant ;
+:text "فمن يهتز بيته من قِبل الآلهة،"^^xsd:string ;
+:relatedTo :Line_584 .
+
+:TV_Line_585_AR a :TranslationVariant ;
+:text "لا يترك البلاء شيئًا، جارِفًا كثرةً من النسل؛"^^xsd:string ;
+:relatedTo :Line_585 .
+
+:TV_Line_586_AR a :TranslationVariant ;
+:text "مثل أمواج البحر العسيرة النفس، حين"^^xsd:string ;
+:relatedTo :Line_586 .
+
+:TV_Line_587_AR a :TranslationVariant ;
+:text "تهجم ظلمة البحر برياح تراقية،"^^xsd:string ;
+:relatedTo :Line_587 .
+
+# Lines 588 and 589 do not exist in canonical.
+
+:TV_Line_590_AR a :TranslationVariant ;
+:text "فتدحرج من العمق الرمل الأسود، و"^^xsd:string ;
+:relatedTo :Line_590 .
+
+:TV_Line_591_AR a :TranslationVariant ;
+:text "تزمجر الشواطئ المضروبة في وجهها، ذات الرياح العسيرة."^^xsd:string ;
+:relatedTo :Line_591 .
+
+# Line 592 does not exist in canonical.
+
+:TV_Line_593_AR a :TranslationVariant ;
+:text "أرى الآلام القديمة لبيوت اللابداقيين"^^xsd:string ;
+:relatedTo :Line_593 .
+
+# Line 594 does not exist in canonical.
+
+:TV_Line_595_AR a :TranslationVariant ;
+:text "تسقط آلامًا فوق آلام الموتى،"^^xsd:string ;
+:relatedTo :Line_595 .
+
+:TV_Line_596_AR a :TranslationVariant ;
+:text "ولا يحرر جيلٌ جيلًا، بل يهدمه"^^xsd:string ;
+:relatedTo :Line_596 .
+
+:TV_Line_597_AR a :TranslationVariant ;
+:text "إله ما، ولا يكون له حل. فالآن من آخر"^^xsd:string ;
+:relatedTo :Line_597 .
+
+# Lines 598 and 599 do not exist in canonical.
+
+:TV_Line_600_AR a :TranslationVariant ;
+:text "الجذور، النور الذي كان ممتدًا في بيت أوديب،"^^xsd:string ;
+:relatedTo :Line_600 .
+
+:TV_Line_601_AR a :TranslationVariant ;
+:text "تقطعه غبرة دموية من آلهة الأسفل،"^^xsd:string ;
+:relatedTo :Line_601 .
+
+:TV_Line_602_AR a :TranslationVariant ;
+:text "بحماقة الكلام وبجنون الفكر."^^xsd:string ;
+:relatedTo :Line_602 .
+
+# Lines 603 and 604 do not exist in canonical.
+
+:TV_Line_605_AR a :TranslationVariant ;
+:text "قدرتك، يا زيوس، أي تجاوز من الرجال يمسكها؟"^^xsd:string ;
+:relatedTo :Line_605 .
+
+:TV_Line_606_AR a :TranslationVariant ;
+:text "لا النوم يأخذها أبدًا، ذلك الذي يشيخ كل شيء،"^^xsd:string ;
+:relatedTo :Line_606 .
+
+:TV_Line_607_AR a :TranslationVariant ;
+:text "ولا أشهر الآلهة التي لا تكل؛ بل في زمن لا يشيخ"^^xsd:string ;
+:relatedTo :Line_607 .
+
+# Lines 608 and 609 do not exist in canonical.
+
+:TV_Line_610_AR a :TranslationVariant ;
+:text "تمسك، سيدًا، بلمعان أولمبوس المتلألئ."^^xsd:string ;
+:relatedTo :Line_610 .
+
+:TV_Line_611_AR a :TranslationVariant ;
+:text "وهذا الذي بعدُ، وما هو آتٍ،"^^xsd:string ;
+:relatedTo :Line_611 .
+
+:TV_Line_612_AR a :TranslationVariant ;
+:text "وما كان قبل، سيكفيه"^^xsd:string ;
+:relatedTo :Line_612 .
+
+:TV_Line_613_AR a :TranslationVariant ;
+:text "قانون واحد: لا شيء عظيمًا"^^xsd:string ;
+:relatedTo :Line_613 .
+
+:TV_Line_614_AR a :TranslationVariant ;
+:text "يأتي إلى حياة الفانين خارج البلاء."^^xsd:string ;
+:relatedTo :Line_614 .
+
+:TV_Line_615_AR a :TranslationVariant ;
+:text "فإن الأمل الكثير التيه يكون لكثيرين منفعة للرجال،"^^xsd:string ;
+:relatedTo :Line_615 .

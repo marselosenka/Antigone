@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-russian a owl:Ontology .
+# Russian translation variants for 331_to_365.ttl
+
+:TV_Line_331_RU a :TranslationVariant ;
+:text "Спасенный, я должен богам великую благодарность."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_RU a :TranslationVariant ;
+:text "Много есть дивного, и ничто"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_RU a :TranslationVariant ;
+:text "дивнее человека не существует;"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_RU a :TranslationVariant ;
+:text "он и за седое"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_RU a :TranslationVariant ;
+:text "море зимним южным ветром"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_RU a :TranslationVariant ;
+:text "идет, проходя под"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_RU a :TranslationVariant ;
+:text "окружающе ревущими волнами; и из богов"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_RU a :TranslationVariant ;
+:text "высочайшую Землю,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_RU a :TranslationVariant ;
+:text "нетленную, неутомимую, он истощает,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_RU a :TranslationVariant ;
+:text "когда плуги вращаются из года в год,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_RU a :TranslationVariant ;
+:text "возделывая ее конским родом."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_RU a :TranslationVariant ;
+:text "И легкомысленное племя"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_RU a :TranslationVariant ;
+:text "птиц, набросив сеть, ловит,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_RU a :TranslationVariant ;
+:text "и роды диких зверей,"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_RU a :TranslationVariant ;
+:text "и морскую природу понта"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_RU a :TranslationVariant ;
+:text "петлями сплетенных сетей,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_RU a :TranslationVariant ;
+:text "изобретательный человек; он властвует"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_RU a :TranslationVariant ;
+:text "средствами над полевым"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in Antigone
+
+:TV_Line_350_RU a :TranslationVariant ;
+:text "горным зверем и косматошеим"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_RU a :TranslationVariant ;
+:text "конем, подводя его под охватывающее шею ярмо,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_RU a :TranslationVariant ;
+:text "и неутомимым горным быком."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Line 353 and 354 do not exist in Antigone
+
+:TV_Line_355_RU a :TranslationVariant ;
+:text "И речь, и ветреную мысль, и городоуправляющие"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_RU a :TranslationVariant ;
+:text "нравы он себе преподал, и от негостеприимных"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_RU a :TranslationVariant ;
+:text "морозов под открытым небом и от стрел ливня убегать;"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_RU a :TranslationVariant ;
+:text "всепроходящий; без выхода ни к чему он не приходит"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in Antigone
+
+:TV_Line_360_RU a :TranslationVariant ;
+:text "в будущем; только от Аида бегства он не добудет;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_RU a :TranslationVariant ;
+:text "но для беспомощных болезней он придумал избавления."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Line 362, 363, 364 and 365 do not exist in Antigone

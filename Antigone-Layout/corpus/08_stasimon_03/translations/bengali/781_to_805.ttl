@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-bengali a owl:Ontology .
+# Bengali translation variants for 781_to_805.ttl
+
+:TV_Line_781_BN a :TranslationVariant ;
+:text "হে প্রেম, যুদ্ধে অজেয়; হে প্রেম, তুমি সম্পদের উপর ঝাঁপিয়ে পড়ো,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_BN a :TranslationVariant ;
+:text "তুমি তরুণীর কোমল গালে রাত্রিযাপন করো,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Line 783 and 784 do not exist in Antigone
+
+:TV_Line_785_BN a :TranslationVariant ;
+:text "আর তুমি সাগরের ওপারে, গ্রাম্য আঙিনাতেও ঘুরে বেড়াও;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_BN a :TranslationVariant ;
+:text "অমরদের মধ্যে কেউই তোমার কাছ থেকে পালাতে পারে না,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Line 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_BN a :TranslationVariant ;
+:text "দিনজীবী মানুষদের মধ্যেও কেউ নয়; আর যাকে তুমি ধরো, সে উন্মত্ত হয়ে যায়।"^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_BN a :TranslationVariant ;
+:text "তুমি ন্যায়বানদের মনও অপমানে অন্যায়ের দিকে টেনে নিয়ে যাও,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_BN a :TranslationVariant ;
+:text "তুমিই রক্তসম্পর্কিত পুরুষদের এই বিবাদও আলোড়িত করেছ;"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Line 793 and 794 do not exist in Antigone
+
+:TV_Line_795_BN a :TranslationVariant ;
+:text "সুন্দর শয্যার বধূর চোখের পাতা থেকে উজ্জ্বল আকাঙ্ক্ষাই জয়ী হয়,"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_BN a :TranslationVariant ;
+:text "মহান বিধানগুলির আদিতে সহাসনে বসে,"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Line 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_BN a :TranslationVariant ;
+:text "বিধানের মধ্যে; কারণ অপ্রতিরোধ্য দেবী আফ্রোদিতি খেলা করেন।"^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_BN a :TranslationVariant ;
+:text "এখন আমিও ইতিমধ্যে বিধানের বাইরে বহিত হচ্ছি,"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_BN a :TranslationVariant ;
+:text "এই দৃশ্য দেখে; আর আর ধরে রাখতে পারছি না"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_BN a :TranslationVariant ;
+:text "অশ্রুর উৎসগুলোকে,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_BN a :TranslationVariant ;
+:text "যখন আমি সকলের শয্যা, সেই অন্তিম কক্ষ দেখি,"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_BN a :TranslationVariant ;
+:text "আর এই আন্তিগোনেকে তার দিকে এগিয়ে যেতে দেখি।"^^xsd:string ;
+:relatedTo :Line_805 .

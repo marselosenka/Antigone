@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-german a owl:Ontology .
+# German translation variants for 63_to_89.ttl
+
+:TV_Line_63_DE a :TranslationVariant ;
+:text "und ferner, weil wir von Stärkeren beherrscht werden,"^^xsd:string ;
+:relatedTo :Line_63 .
+
+:TV_Line_64_DE a :TranslationVariant ;
+:text "auch dies zu hören und noch Schmerzlicheres als dies."^^xsd:string ;
+:relatedTo :Line_64 .
+
+:TV_Line_65_DE a :TranslationVariant ;
+:text "Ich also, indem ich die unter der Erde bitte,"^^xsd:string ;
+:relatedTo :Line_65 .
+
+:TV_Line_66_DE a :TranslationVariant ;
+:text "Nachsicht zu haben, da ich zu diesen Dingen gezwungen werde,"^^xsd:string ;
+:relatedTo :Line_66 .
+
+:TV_Line_67_DE a :TranslationVariant ;
+:text "werde denen gehorchen, die in Macht stehen; denn"^^xsd:string ;
+:relatedTo :Line_67 .
+
+:TV_Line_68_DE a :TranslationVariant ;
+:text "Übermäßiges zu tun hat keinen Sinn."^^xsd:string ;
+:relatedTo :Line_68 .
+
+:TV_Line_69_DE a :TranslationVariant ;
+:text "Weder würde ich dich auffordern, noch, wenn du noch handeln wolltest,"^^xsd:string ;
+:relatedTo :Line_69 .
+
+:TV_Line_70_DE a :TranslationVariant ;
+:text "würdest du mit meiner Hilfe gern handeln."^^xsd:string ;
+:relatedTo :Line_70 .
+
+:TV_Line_71_DE a :TranslationVariant ;
+:text "Aber wisse, wie es dir scheint; jenen aber werde ich"^^xsd:string ;
+:relatedTo :Line_71 .
+
+:TV_Line_72_DE a :TranslationVariant ;
+:text "bestatten. Schön ist es mir, wenn ich dabei sterbe."^^xsd:string ;
+:relatedTo :Line_72 .
+
+:TV_Line_73_DE a :TranslationVariant ;
+:text "Als Liebe werde ich bei ihm liegen, bei einem Lieben,"^^xsd:string ;
+:relatedTo :Line_73 .
+
+:TV_Line_74_DE a :TranslationVariant ;
+:text "nach heiliger Pflicht frevelnd; denn länger ist die Zeit,"^^xsd:string ;
+:relatedTo :Line_74 .
+
+:TV_Line_75_DE a :TranslationVariant ;
+:text "in der ich denen unten gefallen muss als denen hier."^^xsd:string ;
+:relatedTo :Line_75 .
+
+:TV_Line_76_DE a :TranslationVariant ;
+:text "Denn dort werde ich für immer liegen; wenn es dir aber gut scheint,"^^xsd:string ;
+:relatedTo :Line_76 .
+
+:TV_Line_77_DE a :TranslationVariant ;
+:text "halte die ehrwürdigen Dinge der Götter entehrt."^^xsd:string ;
+:relatedTo :Line_77 .
+
+:TV_Line_78_DE a :TranslationVariant ;
+:text "Ich halte sie nicht für unehrenhaft; doch"^^xsd:string ;
+:relatedTo :Line_78 .
+
+:TV_Line_79_DE a :TranslationVariant ;
+:text "gegen die Gewalt der Bürger zu handeln, bin ich unfähig geboren."^^xsd:string ;
+:relatedTo :Line_79 .
+
+:TV_Line_80_DE a :TranslationVariant ;
+:text "Du magst dies vorbringen; ich aber werde gehen,"^^xsd:string ;
+:relatedTo :Line_80 .
+
+:TV_Line_81_DE a :TranslationVariant ;
+:text "um meinem liebsten Bruder ein Grab aufzuschütten."^^xsd:string ;
+:relatedTo :Line_81 .
+
+:TV_Line_82_DE a :TranslationVariant ;
+:text "Weh mir Armen, wie sehr fürchte ich um dich."^^xsd:string ;
+:relatedTo :Line_82 .
+
+:TV_Line_83_DE a :TranslationVariant ;
+:text "Fürchte nicht für mich voraus; richte dein eigenes Los gerade."^^xsd:string ;
+:relatedTo :Line_83 .
+
+:TV_Line_84_DE a :TranslationVariant ;
+:text "Dann melde wenigstens niemandem vorher"^^xsd:string ;
+:relatedTo :Line_84 .
+
+:TV_Line_85_DE a :TranslationVariant ;
+:text "diese Tat, sondern verbirg sie im Geheimen; ebenso werde ich es tun."^^xsd:string ;
+:relatedTo :Line_85 .
+
+:TV_Line_86_DE a :TranslationVariant ;
+:text "Weh mir, sprich es aus; weit verhasster wirst du sein,"^^xsd:string ;
+:relatedTo :Line_86 .
+
+:TV_Line_87_DE a :TranslationVariant ;
+:text "wenn du schweigst, statt dies allen zu verkünden."^^xsd:string ;
+:relatedTo :Line_87 .
+
+:TV_Line_88_DE a :TranslationVariant ;
+:text "Ein heißes Herz hast du bei kalten Dingen."^^xsd:string ;
+:relatedTo :Line_88 .
+
+:TV_Line_89_DE a :TranslationVariant ;
+:text "Aber ich weiß, dass ich denen gefalle, denen ich vor allem gefallen muss."^^xsd:string ;
+:relatedTo :Line_89 .

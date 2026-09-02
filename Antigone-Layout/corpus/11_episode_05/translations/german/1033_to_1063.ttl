@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-german a owl:Ontology .
+# German translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_DE a :TranslationVariant ;
+:text "Alter, ihr alle, wie Bogenschützen auf ein Ziel,"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_DE a :TranslationVariant ;
+:text "schießt auf diesen Mann, und auch von der Seherkunst"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_DE a :TranslationVariant ;
+:text "bin ich euch nicht unberührt; von eurem Geschlecht"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_DE a :TranslationVariant ;
+:text "bin ich längst verkauft und als Fracht beladen."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_DE a :TranslationVariant ;
+:text "Macht Gewinn, handelt mit dem aus Sardes stammenden"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_DE a :TranslationVariant ;
+:text "Elektron, wenn ihr wollt, und dem indischen"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_DE a :TranslationVariant ;
+:text "Gold; jenen aber werdet ihr nicht im Grab verbergen,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_DE a :TranslationVariant ;
+:text "auch nicht wenn die Adler des Zeus die Speise"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_DE a :TranslationVariant ;
+:text "ihn raubend zu den Thronen des Zeus tragen wollten,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_DE a :TranslationVariant ;
+:text "nicht einmal so werde ich, diese Befleckung fürchtend,"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_DE a :TranslationVariant ;
+:text "erlauben, jenen zu begraben; denn ich weiß gut, dass"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_DE a :TranslationVariant ;
+:text "keiner der Menschen die Götter zu beflecken vermag."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_DE a :TranslationVariant ;
+:text "Es fallen aber, alter Teiresias, unter den Sterblichen"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_DE a :TranslationVariant ;
+:text "auch die in vielem Klugen in schändliche Stürze, wenn sie Worte"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_DE a :TranslationVariant ;
+:text "schändlich schön reden um des Gewinnes willen."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_DE a :TranslationVariant ;
+:text "Weh; weiß denn irgendeiner der Menschen, bedenkt er denn,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_DE a :TranslationVariant ;
+:text "Was für eine Sache? Was für ein ganz gemeinsames Wort sprichst du?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_DE a :TranslationVariant ;
+:text "Um wie viel das beste der Besitztümer guter Rat ist?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_DE a :TranslationVariant ;
+:text "Um so viel, meine ich, wie Nicht-Denken der größte Schaden ist."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_DE a :TranslationVariant ;
+:text "Von dieser Krankheit bist du jedoch voll geworden."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_DE a :TranslationVariant ;
+:text "Ich will dem Seher nicht mit bösen Worten widersprechen."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_DE a :TranslationVariant ;
+:text "Und doch tust du es, indem du sagst, ich weissagte Falsches."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_DE a :TranslationVariant ;
+:text "Denn das ganze Sehergeschlecht ist geldliebend."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_DE a :TranslationVariant ;
+:text "Das der Tyrannen aber liebt schändlichen Gewinn."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_DE a :TranslationVariant ;
+:text "Weißt du, dass du, was du sagst, zu Herrschern sagst?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_DE a :TranslationVariant ;
+:text "Ich weiß es; denn durch mich hast du diese Stadt gerettet."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_DE a :TranslationVariant ;
+:text "Du bist ein weiser Seher, aber einer, der Unrecht liebt."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_DE a :TranslationVariant ;
+:text "Du wirst mich antreiben, das Unbewegliche in meinem Sinn auszusprechen."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_DE a :TranslationVariant ;
+:text "Bewege es, nur sprich nicht um Gewinne willen."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_DE a :TranslationVariant ;
+:text "Denn so scheine ich dir wohl schon, was deinen Teil betrifft."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_DE a :TranslationVariant ;
+:text "Wisse, dass du meinen Sinn nicht erkaufen wirst."^^xsd:string ;
+:relatedTo :Line_1063 .

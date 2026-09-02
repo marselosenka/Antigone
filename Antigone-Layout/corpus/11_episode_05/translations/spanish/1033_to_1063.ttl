@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-spanish a owl:Ontology .
+# Spanish translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1033 ; :text "Anciano, todos vosotros, como arqueros contra un blanco,"^^xsd:string .
+:TV_Line_1034_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1034 ; :text "disparáis contra este hombre; y ni siquiera de la adivinación"^^xsd:string .
+:TV_Line_1035_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1035 ; :text "estoy libre para vosotros; por vuestra casta"^^xsd:string .
+:TV_Line_1036_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1036 ; :text "he sido vendido y cargado como mercancía desde hace tiempo."^^xsd:string .
+:TV_Line_1037_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1037 ; :text "Ganad, comerciad con el electro de Sardes,"^^xsd:string .
+:TV_Line_1038_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1038 ; :text "si queréis, y con el oro indio;"^^xsd:string .
+:TV_Line_1039_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1039 ; :text "pero a aquel no lo ocultaréis en una tumba,"^^xsd:string .
+:TV_Line_1040_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1040 ; :text "ni aunque las águilas de Zeus quisieran su presa"^^xsd:string .
+:TV_Line_1041_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1041 ; :text "y, arrebatándolo, llevarlo hasta los tronos de Zeus;"^^xsd:string .
+:TV_Line_1042_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1042 ; :text "ni aun así, temiendo yo esta mancha,"^^xsd:string .
+:TV_Line_1043_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1043 ; :text "permitiré enterrarlo; pues sé bien que"^^xsd:string .
+:TV_Line_1044_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1044 ; :text "ningún ser humano tiene fuerza para manchar a los dioses."^^xsd:string .
+:TV_Line_1045_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1045 ; :text "Caen, anciano Tiresias, entre los mortales"^^xsd:string .
+:TV_Line_1046_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1046 ; :text "también los muy hábiles en caídas vergonzosas, cuando palabras"^^xsd:string .
+:TV_Line_1047_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1047 ; :text "vergonzosas dicen bellamente por causa de ganancia."^^xsd:string .
+:TV_Line_1048_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1048 ; :text "Ay, ¿sabe algún hombre, acaso comprende,"^^xsd:string .
+:TV_Line_1049_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1049 ; :text "qué cosa? ¿Qué dicho tan común dices?"^^xsd:string .
+:TV_Line_1050_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1050 ; :text "¿Cuánto es la prudencia el mejor de los bienes?"^^xsd:string .
+:TV_Line_1051_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1051 ; :text "Tanto, creo, como la falta de juicio es el mayor daño."^^xsd:string .
+:TV_Line_1052_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1052 ; :text "Y tú, sin embargo, estás lleno de esa enfermedad."^^xsd:string .
+:TV_Line_1053_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1053 ; :text "No quiero responder mal al adivino."^^xsd:string .
+:TV_Line_1054_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1054 ; :text "Y, sin embargo, lo haces al decir que profetizo falsedades."^^xsd:string .
+:TV_Line_1055_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1055 ; :text "Toda la raza de los adivinos ama el dinero."^^xsd:string .
+:TV_Line_1056_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1056 ; :text "Y la de los tiranos ama la ganancia vergonzosa."^^xsd:string .
+:TV_Line_1057_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1057 ; :text "¿Sabes que dices lo que dices a quienes gobiernan?"^^xsd:string .
+:TV_Line_1058_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1058 ; :text "Lo sé; por mí tienes esta ciudad salvada."^^xsd:string .
+:TV_Line_1059_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1059 ; :text "Eres sabio adivino, pero amante de hacer injusticia."^^xsd:string .
+:TV_Line_1060_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1060 ; :text "Me incitarás a decir lo inmóvil que tengo en la mente."^^xsd:string .
+:TV_Line_1061_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1061 ; :text "Muévelo, solo no hables por ganancias."^^xsd:string .
+:TV_Line_1062_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1062 ; :text "Pues así parece ya, al menos por lo que toca a tu parte."^^xsd:string .
+:TV_Line_1063_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1063 ; :text "Sabe que no comprarás mi pensamiento."^^xsd:string .

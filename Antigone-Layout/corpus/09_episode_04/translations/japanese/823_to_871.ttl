@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-japanese a owl:Ontology .
+# Japanese translation variants for 823_to_871.ttl
+
+:TV_Line_823_JA a :TranslationVariant ;
+:text "私は聞いたことがある、最も悲惨に滅びたと、あのプリュギアの客人、"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in Antigone
+
+:TV_Line_825_JA a :TranslationVariant ;
+:text "タンタロスの娘が、シピュロスの頂のそばで、蔦のように動かぬ"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_JA a :TranslationVariant ;
+:text "岩の芽生えに制圧され、雨が彼女を溶かしながら、"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_JA a :TranslationVariant ;
+:text "人々の言い伝えによれば、"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Lines 828 and 829 do not exist in Antigone
+
+:TV_Line_830_JA a :TranslationVariant ;
+:text "雪も決して彼女を離れず、全く泣く眉の下で"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_JA a :TranslationVariant ;
+:text "首筋を濡らす。神霊は私を彼女に最も似た者として眠らせる。"^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Lines 832 and 833 do not exist in Antigone
+
+:TV_Line_834_JA a :TranslationVariant ;
+:text "しかし彼女は神であり、神から生まれた者、"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_JA a :TranslationVariant ;
+:text "私たちは死すべき者で、死すべき者から生まれた者。"^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_JA a :TranslationVariant ;
+:text "それでも、死んだ者にとって、聞くことは大きなことだ、"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_JA a :TranslationVariant ;
+:text "神々に等しい者たちと同じ分け前を得るとは。"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_JA a :TranslationVariant ;
+:text "生きている時も、そして死んだ後も。"^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_JA a :TranslationVariant ;
+:text "ああ、私は笑われている。父祖の神々にかけて、なぜ私を、"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_JA a :TranslationVariant ;
+:text "去ってしまった者としてではなく、まだ見える者として辱めるのか。"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_JA a :TranslationVariant ;
+:text "おお町よ、おお町の多くを所有する男たちよ。"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_JA a :TranslationVariant ;
+:text "イオ、ディルケの泉よ、"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Lines 843 and 844 do not exist in Antigone
+
+:TV_Line_845_JA a :TranslationVariant ;
+:text "よい戦車のテーバイの森よ、ともかく私はあなた方を共に証人として得る、"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_JA a :TranslationVariant ;
+:text "友たちに泣かれず、どのような法によって、"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_JA a :TranslationVariant ;
+:text "土を盛られた墓の囲いへ、流れゆく墓へと私は行くのかを。"^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Lines 848 and 849 do not exist in Antigone
+
+:TV_Line_850_JA a :TranslationVariant ;
+:text "死者でありながら死者たちの"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_JA a :TranslationVariant ;
+:text "同居者でもなく、生者たちにも、死者たちにも属さない。"^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in Antigone
+
+:TV_Line_853_JA a :TranslationVariant ;
+:text "大胆さの最果てへ進み、"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_JA a :TranslationVariant ;
+:text "ディケーの高い台座へ"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_JA a :TranslationVariant ;
+:text "あなたは大きくぶつかった、子よ。"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_JA a :TranslationVariant ;
+:text "そして父祖からの何かの試練を償っている。"^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in Antigone
+
+:TV_Line_858_JA a :TranslationVariant ;
+:text "あなたは私に最も苦しい思いに触れた、"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_JA a :TranslationVariant ;
+:text "父の三重の町に及ぶ嘆きと、すべての"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_JA a :TranslationVariant ;
+:text "私たちの運命、名高いラブダコス家のことに。"^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_JA a :TranslationVariant ;
+:text "イオ、母の婚床の"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Lines 862, 863 and 864 do not exist in Antigone
+
+:TV_Line_865_JA a :TranslationVariant ;
+:text "破滅よ、また私の父にとって、不幸な母の自ら生んだ寝床よ、"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_JA a :TranslationVariant ;
+:text "そのような者たちから、かつて私は哀れな者として生まれた。"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_JA a :TranslationVariant ;
+:text "その者たちのもとへ、呪われた、婚なき同居人として、私は行く。"^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Lines 868 and 869 do not exist in Antigone
+
+:TV_Line_870_JA a :TranslationVariant ;
+:text "おお、不幸な結婚に出会った兄弟よ、"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_JA a :TranslationVariant ;
+:text "あなたは死んで、なお生きている私を殺した。"^^xsd:string ;
+:relatedTo :Line_871 .

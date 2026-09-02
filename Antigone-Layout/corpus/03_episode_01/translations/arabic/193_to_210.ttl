@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-arabic a owl:Ontology .
+# Arabic translation variants for 193_to_210.ttl
+
+:TV_Line_193_AR a :TranslationVariant ;
+:text "للمواطنين بشأن ابني أوديب:"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_AR a :TranslationVariant ;
+:text "أما إتيوكليس، الذي مات مدافعًا"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_AR a :TranslationVariant ;
+:text "عن هذه المدينة، وقد برع في كل شيء بالرمح،"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_AR a :TranslationVariant ;
+:text "فليُستر بدفن، ولتُنجز له كل الطقوس الطاهرة"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_AR a :TranslationVariant ;
+:text "التي تأتي إلى أسفل لأفضل الموتى؛"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_AR a :TranslationVariant ;
+:text "أما شقيقه في الدم، وأعني بولينيكيس،"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_AR a :TranslationVariant ;
+:text "الذي عاد من المنفى يريد أرض الآباء وآلهة النسب"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_AR a :TranslationVariant ;
+:text "أن يحرقها بالنار"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_AR a :TranslationVariant ;
+:text "من رأسها، وأراد من الدم"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_AR a :TranslationVariant ;
+:text "المشترك أن يشبع، وأن يقود الباقين مستعبدين،"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_AR a :TranslationVariant ;
+:text "فقد أُعلن لهذه المدينة ألا يكرمه أحد"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_AR a :TranslationVariant ;
+:text "بقبر ولا يندبه،"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_AR a :TranslationVariant ;
+:text "بل يتركه بلا دفن، وجسده للطيور"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_AR a :TranslationVariant ;
+:text "وللكلاب مأكولًا، ومنظرًا مشوَّهًا."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_AR a :TranslationVariant ;
+:text "مثل هذا هو رأيي، ولن ينال أبدًا مني"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_AR a :TranslationVariant ;
+:text "الأشرار كرامة قبل أهل العدل."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_AR a :TranslationVariant ;
+:text "بل من كان محبًّا لهذه المدينة، فميتًا"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_AR a :TranslationVariant ;
+:text "وحيًّا سيُكرم عندي على السواء."^^xsd:string ;
+:relatedTo :Line_210 .

@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-bengali a owl:Ontology .
+# Bengali translation variants for 113_to_140.ttl
+
+:TV_Line_113_BN a :TranslationVariant ;
+:text "ঈগলের মতো ভূমির উপর দিয়ে উড়ে গেল,"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_BN a :TranslationVariant ;
+:text "সাদা তুষারের পাখায় আচ্ছাদিত,"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_BN a :TranslationVariant ;
+:text "অনেক অস্ত্রসহ"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_BN a :TranslationVariant ;
+:text "এবং অশ্বকেশ-শোভিত শিরস্ত্রাণসহ।"^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_BN a :TranslationVariant ;
+:text "ছাদের উপর দাঁড়িয়ে, রক্তলোভী বর্শা নিয়ে চারদিকে মুখ হা করে,"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_BN a :TranslationVariant ;
+:text "সাত-দ্বারী মুখের চারদিকে"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_BN a :TranslationVariant ;
+:text "সে চলে গেল, তার আগে কখনও আমাদের"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_BN a :TranslationVariant ;
+:text "রক্তে তার চোয়াল পূর্ণ হয়নি, আর টাওয়ারগুলির মুকুট"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_BN a :TranslationVariant ;
+:text "পাইন-জ্বালানো হেফাইস্টসের আগুনে দখল করেনি। এমন আঘাত তার পিঠের চারপাশে প্রসারিত হল,"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Line 122, 123 and 124 do not exist in Antigone
+
+:TV_Line_125_BN a :TranslationVariant ;
+:text "আরেসের সংঘর্ষ, প্রতিপক্ষ ড্রাগনের জন্য দুঃসাধ্য দমন।"^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in Antigone
+
+:TV_Line_127_BN a :TranslationVariant ;
+:text "কারণ জিউস বড় জিহ্বার গর্বোক্তি"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_BN a :TranslationVariant ;
+:text "অতিশয় ঘৃণা করেন; আর তাদের দেখে,"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_BN a :TranslationVariant ;
+:text "প্রচুর স্রোতের মতো এগিয়ে আসছে,"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_BN a :TranslationVariant ;
+:text "সোনার ঝঙ্কারে উদ্ধত,"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_BN a :TranslationVariant ;
+:text "তিনি নিক্ষিপ্ত আগুন দিয়ে ছুড়ে মারলেন"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_BN a :TranslationVariant ;
+:text "দৌড়ের প্রান্তের চূড়ায় তখনই"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_BN a :TranslationVariant ;
+:text "জয়ের আর্তনাদ করতে উদ্যত তাকে;"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_BN a :TranslationVariant ;
+:text "আর প্রতিধ্বনিময় মাটিতে সে পড়ে গেল, ট্যান্টালাসের মতো আঘাতপ্রাপ্ত,"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_BN a :TranslationVariant ;
+:text "সে অগ্নিবাহী, যে তখন উন্মত্ত ঝাঁপে"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_BN a :TranslationVariant ;
+:text "বাকখিক উন্মাদনায় নিঃশ্বাস ফেলছিল"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_BN a :TranslationVariant ;
+:text "অতি ঘৃণ্য বাতাসের ঝাপটার মতো।"^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_BN a :TranslationVariant ;
+:text "কিন্তু অন্যদিকে অন্য সব ছিল,"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_BN a :TranslationVariant ;
+:text "আর অন্যদের উপর অন্যভাবে আঘাত করতে করতে চালাচ্ছিলেন"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_BN a :TranslationVariant ;
+:text "মহান আরেস, ডানদিকের জোতা-ঘোড়ার মতো।"^^xsd:string ;
+:relatedTo :Line_140 .

@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-japanese a owl:Ontology .
+# Japanese translation variants for 302_to_323.ttl
+
+:TV_Line_302_JA a :TranslationVariant ;
+:text "だが、賃金を得てこれらをやり遂げた者たちは皆、"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_JA a :TranslationVariant ;
+:text "いつか時とともに、罰を払うようにやり遂げるのだ。"^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_JA a :TranslationVariant ;
+:text "しかし、もしゼウスがなお私から敬いを持っているなら、"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_JA a :TranslationVariant ;
+:text "これをよく知れ。誓いをもってお前に言う、"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_JA a :TranslationVariant ;
+:text "もしこの墓の自らの手で行った者を"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_JA a :TranslationVariant ;
+:text "見つけ出し、私の目の前へ明らかにしないなら、"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_JA a :TranslationVariant ;
+:text "お前たちにはハデスだけでは足りないだろう、"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_JA a :TranslationVariant ;
+:text "生きたまま吊るされ、この傲慢を明らかにするまでは。"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_JA a :TranslationVariant ;
+:text "そのようにして、利益はどこから取るべきかを知り、"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_JA a :TranslationVariant ;
+:text "今後は奪うがよい。そして学ぶがよい、"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_JA a :TranslationVariant ;
+:text "あらゆるものから利益を愛すべきではないということを。"^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_JA a :TranslationVariant ;
+:text "というのも、恥ずべき利得からは、より多くの者が"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_JA a :TranslationVariant ;
+:text "救われるよりも、破滅しているのを見られるだろうから。"^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_JA a :TranslationVariant ;
+:text "話すことをお許しになりますか。それとも、このまま向きを変えて行きましょうか。"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_JA a :TranslationVariant ;
+:text "お前は今も、自分がどれほど苦々しく話しているか知らないのか。"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_JA a :TranslationVariant ;
+:text "耳の中で噛みついているのですか、それとも魂の上でですか。"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_JA a :TranslationVariant ;
+:text "なぜ私の苦痛がどこにあるかを調律するのか。"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_JA a :TranslationVariant ;
+:text "行った者はあなたの心を苦しめ、耳は私が苦しめています。"^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_JA a :TranslationVariant ;
+:text "ああ、お前は明らかにおしゃべりとして生まれついている。"^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_JA a :TranslationVariant ;
+:text "しかし、少なくともこの行いをした者では決してありません。"^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_JA a :TranslationVariant ;
+:text "しかも銀のために魂を売ってだ。"^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_JA a :TranslationVariant ;
+:text "ああ、考える者にとって、偽りを考えることは実に恐ろしい。"^^xsd:string ;
+:relatedTo :Line_323 .

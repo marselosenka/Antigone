@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-italian a owl:Ontology .
+# Italian translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_IT a :TranslationVariant ;
+:text "Ahimè, ahimè,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_IT a :TranslationVariant ;
+:text "mi sono spalancato di paura. Perché qualcuno non mi colpisce"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_IT a :TranslationVariant ;
+:text "di fronte con spada a doppio taglio?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in canonical.
+
+:TV_Line_1310_IT a :TranslationVariant ;
+:text "misero io, ahimè,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_IT a :TranslationVariant ;
+:text "sono mescolato con misera sciagura."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_IT a :TranslationVariant ;
+:text "Come colpevole di queste e di quelle cose"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_IT a :TranslationVariant ;
+:text "sei accusato dalle sorti di questa morta."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_IT a :TranslationVariant ;
+:text "E in quale modo si sciolse nel sangue?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_IT a :TranslationVariant ;
+:text "Colpendo sé stessa sotto il fegato, di propria mano,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_IT a :TranslationVariant ;
+:text "quando comprese questa sofferenza del figlio dal lamento acuto."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_IT a :TranslationVariant ;
+:text "Ahimè, queste cose non si adatteranno mai ad altro mortale"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_IT a :TranslationVariant ;
+:text "per colpa mia."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_IT a :TranslationVariant ;
+:text "Io infatti, io ti uccisi, o misera,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_IT a :TranslationVariant ;
+:text "io, dico il vero. O servi,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_IT a :TranslationVariant ;
+:text "portatemi via al più presto, conducetemi fuori dai piedi,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Lines 1322, 1323, and 1324 do not exist in canonical.
+
+:TV_Line_1325_IT a :TranslationVariant ;
+:text "me, che sono nulla, più che nessuno."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_IT a :TranslationVariant ;
+:text "Consigli vantaggi, se c’è qualche vantaggio nei mali;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_IT a :TranslationVariant ;
+:text "infatti i mali presenti, brevissimi, sono i migliori."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_IT a :TranslationVariant ;
+:text "Venga, venga,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_IT a :TranslationVariant ;
+:text "appaia il più bello dei miei destini,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_IT a :TranslationVariant ;
+:text "portando per me il giorno finale,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_IT a :TranslationVariant ;
+:text "ultimo; venga, venga,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_IT a :TranslationVariant ;
+:text "così che io non veda più un altro giorno."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in canonical.
+
+:TV_Line_1334_IT a :TranslationVariant ;
+:text "Queste cose sono future. Bisogna fare qualcosa"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_IT a :TranslationVariant ;
+:text "delle cose presenti; infatti di queste si curano coloro a cui bisogna curarsene."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_IT a :TranslationVariant ;
+:text "Ma per le cose che desidero, queste ho pregato insieme."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_IT a :TranslationVariant ;
+:text "Ora non pregare nulla; poiché da una sventura destinata"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_IT a :TranslationVariant ;
+:text "non c’è per i mortali liberazione."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_IT a :TranslationVariant ;
+:text "Conducete via dai piedi quest’uomo vano,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_IT a :TranslationVariant ;
+:text "che, figlio, uccisi te non volontariamente"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_IT a :TranslationVariant ;
+:text "e poi anche te, questa qui; ahimè, misero, non ho"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_IT a :TranslationVariant ;
+:text "verso quale dei due guardare, dove inclinarmi; tutto infatti"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Lines 1343 and 1344 do not exist in canonical.
+
+:TV_Line_1345_IT a :TranslationVariant ;
+:text "nelle mie mani è storto, e sul mio capo"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_IT a :TranslationVariant ;
+:text "una sorte difficile da portare è balzata."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_IT a :TranslationVariant ;
+:text "Di gran lunga il pensare bene è"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_IT a :TranslationVariant ;
+:text "il primo fondamento della felicità; e bisogna, verso gli dèi,"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in canonical.
+
+:TV_Line_1350_IT a :TranslationVariant ;
+:text "non commettere empietà in nulla; e grandi parole"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_IT a :TranslationVariant ;
+:text "dei superbi, avendo pagato grandi colpi,"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_IT a :TranslationVariant ;
+:text "dopo averle ripagate"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_IT a :TranslationVariant ;
+:text "insegnarono in vecchiaia il pensare bene."^^xsd:string ;
+:relatedTo :Line_1353 .

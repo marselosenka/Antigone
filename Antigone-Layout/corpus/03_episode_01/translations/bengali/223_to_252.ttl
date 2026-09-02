@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-bengali a owl:Ontology .
+# Bengali translation variants for 223_to_252.ttl
+
+:TV_Line_223_BN a :TranslationVariant ;
+:text "রাজা, বলব তো বটেই, কিন্তু এমন নয় যে তাড়ার চাপে"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_BN a :TranslationVariant ;
+:text "শ্বাসকষ্টে এসে, হালকা পা তুলে দ্রুত পৌঁছেছি।"^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_BN a :TranslationVariant ;
+:text "কারণ বহুবার চিন্তার থামা আমার হয়েছিল,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_BN a :TranslationVariant ;
+:text "পথে নিজেকে ঘুরিয়ে ফিরে যাওয়ার দিকে চালাতে চালাতে;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_BN a :TranslationVariant ;
+:text "কারণ আমার প্রাণ আমাকে অনেক কথা বলে উঠছিল,"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_BN a :TranslationVariant ;
+:text "হে হতভাগা, কোথায় যাচ্ছ, যেখানে গিয়ে শাস্তি পাবে?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_BN a :TranslationVariant ;
+:text "হে দুঃখী, আবার থাকবে? আর যদি ক্রেয়ন এসব জানতে পারে"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_BN a :TranslationVariant ;
+:text "অন্য কোনো মানুষের কাছ থেকে, তাহলে তুমি কীভাবে যন্ত্রণাহীন থাকবে?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_BN a :TranslationVariant ;
+:text "এমন সব কথা ঘুরিয়ে ফিরিয়ে আমি ধীরে ধীরে এগোচ্ছিলাম,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_BN a :TranslationVariant ;
+:text "আর এভাবেই ছোট পথ দীর্ঘ হয়ে যায়।"^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_BN a :TranslationVariant ;
+:text "তবু শেষে এখানে তোমার কাছে আসাই জয়ী হল;"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_BN a :TranslationVariant ;
+:text "যদি কিছুই না বলার মতো হয়, তবুও বলব।"^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_BN a :TranslationVariant ;
+:text "কারণ আমি আশাকে আঁকড়ে ধরে আসছি,"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_BN a :TranslationVariant ;
+:text "যে নির্ধারিতটুকু ছাড়া আর কিছু ভোগ করব না।"^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_BN a :TranslationVariant ;
+:text "কী ঘটেছে, যার জন্য তোমার এই মনভঙ্গ?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_BN a :TranslationVariant ;
+:text "আগে আমার নিজের কথা তোমাকে বলতে চাই; কারণ"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_BN a :TranslationVariant ;
+:text "কাজটি আমি করিনি, করেছিল কে তাও দেখিনি,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_BN a :TranslationVariant ;
+:text "আর ন্যায়সঙ্গতভাবে কোনো অনিষ্টে পড়াও আমার উচিত নয়।"^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_BN a :TranslationVariant ;
+:text "ভালোই লক্ষ্য করছ, আর চারদিকে বেড়া দিচ্ছ"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_BN a :TranslationVariant ;
+:text "বিষয়টিকে; বোঝাচ্ছ যে নতুন কিছু জানাবে।"^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_BN a :TranslationVariant ;
+:text "কারণ ভয়ংকর বিষয়গুলো তো বড় বিলম্ব জুড়ে দেয়।"^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_BN a :TranslationVariant ;
+:text "তবে কি কখনও বলবে, তারপর মুক্ত হয়ে চলে যাবে?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_BN a :TranslationVariant ;
+:text "এখনই বলছি তোমাকে: মৃতটিকে কেউ সদ্য"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_BN a :TranslationVariant ;
+:text "কবর দিয়ে চলে গেছে, আর দেহের উপর তৃষ্ণার্ত"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_BN a :TranslationVariant ;
+:text "ধুলো ছড়িয়ে, যা প্রয়োজন সেই পবিত্র আচার করেছে।"^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_BN a :TranslationVariant ;
+:text "কী বলছ? কোন মানুষ ছিল যে এমন সাহস করল?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_BN a :TranslationVariant ;
+:text "আমি জানি না; কারণ সেখানে কোনো কুঠারের"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_BN a :TranslationVariant ;
+:text "আঘাত ছিল না, দ্বিশূল কোদালের উৎখাতও নয়; জমি ছিল শক্ত"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_BN a :TranslationVariant ;
+:text "ও শুকনো, ফাটেনি, চাকার দাগেও চলিত নয়,"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_BN a :TranslationVariant ;
+:text "বরং কাজ-করা লোকটি ছিল চিহ্নহীন কেউ।"^^xsd:string ;
+:relatedTo :Line_252 .

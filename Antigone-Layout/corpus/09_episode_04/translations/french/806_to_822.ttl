@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-french a owl:Ontology .
+# French translation variants for 806_to_822.ttl
+
+:TV_Line_806_FR a :TranslationVariant ;
+:text "Voyez-moi, citoyens de la terre paternelle, marchant sur le dernier chemin,"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_FR a :TranslationVariant ;
+:text "regardant la dernière lumière du soleil,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Lines 808 and 809 do not exist in canonical.
+
+:TV_Line_810_FR a :TranslationVariant ;
+:text "et jamais plus ; mais Hadès, où tous couchent, m’emmène vivante"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_FR a :TranslationVariant ;
+:text "vers celle de l’Achéron,"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_FR a :TranslationVariant ;
+:text "la rive, sans part aux hyménées, et jamais, auprès des noces,"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Lines 813 and 814 do not exist in canonical.
+
+:TV_Line_815_FR a :TranslationVariant ;
+:text "aucun hymne ne m’a chantée ; mais c’est à l’Achéron que je serai mariée."^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in canonical.
+
+:TV_Line_817_FR a :TranslationVariant ;
+:text "N’est-ce donc pas illustre et porteuse d’éloge"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_FR a :TranslationVariant ;
+:text "que tu t’en vas vers ce creux des morts,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_FR a :TranslationVariant ;
+:text "ni frappée par des maladies consumantes,"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_FR a :TranslationVariant ;
+:text "ni ayant reçu le salaire des épées,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_FR a :TranslationVariant ;
+:text "mais autonome, vivante, seule assurément"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_FR a :TranslationVariant ;
+:text "parmi les mortels, tu descendras vers Hadès."^^xsd:string ;
+:relatedTo :Line_822 .

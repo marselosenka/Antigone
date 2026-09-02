@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-portuguese a owl:Ontology .
+# Portuguese translation variants for 63_to_89.ttl
+
+:TV_Line_063_PT a :TranslationVariant ;
+:text "depois, porque somos governadas por mais fortes,"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_PT a :TranslationVariant ;
+:text "e devemos ouvir estas coisas e ainda mais dolorosas que estas."^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_PT a :TranslationVariant ;
+:text "Eu, então, pedindo aos que estão sob a terra"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_PT a :TranslationVariant ;
+:text "que tenham perdão, pois sou forçada a estas coisas,"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_PT a :TranslationVariant ;
+:text "obedecerei aos que estão no poder; pois"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_PT a :TranslationVariant ;
+:text "fazer coisas excessivas não tem senso algum."^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_PT a :TranslationVariant ;
+:text "Nem eu te ordenaria, nem, se ainda quisesses"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_PT a :TranslationVariant ;
+:text "agir, agirias de bom grado comigo."^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_PT a :TranslationVariant ;
+:text "Mas sabe o que te parece; quanto a ele, eu"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_PT a :TranslationVariant ;
+:text "o sepultarei; belo para mim é morrer fazendo isto."^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_PT a :TranslationVariant ;
+:text "Querida junto dele jazerei, junto de um querido,"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_PT a :TranslationVariant ;
+:text "tendo cometido santo crime; pois maior é o tempo"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_PT a :TranslationVariant ;
+:text "em que devo agradar aos de baixo do que aos daqui."^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_PT a :TranslationVariant ;
+:text "Lá, pois, jazerei para sempre; e tu, se te parece,"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_PT a :TranslationVariant ;
+:text "mantém desonradas as coisas honradas dos deuses."^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_PT a :TranslationVariant ;
+:text "Eu não as considero desonradas; mas"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_PT a :TranslationVariant ;
+:text "nasci incapaz de agir à força contra os cidadãos."^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_PT a :TranslationVariant ;
+:text "Tu poderias alegar isso; mas eu, sim, para o túmulo"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_PT a :TranslationVariant ;
+:text "amontoar terra sobre o irmão mais querido, partirei."^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_PT a :TranslationVariant ;
+:text "Ai de mim, infeliz, como temo demais por ti."^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_PT a :TranslationVariant ;
+:text "Não temas por mim; endireita teu próprio destino."^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_PT a :TranslationVariant ;
+:text "Mas ao menos não anuncies previamente esta ação a ninguém,"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_PT a :TranslationVariant ;
+:text "e guarda-a em segredo; e eu do mesmo modo."^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_PT a :TranslationVariant ;
+:text "Ai de mim, fala-a em voz alta; muito mais odiosa serás"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_PT a :TranslationVariant ;
+:text "se te calares, se não anunciares isto a todos."^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_PT a :TranslationVariant ;
+:text "Tens um coração quente para coisas frias."^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_PT a :TranslationVariant ;
+:text "Mas sei agradar àqueles a quem mais devo agradar."^^xsd:string ;
+:relatedTo :Line_089 .

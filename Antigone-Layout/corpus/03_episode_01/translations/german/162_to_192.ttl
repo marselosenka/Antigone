@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-german a owl:Ontology .
+# German translation variants for 162_to_192.ttl
+
+:TV_Line_162_DE a :TranslationVariant ;
+:text "Männer, die Angelegenheiten der Stadt haben die Götter sicher"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_DE a :TranslationVariant ;
+:text "nachdem sie sie mit großem Schwanken erschüttert hatten, wieder aufgerichtet;"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_DE a :TranslationVariant ;
+:text "euch aber habe ich durch Boten, aus allen gesondert,"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_DE a :TranslationVariant ;
+:text "herkommen lassen, weil ich zuerst wusste, dass ihr die"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_DE a :TranslationVariant ;
+:text "Macht der Throne des Laios immer gut geehrt habt,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_DE a :TranslationVariant ;
+:text "und wieder, als Ödipus die Stadt aufrichtete,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_DE a :TranslationVariant ;
+:text "und nachdem er zugrunde ging, dass ihr noch um deren Kinder"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_DE a :TranslationVariant ;
+:text "mit festen Gesinnungen verharrtet."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_DE a :TranslationVariant ;
+:text "Da also jene durch ein doppeltes Schicksal an einem"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_DE a :TranslationVariant ;
+:text "Tag zugrunde gingen, schlagend und"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_DE a :TranslationVariant ;
+:text "geschlagen, mit Befleckung durch eigene Hand,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_DE a :TranslationVariant ;
+:text "habe nun ich alle Gewalten und Throne"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_DE a :TranslationVariant ;
+:text "durch die nächste Verwandtschaft mit den Gestorbenen."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_DE a :TranslationVariant ;
+:text "Unmöglich ist es, von jedem Mann vollständig zu erkennen"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_DE a :TranslationVariant ;
+:text "Seele, Sinn und Urteil, bevor er"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_DE a :TranslationVariant ;
+:text "in Ämtern und Gesetzen erprobt erscheint."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_DE a :TranslationVariant ;
+:text "Denn wer mir, wenn er eine ganze Stadt lenkt,"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_DE a :TranslationVariant ;
+:text "nicht die besten Ratschlüsse ergreift,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_DE a :TranslationVariant ;
+:text "sondern aus irgendeiner Furcht die Zunge eingeschlossen hält,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_DE a :TranslationVariant ;
+:text "der scheint mir jetzt wie von jeher der Schlechteste zu sein;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_DE a :TranslationVariant ;
+:text "und wer einen Freund größer achtet als sein eigenes Vaterland,"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_DE a :TranslationVariant ;
+:text "den nenne ich nirgends."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_DE a :TranslationVariant ;
+:text "Denn ich, das wisse Zeus, der immer alles sieht,"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_DE a :TranslationVariant ;
+:text "würde weder schweigen, wenn ich das Verderben sähe,"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_DE a :TranslationVariant ;
+:text "wie es zu den Bürgern schreitet statt zur Rettung,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_DE a :TranslationVariant ;
+:text "noch je einen Mann, der dem Land feind ist,"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_DE a :TranslationVariant ;
+:text "mir selbst zum Freund setzen, da ich dies weiß:"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_DE a :TranslationVariant ;
+:text "diese ist es, die rettet, und auf ihr"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_DE a :TranslationVariant ;
+:text "fahrend, wenn sie aufrecht ist, machen wir uns die Freunde."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_DE a :TranslationVariant ;
+:text "Mit solchen Gesetzen werde ich diese Stadt mehren."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_DE a :TranslationVariant ;
+:text "Und jetzt habe ich Entsprechendes dazu den Bürgern verkündet"^^xsd:string ;
+:relatedTo :Line_192 .

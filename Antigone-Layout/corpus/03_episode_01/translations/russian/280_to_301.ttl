@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-russian a owl:Ontology .
+# Russian translation variants for 280_to_301.ttl
+
+:TV_Line_280_RU a :TranslationVariant ;
+:text "Прекрати, прежде чем, говоря, наполнишь и меня гневом,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_RU a :TranslationVariant ;
+:text "чтобы тебя не нашли одновременно безумным и старым."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_RU a :TranslationVariant ;
+:text "Ведь ты говоришь невыносимое, говоря, что боги"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_RU a :TranslationVariant ;
+:text "имеют заботу об этом мертвеце."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_RU a :TranslationVariant ;
+:text "Неужели, чрезмерно почитая его как благодетеля,"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_RU a :TranslationVariant ;
+:text "они скрывали того, кто пришел сжечь"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_RU a :TranslationVariant ;
+:text "окруженные колоннами храмы и приношения,"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_RU a :TranslationVariant ;
+:text "и их землю, и законы рассеять?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_RU a :TranslationVariant ;
+:text "Или ты видишь, что боги чтят дурных?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_RU a :TranslationVariant ;
+:text "Не бывает этого; но эти вещи уже давно мужи города,"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_RU a :TranslationVariant ;
+:text "едва терпя, тайно шумели против меня,"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_RU a :TranslationVariant ;
+:text "качая головой, и под ярмом"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_RU a :TranslationVariant ;
+:text "шею справедливо не держали, чтобы любить меня."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_RU a :TranslationVariant ;
+:text "Из этого я хорошо знаю, что эти люди"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_RU a :TranslationVariant ;
+:text "подкупленные платой совершили это."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_RU a :TranslationVariant ;
+:text "Ибо никакое зло для людей, такое как серебро,"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_RU a :TranslationVariant ;
+:text "не выросло как обычай; оно и города"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_RU a :TranslationVariant ;
+:text "разоряет, оно изгоняет мужей из домов,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_RU a :TranslationVariant ;
+:text "оно обучает и изменяет умы"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_RU a :TranslationVariant ;
+:text "добрые, чтобы стоять при постыдных делах смертных,"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_RU a :TranslationVariant ;
+:text "и показало людям, как иметь всякое злодейство"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_RU a :TranslationVariant ;
+:text "и знать нечестие всякого дела."^^xsd:string ;
+:relatedTo :Line_301 .

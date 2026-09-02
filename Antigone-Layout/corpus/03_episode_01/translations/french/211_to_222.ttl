@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-french a owl:Ontology .
+# French translation variants for 211_to_222.ttl
+
+:TV_Line_211_FR a :TranslationVariant ;
+:text "Il te plaît, fils de Ménécée, d’agir ainsi"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_FR a :TranslationVariant ;
+:text "envers l’ennemi de cette cité et envers son ami ;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_FR a :TranslationVariant ;
+:text "user de toute loi, cela t’est possible"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_FR a :TranslationVariant ;
+:text "envers les morts et envers nous tous qui vivons."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_FR a :TranslationVariant ;
+:text "Afin que vous soyez maintenant gardiens des choses dites."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_FR a :TranslationVariant ;
+:text "Confie ce fardeau à quelqu’un de plus jeune."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_FR a :TranslationVariant ;
+:text "Mais il y a déjà des surveillants prêts pour le cadavre."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_FR a :TranslationVariant ;
+:text "Que pourrais-tu encore commander d’autre que cela ?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_FR a :TranslationVariant ;
+:text "De ne pas céder à ceux qui refusent de croire à ces ordres."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_FR a :TranslationVariant ;
+:text "Il n’est personne si fou qu’il aime mourir."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_FR a :TranslationVariant ;
+:text "Et pourtant c’est bien là le salaire ; mais sous l’effet des espérances,"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_FR a :TranslationVariant ;
+:text "le gain a souvent perdu des hommes."^^xsd:string ;
+:relatedTo :Line_222 .

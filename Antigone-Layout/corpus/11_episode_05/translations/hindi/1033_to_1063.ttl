@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-hindi a owl:Ontology .
+# Hindi translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_HI a :TranslationVariant ;
+:text "हे वृद्ध, तुम सब धनुर्धरों की तरह लक्ष्य पर"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_HI a :TranslationVariant ;
+:text "इस पुरुष पर बाण चलाते हो; और भविष्यवाणी से भी"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_HI a :TranslationVariant ;
+:text "मैं तुम लोगों के लिए अछूता नहीं हूँ; तुम्हारी जाति के हाथों"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_HI a :TranslationVariant ;
+:text "मैं बहुत पहले से बेचा गया और माल की तरह लादा गया हूँ।"^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_HI a :TranslationVariant ;
+:text "लाभ कमाओ, सार्दिस का इलेक्ट्रम व्यापार में लो,"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_HI a :TranslationVariant ;
+:text "यदि चाहो, और भारतीय सोना भी;"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_HI a :TranslationVariant ;
+:text "पर उस पुरुष को तुम कब्र में नहीं छिपाओगे,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_HI a :TranslationVariant ;
+:text "न तब भी यदि ज़्यूस के गरुड़ चाहें"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_HI a :TranslationVariant ;
+:text "उसे भोजन की तरह झपटकर ज़्यूस के सिंहासनों तक ले जाना,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_HI a :TranslationVariant ;
+:text "तब भी इस अपवित्रता से डरे बिना मैं"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_HI a :TranslationVariant ;
+:text "उसको दफनाने की अनुमति नहीं दूँगा; क्योंकि मैं अच्छी तरह जानता हूँ कि"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_HI a :TranslationVariant ;
+:text "देवताओं को अपवित्र करने की शक्ति किसी मनुष्य में नहीं।"^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_HI a :TranslationVariant ;
+:text "गिरते हैं, हे वृद्ध तेरिसियास, मनुष्यों में"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_HI a :TranslationVariant ;
+:text "बहुत चतुर लोग भी लज्जाजनक पतनों में, जब वे"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_HI a :TranslationVariant ;
+:text "लाभ के लिए कुरूप वचनों को सुशोभित ढंग से कहते हैं।"^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_HI a :TranslationVariant ;
+:text "हाय, क्या मनुष्यों में कोई जानता है, क्या कोई समझता है,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_HI a :TranslationVariant ;
+:text "कौन-सी बात? कौन-सी यह सर्वसामान्य बात तू कहता है?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_HI a :TranslationVariant ;
+:text "कि संपत्तियों में उत्तम बुद्धि कितनी श्रेष्ठ है?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_HI a :TranslationVariant ;
+:text "उतनी ही, मेरा मानना है, जितनी अबुद्धि सबसे बड़ी हानि है।"^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_HI a :TranslationVariant ;
+:text "और तू इसी रोग से पूरा भरा हुआ निकला है।"^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_HI a :TranslationVariant ;
+:text "मैं भविष्यवक्ता को बुरे ढंग से उत्तर देना नहीं चाहता।"^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_HI a :TranslationVariant ;
+:text "फिर भी तू कहता है, जब तू कहता है कि मैं झूठी भविष्यवाणी करता हूँ।"^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_HI a :TranslationVariant ;
+:text "क्योंकि भविष्यवक्ताओं की पूरी जाति धन-प्रिय है।"^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_HI a :TranslationVariant ;
+:text "और तानाशाहों की जाति लज्जाजनक लाभ से प्रेम करती है।"^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_HI a :TranslationVariant ;
+:text "क्या तू जानता है कि ये बातें कहते हुए तू शासकों से बोल रहा है?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_HI a :TranslationVariant ;
+:text "जानता हूँ; क्योंकि मेरे द्वारा बचाकर तू इस नगर को रखता है।"^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_HI a :TranslationVariant ;
+:text "तू बुद्धिमान भविष्यवक्ता है, पर अन्याय से प्रेम करने वाला।"^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_HI a :TranslationVariant ;
+:text "तू मुझे मन में अचल पड़ी बातों को कहने के लिए उकसाएगा।"^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_HI a :TranslationVariant ;
+:text "उकसा, बस लाभ के लिए बोलते हुए नहीं।"^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_HI a :TranslationVariant ;
+:text "क्योंकि तेरे पक्ष में अब मैं ऐसा ही प्रतीत होता हूँ।"^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_HI a :TranslationVariant ;
+:text "जान ले कि तू मेरी बुद्धि को खरीद नहीं पाएगा।"^^xsd:string ;
+:relatedTo :Line_1063 .

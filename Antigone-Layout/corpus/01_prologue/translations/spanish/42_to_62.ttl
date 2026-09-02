@@ -1,0 +1,91 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-spanish a owl:Ontology .
+# Spanish translation variants for 42_to_62.ttl
+
+:TV_Line_042_ES a :TranslationVariant ;
+    :text "¿Qué clase de riesgo? ¿Adónde se dirige tu pensamiento?"^^xsd:string ;
+    :relatedTo :Line_042 .
+
+:TV_Line_043_ES a :TranslationVariant ;
+    :text "Si levantarás el cadáver con esta mano."^^xsd:string ;
+    :relatedTo :Line_043 .
+
+:TV_Line_044_ES a :TranslationVariant ;
+    :text "¿De verdad piensas enterrarlo, prohibido como está para la ciudad?"^^xsd:string ;
+    :relatedTo :Line_044 .
+
+:TV_Line_045_ES a :TranslationVariant ;
+    :text "Al menos a mi hermano, y al tuyo, aunque tú no quieras,"^^xsd:string ;
+    :relatedTo :Line_045 .
+
+:TV_Line_046_ES a :TranslationVariant ;
+    :text "pues no seré sorprendida traicionándolo."^^xsd:string ;
+    :relatedTo :Line_046 .
+
+:TV_Line_047_ES a :TranslationVariant ;
+    :text "¡Desdichada! ¿Con Creonte habiéndolo prohibido?"^^xsd:string ;
+    :relatedTo :Line_047 .
+
+:TV_Line_048_ES a :TranslationVariant ;
+    :text "Pero él no tiene derecho a apartarme de los míos."^^xsd:string ;
+    :relatedTo :Line_048 .
+
+:TV_Line_049_ES a :TranslationVariant ;
+    :text "Ay de mí; piensa, hermana, en nuestro padre,"^^xsd:string ;
+    :relatedTo :Line_049 .
+
+:TV_Line_050_ES a :TranslationVariant ;
+    :text "cómo murió odiado y sin gloria,"^^xsd:string ;
+    :relatedTo :Line_050 .
+
+:TV_Line_051_ES a :TranslationVariant ;
+    :text "cuando descubrió sus propias faltas manifiestas"^^xsd:string ;
+    :relatedTo :Line_051 .
+
+:TV_Line_052_ES a :TranslationVariant ;
+    :text "y se golpeó los dos ojos con su propia mano."^^xsd:string ;
+    :relatedTo :Line_052 .
+
+:TV_Line_053_ES a :TranslationVariant ;
+    :text "Luego su madre y esposa, doble nombre,"^^xsd:string ;
+    :relatedTo :Line_053 .
+
+:TV_Line_054_ES a :TranslationVariant ;
+    :text "destruyó su vida con lazos trenzados."^^xsd:string ;
+    :relatedTo :Line_054 .
+
+:TV_Line_055_ES a :TranslationVariant ;
+    :text "Y en tercer lugar, nuestros dos hermanos, en un solo día,"^^xsd:string ;
+    :relatedTo :Line_055 .
+
+:TV_Line_056_ES a :TranslationVariant ;
+    :text "los dos desdichados, matándose a sí mismos,"^^xsd:string ;
+    :relatedTo :Line_056 .
+
+:TV_Line_057_ES a :TranslationVariant ;
+    :text "cumplieron una muerte común con manos recíprocas."^^xsd:string ;
+    :relatedTo :Line_057 .
+
+:TV_Line_058_ES a :TranslationVariant ;
+    :text "Y ahora, quedando nosotras dos solas, considera"^^xsd:string ;
+    :relatedTo :Line_058 .
+
+:TV_Line_059_ES a :TranslationVariant ;
+    :text "cuán miserablemente moriremos si por fuerza de la ley"^^xsd:string ;
+    :relatedTo :Line_059 .
+
+:TV_Line_060_ES a :TranslationVariant ;
+    :text "transgredimos el decreto o el poder de los gobernantes."^^xsd:string ;
+    :relatedTo :Line_060 .
+
+:TV_Line_061_ES a :TranslationVariant ;
+    :text "Hay que recordar primero esto: que nacimos mujeres,"^^xsd:string ;
+    :relatedTo :Line_061 .
+
+:TV_Line_062_ES a :TranslationVariant ;
+    :text "no hechas para combatir contra hombres."^^xsd:string ;
+    :relatedTo :Line_062 .

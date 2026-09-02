@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-spanish a owl:Ontology .
+# Spanish translation variants for 441_to_479.ttl
+
+:TV_Line_441_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_441 ; :text "A ti, sí, a ti, que inclinas la cabeza hacia el suelo,"^^xsd:string .
+:TV_Line_442_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_442 ; :text "¿afirmas o niegas haber hecho esto?"^^xsd:string .
+:TV_Line_443_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_443 ; :text "Afirmo haberlo hecho y no lo niego."^^xsd:string .
+:TV_Line_444_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_444 ; :text "Tú puedes llevarte a ti mismo adonde quieras,"^^xsd:string .
+:TV_Line_445_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_445 ; :text "libre de una acusación pesada."^^xsd:string .
+:TV_Line_446_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_446 ; :text "Y tú dime, no largamente, sino en breve:"^^xsd:string .
+:TV_Line_447_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_447 ; :text "¿sabías que se había proclamado no hacer esto?"^^xsd:string .
+:TV_Line_448_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_448 ; :text "Lo sabía. ¿Cómo no iba a saberlo? Era manifiesto."^^xsd:string .
+:TV_Line_449_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_449 ; :text "¿Y aun así te atreviste a transgredir estas leyes?"^^xsd:string .
+:TV_Line_450_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_450 ; :text "Porque no fue Zeus quien me proclamó eso,"^^xsd:string .
+:TV_Line_451_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_451 ; :text "ni Justicia, que habita con los dioses de abajo,"^^xsd:string .
+:TV_Line_452_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_452 ; :text "estableció entre los hombres leyes semejantes."^^xsd:string .
+:TV_Line_453_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_453 ; :text "Tampoco pensé que tus proclamaciones tuvieran tanta fuerza"^^xsd:string .
+:TV_Line_454_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_454 ; :text "como para que, siendo mortal, pudieras sobrepasar"^^xsd:string .
+:TV_Line_455_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_455 ; :text "las leyes no escritas e inquebrantables de los dioses."^^xsd:string .
+:TV_Line_456_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_456 ; :text "Pues no viven ahora ni desde ayer, sino desde siempre,"^^xsd:string .
+:TV_Line_457_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_457 ; :text "y nadie sabe desde cuándo aparecieron."^^xsd:string .
+:TV_Line_458_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_458 ; :text "Por ellas yo no iba, por temor al juicio"^^xsd:string .
+:TV_Line_459_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_459 ; :text "de ningún hombre, a pagar castigo ante los dioses."^^xsd:string .
+:TV_Line_460_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_460 ; :text "Sabía que moriría, ¿cómo no iba a saberlo?,"^^xsd:string .
+:TV_Line_461_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_461 ; :text "aunque tú no lo hubieras proclamado. Y si antes de mi tiempo"^^xsd:string .
+:TV_Line_462_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_462 ; :text "muero, eso lo llamo ganancia."^^xsd:string .
+:TV_Line_463_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_463 ; :text "Pues quien vive, como yo, entre muchos males,"^^xsd:string .
+:TV_Line_464_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_464 ; :text "¿cómo no obtiene ganancia al morir?"^^xsd:string .
+:TV_Line_465_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_465 ; :text "Así, para mí alcanzar esta muerte"^^xsd:string .
+:TV_Line_466_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_466 ; :text "no es dolor alguno; pero si al nacido de mi madre,"^^xsd:string .
+:TV_Line_467_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_467 ; :text "cadáver muerto, hubiera soportado dejarlo insepulto,"^^xsd:string .
+:TV_Line_468_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_468 ; :text "por aquello sufriría; por esto no sufro."^^xsd:string .
+:TV_Line_469_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_469 ; :text "Y si ahora te parece que hago locuras,"^^xsd:string .
+:TV_Line_470_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_470 ; :text "quizá ante un loco incurro en acusación de locura."^^xsd:string .
+:TV_Line_471_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_471 ; :text "La niña muestra un nacimiento feroz de padre feroz."^^xsd:string .
+:TV_Line_472_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_472 ; :text "No sabe ceder ante los males."^^xsd:string .
+:TV_Line_473_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_473 ; :text "Pero sabe que los pensamientos demasiado duros"^^xsd:string .
+:TV_Line_474_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_474 ; :text "caen más que nadie, y que el hierro más fuerte,"^^xsd:string .
+:TV_Line_475_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_475 ; :text "templado al fuego hasta endurecerse,"^^xsd:string .
+:TV_Line_476_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_476 ; :text "lo verías muchas veces quebrado y hecho pedazos."^^xsd:string .
+:TV_Line_477_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_477 ; :text "Sé que caballos furiosos han sido domados"^^xsd:string .
+:TV_Line_478_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_478 ; :text "con un pequeño freno; pues no corresponde"^^xsd:string .
+:TV_Line_479_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_479 ; :text "pensar en grande a quien es esclavo de los de cerca."^^xsd:string .

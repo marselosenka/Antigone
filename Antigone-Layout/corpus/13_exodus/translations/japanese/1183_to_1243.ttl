@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-japanese a owl:Ontology .
+# Japanese translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_JA a :TranslationVariant ;
+:text "市民の皆さん、私はその言葉を聞き知りました、"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_JA a :TranslationVariant ;
+:text "外へ出ようと歩み、女神パラスのもとへ"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_JA a :TranslationVariant ;
+:text "祈願の語り手として赴こうとしていた時に。"^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_JA a :TranslationVariant ;
+:text "そして、引き開けられる門の閂を"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_JA a :TranslationVariant ;
+:text "緩めているところで、身内の災いの声が"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_JA a :TranslationVariant ;
+:text "耳を通って私を打ちました。私は仰向けに倒れ、"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_JA a :TranslationVariant ;
+:text "恐れて侍女たちの方へ身を傾け、気を失いました。"^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_JA a :TranslationVariant ;
+:text "しかし、話が何であったにせよ、もう一度言ってください。"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_JA a :TranslationVariant ;
+:text "私は災いに無経験ではない身として聞きましょう。"^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_JA a :TranslationVariant ;
+:text "私が、親愛なる女主人よ、この場にいて語ります、"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_JA a :TranslationVariant ;
+:text "そして真実の言葉を何一つ省きません。"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_JA a :TranslationVariant ;
+:text "なぜ後になって"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_JA a :TranslationVariant ;
+:text "偽り者と見えるようなことで、あなたを慰めましょうか。真実はつねに正しい。"^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_JA a :TranslationVariant ;
+:text "私はあなたの夫の足の案内役として従いました、"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_JA a :TranslationVariant ;
+:text "平野の端へ、そこには無残にも"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_JA a :TranslationVariant ;
+:text "犬に裂かれたポリュネイケスの体がまだ横たわっていました。"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_JA a :TranslationVariant ;
+:text "そこでまず、道の女神と"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_JA a :TranslationVariant ;
+:text "プルートンに怒りを慈悲深く抑えてくれるよう願い、"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_JA a :TranslationVariant ;
+:text "彼を清い洗い水で洗い、新たに折った"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_JA a :TranslationVariant ;
+:text "枝々で、残っていたものを焼き尽くしました。"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_JA a :TranslationVariant ;
+:text "そして故郷の土で、まっすぐ盛り上がる墓を"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_JA a :TranslationVariant ;
+:text "築いてから、再び石敷きの、乙女の"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_JA a :TranslationVariant ;
+:text "ハデスの空洞の婚房へ入って行きました。"^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_JA a :TranslationVariant ;
+:text "すると遠くから、高く泣き叫ぶ声が"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_JA a :TranslationVariant ;
+:text "葬られていない婚室のあたりで聞こえ、"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_JA a :TranslationVariant ;
+:text "ある者が行って、主クレオンに知らせました。"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_JA a :TranslationVariant ;
+:text "彼がさらに近くへ進むにつれ、哀れな叫びの"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_JA a :TranslationVariant ;
+:text "はっきりしない響きが彼を包み、彼は呻いて"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_JA a :TranslationVariant ;
+:text "嘆かわしい言葉を放ちました。ああ、哀れな私、"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_JA a :TranslationVariant ;
+:text "私は予言者なのか。これまで来た道の中で"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_JA a :TranslationVariant ;
+:text "最も不幸な道を私は歩んでいるのか。"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_JA a :TranslationVariant ;
+:text "息子の声が私を打つ。だが、召使いたちよ、"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_JA a :TranslationVariant ;
+:text "急いで近くへ行け、そして墓のそばに立ち、"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_JA a :TranslationVariant ;
+:text "石が引き剥がされた土の継ぎ目を"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_JA a :TranslationVariant ;
+:text "その口元まで入り込んで見よ、私がハイモンの"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_JA a :TranslationVariant ;
+:text "声を聞き分けているのか、それとも神々に欺かれているのかを。"^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_JA a :TranslationVariant ;
+:text "気力を失った主のその命令に従って、"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_JA a :TranslationVariant ;
+:text "私たちは見ました。墓の奥のいちばん深いところで、"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_JA a :TranslationVariant ;
+:text "彼女が首から吊られているのを見ました、"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_JA a :TranslationVariant ;
+:text "細い亜麻布の縄で結び留められて。"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_JA a :TranslationVariant ;
+:text "そして彼は彼女の腰にしがみついて倒れ伏し、"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_JA a :TranslationVariant ;
+:text "下界で失われた寝床を嘆き、"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_JA a :TranslationVariant ;
+:text "父の行いと、不幸な婚床を嘆いていました。"^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_JA a :TranslationVariant ;
+:text "父は彼を見ると、恐ろしい呻き声を上げて中へ"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_JA a :TranslationVariant ;
+:text "進み、彼に向かって泣き叫んで呼びかけました。"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_JA a :TranslationVariant ;
+:text "ああ、耐え難い者よ、何ということをしたのか。どんな"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_JA a :TranslationVariant ;
+:text "心を持ったのか。どんな災難の中で滅びたのか。"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_JA a :TranslationVariant ;
+:text "出て来い、子よ。嘆願者としてお前に願う。"^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_JA a :TranslationVariant ;
+:text "しかし若者は荒々しい目で彼を睨み、"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_JA a :TranslationVariant ;
+:text "顔に唾を吐き、何も答えずに、剣の"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_JA a :TranslationVariant ;
+:text "二重の牙を引き抜きました。突進して来る"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_JA a :TranslationVariant ;
+:text "父は逃れて外れました。すると不運な若者は、"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_JA a :TranslationVariant ;
+:text "自分自身に怒り、そのまま身を反らせて"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_JA a :TranslationVariant ;
+:text "刃を脇腹の中央に突き立てました。そして濡れた"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_JA a :TranslationVariant ;
+:text "腕で、なお正気のまま乙女を抱きしめ、"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_JA a :TranslationVariant ;
+:text "息を荒げながら、鋭い流れを吐き出しました、"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_JA a :TranslationVariant ;
+:text "血の滴りを、白い頬へ。"^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_JA a :TranslationVariant ;
+:text "死者は死者のそばに横たわっています、哀れにも婚礼の"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_JA a :TranslationVariant ;
+:text "終わりをハデスの館で得て、"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_JA a :TranslationVariant ;
+:text "人々の間に、無思慮が"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_JA a :TranslationVariant ;
+:text "どれほど人にとって最大の災いとして付きまとうかを示して。"^^xsd:string ;
+:relatedTo :Line_1243 .

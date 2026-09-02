@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-italian a owl:Ontology .
+# Italian translation variants for 1_to_19.ttl
+
+:TV_Line_1_IT a :TranslationVariant ;
+:text "O capo comune, sorella di sangue di Ismene,"^^xsd:string ;
+:relatedTo :Line_1 .
+
+:TV_Line_2_IT a :TranslationVariant ;
+:text "sai forse quale dei mali che vengono da Edipo Zeus"^^xsd:string ;
+:relatedTo :Line_2 .
+
+:TV_Line_3_IT a :TranslationVariant ;
+:text "non compirà ancora su noi due, mentre viviamo?"^^xsd:string ;
+:relatedTo :Line_3 .
+
+:TV_Line_4_IT a :TranslationVariant ;
+:text "Infatti non c'è nulla né doloroso né privo di rovina,"^^xsd:string ;
+:relatedTo :Line_4 .
+
+:TV_Line_5_IT a :TranslationVariant ;
+:text "né vergognoso né disonorante, tale che io non"^^xsd:string ;
+:relatedTo :Line_5 .
+
+:TV_Line_6_IT a :TranslationVariant ;
+:text "abbia visto tra i tuoi mali e i miei."^^xsd:string ;
+:relatedTo :Line_6 .
+
+:TV_Line_7_IT a :TranslationVariant ;
+:text "E ora, che cos'è questo proclama che dicono il generale"^^xsd:string ;
+:relatedTo :Line_7 .
+
+:TV_Line_8_IT a :TranslationVariant ;
+:text "abbia appena posto per tutta la città?"^^xsd:string ;
+:relatedTo :Line_8 .
+
+:TV_Line_9_IT a :TranslationVariant ;
+:text "Ne sai qualcosa e l'hai udito? Oppure ti sfugge"^^xsd:string ;
+:relatedTo :Line_9 .
+
+:TV_Line_10_IT a :TranslationVariant ;
+:text "che mali dei nemici avanzano contro gli amici?"^^xsd:string ;
+:relatedTo :Line_10 .
+
+:TV_Line_11_IT a :TranslationVariant ;
+:text "A me, Antigone, nessun racconto degli amici"^^xsd:string ;
+:relatedTo :Line_11 .
+
+:TV_Line_12_IT a :TranslationVariant ;
+:text "né dolce né doloroso è giunto, da quando"^^xsd:string ;
+:relatedTo :Line_12 .
+
+:TV_Line_13_IT a :TranslationVariant ;
+:text "noi due fummo private dei due fratelli,"^^xsd:string ;
+:relatedTo :Line_13 .
+
+:TV_Line_14_IT a :TranslationVariant ;
+:text "morti in un solo giorno per doppia mano;"^^xsd:string ;
+:relatedTo :Line_14 .
+
+:TV_Line_15_IT a :TranslationVariant ;
+:text "e da quando l'esercito degli Argivi è scomparso"^^xsd:string ;
+:relatedTo :Line_15 .
+
+:TV_Line_16_IT a :TranslationVariant ;
+:text "in questa notte presente, non so nulla di più,"^^xsd:string ;
+:relatedTo :Line_16 .
+
+:TV_Line_17_IT a :TranslationVariant ;
+:text "né più fortunata né più rovinata."^^xsd:string ;
+:relatedTo :Line_17 .
+
+:TV_Line_18_IT a :TranslationVariant ;
+:text "Lo sapevo bene, e per questo ti ho mandata fuori"^^xsd:string ;
+:relatedTo :Line_18 .
+
+:TV_Line_19_IT a :TranslationVariant ;
+:text "dalle porte del cortile, perché tu sola udissi."^^xsd:string ;
+:relatedTo :Line_19 .

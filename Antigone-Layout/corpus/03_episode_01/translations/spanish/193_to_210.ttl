@@ -1,0 +1,79 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-spanish a owl:Ontology .
+# Spanish translation variants for 193_to_210.ttl
+
+:TV_Line_193_ES a :TranslationVariant ;
+    :text "a los ciudadanos acerca de los hijos de Edipo:"^^xsd:string ;
+    :relatedTo :Line_193 .
+
+:TV_Line_194_ES a :TranslationVariant ;
+    :text "a Eteocles, que murió combatiendo en defensa"^^xsd:string ;
+    :relatedTo :Line_194 .
+
+:TV_Line_195_ES a :TranslationVariant ;
+    :text "de esta ciudad, sobresaliendo en todo con la lanza,"^^xsd:string ;
+    :relatedTo :Line_195 .
+
+:TV_Line_196_ES a :TranslationVariant ;
+    :text "que se le oculte en tumba y se le purifique con todos"^^xsd:string ;
+    :relatedTo :Line_196 .
+
+:TV_Line_197_ES a :TranslationVariant ;
+    :text "los ritos que acompañan abajo a los muertos más nobles."^^xsd:string ;
+    :relatedTo :Line_197 .
+
+:TV_Line_198_ES a :TranslationVariant ;
+    :text "Pero al de su misma sangre, hablo de Polinices,"^^xsd:string ;
+    :relatedTo :Line_198 .
+
+:TV_Line_199_ES a :TranslationVariant ;
+    :text "que contra la tierra paterna y los dioses de su linaje,"^^xsd:string ;
+    :relatedTo :Line_199 .
+
+:TV_Line_200_ES a :TranslationVariant ;
+    :text "volviendo del destierro, quiso con fuego"^^xsd:string ;
+    :relatedTo :Line_200 .
+
+:TV_Line_201_ES a :TranslationVariant ;
+    :text "abrasarla desde la raíz, quiso saciarse"^^xsd:string ;
+    :relatedTo :Line_201 .
+
+:TV_Line_202_ES a :TranslationVariant ;
+    :text "de sangre común y llevar a los demás esclavizados,"^^xsd:string ;
+    :relatedTo :Line_202 .
+
+:TV_Line_203_ES a :TranslationVariant ;
+    :text "sobre este se ha proclamado a esta ciudad que nadie"^^xsd:string ;
+    :relatedTo :Line_203 .
+
+:TV_Line_204_ES a :TranslationVariant ;
+    :text "lo honre con sepultura ni lo lamente,"^^xsd:string ;
+    :relatedTo :Line_204 .
+
+:TV_Line_205_ES a :TranslationVariant ;
+    :text "sino que lo deje insepulto, cuerpo para las aves"^^xsd:string ;
+    :relatedTo :Line_205 .
+
+:TV_Line_206_ES a :TranslationVariant ;
+    :text "y para los perros, comida y espectáculo de ultraje."^^xsd:string ;
+    :relatedTo :Line_206 .
+
+:TV_Line_207_ES a :TranslationVariant ;
+    :text "Tal es mi pensamiento, y jamás por obra mía"^^xsd:string ;
+    :relatedTo :Line_207 .
+
+:TV_Line_208_ES a :TranslationVariant ;
+    :text "los malos tendrán más honor que los justos."^^xsd:string ;
+    :relatedTo :Line_208 .
+
+:TV_Line_209_ES a :TranslationVariant ;
+    :text "Pero quien sea leal a esta ciudad, muerto"^^xsd:string ;
+    :relatedTo :Line_209 .
+
+:TV_Line_210_ES a :TranslationVariant ;
+    :text "y vivo por igual, recibirá honor de mí."^^xsd:string ;
+    :relatedTo :Line_210 .

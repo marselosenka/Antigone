@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-russian a owl:Ontology .
+# Russian translation variants for 42_to_62.ttl
+
+:TV_Line_042_RU a :TranslationVariant ;
+:text "Что за опасное дело? Куда же обращена твоя мысль?"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_RU a :TranslationVariant ;
+:text "Поднимешь ли ты мертвого вместе с этой рукой?"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_RU a :TranslationVariant ;
+:text "Неужели ты намерена похоронить его, когда это запрещено городу?"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_RU a :TranslationVariant ;
+:text "Да, моего и твоего, даже если ты не хочешь,"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_RU a :TranslationVariant ;
+:text "брата; ведь я не буду поймана предавшей его."^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_RU a :TranslationVariant ;
+:text "О несчастная, когда Креонт запретил?"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_RU a :TranslationVariant ;
+:text "Но ему совсем не дозволено удерживать меня от моего."^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_RU a :TranslationVariant ;
+:text "Увы; подумай, сестра, как наш отец"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_RU a :TranslationVariant ;
+:text "погиб ненавистным и бесславным для нас,"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_RU a :TranslationVariant ;
+:text "за самораскрытые преступления две"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_RU a :TranslationVariant ;
+:text "очи выбив себе собственной рукой;"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_RU a :TranslationVariant ;
+:text "затем мать и жена, двойное слово,"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_RU a :TranslationVariant ;
+:text "плетеными петлями изуродовала свою жизнь;"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_RU a :TranslationVariant ;
+:text "третье — два брата в один день"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_RU a :TranslationVariant ;
+:text "самоубийственно, оба несчастные, общую судьбу"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_RU a :TranslationVariant ;
+:text "совершили взаимными руками."^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_RU a :TranslationVariant ;
+:text "Теперь же снова, когда мы одни остались, смотри,"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_RU a :TranslationVariant ;
+:text "насколько самым худшим образом мы погибнем, если вопреки закону"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_RU a :TranslationVariant ;
+:text "преступим постановление или власть тиранов."^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_RU a :TranslationVariant ;
+:text "Но нужно помнить прежде всего это: что мы"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_RU a :TranslationVariant ;
+:text "родились женщинами, не для борьбы с мужчинами;"^^xsd:string ;
+:relatedTo :Line_062 .

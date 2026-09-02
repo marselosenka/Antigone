@@ -1,0 +1,115 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-spanish a owl:Ontology .
+# Spanish translation variants for 253_to_279.ttl
+
+:TV_Line_253_ES a :TranslationVariant ;
+    :text "Y cuando el primer centinela del día nos lo mostró,"^^xsd:string ;
+    :relatedTo :Line_253 .
+
+:TV_Line_254_ES a :TranslationVariant ;
+    :text "a todos nos sobrevino un asombro penoso."^^xsd:string ;
+    :relatedTo :Line_254 .
+
+:TV_Line_255_ES a :TranslationVariant ;
+    :text "El muerto había desaparecido, no cubierto por túmulo,"^^xsd:string ;
+    :relatedTo :Line_255 .
+
+:TV_Line_256_ES a :TranslationVariant ;
+    :text "sino con polvo fino encima, como de quien evita impureza."^^xsd:string ;
+    :relatedTo :Line_256 .
+
+:TV_Line_257_ES a :TranslationVariant ;
+    :text "No aparecían señales de fiera ni de perro"^^xsd:string ;
+    :relatedTo :Line_257 .
+
+:TV_Line_258_ES a :TranslationVariant ;
+    :text "que hubiera llegado o lo hubiera desgarrado."^^xsd:string ;
+    :relatedTo :Line_258 .
+
+:TV_Line_259_ES a :TranslationVariant ;
+    :text "Malas palabras murmuraban entre nosotros,"^^xsd:string ;
+    :relatedTo :Line_259 .
+
+:TV_Line_260_ES a :TranslationVariant ;
+    :text "un guardia acusando a otro, y al final habría"^^xsd:string ;
+    :relatedTo :Line_260 .
+
+:TV_Line_261_ES a :TranslationVariant ;
+    :text "habido golpes, sin nadie presente para impedirlo."^^xsd:string ;
+    :relatedTo :Line_261 .
+
+:TV_Line_262_ES a :TranslationVariant ;
+    :text "Pues cada uno parecía haber hecho el trabajo,"^^xsd:string ;
+    :relatedTo :Line_262 .
+
+:TV_Line_263_ES a :TranslationVariant ;
+    :text "pero ninguno claramente; todos escapaban diciendo no saber."^^xsd:string ;
+    :relatedTo :Line_263 .
+
+:TV_Line_264_ES a :TranslationVariant ;
+    :text "Estábamos dispuestos a levantar hierros ardientes con las manos,"^^xsd:string ;
+    :relatedTo :Line_264 .
+
+:TV_Line_265_ES a :TranslationVariant ;
+    :text "a atravesar el fuego y a jurar por los dioses"^^xsd:string ;
+    :relatedTo :Line_265 .
+
+:TV_Line_266_ES a :TranslationVariant ;
+    :text "que ni habíamos hecho el hecho ni sabíamos de nadie"^^xsd:string ;
+    :relatedTo :Line_266 .
+
+:TV_Line_267_ES a :TranslationVariant ;
+    :text "que lo hubiera planeado o ejecutado."^^xsd:string ;
+    :relatedTo :Line_267 .
+
+:TV_Line_268_ES a :TranslationVariant ;
+    :text "Al final, cuando nada más salía de la investigación,"^^xsd:string ;
+    :relatedTo :Line_268 .
+
+:TV_Line_269_ES a :TranslationVariant ;
+    :text "uno habló, y a todos nos hizo inclinar"^^xsd:string ;
+    :relatedTo :Line_269 .
+
+:TV_Line_270_ES a :TranslationVariant ;
+    :text "la cabeza al suelo por miedo; pues no teníamos"^^xsd:string ;
+    :relatedTo :Line_270 .
+
+:TV_Line_271_ES a :TranslationVariant ;
+    :text "ni respuesta que oponer ni modo de obrar bien"^^xsd:string ;
+    :relatedTo :Line_271 .
+
+:TV_Line_272_ES a :TranslationVariant ;
+    :text "en el asunto. Su propuesta era que había que traer"^^xsd:string ;
+    :relatedTo :Line_272 .
+
+:TV_Line_273_ES a :TranslationVariant ;
+    :text "ante ti este hecho y no ocultarlo."^^xsd:string ;
+    :relatedTo :Line_273 .
+
+:TV_Line_274_ES a :TranslationVariant ;
+    :text "Y eso venció, y a mí, desdichado,"^^xsd:string ;
+    :relatedTo :Line_274 .
+
+:TV_Line_275_ES a :TranslationVariant ;
+    :text "la suerte me escogió para recibir este buen premio."^^xsd:string ;
+    :relatedTo :Line_275 .
+
+:TV_Line_276_ES a :TranslationVariant ;
+    :text "Estoy aquí contra mi voluntad y contra la vuestra, lo sé;"^^xsd:string ;
+    :relatedTo :Line_276 .
+
+:TV_Line_277_ES a :TranslationVariant ;
+    :text "nadie quiere al mensajero de malas palabras."^^xsd:string ;
+    :relatedTo :Line_277 .
+
+:TV_Line_278_ES a :TranslationVariant ;
+    :text "Señor, desde hace rato mi pensamiento delibera"^^xsd:string ;
+    :relatedTo :Line_278 .
+
+:TV_Line_279_ES a :TranslationVariant ;
+    :text "si este hecho no será quizá impulsado por los dioses."^^xsd:string ;
+    :relatedTo :Line_279 .

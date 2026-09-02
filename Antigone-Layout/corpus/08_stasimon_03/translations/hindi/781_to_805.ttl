@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-hindi a owl:Ontology .
+# Hindi translation variants for 781_to_805.ttl
+
+:TV_Line_781_HI a :TranslationVariant ;
+:text "हे एरोस, युद्ध में अजेय, हे एरोस, तू संपत्तियों पर टूट पड़ता है,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_HI a :TranslationVariant ;
+:text "तू युवती के कोमल गालों पर रात्रि बिताता है,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Line 783 and 784 do not exist in Antigone
+
+:TV_Line_785_HI a :TranslationVariant ;
+:text "और समुद्र के पार तथा ग्रामीण आँगनों में भटकता है;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_HI a :TranslationVariant ;
+:text "अमर देवताओं में से कोई भी तुझसे बचकर भाग नहीं सकता,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Line 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_HI a :TranslationVariant ;
+:text "न दिनभर जीने वाले मनुष्यों में कोई; और जिसे तू पकड़ता है, वह पागल हो जाता है।"^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_HI a :TranslationVariant ;
+:text "तू न्यायवानों के मन भी अपमान के लिए अन्याय की ओर खींच ले जाता है,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_HI a :TranslationVariant ;
+:text "और तूने ही रक्त-संबंधी पुरुषों का यह विवाद भी विचलित किया है;"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Line 793 and 794 do not exist in Antigone
+
+:TV_Line_795_HI a :TranslationVariant ;
+:text "सुशय्या-वाली वधू की पलकों से चमकती स्पष्ट इच्छा जीत जाती है,"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_HI a :TranslationVariant ;
+:text "महान नियमों की आरंभिक सत्ता में सहासन पर बैठी हुई,"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Line 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_HI a :TranslationVariant ;
+:text "नियमों में; क्योंकि अजेय देवी अफ्रोदिते खेल करती है।"^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_HI a :TranslationVariant ;
+:text "अब मैं भी स्वयं नियमों से बाहर"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_HI a :TranslationVariant ;
+:text "इन बातों को देखकर बह चला हूँ, और अब रोक नहीं सकता"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_HI a :TranslationVariant ;
+:text "आँसुओं के स्रोतों को,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_HI a :TranslationVariant ;
+:text "जब मैं सबको सुलाने वाला वह कक्ष देखता हूँ,"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_HI a :TranslationVariant ;
+:text "इस अन्तिगोने को उसकी ओर जाते हुए।"^^xsd:string ;
+:relatedTo :Line_805 .

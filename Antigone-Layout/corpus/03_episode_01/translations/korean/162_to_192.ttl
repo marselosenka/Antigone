@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-korean a owl:Ontology .
+# Korean translation variants for 162_to_192.ttl
+
+:TV_Line_162_KO a :TranslationVariant ;
+:text "사람들이여, 도시의 일들은 신들이 안전하게"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_KO a :TranslationVariant ;
+:text "큰 흔들림으로 흔든 뒤 다시 바로 세웠다."^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_KO a :TranslationVariant ;
+:text "그리고 나는 모든 이들 가운데서 너희를 따로 사자들을 통해"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_KO a :TranslationVariant ;
+:text "오게 하였다. 첫째로는 라이오스의"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_KO a :TranslationVariant ;
+:text "왕좌의 권세를 너희가 언제나 잘 공경함을 알고 있었기 때문이며,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_KO a :TranslationVariant ;
+:text "또다시, 오이디푸스가 도시를 바로 세웠을 때와,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_KO a :TranslationVariant ;
+:text "그가 멸망한 뒤에도, 그들의 자식들 곁에"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_KO a :TranslationVariant ;
+:text "굳건한 마음으로 머물렀기 때문이다."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_KO a :TranslationVariant ;
+:text "그러므로 그들이 이중의 운명으로, 한"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_KO a :TranslationVariant ;
+:text "날에 서로 치고"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_KO a :TranslationVariant ;
+:text "맞아, 자기 손의 더러움과 함께 죽었을 때,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_KO a :TranslationVariant ;
+:text "이제 나는 모든 권세와 왕좌를 가지고 있다,"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_KO a :TranslationVariant ;
+:text "죽은 자들과 혈족상 가장 가까운 친족 관계에 따라."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_KO a :TranslationVariant ;
+:text "그러나 어떤 사람의 영혼과"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_KO a :TranslationVariant ;
+:text "생각과 판단을 온전히 알아내는 것은 불가능하다, 그가"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_KO a :TranslationVariant ;
+:text "통치와 법들 속에서 단련된 자로 드러나기 전에는."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_KO a :TranslationVariant ;
+:text "내게는, 온 도시를 바로잡는 자이면서"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_KO a :TranslationVariant ;
+:text "가장 훌륭한 조언들에 손대지 않고,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_KO a :TranslationVariant ;
+:text "어떤 두려움 때문에 혀를 닫아 둔 자는,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_KO a :TranslationVariant ;
+:text "지금도 예전에도 가장 나쁜 자로 보인다."^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_KO a :TranslationVariant ;
+:text "또 누구든 자기 조국보다 더 큰"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_KO a :TranslationVariant ;
+:text "친구를 여긴다면, 나는 그를 아무것도 아닌 자라 말한다."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_KO a :TranslationVariant ;
+:text "나는 말하건대, 언제나 모든 것을 보는 제우스가 알게 하라,"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_KO a :TranslationVariant ;
+:text "시민들에게 구원 대신 파멸이"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_KO a :TranslationVariant ;
+:text "다가오는 것을 보면서 결코 침묵하지 않을 것이며,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_KO a :TranslationVariant ;
+:text "또 결코 이 땅에 적대적인 사람을"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_KO a :TranslationVariant ;
+:text "나 자신의 친구로 삼지 않을 것이다. 이것을 알기 때문이다,"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_KO a :TranslationVariant ;
+:text "이 도시가 우리를 구하는 것이며, 이 도시가"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_KO a :TranslationVariant ;
+:text "바르게 항해할 때 그 위에서 우리는 친구들을 만든다는 것을."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_KO a :TranslationVariant ;
+:text "이런 법들로 나는 이 도시를 키울 것이다."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_KO a :TranslationVariant ;
+:text "그리고 지금 나는 이 일들과 같은 자매 된 포고를 내렸다,"^^xsd:string ;
+:relatedTo :Line_192 .

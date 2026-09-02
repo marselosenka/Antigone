@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-german a owl:Ontology .
+# German translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_DE a :TranslationVariant ;
+:text "Ai, ai,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_DE a :TranslationVariant ;
+:text "ich bin vor Furcht aufgeflogen. Warum hat mich nicht entgegen"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_DE a :TranslationVariant ;
+:text "jemand mit einem zweischneidigen Schwert geschlagen?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in canonical.
+
+:TV_Line_1310_DE a :TranslationVariant ;
+:text "Ich Elender, ai, ai,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_DE a :TranslationVariant ;
+:text "mit elendem Leid bin ich zusammengemischt."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_DE a :TranslationVariant ;
+:text "Als einer, der die Schuld an diesem und jenem hat,"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_DE a :TranslationVariant ;
+:text "wurdest du von den Schicksalen dieser Gestorbenen beschuldigt."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_DE a :TranslationVariant ;
+:text "Auf welche Weise aber löste sie sich in Blut?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_DE a :TranslationVariant ;
+:text "Mit eigener Hand schlug sie sich unter die Leber,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_DE a :TranslationVariant ;
+:text "als sie dieses scharf beklagte Leiden des Kindes erfahren hatte."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_DE a :TranslationVariant ;
+:text "Weh mir, dies wird niemals auf einen anderen Sterblichen"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_DE a :TranslationVariant ;
+:text "passen als aus meiner Schuld."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_DE a :TranslationVariant ;
+:text "Denn ich, ich habe dich getötet, o Elende,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_DE a :TranslationVariant ;
+:text "ich, sage ich wahrhaftig. Io, Diener,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_DE a :TranslationVariant ;
+:text "führt mich so schnell wie möglich fort, führt mich aus dem Weg,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Lines 1322, 1323, and 1324 do not exist in canonical.
+
+:TV_Line_1325_DE a :TranslationVariant ;
+:text "der mehr nicht ist als niemand."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_DE a :TranslationVariant ;
+:text "Gewinn rätst du, wenn es irgendeinen Gewinn in Übeln gibt;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_DE a :TranslationVariant ;
+:text "denn die kürzesten gegenwärtigen Übel sind die besten."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_DE a :TranslationVariant ;
+:text "Es komme, es komme,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_DE a :TranslationVariant ;
+:text "erscheine das schönste meiner Schicksale,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_DE a :TranslationVariant ;
+:text "das mir den endenden Tag bringt,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_DE a :TranslationVariant ;
+:text "das höchste; es komme, es komme,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_DE a :TranslationVariant ;
+:text "damit ich keinen anderen Tag mehr sehe."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in canonical.
+
+:TV_Line_1334_DE a :TranslationVariant ;
+:text "Dies liegt in der Zukunft. Von dem Vorliegenden muss man etwas"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_DE a :TranslationVariant ;
+:text "tun; denn darum sorgen die, denen Sorge darum obliegt."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_DE a :TranslationVariant ;
+:text "Doch worum ich bitte, dies habe ich mit erbeten."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_DE a :TranslationVariant ;
+:text "Bete nun um nichts mehr; denn aus bestimmtem"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_DE a :TranslationVariant ;
+:text "Unglück gibt es für Sterbliche keine Befreiung."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_DE a :TranslationVariant ;
+:text "Führt den eitlen Mann aus dem Weg,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_DE a :TranslationVariant ;
+:text "der, o Kind, dich nicht freiwillig getötet hat,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_DE a :TranslationVariant ;
+:text "und auch dich, diese hier, weh mir Elendem; ich habe nicht,"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_DE a :TranslationVariant ;
+:text "wohin von beiden ich blicken, wohin ich mich neigen soll; denn alles"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Lines 1343 and 1344 do not exist in canonical.
+
+:TV_Line_1345_DE a :TranslationVariant ;
+:text "ist schief in meinen Händen, und auf mein Haupt"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_DE a :TranslationVariant ;
+:text "ist ein schwer zu tragendes Schicksal hereingesprungen."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_DE a :TranslationVariant ;
+:text "Weit voran steht das Denken als erstes"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_DE a :TranslationVariant ;
+:text "des Glücks; in den Dingen gegenüber den Göttern darf man"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in canonical.
+
+:TV_Line_1350_DE a :TranslationVariant ;
+:text "nichts Unfrommes tun; große Worte"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_DE a :TranslationVariant ;
+:text "der Überstolzen zahlen große Schläge"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_DE a :TranslationVariant ;
+:text "zurück"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_DE a :TranslationVariant ;
+:text "und lehrten im Alter das Denken."^^xsd:string ;
+:relatedTo :Line_1353 .

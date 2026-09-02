@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-portuguese a owl:Ontology .
+# Portuguese translation variants for 988_to_1032.ttl
+
+:TV_Line_988_PT a :TranslationVariant ;
+:text "Senhores de Tebas, chegamos por um caminho comum,"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_PT a :TranslationVariant ;
+:text "dois vendo pelos olhos de um só; pois para os cegos"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_PT a :TranslationVariant ;
+:text "este caminho existe por meio de um guia."^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_PT a :TranslationVariant ;
+:text "Que há, velho Tirésias, de novo?"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_PT a :TranslationVariant ;
+:text "Eu ensinarei; e tu obedece ao adivinho."^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_PT a :TranslationVariant ;
+:text "Certamente antes eu não me afastava de teu pensamento."^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_PT a :TranslationVariant ;
+:text "Por isso governas esta cidade por rota reta."^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_PT a :TranslationVariant ;
+:text "Posso testemunhar, por experiência, coisas proveitosas."^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_PT a :TranslationVariant ;
+:text "Pensa bem, pois agora de novo estás sobre o fio da navalha da sorte."^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_PT a :TranslationVariant ;
+:text "Que há? Como tremo diante de tua boca."^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_PT a :TranslationVariant ;
+:text "Saberás, ouvindo os sinais de minha arte."^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_PT a :TranslationVariant ;
+:text "Pois, sentado em meu antigo assento de observação das aves,"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_PT a :TranslationVariant ;
+:text "onde havia para mim porto de todo pássaro augural,"^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_PT a :TranslationVariant ;
+:text "ouço um som desconhecido de aves,"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_PT a :TranslationVariant ;
+:text "gritando com mau furor e som barbarizado;"^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_PT a :TranslationVariant ;
+:text "e, rasgando-se umas às outras com garras assassinas,"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_PT a :TranslationVariant ;
+:text "reconheci-o; pois o ruído das asas não era obscuro."^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_PT a :TranslationVariant ;
+:text "Logo, tomado de medo, provei os sacrifícios ardentes"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_PT a :TranslationVariant ;
+:text "sobre altares todo flamejantes; mas das vítimas"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_PT a :TranslationVariant ;
+:text "Hefesto não brilhava; antes, sobre a cinza"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_PT a :TranslationVariant ;
+:text "o líquido dos fêmures, apodrecendo, se desfazia,"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_PT a :TranslationVariant ;
+:text "fumegava e cuspia, e pelo ar"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_PT a :TranslationVariant ;
+:text "as bílis se espalhavam, e caídos,"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_PT a :TranslationVariant ;
+:text "os fêmures jaziam desnudados da gordura que os cobria."^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_PT a :TranslationVariant ;
+:text "Tais coisas aprendi junto deste rapaz"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_PT a :TranslationVariant ;
+:text "quanto aos vaticínios dos ritos, que se extinguiam sem sinais;"^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_PT a :TranslationVariant ;
+:text "pois ele é meu guia, e eu o sou para outros."^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_PT a :TranslationVariant ;
+:text "E por causa de teu pensamento esta cidade adoece;"^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_PT a :TranslationVariant ;
+:text "pois nossos altares e lareiras estão inteiramente"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_PT a :TranslationVariant ;
+:text "cheios, por aves e cães, de alimento"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_PT a :TranslationVariant ;
+:text "do desditoso filho caído de Édipo."^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_PT a :TranslationVariant ;
+:text "E então os deuses já não aceitam de nós"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_PT a :TranslationVariant ;
+:text "preces sacrificiais nem chama dos fêmures,"^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_PT a :TranslationVariant ;
+:text "nem ave alguma faz soar gritos de bom presságio,"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_PT a :TranslationVariant ;
+:text "por terem comido a gordura de sangue destruidor de homens."^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_PT a :TranslationVariant ;
+:text "Reflete, portanto, filho, sobre estas coisas; pois aos homens,"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_PT a :TranslationVariant ;
+:text "a todos, é comum errar;"^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_PT a :TranslationVariant ;
+:text "mas, depois que erra, já não é homem"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_PT a :TranslationVariant ;
+:text "insensato nem infeliz aquele que, caído no mal,"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_PT a :TranslationVariant ;
+:text "o remedia e não permanece imóvel;"^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_PT a :TranslationVariant ;
+:text "a obstinação, sabes, incorre em estupidez."^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_PT a :TranslationVariant ;
+:text "Mas cede ao morto, e não firas quem pereceu;"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_PT a :TranslationVariant ;
+:text "que força há em matar de novo o morto?"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_PT a :TranslationVariant ;
+:text "Pensando bem por ti, falo bem; e aprender"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_PT a :TranslationVariant ;
+:text "de quem fala bem é dulcíssimo, se traz proveito."^^xsd:string ;
+:relatedTo :Line_1032 .

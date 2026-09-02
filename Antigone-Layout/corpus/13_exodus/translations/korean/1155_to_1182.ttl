@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-korean a owl:Ontology .
+# Korean translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_KO a :TranslationVariant ;
+:text "카드모스의 이웃들이며 암피온의 집들의 사람들이여,"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_KO a :TranslationVariant ;
+:text "인간의 삶이 어떤 상태에 서 있든,"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_KO a :TranslationVariant ;
+:text "나는 결코 그것을 칭찬할 수도 비난할 수도 없다."^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_KO a :TranslationVariant ;
+:text "운은 세우기도 하고, 운은 쓰러뜨리기도 하기 때문이다,"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_KO a :TranslationVariant ;
+:text "행운한 자와 불행한 자를 언제나."^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_KO a :TranslationVariant ;
+:text "그리고 죽을 자들에게 정해진 것들을 아는 예언자는 아무도 없다."^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_KO a :TranslationVariant ;
+:text "크레온은 한때, 내게는, 부러워할 만한 사람이었다,"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_KO a :TranslationVariant ;
+:text "적들로부터 이 카드모스의 땅을 구하고,"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_KO a :TranslationVariant ;
+:text "나라의 완전한 단독 지배권을 얻어,"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_KO a :TranslationVariant ;
+:text "그것을 바르게 다스리며, 고귀한 자식들의 씨로 번성했으니."^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_KO a :TranslationVariant ;
+:text "그러나 이제 모든 것이 떠나갔다. 즐거움을"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_KO a :TranslationVariant ;
+:text "사람들이 저버릴 때, 나는 그 사람을"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_KO a :TranslationVariant ;
+:text "살아 있다고 여기지 않고, 숨 쉬는 시신으로 여긴다."^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_KO a :TranslationVariant ;
+:text "네가 원한다면 집 안에서 크게 부유하라,"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_KO a :TranslationVariant ;
+:text "그리고 참주의 모습을 지니고 살아라. 그러나 만일"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_KO a :TranslationVariant ;
+:text "그것들을 기뻐함이 없다면, 나는 나머지 것들을 연기의 그림자만큼도"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_KO a :TranslationVariant ;
+:text "한 사람에게서 사지 않을 것이다, 즐거움에 견주어서는."^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_KO a :TranslationVariant ;
+:text "그런데 왕가의 어떤 이 무거운 짐을 가지고 왔는가?"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_KO a :TranslationVariant ;
+:text "그들은 죽었다. 그리고 살아 있는 자들이 죽음의 원인이다."^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_KO a :TranslationVariant ;
+:text "누가 죽였는가? 누가 쓰러져 있는가? 말하라."^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_KO a :TranslationVariant ;
+:text "하이몬이 죽었다. 제 손으로 피를 흘리고 있다."^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_KO a :TranslationVariant ;
+:text "아버지의 손에 의해서인가, 아니면 자기 자신의 손에 의해서인가?"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_KO a :TranslationVariant ;
+:text "스스로 자신에게, 그 죽음 때문에 아버지에게 분노하여."^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_KO a :TranslationVariant ;
+:text "오 예언자여, 그 말이 얼마나 바르게 이루어졌는가."^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_KO a :TranslationVariant ;
+:text "일이 이러하니, 나머지는 숙고할 수 있다."^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_KO a :TranslationVariant ;
+:text "그리고 참으로 불쌍한 에우리디케를 함께 보고 있다,"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_KO a :TranslationVariant ;
+:text "크레온의 아내를. 집에서"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_KO a :TranslationVariant ;
+:text "아들의 일을 듣고 오는 것인지, 아니면 우연인지 알 수 있다."^^xsd:string ;
+:relatedTo :Line_1182 .

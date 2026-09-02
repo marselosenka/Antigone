@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-german a owl:Ontology .
+# German translation variants for 331_to_365.ttl
+
+:TV_Line_331_DE a :TranslationVariant ;
+:text "Gerettet schulde ich den Göttern großen Dank."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_DE a :TranslationVariant ;
+:text "Vieles ist furchtbar, und nichts"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_DE a :TranslationVariant ;
+:text "ist furchtbarer als der Mensch;"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_DE a :TranslationVariant ;
+:text "auch dieser zieht über das graue"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_DE a :TranslationVariant ;
+:text "Meer hinaus im winterlichen Südwind,"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_DE a :TranslationVariant ;
+:text "fährt dahin, unter ringsumtönenden"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_DE a :TranslationVariant ;
+:text "Wogen hindurchgehend, und die der Götter"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_DE a :TranslationVariant ;
+:text "höchste, die Erde,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_DE a :TranslationVariant ;
+:text "unvergänglich, unermüdlich, erschöpft er,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_DE a :TranslationVariant ;
+:text "wenn die Pflüge Jahr um Jahr sich wenden,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_DE a :TranslationVariant ;
+:text "sie mit dem Geschlecht der Pferde bearbeitend."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_DE a :TranslationVariant ;
+:text "Und das leichtsinnige Geschlecht der"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_DE a :TranslationVariant ;
+:text "Vögel umwerfend, fängt er es,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_DE a :TranslationVariant ;
+:text "und die Scharen wilder Tiere"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_DE a :TranslationVariant ;
+:text "und die meerbewohnende Natur des Meeres"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_DE a :TranslationVariant ;
+:text "mit den Windungen netzgesponnener Maschen,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_DE a :TranslationVariant ;
+:text "der kluge Mann; er herrscht"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_DE a :TranslationVariant ;
+:text "durch Künste über das wildlebende"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 is commented out in canonical.
+
+:TV_Line_350_DE a :TranslationVariant ;
+:text "Tier, das die Berge durchstreift, und das zottelhalsige,"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_DE a :TranslationVariant ;
+:text "das Pferd, unter das den Nacken umspannende Joch zu führen,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_DE a :TranslationVariant ;
+:text "und den unermüdlichen Bergstier."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Lines 353 and 354 are commented out in canonical.
+
+:TV_Line_355_DE a :TranslationVariant ;
+:text "Und Sprache und windesschnellen Sinn und stadtordnende"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_DE a :TranslationVariant ;
+:text "Gemütsarten hat er sich gelehrt, und der schlecht bewohnbaren"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_DE a :TranslationVariant ;
+:text "Fröste unter freiem Himmel und regenschweren Geschosse zu entfliehen,"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_DE a :TranslationVariant ;
+:text "in allem wegbereit; weglos geht er auf nichts"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 is commented out in canonical.
+
+:TV_Line_360_DE a :TranslationVariant ;
+:text "Künftiges zu; nur vor Hades wird er keine Flucht schaffen;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_DE a :TranslationVariant ;
+:text "doch gegen unheilbare Krankheiten hat er Fluchten ausgedacht."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364 and 365 do not exist in canonical.

@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-japanese a owl:Ontology .
+# Japanese translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_JA a :TranslationVariant ;
+:text "ああ、ああ、"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_JA a :TranslationVariant ;
+:text "恐怖で飛び上がった。なぜ誰も私を正面から"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_JA a :TranslationVariant ;
+:text "両刃の剣で打たなかったのか。"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in Antigone
+
+:TV_Line_1310_JA a :TranslationVariant ;
+:text "哀れな私だ、ああ、"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_JA a :TranslationVariant ;
+:text "哀れな苦しみと混ざり合っている。"^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_JA a :TranslationVariant ;
+:text "これらのことも、あれらのことも、その責めを負う者として、"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_JA a :TranslationVariant ;
+:text "この死んだ女の運命によって、あなたは訴えられていました。"^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_JA a :TranslationVariant ;
+:text "どのような仕方で、彼女は血の中で自らを解き放ったのか。"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_JA a :TranslationVariant ;
+:text "肝の下を自らの手で自分自身に打ち込みました、"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_JA a :TranslationVariant ;
+:text "息子のこの鋭く嘆かれる苦しみを知った時に。"^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_JA a :TranslationVariant ;
+:text "ああ、これらのことは他のどの死すべき者にも"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_JA a :TranslationVariant ;
+:text "私の責めからのものとして、決して結び付けられはしない。"^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_JA a :TranslationVariant ;
+:text "私が、私があなたを殺したのだ、哀れな者よ、"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_JA a :TranslationVariant ;
+:text "私が、本当にそう言う。ああ、召使いたちよ、"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_JA a :TranslationVariant ;
+:text "できるだけ早く私を連れ去れ、私を目の前からどけよ、"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Lines 1322, 1323 and 1324 do not exist in Antigone
+
+:TV_Line_1325_JA a :TranslationVariant ;
+:text "存在しない者、いや誰でもない者以上の男を。"^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_JA a :TranslationVariant ;
+:text "あなたは益となることを勧めている、もし災いの中に何か益があるなら。"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_JA a :TranslationVariant ;
+:text "足もとの災いは、最も短いものが最善だからだ。"^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_JA a :TranslationVariant ;
+:text "来たれ、来たれ、"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_JA a :TranslationVariant ;
+:text "私の運命のうち最も美しいものが現れよ、"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_JA a :TranslationVariant ;
+:text "私に終わりの日をもたらす、"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_JA a :TranslationVariant ;
+:text "最後のものが。来たれ、来たれ、"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_JA a :TranslationVariant ;
+:text "私がもはや別の日を見ないように。"^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in Antigone
+
+:TV_Line_1334_JA a :TranslationVariant ;
+:text "それらは未来のことだ。目の前に置かれたことのうち、"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_JA a :TranslationVariant ;
+:text "何かを行わねばならない。それらを気にかけるべき者たちが気にかけるのだから。"^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_JA a :TranslationVariant ;
+:text "しかし私が語るそれらのことを、私はともに祈ったのだ。"^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_JA a :TranslationVariant ;
+:text "今は何もさらに祈るな。定められた"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_JA a :TranslationVariant ;
+:text "災難から、死すべき者に逃れはないのだから。"^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_JA a :TranslationVariant ;
+:text "この虚しい男を目の前から連れ去れ、"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_JA a :TranslationVariant ;
+:text "子よ、お前を、望んでではなく殺した者を、"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_JA a :TranslationVariant ;
+:text "そしてお前をも、わが妻よ。ああ、哀れな私は、"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_JA a :TranslationVariant ;
+:text "どちらを見るべきか、どこへ身を傾けるべきか分からない。すべてが"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Lines 1343 and 1344 do not exist in Antigone
+
+:TV_Line_1345_JA a :TranslationVariant ;
+:text "私の手の中で曲がっており、私の頭の上には"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_JA a :TranslationVariant ;
+:text "耐え難い運命が跳びかかった。"^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_JA a :TranslationVariant ;
+:text "幸福において、思慮あることは"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_JA a :TranslationVariant ;
+:text "はるかに第一のものとして成り立つ。そして神々に対しては"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in Antigone
+
+:TV_Line_1350_JA a :TranslationVariant ;
+:text "何一つ不敬をなしてはならない。大きな言葉は、"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_JA a :TranslationVariant ;
+:text "傲慢な者たちの大きな打撃を"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_JA a :TranslationVariant ;
+:text "償わせて、"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_JA a :TranslationVariant ;
+:text "老年において思慮を教えた。"^^xsd:string ;
+:relatedTo :Line_1353 .

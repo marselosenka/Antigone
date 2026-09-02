@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-german a owl:Ontology .
+# German translation variants for 42_to_62.ttl
+
+:TV_Line_42_DE a :TranslationVariant ;
+:text "Was für ein Wagnis? Wohin ist denn deine Absicht gerichtet?"^^xsd:string ;
+:relatedTo :Line_42 .
+
+:TV_Line_43_DE a :TranslationVariant ;
+:text "Ob du den Toten mit dieser Hand mitheben wirst."^^xsd:string ;
+:relatedTo :Line_43 .
+
+:TV_Line_44_DE a :TranslationVariant ;
+:text "Denn gedenkst du wirklich, ihn zu bestatten, obwohl es der Stadt verboten ist?"^^xsd:string ;
+:relatedTo :Line_44 .
+
+:TV_Line_45_DE a :TranslationVariant ;
+:text "Meinen jedenfalls, und deinen, auch wenn du nicht willst,"^^xsd:string ;
+:relatedTo :Line_45 .
+
+:TV_Line_46_DE a :TranslationVariant ;
+:text "Bruder; denn ich werde gewiss nicht als Verräterin ertappt werden."^^xsd:string ;
+:relatedTo :Line_46 .
+
+:TV_Line_47_DE a :TranslationVariant ;
+:text "O Verwegene, obwohl Kreon es untersagt hat?"^^xsd:string ;
+:relatedTo :Line_47 .
+
+:TV_Line_48_DE a :TranslationVariant ;
+:text "Aber ihm steht es nicht zu, mich von dem Meinen fernzuhalten."^^xsd:string ;
+:relatedTo :Line_48 .
+
+:TV_Line_49_DE a :TranslationVariant ;
+:text "Weh mir; bedenke, Schwester, wie unser Vater"^^xsd:string ;
+:relatedTo :Line_49 .
+
+:TV_Line_50_DE a :TranslationVariant ;
+:text "uns verhasst und ruhmlos zugrunde ging,"^^xsd:string ;
+:relatedTo :Line_50 .
+
+:TV_Line_51_DE a :TranslationVariant ;
+:text "durch die selbst entdeckten Verfehlungen, indem er seine beiden"^^xsd:string ;
+:relatedTo :Line_51 .
+
+:TV_Line_52_DE a :TranslationVariant ;
+:text "Augen selbst mit eigenwirkender Hand zerschlug;"^^xsd:string ;
+:relatedTo :Line_52 .
+
+:TV_Line_53_DE a :TranslationVariant ;
+:text "dann die Mutter und Gattin, ein doppeltes Wort,"^^xsd:string ;
+:relatedTo :Line_53 .
+
+:TV_Line_54_DE a :TranslationVariant ;
+:text "mit geflochtenen Schlingen ihr Leben schändete;"^^xsd:string ;
+:relatedTo :Line_54 .
+
+:TV_Line_55_DE a :TranslationVariant ;
+:text "drittens zwei Brüder an einem einzigen Tag,"^^xsd:string ;
+:relatedTo :Line_55 .
+
+:TV_Line_56_DE a :TranslationVariant ;
+:text "sich selbst tötend, die beiden Unglücklichen, ihr gemeinsames"^^xsd:string ;
+:relatedTo :Line_56 .
+
+:TV_Line_57_DE a :TranslationVariant ;
+:text "Los durch wechselseitige Hände vollbrachten."^^xsd:string ;
+:relatedTo :Line_57 .
+
+:TV_Line_58_DE a :TranslationVariant ;
+:text "Nun aber bedenke wieder, wie wir beide allein zurückgelassen"^^xsd:string ;
+:relatedTo :Line_58 .
+
+:TV_Line_59_DE a :TranslationVariant ;
+:text "am schlimmsten zugrunde gehen werden, wenn wir der Gewalt des Gesetzes"^^xsd:string ;
+:relatedTo :Line_59 .
+
+:TV_Line_60_DE a :TranslationVariant ;
+:text "und dem Beschluss oder der Macht der Herrscher trotzen."^^xsd:string ;
+:relatedTo :Line_60 .
+
+:TV_Line_61_DE a :TranslationVariant ;
+:text "Vielmehr muss man dies bedenken: dass wir Frauen"^^xsd:string ;
+:relatedTo :Line_61 .
+
+:TV_Line_62_DE a :TranslationVariant ;
+:text "geboren sind, um nicht gegen Männer zu kämpfen;"^^xsd:string ;
+:relatedTo :Line_62 .

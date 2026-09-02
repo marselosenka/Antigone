@@ -1,0 +1,112 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-582-615-indonesian a owl:Ontology .
+# Indonesian translation variants for 582_to_615.ttl
+
+# Line 582 does not exist in Antigone
+
+:TV_Line_583_ID a :TranslationVariant ;
+:text "Berbahagialah mereka yang hidupnya tidak pernah mengecap kejahatan;"^^xsd:string ;
+:relatedTo :Line_583 .
+
+:TV_Line_584_ID a :TranslationVariant ;
+:text "sebab bagi mereka yang rumahnya diguncang dari pihak dewa,"^^xsd:string ;
+:relatedTo :Line_584 .
+
+:TV_Line_585_ID a :TranslationVariant ;
+:text "tidak ada kehancuran yang tidak meninggalkan keturunan, merayap melalui banyak generasi;"^^xsd:string ;
+:relatedTo :Line_585 .
+
+:TV_Line_586_ID a :TranslationVariant ;
+:text "seperti ketika gelombang laut yang sulit bernapas"^^xsd:string ;
+:relatedTo :Line_586 .
+
+:TV_Line_587_ID a :TranslationVariant ;
+:text "dengan hembusan Trakia berlari di atas kegelapan laut,"^^xsd:string ;
+:relatedTo :Line_587 .
+
+# Line 588 and 589 do not exist in Antigone
+
+:TV_Line_590_ID a :TranslationVariant ;
+:text "ia menggulung pasir hitam dari dasar laut,"^^xsd:string ;
+:relatedTo :Line_590 .
+
+:TV_Line_591_ID a :TranslationVariant ;
+:text "dan pantai yang dipukul balik oleh angin buruk bergemuruh."^^xsd:string ;
+:relatedTo :Line_591 .
+
+# Line 592 does not exist in Antigone
+
+:TV_Line_593_ID a :TranslationVariant ;
+:text "Aku melihat derita kuno dari rumah Labdakos"^^xsd:string ;
+:relatedTo :Line_593 .
+
+# Line 594 does not exist in Antigone
+
+:TV_Line_595_ID a :TranslationVariant ;
+:text "jatuh, derita demi derita, di atas derita orang-orang yang telah mati,"^^xsd:string ;
+:relatedTo :Line_595 .
+
+:TV_Line_596_ID a :TranslationVariant ;
+:text "dan satu generasi tidak membebaskan generasi lain, melainkan merobohkannya;"^^xsd:string ;
+:relatedTo :Line_596 .
+
+:TV_Line_597_ID a :TranslationVariant ;
+:text "suatu dewa melakukannya, dan tidak ada pembebasan. Sebab sekarang dari akar terakhir"^^xsd:string ;
+:relatedTo :Line_597 .
+
+# Line 598 and 599 do not exist in Antigone
+
+:TV_Line_600_ID a :TranslationVariant ;
+:text "cahaya yang terbentang di rumah Oidipus"^^xsd:string ;
+:relatedTo :Line_600 .
+
+:TV_Line_601_ID a :TranslationVariant ;
+:text "debu berdarah dari para dewa bawah menebasnya,"^^xsd:string ;
+:relatedTo :Line_601 .
+
+:TV_Line_602_ID a :TranslationVariant ;
+:text "melalui kebodohan kata dan kegilaan pikiran."^^xsd:string ;
+:relatedTo :Line_602 .
+
+# Line 603 and 604 do not exist in Antigone
+
+:TV_Line_605_ID a :TranslationVariant ;
+:text "Kekuatanmu, Zeus, pelanggaran manusia mana yang dapat menahannya?"^^xsd:string ;
+:relatedTo :Line_605 .
+
+:TV_Line_606_ID a :TranslationVariant ;
+:text "Ia tidak pernah diambil oleh tidur yang menjerat segala usia,"^^xsd:string ;
+:relatedTo :Line_606 .
+
+:TV_Line_607_ID a :TranslationVariant ;
+:text "ataupun oleh bulan-bulan para dewa; tetapi dalam waktu yang tak menua"^^xsd:string ;
+:relatedTo :Line_607 .
+
+# Line 608 and 609 do not exist in Antigone
+
+:TV_Line_610_ID a :TranslationVariant ;
+:text "sebagai penguasa engkau memegang kilau Olympus yang gemerlap seperti marmer."^^xsd:string ;
+:relatedTo :Line_610 .
+
+:TV_Line_611_ID a :TranslationVariant ;
+:text "Baik yang kemudian maupun yang akan datang"^^xsd:string ;
+:relatedTo :Line_611 .
+
+:TV_Line_612_ID a :TranslationVariant ;
+:text "dan yang dahulu, hukum ini akan mencukupi:"^^xsd:string ;
+:relatedTo :Line_612 .
+
+:TV_Line_613_ID a :TranslationVariant ;
+:text "tidak ada apa pun dalam hidup manusia fana"^^xsd:string ;
+:relatedTo :Line_613 .
+
+:TV_Line_614_ID a :TranslationVariant ;
+:text "yang sangat besar datang sepenuhnya di luar kehancuran."^^xsd:string ;
+:relatedTo :Line_614 .
+
+:TV_Line_615_ID a :TranslationVariant ;
+:text "Sebab harapan yang banyak mengembara itu bagi banyak lelaki menjadi pertolongan,"^^xsd:string ;
+:relatedTo :Line_615 .

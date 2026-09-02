@@ -1,0 +1,58 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-100-112-hindi a owl:Ontology .
+# Hindi translation variants for 100_to_112.ttl
+
+:TV_Line_100_HI a :TranslationVariant ;
+:text "सूर्य की किरण, सबसे सुंदर"^^xsd:string ;
+:relatedTo :Line_100 .
+
+:TV_Line_101_HI a :TranslationVariant ;
+:text "सात-द्वारी थिब्स पर प्रकट हुई"^^xsd:string ;
+:relatedTo :Line_101 .
+
+:TV_Line_102_HI a :TranslationVariant ;
+:text "पहले की ज्योतियों में से ज्योति,"^^xsd:string ;
+:relatedTo :Line_102 .
+
+:TV_Line_103_HI a :TranslationVariant ;
+:text "कभी तू प्रकट हुई, हे स्वर्णिम"^^xsd:string ;
+:relatedTo :Line_103 .
+
+:TV_Line_104_HI a :TranslationVariant ;
+:text "दिन की आँख, दिर्के के"^^xsd:string ;
+:relatedTo :Line_104 .
+
+:TV_Line_105_HI a :TranslationVariant ;
+:text "प्रवाहों के ऊपर आती हुई,"^^xsd:string ;
+:relatedTo :Line_105 .
+
+:TV_Line_106_HI a :TranslationVariant ;
+:text "आर्गोस से आए श्वेत-ढाल वाले"^^xsd:string ;
+:relatedTo :Line_106 .
+
+:TV_Line_107_HI a :TranslationVariant ;
+:text "योद्धा को, जो संपूर्ण कवच में आगे बढ़ा था,"^^xsd:string ;
+:relatedTo :Line_107 .
+
+:TV_Line_108_HI a :TranslationVariant ;
+:text "भागते हुए अग्रदूत भगोड़े को, अधिक तीक्ष्ण"^^xsd:string ;
+:relatedTo :Line_108 .
+
+:TV_Line_109_HI a :TranslationVariant ;
+:text "लगाम से हिला दिया।"^^xsd:string ;
+:relatedTo :Line_109 .
+
+:TV_Line_110_HI a :TranslationVariant ;
+:text "जिसे हमारी भूमि के विरुद्ध पोलिनाइकेस ने"^^xsd:string ;
+:relatedTo :Line_110 .
+
+:TV_Line_111_HI a :TranslationVariant ;
+:text "दोहरी कलहों से उठकर"^^xsd:string ;
+:relatedTo :Line_111 .
+
+:TV_Line_112_HI a :TranslationVariant ;
+:text "शत्रु बनाकर लाया; और वह तीखी चीख मारता हुआ"^^xsd:string ;
+:relatedTo :Line_112 .

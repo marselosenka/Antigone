@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-korean a owl:Ontology .
+# Korean translation variants for 113_to_140.ttl
+
+:TV_Line_113_KO a :TranslationVariant ;
+:text "독수리처럼 땅 위를 날아넘었다,"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_KO a :TranslationVariant ;
+:text "흰 눈 같은 날개로 덮인 채,"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_KO a :TranslationVariant ;
+:text "많은 무기들과 함께,"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_KO a :TranslationVariant ;
+:text "말총 장식의 투구들과 함께."^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_KO a :TranslationVariant ;
+:text "지붕들 위에 서서, 피를 탐하는 창들로"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_KO a :TranslationVariant ;
+:text "일곱 문 달린 입을 사방에서 크게 벌리고,"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_KO a :TranslationVariant ;
+:text "그는 왔다, 우리의"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_KO a :TranslationVariant ;
+:text "피로 턱을 채우기 전에, 그리고 탑들의 관을"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_KO a :TranslationVariant ;
+:text "소나무로 먹인 헤파이스토스의 불이 빼앗기 전에. 그런 것이 그의 등 둘레에 펼쳐졌다,"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Lines 122, 123 and 124 do not exist in Antigone
+
+:TV_Line_125_KO a :TranslationVariant ;
+:text "아레스의 충돌음이, 맞서는 용에게는 다루기 어려운 것으로."^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in Antigone
+
+:TV_Line_127_KO a :TranslationVariant ;
+:text "제우스는 큰 혀의 자랑들을"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_KO a :TranslationVariant ;
+:text "몹시 미워하기 때문이다. 그리고 그들을 보고,"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_KO a :TranslationVariant ;
+:text "큰 물결처럼 다가오는 자들을,"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_KO a :TranslationVariant ;
+:text "황금의 울림 속에서 교만한 자들을,"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_KO a :TranslationVariant ;
+:text "던져지는 불로, 이미 경계의"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_KO a :TranslationVariant ;
+:text "맨 꼭대기 위에서"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_KO a :TranslationVariant ;
+:text "승리를 외치려고 달려드는 자를 내던졌다."^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_KO a :TranslationVariant ;
+:text "그는 맞받아치는 땅 위에, 흔들려 떨어졌다,"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_KO a :TranslationVariant ;
+:text "불을 지닌 자, 그때 그는 미친 돌진과 함께"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_KO a :TranslationVariant ;
+:text "바쿠스의 광란에 사로잡힌 듯 숨을 내뿜고 있었다,"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_KO a :TranslationVariant ;
+:text "가장 미운 바람들의 돌풍으로."^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_KO a :TranslationVariant ;
+:text "그러나 한편으로는 다른 일들이 있었고,"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_KO a :TranslationVariant ;
+:text "또 다른 것들을 다른 이들 위에 휘두르며 쳐댔다,"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_KO a :TranslationVariant ;
+:text "위대한 아레스가, 오른쪽 멍에 말처럼."^^xsd:string ;
+:relatedTo :Line_140 .

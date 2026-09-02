@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-italian a owl:Ontology .
+# Italian translation variants for 441_to_479.ttl
+
+:TV_Line_441_IT a :TranslationVariant ;
+:text "Te dunque, te che pieghi il capo verso terra,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_IT a :TranslationVariant ;
+:text "dici o neghi di non aver fatto queste cose?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_IT a :TranslationVariant ;
+:text "E dico di averlo fatto e non lo nego affatto."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_IT a :TranslationVariant ;
+:text "Tu puoi portare te stesso dove vuoi,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_IT a :TranslationVariant ;
+:text "libero, fuori da pesante accusa."^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_IT a :TranslationVariant ;
+:text "Tu invece dimmi, non a lungo, ma brevemente,"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_IT a :TranslationVariant ;
+:text "sapevi che era stato proclamato di non fare queste cose?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_IT a :TranslationVariant ;
+:text "Lo sapevo; come non avrei dovuto? Infatti era manifesto."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_IT a :TranslationVariant ;
+:text "E davvero osavi oltrepassare queste leggi?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_IT a :TranslationVariant ;
+:text "Infatti non era Zeus colui che mi proclamò queste cose,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_IT a :TranslationVariant ;
+:text "né Dike, che abita con gli dèi di sotto,"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_IT a :TranslationVariant ;
+:text "stabilì tali leggi tra gli uomini."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_IT a :TranslationVariant ;
+:text "Né pensavo che i tuoi proclami"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_IT a :TranslationVariant ;
+:text "avessero tanta forza, da poter superare le non scritte e sicure"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_IT a :TranslationVariant ;
+:text "leggi degli dèi, tu che sei mortale."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_IT a :TranslationVariant ;
+:text "Infatti non ora né ieri, ma da sempre"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_IT a :TranslationVariant ;
+:text "vivono queste cose, e nessuno sa da quando apparvero."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_IT a :TranslationVariant ;
+:text "Per queste io non avrei dovuto, temendo il pensiero"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_IT a :TranslationVariant ;
+:text "di nessun uomo, pagare tra gli dèi"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_IT a :TranslationVariant ;
+:text "la pena; infatti che sarei morta lo sapevo bene, come no?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_IT a :TranslationVariant ;
+:text "anche se tu non lo avevi proclamato prima. Se poi prima del tempo"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_IT a :TranslationVariant ;
+:text "morirò, questo io lo chiamo guadagno."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_IT a :TranslationVariant ;
+:text "Infatti chi vive in molti mali, come io,"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_IT a :TranslationVariant ;
+:text "come costui, morendo, non porta guadagno?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_IT a :TranslationVariant ;
+:text "Così per me ottenere questa sorte"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_IT a :TranslationVariant ;
+:text "è dolore da nulla; ma se il figlio di mia"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_IT a :TranslationVariant ;
+:text "madre, morto, cadavere insepolto, avessi sopportato,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_IT a :TranslationVariant ;
+:text "di quelli avrei sofferto; di questi non mi addoloro."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_IT a :TranslationVariant ;
+:text "Se poi a te ora sembra che io agisca da stolta,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_IT a :TranslationVariant ;
+:text "forse da uno stolto incorro nell'accusa di stoltezza."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_IT a :TranslationVariant ;
+:text "Mostra la nascita cruda da padre crudo"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_IT a :TranslationVariant ;
+:text "della fanciulla. Non sa cedere ai mali."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_IT a :TranslationVariant ;
+:text "Ma sappi che i pensieri troppo duri"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_IT a :TranslationVariant ;
+:text "cadono soprattutto, e il ferro più forte,"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_IT a :TranslationVariant ;
+:text "cotto dal fuoco e reso rigidissimo,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_IT a :TranslationVariant ;
+:text "lo vedresti più spesso spezzato e incrinato;"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_IT a :TranslationVariant ;
+:text "con piccolo morso so che i cavalli impetuosi"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_IT a :TranslationVariant ;
+:text "vengono domati; infatti non è possibile"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_IT a :TranslationVariant ;
+:text "pensare in grande a chi è schiavo dei vicini."^^xsd:string ;
+:relatedTo :Line_479 .

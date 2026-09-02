@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-japanese a owl:Ontology .
+# Japanese translation variants for 193_to_210.ttl
+
+:TV_Line_193_JA a :TranslationVariant ;
+:text "市民たちに、オイディプスから生まれた子らについて。"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_JA a :TranslationVariant ;
+:text "エテオクレスは、この町のために戦い、"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_JA a :TranslationVariant ;
+:text "槍においてすべてに卓越して死んだ者であるから、"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_JA a :TranslationVariant ;
+:text "墓に隠し、すべてを清めてやること、"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_JA a :TranslationVariant ;
+:text "下にいる最善の死者たちに行われるものすべてを。"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_JA a :TranslationVariant ;
+:text "だが、これと同じ血を持つ者、ポリュネイケスを私は言うが、"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_JA a :TranslationVariant ;
+:text "父祖の地と生まれながらの神々を、"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_JA a :TranslationVariant ;
+:text "追放者として戻って来て、火で"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_JA a :TranslationVariant ;
+:text "根こそぎ焼こうと望み、また同じ血を"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_JA a :TranslationVariant ;
+:text "味わおうと望み、残りの者たちを奴隷にして連れ去ろうとした。"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_JA a :TranslationVariant ;
+:text "この者については、この町に布告されている、"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_JA a :TranslationVariant ;
+:text "誰も墓で葬ってはならず、嘆き悲しんでもならない、"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_JA a :TranslationVariant ;
+:text "葬られないままにし、鳥たちによってその体が"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_JA a :TranslationVariant ;
+:text "犬たちによって食われ、辱められて見えるようにせよと。"^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_JA a :TranslationVariant ;
+:text "これが私の考えだ。そして決して私からは、"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_JA a :TranslationVariant ;
+:text "悪しき者たちが正しい者たちより先に名誉を得ることはない。"^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_JA a :TranslationVariant ;
+:text "しかし、この町に好意を持つ者は誰であれ、死んでいても"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_JA a :TranslationVariant ;
+:text "生きていても同じように、私から名誉を受けるだろう。"^^xsd:string ;
+:relatedTo :Line_210 .

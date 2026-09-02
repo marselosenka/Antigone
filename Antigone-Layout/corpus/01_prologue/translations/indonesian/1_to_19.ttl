@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-indonesian a owl:Ontology .
+# Indonesian translation variants for 1_to_19.ttl
+
+:TV_Line_001_ID a :TranslationVariant ;
+:text "Wahai kepala Ismene yang sekandung denganku,"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_ID a :TranslationVariant ;
+:text "apakah kau tahu, dari derita-derita yang berasal dari Oidipus, apa yang Zeus"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_ID a :TranslationVariant ;
+:text "tidak akan selesaikan bagi kita berdua selagi kita masih hidup?"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_ID a :TranslationVariant ;
+:text "Sebab tidak ada apa pun yang menyakitkan, tidak ada yang tanpa kehancuran,"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_ID a :TranslationVariant ;
+:text "tidak ada yang memalukan, tidak ada yang hina, yang belum"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_ID a :TranslationVariant ;
+:text "kulihat di antara deritamu dan deritaku."^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_ID a :TranslationVariant ;
+:text "Dan sekarang, pengumuman apakah ini yang mereka katakan baru saja"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_ID a :TranslationVariant ;
+:text "ditetapkan sang panglima bagi seluruh kota?"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_ID a :TranslationVariant ;
+:text "Apakah kau punya kabar dan sudah mendengarnya? Ataukah tersembunyi darimu"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_ID a :TranslationVariant ;
+:text "bahwa keburukan dari musuh-musuh sedang menuju orang-orang tercinta?"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_ID a :TranslationVariant ;
+:text "Bagiku, Antigone, tidak ada kabar tentang orang-orang tercinta"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_ID a :TranslationVariant ;
+:text "yang datang, baik yang menyenangkan maupun yang menyakitkan, sejak"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_ID a :TranslationVariant ;
+:text "kita berdua kehilangan dua saudara kita,"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_ID a :TranslationVariant ;
+:text "yang mati pada satu hari oleh tangan ganda."^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_ID a :TranslationVariant ;
+:text "Dan sejak pasukan Argos pergi lenyap"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_ID a :TranslationVariant ;
+:text "pada malam ini, aku tidak tahu apa pun yang lebih jauh,"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_ID a :TranslationVariant ;
+:text "baik bahwa aku lebih beruntung maupun lebih celaka."^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_ID a :TranslationVariant ;
+:text "Aku tahu benar; dan karena itulah aku mengutusmu keluar"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_ID a :TranslationVariant ;
+:text "dari gerbang halaman ini, agar engkau mendengar seorang diri."^^xsd:string ;
+:relatedTo :Line_019 .

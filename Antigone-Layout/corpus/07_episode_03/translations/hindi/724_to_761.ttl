@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-hindi a owl:Ontology .
+# Hindi translation variants for 724_to_761.ttl
+
+:TV_Line_724_HI a :TranslationVariant ;
+:text "राजन, यदि वह कुछ समयोचित कहता है, तो तेरा उससे सीखना उचित है,"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_HI a :TranslationVariant ;
+:text "और तेरा भी इससे सीखना; क्योंकि दोनों ओर से ठीक कहा गया है।"^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_HI a :TranslationVariant ;
+:text "क्या हम इतने बूढ़े होकर अब सीखेंगे"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_HI a :TranslationVariant ;
+:text "ऐसी प्रकृति के इतने युवा पुरुष से बुद्धि?"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_HI a :TranslationVariant ;
+:text "अन्याय की कोई बात नहीं; और यदि मैं युवा हूँ,"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_HI a :TranslationVariant ;
+:text "तो समय से अधिक कर्मों को देखना चाहिए।"^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_HI a :TranslationVariant ;
+:text "क्या अव्यवस्थित लोगों का सम्मान करना कर्म है?"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_HI a :TranslationVariant ;
+:text "मैं बुरे लोगों के प्रति भक्ति करने का आदेश न देता।"^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_HI a :TranslationVariant ;
+:text "क्या यह ऐसी ही बीमारी से ग्रस्त नहीं?"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_HI a :TranslationVariant ;
+:text "इस थिब्स का सहनागरिक जन ऐसा नहीं कहता।"^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_HI a :TranslationVariant ;
+:text "तो क्या नगर मुझे बताएगा कि मुझे कैसे शासन करना चाहिए?"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_HI a :TranslationVariant ;
+:text "क्या देखता है, तूने यह कितना अत्यधिक युवा की तरह कहा?"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_HI a :TranslationVariant ;
+:text "क्या मुझे इस भूमि पर अपने अलावा किसी और के लिए शासन करना चाहिए?"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_HI a :TranslationVariant ;
+:text "जो नगर एक पुरुष का है, वह नगर नहीं।"^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_HI a :TranslationVariant ;
+:text "क्या नगर शासक का नहीं माना जाता?"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_HI a :TranslationVariant ;
+:text "तू अकेला किसी वीरान भूमि पर बहुत अच्छा शासन करेगा।"^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_HI a :TranslationVariant ;
+:text "यह, जैसा दिखता है, स्त्री से मित्रता कर रहा है।"^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_HI a :TranslationVariant ;
+:text "यदि तू स्त्री है। क्योंकि मैं तेरी ही चिंता करता हूँ।"^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_HI a :TranslationVariant ;
+:text "हे सबसे दुष्ट, पिता को न्याय में घसीटता है?"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_HI a :TranslationVariant ;
+:text "क्योंकि मैं तुझे न्याय में भूल करते देखता हूँ।"^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_HI a :TranslationVariant ;
+:text "क्या मैं अपनी सत्ता का सम्मान करते हुए भूल करता हूँ?"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_HI a :TranslationVariant ;
+:text "नहीं, क्योंकि देवताओं के सम्मान को पैरों तले रौंदकर तू सम्मान नहीं करता।"^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_HI a :TranslationVariant ;
+:text "हे कलुषित स्वभाव, और स्त्री के पीछे पड़ा हुआ!"^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_HI a :TranslationVariant ;
+:text "तू मुझे लज्जाजनक बातों से पराजित नहीं पाएगा।"^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_HI a :TranslationVariant ;
+:text "तेरी सारी बात तो उसी के पक्ष में है।"^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_HI a :TranslationVariant ;
+:text "और तेरे भी, मेरे भी, और नीचे के देवताओं के भी।"^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_HI a :TranslationVariant ;
+:text "जीते-जी तू इस स्त्री से कभी विवाह नहीं करेगा।"^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_HI a :TranslationVariant ;
+:text "तो वह मरेगी, और मरकर किसी और को नष्ट करेगी।"^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_HI a :TranslationVariant ;
+:text "क्या तू धमकी देते हुए ऐसे साहस से आगे बढ़ता है?"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_HI a :TranslationVariant ;
+:text "खाली विचारों के विरुद्ध बोलना धमकी कैसे है?"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_HI a :TranslationVariant ;
+:text "तू स्वयं बुद्धि से खाली होकर रोते हुए मुझे समझाएगा।"^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_HI a :TranslationVariant ;
+:text "यदि तू पिता न होता, तो कहता कि तू ठीक नहीं सोचता।"^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_HI a :TranslationVariant ;
+:text "स्त्री का दास होकर मुझे मीठी बातें मत कर।"^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_HI a :TranslationVariant ;
+:text "क्या तू बोलना चाहता है और बोलते हुए कुछ भी सुनना नहीं?"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_HI a :TranslationVariant ;
+:text "सच? पर इस ओलिंपस की शपथ, जान ले,"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_HI a :TranslationVariant ;
+:text "तू निंदाओं से प्रसन्न होकर मुझे और नहीं सताएगा।"^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_HI a :TranslationVariant ;
+:text "उस घृणित को ले आओ, ताकि तुरंत आँखों के सामने"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_HI a :TranslationVariant ;
+:text "वह अपने वर के पास उपस्थित होकर मरे।"^^xsd:string ;
+:relatedTo :Line_761 .

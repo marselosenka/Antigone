@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-hindi a owl:Ontology .
+# Hindi translation variants for 773_to_780.ttl
+
+:TV_Line_773_HI a :TranslationVariant ;
+:text "उसे वहाँ ले जाकर, जहाँ मनुष्यों का पथ निर्जन हो,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_HI a :TranslationVariant ;
+:text "मैं उसे जीवित पथरीली भूमिगत कोठरी में छिपाऊँगा,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_HI a :TranslationVariant ;
+:text "इतना भोजन रखकर जितना केवल पाप से बचने को हो,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_HI a :TranslationVariant ;
+:text "ताकि पूरा नगर कलुष से बच निकले।"^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_HI a :TranslationVariant ;
+:text "और वहाँ हेडिस से, जिसे वह देवताओं में अकेला मानती है,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_HI a :TranslationVariant ;
+:text "प्रार्थना करके शायद वह न मरने को पाए,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_HI a :TranslationVariant ;
+:text "या कम-से-कम तब वह जान लेगी कि"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_HI a :TranslationVariant ;
+:text "हेडिस की वस्तुओं की पूजा करना अतिरिक्त कष्ट है।"^^xsd:string ;
+:relatedTo :Line_780 .

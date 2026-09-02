@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-hindi a owl:Ontology .
+# Hindi translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_HI a :TranslationVariant ;
+:text "हे बहुनामे, कद्मेयी वधू के गौरव,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_HI a :TranslationVariant ;
+:text "और भारी गर्जन करने वाले ज़्यूस की संतान,"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_HI a :TranslationVariant ;
+:text "तू, जो प्रसिद्ध इटली की रक्षा करता है,"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_HI a :TranslationVariant ;
+:text "और शासन करता है"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_HI a :TranslationVariant ;
+:text "सबके लिए साझा, एलेउसिनियाई"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_HI a :TranslationVariant ;
+:text "देओ की गोदों में, हे बाक्खेउस, बाक्खाओं के,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_HI a :TranslationVariant ;
+:text "तू, जो मातृ-नगर थीब्स में"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_HI a :TranslationVariant ;
+:text "गीली धाराओं के पास निवास करता है"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Line 1123 and 1124 do not exist in Antigone
+
+:TV_Line_1125_HI a :TranslationVariant ;
+:text "इस्मेनुस के प्रवाहों और जंगली अजगर की बोई हुई भूमि पर।"^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_HI a :TranslationVariant ;
+:text "और दो-शिखरी चट्टान के ऊपर चमकता धुआँ तुझे देख चुका है,"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_HI a :TranslationVariant ;
+:text "जहाँ कोरीकियाई"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_HI a :TranslationVariant ;
+:text "निम्फें, बाक्खिकाएँ, जुलूस में जाती हैं,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in Antigone
+
+:TV_Line_1130_HI a :TranslationVariant ;
+:text "और कस्तालिया का झरना।"^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_HI a :TranslationVariant ;
+:text "और निसायाई पर्वतों की"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_HI a :TranslationVariant ;
+:text "आइवी-ढकी ढालें और हरा तट"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_HI a :TranslationVariant ;
+:text "अंगूरों से भरपूर होकर तुझे भेजते हैं,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_HI a :TranslationVariant ;
+:text "अमर वचनों के"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_HI a :TranslationVariant ;
+:text "उल्लास-स्वरों के बीच, थीब्स की गलियों पर दृष्टि रखते हुए;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in Antigone
+
+:TV_Line_1137_HI a :TranslationVariant ;
+:text "जिस नगर को तू सभी नगरों से सर्वोच्च सम्मान देता है"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_HI a :TranslationVariant ;
+:text "अपनी वज्राघातिनी माता के साथ;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in Antigone
+
+:TV_Line_1140_HI a :TranslationVariant ;
+:text "और अब, जब हिंसक"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_HI a :TranslationVariant ;
+:text "रोग में पूरा नगर जकड़ा हुआ है,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_HI a :TranslationVariant ;
+:text "शुद्धि देने वाले पाँव से आ, पार्नासस की ढलान के ऊपर से"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Line 1143 and 1144 do not exist in Antigone
+
+:TV_Line_1145_HI a :TranslationVariant ;
+:text "या कराहते जलडमरूमध्य के ऊपर से।"^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_HI a :TranslationVariant ;
+:text "हे अग्नि फूँकते तारों के नृत्य-नेता,"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_HI a :TranslationVariant ;
+:text "रात्रिकालीन स्वरों के निरीक्षक,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_HI a :TranslationVariant ;
+:text "हे ज़्यूस से जन्मे पुत्र,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in Antigone
+
+:TV_Line_1150_HI a :TranslationVariant ;
+:text "हे स्वामी, अपनी परिचारिका"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_HI a :TranslationVariant ;
+:text "थ्यूइयदों के साथ, जो उन्मत्त होकर तुझे"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_HI a :TranslationVariant ;
+:text "रात भर नृत्य करती हैं, हे उनके अधिपति इयाखोस।"^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Line 1153 and 1154 do not exist in Antigone

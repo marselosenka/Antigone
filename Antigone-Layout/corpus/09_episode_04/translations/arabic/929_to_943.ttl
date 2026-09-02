@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-arabic a owl:Ontology .
+# Arabic translation variants for 929_to_943.ttl
+
+:TV_Line_929_AR a :TranslationVariant ;
+:text "ما زالت نفخات الرياح نفسها"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_AR a :TranslationVariant ;
+:text "تمسك بهذه من جهة النفس."^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_AR a :TranslationVariant ;
+:text "إذن، لهؤلاء الذين يقودونها"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_AR a :TranslationVariant ;
+:text "ستكون دموع بسبب البطء."^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_AR a :TranslationVariant ;
+:text "وا حسرتاه، إن هذه الكلمة"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_AR a :TranslationVariant ;
+:text "بلغت أقرب ما يكون إلى الموت."^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_AR a :TranslationVariant ;
+:text "لا أواسيك بأن تثقي"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_AR a :TranslationVariant ;
+:text "بأن هذه الأمور لن تُقضى هكذا."^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_AR a :TranslationVariant ;
+:text "يا مدينة أرض طيبة، موطن آبائي،"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_AR a :TranslationVariant ;
+:text "ويا آلهة الأجداد،"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_AR a :TranslationVariant ;
+:text "ها أنا أُقاد الآن، ولا أمهل بعد."^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_AR a :TranslationVariant ;
+:text "انظروا، يا حكام طيبة،"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_AR a :TranslationVariant ;
+:text "إلى الوحيدة الباقية من البنات الملكيات،"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_AR a :TranslationVariant ;
+:text "أي أمور أعاني، ومن أي رجال،"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_AR a :TranslationVariant ;
+:text "لأنني كرّمت التقوى."^^xsd:string ;
+:relatedTo :Line_943 .

@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-italian a owl:Ontology .
+# Italian translation variants for 480_to_507.ttl
+
+:TV_Line_480_IT a :TranslationVariant ;
+:text "Costei sapeva bene essere insolente già allora,"^^xsd:string ;
+:relatedTo :Line_480 .
+
+:TV_Line_481_IT a :TranslationVariant ;
+:text "oltrepassando le leggi stabilite;"^^xsd:string ;
+:relatedTo :Line_481 .
+
+:TV_Line_482_IT a :TranslationVariant ;
+:text "e insolenza, dopo che ha agito, è questa seconda:"^^xsd:string ;
+:relatedTo :Line_482 .
+
+:TV_Line_483_IT a :TranslationVariant ;
+:text "vantarsi di queste cose e ridere dopo averle fatte."^^xsd:string ;
+:relatedTo :Line_483 .
+
+:TV_Line_484_IT a :TranslationVariant ;
+:text "Davvero ora io non sono uomo, lei invece è uomo,"^^xsd:string ;
+:relatedTo :Line_484 .
+
+:TV_Line_485_IT a :TranslationVariant ;
+:text "se questi suoi poteri resteranno impuniti."^^xsd:string ;
+:relatedTo :Line_485 .
+
+:TV_Line_486_IT a :TranslationVariant ;
+:text "Ma sia figlia di mia sorella o più consanguinea"^^xsd:string ;
+:relatedTo :Line_486 .
+
+:TV_Line_487_IT a :TranslationVariant ;
+:text "di tutto lo Zeus del focolare per noi,"^^xsd:string ;
+:relatedTo :Line_487 .
+
+:TV_Line_488_IT a :TranslationVariant ;
+:text "lei stessa e la consanguinea non sfuggiranno"^^xsd:string ;
+:relatedTo :Line_488 .
+
+:TV_Line_489_IT a :TranslationVariant ;
+:text "alla morte peggiore; infatti anche quella ugualmente"^^xsd:string ;
+:relatedTo :Line_489 .
+
+:TV_Line_490_IT a :TranslationVariant ;
+:text "accuso di aver deliberato questa sepoltura."^^xsd:string ;
+:relatedTo :Line_490 .
+
+:TV_Line_491_IT a :TranslationVariant ;
+:text "E chiamatela; infatti dentro l'ho vista poco fa"^^xsd:string ;
+:relatedTo :Line_491 .
+
+:TV_Line_492_IT a :TranslationVariant ;
+:text "furente e non padrona della mente."^^xsd:string ;
+:relatedTo :Line_492 .
+
+:TV_Line_493_IT a :TranslationVariant ;
+:text "L'animo suole essere preso prima come ladro traditore"^^xsd:string ;
+:relatedTo :Line_493 .
+
+:TV_Line_494_IT a :TranslationVariant ;
+:text "di quelli che tramano nel buio cose non rette;"^^xsd:string ;
+:relatedTo :Line_494 .
+
+:TV_Line_495_IT a :TranslationVariant ;
+:text "ma davvero odio anche quando nei mali qualcuno,"^^xsd:string ;
+:relatedTo :Line_495 .
+
+:TV_Line_496_IT a :TranslationVariant ;
+:text "preso, poi vuole rendere bello questo."^^xsd:string ;
+:relatedTo :Line_496 .
+
+:TV_Line_497_IT a :TranslationVariant ;
+:text "Vuoi qualcosa di più grande che prendermi e uccidermi?"^^xsd:string ;
+:relatedTo :Line_497 .
+
+:TV_Line_498_IT a :TranslationVariant ;
+:text "Io nulla; avendo questo, ho tutto."^^xsd:string ;
+:relatedTo :Line_498 .
+
+:TV_Line_499_IT a :TranslationVariant ;
+:text "Perché dunque indugi? Poiché a me delle tue parole"^^xsd:string ;
+:relatedTo :Line_499 .
+
+:TV_Line_500_IT a :TranslationVariant ;
+:text "nulla è gradito, né mai possa esserlo;"^^xsd:string ;
+:relatedTo :Line_500 .
+
+:TV_Line_501_IT a :TranslationVariant ;
+:text "così anche a te le mie nacquero sgradite."^^xsd:string ;
+:relatedTo :Line_501 .
+
+:TV_Line_502_IT a :TranslationVariant ;
+:text "Eppure da dove avrei ottenuto gloria più gloriosa"^^xsd:string ;
+:relatedTo :Line_502 .
+
+:TV_Line_503_IT a :TranslationVariant ;
+:text "che ponendo nella tomba il mio fratello di sangue?"^^xsd:string ;
+:relatedTo :Line_503 .
+
+:TV_Line_504_IT a :TranslationVariant ;
+:text "Tutti costoro direbbero che questo piace loro,"^^xsd:string ;
+:relatedTo :Line_504 .
+
+:TV_Line_505_IT a :TranslationVariant ;
+:text "se la paura non chiudesse la lingua."^^xsd:string ;
+:relatedTo :Line_505 .
+
+:TV_Line_506_IT a :TranslationVariant ;
+:text "Ma la tirannide gode di molte altre felicità,"^^xsd:string ;
+:relatedTo :Line_506 .
+
+:TV_Line_507_IT a :TranslationVariant ;
+:text "e le è permesso fare e dire ciò che vuole."^^xsd:string ;
+:relatedTo :Line_507 .

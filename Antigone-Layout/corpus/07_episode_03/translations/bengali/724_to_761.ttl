@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-bengali a owl:Ontology .
+# Bengali translation variants for 724_to_761.ttl
+
+:TV_Line_724_BN a :TranslationVariant ;
+:text "প্রভু, সে যদি কোনো সময়োচিত কথা বলে, তবে তোমার শেখা উচিত,"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_BN a :TranslationVariant ;
+:text "আর তোমারও তার কাছ থেকে শেখা উচিত; কারণ দুই দিক থেকেই ভালো বলা হয়েছে।"^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_BN a :TranslationVariant ;
+:text "এই বয়সে এসে তবে কি আমরাও শেখাবার জন্য প্রস্তুত হব,"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_BN a :TranslationVariant ;
+:text "এমন স্বভাবের এত তরুণ মানুষের কাছ থেকে বুদ্ধি শিখতে?"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_BN a :TranslationVariant ;
+:text "অন্যায় কিছু নয়; আর যদি আমি তরুণও হই,"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_BN a :TranslationVariant ;
+:text "বয়সের চেয়ে কাজগুলিই বেশি দেখা উচিত।"^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_BN a :TranslationVariant ;
+:text "তবে কি অশৃঙ্খলদের সম্মান করা কাজ?"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_BN a :TranslationVariant ;
+:text "দুষ্টদের প্রতি ভক্তি দেখাতে আমি কাউকেও বলতাম না।"^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_BN a :TranslationVariant ;
+:text "তবে কি সে এমন রোগে আক্রান্ত নয়?"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_BN a :TranslationVariant ;
+:text "এই থিব্‌সের সহনাগরিক জনতা তা বলে না।"^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_BN a :TranslationVariant ;
+:text "তবে কি নগর আমাকে বলবে, কীভাবে শাসন করতে হবে?"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_BN a :TranslationVariant ;
+:text "দেখছ, এই কথা তুমি কত অতিরিক্ত তরুণের মতো বলেছ?"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_BN a :TranslationVariant ;
+:text "তবে কি আমার ছাড়া অন্য কারও জন্য আমাকে এই ভূমি শাসন করতে হবে?"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_BN a :TranslationVariant ;
+:text "যে নগর এক ব্যক্তির, তা নগর নয়।"^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_BN a :TranslationVariant ;
+:text "নগর কি শাসনকারীর বলে গণ্য হয় না?"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_BN a :TranslationVariant ;
+:text "তুমি একা কোনো জনশূন্য ভূমি বেশ ভালোই শাসন করতে।"^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_BN a :TranslationVariant ;
+:text "দেখা যাচ্ছে, এ লোকটি নারীর পক্ষে মিত্রতা করছে।"^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_BN a :TranslationVariant ;
+:text "যদি তুমি নারী হও। কারণ আমি তো তোমারই মঙ্গল চাই।"^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_BN a :TranslationVariant ;
+:text "হে অধমতম, পিতাকে বিচারের মুখে দাঁড় করাচ্ছ?"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_BN a :TranslationVariant ;
+:text "কারণ আমি দেখি তুমি ন্যায় থেকে বিচ্যুত হয়ে ভুল করছ।"^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_BN a :TranslationVariant ;
+:text "আমি কি নিজের কর্তৃত্বকে সম্মান করে ভুল করছি?"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_BN a :TranslationVariant ;
+:text "না, তুমি দেবতাদের সম্মান পায়ে দলিত করে সম্মান করছ না।"^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_BN a :TranslationVariant ;
+:text "হে কলুষিত স্বভাব, নারীর পরে থাকা মানুষ!"^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_BN a :TranslationVariant ;
+:text "তুমি আমাকে নিকৃষ্ট বিষয়ে পরাজিত পাবে না।"^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_BN a :TranslationVariant ;
+:text "তোমার সব কথাই তো তার পক্ষেই।"^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_BN a :TranslationVariant ;
+:text "আর তোমার পক্ষে, আমার পক্ষে, এবং নিচের দেবতাদের পক্ষেও।"^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_BN a :TranslationVariant ;
+:text "সে জীবিত থাকতে তুমি কখনও তাকে বিবাহ করবে না।"^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_BN a :TranslationVariant ;
+:text "তাহলে সে মরবে, আর মরে আরেকজনকে ধ্বংস করবে।"^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_BN a :TranslationVariant ;
+:text "তবে কি হুমকি দিতে দিতে তুমি এমন দুঃসাহসে এগিয়ে আসছ?"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_BN a :TranslationVariant ;
+:text "শূন্য সিদ্ধান্তের বিরুদ্ধে কথা বলা আবার কী হুমকি?"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_BN a :TranslationVariant ;
+:text "তুমি কাঁদতে কাঁদতে আমাকে শিক্ষা দেবে, নিজে বোধশূন্য হয়েও।"^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_BN a :TranslationVariant ;
+:text "তুমি যদি পিতা না হতে, বলতাম তুমি সুস্থ বুদ্ধির নও।"^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_BN a :TranslationVariant ;
+:text "নারীর দাস হয়ে আমাকে আর মিষ্টি কথা বলো না।"^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_BN a :TranslationVariant ;
+:text "তুমি কি বলতে চাও, আর বলতে বলতে কিছুই শুনতে চাও না?"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_BN a :TranslationVariant ;
+:text "সত্যিই? তবে এই অলিম্পাসের শপথ, জেনে রাখো,"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_BN a :TranslationVariant ;
+:text "নিন্দা করে আনন্দে তুমি আমাকে আর জ্বালাবে না।"^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_BN a :TranslationVariant ;
+:text "ওই ঘৃণ্যটিকে নিয়ে এসো, যেন চোখের সামনে এখনই"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_BN a :TranslationVariant ;
+:text "বরের কাছে উপস্থিত থেকে সে মরে।"^^xsd:string ;
+:relatedTo :Line_761 .

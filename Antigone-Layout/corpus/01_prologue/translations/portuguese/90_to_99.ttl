@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-portuguese a owl:Ontology .
+# Portuguese translation variants for 90_to_99.ttl
+
+:TV_Line_090_PT a :TranslationVariant ;
+:text "Se é que poderás; mas amas coisas impossíveis."^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_PT a :TranslationVariant ;
+:text "Então, quando eu já não tiver força, cessarei."^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_PT a :TranslationVariant ;
+:text "Mas não convém começar perseguindo o impossível."^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_PT a :TranslationVariant ;
+:text "Se disseres estas coisas, serás odiada por mim,"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_PT a :TranslationVariant ;
+:text "e, com justiça, jazerás odiosa ao morto."^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_PT a :TranslationVariant ;
+:text "Mas deixa-me, a mim e à minha falta de bom conselho,"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_PT a :TranslationVariant ;
+:text "sofrer esta coisa terrível; pois não sofrerei"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_PT a :TranslationVariant ;
+:text "nada tão grande que me impeça de morrer belamente."^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_PT a :TranslationVariant ;
+:text "Mas, se te parece, vai; e sabe isto:"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_PT a :TranslationVariant ;
+:text "vais sem juízo, mas corretamente querida pelos teus."^^xsd:string ;
+:relatedTo :Line_099 .

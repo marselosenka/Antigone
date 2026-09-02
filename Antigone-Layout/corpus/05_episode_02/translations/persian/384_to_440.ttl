@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-persian a owl:Ontology .
+# Persian translation variants for 384_to_440.ttl
+
+:TV_Line_384_FA a :TranslationVariant ;
+:text "این همان زنی است که آن کار را انجام داده است؛"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_FA a :TranslationVariant ;
+:text "او را هنگام دفن کردن گرفتیم. اما کرئون کجاست؟"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_FA a :TranslationVariant ;
+:text "اینک او از خانه‌ها بازمی‌گردد، درست به هنگام نیاز."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_FA a :TranslationVariant ;
+:text "چیست؟ با کدام بخت هم‌اندازه پیش آمده‌ام؟"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_FA a :TranslationVariant ;
+:text "ای شاه، برای میرایان هیچ چیز سوگندناپذیر نیست."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_FA a :TranslationVariant ;
+:text "زیرا اندیشه پسین رأی را دروغین می‌کند؛ چون"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_FA a :TranslationVariant ;
+:text "من با اطمینان دعا می‌کردم که هرگز به‌آسانی اینجا نیایم،"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_FA a :TranslationVariant ;
+:text "به سبب تهدیدهای تو که آن زمان با آنها طوفان‌زده شدم."^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_FA a :TranslationVariant ;
+:text "اما شادی‌ای که بیرون از انتظار و برخلاف امید باشد،"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_FA a :TranslationVariant ;
+:text "به هیچ لذتی دیگر در اندازه همانند نیست؛"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_FA a :TranslationVariant ;
+:text "آمده‌ام، هرچند با سوگندها خود را از آمدن بازداشته بودم،"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_FA a :TranslationVariant ;
+:text "این دختر را می‌آورم، که هنگام آراستن گور"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_FA a :TranslationVariant ;
+:text "گرفته شد. اینجا قرعه‌ای نلرزید،"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_FA a :TranslationVariant ;
+:text "بلکه این شکار من است، نصیب خود من، نه دیگری."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_FA a :TranslationVariant ;
+:text "و اکنون، ای شاه، خودت او را، چنان‌که می‌خواهی، بگیر"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_FA a :TranslationVariant ;
+:text "و داوری کن و بازجویی کن؛ اما من آزاد"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_FA a :TranslationVariant ;
+:text "و برحقم که از این بدی‌ها رها شده باشم."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_FA a :TranslationVariant ;
+:text "او را به چه شیوه‌ای و از کجا گرفته‌ای که می‌آوری؟"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_FA a :TranslationVariant ;
+:text "همین زن آن مرد را دفن می‌کرد؛ همه چیز را می‌دانی."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_FA a :TranslationVariant ;
+:text "آیا هم می‌فهمی و هم آنچه می‌گویی درست می‌گویی؟"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_FA a :TranslationVariant ;
+:text "خودم او را دیدم که همان مرده‌ای را دفن می‌کرد"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_FA a :TranslationVariant ;
+:text "که تو منع کرده بودی. آیا روشن و آشکار سخن می‌گویم؟"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_FA a :TranslationVariant ;
+:text "و چگونه دیده شد و هنگام گرفتن گرفتار آمد؟"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_FA a :TranslationVariant ;
+:text "ماجرا چنین بود. چون رسیدیم،"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_FA a :TranslationVariant ;
+:text "پس از آن تهدیدهای هولناکی که از سوی تو بر ما شده بود،"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_FA a :TranslationVariant ;
+:text "همه گردی را که آن"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_FA a :TranslationVariant ;
+:text "جسد را پوشانده بود روبیدیم، و تنِ گندیده را خوب برهنه کردیم،"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_FA a :TranslationVariant ;
+:text "و در پناه باد، بر فراز صخره‌های بلند نشستیم،"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_FA a :TranslationVariant ;
+:text "از بویی که از او می‌آمد گریزان، تا به ما نخورد؛"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_FA a :TranslationVariant ;
+:text "هر مرد مرد دیگر را با دشنام‌های بد بیدار و برانگیخته می‌کرد،"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_FA a :TranslationVariant ;
+:text "اگر کسی از این رنج بی‌اعتنایی می‌کرد."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_FA a :TranslationVariant ;
+:text "اینها مدتی چنین بود، تا در میانه آسمان"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_FA a :TranslationVariant ;
+:text "دایره درخشان خورشید ایستاد"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_FA a :TranslationVariant ;
+:text "و گرما می‌سوزاند؛ و آن‌گاه ناگهان از زمین"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_FA a :TranslationVariant ;
+:text "گردبادی برخاست، بلایی آسمانی و تندرآسا،"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_FA a :TranslationVariant ;
+:text "دشت را پر کرد و همه مویزارِ"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_FA a :TranslationVariant ;
+:text "جنگلِ دشتی را می‌آزرد؛ و آسمان بزرگ"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_FA a :TranslationVariant ;
+:text "از آن پر شد؛ ما چشم بستیم و آن بیماری الهی را تاب آوردیم."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_FA a :TranslationVariant ;
+:text "و چون پس از زمانی دراز این بلا گذشت،"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_FA a :TranslationVariant ;
+:text "دختر دیده شد، و بانگی تیز از شیون"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_FA a :TranslationVariant ;
+:text "چون صدای تلخ پرنده برآورد، آن‌گاه که"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_FA a :TranslationVariant ;
+:text "بستر آشیانه را از جوجه‌ها تهی و یتیم ببیند."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_FA a :TranslationVariant ;
+:text "این دختر نیز چنین، چون جسد را برهنه دید،"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_FA a :TranslationVariant ;
+:text "با ناله‌های بلند فریاد زد، و نفرین‌های بد"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_FA a :TranslationVariant ;
+:text "بر کسانی کرد که آن کار را انجام داده بودند."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_FA a :TranslationVariant ;
+:text "و بی‌درنگ با دست‌هایش گرد خشک و تشنه می‌آورد،"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_FA a :TranslationVariant ;
+:text "و از کوزه برنزی خوش‌ساخت، سراسر"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_FA a :TranslationVariant ;
+:text "با سه بار ریختن نثار، جسد را تاج‌وار پوشاند."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_FA a :TranslationVariant ;
+:text "و ما چون دیدیم، یورش بردیم، و با هم"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_FA a :TranslationVariant ;
+:text "بی‌درنگ او را شکار کردیم، بی‌آن‌که هیچ هراسی به خود گیرد،"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_FA a :TranslationVariant ;
+:text "و کارهای پیشین و اکنون را از او بازخواست کردیم؛"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_FA a :TranslationVariant ;
+:text "و او منکر هیچ چیز نشد،"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_FA a :TranslationVariant ;
+:text "هم برای من خوشایند بود و هم دردناک."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_FA a :TranslationVariant ;
+:text "زیرا این‌که خود از بدی‌ها گریخته باشم،"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_FA a :TranslationVariant ;
+:text "شیرین‌ترین است؛ اما بردن دوستان به بدی"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_FA a :TranslationVariant ;
+:text "دردناک است. با این همه، همه اینها طبعاً نزد من"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_FA a :TranslationVariant ;
+:text "کمتر از رستگاری خودم به حساب می‌آید."^^xsd:string ;
+:relatedTo :Line_440 .

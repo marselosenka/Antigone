@@ -1,0 +1,127 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-spanish a owl:Ontology .
+# Spanish translation variants for 223_to_252.ttl
+
+:TV_Line_223_ES a :TranslationVariant ;
+    :text "Señor, no diré que he llegado"^^xsd:string ;
+    :relatedTo :Line_223 .
+
+:TV_Line_224_ES a :TranslationVariant ;
+    :text "jadeante por la rapidez, alzando ligero el pie."^^xsd:string ;
+    :relatedTo :Line_224 .
+
+:TV_Line_225_ES a :TranslationVariant ;
+    :text "Pues muchas veces me detuvieron mis pensamientos,"^^xsd:string ;
+    :relatedTo :Line_225 .
+
+:TV_Line_226_ES a :TranslationVariant ;
+    :text "dando vueltas por los caminos para regresar."^^xsd:string ;
+    :relatedTo :Line_226 .
+
+:TV_Line_227_ES a :TranslationVariant ;
+    :text "Mi alma me hablaba mucho, diciéndome:"^^xsd:string ;
+    :relatedTo :Line_227 .
+
+:TV_Line_228_ES a :TranslationVariant ;
+    :text "desdichado, ¿por qué vas adonde, al llegar, pagarás culpa?"^^xsd:string ;
+    :relatedTo :Line_228 .
+
+:TV_Line_229_ES a :TranslationVariant ;
+    :text "infeliz, ¿te quedas otra vez? Y si Creonte sabe esto"^^xsd:string ;
+    :relatedTo :Line_229 .
+
+:TV_Line_230_ES a :TranslationVariant ;
+    :text "por otro hombre, ¿cómo no sufrirás tú entonces?"^^xsd:string ;
+    :relatedTo :Line_230 .
+
+:TV_Line_231_ES a :TranslationVariant ;
+    :text "Dando vueltas a tales cosas, avanzaba despacio y tarde,"^^xsd:string ;
+    :relatedTo :Line_231 .
+
+:TV_Line_232_ES a :TranslationVariant ;
+    :text "y así un camino corto se vuelve largo."^^xsd:string ;
+    :relatedTo :Line_232 .
+
+:TV_Line_233_ES a :TranslationVariant ;
+    :text "Al fin, sin embargo, venció venir aquí"^^xsd:string ;
+    :relatedTo :Line_233 .
+
+:TV_Line_234_ES a :TranslationVariant ;
+    :text "ante ti; aunque diga nada, lo diré de todos modos."^^xsd:string ;
+    :relatedTo :Line_234 .
+
+:TV_Line_235_ES a :TranslationVariant ;
+    :text "Pues vengo aferrado a la esperanza"^^xsd:string ;
+    :relatedTo :Line_235 .
+
+:TV_Line_236_ES a :TranslationVariant ;
+    :text "de no sufrir otra cosa que lo destinado."^^xsd:string ;
+    :relatedTo :Line_236 .
+
+:TV_Line_237_ES a :TranslationVariant ;
+    :text "¿Qué es eso por lo que tienes tal desánimo?"^^xsd:string ;
+    :relatedTo :Line_237 .
+
+:TV_Line_238_ES a :TranslationVariant ;
+    :text "Quiero decirte primero lo mío: pues el hecho"^^xsd:string ;
+    :relatedTo :Line_238 .
+
+:TV_Line_239_ES a :TranslationVariant ;
+    :text "ni lo hice ni vi quién fue el que lo hizo,"^^xsd:string ;
+    :relatedTo :Line_239 .
+
+:TV_Line_240_ES a :TranslationVariant ;
+    :text "y no sería justo que yo cayera en mal alguno."^^xsd:string ;
+    :relatedTo :Line_240 .
+
+:TV_Line_241_ES a :TranslationVariant ;
+    :text "Bien apuntas y rodeas por completo"^^xsd:string ;
+    :relatedTo :Line_241 .
+
+:TV_Line_242_ES a :TranslationVariant ;
+    :text "el asunto con defensas; muestras que anunciarás algo nuevo."^^xsd:string ;
+    :relatedTo :Line_242 .
+
+:TV_Line_243_ES a :TranslationVariant ;
+    :text "Es que las cosas terribles añaden mucho temor."^^xsd:string ;
+    :relatedTo :Line_243 .
+
+:TV_Line_244_ES a :TranslationVariant ;
+    :text "¿No lo dirás de una vez y luego te marcharás?"^^xsd:string ;
+    :relatedTo :Line_244 .
+
+:TV_Line_245_ES a :TranslationVariant ;
+    :text "Ya te lo digo: al cadáver alguien hace poco"^^xsd:string ;
+    :relatedTo :Line_245 .
+
+:TV_Line_246_ES a :TranslationVariant ;
+    :text "lo enterró y se fue, esparciendo sobre la piel"^^xsd:string ;
+    :relatedTo :Line_246 .
+
+:TV_Line_247_ES a :TranslationVariant ;
+    :text "polvo seco y cumpliendo los ritos debidos."^^xsd:string ;
+    :relatedTo :Line_247 .
+
+:TV_Line_248_ES a :TranslationVariant ;
+    :text "¿Qué dices? ¿Qué hombre se atrevió a eso?"^^xsd:string ;
+    :relatedTo :Line_248 .
+
+:TV_Line_249_ES a :TranslationVariant ;
+    :text "No lo sé; allí no había golpe"^^xsd:string ;
+    :relatedTo :Line_249 .
+
+:TV_Line_250_ES a :TranslationVariant ;
+    :text "de azadón ni huella de pico; la tierra estaba dura"^^xsd:string ;
+    :relatedTo :Line_250 .
+
+:TV_Line_251_ES a :TranslationVariant ;
+    :text "y seca, sin grieta ni marcada"^^xsd:string ;
+    :relatedTo :Line_251 .
+
+:TV_Line_252_ES a :TranslationVariant ;
+    :text "por ruedas; el autor era alguien sin señal."^^xsd:string ;
+    :relatedTo :Line_252 .

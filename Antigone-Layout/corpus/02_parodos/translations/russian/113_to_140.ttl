@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-russian a owl:Ontology .
+# Russian translation variants for 113_to_140.ttl
+
+:TV_Line_113_RU a :TranslationVariant ;
+:text "как орел, перелетел в нашу землю,"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_RU a :TranslationVariant ;
+:text "покрытый крылом белого снега,"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_RU a :TranslationVariant ;
+:text "с множеством оружия"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_RU a :TranslationVariant ;
+:text "и с коневолосыми шлемами."^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_RU a :TranslationVariant ;
+:text "Став над кровлями, кровожадно разинув кругом"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_RU a :TranslationVariant ;
+:text "копьями семивратную пасть,"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_RU a :TranslationVariant ;
+:text "он ушел прежде, чем когда-либо наши"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_RU a :TranslationVariant ;
+:text "крови наполнили его челюсти и венец башен"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_RU a :TranslationVariant ;
+:text "сосновый Гефест взял. Такой вокруг спины растянулся"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Line 122, 123 and 124 do not exist in Antigone.
+
+:TV_Line_125_RU a :TranslationVariant ;
+:text "грохот Ареса, труднопреодолимый для противного дракона."^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in Antigone.
+
+:TV_Line_127_RU a :TranslationVariant ;
+:text "Ибо Зевс чрезмерно ненавидит хвастовство большого языка,"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_RU a :TranslationVariant ;
+:text "и, увидев их"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_RU a :TranslationVariant ;
+:text "надвигающимися великим потоком,"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_RU a :TranslationVariant ;
+:text "надменных от звона золота,"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_RU a :TranslationVariant ;
+:text "метательным огнем бросает с порогов"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_RU a :TranslationVariant ;
+:text "на самых вершинах уже"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_RU a :TranslationVariant ;
+:text "стремящегося воскликнуть победу;"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_RU a :TranslationVariant ;
+:text "и на отозвавшуюся землю он пал, распростертый,"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_RU a :TranslationVariant ;
+:text "огненосец, который тогда с безумным порывом"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_RU a :TranslationVariant ;
+:text "в вакхическом исступлении дышал"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_RU a :TranslationVariant ;
+:text "порывами ненавистнейших ветров."^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_RU a :TranslationVariant ;
+:text "Но одно держалось иначе,"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_RU a :TranslationVariant ;
+:text "иное же на иных он направлял, потрясая,"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_RU a :TranslationVariant ;
+:text "великий Арес, правосторонний конь."^^xsd:string ;
+:relatedTo :Line_140 .

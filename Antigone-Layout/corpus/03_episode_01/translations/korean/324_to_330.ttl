@@ -1,0 +1,34 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-324-330-korean a owl:Ontology .
+# Korean translation variants for 324_to_330.ttl
+
+:TV_Line_324_KO a :TranslationVariant ;
+:text "이제 그 판단으로 재주를 부려 보아라. 그러나 만일 너희가 이 일을"^^xsd:string ;
+:relatedTo :Line_324 .
+
+:TV_Line_325_KO a :TranslationVariant ;
+:text "행한 자들을 내게 드러내지 못한다면, 너희는 말하게 될 것이다,"^^xsd:string ;
+:relatedTo :Line_325 .
+
+:TV_Line_326_KO a :TranslationVariant ;
+:text "비열한 이익들이 재앙들을 만들어 낸다는 것을."^^xsd:string ;
+:relatedTo :Line_326 .
+
+:TV_Line_327_KO a :TranslationVariant ;
+:text "그가 무엇보다도 발견되기를 바랍니다. 그러나 설령"^^xsd:string ;
+:relatedTo :Line_327 .
+
+:TV_Line_328_KO a :TranslationVariant ;
+:text "붙잡히든 아니든, 그것은 운명이 판단할 것이므로,"^^xsd:string ;
+:relatedTo :Line_328 .
+
+:TV_Line_329_KO a :TranslationVariant ;
+:text "당신은 제가 여기로 다시 오는 것을 볼 방법이 없을 것입니다."^^xsd:string ;
+:relatedTo :Line_329 .
+
+:TV_Line_330_KO a :TranslationVariant ;
+:text "지금도 제 희망과 제 판단 밖에서"^^xsd:string ;
+:relatedTo :Line_330 .

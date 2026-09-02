@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-korean a owl:Ontology .
+# Korean translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone
+
+:TV_Line_1278_KO a :TranslationVariant ;
+:text "주인이여, 당신은 지금 가진 그대로, 그리고 소유한 그대로,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_KO a :TranslationVariant ;
+:text "손앞의 이 일들은 들고 있는 듯하고, 집 안의"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_KO a :TranslationVariant ;
+:text "재앙들은 와서 곧 보게 될 듯합니다."^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_KO a :TranslationVariant ;
+:text "무엇인가? 이 재앙들보다 더 나쁜 것이 아직 또 있는가?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_KO a :TranslationVariant ;
+:text "당신의 아내가 죽었습니다, 이 죽은 자의 참된 어머니가,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_KO a :TranslationVariant ;
+:text "불쌍한 여인이, 방금 새로 낸 상처들로."^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_KO a :TranslationVariant ;
+:text "아아, 아아, 씻어낼 수 없는 하데스의 항구여,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_KO a :TranslationVariant ;
+:text "어찌하여, 어찌하여 나를 멸망시키는가?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_KO a :TranslationVariant ;
+:text "오 내게 나쁜 소식을 가져온 자여,"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_KO a :TranslationVariant ;
+:text "고통들을 앞서 보내고서, 어떤 말을 외치는가?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_KO a :TranslationVariant ;
+:text "아아, 이미 망한 사람을 너는 완전히 끝장냈다."^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_KO a :TranslationVariant ;
+:text "무슨 말을 하느냐, 아이야? 내게 어떤 새 일을 말하느냐,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_KO a :TranslationVariant ;
+:text "아아, 아아,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_KO a :TranslationVariant ;
+:text "파멸 위에 희생이,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_KO a :TranslationVariant ;
+:text "여인의 죽음이 나를 둘러싸고 있다고?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_KO a :TranslationVariant ;
+:text "볼 수 있습니다. 더 이상 안쪽 방들에 숨겨져 있지 않기 때문입니다."^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_KO a :TranslationVariant ;
+:text "아아,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_KO a :TranslationVariant ;
+:text "가련한 나는 이 또 다른 두 번째 재앙을 본다."^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_KO a :TranslationVariant ;
+:text "어떤 운명, 어떤 운명이 아직도 나를 기다리는가?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_KO a :TranslationVariant ;
+:text "방금 나는 내 아이를 두 손에 안고 있는데,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_KO a :TranslationVariant ;
+:text "가련하게도, 눈앞에는 또 다른 시신을 바라보고 있다."^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in Antigone
+
+:TV_Line_1300_KO a :TranslationVariant ;
+:text "아아, 아아, 불쌍한 어머니여, 아아, 아이야."^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_KO a :TranslationVariant ;
+:text "그녀는 제단 곁에 앉아 날카로운 상처를 입고,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_KO a :TranslationVariant ;
+:text "검어진 눈꺼풀을 닫았습니다, 먼저 통곡하며"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_KO a :TranslationVariant ;
+:text "전에 죽은 메가레우스의 빈 침상을,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_KO a :TranslationVariant ;
+:text "다시 이 사람의 침상을, 그리고 마지막으로 당신에게"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_KO a :TranslationVariant ;
+:text "나쁜 행위들을 노래하듯 외치며, 당신을 자식 살해자라 불렀습니다."^^xsd:string ;
+:relatedTo :Line_1305 .

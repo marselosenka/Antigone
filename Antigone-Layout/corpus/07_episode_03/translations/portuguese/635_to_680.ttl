@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-portuguese a owl:Ontology .
+# Portuguese translation variants for 635_to_680.ttl
+
+:TV_Line_635_PT a :TranslationVariant ;
+:text "Pai, sou teu, e tu, tendo para mim pensamentos"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_PT a :TranslationVariant ;
+:text "bons, me endireitas, e eu os seguirei."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_PT a :TranslationVariant ;
+:text "Para mim, pois, nenhum casamento será julgado"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_PT a :TranslationVariant ;
+:text "maior que a tua boa condução."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_PT a :TranslationVariant ;
+:text "Assim, pois, filho, é preciso ter no peito,"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_PT a :TranslationVariant ;
+:text "ficar sempre atrás do juízo paterno."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_PT a :TranslationVariant ;
+:text "Por isso, pois, os homens rezam para ter gerado"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_PT a :TranslationVariant ;
+:text "filhos obedientes em casa,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_PT a :TranslationVariant ;
+:text "para que retribuam ao inimigo com males"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_PT a :TranslationVariant ;
+:text "e honrem o amigo igualmente ao pai."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_PT a :TranslationVariant ;
+:text "Mas quem gera filhos inúteis,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_PT a :TranslationVariant ;
+:text "que dirias que esse gerou, senão dores"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_PT a :TranslationVariant ;
+:text "para si mesmo, e muito riso para os inimigos?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_PT a :TranslationVariant ;
+:text "Agora, filho, nunca expulses o juízo pelo prazer"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_PT a :TranslationVariant ;
+:text "por causa de uma mulher, sabendo que"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_PT a :TranslationVariant ;
+:text "isto se torna um frio abraço,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_PT a :TranslationVariant ;
+:text "uma mulher má como companheira de leito em casa. Pois que"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_PT a :TranslationVariant ;
+:text "ferida poderia ser maior que um mau amigo?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_PT a :TranslationVariant ;
+:text "Mas, cuspindo-a fora como inimiga, deixa"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_PT a :TranslationVariant ;
+:text "esta jovem casar-se com alguém no Hades."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_PT a :TranslationVariant ;
+:text "Pois, já que eu mesmo a apanhei manifestamente"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_PT a :TranslationVariant ;
+:text "sozinha entre toda a cidade a desobedecer,"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_PT a :TranslationVariant ;
+:text "não me farei falso diante da cidade,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_PT a :TranslationVariant ;
+:text "mas a matarei. Contra isso, que ela cante hinos a Zeus"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_PT a :TranslationVariant ;
+:text "do sangue comum. Pois se eu alimentar desordenados"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_PT a :TranslationVariant ;
+:text "os que são parentes por natureza, muito mais os de fora da linhagem."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_PT a :TranslationVariant ;
+:text "Pois quem é homem bom entre os seus"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_PT a :TranslationVariant ;
+:text "também na cidade aparecerá como justo."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_PT a :TranslationVariant ;
+:text "Mas quem, ultrapassando, violenta as leis"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_PT a :TranslationVariant ;
+:text "ou pensa comandar os que governam,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_PT a :TranslationVariant ;
+:text "não obterá louvor de mim."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_PT a :TranslationVariant ;
+:text "Mas aquele que a cidade colocou, a esse é preciso ouvir"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_PT a :TranslationVariant ;
+:text "nas coisas pequenas, justas, e nas contrárias."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_PT a :TranslationVariant ;
+:text "E nesse homem eu confiaria"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_PT a :TranslationVariant ;
+:text "que governasse bem e quisesse ser bem governado,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_PT a :TranslationVariant ;
+:text "e que, posto na tempestade da lança,"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_PT a :TranslationVariant ;
+:text "permanecesse companheiro justo e valoroso."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_PT a :TranslationVariant ;
+:text "Não há mal maior que a anarquia."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_PT a :TranslationVariant ;
+:text "Ela destrói cidades, ela torna revoltas"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_PT a :TranslationVariant ;
+:text "as casas, ela rompe as fugas da lança aliada;"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_PT a :TranslationVariant ;
+:text "mas, entre os que ficam de pé corretamente,"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_PT a :TranslationVariant ;
+:text "a obediência salva a maioria dos corpos."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_PT a :TranslationVariant ;
+:text "Assim é preciso defender as coisas ordenadas,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_PT a :TranslationVariant ;
+:text "e de modo algum ser vencido por mulher."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_PT a :TranslationVariant ;
+:text "Pois é melhor, se é preciso, cair por mão de homem,"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_PT a :TranslationVariant ;
+:text "e não sermos chamados inferiores às mulheres."^^xsd:string ;
+:relatedTo :Line_680 .

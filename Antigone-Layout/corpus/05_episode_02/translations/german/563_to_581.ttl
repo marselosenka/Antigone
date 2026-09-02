@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-german a owl:Ontology .
+# German translation variants for 563_to_581.ttl
+
+:TV_Line_563_DE a :TranslationVariant ;
+:text "Denn niemals, Herr, bleibt auch der Sinn, der sprosst,"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_DE a :TranslationVariant ;
+:text "bei denen, die schlecht handeln, sondern er weicht fort."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_DE a :TranslationVariant ;
+:text "Dir jedenfalls, als du wähltest, mit Schlechten Schlechtes zu tun."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_DE a :TranslationVariant ;
+:text "Denn was wäre für mich allein ohne diese lebbar?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_DE a :TranslationVariant ;
+:text "Doch von dieser sprich nicht; denn sie ist nicht mehr."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_DE a :TranslationVariant ;
+:text "Aber wirst du die Braut deines eigenen Kindes töten?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_DE a :TranslationVariant ;
+:text "Denn bebaubare Furchen gibt es auch von anderen."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_DE a :TranslationVariant ;
+:text "Nicht wie sie für jenen und diese zusammengefügt waren."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_DE a :TranslationVariant ;
+:text "Schlechte Frauen hasse ich für meine Söhne."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_DE a :TranslationVariant ;
+:text "O liebster Haimon, wie dein Vater dich entehrt."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_DE a :TranslationVariant ;
+:text "Allzu sehr betrüben mich auch du und dein Ehebett."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_DE a :TranslationVariant ;
+:text "Wirst du denn deinen eigenen Sohn dieser berauben?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_DE a :TranslationVariant ;
+:text "Hades ist es, der diese Hochzeit beenden wird."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_DE a :TranslationVariant ;
+:text "Beschlossen ist, wie es scheint, dass diese sterben soll."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_DE a :TranslationVariant ;
+:text "Für dich und für mich. Keine Verzögerungen mehr, sondern sie"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_DE a :TranslationVariant ;
+:text "bringt hinein, Diener; von nun an muss"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_DE a :TranslationVariant ;
+:text "diese Frauen Frauen sein und nicht losgelassen."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_DE a :TranslationVariant ;
+:text "Denn auch die Kühnen fliehen, sobald sie nahe"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_DE a :TranslationVariant ;
+:text "schon den Hades für ihr Leben erblicken."^^xsd:string ;
+:relatedTo :Line_581 .

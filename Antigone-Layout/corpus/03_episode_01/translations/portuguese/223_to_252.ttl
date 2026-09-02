@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-portuguese a owl:Ontology .
+# Portuguese translation variants for 223_to_252.ttl
+
+:TV_Line_223_PT a :TranslationVariant ;
+:text "Senhor, não direi que, por causa da pressa,"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_PT a :TranslationVariant ;
+:text "chego sem fôlego, tendo levantado pé leve."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_PT a :TranslationVariant ;
+:text "Pois tive muitas paradas de pensamento,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_PT a :TranslationVariant ;
+:text "girando-me pelos caminhos para voltar;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_PT a :TranslationVariant ;
+:text "pois a alma me falava muito, contando:"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_PT a :TranslationVariant ;
+:text "infeliz, por que avanças para onde, chegando, pagarás pena?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_PT a :TranslationVariant ;
+:text "desgraçado, ficarás de novo? E se Creonte souber isto"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_PT a :TranslationVariant ;
+:text "por outro homem, como então não sofrerás?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_PT a :TranslationVariant ;
+:text "Dando voltas a tais coisas, avançava devagar, lento,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_PT a :TranslationVariant ;
+:text "e assim um caminho breve se torna longo."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_PT a :TranslationVariant ;
+:text "No fim, porém, venceu vir aqui"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_PT a :TranslationVariant ;
+:text "a ti; e mesmo se nada direi, falarei contudo."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_PT a :TranslationVariant ;
+:text "Pois venho agarrado à esperança"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_PT a :TranslationVariant ;
+:text "de não sofrer outra coisa além do destinado."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_PT a :TranslationVariant ;
+:text "Que há, por causa de que tens este desânimo?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_PT a :TranslationVariant ;
+:text "Quero primeiro dizer-te o que é meu; pois o"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_PT a :TranslationVariant ;
+:text "feito nem eu fiz nem vi quem era o que o fazia,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_PT a :TranslationVariant ;
+:text "nem justamente eu cairia em algum mal."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_PT a :TranslationVariant ;
+:text "Bem miras e cercas em volta"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_PT a :TranslationVariant ;
+:text "o assunto; mostras que anunciarás algo novo."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_PT a :TranslationVariant ;
+:text "Pois as coisas terríveis acrescentam muito receio."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_PT a :TranslationVariant ;
+:text "Não falarás afinal, para depois partir livre?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_PT a :TranslationVariant ;
+:text "E já te digo: o morto alguém, há pouco,"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_PT a :TranslationVariant ;
+:text "sepultou e se foi, espalhando sobre a pele"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_PT a :TranslationVariant ;
+:text "pó seco e cumprindo os ritos que convém."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_PT a :TranslationVariant ;
+:text "Que dizes? Quem dos homens ousou estas coisas?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_PT a :TranslationVariant ;
+:text "Não sei; pois lá não havia golpe"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_PT a :TranslationVariant ;
+:text "de enxada, nem lançamento de picareta; dura era a terra"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_PT a :TranslationVariant ;
+:text "e seca, sem fenda nem marcada"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_PT a :TranslationVariant ;
+:text "por rodas; mas o trabalhador era alguém sem sinal."^^xsd:string ;
+:relatedTo :Line_252 .

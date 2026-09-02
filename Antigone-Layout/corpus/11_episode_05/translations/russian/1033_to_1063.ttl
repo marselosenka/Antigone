@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-russian a owl:Ontology .
+# Russian translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_RU a :TranslationVariant ;
+:text "О старец, все вы, словно лучники, в цель"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_RU a :TranslationVariant ;
+:text "стреляете в этого человека, и даже прорицанием"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_RU a :TranslationVariant ;
+:text "я не оставлен вами в покое; а вашим родом"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_RU a :TranslationVariant ;
+:text "я давно продан и нагружен, как товар."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_RU a :TranslationVariant ;
+:text "Наживайтесь, торгуйте сардским"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_RU a :TranslationVariant ;
+:text "электром, если хотите, и индийским"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_RU a :TranslationVariant ;
+:text "золотом; но его вы не скроете в могиле,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_RU a :TranslationVariant ;
+:text "даже если орлы Зевса захотят эту пищу"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_RU a :TranslationVariant ;
+:text "схватить и нести его к престолам Зевса,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_RU a :TranslationVariant ;
+:text "и даже тогда, не устрашившись этого осквернения, я"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_RU a :TranslationVariant ;
+:text "не позволю похоронить его; ведь я хорошо знаю, что"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_RU a :TranslationVariant ;
+:text "осквернять богов никто из людей не в силах."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_RU a :TranslationVariant ;
+:text "Но падают, старый Тиресий, из смертных"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_RU a :TranslationVariant ;
+:text "и многие умелые люди позорными падениями, когда слова"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_RU a :TranslationVariant ;
+:text "позорные красиво говорят ради выгоды."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_RU a :TranslationVariant ;
+:text "Увы; знает ли кто из людей, понимает ли,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_RU a :TranslationVariant ;
+:text "Что это? Какое это всеобщее изречение ты говоришь?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_RU a :TranslationVariant ;
+:text "Насколько лучшее из достояний — благоразумие?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_RU a :TranslationVariant ;
+:text "Настолько же, думаю, неразумие — величайший вред."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_RU a :TranslationVariant ;
+:text "Но именно этой болезни ты полон от природы."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_RU a :TranslationVariant ;
+:text "Я не хочу дурно отвечать прорицателю."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_RU a :TranslationVariant ;
+:text "А ведь отвечаешь, говоря, что я ложно пророчу."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_RU a :TranslationVariant ;
+:text "Ведь весь род прорицателей любит серебро."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_RU a :TranslationVariant ;
+:text "А род тиранов любит постыдную выгоду."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_RU a :TranslationVariant ;
+:text "Знаешь ли ты, что говоришь это, говоря с властителями?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_RU a :TranslationVariant ;
+:text "Знаю; ведь через меня ты имеешь этот город спасенным."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_RU a :TranslationVariant ;
+:text "Ты мудрый прорицатель, но любящий неправду."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_RU a :TranslationVariant ;
+:text "Ты заставишь меня сказать неподвижное в моем уме."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_RU a :TranslationVariant ;
+:text "Двигай это, только не говоря ради выгоды."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_RU a :TranslationVariant ;
+:text "Ибо так уже, кажется, я и говорю, по твоей части."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_RU a :TranslationVariant ;
+:text "Знай, что ты не выторгуешь мой разум."^^xsd:string ;
+:relatedTo :Line_1063 .

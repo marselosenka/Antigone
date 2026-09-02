@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-french a owl:Ontology .
+# French translation variants for 302_to_323.ttl
+
+:TV_Line_302_FR a :TranslationVariant ;
+:text "Tous ceux qui, pour un salaire, ont accompli ces choses,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_FR a :TranslationVariant ;
+:text "avec le temps, ont mené cela jusqu’à payer justice."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_FR a :TranslationVariant ;
+:text "Mais si Zeus reçoit encore de moi un respect,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_FR a :TranslationVariant ;
+:text "sache bien ceci, et je te le dis sous serment :"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_FR a :TranslationVariant ;
+:text "si vous ne trouvez pas l’auteur de cette sépulture"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_FR a :TranslationVariant ;
+:text "et ne le faites pas paraître devant mes yeux,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_FR a :TranslationVariant ;
+:text "Hadès seul ne vous suffira pas, avant que,"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_FR a :TranslationVariant ;
+:text "suspendus vivants, vous n’ayez révélé cet outrage,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_FR a :TranslationVariant ;
+:text "afin que, sachant d’où il faut apporter le gain,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_FR a :TranslationVariant ;
+:text "désormais vous pilliez, et que vous appreniez"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_FR a :TranslationVariant ;
+:text "qu’il ne faut pas aimer à gagner de toute source."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_FR a :TranslationVariant ;
+:text "Car parmi les profits honteux, on verrait la plupart"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_FR a :TranslationVariant ;
+:text "perdus plutôt que sauvés."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_FR a :TranslationVariant ;
+:text "Me permettras-tu de parler, ou dois-je me retourner et partir ainsi ?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_FR a :TranslationVariant ;
+:text "Ne sais-tu pas, même maintenant, combien tes paroles sont pénibles ?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_FR a :TranslationVariant ;
+:text "Est-ce aux oreilles ou dans l’âme que je te mords ?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_FR a :TranslationVariant ;
+:text "Pourquoi règles-tu où se trouve ma douleur ?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_FR a :TranslationVariant ;
+:text "Celui qui a fait l’acte tourmente ton esprit ; moi, tes oreilles."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_FR a :TranslationVariant ;
+:text "Hélas, comme tu es clairement né bavard."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_FR a :TranslationVariant ;
+:text "Mais non certes jamais l’auteur de cet acte."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_FR a :TranslationVariant ;
+:text "Et cela encore pour de l’argent, ayant vendu ton âme."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_FR a :TranslationVariant ;
+:text "Hélas ! Il est terrible, quand quelqu’un se fait une opinion, de se faire aussi une opinion fausse."^^xsd:string ;
+:relatedTo :Line_323 .

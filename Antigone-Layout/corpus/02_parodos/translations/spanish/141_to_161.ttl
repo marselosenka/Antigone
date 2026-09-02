@@ -1,0 +1,91 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-spanish a owl:Ontology .
+# Spanish translation variants for 141_to_161.ttl
+
+:TV_Line_141_ES a :TranslationVariant ;
+    :text "Pues siete capitanes ante siete puertas,"^^xsd:string ;
+    :relatedTo :Line_141 .
+
+:TV_Line_142_ES a :TranslationVariant ;
+    :text "puestos igual contra igual, dejaron"^^xsd:string ;
+    :relatedTo :Line_142 .
+
+:TV_Line_143_ES a :TranslationVariant ;
+    :text "para Zeus vencedor trofeos todos de bronce,"^^xsd:string ;
+    :relatedTo :Line_143 .
+
+:TV_Line_144_ES a :TranslationVariant ;
+    :text "salvo los dos aborrecibles, que de un solo padre"^^xsd:string ;
+    :relatedTo :Line_144 .
+
+:TV_Line_145_ES a :TranslationVariant ;
+    :text "y de una sola madre nacieron, y uno contra otro"^^xsd:string ;
+    :relatedTo :Line_145 .
+
+:TV_Line_146_ES a :TranslationVariant ;
+    :text "alzaron lanzas doblemente victoriosas"^^xsd:string ;
+    :relatedTo :Line_146 .
+
+:TV_Line_147_ES a :TranslationVariant ;
+    :text "y ambos recibieron parte de una muerte común."^^xsd:string ;
+    :relatedTo :Line_147 .
+
+:TV_Line_148_ES a :TranslationVariant ;
+    :text "Pero ahora ha llegado la Victoria de gran nombre,"^^xsd:string ;
+    :relatedTo :Line_148 .
+
+:TV_Line_149_ES a :TranslationVariant ;
+    :text "alegrándose con Tebas rica en carros;"^^xsd:string ;
+    :relatedTo :Line_149 .
+
+:TV_Line_150_ES a :TranslationVariant ;
+    :text "dejemos, pues, de las guerras"^^xsd:string ;
+    :relatedTo :Line_150 .
+
+:TV_Line_151_ES a :TranslationVariant ;
+    :text "presentes, olvido sobre ellas,"^^xsd:string ;
+    :relatedTo :Line_151 .
+
+:TV_Line_152_ES a :TranslationVariant ;
+    :text "y vayamos a todos los templos de los dioses"^^xsd:string ;
+    :relatedTo :Line_152 .
+
+:TV_Line_153_ES a :TranslationVariant ;
+    :text "con danzas que duren toda la noche;"^^xsd:string ;
+    :relatedTo :Line_153 .
+
+:TV_Line_154_ES a :TranslationVariant ;
+    :text "y el Báquico, que hace estremecer a Tebas,"^^xsd:string ;
+    :relatedTo :Line_154 .
+
+:TV_Line_155_ES a :TranslationVariant ;
+    :text "guíe la danza."^^xsd:string ;
+    :relatedTo :Line_155 .
+
+:TV_Line_156_ES a :TranslationVariant ;
+    :text "Pero aquí está ya el rey del país,"^^xsd:string ;
+    :relatedTo :Line_156 .
+
+:TV_Line_157_ES a :TranslationVariant ;
+    :text "Creonte, el hijo de Meneceo, recién llegado"^^xsd:string ;
+    :relatedTo :Line_157 .
+
+:TV_Line_158_ES a :TranslationVariant ;
+    :text "por las nuevas circunstancias enviadas por los dioses."^^xsd:string ;
+    :relatedTo :Line_158 .
+
+:TV_Line_159_ES a :TranslationVariant ;
+    :text "¿Qué designio viene remando ahora,"^^xsd:string ;
+    :relatedTo :Line_159 .
+
+:TV_Line_160_ES a :TranslationVariant ;
+    :text "para haber convocado esta asamblea"^^xsd:string ;
+    :relatedTo :Line_160 .
+
+:TV_Line_161_ES a :TranslationVariant ;
+    :text "de ancianos, enviando un pregón común?"^^xsd:string ;
+    :relatedTo :Line_161 .

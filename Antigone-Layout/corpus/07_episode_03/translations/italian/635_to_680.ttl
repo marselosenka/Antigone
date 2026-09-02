@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-italian a owl:Ontology .
+# Italian translation variants for 635_to_680.ttl
+
+:TV_Line_635_IT a :TranslationVariant ;
+:text "Padre, sono tuo, e tu, avendo per me pensieri"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_IT a :TranslationVariant ;
+:text "buoni, mi raddrizzi, e io li seguirò."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_IT a :TranslationVariant ;
+:text "Per me infatti nessuna nozze sarà ritenuta"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_IT a :TranslationVariant ;
+:text "da portare maggior valore della tua buona guida."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_IT a :TranslationVariant ;
+:text "Così infatti, figlio, bisogna tenere nel petto,"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_IT a :TranslationVariant ;
+:text "stare sempre dietro al giudizio paterno."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_IT a :TranslationVariant ;
+:text "Per questo infatti gli uomini pregano di avere generati"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_IT a :TranslationVariant ;
+:text "figli obbedienti nelle case,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_IT a :TranslationVariant ;
+:text "così da ricambiare il nemico con mali"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_IT a :TranslationVariant ;
+:text "e onorare l’amico allo stesso modo del padre."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_IT a :TranslationVariant ;
+:text "Ma chi genera figli inutili,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_IT a :TranslationVariant ;
+:text "che altro diresti che costui abbia generato, se non fatiche"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_IT a :TranslationVariant ;
+:text "per sé stesso, e grande riso per i nemici?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_IT a :TranslationVariant ;
+:text "Dunque, figlio, non gettare mai via il senno sotto il piacere"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_IT a :TranslationVariant ;
+:text "a causa di una donna, sapendo che"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_IT a :TranslationVariant ;
+:text "questo diventa un freddo abbraccio,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_IT a :TranslationVariant ;
+:text "una donna cattiva compagna di letto in casa. Che cosa infatti"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_IT a :TranslationVariant ;
+:text "potrebbe essere ferita più grande di un cattivo amico?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_IT a :TranslationVariant ;
+:text "Ma, sputandola via come nemica, lascia"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_IT a :TranslationVariant ;
+:text "che questa fanciulla sposi qualcuno nell’Ade."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_IT a :TranslationVariant ;
+:text "Poiché infatti io l’ho presa manifestamente"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_IT a :TranslationVariant ;
+:text "sola fra tutta la città a disobbedire,"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_IT a :TranslationVariant ;
+:text "non renderò me stesso falso davanti alla città,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_IT a :TranslationVariant ;
+:text "ma la ucciderò. Per questo canti pure inni a Zeus"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_IT a :TranslationVariant ;
+:text "del sangue comune. Se infatti davvero quelli per natura consanguinei"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_IT a :TranslationVariant ;
+:text "li nutrirò disordinati, molto più quelli fuori dalla stirpe."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_IT a :TranslationVariant ;
+:text "Infatti chi è uomo buono tra i suoi"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_IT a :TranslationVariant ;
+:text "apparirà giusto anche nella città."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_IT a :TranslationVariant ;
+:text "Ma chi, oltrepassando il limite, violenta le leggi"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_IT a :TranslationVariant ;
+:text "o pensa di comandare a chi governa,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_IT a :TranslationVariant ;
+:text "non otterrà lode da parte mia."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_IT a :TranslationVariant ;
+:text "Ma colui che la città ha posto, bisogna ascoltarlo"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_IT a :TranslationVariant ;
+:text "nelle cose piccole, giuste, e anche nelle contrarie."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_IT a :TranslationVariant ;
+:text "E di quest’uomo io avrei fiducia"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_IT a :TranslationVariant ;
+:text "che governi bene e voglia anche essere governato bene,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_IT a :TranslationVariant ;
+:text "e che, schierato nella tempesta della lancia,"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_IT a :TranslationVariant ;
+:text "rimanga compagno giusto e valoroso."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_IT a :TranslationVariant ;
+:text "Non c’è male più grande dell’anarchia."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_IT a :TranslationVariant ;
+:text "Questa distrugge le città, questa rende sovvertite"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_IT a :TranslationVariant ;
+:text "le case, questa rompe le fughe della lancia alleata;"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_IT a :TranslationVariant ;
+:text "ma tra quelli che stanno diritti"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_IT a :TranslationVariant ;
+:text "l’obbedienza salva la maggior parte dei corpi."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_IT a :TranslationVariant ;
+:text "Così bisogna difendere ciò che è ordinato,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_IT a :TranslationVariant ;
+:text "e in nessun modo bisogna essere vinti da una donna."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_IT a :TranslationVariant ;
+:text "È meglio infatti, se pure bisogna, cadere per mano di un uomo,"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_IT a :TranslationVariant ;
+:text "e non saremmo chiamati inferiori alle donne."^^xsd:string ;
+:relatedTo :Line_680 .

@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-bengali a owl:Ontology .
+# Bengali translation variants for 631_to_634.ttl
+
+:TV_Line_631_BN a :TranslationVariant ;
+:text "শীঘ্রই আমরা নবীদের চেয়েও পরিষ্কারভাবে জানতে পারব।"^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_BN a :TranslationVariant ;
+:text "হে পুত্র, তুমি কি তবে চূড়ান্ত রায় না শুনেই"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_BN a :TranslationVariant ;
+:text "তোমার হবু-বধূর জন্য পিতার কাছে উন্মত্ত হয়ে এসেছ?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_BN a :TranslationVariant ;
+:text "না কি আমরা যা-ই করি, সব দিক থেকেই তোমার বন্ধু?"^^xsd:string ;
+:relatedTo :Line_634 .

@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-bengali a owl:Ontology .
+# Bengali translation variants for 20_to_41.ttl
+
+:TV_Line_020_BN a :TranslationVariant ;
+:text "কী হয়েছে? তোমার কথায় যেন কিছু গাঢ় অস্থিরতা দেখা যাচ্ছে।"^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_BN a :TranslationVariant ;
+:text "ক্রেয়ন কি আমাদের দুই ভাইয়ের মধ্যে একজনকে"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_BN a :TranslationVariant ;
+:text "কবরে সম্মান দিয়ে, অন্যজনকে অসম্মান করেননি?"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_BN a :TranslationVariant ;
+:text "এতেওক্লেসকে, তারা বলে, ন্যায়বিচার"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_BN a :TranslationVariant ;
+:text "ও যথোচিত বিধি মেনে, মাটির নিচে"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_BN a :TranslationVariant ;
+:text "নিম্নলোকের সম্মানিত মৃতদের মধ্যে লুকিয়ে রেখেছেন;"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_BN a :TranslationVariant ;
+:text "কিন্তু দুর্দশায় মৃত পলিনেইকেসের দেহের বিষয়ে"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_BN a :TranslationVariant ;
+:text "নগরবাসীদের কাছে ঘোষণা করা হয়েছে, কেউ যেন তাকে"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_BN a :TranslationVariant ;
+:text "কবরে ঢাকে না, কেউ যেন তার জন্য বিলাপও না করে,"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_BN a :TranslationVariant ;
+:text "বরং তাকে অশ্রুহীন, অদাফন অবস্থায় ছেড়ে দেয়—পাখিদের কাছে মধুর"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_BN a :TranslationVariant ;
+:text "ভোজের অনুগ্রহের জন্য দেখা এক ধনভাণ্ডার।"^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_BN a :TranslationVariant ;
+:text "এমন কথাই তারা বলে, সৎ ক্রেয়ন তোমার"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_BN a :TranslationVariant ;
+:text "আর আমার জন্য—হ্যাঁ, আমাকেও বলছি—ঘোষণা করেছেন,"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_BN a :TranslationVariant ;
+:text "আর তিনি এখানে আসবেন, যারা জানে না তাদের কাছে"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_BN a :TranslationVariant ;
+:text "এসব স্পষ্ট করে আগে ঘোষণা করতে; আর বিষয়টিকে"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_BN a :TranslationVariant ;
+:text "তুচ্ছ বলে ধরছেন না, বরং যে কেউ এর কিছু করলে"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_BN a :TranslationVariant ;
+:text "নগরে জনতার পাথর নিক্ষেপে মৃত্যু তার সামনে রাখা আছে।"^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_BN a :TranslationVariant ;
+:text "তোমার জন্য বিষয়টি এইরূপ; আর তুমি শিগগির দেখাবে"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_BN a :TranslationVariant ;
+:text "তুমি মহৎ জন্মের কি না, না কি মহৎদের কন্যা হয়েও নীচ।"^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_BN a :TranslationVariant ;
+:text "কিন্তু, হে দুর্ভাগিনী, যদি বিষয় এমনই হয়, তবে আমি"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_BN a :TranslationVariant ;
+:text "খুলি বা বাঁধি—এর সঙ্গে আরও কী যোগ করতে পারি?"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_BN a :TranslationVariant ;
+:text "তুমি সাহায্য করবে কি একসঙ্গে কাজ করবে, তা ভেবে দেখো।"^^xsd:string ;
+:relatedTo :Line_041 .

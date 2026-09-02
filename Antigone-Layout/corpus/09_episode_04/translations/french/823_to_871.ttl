@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-french a owl:Ontology .
+# French translation variants for 823_to_871.ttl
+
+:TV_Line_823_FR a :TranslationVariant ;
+:text "J’ai entendu dire que périt très misérablement l’étrangère phrygienne,"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in canonical.
+
+:TV_Line_825_FR a :TranslationVariant ;
+:text "fille de Tantale, au sommet du Sipyle, elle qu’une pousse de pierre, comme un lierre tenace,"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_FR a :TranslationVariant ;
+:text "dompta, et les pluies, la faisant fondre,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_FR a :TranslationVariant ;
+:text "selon la parole des hommes,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Lines 828 and 829 do not exist in canonical.
+
+:TV_Line_830_FR a :TranslationVariant ;
+:text "et la neige ne la quitte jamais ; elle mouille sous ses sourcils tout en pleurs"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_FR a :TranslationVariant ;
+:text "son cou ; à elle, le dieu me couche toute semblable."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Lines 832 and 833 do not exist in canonical.
+
+:TV_Line_834_FR a :TranslationVariant ;
+:text "Mais elle est déesse, certes, et née des dieux,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_FR a :TranslationVariant ;
+:text "tandis que nous sommes mortels et nés de mortels."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_FR a :TranslationVariant ;
+:text "Et pourtant, morte, c’est grand d’entendre"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_FR a :TranslationVariant ;
+:text "qu’on a reçu une part commune avec ceux qui sont égaux aux dieux,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_FR a :TranslationVariant ;
+:text "vivante, puis morte ensuite."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_FR a :TranslationVariant ;
+:text "Hélas, on se rit de moi. Pourquoi, par les dieux de mes pères,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_FR a :TranslationVariant ;
+:text "m’outrages-tu non pas disparue, mais visible ?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_FR a :TranslationVariant ;
+:text "Ô cité, ô hommes de la cité aux nombreux biens ;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_FR a :TranslationVariant ;
+:text "io, sources de Dircé,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Lines 843 and 844 do not exist in canonical.
+
+:TV_Line_845_FR a :TranslationVariant ;
+:text "bois de Thèbes aux beaux chars, pourtant je vous acquiers comme témoins avec moi,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_FR a :TranslationVariant ;
+:text "comment, non pleurée par mes amis, par quelles lois"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_FR a :TranslationVariant ;
+:text "je vais vers l’enceinte entassée de terre d’un tombeau étrange."^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Lines 848 and 849 do not exist in canonical.
+
+:TV_Line_850_FR a :TranslationVariant ;
+:text "ni morte parmi les morts"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_FR a :TranslationVariant ;
+:text "étrangère résidente ni parmi les vivants ni parmi les morts."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in canonical.
+
+:TV_Line_853_FR a :TranslationVariant ;
+:text "Ayant avancé jusqu’à l’extrémité de l’audace,"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_FR a :TranslationVariant ;
+:text "vers le haut piédestal de Justice,"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_FR a :TranslationVariant ;
+:text "tu es tombée, mon enfant, bien fort ;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_FR a :TranslationVariant ;
+:text "et tu paies quelque épreuve paternelle."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in canonical.
+
+:TV_Line_858_FR a :TranslationVariant ;
+:text "Tu as touché pour moi les soucis les plus douloureux,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_FR a :TranslationVariant ;
+:text "la triple lamentation de mon père et tout entier"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_FR a :TranslationVariant ;
+:text "notre destin chez les illustres Labdacides."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_FR a :TranslationVariant ;
+:text "Io, couches maternelles"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Lines 862, 863 and 864 do not exist in canonical.
+
+:TV_Line_865_FR a :TranslationVariant ;
+:text "désastres et unions nées d’elles-mêmes pour mon père, de ma mère malheureuse,"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_FR a :TranslationVariant ;
+:text "de quels êtres, moi, la misérable, je suis née autrefois ;"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_FR a :TranslationVariant ;
+:text "vers eux, maudite, sans mariage, moi, étrangère résidente, je vais."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Lines 868 and 869 do not exist in canonical.
+
+:TV_Line_870_FR a :TranslationVariant ;
+:text "Ô frère, ayant rencontré des noces malheureuses,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_FR a :TranslationVariant ;
+:text "mort, tu m’as encore abattue, moi qui vis."^^xsd:string ;
+:relatedTo :Line_871 .

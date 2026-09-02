@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-french a owl:Ontology .
+# French translation variants for 988_to_1032.ttl
+
+:TV_Line_988_FR a :TranslationVariant ;
+:text "Seigneurs de Thèbes, nous sommes venus par une route commune,"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_FR a :TranslationVariant ;
+:text "deux regardant par un seul ; car pour les aveugles"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_FR a :TranslationVariant ;
+:text "ce chemin vient d’un guide."^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_FR a :TranslationVariant ;
+:text "Qu’y a-t-il donc de nouveau, vieux Tirésias ?"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_FR a :TranslationVariant ;
+:text "Moi, je t’instruirai ; et toi, obéis au devin."^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_FR a :TranslationVariant ;
+:text "Je ne me suis certes pas auparavant écarté de ta pensée."^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_FR a :TranslationVariant ;
+:text "C’est pourquoi tu gouvernes cette cité en droite navigation."^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_FR a :TranslationVariant ;
+:text "J’ai, l’ayant éprouvé, de quoi témoigner des profits."^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_FR a :TranslationVariant ;
+:text "Réfléchis, car tu marches maintenant encore sur le tranchant du destin."^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_FR a :TranslationVariant ;
+:text "Qu’est-ce donc ? Comme je frémis devant ta bouche."^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_FR a :TranslationVariant ;
+:text "Tu le sauras, en entendant les signes de mon art."^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_FR a :TranslationVariant ;
+:text "Car, m’étant assis dans mon ancien siège d’observation des oiseaux,"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_FR a :TranslationVariant ;
+:text "là où était pour moi le port de tout oiseau,"^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_FR a :TranslationVariant ;
+:text "j’entends un cri inconnu d’oiseaux, criant"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_FR a :TranslationVariant ;
+:text "avec un mauvais aiguillon et rendu barbare ;"^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_FR a :TranslationVariant ;
+:text "et, avec leurs serres meurtrières, qu’ils se déchiraient les uns les autres,"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_FR a :TranslationVariant ;
+:text "je le reconnus ; car le sifflement des ailes n’était pas indistinct."^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_FR a :TranslationVariant ;
+:text "Aussitôt, pris de crainte, je goûtais les victimes brûlées"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_FR a :TranslationVariant ;
+:text "sur les autels tout embrasés ; mais des sacrifices"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_FR a :TranslationVariant ;
+:text "Héphaïstos ne brillait pas ; au contraire, sur la cendre,"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_FR a :TranslationVariant ;
+:text "une humeur suintante des cuisses se fondait,"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_FR a :TranslationVariant ;
+:text "fumait et crachait, et en l’air"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_FR a :TranslationVariant ;
+:text "les fiels se dispersaient, et, s’étant écoulées,"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_FR a :TranslationVariant ;
+:text "les cuisses gisaient hors de la graisse qui les couvrait."^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_FR a :TranslationVariant ;
+:text "De telles choses, auprès de cet enfant, j’apprenais"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_FR a :TranslationVariant ;
+:text "comme des présages défaillants de rites sans signes ;"^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_FR a :TranslationVariant ;
+:text "car celui-ci est mon guide, et moi celui des autres."^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_FR a :TranslationVariant ;
+:text "Et c’est de ta pensée que cette cité est malade de ces choses ;"^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_FR a :TranslationVariant ;
+:text "car nos autels et tous nos foyers"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_FR a :TranslationVariant ;
+:text "sont pleins de la nourriture apportée par les oiseaux et les chiens"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_FR a :TranslationVariant ;
+:text "du malheureux fils tombé d’Œdipe."^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_FR a :TranslationVariant ;
+:text "Aussi les dieux ne reçoivent-ils plus de nous"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_FR a :TranslationVariant ;
+:text "les prières sacrificielles ni la flamme des cuisses,"^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_FR a :TranslationVariant ;
+:text "et nul oiseau ne fait résonner des cris de bon augure,"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_FR a :TranslationVariant ;
+:text "ayant mangé la graisse d’un sang meurtrier."^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_FR a :TranslationVariant ;
+:text "Ces choses donc, enfant, considère-les. Car pour tous"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_FR a :TranslationVariant ;
+:text "les hommes, il est commun de commettre une faute ;"^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_FR a :TranslationVariant ;
+:text "mais lorsqu’il a fauté, cet homme n’est plus"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_FR a :TranslationVariant ;
+:text "sans conseil ni malheureux, si, tombé dans le mal,"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_FR a :TranslationVariant ;
+:text "il le répare et ne demeure pas immobile ;"^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_FR a :TranslationVariant ;
+:text "l’entêtement, lui, encourt l’accusation de maladresse."^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_FR a :TranslationVariant ;
+:text "Mais cède au mort, et ne frappe pas celui qui est perdu ;"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_FR a :TranslationVariant ;
+:text "quelle vaillance y a-t-il à tuer encore celui qui est mort ?"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_FR a :TranslationVariant ;
+:text "Ayant bien pensé pour toi, je parle bien ; et apprendre"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_FR a :TranslationVariant ;
+:text "est très doux de celui qui parle bien, si cela porte profit."^^xsd:string ;
+:relatedTo :Line_1032 .

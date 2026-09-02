@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-japanese a owl:Ontology .
+# Japanese translation variants for 253_to_279.ttl
+
+:TV_Line_253_JA a :TranslationVariant ;
+:text "そして最初の日中の見張りが私たちに示した時、"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_JA a :TranslationVariant ;
+:text "すべての者にとって耐えがたい驚きがそこにありました。"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_JA a :TranslationVariant ;
+:text "というのも、死体は隠されていましたが、墓に納められたのではなく、"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_JA a :TranslationVariant ;
+:text "穢れを避ける者のように、薄い塵がかけられていました。"^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_JA a :TranslationVariant ;
+:text "獣の印も、犬の誰かが"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_JA a :TranslationVariant ;
+:text "来た印も、引き裂いた印も現れていませんでした。"^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_JA a :TranslationVariant ;
+:text "互いの間で悪い言葉がざわめき、"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_JA a :TranslationVariant ;
+:text "見張りが見張りを責め、ついには"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_JA a :TranslationVariant ;
+:text "打ち合いになりかけましたが、止める者もいませんでした。"^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_JA a :TranslationVariant ;
+:text "というのも、一人一人がその事をやり遂げた者のようであり、"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_JA a :TranslationVariant ;
+:text "誰も明白ではなく、知らないと言って逃げていたからです。"^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_JA a :TranslationVariant ;
+:text "私たちは、手で焼けた鉄を持ち上げる用意もあり、"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_JA a :TranslationVariant ;
+:text "火の中を歩く用意もあり、神々に誓う用意もありました、"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_JA a :TranslationVariant ;
+:text "その事を自分が行いもしなかったし、誰かを知ってもいないと、"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_JA a :TranslationVariant ;
+:text "その事を計画した者にも、行った者にも関わっていないと。"^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_JA a :TranslationVariant ;
+:text "そしてついに、調べる者たちにとって何もそれ以上なかった時、"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_JA a :TranslationVariant ;
+:text "ある一人が言いました。その人は皆の頭を地面へ"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_JA a :TranslationVariant ;
+:text "恐れでうなだれさせました。というのも、私たちは"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_JA a :TranslationVariant ;
+:text "言い返すことも、どう行えばうまく"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_JA a :TranslationVariant ;
+:text "事を進められるかも持っていなかったからです。その話とは、"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_JA a :TranslationVariant ;
+:text "この仕事はあなたへ報告されるべきで、隠されるべきではない、というものでした。"^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_JA a :TranslationVariant ;
+:text "そしてこれが勝ち、私という不運な者を"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_JA a :TranslationVariant ;
+:text "くじが選び、このよい役目を受け取らせたのです。"^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_JA a :TranslationVariant ;
+:text "私は望まずにここにいますし、望まれずにいることも知っています。"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_JA a :TranslationVariant ;
+:text "悪い言葉の使者を愛する者は誰もいませんから。"^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_JA a :TranslationVariant ;
+:text "王よ、私には、もしかすると神に動かされた"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_JA a :TranslationVariant ;
+:text "この仕事なのではないかと、考えが前から思案しています。"^^xsd:string ;
+:relatedTo :Line_279 .

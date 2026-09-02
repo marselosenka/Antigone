@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-hindi a owl:Ontology .
+# Hindi translation variants for 141_to_161.ttl
+
+:TV_Line_141_HI a :TranslationVariant ;
+:text "क्योंकि सात सेनानायक सात द्वारों पर"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_HI a :TranslationVariant ;
+:text "बराबर वालों के विरुद्ध बराबर रखे गए, छोड़ गए"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_HI a :TranslationVariant ;
+:text "विजयदाता ज़ीउस को अपने सर्व-कांस्य अर्पण,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_HI a :TranslationVariant ;
+:text "उन दो घृणितों को छोड़कर, जो एक पिता"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_HI a :TranslationVariant ;
+:text "और एक माता से जन्मे, एक-दूसरे के विरुद्ध"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_HI a :TranslationVariant ;
+:text "द्वि-विजयी भाले खड़े करके"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_HI a :TranslationVariant ;
+:text "दोनों ने साझा मृत्यु का भाग पाया।"^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_HI a :TranslationVariant ;
+:text "पर अब महान-नाम वाली विजय आ गई है"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_HI a :TranslationVariant ;
+:text "बहु-रथों वाली थिब्स के आनंद का प्रत्युत्तर देती हुई,"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_HI a :TranslationVariant ;
+:text "अब इन युद्धों से"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_HI a :TranslationVariant ;
+:text "विस्मृति स्थापित करें,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_HI a :TranslationVariant ;
+:text "और देवताओं के सभी मंदिरों में"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_HI a :TranslationVariant ;
+:text "रात-भर के नृत्यों के साथ चलें।"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_HI a :TranslationVariant ;
+:text "और थिब्स को हिलाने वाला"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_HI a :TranslationVariant ;
+:text "बाखिक देवता नेतृत्व करे।"^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_HI a :TranslationVariant ;
+:text "पर यह रहा देश का राजा,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_HI a :TranslationVariant ;
+:text "मेनोइकेउस का पुत्र क्रेयोन, अभी नया आया हुआ,"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_HI a :TranslationVariant ;
+:text "देवताओं की नई घटनाओं के अवसर पर,"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_HI a :TranslationVariant ;
+:text "कौन-सी योजना खेता हुआ आगे बढ़ रहा है,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_HI a :TranslationVariant ;
+:text "कि उसने वृद्धों की इस सभा को"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_HI a :TranslationVariant ;
+:text "सामूहिक घोषणा भेजकर बुलाया है?"^^xsd:string ;
+:relatedTo :Line_161 .

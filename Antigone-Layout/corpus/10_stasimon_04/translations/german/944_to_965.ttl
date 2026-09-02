@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-german a owl:Ontology .
+# German translation variants for 944_to_965.ttl
+
+:TV_Line_944_DE a :TranslationVariant ;
+:text "Auch Danae ertrug es, das himmlische Licht"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_DE a :TranslationVariant ;
+:text "gegen ihren Körper in bronzebeschlagenen Höfen einzutauschen;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_DE a :TranslationVariant ;
+:text "verborgen in einer grabartigen Kammer wurde sie unterjocht;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_DE a :TranslationVariant ;
+:text "und doch war sie auch durch Herkunft geehrt, o Kind, Kind,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Lines 948 and 949 do not exist in canonical.
+
+:TV_Line_950_DE a :TranslationVariant ;
+:text "und verwahrte die goldströmenden Samen des Zeus."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_DE a :TranslationVariant ;
+:text "Doch irgendeine Macht des Schicksals ist furchtbar;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_DE a :TranslationVariant ;
+:text "weder Glück noch Ares, kein Turm, auch keine meerumtosten"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_DE a :TranslationVariant ;
+:text "schwarzen Schiffe könnten ihr entkommen."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 is commented out in canonical.
+
+:TV_Line_955_DE a :TranslationVariant ;
+:text "Unterjocht wurde auch der scharfzornige Sohn des Dryas,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_DE a :TranslationVariant ;
+:text "König der Edonen, wegen spöttischer Zornausbrüche,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_DE a :TranslationVariant ;
+:text "von Dionysos in felsigem Gefängnis eingeschlossen."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_DE a :TranslationVariant ;
+:text "So tropft das Furchtbare des Wahnsinns ab,"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in canonical.
+
+:TV_Line_960_DE a :TranslationVariant ;
+:text "und seine blühende Kraft. Jener erkannte in seinen Wahnsinnen,"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_DE a :TranslationVariant ;
+:text "dass er den Gott mit spöttischen Zungen berührte."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_DE a :TranslationVariant ;
+:text "Denn er hemmte die gottbegeisterten Frauen und das euhoische Feuer,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Lines 963 and 964 are commented out in canonical.
+
+:TV_Line_965_DE a :TranslationVariant ;
+:text "und reizte die flötenliebenden Musen."^^xsd:string ;
+:relatedTo :Line_965 .

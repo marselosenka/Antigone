@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-bengali a owl:Ontology .
+# Bengali translation variants for 563_to_581.ttl
+
+:TV_Line_563_BN a :TranslationVariant ;
+:text "কারণ কখনও, রাজা, যে মন জন্মায় তাও থাকে না"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_BN a :TranslationVariant ;
+:text "যারা মন্দ অবস্থায় আছে তাদের মধ্যে; বরং তা সরে যায়।"^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_BN a :TranslationVariant ;
+:text "তোমার ক্ষেত্রেই তো, যখন তুমি দুষ্টদের সঙ্গে দুষ্ট কাজ বেছে নিলে।"^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_BN a :TranslationVariant ;
+:text "কারণ তাকে ছাড়া একা আমার জন্য কী জীবন বাসযোগ্য?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_BN a :TranslationVariant ;
+:text "কিন্তু তার কথা বলো না; সে আর নেই।"^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_BN a :TranslationVariant ;
+:text "তবে কি তুমি নিজের সন্তানের বিবাহকে হত্যা করবে?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_BN a :TranslationVariant ;
+:text "অন্যদের চাষযোগ্য ক্ষেত্রও আছে।"^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_BN a :TranslationVariant ;
+:text "কিন্তু তার সঙ্গে এই মেয়ের মতো মানানসই নয়।"^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_BN a :TranslationVariant ;
+:text "আমি পুত্রদের জন্য মন্দ স্ত্রীদের ঘৃণা করি।"^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_BN a :TranslationVariant ;
+:text "হে প্রিয়তম হাইমন, তোমার পিতা কীভাবে তোমাকে অসম্মান করছে।"^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_BN a :TranslationVariant ;
+:text "তুমি আর তোমার বিবাহশয্যা আমাকে অতিরিক্ত কষ্ট দিচ্ছ।"^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_BN a :TranslationVariant ;
+:text "তবে কি তুমি নিজের সন্তানকে এই মেয়ে থেকে বঞ্চিত করবে?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_BN a :TranslationVariant ;
+:text "হেডিসই এই বিয়ে থামাবার জন।"^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_BN a :TranslationVariant ;
+:text "তাহলে মনে হয় তার মরে যাওয়া নির্ধারিত।"^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_BN a :TranslationVariant ;
+:text "তোমার কাছেও, আমার কাছেও। আর বিলম্ব নয়; বরং তাকে"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_BN a :TranslationVariant ;
+:text "ভেতরে নিয়ে যাও, দাসীরা; এরপর থেকে চাই"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_BN a :TranslationVariant ;
+:text "এই নারীরা নারীই থাকুক, মুক্তভাবে ঘুরে না বেড়াক।"^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_BN a :TranslationVariant ;
+:text "কারণ সাহসীরাও পালায়, যখন জীবনের কাছে"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_BN a :TranslationVariant ;
+:text "ইতিমধ্যেই হেডিসকে দেখতে পায়।"^^xsd:string ;
+:relatedTo :Line_581 .

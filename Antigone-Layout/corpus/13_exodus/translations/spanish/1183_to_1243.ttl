@@ -1,0 +1,68 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-spanish a owl:Ontology .
+# Spanish translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1183 ; :text "Ciudadanos todos, percibí esas palabras"^^xsd:string .
+:TV_Line_1184_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1184 ; :text "mientras caminaba hacia la salida, para llegar"^^xsd:string .
+:TV_Line_1185_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1185 ; :text "ante la diosa Palas como portadora de plegarias."^^xsd:string .
+:TV_Line_1186_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1186 ; :text "Y sucedió que soltaba los cerrojos"^^xsd:string .
+:TV_Line_1187_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1187 ; :text "de la puerta abierta, cuando el sonido de una desgracia familiar"^^xsd:string .
+:TV_Line_1188_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1188 ; :text "me golpeó por los oídos; caí hacia atrás"^^xsd:string .
+:TV_Line_1189_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1189 ; :text "aterrada entre las esclavas, y quedé aturdida."^^xsd:string .
+:TV_Line_1190_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1190 ; :text "Pero decid de nuevo cuál era el relato;"^^xsd:string .
+:TV_Line_1191_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1191 ; :text "pues, no inexperta en males, lo escucharé."^^xsd:string .
+:TV_Line_1192_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1192 ; :text "Yo, querida señora, como estuve presente, lo diré,"^^xsd:string .
+:TV_Line_1193_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1193 ; :text "y no dejaré fuera ninguna palabra de la verdad;"^^xsd:string .
+:TV_Line_1194_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1194 ; :text "pues ¿por qué habría de suavizarte cosas por las que después"^^xsd:string .
+:TV_Line_1195_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1195 ; :text "apareceríamos como mentirosos? La verdad siempre es recta."^^xsd:string .
+:TV_Line_1196_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1196 ; :text "Yo seguí a tu esposo como guía de sus pasos"^^xsd:string .
+:TV_Line_1197_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1197 ; :text "hasta el extremo de la llanura, donde aún yacía"^^xsd:string .
+:TV_Line_1198_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1198 ; :text "el cuerpo implacable de Polinices, desgarrado por perros;"^^xsd:string .
+:TV_Line_1199_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1199 ; :text "y a él, tras pedir a la diosa de los caminos"^^xsd:string .
+:TV_Line_1200_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1200 ; :text "y a Plutón que contuvieran con benevolencia sus iras,"^^xsd:string .
+:TV_Line_1201_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1201 ; :text "lo lavamos con un baño puro, y con ramas"^^xsd:string .
+:TV_Line_1202_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1202 ; :text "recién arrancadas quemamos juntos lo que quedaba;"^^xsd:string .
+:TV_Line_1203_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1203 ; :text "y, tras alzar una tumba alta con tierra propia,"^^xsd:string .
+:TV_Line_1204_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1204 ; :text "volvimos hacia el nupcial de piedra de la muchacha,"^^xsd:string .
+:TV_Line_1205_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1205 ; :text "la hueca cámara nupcial de Hades."^^xsd:string .
+:TV_Line_1206_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1206 ; :text "Alguien oyó desde lejos la voz de agudos lamentos"^^xsd:string .
+:TV_Line_1207_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1207 ; :text "en torno a la cámara sin ritos fúnebres,"^^xsd:string .
+:TV_Line_1208_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1208 ; :text "y, acercándose, se lo señaló al señor Creonte;"^^xsd:string .
+:TV_Line_1209_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1209 ; :text "y a él, mientras avanzaba más cerca, lo rodea"^^xsd:string .
+:TV_Line_1210_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1210 ; :text "el sonido confuso de un grito desdichado; y gimiendo lanzó"^^xsd:string .
+:TV_Line_1211_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1211 ; :text "una palabra lamentable: Ay, desdichado de mí,"^^xsd:string .
+:TV_Line_1212_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1212 ; :text "¿acaso soy adivino? ¿Acaso camino"^^xsd:string .
+:TV_Line_1213_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1213 ; :text "por la senda más infortunada de todos mis caminos pasados?"^^xsd:string .
+:TV_Line_1214_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1214 ; :text "La voz de mi hijo me acaricia con temor. Pero, servidores,"^^xsd:string .
+:TV_Line_1215_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1215 ; :text "id rápido más cerca, y colocados junto a la tumba,"^^xsd:string .
+:TV_Line_1216_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1216 ; :text "mirad, entrando por la juntura del montón de piedras arrancadas,"^^xsd:string .
+:TV_Line_1217_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1217 ; :text "hasta la misma boca, si la voz de Hemón"^^xsd:string .
+:TV_Line_1218_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1218 ; :text "entiendo, o si los dioses me engañan."^^xsd:string .
+:TV_Line_1219_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1219 ; :text "Estas cosas, por órdenes del señor abatido,"^^xsd:string .
+:TV_Line_1220_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1220 ; :text "examinábamos; y en el fondo último de la tumba"^^xsd:string .
+:TV_Line_1221_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1221 ; :text "la vimos a ella colgada por el cuello,"^^xsd:string .
+:TV_Line_1222_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1222 ; :text "suspendida por un lazo tejido de lino,"^^xsd:string .
+:TV_Line_1223_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1223 ; :text "y a él abrazado a su cintura,"^^xsd:string .
+:TV_Line_1224_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1224 ; :text "lamentando la pérdida del lecho de abajo,"^^xsd:string .
+:TV_Line_1225_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1225 ; :text "las obras de su padre y el desdichado matrimonio."^^xsd:string .
+:TV_Line_1226_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1226 ; :text "Cuando él lo ve, con un gemido sombrío entra"^^xsd:string .
+:TV_Line_1227_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1227 ; :text "hacia él y, gritando de dolor, lo llama:"^^xsd:string .
+:TV_Line_1228_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1228 ; :text "Oh infeliz, qué obra has realizado; qué"^^xsd:string .
+:TV_Line_1229_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1229 ; :text "pensamiento tuviste; en qué desastre te destruiste?"^^xsd:string .
+:TV_Line_1230_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1230 ; :text "Sal, hijo; te lo suplico como suplicante."^^xsd:string .
+:TV_Line_1231_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1231 ; :text "Pero el muchacho, mirándolo con ojos salvajes,"^^xsd:string .
+:TV_Line_1232_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1232 ; :text "le escupió en el rostro y, sin responder nada, de la espada"^^xsd:string .
+:TV_Line_1233_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1233 ; :text "sacó los dos colmillos; pero erró al padre"^^xsd:string .
+:TV_Line_1234_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1234 ; :text "cuando este escapó de su acometida; entonces el desdichado,"^^xsd:string .
+:TV_Line_1235_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1235 ; :text "enfurecido consigo mismo, tal como estaba, inclinándose"^^xsd:string .
+:TV_Line_1236_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1236 ; :text "clavó la hoja en medio de su costado;"^^xsd:string .
+:TV_Line_1237_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1237 ; :text "y aún consciente, con brazo húmedo, abraza a la doncella;"^^xsd:string .
+:TV_Line_1238_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1238 ; :text "y jadeando arroja una aguda corriente"^^xsd:string .
+:TV_Line_1239_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1239 ; :text "de gotas sangrientas sobre su mejilla blanca."^^xsd:string .
+:TV_Line_1240_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1240 ; :text "Yace muerto junto a la muerta, habiendo obtenido, desdichado,"^^xsd:string .
+:TV_Line_1241_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1241 ; :text "sus ritos nupciales en las moradas de Hades,"^^xsd:string .
+:TV_Line_1242_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1242 ; :text "mostrando entre los hombres que la falta de juicio"^^xsd:string .
+:TV_Line_1243_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1243 ; :text "es el mayor mal que se adhiere a un hombre."^^xsd:string .

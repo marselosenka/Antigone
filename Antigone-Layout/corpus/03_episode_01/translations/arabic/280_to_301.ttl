@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-arabic a owl:Ontology .
+# Arabic translation variants for 280_to_301.ttl
+
+:TV_Line_280_AR a :TranslationVariant ;
+:text "كفّ عن الكلام قبل أن تملأني أنا أيضًا غضبًا،"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_AR a :TranslationVariant ;
+:text "لئلا تُكتشف أحمق وشيخًا معًا."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_AR a :TranslationVariant ;
+:text "فإنك تقول ما لا يُحتمل حين تقول إن الأرواح الإلهية"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_AR a :TranslationVariant ;
+:text "لها عناية بشأن هذه الجثة."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_AR a :TranslationVariant ;
+:text "أكانوا يكرمونه فوق الحد كفاعل خير"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_AR a :TranslationVariant ;
+:text "فدفنوه، هو الذي جاء ليحرق المعابد"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_AR a :TranslationVariant ;
+:text "ذات الأعمدة المحيطة والقرابين"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_AR a :TranslationVariant ;
+:text "وأرض أولئك وقوانينهم، مشتتًا؟"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_AR a :TranslationVariant ;
+:text "أم ترى الآلهة يكرمون الأشرار؟"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_AR a :TranslationVariant ;
+:text "ليس الأمر كذلك؛ بل هذه الأمور منذ زمن أيضًا"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_AR a :TranslationVariant ;
+:text "كان رجال المدينة، وهم بالكاد يحتملون، يهمهمون عليّ"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_AR a :TranslationVariant ;
+:text "سرًّا، يهزون الرؤوس، ولم يكونوا تحت النير"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_AR a :TranslationVariant ;
+:text "يمسكون أعناقهم بعدل، لكي يحبوني."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_AR a :TranslationVariant ;
+:text "ومن هذا أعرف هؤلاء جيدًا،"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_AR a :TranslationVariant ;
+:text "أنهم أُغووا بالأجور فعملوا هذه الأمور."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_AR a :TranslationVariant ;
+:text "فلا شيء نبت للناس من العرف النقدي"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_AR a :TranslationVariant ;
+:text "شرير مثل الفضة؛ فهي تخرب المدن،"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_AR a :TranslationVariant ;
+:text "وهي تخرج الرجال من البيوت،"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_AR a :TranslationVariant ;
+:text "وهي تعلّم وتبدل عقول البشر"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_AR a :TranslationVariant ;
+:text "الصالحة لتقف عند الأعمال القبيحة،"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_AR a :TranslationVariant ;
+:text "وأظهرت للناس أن يملكوا المكر"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_AR a :TranslationVariant ;
+:text "وأن يعرفوا فجور كل عمل."^^xsd:string ;
+:relatedTo :Line_301 .

@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-indonesian a owl:Ontology .
+# Indonesian translation variants for 536_to_562.ttl
+
+:TV_Line_536_ID a :TranslationVariant ;
+:text "Aku telah melakukan perbuatan itu, jika dia ini menyetujuinya,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_ID a :TranslationVariant ;
+:text "dan aku ikut mengambil bagian serta memikul tuduhannya."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_ID a :TranslationVariant ;
+:text "Tetapi keadilan tidak akan membiarkanmu melakukan itu, sebab"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_ID a :TranslationVariant ;
+:text "engkau tidak mau, dan aku tidak menjadikanmu sekutu."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_ID a :TranslationVariant ;
+:text "Tetapi dalam bencana-bencanamu aku tidak malu"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_ID a :TranslationVariant ;
+:text "menjadikan diriku teman seperahu dalam penderitaan itu."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_ID a :TranslationVariant ;
+:text "Hades dan mereka yang di bawah tahu siapa pemilik perbuatan itu;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_ID a :TranslationVariant ;
+:text "dan aku tidak menyukai sahabat yang mencintai hanya dengan kata-kata."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_ID a :TranslationVariant ;
+:text "Jangan, saudariku, jangan hina aku dengan tidak"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_ID a :TranslationVariant ;
+:text "mati bersamamu dan menyucikan yang mati."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_ID a :TranslationVariant ;
+:text "Jangan mati bersama denganku, dan jangan jadikan milikmu"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_ID a :TranslationVariant ;
+:text "hal-hal yang tidak kausentuh. Cukuplah aku yang mati."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_ID a :TranslationVariant ;
+:text "Dan hidup apakah yang tercinta bagiku jika ditinggalkan tanpamu?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_ID a :TranslationVariant ;
+:text "Tanyalah Kreon; sebab engkau penjaga orang ini."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_ID a :TranslationVariant ;
+:text "Mengapa engkau menyakitiku dengan hal-hal ini, tanpa mendapat manfaat?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_ID a :TranslationVariant ;
+:text "Jika aku tertawa padamu, sungguh aku tertawa sambil menderita."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_ID a :TranslationVariant ;
+:text "Lalu bagaimana lagi sekarang aku masih dapat menolongmu?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_ID a :TranslationVariant ;
+:text "Selamatkan dirimu sendiri; aku tidak iri jika engkau lolos."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_ID a :TranslationVariant ;
+:text "Aduhai aku yang malang, apakah aku kehilangan bagian dalam nasib matimu?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_ID a :TranslationVariant ;
+:text "Sebab engkau memilih hidup, sedangkan aku memilih mati."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_ID a :TranslationVariant ;
+:text "Tetapi bukan karena perkataan-perkataanku yang tak terucapkan."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_ID a :TranslationVariant ;
+:text "Bagimu engkau tampak berpikir baik bagi mereka, bagiku bagi yang lain."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_ID a :TranslationVariant ;
+:text "Namun sungguh kesalahan kita berdua sama."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_ID a :TranslationVariant ;
+:text "Tabahlah; engkau hidup, tetapi jiwaku sejak lama"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_ID a :TranslationVariant ;
+:text "telah mati, agar dapat menolong mereka yang mati."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_ID a :TranslationVariant ;
+:text "Aku berkata bahwa dari dua gadis ini, yang satu baru saja"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_ID a :TranslationVariant ;
+:text "tampak tanpa akal, yang lain sejak pertama ia lahir."^^xsd:string ;
+:relatedTo :Line_562 .

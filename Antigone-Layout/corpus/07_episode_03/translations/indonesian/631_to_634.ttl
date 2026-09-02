@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-indonesian a owl:Ontology .
+# Indonesian translation variants for 631_to_634.ttl
+
+:TV_Line_631_ID a :TranslationVariant ;
+:text "Segera kita akan tahu, lebih daripada para peramal."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_ID a :TranslationVariant ;
+:text "Wahai anak, apakah karena mendengar keputusan akhir"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_ID a :TranslationVariant ;
+:text "tentang calon mempelai, engkau datang marah kepada ayahmu?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_ID a :TranslationVariant ;
+:text "Ataukah bagimu kami tetap sahabat di mana pun, dalam tindakan kami?"^^xsd:string ;
+:relatedTo :Line_634 .

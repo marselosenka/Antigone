@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-italian a owl:Ontology .
+# Italian translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_IT a :TranslationVariant ;
+:text "O tutti cittadini, ho percepito le parole"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_IT a :TranslationVariant ;
+:text "mentre camminavo verso l’uscita, per giungere"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_IT a :TranslationVariant ;
+:text "alla dea Pallade come supplice di preghiere."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_IT a :TranslationVariant ;
+:text "E stavo appunto sciogliendo i chiavistelli della porta aperta"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_IT a :TranslationVariant ;
+:text "quando un suono di male domestico"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_IT a :TranslationVariant ;
+:text "mi colpisce attraverso le orecchie; e all’indietro mi piego"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_IT a :TranslationVariant ;
+:text "per il timore tra le serve e rimango attonita."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_IT a :TranslationVariant ;
+:text "Ma quale fosse il racconto, ditelo di nuovo;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_IT a :TranslationVariant ;
+:text "infatti lo ascolterò, non essendo inesperta di mali."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_IT a :TranslationVariant ;
+:text "Io, cara signora, anche essendo stato presente parlerò,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_IT a :TranslationVariant ;
+:text "e non tralascerò nessuna parola della verità;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_IT a :TranslationVariant ;
+:text "perché dovrei addolcirti in cose nelle quali poi"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_IT a :TranslationVariant ;
+:text "appariremmo falsi? Sempre retta è la verità."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_IT a :TranslationVariant ;
+:text "Io seguii come guida dei piedi il tuo sposo"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_IT a :TranslationVariant ;
+:text "fino all’estremità della pianura, dove giaceva ancora"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_IT a :TranslationVariant ;
+:text "il corpo spietatamente straziato dai cani di Polinice;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_IT a :TranslationVariant ;
+:text "e per lui, dopo aver pregato la dea delle vie"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_IT a :TranslationVariant ;
+:text "e Plutone di trattenere benevole le ire,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_IT a :TranslationVariant ;
+:text "lavandolo con lavacro puro, con rami appena strappati"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_IT a :TranslationVariant ;
+:text "bruciammo insieme ciò che era rimasto,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_IT a :TranslationVariant ;
+:text "e, ammassata una tomba dalla cima diritta con terra patria,"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_IT a :TranslationVariant ;
+:text "di nuovo verso la camera nuziale lastricata di pietre della fanciulla,"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_IT a :TranslationVariant ;
+:text "cava dimora di Ade, entrammo."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_IT a :TranslationVariant ;
+:text "Da lontano qualcuno ode una voce di alti lamenti"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_IT a :TranslationVariant ;
+:text "intorno alla stanza priva di onori funebri,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_IT a :TranslationVariant ;
+:text "e, venuto, la segnala al signore Creonte;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_IT a :TranslationVariant ;
+:text "e a lui, mentre avanzava sempre più vicino,"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_IT a :TranslationVariant ;
+:text "giungevano intorno suoni indistinti di misero grido; e, gemendo, emette"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_IT a :TranslationVariant ;
+:text "una parola degna di funesto lamento: O misero me,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_IT a :TranslationVariant ;
+:text "sono forse un profeta? Sto forse percorrendo"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_IT a :TranslationVariant ;
+:text "la più sventurata strada delle vie passate?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_IT a :TranslationVariant ;
+:text "Il suono di mio figlio mi lusinga. Ma, servi,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_IT a :TranslationVariant ;
+:text "andate più vicino, rapidi, e stando presso la tomba"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_IT a :TranslationVariant ;
+:text "guardate, entrando attraverso la giuntura della massa di terra"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_IT a :TranslationVariant ;
+:text "strappata dalle pietre fino alla bocca stessa, se la voce di Emone"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_IT a :TranslationVariant ;
+:text "io comprendo, oppure sono ingannato dagli dèi."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_IT a :TranslationVariant ;
+:text "Queste cose, secondo gli ordini del signore scoraggiato,"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_IT a :TranslationVariant ;
+:text "guardavamo; e nell’ultima camera tombale"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_IT a :TranslationVariant ;
+:text "vedemmo lei sospesa per il collo,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_IT a :TranslationVariant ;
+:text "appesa con nodo di lino della sua veste,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_IT a :TranslationVariant ;
+:text "e lui abbracciato intorno alla vita, caduto vicino,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_IT a :TranslationVariant ;
+:text "lamentando la rovina del letto di sotto"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_IT a :TranslationVariant ;
+:text "e le opere del padre e lo sventurato talamo."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_IT a :TranslationVariant ;
+:text "E quando egli lo vede, dopo un cupo gemito, dentro"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_IT a :TranslationVariant ;
+:text "avanza verso di lui e, gridando alto, chiama:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_IT a :TranslationVariant ;
+:text "O infelice, quale opera hai compiuto? Quale"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_IT a :TranslationVariant ;
+:text "mente avesti? In quale rovina sei stato distrutto?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_IT a :TranslationVariant ;
+:text "Esci, figlio, ti supplico come supplice."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_IT a :TranslationVariant ;
+:text "Ma il figlio, guardandolo con occhi selvaggi,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_IT a :TranslationVariant ;
+:text "gli sputò in faccia e, senza rispondere nulla, della spada"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_IT a :TranslationVariant ;
+:text "trae i doppi denti; ma, mentre si slanciava,"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_IT a :TranslationVariant ;
+:text "fallì il padre nella sua fuga; allora lo sventurato,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_IT a :TranslationVariant ;
+:text "adirato con sé stesso, così com’era, piegandosi sopra,"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_IT a :TranslationVariant ;
+:text "piantò nel mezzo dei fianchi la spada, e fino all’umido"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_IT a :TranslationVariant ;
+:text "gomito, ancora cosciente, si stringe alla fanciulla;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_IT a :TranslationVariant ;
+:text "e ansimando getta fuori un getto acuto"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_IT a :TranslationVariant ;
+:text "di gocce sanguigne sulla bianca guancia."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_IT a :TranslationVariant ;
+:text "Giace morto presso una morta, avendo ottenuto le nozze"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_IT a :TranslationVariant ;
+:text "compiute, misero, nelle case di Ade,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_IT a :TranslationVariant ;
+:text "mostrando fra gli uomini la mancanza di consiglio"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_IT a :TranslationVariant ;
+:text "quanto sia il massimo male che sta presso l’uomo."^^xsd:string ;
+:relatedTo :Line_1243 .

@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-indonesian a owl:Ontology .
+# Indonesian translation variants for 384_to_440.ttl
+
+:TV_Line_384_ID a :TranslationVariant ;
+:text "Inilah dia, perempuan yang telah melakukan perbuatan itu;"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_ID a :TranslationVariant ;
+:text "kami menangkapnya sedang mengubur. Tetapi di mana Kreon?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_ID a :TranslationVariant ;
+:text "Ia ini keluar kembali dari rumah pada saat yang tepat."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_ID a :TranslationVariant ;
+:text "Ada apa? Kepada peristiwa apa aku maju tepat waktunya?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_ID a :TranslationVariant ;
+:text "Tuan, bagi manusia tidak ada yang boleh disumpahi sebagai mustahil."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_ID a :TranslationVariant ;
+:text "Sebab pikiran kemudian membuktikan pendapat sebagai dusta; karena"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_ID a :TranslationVariant ;
+:text "aku pernah bersumpah bahwa lama sekali aku takkan datang kemari,"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_ID a :TranslationVariant ;
+:text "karena ancaman-ancamanmu yang saat itu menghantamku seperti badai."^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_ID a :TranslationVariant ;
+:text "Tetapi sukacita yang datang di luar dan melampaui harapan"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_ID a :TranslationVariant ;
+:text "tampaknya tak sebanding panjangnya dengan kesenangan lain,"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_ID a :TranslationVariant ;
+:text "maka aku datang, meskipun dengan sumpah aku telah bersumpah tidak,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_ID a :TranslationVariant ;
+:text "membawa gadis ini, yang tertangkap sedang menghias makam."^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_ID a :TranslationVariant ;
+:text "Undian tidak meloncat-loncat di sini;"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_ID a :TranslationVariant ;
+:text "tetapi keberuntungan ini milikku, bukan milik orang lain."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_ID a :TranslationVariant ;
+:text "Dan sekarang, tuan, ambillah sendiri dia ini, seperti yang kaukehendaki,"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_ID a :TranslationVariant ;
+:text "lalu adili dan periksa; sedangkan aku bebas"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_ID a :TranslationVariant ;
+:text "dan berhak dilepaskan dari bencana-bencana ini."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_ID a :TranslationVariant ;
+:text "Engkau membawa dia ini dengan cara apa, dan dari mana menangkapnya?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_ID a :TranslationVariant ;
+:text "Dia ini mengubur lelaki itu; engkau tahu semuanya."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_ID a :TranslationVariant ;
+:text "Apakah engkau sungguh mengerti dan mengatakan dengan benar apa yang kaukatakan?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_ID a :TranslationVariant ;
+:text "Aku melihat dia ini mengubur mayat yang engkau"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_ID a :TranslationVariant ;
+:text "larang itu. Apakah aku berbicara jelas dan terang?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_ID a :TranslationVariant ;
+:text "Dan bagaimana ia terlihat dan tertangkap basah?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_ID a :TranslationVariant ;
+:text "Perkaranya demikian. Ketika kami tiba,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_ID a :TranslationVariant ;
+:text "setelah diancam olehmu dengan hal-hal mengerikan itu,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_ID a :TranslationVariant ;
+:text "kami menyapu semua debu yang menutupi"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_ID a :TranslationVariant ;
+:text "mayat itu, dan menelanjangi baik-baik tubuh yang membusuk;"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_ID a :TranslationVariant ;
+:text "lalu kami duduk di puncak-puncak bukit, terlindung dari angin,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_ID a :TranslationVariant ;
+:text "menghindari agar bau darinya tidak mengenai kami,"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_ID a :TranslationVariant ;
+:text "satu orang menggerakkan orang lain agar tetap terjaga dengan teriakan"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_ID a :TranslationVariant ;
+:text "buruk, jika ada yang mengabaikan pekerjaan ini."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_ID a :TranslationVariant ;
+:text "Hal-hal ini berlangsung selama waktu begitu lama, sampai di tengah"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_ID a :TranslationVariant ;
+:text "langit berdirilah lingkaran matahari yang terang"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_ID a :TranslationVariant ;
+:text "dan panasnya membakar; lalu tiba-tiba dari bumi"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_ID a :TranslationVariant ;
+:text "angin puyuh mengangkat derita langit yang menghantam,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_ID a :TranslationVariant ;
+:text "memenuhi dataran, menyiksa seluruh dedaunan"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_ID a :TranslationVariant ;
+:text "hutan dataran, dan udara besar dipenuhi olehnya;"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_ID a :TranslationVariant ;
+:text "kami menutup mata dan menahan penyakit ilahi itu."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_ID a :TranslationVariant ;
+:text "Dan setelah itu berlalu dalam waktu lama,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_ID a :TranslationVariant ;
+:text "gadis itu terlihat, dan ia menjerit keras dengan suara tajam"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_ID a :TranslationVariant ;
+:text "burung yang pahit, seperti ketika ia melihat ranjang kosong"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_ID a :TranslationVariant ;
+:text "sarang anak-anaknya yang yatim."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_ID a :TranslationVariant ;
+:text "Demikian pula dia ini, ketika melihat mayat itu telanjang,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_ID a :TranslationVariant ;
+:text "ia meratap keras dengan ratapan, dan mengucapkan kutuk-kutuk buruk"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_ID a :TranslationVariant ;
+:text "kepada orang-orang yang telah melakukan perbuatan itu."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_ID a :TranslationVariant ;
+:text "Dan segera dengan tangannya ia membawa debu kering,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_ID a :TranslationVariant ;
+:text "dan dari kendi perunggu yang dipukul indah, terangkat tinggi,"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_ID a :TranslationVariant ;
+:text "ia memahkotai mayat itu dengan tiga kali curahan persembahan."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_ID a :TranslationVariant ;
+:text "Dan ketika kami melihatnya, kami berlari,"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_ID a :TranslationVariant ;
+:text "dan segera bersama-sama menangkapnya, sama sekali tidak gentar,"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_ID a :TranslationVariant ;
+:text "dan kami memeriksa perbuatannya yang dahulu maupun yang sekarang;"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_ID a :TranslationVariant ;
+:text "ia tidak berdiri menyangkal apa pun,"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_ID a :TranslationVariant ;
+:text "sekaligus menyenangkan bagiku dan sekaligus menyakitkan."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_ID a :TranslationVariant ;
+:text "Sebab bahwa aku sendiri telah lolos dari bencana"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_ID a :TranslationVariant ;
+:text "adalah hal paling menyenangkan, tetapi membawa orang-orang tercinta ke dalam bencana"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_ID a :TranslationVariant ;
+:text "menyakitkan; namun semua hal ini telah menjadi lebih kecil"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_ID a :TranslationVariant ;
+:text "bagiku dibanding keselamatanku sendiri."^^xsd:string ;
+:relatedTo :Line_440 .

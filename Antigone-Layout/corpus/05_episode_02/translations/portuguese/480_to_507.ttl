@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-portuguese a owl:Ontology .
+# Portuguese translation variants for 480_to_507.ttl
+
+:TV_Line_480_PT a :TranslationVariant ;
+:text "Esta sabia então cometer insolência,"^^xsd:string ;
+:relatedTo :Line_480 .
+
+:TV_Line_481_PT a :TranslationVariant ;
+:text "transgredindo as leis postas diante dela;"^^xsd:string ;
+:relatedTo :Line_481 .
+
+:TV_Line_482_PT a :TranslationVariant ;
+:text "e a insolência, depois de ter feito, é esta segunda:"^^xsd:string ;
+:relatedTo :Line_482 .
+
+:TV_Line_483_PT a :TranslationVariant ;
+:text "vangloriar-se disso e rir depois de ter feito."^^xsd:string ;
+:relatedTo :Line_483 .
+
+:TV_Line_484_PT a :TranslationVariant ;
+:text "Na verdade, agora eu não sou homem, ela é homem,"^^xsd:string ;
+:relatedTo :Line_484 .
+
+:TV_Line_485_PT a :TranslationVariant ;
+:text "se estes poderes ficarem para ela sem pena."^^xsd:string ;
+:relatedTo :Line_485 .
+
+:TV_Line_486_PT a :TranslationVariant ;
+:text "Mas quer seja filha de irmã, quer mais próxima pelo sangue"^^xsd:string ;
+:relatedTo :Line_486 .
+
+:TV_Line_487_PT a :TranslationVariant ;
+:text "do que todo o Zeus protetor da casa para nós,"^^xsd:string ;
+:relatedTo :Line_487 .
+
+:TV_Line_488_PT a :TranslationVariant ;
+:text "ela mesma e a consanguínea não escaparão"^^xsd:string ;
+:relatedTo :Line_488 .
+
+:TV_Line_489_PT a :TranslationVariant ;
+:text "da pior sorte; pois também aquela igualmente"^^xsd:string ;
+:relatedTo :Line_489 .
+
+:TV_Line_490_PT a :TranslationVariant ;
+:text "acuso de ter planejado este sepultamento."^^xsd:string ;
+:relatedTo :Line_490 .
+
+:TV_Line_491_PT a :TranslationVariant ;
+:text "Chamem-na também; pois dentro acabei de vê-la"^^xsd:string ;
+:relatedTo :Line_491 .
+
+:TV_Line_492_PT a :TranslationVariant ;
+:text "furiosa, sem domínio da mente."^^xsd:string ;
+:relatedTo :Line_492 .
+
+:TV_Line_493_PT a :TranslationVariant ;
+:text "O ânimo costuma ser apanhado antes, como ladrão,"^^xsd:string ;
+:relatedTo :Line_493 .
+
+:TV_Line_494_PT a :TranslationVariant ;
+:text "dos que nada reto tramam no escuro;"^^xsd:string ;
+:relatedTo :Line_494 .
+
+:TV_Line_495_PT a :TranslationVariant ;
+:text "e odeio, contudo, também quando alguém, em males"^^xsd:string ;
+:relatedTo :Line_495 .
+
+:TV_Line_496_PT a :TranslationVariant ;
+:text "apanhado, depois quer embelezar isso."^^xsd:string ;
+:relatedTo :Line_496 .
+
+:TV_Line_497_PT a :TranslationVariant ;
+:text "Queres algo maior do que matar-me, tendo-me tomado?"^^xsd:string ;
+:relatedTo :Line_497 .
+
+:TV_Line_498_PT a :TranslationVariant ;
+:text "Eu, nada; tendo isso, tenho tudo."^^xsd:string ;
+:relatedTo :Line_498 .
+
+:TV_Line_499_PT a :TranslationVariant ;
+:text "Por que então demoras? Pois para mim, de tuas palavras,"^^xsd:string ;
+:relatedTo :Line_499 .
+
+:TV_Line_500_PT a :TranslationVariant ;
+:text "nada é agradável, nem jamais seja agradável;"^^xsd:string ;
+:relatedTo :Line_500 .
+
+:TV_Line_501_PT a :TranslationVariant ;
+:text "assim também para ti as minhas nasceram desagradáveis."^^xsd:string ;
+:relatedTo :Line_501 .
+
+:TV_Line_502_PT a :TranslationVariant ;
+:text "E contudo, de onde eu poderia obter glória mais gloriosa"^^xsd:string ;
+:relatedTo :Line_502 .
+
+:TV_Line_503_PT a :TranslationVariant ;
+:text "do que pondo em sepultura meu irmão de mesmo sangue?"^^xsd:string ;
+:relatedTo :Line_503 .
+
+:TV_Line_504_PT a :TranslationVariant ;
+:text "Todos estes diriam que isto lhes agrada,"^^xsd:string ;
+:relatedTo :Line_504 .
+
+:TV_Line_505_PT a :TranslationVariant ;
+:text "se o medo não lhes fechasse a língua."^^xsd:string ;
+:relatedTo :Line_505 .
+
+:TV_Line_506_PT a :TranslationVariant ;
+:text "Mas a tirania é feliz em muitas outras coisas,"^^xsd:string ;
+:relatedTo :Line_506 .
+
+:TV_Line_507_PT a :TranslationVariant ;
+:text "e lhe é permitido fazer e dizer o que quer."^^xsd:string ;
+:relatedTo :Line_507 .

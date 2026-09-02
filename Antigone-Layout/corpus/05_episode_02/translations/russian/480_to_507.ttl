@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-russian a owl:Ontology .
+# Russian translation variants for 480_to_507.ttl
+
+:TV_Line_480_RU a :TranslationVariant ;
+:text "Она уже тогда умела дерзить,"^^xsd:string ;
+:relatedTo :Line_480 .
+
+:TV_Line_481_RU a :TranslationVariant ;
+:text "преступая установленные законы;"^^xsd:string ;
+:relatedTo :Line_481 .
+
+:TV_Line_482_RU a :TranslationVariant ;
+:text "а вот вторая дерзость, после того как сделала,"^^xsd:string ;
+:relatedTo :Line_482 .
+
+:TV_Line_483_RU a :TranslationVariant ;
+:text "хвастаться этим и смеяться, сделав."^^xsd:string ;
+:relatedTo :Line_483 .
+
+:TV_Line_484_RU a :TranslationVariant ;
+:text "Теперь уж я не мужчина, а она мужчина,"^^xsd:string ;
+:relatedTo :Line_484 .
+
+:TV_Line_485_RU a :TranslationVariant ;
+:text "если эта власть ляжет на нее безнаказанной."^^xsd:string ;
+:relatedTo :Line_485 .
+
+:TV_Line_486_RU a :TranslationVariant ;
+:text "Но будь она дочерью сестры или еще более кровной"^^xsd:string ;
+:relatedTo :Line_486 .
+
+:TV_Line_487_RU a :TranslationVariant ;
+:text "из всего нашего Зевса оградного,"^^xsd:string ;
+:relatedTo :Line_487 .
+
+:TV_Line_488_RU a :TranslationVariant ;
+:text "и она сама, и ее единокровная не избегнут"^^xsd:string ;
+:relatedTo :Line_488 .
+
+:TV_Line_489_RU a :TranslationVariant ;
+:text "самой злой смерти; ведь и ту равно"^^xsd:string ;
+:relatedTo :Line_489 .
+
+:TV_Line_490_RU a :TranslationVariant ;
+:text "я обвиняю в замысле этого погребения."^^xsd:string ;
+:relatedTo :Line_490 .
+
+:TV_Line_491_RU a :TranslationVariant ;
+:text "И зовите ее; ведь внутри я видел недавно"^^xsd:string ;
+:relatedTo :Line_491 .
+
+:TV_Line_492_RU a :TranslationVariant ;
+:text "ее безумствующей и не владеющей разумом."^^xsd:string ;
+:relatedTo :Line_492 .
+
+:TV_Line_493_RU a :TranslationVariant ;
+:text "А дух обычно заранее выдает себя как пойманный вор"^^xsd:string ;
+:relatedTo :Line_493 .
+
+:TV_Line_494_RU a :TranslationVariant ;
+:text "у тех, кто ничего правильного во мраке не замышляет."^^xsd:string ;
+:relatedTo :Line_494 .
+
+:TV_Line_495_RU a :TranslationVariant ;
+:text "Ненавижу, однако, и когда кто-то в злых делах"^^xsd:string ;
+:relatedTo :Line_495 .
+
+:TV_Line_496_RU a :TranslationVariant ;
+:text "пойманный затем хочет это украшать."^^xsd:string ;
+:relatedTo :Line_496 .
+
+:TV_Line_497_RU a :TranslationVariant ;
+:text "Хочешь ли ты чего-нибудь большего, чем схватив меня убить?"^^xsd:string ;
+:relatedTo :Line_497 .
+
+:TV_Line_498_RU a :TranslationVariant ;
+:text "Я ничего; имея это, я имею все."^^xsd:string ;
+:relatedTo :Line_498 .
+
+:TV_Line_499_RU a :TranslationVariant ;
+:text "Чего же ты медлишь? Ведь мне из твоих слов"^^xsd:string ;
+:relatedTo :Line_499 .
+
+:TV_Line_500_RU a :TranslationVariant ;
+:text "ничто не приятно и никогда не станет приятно;"^^xsd:string ;
+:relatedTo :Line_500 .
+
+:TV_Line_501_RU a :TranslationVariant ;
+:text "так и мои тебе по природе неугодны."^^xsd:string ;
+:relatedTo :Line_501 .
+
+:TV_Line_502_RU a :TranslationVariant ;
+:text "И все же откуда могла бы я получить более славную славу,"^^xsd:string ;
+:relatedTo :Line_502 .
+
+:TV_Line_503_RU a :TranslationVariant ;
+:text "чем кладя родного брата в могилу?"^^xsd:string ;
+:relatedTo :Line_503 .
+
+:TV_Line_504_RU a :TranslationVariant ;
+:text "Все эти сказали бы, что это им приятно,"^^xsd:string ;
+:relatedTo :Line_504 .
+
+:TV_Line_505_RU a :TranslationVariant ;
+:text "если бы страх не запирал язык."^^xsd:string ;
+:relatedTo :Line_505 .
+
+:TV_Line_506_RU a :TranslationVariant ;
+:text "Но тирания счастлива во многом другом,"^^xsd:string ;
+:relatedTo :Line_506 .
+
+:TV_Line_507_RU a :TranslationVariant ;
+:text "и ей позволено делать и говорить, что хочет."^^xsd:string ;
+:relatedTo :Line_507 .

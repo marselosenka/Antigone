@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-japanese a owl:Ontology .
+# Japanese translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_JA a :TranslationVariant ;
+:text "カドモスとアンピオンの家々の隣人たちよ、"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_JA a :TranslationVariant ;
+:text "人の生涯について、いかなる状態に立っていれば"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_JA a :TranslationVariant ;
+:text "私がいつか誉め、あるいは責められる、そんなものはない。"^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_JA a :TranslationVariant ;
+:text "運命は立ち上がらせ、また運命は倒すのだから、"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_JA a :TranslationVariant ;
+:text "幸運な者も不幸な者も、つねに。"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_JA a :TranslationVariant ;
+:text "そして死すべき者に定まっていることを知る予言者はいない。"^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_JA a :TranslationVariant ;
+:text "クレオンはかつて、私には羨むべき人であった、"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_JA a :TranslationVariant ;
+:text "敵からこのカドモスの地を救い、"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_JA a :TranslationVariant ;
+:text "国の完全な単独支配を得て、"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_JA a :TranslationVariant ;
+:text "それをまっすぐ治め、高貴な子らの種で栄えていたのだから。"^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_JA a :TranslationVariant ;
+:text "だが今はすべてが失われた。快楽を"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_JA a :TranslationVariant ;
+:text "人々が手放す時、私はその者を"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_JA a :TranslationVariant ;
+:text "生きているとはしない、むしろ息ある死人と思う。"^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_JA a :TranslationVariant ;
+:text "望むなら、家で大いに富め、"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_JA a :TranslationVariant ;
+:text "また僭主の姿を持って生きよ。だがもし"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_JA a :TranslationVariant ;
+:text "それらを喜ぶことがなければ、他のものを私は煙の影ほどにも"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_JA a :TranslationVariant ;
+:text "人から買いはしない、快楽に比べれば。"^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_JA a :TranslationVariant ;
+:text "では、王家のどんな重荷を携えて来たのか。"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_JA a :TranslationVariant ;
+:text "彼らは死んだ。そして生きている者たちが、その死の原因だ。"^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_JA a :TranslationVariant ;
+:text "誰が殺したのか。誰が倒れているのか。言え。"^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_JA a :TranslationVariant ;
+:text "ハイモンは滅びた。自らの手で血に染まっている。"^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_JA a :TranslationVariant ;
+:text "父の手によってか、それとも自分自身の手によってか。"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_JA a :TranslationVariant ;
+:text "自ら自分に向けて、殺害のため父に怒って。"^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_JA a :TranslationVariant ;
+:text "予言者よ、あなたは何と正しくその言葉を成し遂げたことか。"^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_JA a :TranslationVariant ;
+:text "事がこのようである以上、あとは考えることができる。"^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_JA a :TranslationVariant ;
+:text "そして今、哀れなエウリュディケを近くに見る、"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_JA a :TranslationVariant ;
+:text "クレオンの妻を。館から"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_JA a :TranslationVariant ;
+:text "息子のことを聞いてか、それとも偶然か、来ている。"^^xsd:string ;
+:relatedTo :Line_1182 .

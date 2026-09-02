@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-hindi a owl:Ontology .
+# Hindi translation variants for 20_to_41.ttl
+
+:TV_Line_020_HI a :TranslationVariant ;
+:text "तो बात क्या है? क्योंकि तू कोई गहरी बात प्रकट कर रही है।"^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_HI a :TranslationVariant ;
+:text "क्या क्रेयोन ने हमारे दोनों भाइयों में से एक को"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_HI a :TranslationVariant ;
+:text "कब्र का सम्मान देकर और दूसरे का अपमान करके नहीं रखा?"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_HI a :TranslationVariant ;
+:text "एतेओक्लेस को, जैसा लोग कहते हैं, न्याय के साथ"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_HI a :TranslationVariant ;
+:text "और उचित रीति और विधान का प्रयोग करके, धरती के नीचे"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_HI a :TranslationVariant ;
+:text "उसने छिपाया, नीचे के मृतकों में सम्मानित मृतक बनाकर;"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_HI a :TranslationVariant ;
+:text "पर दुःख से मरे पोलिनाइकेस के शव के विषय में"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_HI a :TranslationVariant ;
+:text "कहा जाता है कि नागरिकों में यह घोषणा कर दी गई है कि कोई"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_HI a :TranslationVariant ;
+:text "उसे कब्र से न ढके, न कोई उसके लिए विलाप करे,"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_HI a :TranslationVariant ;
+:text "बल्कि उसे बिना आँसू, बिना दफ़न छोड़ा जाए, पक्षियों के लिए मधुर"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_HI a :TranslationVariant ;
+:text "खज़ाना, जो भोजन के सुख के लिए उसे देखेंगे।"^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_HI a :TranslationVariant ;
+:text "ऐसी बातें कहते हैं कि श्रेष्ठ क्रेयोन ने तेरे लिए"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_HI a :TranslationVariant ;
+:text "और मेरे लिए भी—क्योंकि मैं मुझे भी कहती हूँ—घोषित कर रखी हैं,"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_HI a :TranslationVariant ;
+:text "और वह यहाँ आने वाला है, इन बातों को न जानने वालों के लिए"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_HI a :TranslationVariant ;
+:text "स्पष्ट रूप से पहले ही घोषित करने, और इस काम को"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_HI a :TranslationVariant ;
+:text "तुच्छ न मानने; बल्कि जो इनमें से कुछ करेगा,"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_HI a :TranslationVariant ;
+:text "उसके लिए नगर में सार्वजनिक पत्थरमार मृत्यु रखी है।"^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_HI a :TranslationVariant ;
+:text "ये बातें तेरे सामने ऐसी ही हैं; और शीघ्र दिखा देगी"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_HI a :TranslationVariant ;
+:text "कि तू कुलीन जन्मी है या श्रेष्ठों की बुरी संतान।"^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_HI a :TranslationVariant ;
+:text "पर, हे दुखिया, यदि बातें ऐसी हैं, तो मैं"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_HI a :TranslationVariant ;
+:text "क्या ढीला करके या बाँधकर इसमें और क्या जोड़ सकती हूँ?"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_HI a :TranslationVariant ;
+:text "सोच कि क्या तू साथ कष्ट उठाएगी और साथ काम करेगी।"^^xsd:string ;
+:relatedTo :Line_041 .

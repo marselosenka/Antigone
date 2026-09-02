@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-arabic a owl:Ontology .
+# Arabic translation variants for 20_to_41.ttl
+
+:TV_Line_020_AR a :TranslationVariant ;
+:text "وما الأمر؟ فإنك تُظهرين كلمةً مضطربة."^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_AR a :TranslationVariant ;
+:text "أليس كريون قد جعل لأخوينا نحن الاثنين"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_AR a :TranslationVariant ;
+:text "دفنًا؛ فأكرم أحدهما وأهان الآخر؟"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_AR a :TranslationVariant ;
+:text "أما إتيوكليس، كما يقولون، فقد استعمل معه"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_AR a :TranslationVariant ;
+:text "حقًّا عادلًا وسنةً، وتحت الأرض"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_AR a :TranslationVariant ;
+:text "ستره، مكرمًا بين الموتى الذين في الأسفل؛"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_AR a :TranslationVariant ;
+:text "أما جثة بولينيكيس، الذي مات بؤسًا،"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_AR a :TranslationVariant ;
+:text "فيقولون إنه أُعلن للمدنيين ألا"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_AR a :TranslationVariant ;
+:text "يغطيه أحد بدفن، ولا يندبه أحد،"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_AR a :TranslationVariant ;
+:text "بل يُترك بلا بكاء، بلا دفن، كنزًا حلوًا للطيور"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_AR a :TranslationVariant ;
+:text "تنظر إليه ابتغاء لذة الطعام."^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_AR a :TranslationVariant ;
+:text "مثل هذه الأمور يقولون إن كريون الصالح أعلنها"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_AR a :TranslationVariant ;
+:text "لك ولي، فأنا أقول: ولي أنا أيضًا،"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_AR a :TranslationVariant ;
+:text "وإنه آتٍ إلى هنا لكي يعلنها بوضوح"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_AR a :TranslationVariant ;
+:text "لمن لا يعلمون، ولا يعد الأمر"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_AR a :TranslationVariant ;
+:text "كأنه لا شيء، بل من يفعل شيئًا من هذه"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_AR a :TranslationVariant ;
+:text "فالموت أمامه رجمًا عامًا في المدينة."^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_AR a :TranslationVariant ;
+:text "هكذا هي هذه الأمور لك، وسترين سريعًا"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_AR a :TranslationVariant ;
+:text "أأنتِ مولودة كريمة، أم رديئة من أصل شريف."^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_AR a :TranslationVariant ;
+:text "وماذا، أيتها المسكينة، إن كانت هذه الأمور هكذا،"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_AR a :TranslationVariant ;
+:text "أأضيف أنا شيئًا أكثر، بحلٍّ أو بربط؟"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_AR a :TranslationVariant ;
+:text "انظري هل ستشاركينني التعب والعمل."^^xsd:string ;
+:relatedTo :Line_041 .

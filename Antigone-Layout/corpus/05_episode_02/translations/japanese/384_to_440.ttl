@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-japanese a owl:Ontology .
+# Japanese translation variants for 384_to_440.ttl
+
+:TV_Line_384_JA a :TranslationVariant ;
+:text "これがその女です、その行いを成し遂げた者です。"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_JA a :TranslationVariant ;
+:text "この女を、葬っているところで捕らえました。だがクレオンはどこに。"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_JA a :TranslationVariant ;
+:text "ここに、家から戻って、必要な時に通って来る。"^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_JA a :TranslationVariant ;
+:text "何事だ。どのような出来事に合わせて私は出て来たのか。"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_JA a :TranslationVariant ;
+:text "王よ、死すべき者には誓って拒めないものは何もありません。"^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_JA a :TranslationVariant ;
+:text "というのも後の思いは判断を偽るからです。なぜなら、"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_JA a :TranslationVariant ;
+:text "私はここへは容易には来ないだろうと誓っていたのです、"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_JA a :TranslationVariant ;
+:text "その時あなたの脅しで嵐に遭わされたので。"^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_JA a :TranslationVariant ;
+:text "しかし、期待の外にあり、望みを越えた喜びは、"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_JA a :TranslationVariant ;
+:text "他のどんな快楽にも長さにおいて似ないようです。"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_JA a :TranslationVariant ;
+:text "私は来ました、誓いによって拒んでいた者でありながら、"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_JA a :TranslationVariant ;
+:text "この娘を連れて。彼女は墓を"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_JA a :TranslationVariant ;
+:text "整えているところを捕らえられました。ここではくじは跳ねませんでした、"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_JA a :TranslationVariant ;
+:text "これは私の幸運で、他の者のものではありません。"^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_JA a :TranslationVariant ;
+:text "そして今、王よ、あなた自身が望むようにこの女を受け取り、"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_JA a :TranslationVariant ;
+:text "裁き、問いただしてください。私は自由であり、"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_JA a :TranslationVariant ;
+:text "これらの災いから解放されるのが正当です。"^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_JA a :TranslationVariant ;
+:text "お前はどのようにして、どこで捕らえてこの女を連れて来たのか。"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_JA a :TranslationVariant ;
+:text "この女がその男を葬っていました。あなたはすべて知っています。"^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_JA a :TranslationVariant ;
+:text "本当に理解して、言うことを正しく言っているのか。"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_JA a :TranslationVariant ;
+:text "あなたが禁じたあの死体を、この女が"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_JA a :TranslationVariant ;
+:text "葬っているのを見たのです。明白で明瞭に言っていますか。"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_JA a :TranslationVariant ;
+:text "それはどのように見られ、捕らえられたのか。"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_JA a :TranslationVariant ;
+:text "事はこのようでした。私たちが到着した時、"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_JA a :TranslationVariant ;
+:text "あなたからあの恐ろしい脅しを受けていたので、"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_JA a :TranslationVariant ;
+:text "死体を覆っていたすべての塵を掃き払い、"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_JA a :TranslationVariant ;
+:text "腐りかけた体をすっかり裸にして、"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_JA a :TranslationVariant ;
+:text "岩の頂から風下に座っていました、"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_JA a :TranslationVariant ;
+:text "その臭いが私たちに当たらないよう避けて。"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_JA a :TranslationVariant ;
+:text "男が男を目覚めさせるように、悪い"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_JA a :TranslationVariant ;
+:text "罵りで揺さぶっていました、誰かがこの苦労を怠るならばと。"^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_JA a :TranslationVariant ;
+:text "これらはかなり長い時の間そうでした、空の"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_JA a :TranslationVariant ;
+:text "真ん中に輝く太陽の輪が立ち、"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_JA a :TranslationVariant ;
+:text "熱が温めるまで。そしてその時、突然、大地から"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_JA a :TranslationVariant ;
+:text "旋風が上がり、天からの苦痛のような災いとなって、"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_JA a :TranslationVariant ;
+:text "平野を満たし、平地の森の"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_JA a :TranslationVariant ;
+:text "すべての葉を痛めつけ、大きな"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_JA a :TranslationVariant ;
+:text "空も満たされました。私たちは目を閉じ、神からの病を受けていました。"^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_JA a :TranslationVariant ;
+:text "そしてこれが長い時間の後に去ると、"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_JA a :TranslationVariant ;
+:text "その娘が見えました。そして彼女は、苦い"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_JA a :TranslationVariant ;
+:text "鳥の鋭い声のように泣き叫びました、ちょうど空の"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_JA a :TranslationVariant ;
+:text "巣に雛の寝床が孤児になっているのを見る時のように。"^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_JA a :TranslationVariant ;
+:text "この女も同じように、むき出しの死体を見ると、"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_JA a :TranslationVariant ;
+:text "嘆きで激しく泣き、行いを成し遂げた者たちに"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_JA a :TranslationVariant ;
+:text "悪い呪いを呪い求めました。"^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_JA a :TranslationVariant ;
+:text "そしてすぐに手で乾いた塵を運び、"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_JA a :TranslationVariant ;
+:text "よく打たれた青銅の水差しから、一気に"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_JA a :TranslationVariant ;
+:text "三度の注ぎによって死体に冠をかけました。"^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_JA a :TranslationVariant ;
+:text "私たちは見て、飛びかかり、共に彼女を"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_JA a :TranslationVariant ;
+:text "すぐ捕らえましたが、彼女は少しも驚いていませんでした。"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_JA a :TranslationVariant ;
+:text "そして前の行いも今の行いも問いただしました。"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_JA a :TranslationVariant ;
+:text "彼女は何一つ否認する者にはなりませんでした。"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_JA a :TranslationVariant ;
+:text "それは私には嬉しくもあり、同時に苦しくもありました。"^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_JA a :TranslationVariant ;
+:text "というのも、自分自身が災いから逃れたことは"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_JA a :TranslationVariant ;
+:text "最も嬉しいことですが、友を災いへ連れて行くことは"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_JA a :TranslationVariant ;
+:text "苦しいのです。しかしこれらすべてを、私の"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_JA a :TranslationVariant ;
+:text "救いより小さいものとして受け取るよう、私は生まれついています。"^^xsd:string ;
+:relatedTo :Line_440 .

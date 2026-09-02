@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-japanese a owl:Ontology .
+# Japanese translation variants for 331_to_365.ttl
+
+:TV_Line_331_JA a :TranslationVariant ;
+:text "救われた私は、神々に多くの感謝を負っている。"^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_JA a :TranslationVariant ;
+:text "多くのものが恐るべきものであり、何一つ"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_JA a :TranslationVariant ;
+:text "人間より恐るべきものはない。"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_JA a :TranslationVariant ;
+:text "この者はまた、灰色の"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_JA a :TranslationVariant ;
+:text "海の彼方へ、冬の南風の中を"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_JA a :TranslationVariant ;
+:text "進み、周囲で轟く"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_JA a :TranslationVariant ;
+:text "うねりの下を渡る。そして神々のうち"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_JA a :TranslationVariant ;
+:text "最も高きもの、大地を、"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_JA a :TranslationVariant ;
+:text "不滅で疲れを知らぬものを、彼は疲れさせる、"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_JA a :TranslationVariant ;
+:text "年ごとに巡る鋤によって、"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_JA a :TranslationVariant ;
+:text "馬の種族で耕しながら。"^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_JA a :TranslationVariant ;
+:text "また軽い心の鳥の"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_JA a :TranslationVariant ;
+:text "種族を取り囲んで捕らえ、"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_JA a :TranslationVariant ;
+:text "野の獣たちの群れも、"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_JA a :TranslationVariant ;
+:text "海の中に住む自然のものも、"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_JA a :TranslationVariant ;
+:text "網を編んだ輪縄で捕らえる、"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_JA a :TranslationVariant ;
+:text "工夫に富む男は。そして彼は支配する、"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_JA a :TranslationVariant ;
+:text "仕掛けによって、野に住む"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in Antigone
+
+:TV_Line_350_JA a :TranslationVariant ;
+:text "山を歩む獣を、また毛深い首の"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_JA a :TranslationVariant ;
+:text "馬を、両側のたてがみのある軛の下へ導き、"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_JA a :TranslationVariant ;
+:text "山の疲れ知らぬ牡牛をも。"^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Lines 353 and 354 do not exist in Antigone
+
+:TV_Line_355_JA a :TranslationVariant ;
+:text "そして言葉と、風のような思考と、町を治める"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_JA a :TranslationVariant ;
+:text "気質を彼は自らに教え、住みにくい"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_JA a :TranslationVariant ;
+:text "霜の野外の寒さと、雨に苦しむ矢を避けることも。"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_JA a :TranslationVariant ;
+:text "あらゆる道を持つ者。来たるべきものに対して、彼は"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in Antigone
+
+:TV_Line_360_JA a :TranslationVariant ;
+:text "何一つ道なき者として来ることはない。ただハデスからの逃れだけは得られない。"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_JA a :TranslationVariant ;
+:text "だが手立てなき病からの逃れを、彼は共に考え出している。"^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364 and 365 do not exist in Antigone

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-german a owl:Ontology .
+# German translation variants for 966_to_987.ttl
+
+:TV_Line_966_DE a :TranslationVariant ;
+:text "Neben den dunkelblauen Felsen des doppelten Meeres"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_DE a :TranslationVariant ;
+:text "liegen die bosporischen Küsten und das Ufer der Thraker,"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Lines 968 and 969 do not exist in canonical.
+
+:TV_Line_970_DE a :TranslationVariant ;
+:text "Salmydessos, wo der stadtnahe Ares"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_DE a :TranslationVariant ;
+:text "bei den beiden Söhnen des Phineus"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_DE a :TranslationVariant ;
+:text "die verfluchte Wunde sah,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_DE a :TranslationVariant ;
+:text "blind gemacht durch eine wilde Gattin,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_DE a :TranslationVariant ;
+:text "blind in den rächenden Kreisen der Augen,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_DE a :TranslationVariant ;
+:text "zerschlagen von blutigen"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_DE a :TranslationVariant ;
+:text "Händen und von den Spitzen der Weberschiffchen."^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_DE a :TranslationVariant ;
+:text "Und dahinschmelzend, elend, in elendem Leid,"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Lines 978 and 979 do not exist in canonical.
+
+:TV_Line_980_DE a :TranslationVariant ;
+:text "weinten sie, da sie die unvermählte Geburt der Mutter hatten;"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_DE a :TranslationVariant ;
+:text "sie aber war dem Samen der altgeborenen"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_DE a :TranslationVariant ;
+:text "Erechtheiden nahe,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_DE a :TranslationVariant ;
+:text "und in fernhin führenden Höhlen"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_DE a :TranslationVariant ;
+:text "wurde sie in väterlichen Stürmen genährt,"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_DE a :TranslationVariant ;
+:text "Boreas, pferdegleich, über steilem Fels schnellfüßig,"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_DE a :TranslationVariant ;
+:text "Kind der Götter; doch auch über jene"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_DE a :TranslationVariant ;
+:text "bekamen die langlebigen Moiren Gewalt, o Kind."^^xsd:string ;
+:relatedTo :Line_987 .

@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-spanish a owl:Ontology .
+# Spanish translation variants for 929_to_943.ttl
+
+:TV_Line_929_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_929 ; :text "Todavía los mismos soplos de los mismos vientos"^^xsd:string .
+:TV_Line_930_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_930 ; :text "del alma retienen a esta."^^xsd:string .
+:TV_Line_931_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_931 ; :text "Por tanto, a los que la conducen"^^xsd:string .
+:TV_Line_932_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_932 ; :text "les tocarán llantos por su tardanza."^^xsd:string .
+:TV_Line_933_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_933 ; :text "¡Ay de mí! Esta palabra ha llegado"^^xsd:string .
+:TV_Line_934_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_934 ; :text "lo más cerca posible de la muerte."^^xsd:string .
+:TV_Line_935_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_935 ; :text "No te consuelo para que tengas ánimo"^^xsd:string .
+:TV_Line_936_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_936 ; :text "pensando que esto no se cumplirá de este modo."^^xsd:string .
+:TV_Line_937_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_937 ; :text "Oh ciudad paterna de la tierra de Tebas"^^xsd:string .
+:TV_Line_938_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_938 ; :text "y dioses de mis antepasados,"^^xsd:string .
+:TV_Line_939_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_939 ; :text "ya soy conducida y no me demoro más."^^xsd:string .
+:TV_Line_940_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_940 ; :text "Mirad, gobernantes de Tebas,"^^xsd:string .
+:TV_Line_941_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_941 ; :text "a la única que queda de los reyes,"^^xsd:string .
+:TV_Line_942_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_942 ; :text "qué cosas padezco y de manos de qué hombres,"^^xsd:string .
+:TV_Line_943_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_943 ; :text "por haber venerado la piedad."^^xsd:string .

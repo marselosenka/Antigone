@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-bengali a owl:Ontology .
+# Bengali translation variants for 141_to_161.ttl
+
+:TV_Line_141_BN a :TranslationVariant ;
+:text "কারণ সাত সেনানায়ক সাত দ্বারে"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_BN a :TranslationVariant ;
+:text "সমানদের বিপরীতে সমানভাবে স্থাপিত হয়ে রেখে গেল"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_BN a :TranslationVariant ;
+:text "বিজয়ী জিউসের জন্য সর্ব-ব্রোঞ্জ উৎসর্গ,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_BN a :TranslationVariant ;
+:text "শুধু সেই দুই ঘৃণ্যজন ছাড়া, যারা একই পিতা"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_BN a :TranslationVariant ;
+:text "ও একই মাতার জন্ম, আর নিজেদের বিরুদ্ধে"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_BN a :TranslationVariant ;
+:text "দুই বিজয়ী বর্শা দাঁড় করিয়ে"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_BN a :TranslationVariant ;
+:text "উভয়েই যৌথ মৃত্যুর অংশ পেল।"^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_BN a :TranslationVariant ;
+:text "কিন্তু মহানামা বিজয় এসে গেছে,"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_BN a :TranslationVariant ;
+:text "বহু-রথের থিব্সের আনন্দের জবাবে আনন্দ করে;"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_BN a :TranslationVariant ;
+:text "সুতরাং এখনকার যুদ্ধগুলি থেকে"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_BN a :TranslationVariant ;
+:text "আমরা বিস্মৃতি স্থাপন করি,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_BN a :TranslationVariant ;
+:text "আর দেবতাদের সব মন্দিরে"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_BN a :TranslationVariant ;
+:text "সারারাতের নৃত্য নিয়ে যাই;"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_BN a :TranslationVariant ;
+:text "আর থিব্স-কম্পনকারী"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_BN a :TranslationVariant ;
+:text "বাকখিক দেবতা নেতৃত্ব দিন।"^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_BN a :TranslationVariant ;
+:text "কিন্তু, কারণ এই যে দেশের রাজা,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_BN a :TranslationVariant ;
+:text "মেনোইকেউসের পুত্র ক্রেয়ন, নতুন অবস্থায়"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_BN a :TranslationVariant ;
+:text "দেবতাদের সাম্প্রতিক ঘটনাপ্রবাহের উপর"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_BN a :TranslationVariant ;
+:text "এসে চলেছেন, কোন ভাবনা বেয়ে আনছেন,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_BN a :TranslationVariant ;
+:text "যে তিনি এই প্রবীণদের সভা"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_BN a :TranslationVariant ;
+:text "ডেকে রেখেছেন, সাধারণ ঘোষণায় পাঠিয়ে।"^^xsd:string ;
+:relatedTo :Line_161 .

@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-russian a owl:Ontology .
+# Russian translation variants for 616_to_630.ttl
+
+:TV_Line_616_RU a :TranslationVariant ;
+:text "а многим — обман легкомысленных желаний;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_RU a :TranslationVariant ;
+:text "не знающего она увлекает, прежде чем кто-то коснется ногой горячего огня."^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Line 618 and 619 do not exist in Antigone
+
+:TV_Line_620_RU a :TranslationVariant ;
+:text "Ибо из мудрости явилось слово славных:"^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_RU a :TranslationVariant ;
+:text "что зло порой кажется добром"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_RU a :TranslationVariant ;
+:text "тому, чей разум"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_RU a :TranslationVariant ;
+:text "бог ведет к гибели;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone
+
+:TV_Line_625_RU a :TranslationVariant ;
+:text "и он действует лишь самое малое время вне бедствия."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_RU a :TranslationVariant ;
+:text "Смотри, вот Гемон, младшее порождение твоих детей;"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_RU a :TranslationVariant ;
+:text "идет ли он, скорбя"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_RU a :TranslationVariant ;
+:text "о судьбе невесты Антигоны,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone
+
+:TV_Line_630_RU a :TranslationVariant ;
+:text "измученный обманом брачного ложа?"^^xsd:string ;
+:relatedTo :Line_630 .

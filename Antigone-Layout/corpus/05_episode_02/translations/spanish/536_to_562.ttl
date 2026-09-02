@@ -1,0 +1,34 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-spanish a owl:Ontology .
+# Spanish translation variants for 536_to_562.ttl
+
+:TV_Line_536_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_536 ; :text "He realizado el hecho, si ella consiente conmigo,"^^xsd:string .
+:TV_Line_537_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_537 ; :text "y participo con ella y cargo con la culpa."^^xsd:string .
+:TV_Line_538_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_538 ; :text "Pero la justicia no te permitirá eso,"^^xsd:string .
+:TV_Line_539_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_539 ; :text "pues ni quisiste ni yo te hice partícipe."^^xsd:string .
+:TV_Line_540_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_540 ; :text "Pero en tus males no me avergüenzo"^^xsd:string .
+:TV_Line_541_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_541 ; :text "de hacerme compañera de navegación en tu sufrimiento."^^xsd:string .
+:TV_Line_542_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_542 ; :text "De quién es el hecho, Hades y los de abajo son testigos."^^xsd:string .
+:TV_Line_543_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_543 ; :text "Pero no acepto como amiga a quien ama solo con palabras."^^xsd:string .
+:TV_Line_544_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_544 ; :text "No, hermana, no me deshonres negándome"^^xsd:string .
+:TV_Line_545_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_545 ; :text "morir contigo y purificar al muerto."^^xsd:string .
+:TV_Line_546_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_546 ; :text "No mueras conmigo ni hagas tuyo"^^xsd:string .
+:TV_Line_547_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_547 ; :text "lo que no tocaste. Bastaré yo muriendo."^^xsd:string .
+:TV_Line_548_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_548 ; :text "¿Y qué vida me será querida si quedo sin ti?"^^xsd:string .
+:TV_Line_549_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_549 ; :text "Pregunta a Creonte; de él eres cuidadora."^^xsd:string .
+:TV_Line_550_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_550 ; :text "¿Por qué me hieres con eso, sin beneficiarte en nada?"^^xsd:string .
+:TV_Line_551_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_551 ; :text "Sufriendo, desde luego, si me río de ti, me río."^^xsd:string .
+:TV_Line_552_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_552 ; :text "¿Cómo podría entonces ayudarte aún ahora?"^^xsd:string .
+:TV_Line_553_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_553 ; :text "Sálvate a ti misma; no te envidio que escapes."^^xsd:string .
+:TV_Line_554_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_554 ; :text "Ay de mí, desdichada, ¿quedaré privada también de tu muerte?"^^xsd:string .
+:TV_Line_555_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_555 ; :text "Tú elegiste vivir; yo, morir."^^xsd:string .
+:TV_Line_556_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_556 ; :text "Pero no sin que mis palabras fueran dichas."^^xsd:string .
+:TV_Line_557_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_557 ; :text "Tú parecías pensar bien a unos; yo, a otros."^^xsd:string .
+:TV_Line_558_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_558 ; :text "Y sin embargo, igual es la falta de ambas."^^xsd:string .
+:TV_Line_559_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_559 ; :text "Ten ánimo: tú vives; mi alma, en cambio, hace tiempo"^^xsd:string .
+:TV_Line_560_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_560 ; :text "ha muerto, para servir a los muertos."^^xsd:string .
+:TV_Line_561_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_561 ; :text "De estas dos niñas digo que una acaba"^^xsd:string .
+:TV_Line_562_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_562 ; :text "de mostrarse insensata, y la otra lo es desde que nació."^^xsd:string .

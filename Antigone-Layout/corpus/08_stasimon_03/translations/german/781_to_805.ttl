@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-german a owl:Ontology .
+# German translation variants for 781_to_805.ttl
+
+:TV_Line_781_DE a :TranslationVariant ;
+:text "Eros, unbesiegt im Kampf, Eros, der du auf Besitz fällst,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_DE a :TranslationVariant ;
+:text "der du auf den weichen Wangen eines jungen Mädchens nächtigst,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Lines 783 and 784 are commented out in canonical.
+
+:TV_Line_785_DE a :TranslationVariant ;
+:text "du schweifst über das Meer und in ländlichen Höfen;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_DE a :TranslationVariant ;
+:text "und vor dir ist keiner der Unsterblichen fluchtfähig,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Lines 787, 788, and 789 are commented out in canonical.
+
+:TV_Line_790_DE a :TranslationVariant ;
+:text "noch einer der eintägigen Menschen vor dir; wer dich hat, ist rasend."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_DE a :TranslationVariant ;
+:text "Du reißt auch der Gerechten Sinne zu ungerechten hin, zum Frevel,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_DE a :TranslationVariant ;
+:text "du hast auch diesen Streit blutsverwandter Männer verwirrt;"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Lines 793 and 794 are commented out in canonical.
+
+:TV_Line_795_DE a :TranslationVariant ;
+:text "und es siegt sichtbar aus den Lidern der Wunsch der gutgebetteten"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_DE a :TranslationVariant ;
+:text "Braut, Beisitzer in den großen Herrschaften"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Lines 797, 798, and 799 are commented out in canonical.
+
+:TV_Line_800_DE a :TranslationVariant ;
+:text "der Satzungen. Denn unbezwinglich spielt die Göttin Aphrodite."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_DE a :TranslationVariant ;
+:text "Nun aber werde auch ich selbst schon aus den Satzungen"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_DE a :TranslationVariant ;
+:text "hinausgetragen, dies sehend, und zurückzuhalten"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_DE a :TranslationVariant ;
+:text "vermag ich die Quellen der Tränen nicht mehr,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_DE a :TranslationVariant ;
+:text "wenn ich die allbettende Kammer sehe,"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_DE a :TranslationVariant ;
+:text "diese Antigone, wie sie sie vollendet."^^xsd:string ;
+:relatedTo :Line_805 .

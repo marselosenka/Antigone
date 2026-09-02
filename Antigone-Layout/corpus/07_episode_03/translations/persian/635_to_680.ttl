@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-persian a owl:Ontology .
+# Persian translation variants for 635_to_680.ttl
+
+:TV_Line_635_FA a :TranslationVariant ;
+:text "پدر، من از آنِ توام؛ و تو برای من رأی‌های"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_FA a :TranslationVariant ;
+:text "نیک داری و مرا راست می‌گردانی، و من از آنها پیروی خواهم کرد."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_FA a :TranslationVariant ;
+:text "زیرا نزد من هیچ زناشویی‌ای شایسته نخواهد بود"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_FA a :TranslationVariant ;
+:text "که بزرگ‌تر از راهبری نیک تو به شمار آید."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_FA a :TranslationVariant ;
+:text "آری، ای پسر، باید چنین در سینه نگاه داشت،"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_FA a :TranslationVariant ;
+:text "که همه چیز پس از رأی پدر بایستد."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_FA a :TranslationVariant ;
+:text "برای همین مردان دعا می‌کنند که در خانه‌ها"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_FA a :TranslationVariant ;
+:text "فرزندانی فرمانبردار پدید آورده و داشته باشند،"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_FA a :TranslationVariant ;
+:text "تا دشمن را با بدی‌ها پاسخ دهند"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_FA a :TranslationVariant ;
+:text "و دوست را برابر با پدر گرامی بدارند."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_FA a :TranslationVariant ;
+:text "اما هر کس فرزندانی بی‌سود بکارد،"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_FA a :TranslationVariant ;
+:text "درباره او چه می‌توانی گفت جز این‌که برای خود"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_FA a :TranslationVariant ;
+:text "رنج‌ها کاشته و برای دشمنان خنده بسیار؟"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_FA a :TranslationVariant ;
+:text "پس هرگز، ای پسر، اندیشه‌ات را به دست لذت،"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_FA a :TranslationVariant ;
+:text "به خاطر زنی، از خود بیرون مینداز، بدان که"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_FA a :TranslationVariant ;
+:text "این آغوشی سرد می‌شود،"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_FA a :TranslationVariant ;
+:text "زن بدی که هم‌بستر در خانه‌هاست. زیرا چه"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_FA a :TranslationVariant ;
+:text "زخمی می‌تواند بزرگ‌تر از دوست بد باشد؟"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_FA a :TranslationVariant ;
+:text "بلکه او را چون دشمنی با تف انداخته رها کن،"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_FA a :TranslationVariant ;
+:text "این دختر را، تا در هادس با کسی عروسی کند."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_FA a :TranslationVariant ;
+:text "زیرا چون خودم او را آشکارا گرفتم،"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_FA a :TranslationVariant ;
+:text "یگانه کسی از سراسر شهر که سرپیچی کرده بود،"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_FA a :TranslationVariant ;
+:text "خود را نزد شهر دروغگو نخواهم ساخت،"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_FA a :TranslationVariant ;
+:text "بلکه او را خواهم کشت. در برابر اینها بگذار زئوسِ"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_FA a :TranslationVariant ;
+:text "هم‌خون را بخواند. زیرا اگر خویشان طبیعی خود را"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_FA a :TranslationVariant ;
+:text "بی‌نظم پرورش دهم، به‌راستی آنان بیرون از خاندان را نیز چنین خواهم کرد."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_FA a :TranslationVariant ;
+:text "زیرا هر کس در کارهای خانگی مردی"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_FA a :TranslationVariant ;
+:text "نیک باشد، در شهر نیز دادگر آشکار خواهد شد."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_FA a :TranslationVariant ;
+:text "اما هر کس فراتر رود، یا قانون‌ها را به زور بشکند،"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_FA a :TranslationVariant ;
+:text "یا قصد فرمان دادن به فرمانروایان را داشته باشد،"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_FA a :TranslationVariant ;
+:text "چنین کسی از سوی من ستایش نخواهد یافت."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_FA a :TranslationVariant ;
+:text "بلکه هر که را شهر برپا دارد، باید سخنش را شنید،"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_FA a :TranslationVariant ;
+:text "در کارهای کوچک و دادگرانه و در ضد آنها."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_FA a :TranslationVariant ;
+:text "و به چنین مردی من اعتماد خواهم کرد"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_FA a :TranslationVariant ;
+:text "که هم خوب فرمان براند و هم بخواهد خوب فرمان ببرد،"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_FA a :TranslationVariant ;
+:text "و در توفان نیزه، چون گمارده شود،"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_FA a :TranslationVariant ;
+:text "یار ایستاده‌ای دادگر و دلیر بماند."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_FA a :TranslationVariant ;
+:text "اما هیچ بدی‌ای بزرگ‌تر از بی‌فرمانی نیست."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_FA a :TranslationVariant ;
+:text "این شهرها را نابود می‌کند، این خانه‌ها را"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_FA a :TranslationVariant ;
+:text "از بنیاد برمی‌کند، این در نیزه هم‌پیمان"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_FA a :TranslationVariant ;
+:text "گریزها را می‌شکند؛ اما از آنان که راست می‌ایستند،"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_FA a :TranslationVariant ;
+:text "فرمانبرداری بیشتر تن‌ها را نجات می‌دهد."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_FA a :TranslationVariant ;
+:text "پس چنین باید از نظم‌یافتگان دفاع کرد،"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_FA a :TranslationVariant ;
+:text "و به هیچ روی نباید مغلوب زنی شد."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_FA a :TranslationVariant ;
+:text "زیرا بهتر است، اگر باید، به دست مردی فرو افتاد،"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_FA a :TranslationVariant ;
+:text "و ما هرگز فرودست زنان خوانده نخواهیم شد."^^xsd:string ;
+:relatedTo :Line_680 .

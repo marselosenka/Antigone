@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-japanese a owl:Ontology .
+# Japanese translation variants for 724_to_761.ttl
+
+:TV_Line_724_JA a :TranslationVariant ;
+:text "王よ、もし彼が時宜にかなうことを何か言うなら、あなたが"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_JA a :TranslationVariant ;
+:text "学ぶのは当然であり、彼もまたあなたから学ぶべきです。双方においてよく語られています。"^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_JA a :TranslationVariant ;
+:text "この年齢の我々が、まさにこの年齢の男から"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_JA a :TranslationVariant ;
+:text "分別を生まれながらに教えられるというのか。"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_JA a :TranslationVariant ;
+:text "正しくないことは何もです。もし私が若くても、"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_JA a :TranslationVariant ;
+:text "時の長さよりも行いを見るべきです。"^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_JA a :TranslationVariant ;
+:text "秩序を乱す者たちを敬うことが行いなのか。"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_JA a :TranslationVariant ;
+:text "悪人たちに対して敬虔であれとは、私も命じません。"^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_JA a :TranslationVariant ;
+:text "この女はそのような病に捕らえられているのではないか。"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_JA a :TranslationVariant ;
+:text "このテーバイの同じ町の民は、そうは言っていません。"^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_JA a :TranslationVariant ;
+:text "町が、我々に何を命じるべきかを私に言うのか。"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_JA a :TranslationVariant ;
+:text "ご覧ください、それをあなたはあまりにも若い者のように言っています。"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_JA a :TranslationVariant ;
+:text "私以外の誰かのために、私はこの地を支配すべきなのか。"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_JA a :TranslationVariant ;
+:text "一人の男のものであるような町は、町ではありません。"^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_JA a :TranslationVariant ;
+:text "町は支配する者のものと考えられていないのか。"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_JA a :TranslationVariant ;
+:text "あなたは無人の地なら、ひとりで立派に支配するでしょう。"^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_JA a :TranslationVariant ;
+:text "こいつは、どうやら、あの女と同盟している。"^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_JA a :TranslationVariant ;
+:text "もしあなたが女なら。私はあなたのためを思っているのです。"^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_JA a :TranslationVariant ;
+:text "おお、まったく悪い者よ、父を裁きにかけるのか。"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_JA a :TranslationVariant ;
+:text "あなたが正しくない過ちを犯しているのを見るからです。"^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_JA a :TranslationVariant ;
+:text "私が自分の支配を尊ぶことが過ちなのか。"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_JA a :TranslationVariant ;
+:text "尊んでいません、神々への名誉を踏みにじっているのです。"^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_JA a :TranslationVariant ;
+:text "おお、汚れた性質、女に劣るものよ。"^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_JA a :TranslationVariant ;
+:text "あなたは私を、恥ずべき者たちより劣る者として捕らえはしないでしょう。"^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_JA a :TranslationVariant ;
+:text "少なくとも、お前の言葉はすべてあの女のためのものだ。"^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_JA a :TranslationVariant ;
+:text "そしてあなたのため、私のため、下なる神々のためでもあります。"^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_JA a :TranslationVariant ;
+:text "お前がこの女を、まだ生きているうちに娶ることは決してない。"^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_JA a :TranslationVariant ;
+:text "では彼女は死ぬでしょう、そして死んで誰かを滅ぼすでしょう。"^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_JA a :TranslationVariant ;
+:text "それで、脅しながらこのように厚かましく迫るのか。"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_JA a :TranslationVariant ;
+:text "空虚な考えに向かって語ることが、どんな脅しでしょうか。"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_JA a :TranslationVariant ;
+:text "泣きながら分別を得るがよい、自分自身は分別に空でありながら。"^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_JA a :TranslationVariant ;
+:text "あなたが父でなければ、あなたはよく考えていないと言ったでしょう。"^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_JA a :TranslationVariant ;
+:text "女の奴隷となって、私に甘言を弄するな。"^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_JA a :TranslationVariant ;
+:text "何かを語り、語りながら何も聞かないことを望むのですか。"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_JA a :TranslationVariant ;
+:text "本当か。だがこのオリュンポスにかけて、知っておけ、"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_JA a :TranslationVariant ;
+:text "非難を喜びながら、お前は私を嘲り続けることはない。"^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_JA a :TranslationVariant ;
+:text "その憎い女を連れて来い、すぐに目の前で"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_JA a :TranslationVariant ;
+:text "ここにいる花婿のそばで死ぬように。"^^xsd:string ;
+:relatedTo :Line_761 .

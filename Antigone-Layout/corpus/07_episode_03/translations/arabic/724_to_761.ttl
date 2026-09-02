@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-arabic a owl:Ontology .
+# Arabic translation variants for 724_to_761.ttl
+
+:TV_Line_724_AR a :TranslationVariant ;
+:text "أيها الملك، من اللائق بك، إن قال شيئًا في أوانه،"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_AR a :TranslationVariant ;
+:text "أن تتعلم، وبك أيضًا أن تتعلم منه؛ فقد قيل حسنًا من الجانبين."^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_AR a :TranslationVariant ;
+:text "أفنحن، في مثل هذا العمر، سنتعلم إذن"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_AR a :TranslationVariant ;
+:text "أن نعقل من رجل في مثل هذه الطبيعة؟"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_AR a :TranslationVariant ;
+:text "لا شيئًا غير العادل؛ وإن كنت أنا شابًا،"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_AR a :TranslationVariant ;
+:text "فلا ينبغي النظر إلى الزمن أكثر من الأعمال."^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_AR a :TranslationVariant ;
+:text "أفهو عمل أن يوقر المرء الذين يخلّون بالنظام؟"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_AR a :TranslationVariant ;
+:text "ولا أنا آمر بالتقوى تجاه الأشرار."^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_AR a :TranslationVariant ;
+:text "أليست هذه قد أُخذت بهذا الداء؟"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_AR a :TranslationVariant ;
+:text "لا يقول ذلك شعب طيبة، شريكها في المدينة."^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_AR a :TranslationVariant ;
+:text "أفالمدينة تقول لنا ما يجب أن نرتب؟"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_AR a :TranslationVariant ;
+:text "أترى كيف قلت هذا كمن هو شاب جدًا؟"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_AR a :TranslationVariant ;
+:text "أفعلى غيري أم عليّ أن أحكم هذه الأرض؟"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_AR a :TranslationVariant ;
+:text "فليست مدينة تلك التي تكون لرجل واحد."^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_AR a :TranslationVariant ;
+:text "ألا تُعد المدينة لمن يملك السلطان؟"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_AR a :TranslationVariant ;
+:text "لحكمتَ وحدك أرضًا خالية حسنًا."^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_AR a :TranslationVariant ;
+:text "هذا، كما يبدو، يحارب إلى جانب المرأة."^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_AR a :TranslationVariant ;
+:text "إن كنت أنت امرأة حقًا؛ فأنا أهتم بك."^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_AR a :TranslationVariant ;
+:text "يا أسوأ الجميع، أتذهب إلى محاكمة أبيك؟"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_AR a :TranslationVariant ;
+:text "لأني أراك تخطئ ما ليس عادلًا."^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_AR a :TranslationVariant ;
+:text "أأخطئ إذ أوقر سلطاني؟"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_AR a :TranslationVariant ;
+:text "لا توقر، بل تدوس كرامات الآلهة."^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_AR a :TranslationVariant ;
+:text "يا خلقًا مدنسًا وخاضعًا لامرأة."^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_AR a :TranslationVariant ;
+:text "لن تجدني مغلوبًا على الأقل من الخزي."^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_AR a :TranslationVariant ;
+:text "فهذا الكلام كله لك من أجل تلك."^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_AR a :TranslationVariant ;
+:text "ومن أجلك ومن أجلي، ومن أجل آلهة الأسفل."^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_AR a :TranslationVariant ;
+:text "لن يكون أبدًا أن تتزوج هذه وهي بعد حية."^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_AR a :TranslationVariant ;
+:text "إذن ستموت، وبموتها ستهلك أحدًا."^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_AR a :TranslationVariant ;
+:text "أحقًا تخرج هكذا جريئًا مهددًا؟"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_AR a :TranslationVariant ;
+:text "وأي تهديد في أن أتحدث إلى آراء فارغة؟"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_AR a :TranslationVariant ;
+:text "ستبكي وأنت تؤدب، وأنت نفسك فارغ العقل."^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_AR a :TranslationVariant ;
+:text "لو لم تكن أبي، لقلت إنك لا تفكر حسنًا."^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_AR a :TranslationVariant ;
+:text "لا تثرثر إليّ وأنت عبد امرأة."^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_AR a :TranslationVariant ;
+:text "أتريد أن تقول شيئًا، وأنت تقول ألا تسمع شيئًا؟"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_AR a :TranslationVariant ;
+:text "حقًا؟ لكن لا بهذا الأولمب، اعلم ذلك،"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_AR a :TranslationVariant ;
+:text "لن تفرح وأنت تعذبني بتوبيخاتك."^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_AR a :TranslationVariant ;
+:text "هاتوا البغضاء لكي تموت الآن أمام عينيه،"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_AR a :TranslationVariant ;
+:text "حاضرةً، بجوار العريس."^^xsd:string ;
+:relatedTo :Line_761 .

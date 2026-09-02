@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-arabic a owl:Ontology .
+# Arabic translation variants for 141_to_161.ttl
+
+:TV_Line_141_AR a :TranslationVariant ;
+:text "فإن سبعة قادة عند سبعة أبواب،"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_AR a :TranslationVariant ;
+:text "مصطفين أندادًا قبالة أنداد، تركوا"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_AR a :TranslationVariant ;
+:text "لزيوس مانح النصر قرابينهم كلها من البرونز،"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_AR a :TranslationVariant ;
+:text "إلا الاثنين البغيضين، اللذين من أب واحد"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_AR a :TranslationVariant ;
+:text "وأم واحدة وُلدا، وأحدهما على الآخر"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_AR a :TranslationVariant ;
+:text "أقاما رمحين مزدوجي السلطان، فنالا"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_AR a :TranslationVariant ;
+:text "كلاهما نصيبًا من موت مشترك."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_AR a :TranslationVariant ;
+:text "لكن، حقًّا، لقد جاءت نيكه ذات الاسم العظيم،"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_AR a :TranslationVariant ;
+:text "مشاركةً طيبة الكثيرة المركبات فرحها،"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_AR a :TranslationVariant ;
+:text "فلنضع إذن، من الحروب"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_AR a :TranslationVariant ;
+:text "الحاضرة، نسيانًا،"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_AR a :TranslationVariant ;
+:text "ولنذهب إلى معابد الآلهة كلها"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_AR a :TranslationVariant ;
+:text "برقصات طوال الليل،"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_AR a :TranslationVariant ;
+:text "وليقد باكخيوس، الذي يزلزل طيبة،"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_AR a :TranslationVariant ;
+:text "الرقص."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_AR a :TranslationVariant ;
+:text "لكن، فهذا هو ملك البلاد،"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_AR a :TranslationVariant ;
+:text "كريون بن مينويكيوس، الجديد العهد،"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_AR a :TranslationVariant ;
+:text "بسبب المصادفات الجديدة من الآلهة،"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_AR a :TranslationVariant ;
+:text "يمضي، مجدّفًا بأي تدبير ترى؟"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_AR a :TranslationVariant ;
+:text "إذ إنه هذا المجلس المدعو من الشيوخ"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_AR a :TranslationVariant ;
+:text "طرحه للتشاور، مرسلًا إعلانًا عامًا."^^xsd:string ;
+:relatedTo :Line_161 .

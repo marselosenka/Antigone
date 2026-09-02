@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-hindi a owl:Ontology .
+# Hindi translation variants for 193_to_210.ttl
+
+:TV_Line_193_HI a :TranslationVariant ;
+:text "नागरिकों के लिए, ओइदिपुस के पुत्रों के विषय में;"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_HI a :TranslationVariant ;
+:text "एतेओक्लेस, जो इस नगर के लिए लड़ते हुए"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_HI a :TranslationVariant ;
+:text "मरा, भाले से सबमें श्रेष्ठ होकर,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_HI a :TranslationVariant ;
+:text "उसे कब्र में छिपाना और सब पवित्र कर्म करना"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_HI a :TranslationVariant ;
+:text "जो नीचे जाने वाले श्रेष्ठ मृतकों को मिलते हैं;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_HI a :TranslationVariant ;
+:text "पर उसके रक्त-संबंधी, पोलिनाइकेस की बात करता हूँ,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_HI a :TranslationVariant ;
+:text "जो निर्वासन से लौटकर पितृभूमि और अपने कुलदेवताओं को"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_HI a :TranslationVariant ;
+:text "पूरी तरह आग से जलाना चाहता था,"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_HI a :TranslationVariant ;
+:text "और साझा रक्त का स्वाद लेना चाहता था,"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_HI a :TranslationVariant ;
+:text "और लोगों को दास बनाकर ले जाना चाहता था,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_HI a :TranslationVariant ;
+:text "उसके विषय में इस नगर को घोषणा की गई है कि"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_HI a :TranslationVariant ;
+:text "कोई उसे कब्र न दे, न कोई विलाप करे,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_HI a :TranslationVariant ;
+:text "बल्कि उसे बिना दफ़न छोड़ा जाए, और उसका शरीर पक्षियों"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_HI a :TranslationVariant ;
+:text "और कुत्तों द्वारा खाया और अपमानित देखा जाए।"^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_HI a :TranslationVariant ;
+:text "ऐसा है मेरा विचार, और कभी मेरे द्वारा"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_HI a :TranslationVariant ;
+:text "दुष्टों को न्यायवानों से ऊपर सम्मान नहीं मिलेगा।"^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_HI a :TranslationVariant ;
+:text "पर जो इस नगर के प्रति शुभचिंतक है, मरा हुआ"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_HI a :TranslationVariant ;
+:text "और जीवित, दोनों ही समान रूप से मुझसे सम्मान पाएगा।"^^xsd:string ;
+:relatedTo :Line_210 .

@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-russian a owl:Ontology .
+# Russian translation variants for 781_to_805.ttl
+
+:TV_Line_781_RU a :TranslationVariant ;
+:text "Эрот, непобедимый в битве, Эрот, который падаешь на достояния,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_RU a :TranslationVariant ;
+:text "который ночуешь на мягких щеках юной девушки,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Line 783 and 784 do not exist in Antigone
+
+:TV_Line_785_RU a :TranslationVariant ;
+:text "ты бродишь за морем и в полевых дворах;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_RU a :TranslationVariant ;
+:text "и от тебя никто из бессмертных не может убежать,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Line 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_RU a :TranslationVariant ;
+:text "и никто из однодневных людей; а тот, кто имеет тебя, безумен."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_RU a :TranslationVariant ;
+:text "Ты и справедливых увлекаешь в неправедные мысли к позору,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_RU a :TranslationVariant ;
+:text "ты и эту кровнородственную распрю мужей взволновал;"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Line 793 and 794 do not exist in Antigone
+
+:TV_Line_795_RU a :TranslationVariant ;
+:text "побеждает явное желание из глаз прекрасно постланной"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_RU a :TranslationVariant ;
+:text "невесты, сидя рядом во власти великих законов,"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Line 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_RU a :TranslationVariant ;
+:text "законов; ибо непоборимая богиня Афродита играет."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_RU a :TranslationVariant ;
+:text "И вот уже я сам вне законов"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_RU a :TranslationVariant ;
+:text "несусь, видя это, и удерживать"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_RU a :TranslationVariant ;
+:text "источники слез уже не могу,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_RU a :TranslationVariant ;
+:text "когда вижу всеобщую брачную-спальную палату,"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_RU a :TranslationVariant ;
+:text "к которой эта Антигона идет до конца."^^xsd:string ;
+:relatedTo :Line_805 .

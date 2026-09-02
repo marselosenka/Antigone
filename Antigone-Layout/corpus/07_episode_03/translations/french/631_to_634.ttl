@@ -1,0 +1,16 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-french a owl:Ontology .
+# French translation variants for 631_to_634.ttl
+
+:TV_Line_631_FR a :TranslationVariant ;
+:text "Bientôt nous le saurons mieux que par des devins."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_FR a :TranslationVariant ;
+:text "Tu redresses de bonnes choses, auxquelles moi, du moins, je suivrai."^^xsd:string ;
+:relatedTo :Line_632 .
+
+# Lines 633 and 634 do not exist in canonical.

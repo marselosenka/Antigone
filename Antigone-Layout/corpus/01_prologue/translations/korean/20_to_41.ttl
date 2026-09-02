@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-korean a owl:Ontology .
+# Korean translation variants for 20_to_41.ttl
+
+:TV_Line_020_KO a :TranslationVariant ;
+:text "무슨 일인가? 네가 어떤 말을 검게 품고 있음을 드러내는구나."^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_KO a :TranslationVariant ;
+:text "크레온이 우리 두 형제에게 무덤을 두고"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_KO a :TranslationVariant ;
+:text "하나는 공경하고, 하나는 모욕한 것이 아니냐?"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_KO a :TranslationVariant ;
+:text "에테오클레스는, 사람들이 말하듯이, 정의로운"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_KO a :TranslationVariant ;
+:text "정의와 법에 따라 대접하여, 땅 아래"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_KO a :TranslationVariant ;
+:text "아래의 죽은 자들 사이에서 존귀하게 감추었다."^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_KO a :TranslationVariant ;
+:text "하지만 비참하게 죽은 폴뤼네이케스의 시신은"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_KO a :TranslationVariant ;
+:text "시민들에게 공표되었다고 한다, 누구도"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_KO a :TranslationVariant ;
+:text "무덤으로 덮지 말고, 아무도 곡하지 말라고,"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_KO a :TranslationVariant ;
+:text "울음 없이, 장사 없이 두어, 새들에게 달콤한"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_KO a :TranslationVariant ;
+:text "보물로, 먹이의 기쁨을 보게 하라고."^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_KO a :TranslationVariant ;
+:text "이런 일들을 훌륭한 크레온이 너에게"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_KO a :TranslationVariant ;
+:text "그리고 나에게도, 나에게도 말하노니, 포고했다고 한다,"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_KO a :TranslationVariant ;
+:text "그리고 여기로 와서 이것들을 알지 못하는 이들에게"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_KO a :TranslationVariant ;
+:text "분명히 선포하려 한다고, 또한 그 일을"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_KO a :TranslationVariant ;
+:text "하찮은 것으로 여기지 않고, 누구든 이들 중 무엇이라도 하면"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_KO a :TranslationVariant ;
+:text "도시 안에서 공개 돌팔매질의 죽음이 놓여 있다고."^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_KO a :TranslationVariant ;
+:text "이 일들은 네게 이러하다. 그리고 너는 곧 드러낼 것이다,"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_KO a :TranslationVariant ;
+:text "네가 고귀하게 태어났는지, 아니면 훌륭한 이들에게서 난 나쁜 자인지."^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_KO a :TranslationVariant ;
+:text "그런데, 오 가엾은 이여, 이 일들이 이런 상태라면, 내가"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_KO a :TranslationVariant ;
+:text "풀든 매든 무엇을 더 보탤 수 있겠는가?"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_KO a :TranslationVariant ;
+:text "네가 함께 수고하고 함께 일할 것인지 살펴보아라."^^xsd:string ;
+:relatedTo :Line_041 .

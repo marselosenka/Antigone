@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-persian a owl:Ontology .
+# Persian translation variants for 302_to_323.ttl
+
+:TV_Line_302_FA a :TranslationVariant ;
+:text "و هر کسانی که برای مزد اینها را به انجام رساندند،"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_FA a :TranslationVariant ;
+:text "روزی در زمان چنان کردند که کیفر دهند."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_FA a :TranslationVariant ;
+:text "اما اگر زئوس هنوز از سوی من حرمت دارد،"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_FA a :TranslationVariant ;
+:text "این را خوب بدان، و من به سوگند به تو می‌گویم،"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_FA a :TranslationVariant ;
+:text "اگر خودِ انجام‌دهنده این دفن را"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_FA a :TranslationVariant ;
+:text "نیابید و آشکار در برابر چشمان من ننمایانید،"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_FA a :TranslationVariant ;
+:text "هیدسِ تنها برای شما بس نخواهد بود، پیش از آن‌که"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_FA a :TranslationVariant ;
+:text "زنده و آویخته، این گستاخی را آشکار کنید،"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_FA a :TranslationVariant ;
+:text "تا بدانید سود را از کجا باید آورد،"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_FA a :TranslationVariant ;
+:text "و از آن پس بربایید، و بیاموزید که"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_FA a :TranslationVariant ;
+:text "نباید از هر جا سود بردن را دوست داشت."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_FA a :TranslationVariant ;
+:text "زیرا از بهره‌های شرم‌آور، بیشترین کسان را"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_FA a :TranslationVariant ;
+:text "می‌توانی ببینی که تباه شده‌اند، بیش از آن‌که نجات یافته باشند."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_FA a :TranslationVariant ;
+:text "اجازه می‌دهی سخن بگویم، یا همین‌گونه برگشته بروم؟"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_FA a :TranslationVariant ;
+:text "آیا حتی اکنون نمی‌دانی چه رنج‌آور سخن می‌گویی؟"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_FA a :TranslationVariant ;
+:text "در گوش‌ها می‌گزم یا بر جانت؟"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_FA a :TranslationVariant ;
+:text "چرا جای درد مرا اندازه‌گیری می‌کنی؟"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_FA a :TranslationVariant ;
+:text "کننده کار دل تو را می‌آزارد، و من گوش‌هایت را."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_FA a :TranslationVariant ;
+:text "آه، چه آشکارا پرگو زاده شده‌ای."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_FA a :TranslationVariant ;
+:text "اما هرگز کننده این کار نبوده‌ام."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_FA a :TranslationVariant ;
+:text "و آن هم در برابر سیم، جانت را فروخته‌ای."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_FA a :TranslationVariant ;
+:text "آه؛ هولناک است، برای کسی که گمان می‌کند، گمان‌های دروغین داشتن."^^xsd:string ;
+:relatedTo :Line_323 .

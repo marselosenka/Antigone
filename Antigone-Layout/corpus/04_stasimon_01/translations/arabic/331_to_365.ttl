@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-arabic a owl:Ontology .
+# Arabic translation variants for 331_to_365.ttl
+
+:TV_Line_331_AR a :TranslationVariant ;
+:text "إذ نجوت، فأنا مدين للآلهة بشكر كثير."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_AR a :TranslationVariant ;
+:text "كثيرة هي الأمور المهيبة العجيبة، ولا شيء"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_AR a :TranslationVariant ;
+:text "أهيب أعجب من الإنسان يوجد؛"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_AR a :TranslationVariant ;
+:text "هذا أيضًا، إلى ما وراء البحر"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_AR a :TranslationVariant ;
+:text "الأشيب، مع ريح الجنوب الشتوية،"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_AR a :TranslationVariant ;
+:text "يمضي، عابرًا تحت"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_AR a :TranslationVariant ;
+:text "الأمواج المحيطة الهادرة؛ ومن الآلهة"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_AR a :TranslationVariant ;
+:text "الأسمى، الأرض،"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_AR a :TranslationVariant ;
+:text "الخالدَة التي لا تكل، ينهكها،"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_AR a :TranslationVariant ;
+:text "بالمحاريث الدائرة سنة بعد سنة،"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_AR a :TranslationVariant ;
+:text "عاملًا فيها بجنس الخيل."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_AR a :TranslationVariant ;
+:text "وقبيلة الطيور خفيفة الفكر"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_AR a :TranslationVariant ;
+:text "يصطادها بعد أن يحيط بها،"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_AR a :TranslationVariant ;
+:text "وأجناس الوحوش البرية،"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_AR a :TranslationVariant ;
+:text "وطبيعة البحر البحرية،"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_AR a :TranslationVariant ;
+:text "بلفائف الشباك المنسوجة،"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_AR a :TranslationVariant ;
+:text "الرجل واسع الحيلة؛ ويسيطر"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_AR a :TranslationVariant ;
+:text "بالحيل على الوحش"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in canonical.
+
+:TV_Line_350_AR a :TranslationVariant ;
+:text "البري الساكن الجبال، وعلى الحصان خشن العنق،"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_AR a :TranslationVariant ;
+:text "يجعله يخضع لنير يحيط بالعنق،"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_AR a :TranslationVariant ;
+:text "وكذلك الثور الجبلي الذي لا يكل."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Lines 353 and 354 do not exist in canonical.
+
+:TV_Line_355_AR a :TranslationVariant ;
+:text "والنطق، والفكر الريحي، والطبائع المنظمة للمدن"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_AR a :TranslationVariant ;
+:text "علّم نفسه، وأن يفر من"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_AR a :TranslationVariant ;
+:text "الصقيع المكشوف للمرتفعات العسيرة، وسهام المطر العسير،"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_AR a :TranslationVariant ;
+:text "كليّ المسالك؛ لا يأتي إلى شيء بلا مسلك"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in canonical.
+
+:TV_Line_360_AR a :TranslationVariant ;
+:text "في المستقبل؛ هاديس وحده لن يجلب منه مهربًا؛"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_AR a :TranslationVariant ;
+:text "أما للأمراض المستعصية فقد دبّر مهارب."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364, and 365 do not exist in canonical.

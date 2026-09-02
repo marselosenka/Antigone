@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-korean a owl:Ontology .
+# Korean translation variants for 480_to_507.ttl
+
+:TV_Line_480_KO a :TranslationVariant ;
+:text "이 여자는 그때 이미 오만하게 굴 줄 알았다,"^^xsd:string ;
+:relatedTo :Line_480 .
+
+:TV_Line_481_KO a :TranslationVariant ;
+:text "앞에 놓인 법들을 넘어섰을 때."^^xsd:string ;
+:relatedTo :Line_481 .
+
+:TV_Line_482_KO a :TranslationVariant ;
+:text "그리고 그 일을 한 뒤, 이것이 두 번째 오만이다,"^^xsd:string ;
+:relatedTo :Line_482 .
+
+:TV_Line_483_KO a :TranslationVariant ;
+:text "이것들을 자랑하고, 행한 뒤 웃는 것이다."^^xsd:string ;
+:relatedTo :Line_483 .
+
+:TV_Line_484_KO a :TranslationVariant ;
+:text "이제 내가 남자가 아니고 이 여자가 남자일 것이다,"^^xsd:string ;
+:relatedTo :Line_484 .
+
+:TV_Line_485_KO a :TranslationVariant ;
+:text "이 권세가 이 여자에게 벌 없이 놓여 있다면."^^xsd:string ;
+:relatedTo :Line_485 .
+
+:TV_Line_486_KO a :TranslationVariant ;
+:text "그러나 그녀가 내 누이의 딸이든, 아니면"^^xsd:string ;
+:relatedTo :Line_486 .
+
+:TV_Line_487_KO a :TranslationVariant ;
+:text "우리 집의 제우스 전체보다 더 가까운 피붙이이든,"^^xsd:string ;
+:relatedTo :Line_487 .
+
+:TV_Line_488_KO a :TranslationVariant ;
+:text "그녀 자신과 같은 피붙이도 가장 나쁜"^^xsd:string ;
+:relatedTo :Line_488 .
+
+:TV_Line_489_KO a :TranslationVariant ;
+:text "죽음에서 벗어나지 못할 것이다. 나도 그 여자를 똑같이"^^xsd:string ;
+:relatedTo :Line_489 .
+
+:TV_Line_490_KO a :TranslationVariant ;
+:text "이 매장을 꾀한 죄로 고발하기 때문이다."^^xsd:string ;
+:relatedTo :Line_490 .
+
+:TV_Line_491_KO a :TranslationVariant ;
+:text "그녀를 불러라. 내가 방금 안에서 그녀를 보았기 때문이다,"^^xsd:string ;
+:relatedTo :Line_491 .
+
+:TV_Line_492_KO a :TranslationVariant ;
+:text "미쳐 날뛰며 정신을 제어하지 못하고 있는 것을."^^xsd:string ;
+:relatedTo :Line_492 .
+
+:TV_Line_493_KO a :TranslationVariant ;
+:text "마음은 흔히 미리 붙잡힌다, 도둑으로서,"^^xsd:string ;
+:relatedTo :Line_493 .
+
+:TV_Line_494_KO a :TranslationVariant ;
+:text "어둠 속에서 바르게 꾀하지 않은 일들의."^^xsd:string ;
+:relatedTo :Line_494 .
+
+:TV_Line_495_KO a :TranslationVariant ;
+:text "그러나 나는 미워한다, 누군가 재앙들 속에서"^^xsd:string ;
+:relatedTo :Line_495 .
+
+:TV_Line_496_KO a :TranslationVariant ;
+:text "붙잡힌 뒤 이것을 아름답게 꾸미려 할 때도."^^xsd:string ;
+:relatedTo :Line_496 .
+
+:TV_Line_497_KO a :TranslationVariant ;
+:text "당신은 저를 붙잡아 죽이는 것보다 더 큰 무엇을 원하십니까?"^^xsd:string ;
+:relatedTo :Line_497 .
+
+:TV_Line_498_KO a :TranslationVariant ;
+:text "나는 아무것도 원하지 않는다. 이것을 가지면 모든 것을 가진다."^^xsd:string ;
+:relatedTo :Line_498 .
+
+:TV_Line_499_KO a :TranslationVariant ;
+:text "그렇다면 왜 지체하십니까? 제게는 당신의 말들 가운데"^^xsd:string ;
+:relatedTo :Line_499 .
+
+:TV_Line_500_KO a :TranslationVariant ;
+:text "마음에 드는 것이 아무것도 없고, 결코 마음에 들지도 않기를."^^xsd:string ;
+:relatedTo :Line_500 .
+
+:TV_Line_501_KO a :TranslationVariant ;
+:text "그와 같이 당신에게도 제 말들이 본래 불쾌합니다."^^xsd:string ;
+:relatedTo :Line_501 .
+
+:TV_Line_502_KO a :TranslationVariant ;
+:text "그런데 어디에서 제가 더 영광스러운 명성을"^^xsd:string ;
+:relatedTo :Line_502 .
+
+:TV_Line_503_KO a :TranslationVariant ;
+:text "얻을 수 있었겠습니까, 친형제를 무덤에"^^xsd:string ;
+:relatedTo :Line_503 .
+
+:TV_Line_504_KO a :TranslationVariant ;
+:text "놓는 것보다? 이 사람들 모두가 이것을 기쁘게 여긴다고"^^xsd:string ;
+:relatedTo :Line_504 .
+
+:TV_Line_505_KO a :TranslationVariant ;
+:text "말할 것입니다, 두려움이 혀를 닫지 않는다면."^^xsd:string ;
+:relatedTo :Line_505 .
+
+:TV_Line_506_KO a :TranslationVariant ;
+:text "하지만 참주는 많은 다른 것들에서도 복되며,"^^xsd:string ;
+:relatedTo :Line_506 .
+
+:TV_Line_507_KO a :TranslationVariant ;
+:text "그가 원하는 것을 행하고 말하는 것이 허락됩니다."^^xsd:string ;
+:relatedTo :Line_507 .

@@ -1,0 +1,67 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-spanish a owl:Ontology .
+# Spanish translation variants for 823_to_871.ttl
+
+:TV_Line_823_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_823 ; :text "He oído que murió de la forma más dolorosa la huésped frigia,"^^xsd:string .
+
+# Line 824 does not exist in Antigone.
+
+:TV_Line_825_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_825 ; :text "la de Tántalo, junto a la cima del Sípilo, a quien, como hiedra tenaz,"^^xsd:string .
+:TV_Line_826_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_826 ; :text "sometió un brote de roca; y a ella, mientras se consume, las lluvias,"^^xsd:string .
+:TV_Line_827_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_827 ; :text "según dice la fama de los hombres,"^^xsd:string .
+
+# Lines 828 and 829 do not exist in Antigone.
+
+:TV_Line_830_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_830 ; :text "y la nieve no la abandonan jamás; empapa bajo cejas que lloran por todos"^^xsd:string .
+:TV_Line_831_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_831 ; :text "sus laderas; muy semejante a ella me acuesta un dios."^^xsd:string .
+
+# Lines 832 and 833 do not exist in Antigone.
+
+:TV_Line_834_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_834 ; :text "Pero ella era diosa y nacida de dioses,"^^xsd:string .
+:TV_Line_835_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_835 ; :text "mientras nosotros somos mortales y nacidos de mortales."^^xsd:string .
+:TV_Line_836_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_836 ; :text "Y aun así, para quien muere, es grande oír"^^xsd:string .
+:TV_Line_837_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_837 ; :text "que ha obtenido una suerte compartida con los semejantes a los dioses,"^^xsd:string .
+:TV_Line_838_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_838 ; :text "viva y después muerta."^^xsd:string .
+:TV_Line_839_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_839 ; :text "¡Ay de mí, se burlan de mí! ¿Por qué, por los dioses paternos,"^^xsd:string .
+:TV_Line_840_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_840 ; :text "me ultrajas no cuando ya me he ido, sino aún visible?"^^xsd:string .
+:TV_Line_841_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_841 ; :text "Oh ciudad, oh hombres de grandes posesiones de la ciudad;"^^xsd:string .
+:TV_Line_842_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_842 ; :text "¡ay, fuentes dirceas!"^^xsd:string .
+
+# Lines 843 and 844 do not exist in Antigone.
+
+:TV_Line_845_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_845 ; :text "y bosque de Tebas de hermosos carros, al menos a vosotros os tomo por testigos,"^^xsd:string .
+:TV_Line_846_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_846 ; :text "de qué modo, sin llanto de los míos, bajo qué leyes,"^^xsd:string .
+:TV_Line_847_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_847 ; :text "voy hacia el recinto amontonado de tierra de una tumba extraña;"^^xsd:string .
+
+# Lines 848 and 849 do not exist in Antigone.
+
+:TV_Line_850_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_850 ; :text "ni cadáver entre cadáveres,"^^xsd:string .
+:TV_Line_851_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_851 ; :text "ni habitante entre los vivos, ni entre los muertos."^^xsd:string .
+
+# Line 852 does not exist in Antigone.
+
+:TV_Line_853_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_853 ; :text "Avanzando hasta el último límite de la audacia,"^^xsd:string .
+:TV_Line_854_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_854 ; :text "hasta el alto pedestal de la Justicia,"^^xsd:string .
+:TV_Line_855_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_855 ; :text "has tropezado, hija, has tropezado mucho;"^^xsd:string .
+:TV_Line_856_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_856 ; :text "y pagas cierta prueba heredada de tu padre."^^xsd:string .
+
+# Line 857 does not exist in Antigone.
+
+:TV_Line_858_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_858 ; :text "Has tocado mis preocupaciones más dolorosas,"^^xsd:string .
+:TV_Line_859_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_859 ; :text "el lamento tantas veces removido por mi padre y por todo"^^xsd:string .
+:TV_Line_860_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_860 ; :text "nuestro destino entre los ilustres Labdácidas."^^xsd:string .
+:TV_Line_861_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_861 ; :text "¡Ay, lechos maternos"^^xsd:string .
+
+# Lines 862, 863 and 864 do not exist in Antigone.
+
+:TV_Line_865_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_865 ; :text "de ruina, uniones nacidas de sí mismas entre mi padre y su desdichada madre,"^^xsd:string .
+:TV_Line_866_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_866 ; :text "de qué seres nací yo, la infeliz!"^^xsd:string .
+:TV_Line_867_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_867 ; :text "Hacia ellos voy, maldita, sin bodas, como huésped."^^xsd:string .
+
+# Lines 868 and 869 do not exist in Antigone.
+
+:TV_Line_870_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_870 ; :text "Oh hermano, que encontraste bodas desdichadas,"^^xsd:string .
+:TV_Line_871_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_871 ; :text "muerto, me has matado a mí, que aún vivía."^^xsd:string .

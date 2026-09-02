@@ -1,0 +1,115 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-spanish a owl:Ontology .
+# Spanish translation variants for 63_to_89.ttl
+
+:TV_Line_063_ES a :TranslationVariant ;
+    :text "Y además, porque somos gobernadas por más fuertes,"^^xsd:string ;
+    :relatedTo :Line_063 .
+
+:TV_Line_064_ES a :TranslationVariant ;
+    :text "debemos obedecer esto, y aun cosas más dolorosas."^^xsd:string ;
+    :relatedTo :Line_064 .
+
+:TV_Line_065_ES a :TranslationVariant ;
+    :text "Yo, pues, pediré a los que están bajo tierra"^^xsd:string ;
+    :relatedTo :Line_065 .
+
+:TV_Line_066_ES a :TranslationVariant ;
+    :text "que tengan perdón, porque soy forzada a esto,"^^xsd:string ;
+    :relatedTo :Line_066 .
+
+:TV_Line_067_ES a :TranslationVariant ;
+    :text "y obedeceré a quienes están en el poder;"^^xsd:string ;
+    :relatedTo :Line_067 .
+
+:TV_Line_068_ES a :TranslationVariant ;
+    :text "pues actuar por encima de la medida no tiene sentido alguno."^^xsd:string ;
+    :relatedTo :Line_068 .
+
+:TV_Line_069_ES a :TranslationVariant ;
+    :text "Ni te lo ordenaría, ni aunque todavía quisieras"^^xsd:string ;
+    :relatedTo :Line_069 .
+
+:TV_Line_070_ES a :TranslationVariant ;
+    :text "hacerlo, actuarías ya con gusto de mi parte."^^xsd:string ;
+    :relatedTo :Line_070 .
+
+:TV_Line_071_ES a :TranslationVariant ;
+    :text "Piensa tú como te parezca; pero a él yo"^^xsd:string ;
+    :relatedTo :Line_071 .
+
+:TV_Line_072_ES a :TranslationVariant ;
+    :text "lo enterraré. Hermoso será para mí morir haciéndolo."^^xsd:string ;
+    :relatedTo :Line_072 .
+
+:TV_Line_073_ES a :TranslationVariant ;
+    :text "Amada yaceré con él, junto a quien amo,"^^xsd:string ;
+    :relatedTo :Line_073 .
+
+:TV_Line_074_ES a :TranslationVariant ;
+    :text "cometiendo una culpa piadosa; pues más largo es el tiempo"^^xsd:string ;
+    :relatedTo :Line_074 .
+
+:TV_Line_075_ES a :TranslationVariant ;
+    :text "en que debo agradar a los de abajo que a los de aquí."^^xsd:string ;
+    :relatedTo :Line_075 .
+
+:TV_Line_076_ES a :TranslationVariant ;
+    :text "Allí yaceré para siempre; pero tú, si te parece,"^^xsd:string ;
+    :relatedTo :Line_076 .
+
+:TV_Line_077_ES a :TranslationVariant ;
+    :text "deshonra lo que los dioses tienen por honroso."^^xsd:string ;
+    :relatedTo :Line_077 .
+
+:TV_Line_078_ES a :TranslationVariant ;
+    :text "Yo no lo tengo por deshonroso, pero"^^xsd:string ;
+    :relatedTo :Line_078 .
+
+:TV_Line_079_ES a :TranslationVariant ;
+    :text "soy incapaz de actuar por la fuerza contra los ciudadanos."^^xsd:string ;
+    :relatedTo :Line_079 .
+
+:TV_Line_080_ES a :TranslationVariant ;
+    :text "Tú podrías alegar eso; pero yo"^^xsd:string ;
+    :relatedTo :Line_080 .
+
+:TV_Line_081_ES a :TranslationVariant ;
+    :text "iré a levantar una tumba para mi hermano queridísimo."^^xsd:string ;
+    :relatedTo :Line_081 .
+
+:TV_Line_082_ES a :TranslationVariant ;
+    :text "Ay, infeliz, cuánto temo por ti."^^xsd:string ;
+    :relatedTo :Line_082 .
+
+:TV_Line_083_ES a :TranslationVariant ;
+    :text "No temas por mí; endereza tu propio destino."^^xsd:string ;
+    :relatedTo :Line_083 .
+
+:TV_Line_084_ES a :TranslationVariant ;
+    :text "Pero al menos no anuncies esto a nadie,"^^xsd:string ;
+    :relatedTo :Line_084 .
+
+:TV_Line_085_ES a :TranslationVariant ;
+    :text "oculta la acción en secreto; yo haré lo mismo."^^xsd:string ;
+    :relatedTo :Line_085 .
+
+:TV_Line_086_ES a :TranslationVariant ;
+    :text "Ay, no: proclámalo. Mucho más odiosa serás"^^xsd:string ;
+    :relatedTo :Line_086 .
+
+:TV_Line_087_ES a :TranslationVariant ;
+    :text "si callas, si no lo pregonas ante todos."^^xsd:string ;
+    :relatedTo :Line_087 .
+
+:TV_Line_088_ES a :TranslationVariant ;
+    :text "Tienes un corazón ardiente para asuntos fríos."^^xsd:string ;
+    :relatedTo :Line_088 .
+
+:TV_Line_089_ES a :TranslationVariant ;
+    :text "Pero sé que agrado a quienes más debo agradar."^^xsd:string ;
+    :relatedTo :Line_089 .

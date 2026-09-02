@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-portuguese a owl:Ontology .
+# Portuguese translation variants for 211_to_222.ttl
+
+:TV_Line_211_PT a :TranslationVariant ;
+:text "A ti agrada, filho de Meneceu, fazer estas coisas"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_PT a :TranslationVariant ;
+:text "ao inimigo desta cidade e ao favorável à cidade;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_PT a :TranslationVariant ;
+:text "e usar toda lei, isto está em teu poder,"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_PT a :TranslationVariant ;
+:text "tanto sobre os mortos quanto sobre quantos vivemos."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_PT a :TranslationVariant ;
+:text "Que agora sejais guardiões do que foi dito."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_PT a :TranslationVariant ;
+:text "Propõe a algum mais jovem carregar isso."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_PT a :TranslationVariant ;
+:text "Mas já há guardas prontos para o morto."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_PT a :TranslationVariant ;
+:text "Que outra coisa, então, ainda ordenarias?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_PT a :TranslationVariant ;
+:text "Que não cedais aos que desobedecem a isto."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_PT a :TranslationVariant ;
+:text "Não há homem tão tolo que ame morrer."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_PT a :TranslationVariant ;
+:text "E contudo esse é o salário; mas, por esperanças,"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_PT a :TranslationVariant ;
+:text "muitas vezes o ganho destruiu homens."^^xsd:string ;
+:relatedTo :Line_222 .

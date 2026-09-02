@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-portuguese a owl:Ontology .
+# Portuguese translation variants for 302_to_323.ttl
+
+:TV_Line_302_PT a :TranslationVariant ;
+:text "Mas quantos, ganhando salário, realizaram estas coisas,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_PT a :TranslationVariant ;
+:text "com o tempo acabaram por pagar pena."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_PT a :TranslationVariant ;
+:text "Mas, se Zeus ainda recebe respeito de mim,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_PT a :TranslationVariant ;
+:text "sabe bem isto, e sob juramento te digo:"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_PT a :TranslationVariant ;
+:text "se não encontrardes o autor por própria mão deste sepultamento"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_PT a :TranslationVariant ;
+:text "e o mostrardes visível aos meus olhos,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_PT a :TranslationVariant ;
+:text "Hades sozinho não vos bastará, antes que,"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_PT a :TranslationVariant ;
+:text "vivos e suspensos, reveleis esta insolência,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_PT a :TranslationVariant ;
+:text "para que, sabendo de onde se deve obter ganho,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_PT a :TranslationVariant ;
+:text "doravante o arrebateis, e aprendais que"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_PT a :TranslationVariant ;
+:text "não se deve amar lucrar de tudo."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_PT a :TranslationVariant ;
+:text "Pois dos ganhos vergonhosos verias a maioria"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_PT a :TranslationVariant ;
+:text "arruinada mais do que salva."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_PT a :TranslationVariant ;
+:text "Permitirás falar, ou devo virar-me assim e ir?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_PT a :TranslationVariant ;
+:text "Não sabes também agora como falas de modo penoso?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_PT a :TranslationVariant ;
+:text "Mordo-te nos ouvidos ou na alma?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_PT a :TranslationVariant ;
+:text "Por que regulas onde está minha dor?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_PT a :TranslationVariant ;
+:text "Quem fez o ato aflige-te a mente; os ouvidos, eu."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_PT a :TranslationVariant ;
+:text "Ai, como nasceste claramente tagarela."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_PT a :TranslationVariant ;
+:text "Mas nunca fui eu quem fez este ato."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_PT a :TranslationVariant ;
+:text "E ainda isso por dinheiro, tendo vendido a alma."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_PT a :TranslationVariant ;
+:text "Ah, é terrível, para quem assim pensa, pensar também falsidades."^^xsd:string ;
+:relatedTo :Line_323 .

@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-persian a owl:Ontology .
+# Persian translation variants for 223_to_252.ttl
+
+:TV_Line_223_FA a :TranslationVariant ;
+:text "ای شاه، نمی‌گویم که از زیر شتاب"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_FA a :TranslationVariant ;
+:text "نفس‌زنان رسیدم و پای سبک برداشتم."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_FA a :TranslationVariant ;
+:text "زیرا ایستادن‌های بسیارِ اندیشه‌ها مرا نگه داشت،"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_FA a :TranslationVariant ;
+:text "در راه‌ها خود را برای بازگشت به دور می‌چرخاندم؛"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_FA a :TranslationVariant ;
+:text "زیرا جانم با من سخنان بسیار می‌گفت:"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_FA a :TranslationVariant ;
+:text "بیچاره، چرا می‌روی به جایی که چون برسی کیفر خواهی داد؟"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_FA a :TranslationVariant ;
+:text "تیره‌بخت، باز می‌مانی؟ و اگر کرئون اینها را"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_FA a :TranslationVariant ;
+:text "از مردی دیگر بداند، پس چگونه تو درد نکشی؟"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_FA a :TranslationVariant ;
+:text "چنین چیزهایی را در ذهن می‌گرداندم و با کندی آهسته پیش می‌رفتم،"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_FA a :TranslationVariant ;
+:text "و بدین‌گونه راه کوتاه دراز می‌شود."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_FA a :TranslationVariant ;
+:text "اما سرانجام آمدن به اینجا نزد تو پیروز شد؛"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_FA a :TranslationVariant ;
+:text "و اگرچه هیچ نخواهم گفت، با این همه خواهم گفت."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_FA a :TranslationVariant ;
+:text "زیرا با چنگ‌زدن به این امید می‌آیم،"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_FA a :TranslationVariant ;
+:text "که چیزی جز آنچه سرنوشت‌مند است بر من نخواهد گذشت."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_FA a :TranslationVariant ;
+:text "آن چیست که به سببش چنین دل‌مردگی داری؟"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_FA a :TranslationVariant ;
+:text "نخست می‌خواهم چیزهای مربوط به خودم را به تو بگویم؛ زیرا"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_FA a :TranslationVariant ;
+:text "من نه این کار را کردم و نه دیدم که کننده آن که بود،"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_FA a :TranslationVariant ;
+:text "و به حق نباید در هیچ بدی بیفتم."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_FA a :TranslationVariant ;
+:text "خوب نشانه می‌گیری و این کار را از هر سو حصار می‌کشی؛"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_FA a :TranslationVariant ;
+:text "آشکار می‌کنی که چیز تازه‌ای را نشان خواهی داد."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_FA a :TranslationVariant ;
+:text "زیرا چیزهای هولناک، تردید بسیار بر من می‌نهند."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_FA a :TranslationVariant ;
+:text "پس هرگز نخواهی گفت، سپس رها شده می‌روی؟"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_FA a :TranslationVariant ;
+:text "اکنون به تو می‌گویم: کسی همین دم آن مرده را"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_FA a :TranslationVariant ;
+:text "دفن کرده و رفته است، و بر پوستش گرد"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_FA a :TranslationVariant ;
+:text "خشک و تشنه افشانده و آنچه باید، به آیین پاک انجام داده است."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_FA a :TranslationVariant ;
+:text "چه می‌گویی؟ کدام مرد بود که به اینها دلیرانه دست زد؟"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_FA a :TranslationVariant ;
+:text "نمی‌دانم؛ زیرا آنجا نه ضربه‌ای از کلنگی بود،"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_FA a :TranslationVariant ;
+:text "نه خاک‌افکنی از بیلی دوشاخه؛ زمین سخت بود"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_FA a :TranslationVariant ;
+:text "و خشک، نشکافته و نه زیر چرخ‌ها"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_FA a :TranslationVariant ;
+:text "ردخورده؛ بلکه کارگرِ کار، هر که بود، بی‌نشان بود."^^xsd:string ;
+:relatedTo :Line_252 .

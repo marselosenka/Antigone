@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-arabic a owl:Ontology .
+# Arabic translation variants for 302_to_323.ttl
+
+:TV_Line_302_AR a :TranslationVariant ;
+:text "أما كل من أنجز هذه الأمور من أجل الأجر،"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_AR a :TranslationVariant ;
+:text "فقد استوفوا يومًا، مع الزمن، أن يدفعوا العقوبة."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_AR a :TranslationVariant ;
+:text "لكن إن كان زيوس لا يزال ينال مني تبجيلًا،"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_AR a :TranslationVariant ;
+:text "فاعلم هذا جيدًا، وأقوله لك بقسم:"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_AR a :TranslationVariant ;
+:text "إن لم تجدوا الفاعل بيده لهذا الدفن"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_AR a :TranslationVariant ;
+:text "وتظهروه أمام عينيّ،"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_AR a :TranslationVariant ;
+:text "فلن يكفيكم هاديس وحده، قبل أن"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_AR a :TranslationVariant ;
+:text "تُعلقوا أحياء وتكشفوا هذه الوقاحة،"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_AR a :TranslationVariant ;
+:text "لكي تعرفوا من أين يجب جلب الربح"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_AR a :TranslationVariant ;
+:text "في المستقبل فتنهبوا، وتتعلموا أن"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_AR a :TranslationVariant ;
+:text "ليس من كل شيء ينبغي حب الكسب."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_AR a :TranslationVariant ;
+:text "فمن المكاسب القبيحة ترى أكثر الناس"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_AR a :TranslationVariant ;
+:text "هالكين أكثر مما هم ناجون."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_AR a :TranslationVariant ;
+:text "أتسمح لي أن أتكلم، أم أستدير وأمضي هكذا؟"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_AR a :TranslationVariant ;
+:text "أما تعلم الآن أيضًا كم تقول كلامًا مؤذيًا؟"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_AR a :TranslationVariant ;
+:text "أفي الأذنين أعض، أم في النفس؟"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_AR a :TranslationVariant ;
+:text "ولمَ تقيس موضع ألمي؟"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_AR a :TranslationVariant ;
+:text "الفاعل يؤلم أفكارك، أما أذنيك فأنا."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_AR a :TranslationVariant ;
+:text "وا أسفاه، ما أوضح أنك وُلدت ثرثارًا."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_AR a :TranslationVariant ;
+:text "ومع ذلك لم أكن قط فاعل هذا العمل."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_AR a :TranslationVariant ;
+:text "بل فعلت ذلك أيضًا من أجل الفضة، بائعًا نفسك."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_AR a :TranslationVariant ;
+:text "آه، حقًّا فظيع لمن يظن أن يظن ظنونًا كاذبة."^^xsd:string ;
+:relatedTo :Line_323 .

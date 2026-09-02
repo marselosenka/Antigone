@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-japanese a owl:Ontology .
+# Japanese translation variants for 63_to_89.ttl
+
+:TV_Line_063_JA a :TranslationVariant ;
+:text "さらに、私たちはより強い者たちに支配されているのだから、"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_JA a :TranslationVariant ;
+:text "これらを聞き従い、さらにこれより苦しいことにも従わねばならない。"^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_JA a :TranslationVariant ;
+:text "だから私は、地の下にいる者たちに"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_JA a :TranslationVariant ;
+:text "許しを保ってくれるよう願いながら、私はこれを強いられているのだから、"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_JA a :TranslationVariant ;
+:text "権力の座にある者たちに従うつもりだ。というのも、"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_JA a :TranslationVariant ;
+:text "度を越したことを行うのは、何の分別も持たないからだ。"^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_JA a :TranslationVariant ;
+:text "私はあなたに命じもしないし、たとえあなたがなお望んでも、"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_JA a :TranslationVariant ;
+:text "行うなら、私と共に喜んで行うことはないだろう。"^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_JA a :TranslationVariant ;
+:text "だが、あなたがよいと思うように知っていなさい。私はあの人を"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_JA a :TranslationVariant ;
+:text "葬る。これを行って死ぬことは、私には美しい。"^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_JA a :TranslationVariant ;
+:text "愛する者として、愛する者と共に、私は彼のそばに横たわるだろう、"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_JA a :TranslationVariant ;
+:text "聖なる罪を犯して。というのも、ここにいる者たちよりも、"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_JA a :TranslationVariant ;
+:text "下なる者たちを喜ばせねばならない時のほうが長いからだ。"^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_JA a :TranslationVariant ;
+:text "あそこでは私は永遠に横たわるのだから。だがあなたがよいと思うなら、"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_JA a :TranslationVariant ;
+:text "神々の尊いものを不名誉なものとして持っていなさい。"^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_JA a :TranslationVariant ;
+:text "私はそれを不名誉なものとはしない、しかし"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_JA a :TranslationVariant ;
+:text "市民たちの力に逆らって行うようには生まれておらず、どうすることもできない。"^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_JA a :TranslationVariant ;
+:text "あなたはそれを口実にしていればよい。だが私は、墓を"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_JA a :TranslationVariant ;
+:text "最愛の兄弟に盛るために進んで行く。"^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_JA a :TranslationVariant ;
+:text "ああ、哀れなあなた、私はあなたのことをどれほど深く恐れていることか。"^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_JA a :TranslationVariant ;
+:text "私のために先に恐れないで。あなた自身の運命をまっすぐにしなさい。"^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_JA a :TranslationVariant ;
+:text "しかしどうか、この行いを誰にも前もって告げないで、"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_JA a :TranslationVariant ;
+:text "その業を秘密に隠して。私も同じようにする。"^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_JA a :TranslationVariant ;
+:text "ああ、言いふらしなさい。黙っていれば、あなたははるかに憎まれるだろう、"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_JA a :TranslationVariant ;
+:text "これをすべての者に布告しないならば。"^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_JA a :TranslationVariant ;
+:text "あなたは冷たいことに対して熱い心を持っている。"^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_JA a :TranslationVariant ;
+:text "だが私は、私が最も喜ばせねばならない者たちを喜ばせていると知っている。"^^xsd:string ;
+:relatedTo :Line_089 .

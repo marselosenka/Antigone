@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-indonesian a owl:Ontology .
+# Indonesian translation variants for 781_to_805.ttl
+
+:TV_Line_781_ID a :TranslationVariant ;
+:text "Eros, tak terkalahkan dalam pertempuran, Eros, yang jatuh atas harta benda,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_ID a :TranslationVariant ;
+:text "yang bermalam pada pipi lembut seorang gadis muda,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Line 783 and 784 do not exist in Antigone
+
+:TV_Line_785_ID a :TranslationVariant ;
+:text "engkau mengembara menyeberangi laut dan di halaman-halaman penjaga ladang;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_ID a :TranslationVariant ;
+:text "dan darimu, di antara para dewa abadi, tidak seorang pun dapat lolos,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Line 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_ID a :TranslationVariant ;
+:text "tidak pula di antara manusia yang hidup sehari; dan siapa yang memilikimu menjadi gila."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_ID a :TranslationVariant ;
+:text "Engkau juga menyeret pikiran orang-orang adil menjadi tidak adil menuju cela,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_ID a :TranslationVariant ;
+:text "dan engkau juga telah mengguncangkan pertikaian darah-kerabat para lelaki ini;"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Line 793 and 794 do not exist in Antigone
+
+:TV_Line_795_ID a :TranslationVariant ;
+:text "hasrat yang tampak jelas dari kelopak mata mempelai beranjang indah menang,"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_ID a :TranslationVariant ;
+:text "duduk sebagai pendamping dalam kekuasaan hukum-hukum besar,"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Line 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_ID a :TranslationVariant ;
+:text "hukum-hukum; sebab dewi Afrodite bermain tanpa dapat dilawan."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_ID a :TranslationVariant ;
+:text "Dan sekarang aku sendiri sudah terbawa keluar"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_ID a :TranslationVariant ;
+:text "dari hukum-hukum ketika melihat hal-hal ini, dan menahan"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_ID a :TranslationVariant ;
+:text "sumber-sumber air mata tidak lagi dapat kulakukan,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_ID a :TranslationVariant ;
+:text "ketika aku melihat kamar yang menidurkan semua orang,"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_ID a :TranslationVariant ;
+:text "yang sedang ditempuh Antigone ini."^^xsd:string ;
+:relatedTo :Line_805 .

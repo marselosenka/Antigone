@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-arabic a owl:Ontology .
+# Arabic translation variants for 762_to_772.ttl
+
+:TV_Line_762_AR a :TranslationVariant ;
+:text "لا، ليس أمامي أنا، لا تظن ذلك أبدًا،"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_AR a :TranslationVariant ;
+:text "ولا هي ستهلك قريبة مني، وأنت لن ترى أبدًا"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_AR a :TranslationVariant ;
+:text "رأسي بعينيك ناظرًا،"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_AR a :TranslationVariant ;
+:text "لكي تهذي مصاحبًا من يريد من أصدقائك."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_AR a :TranslationVariant ;
+:text "الرجل، أيها الملك، قد مضى سريعًا من الغضب؛"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_AR a :TranslationVariant ;
+:text "والعقل في مثل هذا العمر، إذا تألم، ثقيل."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_AR a :TranslationVariant ;
+:text "ليفعل، وليفكر أعظم مما يليق برجل؛"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_AR a :TranslationVariant ;
+:text "لكن الفتاتين هاتين لن يخلصا من المصير."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_AR a :TranslationVariant ;
+:text "أتقصد حقًا أن تقتل الاثنتين كلتيهما؟"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_AR a :TranslationVariant ;
+:text "لا التي لم تلمس؛ فقد قلت حسنًا."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_AR a :TranslationVariant ;
+:text "وبأي موت يفكر أن يقتلها؟"^^xsd:string ;
+:relatedTo :Line_772 .

@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-bengali a owl:Ontology .
+# Bengali translation variants for 806_to_822.ttl
+
+:TV_Line_806_BN a :TranslationVariant ;
+:text "আমাকে দেখো, হে পিতৃভূমির নাগরিকেরা, আমি শেষ পথ ধরে"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_BN a :TranslationVariant ;
+:text "হেঁটে চলেছি, সূর্যের শেষ আলো দেখছি,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Line 808 and 809 do not exist in Antigone
+
+:TV_Line_810_BN a :TranslationVariant ;
+:text "আর কখনও নয়; বরং সকলের-শয্যাসঙ্গী হেডিস আমাকে জীবিত অবস্থায় নিয়ে যাচ্ছে"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_BN a :TranslationVariant ;
+:text "আকেরনের"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_BN a :TranslationVariant ;
+:text "তীরে; বিবাহগীতের অংশী নই, বিবাহ-আচারেও নই,"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Line 813 and 814 do not exist in Antigone
+
+:TV_Line_815_BN a :TranslationVariant ;
+:text "কোনো গীত এখনও আমাকে নিয়ে বিবাহগান গায়নি; বরং আমি আকেরনকেই বিবাহ করব।"^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in Antigone
+
+:TV_Line_817_BN a :TranslationVariant ;
+:text "তাহলে খ্যাতিমান হয়ে এবং প্রশংসা নিয়ে"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_BN a :TranslationVariant ;
+:text "তুমি মৃতদের এই আচ্ছাদিত গভীরে চলে যাচ্ছ,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_BN a :TranslationVariant ;
+:text "না কোনো ক্ষয়কারী রোগে আঘাত পেয়ে,"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_BN a :TranslationVariant ;
+:text "না তলোয়ারের আঘাতে মৃত্যুর ভাগ পেয়ে;"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_BN a :TranslationVariant ;
+:text "বরং নিজের বিধানে, জীবিত, একাই,"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_BN a :TranslationVariant ;
+:text "মরণশীলদের মধ্যে একমাত্র তুমি হেডিসে নেমে যাবে।"^^xsd:string ;
+:relatedTo :Line_822 .

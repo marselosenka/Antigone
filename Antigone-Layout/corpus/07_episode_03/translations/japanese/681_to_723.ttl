@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-japanese a owl:Ontology .
+# Japanese translation variants for 681_to_723.ttl
+
+:TV_Line_681_JA a :TranslationVariant ;
+:text "私たちには、もし時によって判断を奪われていないなら、"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_JA a :TranslationVariant ;
+:text "あなたが語ることについて、分別をもって語っているように思われる。"^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_JA a :TranslationVariant ;
+:text "父よ、神々は人間たちに知性を生じさせます、"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_JA a :TranslationVariant ;
+:text "存在するあらゆる所有物の中で最も高いものを。"^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_JA a :TranslationVariant ;
+:text "しかし、あなたがこれを正しく語っていないと、"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_JA a :TranslationVariant ;
+:text "私は言うこともできず、言い方を知りもしていません。"^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_JA a :TranslationVariant ;
+:text "しかし、別の者にも、うまくいっていることがあり得るでしょう。"^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_JA a :TranslationVariant ;
+:text "私はあなたのために、すべてを見張るように生まれています、"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_JA a :TranslationVariant ;
+:text "誰かが言うこと、誰かが行うこと、あるいは非難すべきことを。"^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_JA a :TranslationVariant ;
+:text "というのも、あなたの目は市民の男にとって恐ろしいのです、"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_JA a :TranslationVariant ;
+:text "あなたが聞いて喜ばないような言葉に対しては。"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_JA a :TranslationVariant ;
+:text "しかし私には、闇の中でこれらを聞くことができます、"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_JA a :TranslationVariant ;
+:text "この娘について、町がどのように嘆いているかを。"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_JA a :TranslationVariant ;
+:text "すべての女の中で最も値しない者として、"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_JA a :TranslationVariant ;
+:text "最も名高い行いのために、最も悪く滅びると。"^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_JA a :TranslationVariant ;
+:text "彼女は、自分の実の兄弟が殺し合いの中で"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_JA a :TranslationVariant ;
+:text "倒れ、葬られず、肉を食う犬たちに"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_JA a :TranslationVariant ;
+:text "滅ぼされることも、鳥の何かに滅ぼされることも許さなかった。"^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_JA a :TranslationVariant ;
+:text "この女は黄金の名誉を受けるに値しないのでしょうか。"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_JA a :TranslationVariant ;
+:text "このような暗い噂が、静かに広がっています。"^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_JA a :TranslationVariant ;
+:text "私には、父よ、あなたが幸いに行うことより"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_JA a :TranslationVariant ;
+:text "尊い所有物は何一つありません。"^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_JA a :TranslationVariant ;
+:text "というのも、父が栄光に輝くことより、子らにとって"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_JA a :TranslationVariant ;
+:text "大きな誇りは何でしょう。また子らから父にとって何でしょう。"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_JA a :TranslationVariant ;
+:text "だから、一つの性質だけを自分の中に持たないでください、"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_JA a :TranslationVariant ;
+:text "あなたの言うこと、そして他には何もないものだけが正しくあると。"^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_JA a :TranslationVariant ;
+:text "というのも、自分だけが考えていると思う者、"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_JA a :TranslationVariant ;
+:text "あるいは他の誰も持たない舌や魂を持つと思う者、"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_JA a :TranslationVariant ;
+:text "そのような者たちは、開いてみれば空であると見られました。"^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_JA a :TranslationVariant ;
+:text "むしろ、たとえ誰かが賢いとしても、人が多くを学ぶことは"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_JA a :TranslationVariant ;
+:text "何も恥ずべきことではなく、過度に張りつめないことも恥ではありません。"^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_JA a :TranslationVariant ;
+:text "冬の激流の流れのそばで見るでしょう、"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_JA a :TranslationVariant ;
+:text "木々のうち譲るものは、枝をどのように救われるかを、"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_JA a :TranslationVariant ;
+:text "だが逆らって張るものは、根ごと滅びることを。"^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_JA a :TranslationVariant ;
+:text "同じように、船の帆脚を"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_JA a :TranslationVariant ;
+:text "強く張って何も譲らない者は、下へ仰向けに"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_JA a :TranslationVariant ;
+:text "腰掛けを転覆させ、以後は航海するのです。"^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_JA a :TranslationVariant ;
+:text "だから譲り、怒りに変化を与えてください。"^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_JA a :TranslationVariant ;
+:text "というのも、もし私のような若い者にも"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_JA a :TranslationVariant ;
+:text "何か判断があるなら、私は、はるかに最も尊いのは"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_JA a :TranslationVariant ;
+:text "人があらゆる知識に満ちて生まれることだと言います。"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_JA a :TranslationVariant ;
+:text "しかし、そうでないなら、事はその方へ傾かないのが常ですから、"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_JA a :TranslationVariant ;
+:text "よく語る者たちから学ぶことも美しいのです。"^^xsd:string ;
+:relatedTo :Line_723 .

@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-italian a owl:Ontology .
+# Italian translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_IT a :TranslationVariant ;
+:text "O dai molti nomi, ornamento della sposa cadmea,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_IT a :TranslationVariant ;
+:text "e figlio di Zeus dal tuono grave,"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_IT a :TranslationVariant ;
+:text "stirpe, tu che circondi di cura"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_IT a :TranslationVariant ;
+:text "la celebre Italia, e governi"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_IT a :TranslationVariant ;
+:text "nei grembi comuni dell’Eleusinia"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_IT a :TranslationVariant ;
+:text "Deò, Bacco dei Baccanti,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_IT a :TranslationVariant ;
+:text "tu che abiti Tebe, città madre,"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_IT a :TranslationVariant ;
+:text "presso gli umidi"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Lines 1123 and 1124 do not exist in canonical.
+
+:TV_Line_1125_IT a :TranslationVariant ;
+:text "flutti dell’Ismeno e sopra la semina del drago selvaggio."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_IT a :TranslationVariant ;
+:text "E sopra la rupe a due cime ti vide il bagliore"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_IT a :TranslationVariant ;
+:text "fumoso, là dove le Coricie"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_IT a :TranslationVariant ;
+:text "ninfe Baccanti avanzano,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in canonical.
+
+:TV_Line_1130_IT a :TranslationVariant ;
+:text "e la corrente di Castalia."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_IT a :TranslationVariant ;
+:text "E a te le pendici dei monti Nisei,"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_IT a :TranslationVariant ;
+:text "coperte d’edera, e la verde riva"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_IT a :TranslationVariant ;
+:text "ricca di grappoli mandano,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_IT a :TranslationVariant ;
+:text "mentre parole immortali"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_IT a :TranslationVariant ;
+:text "gridano euoi, sorvegliando le vie tebane;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in canonical.
+
+:TV_Line_1137_IT a :TranslationVariant ;
+:text "tu onori quella città sopra tutte le città"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_IT a :TranslationVariant ;
+:text "insieme con la madre colpita dal fulmine;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in canonical.
+
+:TV_Line_1140_IT a :TranslationVariant ;
+:text "e ora, poiché è presa da violenta"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_IT a :TranslationVariant ;
+:text "malattia la città di tutto il popolo,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_IT a :TranslationVariant ;
+:text "vieni con piede purificatore oltre il pendio parnasio"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Lines 1143 and 1144 do not exist in canonical.
+
+:TV_Line_1145_IT a :TranslationVariant ;
+:text "o oltre lo stretto risonante di gemiti."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_IT a :TranslationVariant ;
+:text "Io, guida del coro degli astri che spirano fuoco, delle notturne"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_IT a :TranslationVariant ;
+:text "voci sorvegliante,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_IT a :TranslationVariant ;
+:text "figlio, nato da Zeus,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in canonical.
+
+:TV_Line_1150_IT a :TranslationVariant ;
+:text "o signore, insieme con le tue ancelle"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_IT a :TranslationVariant ;
+:text "Tiadi, che invasate"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_IT a :TranslationVariant ;
+:text "te, il dispensiere Bacco, celebrano."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Lines 1153 and 1154 do not exist in canonical.

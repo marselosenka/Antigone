@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-indonesian a owl:Ontology .
+# Indonesian translation variants for 563_to_581.ttl
+
+:TV_Line_563_ID a :TranslationVariant ;
+:text "Sebab, tuan, tidak pernah pikiran siapa pun yang lahir"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_ID a :TranslationVariant ;
+:text "tetap pada mereka yang bernasib buruk, melainkan keluar dari tempatnya."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_ID a :TranslationVariant ;
+:text "Bagimu setidaknya, ketika engkau memilih berbuat jahat bersama orang jahat."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_ID a :TranslationVariant ;
+:text "Sebab hidup apa yang dapat kujalani seorang diri tanpa dia ini?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_ID a :TranslationVariant ;
+:text "Tetapi jangan katakan bahwa dia ini ada; sebab ia tidak ada lagi."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_ID a :TranslationVariant ;
+:text "Tetapi apakah engkau akan membunuh pengantin anakmu sendiri?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_ID a :TranslationVariant ;
+:text "Sebab ladang-ladang perempuan lain juga dapat dibajak."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_ID a :TranslationVariant ;
+:text "Tidak sebagaimana ia telah dipasangkan dengan gadis ini."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_ID a :TranslationVariant ;
+:text "Aku membenci perempuan jahat bagi anak-anak lelaki."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_ID a :TranslationVariant ;
+:text "Wahai Haimon yang paling tercinta, betapa ayahmu menghinamu."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_ID a :TranslationVariant ;
+:text "Terlalu banyak engkau menyusahkan, engkau dan ranjangmu."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_ID a :TranslationVariant ;
+:text "Sungguhkah engkau akan merampas gadis ini dari anakmu sendiri?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_ID a :TranslationVariant ;
+:text "Hadeslah yang lahir untuk menghentikan perkawinan ini."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_ID a :TranslationVariant ;
+:text "Telah diputuskan, tampaknya, bahwa dia ini harus mati."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_ID a :TranslationVariant ;
+:text "Bagi engkau dan bagiku juga. Jangan ada penundaan lagi, tetapi dia"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_ID a :TranslationVariant ;
+:text "bawa ke dalam, para budak; dan mulai sekarang haruslah"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_ID a :TranslationVariant ;
+:text "perempuan-perempuan ini menjadi perempuan, dan tidak bebas berkeliaran."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_ID a :TranslationVariant ;
+:text "Sebab bahkan yang berani pun melarikan diri, ketika dekat"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_ID a :TranslationVariant ;
+:text "mereka sudah melihat Hades dari hidupnya."^^xsd:string ;
+:relatedTo :Line_581 .

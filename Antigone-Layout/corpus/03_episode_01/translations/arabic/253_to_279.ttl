@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-arabic a owl:Ontology .
+# Arabic translation variants for 253_to_279.ttl
+
+:TV_Line_253_AR a :TranslationVariant ;
+:text "ولما أرانا أول حارس نهاري لنا الأمر،"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_AR a :TranslationVariant ;
+:text "حضر عند الجميع عجب صعب؛"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_AR a :TranslationVariant ;
+:text "فقد اختفى، لا كمن في قبر تام،"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_AR a :TranslationVariant ;
+:text "بل كان عليه غبار رقيق، كمن يفر من دنس."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_AR a :TranslationVariant ;
+:text "ولم تظهر علامات وحش ولا كلب"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_AR a :TranslationVariant ;
+:text "أتى أو مزق."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_AR a :TranslationVariant ;
+:text "وكانت كلمات سيئة تضج بيننا،"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_AR a :TranslationVariant ;
+:text "حارس يوبخ حارسًا، وكان الأمر سيصير"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_AR a :TranslationVariant ;
+:text "ضربًا في النهاية، ولم يكن هناك من يمنع."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_AR a :TranslationVariant ;
+:text "فكل واحد كان هو المنجِز،"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_AR a :TranslationVariant ;
+:text "ولا أحد كان واضحًا، بل كان يلوذ بعدم العلم."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_AR a :TranslationVariant ;
+:text "وكنا مستعدين حتى لحمل الحديد المحمى بأيدينا،"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_AR a :TranslationVariant ;
+:text "والمشي في النار، والحلف بالآلهة"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_AR a :TranslationVariant ;
+:text "أننا لا فعلنا ولا علمنا مع أحد"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_AR a :TranslationVariant ;
+:text "دبر الأمر أو أنجزه."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_AR a :TranslationVariant ;
+:text "وفي النهاية، لما لم يكن للباحثين مزيد شيء،"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_AR a :TranslationVariant ;
+:text "قال واحد، فدفع الجميع إلى الأرض"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_AR a :TranslationVariant ;
+:text "أن ينكسوا رؤوسهم خوفًا؛ إذ لم يكن لدينا"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_AR a :TranslationVariant ;
+:text "لا أن نعارض ولا كيف، إن فعلنا،"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_AR a :TranslationVariant ;
+:text "نحسن التصرف. وكان القول أن هذا العمل"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_AR a :TranslationVariant ;
+:text "ينبغي أن يُرفع إليك ولا يُخفى."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_AR a :TranslationVariant ;
+:text "وغلب هذا الرأي، وأنا الشقي"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_AR a :TranslationVariant ;
+:text "أصابني القرعة أن أنال هذا الخير."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_AR a :TranslationVariant ;
+:text "وقد حضرت كارهًا إلى غير راغبين، أعلم ذلك؛"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_AR a :TranslationVariant ;
+:text "فلا أحد يحب رسول كلمات سيئة."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_AR a :TranslationVariant ;
+:text "أيها الملك، إن فكري منذ زمن يتدبر"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_AR a :TranslationVariant ;
+:text "لعل هذا العمل شيء مسوق من الآلهة."^^xsd:string ;
+:relatedTo :Line_279 .

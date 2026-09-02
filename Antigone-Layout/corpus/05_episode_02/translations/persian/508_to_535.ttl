@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-persian a owl:Ontology .
+# Persian translation variants for 508_to_535.ttl
+
+:TV_Line_508_FA a :TranslationVariant ;
+:text "تو یگانه کسی از این کادموسیانی که این را می‌بیند."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_FA a :TranslationVariant ;
+:text "اینان نیز می‌بینند، اما دهانشان را برای تو می‌بندند."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_FA a :TranslationVariant ;
+:text "و تو شرم نمی‌کنی، اگر جدا از اینان می‌اندیشی؟"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_FA a :TranslationVariant ;
+:text "هیچ شرمی نیست که هم‌زهدانان خود را گرامی بداری."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_FA a :TranslationVariant ;
+:text "پس آیا آن‌که در سوی مخالف مرد نیز هم‌خون نبود؟"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_FA a :TranslationVariant ;
+:text "هم‌خون بود، از یک مادر و همان پدر."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_FA a :TranslationVariant ;
+:text "پس چگونه برای او نعمتی بی‌دینانه گرامی می‌داری؟"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_FA a :TranslationVariant ;
+:text "آن جسدِ مرده بر این سخنان گواهی نخواهد داد."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_FA a :TranslationVariant ;
+:text "اگر او را برابر با بی‌دین گرامی بداری، چنین خواهد بود."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_FA a :TranslationVariant ;
+:text "زیرا او چون برده نمرد، بلکه چون برادر مرد."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_FA a :TranslationVariant ;
+:text "اما در حال ویران کردن این سرزمین؛ و آن دیگری در دفاع از آن ایستاد."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_FA a :TranslationVariant ;
+:text "با این همه، هادس همین قانون‌ها را می‌طلبد."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_FA a :TranslationVariant ;
+:text "اما نیک نباید سهمی برابر با بد داشته باشد."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_FA a :TranslationVariant ;
+:text "چه کسی می‌داند که آیا در زیرزمین اینها پاک شمرده می‌شوند؟"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_FA a :TranslationVariant ;
+:text "دشمن هرگز، حتی چون بمیرد، دوست نیست."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_FA a :TranslationVariant ;
+:text "من برای هم‌دشمنی زاده نشده‌ام، بلکه برای هم‌دوستی."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_FA a :TranslationVariant ;
+:text "پس اکنون به زیر برو، اگر باید دوست بداری،"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_FA a :TranslationVariant ;
+:text "آنان را دوست بدار؛ اما تا من زنده‌ام، زنی فرمان نخواهد راند."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_FA a :TranslationVariant ;
+:text "و اکنون، پیش دروازه‌ها این ایسمینه است،"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_FA a :TranslationVariant ;
+:text "اشک‌های خواهرانه‌دوست از زیر فرو می‌ریزد؛"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_FA a :TranslationVariant ;
+:text "و ابری بر فراز ابروان، چهره خون‌آلود"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_FA a :TranslationVariant ;
+:text "او را زشت می‌کند،"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_FA a :TranslationVariant ;
+:text "در حالی که گونه زیبایش را خیس می‌سازد."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_FA a :TranslationVariant ;
+:text "و تو، که در خانه چون افعی پنهان خزیده بودی،"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_FA a :TranslationVariant ;
+:text "نهانی خون مرا می‌مکیدی، و من نمی‌فهمیدم"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_FA a :TranslationVariant ;
+:text "که دو تباهی و دو شورش بر تخت‌ها را پرورش می‌دهم؛"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_FA a :TranslationVariant ;
+:text "بیا، اکنون به من بگو، آیا تو نیز در این دفن"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_FA a :TranslationVariant ;
+:text "خواهی گفت که شریک بوده‌ای، یا سوگند می‌خوری که نمی‌دانی؟"^^xsd:string ;
+:relatedTo :Line_535 .

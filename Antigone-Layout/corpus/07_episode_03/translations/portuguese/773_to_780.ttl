@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-portuguese a owl:Ontology .
+# Portuguese translation variants for 773_to_780.ttl
+
+:TV_Line_773_PT a :TranslationVariant ;
+:text "Levando-a aonde haja deserta uma trilha de mortais,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_PT a :TranslationVariant ;
+:text "eu a esconderei viva em uma cavidade rochosa,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_PT a :TranslationVariant ;
+:text "pondo diante dela apenas tanto alimento quanto baste ao sacrilégio,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_PT a :TranslationVariant ;
+:text "para que toda a cidade escape da contaminação."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_PT a :TranslationVariant ;
+:text "E ali, pedindo a Hades, o único entre os deuses que ela venera,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_PT a :TranslationVariant ;
+:text "talvez obtenha não morrer,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_PT a :TranslationVariant ;
+:text "ou ao menos então saberá que"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_PT a :TranslationVariant ;
+:text "é dor excessiva venerar as coisas de Hades."^^xsd:string ;
+:relatedTo :Line_780 .

@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-hindi a owl:Ontology .
+# Hindi translation variants for 162_to_192.ttl
+
+:TV_Line_162_HI a :TranslationVariant ;
+:text "पुरुषो, नगर के कार्यों को देवताओं ने सुरक्षित रूप से,"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_HI a :TranslationVariant ;
+:text "बहुत हलचल से झकझोरकर, फिर सीधा खड़ा कर दिया है;"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_HI a :TranslationVariant ;
+:text "और तुम लोगों को मैंने सबमें से अलग दूतों द्वारा"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_HI a :TranslationVariant ;
+:text "आने के लिए भेजा, एक तो यह जानते हुए कि तुम लाइओस के"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_HI a :TranslationVariant ;
+:text "सिंहासन की सत्ता का सदैव उचित सम्मान करते रहे,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_HI a :TranslationVariant ;
+:text "फिर जब ओइदिपुस नगर को सीधा चला रहा था,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_HI a :TranslationVariant ;
+:text "और जब वह नष्ट हुआ, तब भी उनके बच्चों के प्रति"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_HI a :TranslationVariant ;
+:text "तुम स्थिर विचारों में अडिग रहे।"^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_HI a :TranslationVariant ;
+:text "अतः जब वे दोनों एक ही दिन"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_HI a :TranslationVariant ;
+:text "दुहरी नियति से नष्ट हुए, मारते हुए और"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_HI a :TranslationVariant ;
+:text "अपने ही हाथ के कलुष से आहत होते हुए,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_HI a :TranslationVariant ;
+:text "अब सारी सत्ता और सिंहासन मेरे पास हैं,"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_HI a :TranslationVariant ;
+:text "मृतकों के वंश से निकट संबंध के अनुसार।"^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_HI a :TranslationVariant ;
+:text "पर किसी भी पुरुष की आत्मा,"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_HI a :TranslationVariant ;
+:text "मन और निर्णय को जानना असंभव है, जब तक"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_HI a :TranslationVariant ;
+:text "वह शासन और नियमों में परखा हुआ न दिखाई दे।"^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_HI a :TranslationVariant ;
+:text "क्योंकि मेरे लिए जो कोई पूरे नगर को सीधा चलाते हुए"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_HI a :TranslationVariant ;
+:text "श्रेष्ठ परामर्शों को नहीं पकड़ता,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_HI a :TranslationVariant ;
+:text "बल्कि किसी भय से जीभ बंद रखता है,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_HI a :TranslationVariant ;
+:text "वह अब भी और पहले भी सबसे निकृष्ट लगता है;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_HI a :TranslationVariant ;
+:text "और जो अपनी मातृभूमि के स्थान पर किसी मित्र को"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_HI a :TranslationVariant ;
+:text "बड़ा मानता है, उसे मैं कहीं भी नहीं गिनता।"^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_HI a :TranslationVariant ;
+:text "क्योंकि मैं—सदैव सब देखने वाला ज़ीउस जाने—"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_HI a :TranslationVariant ;
+:text "न तो चुप रहूँगा जब नगरवासियों की ओर"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_HI a :TranslationVariant ;
+:text "रक्षा के बदले विनाश आता देखूँगा,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_HI a :TranslationVariant ;
+:text "न कभी देश के शत्रु पुरुष को"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_HI a :TranslationVariant ;
+:text "अपना मित्र मानूँगा, यह जानते हुए कि"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_HI a :TranslationVariant ;
+:text "यही वह है जो हमें बचाती है, और इसी पर"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_HI a :TranslationVariant ;
+:text "सीधा नौकायन करते हुए हम मित्र बनाते हैं।"^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_HI a :TranslationVariant ;
+:text "ऐसे नियमों से मैं इस नगर को बढ़ाऊँगा।"^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_HI a :TranslationVariant ;
+:text "और अब इन्हीं से संबंधित घोषणाएँ मैंने रखी हैं,"^^xsd:string ;
+:relatedTo :Line_192 .

@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-bengali a owl:Ontology .
+# Bengali translation variants for 762_to_772.ttl
+
+:TV_Line_762_BN a :TranslationVariant ;
+:text "না, অন্তত আমার সামনে নয়; এ কথা কখনও ভেবো না,"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_BN a :TranslationVariant ;
+:text "সে আমার পাশে মরবে না, আর তুমি কখনও"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_BN a :TranslationVariant ;
+:text "চোখে দেখে আমার মুখ আর প্রত্যক্ষ করবে না,"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_BN a :TranslationVariant ;
+:text "যাতে তুমি ইচ্ছুক বন্ধুদের সঙ্গে থেকে উন্মত্ত হতে পারো।"^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_BN a :TranslationVariant ;
+:text "প্রভু, যুবকটি ক্রোধে দ্রুত বেরিয়ে গেছে;"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_BN a :TranslationVariant ;
+:text "এমন বয়সের মন ব্যথা পেলে ভারী হয়ে ওঠে।"^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_BN a :TranslationVariant ;
+:text "সে করুক; মানুষের সীমার চেয়ে বড় কিছু ভেবে চলুক;"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_BN a :TranslationVariant ;
+:text "তবু এই দুই কন্যাকে সে ভাগ্য থেকে মুক্ত করবে না।"^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_BN a :TranslationVariant ;
+:text "তুমি কি তবে দুজনকেই হত্যা করার কথা ভাবছ?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_BN a :TranslationVariant ;
+:text "যে স্পর্শ করেনি তাকে নয়; এ কথা তুমি ঠিকই বলেছ।"^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_BN a :TranslationVariant ;
+:text "তবে কোন মৃত্যুর দ্বারা তাকে হত্যা করার পরিকল্পনা করছ?"^^xsd:string ;
+:relatedTo :Line_772 .

@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-bengali a owl:Ontology .
+# Bengali translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_BN a :TranslationVariant ;
+:text "কাদমোসের প্রতিবেশীরা, আর আম্ফিয়নের গৃহের লোকেরা,"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_BN a :TranslationVariant ;
+:text "মানুষের জীবনের কোনো অবস্থাকেই আমি দাঁড়িয়ে"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_BN a :TranslationVariant ;
+:text "কখনও প্রশংসা বা নিন্দা করতে পারি না।"^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_BN a :TranslationVariant ;
+:text "কারণ ভাগ্যই তোলে, ভাগ্যই আবার নামিয়ে দেয়"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_BN a :TranslationVariant ;
+:text "সৌভাগ্যবান ও দুর্ভাগ্যবান মানুষকে, সর্বদা;"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_BN a :TranslationVariant ;
+:text "আর মর্ত্যদের জন্য স্থির বিষয়ের কোনো দ্রষ্টা নেই।"^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_BN a :TranslationVariant ;
+:text "কারণ ক্রেয়োন একদিন ঈর্ষণীয় ছিল, আমার চোখে,"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_BN a :TranslationVariant ;
+:text "শত্রুদের হাত থেকে এই কাদমীয় ভূমি রক্ষা করে,"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_BN a :TranslationVariant ;
+:text "আর দেশের পূর্ণ একক শাসন গ্রহণ করে,"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_BN a :TranslationVariant ;
+:text "সে তা সোজা পথে চালিয়েছিল, সন্তানদের মহৎ বীজে প্রস্ফুটিত হয়ে;"^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_BN a :TranslationVariant ;
+:text "আর এখন সবই ছেড়ে গেছে। কারণ যখন মানুষ"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_BN a :TranslationVariant ;
+:text "নিজের আনন্দ হারায়, আমি সেই মানুষকে"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_BN a :TranslationVariant ;
+:text "জীবিত বলি না, বরং তাকে প্রাণধারী মৃত বলে মনে করি।"^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_BN a :TranslationVariant ;
+:text "সে গৃহে মহাধনী হোক, যদি তুমি চাও,"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_BN a :TranslationVariant ;
+:text "আর রাজাধিরাজের রূপ নিয়ে বাঁচুক; কিন্তু যদি"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_BN a :TranslationVariant ;
+:text "এসবের আনন্দ অনুপস্থিত থাকে, তবে বাকি সবকিছু আমি ধোঁয়ার ছায়ার"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_BN a :TranslationVariant ;
+:text "মূল্যেও কিনতাম না, মানুষের আনন্দের তুলনায়।"^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_BN a :TranslationVariant ;
+:text "রাজগৃহের কোন বোঝা তুমি বহন করে এনেছ?"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_BN a :TranslationVariant ;
+:text "তারা মৃত; আর জীবিতরাই তাদের মৃত্যুর কারণ।"^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_BN a :TranslationVariant ;
+:text "কে হত্যা করেছে? আর কে পড়ে আছে? বলো।"^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_BN a :TranslationVariant ;
+:text "হাইমন ধ্বংস হয়েছে; নিজের হাতেই সে রক্তাক্ত।"^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_BN a :TranslationVariant ;
+:text "পিতার হাতে, না নিজের হাতে?"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_BN a :TranslationVariant ;
+:text "নিজের হাতে, হত্যার জন্য পিতার উপর ক্রুদ্ধ হয়ে।"^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_BN a :TranslationVariant ;
+:text "হে দ্রষ্টা, তোমার বাক্য কত সত্য করে পূর্ণ করলে।"^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_BN a :TranslationVariant ;
+:text "যেহেতু বিষয়গুলি এমন, বাকি বিষয়ে পরামর্শ করা আছে।"^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_BN a :TranslationVariant ;
+:text "আর এখন আমি হতভাগিনী ইউরিদিকেকে কাছেই দেখছি,"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_BN a :TranslationVariant ;
+:text "ক্রেয়োনের স্ত্রী, গৃহ থেকে বেরিয়ে আসছে,"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_BN a :TranslationVariant ;
+:text "হয়তো পুত্রের কথা শুনে, অথবা ভাগ্যের ঘটনায়।"^^xsd:string ;
+:relatedTo :Line_1182 .

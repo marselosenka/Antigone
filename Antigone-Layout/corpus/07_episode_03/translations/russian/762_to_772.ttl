@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-russian a owl:Ontology .
+# Russian translation variants for 762_to_772.ttl
+
+:TV_Line_762_RU a :TranslationVariant ;
+:text "Нет, по крайней мере при мне, никогда этого не думай,"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_RU a :TranslationVariant ;
+:text "ни она не погибнет рядом со мной, и ты нигде"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_RU a :TranslationVariant ;
+:text "не увидишь моего лица, глядя в глаза,"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_RU a :TranslationVariant ;
+:text "так что безумствуй вместе с теми из друзей, кто желает."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_RU a :TranslationVariant ;
+:text "Муж, владыка, ушел быстро в гневе;"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_RU a :TranslationVariant ;
+:text "такой ум, если он страдает, тяжел."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_RU a :TranslationVariant ;
+:text "Пусть действует; пусть мыслит больше, чем подобает человеку;"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_RU a :TranslationVariant ;
+:text "но этих двух девушек он не избавит от смерти."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_RU a :TranslationVariant ;
+:text "Обеих их ты и убить намерен?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_RU a :TranslationVariant ;
+:text "Не ту, которая не касалась; ведь ты хорошо говоришь."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_RU a :TranslationVariant ;
+:text "Какой же смертью ты намерен ее убить?"^^xsd:string ;
+:relatedTo :Line_772 .

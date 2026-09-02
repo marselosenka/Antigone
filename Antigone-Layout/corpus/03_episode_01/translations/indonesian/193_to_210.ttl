@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-indonesian a owl:Ontology .
+# Indonesian translation variants for 193_to_210.ttl
+
+:TV_Line_193_ID a :TranslationVariant ;
+:text "kepada warga tentang anak-anak Oidipus:"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_ID a :TranslationVariant ;
+:text "Eteokles, yang berjuang membela kota ini"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_ID a :TranslationVariant ;
+:text "dan gugur, setelah menjadi yang terbaik sepenuhnya dengan tombak,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_ID a :TranslationVariant ;
+:text "agar disembunyikan dalam makam dan disucikan dengan semua hal"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_ID a :TranslationVariant ;
+:text "yang datang kepada mayat-mayat terbaik di bawah sana;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_ID a :TranslationVariant ;
+:text "tetapi saudara sedarahnya, Polineikes, maksudku,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_ID a :TranslationVariant ;
+:text "yang pulang dari pengasingan dan terhadap tanah ayah serta dewa-dewa leluhurnya"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_ID a :TranslationVariant ;
+:text "ingin membakar habis dengan api dari puncaknya,"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_ID a :TranslationVariant ;
+:text "dan ingin mengecap darah"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_ID a :TranslationVariant ;
+:text "bersama, serta membawa pergi yang lain sebagai budak,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_ID a :TranslationVariant ;
+:text "tentang orang ini telah diumumkan kepada kota ini agar tak seorang pun"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_ID a :TranslationVariant ;
+:text "menguburkannya ataupun meratapinya,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_ID a :TranslationVariant ;
+:text "melainkan membiarkannya tak terkubur, dan tubuhnya bagi burung-burung"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_ID a :TranslationVariant ;
+:text "dan bagi anjing-anjing untuk dimakan dan dilihat tercemar."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_ID a :TranslationVariant ;
+:text "Begitulah pikiranku, dan tidak pernah dari aku"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_ID a :TranslationVariant ;
+:text "orang jahat akan memperoleh kehormatan melebihi orang benar."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_ID a :TranslationVariant ;
+:text "Tetapi siapa pun yang berpihak baik kepada kota ini, setelah mati"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_ID a :TranslationVariant ;
+:text "maupun hidup, sama-sama akan dihormati olehku."^^xsd:string ;
+:relatedTo :Line_210 .

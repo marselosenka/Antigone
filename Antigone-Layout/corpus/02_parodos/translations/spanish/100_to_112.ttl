@@ -1,0 +1,59 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-100-112-spanish a owl:Ontology .
+# Spanish translation variants for 100_to_112.ttl
+
+:TV_Line_100_ES a :TranslationVariant ;
+    :text "Rayo del sol, la más hermosa"^^xsd:string ;
+    :relatedTo :Line_100 .
+
+:TV_Line_101_ES a :TranslationVariant ;
+    :text "luz que haya aparecido"^^xsd:string ;
+    :relatedTo :Line_101 .
+
+:TV_Line_102_ES a :TranslationVariant ;
+    :text "jamás para Tebas de las siete puertas,"^^xsd:string ;
+    :relatedTo :Line_102 .
+
+:TV_Line_103_ES a :TranslationVariant ;
+    :text "te mostraste al fin, oh párpado"^^xsd:string ;
+    :relatedTo :Line_103 .
+
+:TV_Line_104_ES a :TranslationVariant ;
+    :text "del día dorado, viniendo"^^xsd:string ;
+    :relatedTo :Line_104 .
+
+:TV_Line_105_ES a :TranslationVariant ;
+    :text "sobre las corrientes de Dirce,"^^xsd:string ;
+    :relatedTo :Line_105 .
+
+:TV_Line_106_ES a :TranslationVariant ;
+    :text "y al guerrero de blanco escudo venido de Argos"^^xsd:string ;
+    :relatedTo :Line_106 .
+
+:TV_Line_107_ES a :TranslationVariant ;
+    :text "que avanzaba con toda su armadura"^^xsd:string ;
+    :relatedTo :Line_107 .
+
+:TV_Line_108_ES a :TranslationVariant ;
+    :text "lo pusiste en fuga precipitada,"^^xsd:string ;
+    :relatedTo :Line_108 .
+
+:TV_Line_109_ES a :TranslationVariant ;
+    :text "moviéndolo con freno más agudo."^^xsd:string ;
+    :relatedTo :Line_109 .
+
+:TV_Line_110_ES a :TranslationVariant ;
+    :text "A él, sobre nuestra tierra, Polinices,"^^xsd:string ;
+    :relatedTo :Line_110 .
+
+:TV_Line_111_ES a :TranslationVariant ;
+    :text "levantado por querellas de doble disputa,"^^xsd:string ;
+    :relatedTo :Line_111 .
+
+:TV_Line_112_ES a :TranslationVariant ;
+    :text "lo trajo enemigo; y él, chillando agudamente,"^^xsd:string ;
+    :relatedTo :Line_112 .

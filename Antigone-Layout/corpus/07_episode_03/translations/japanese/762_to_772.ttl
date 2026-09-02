@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-japanese a owl:Ontology .
+# Japanese translation variants for 762_to_772.ttl
+
+:TV_Line_762_JA a :TranslationVariant ;
+:text "決して私のそばではありません。そのように思ってはなりません、"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_JA a :TranslationVariant ;
+:text "彼女がそばで死ぬこともなく、あなたも決して"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_JA a :TranslationVariant ;
+:text "私の頭をあなたの目で見ることはないでしょう、"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_JA a :TranslationVariant ;
+:text "あなたの友たちのうち、望む者たちと共にいて狂っていればよい。"^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_JA a :TranslationVariant ;
+:text "王よ、その男は怒りから速く去って行きました。"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_JA a :TranslationVariant ;
+:text "あの年齢の心が痛むと、重いものです。"^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_JA a :TranslationVariant ;
+:text "行わせよ。人間の程度を越えて行きながら、大きく考えさせておけ。"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_JA a :TranslationVariant ;
+:text "だが、あの二人の娘を死の運命からは解き放たない。"^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_JA a :TranslationVariant ;
+:text "本当に二人とも殺すつもりなのですか。"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_JA a :TranslationVariant ;
+:text "触れなかった方は殺さない。そこはよく言った。"^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_JA a :TranslationVariant ;
+:text "では、どのような死で彼女を殺すつもりなのですか。"^^xsd:string ;
+:relatedTo :Line_772 .

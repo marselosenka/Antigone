@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-hindi a owl:Ontology .
+# Hindi translation variants for 508_to_535.ttl
+
+:TV_Line_508_HI a :TranslationVariant ;
+:text "इन कादमियों में केवल तू ही यह देखती है।"^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_HI a :TranslationVariant ;
+:text "ये भी देखते हैं, पर तेरे कारण अपना मुँह बंद रखते हैं।"^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_HI a :TranslationVariant ;
+:text "और तू लज्जित नहीं, यदि इनसे अलग सोचती है?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_HI a :TranslationVariant ;
+:text "समान गर्भ से जन्मे लोगों का सम्मान करना कोई लज्जा नहीं।"^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_HI a :TranslationVariant ;
+:text "तो जो विपरीत ओर मरा, क्या वह भी रक्त-संबंधी नहीं था?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_HI a :TranslationVariant ;
+:text "रक्त-संबंधी, एक ही माता और उसी पिता से।"^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_HI a :TranslationVariant ;
+:text "तो फिर तू दूसरे के प्रति अधर्मी सम्मान क्यों देती है?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_HI a :TranslationVariant ;
+:text "मरा हुआ शव इन बातों की गवाही नहीं देगा।"^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_HI a :TranslationVariant ;
+:text "यदि तू उसे अधर्मी के बराबर सम्मान देती है।"^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_HI a :TranslationVariant ;
+:text "वह दास नहीं, भाई होकर मरा।"^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_HI a :TranslationVariant ;
+:text "पर यह भूमि उजाड़ता हुआ; और दूसरा उसके लिए खड़ा हुआ।"^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_HI a :TranslationVariant ;
+:text "फिर भी हेडिस इन नियमों की माँग करता है।"^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_HI a :TranslationVariant ;
+:text "पर अच्छा मनुष्य बुरे के बराबर भाग पाने वाला नहीं।"^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_HI a :TranslationVariant ;
+:text "कौन जानता है कि नीचे ये बातें पवित्र मानी जाती हों?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_HI a :TranslationVariant ;
+:text "शत्रु कभी मित्र नहीं होता, मरने पर भी नहीं।"^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_HI a :TranslationVariant ;
+:text "मैं साथ घृणा करने नहीं, साथ प्रेम करने जन्मी हूँ।"^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_HI a :TranslationVariant ;
+:text "तो नीचे जाकर, यदि प्रेम करना है, उनसे प्रेम कर;"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_HI a :TranslationVariant ;
+:text "मेरे जीवित रहते कोई स्त्री शासन नहीं करेगी।"^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_HI a :TranslationVariant ;
+:text "और सचमुच द्वारों के सामने यह इस्मेने है,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_HI a :TranslationVariant ;
+:text "बहन-प्रेमी आँसू नीचे बहाती हुई;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_HI a :TranslationVariant ;
+:text "भौंहों के ऊपर रक्तिम बादल"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_HI a :TranslationVariant ;
+:text "उसका मुख बिगाड़ता है,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_HI a :TranslationVariant ;
+:text "उसके सुंदर गाल को भिगोता हुआ।"^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_HI a :TranslationVariant ;
+:text "और तू, जो घर में नागिन की तरह चुपचाप छिपी हुई"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_HI a :TranslationVariant ;
+:text "मुझे गुप्त रूप से पीती रही, और मैं न समझा"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_HI a :TranslationVariant ;
+:text "कि मैं दो विनाशों और सिंहासन-विरोधों को पाल रहा हूँ,"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_HI a :TranslationVariant ;
+:text "आओ, अब मुझे बता, क्या तू भी इस दफ़न में"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_HI a :TranslationVariant ;
+:text "भाग लेने की कहेगी, या न जानने की शपथ खाएगी?"^^xsd:string ;
+:relatedTo :Line_535 .

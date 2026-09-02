@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-persian a owl:Ontology .
+# Persian translation variants for 193_to_210.ttl
+
+:TV_Line_193_FA a :TranslationVariant ;
+:text "برای شهروندان، درباره فرزندان برخاسته از اودیپوس:"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_FA a :TranslationVariant ;
+:text "اته‌اوکلس را، که در دفاع از این شهر"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_FA a :TranslationVariant ;
+:text "نابود شد و با نیزه در همه چیز دلاوری کرد،"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_FA a :TranslationVariant ;
+:text "باید در گور پنهان کرد و همه آیین‌های پاک‌کننده را"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_FA a :TranslationVariant ;
+:text "که برای بهترین مردگان به جهان زیرین می‌رود، به‌جا آورد؛"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_FA a :TranslationVariant ;
+:text "اما آن هم‌خونِ او، مقصودم پولونیکِس است،"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_FA a :TranslationVariant ;
+:text "که چون تبعیدی بازگشت، خواست سرزمین پدری"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_FA a :TranslationVariant ;
+:text "و خدایان زادبومی را با آتش"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_FA a :TranslationVariant ;
+:text "از ریشه بسوزاند، و خواست از خون"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_FA a :TranslationVariant ;
+:text "مشترک بچشد، و دیگران را برده کرده ببرد،"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_FA a :TranslationVariant ;
+:text "درباره او برای این شهر اعلام شده است که هیچ کس"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_FA a :TranslationVariant ;
+:text "او را با گور و آیین گرامی ندارد و بر او مویه نکند،"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_FA a :TranslationVariant ;
+:text "بلکه او را بی‌دفن رها کنند، تا تنش نزد پرندگان"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_FA a :TranslationVariant ;
+:text "و نزد سگ‌ها خوراک شود و خوارشده دیده شود."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_FA a :TranslationVariant ;
+:text "چنین است اندیشه من؛ و هرگز از سوی من"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_FA a :TranslationVariant ;
+:text "بدان بر دادگران در شرافت پیشی نخواهند گرفت."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_FA a :TranslationVariant ;
+:text "اما هر کس با این شهر نیک‌خواه باشد، مرده"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_FA a :TranslationVariant ;
+:text "و زنده به یکسان از سوی من گرامی داشته خواهد شد."^^xsd:string ;
+:relatedTo :Line_210 .

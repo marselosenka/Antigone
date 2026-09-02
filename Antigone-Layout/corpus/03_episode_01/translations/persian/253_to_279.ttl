@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-persian a owl:Ontology .
+# Persian translation variants for 253_to_279.ttl
+
+:TV_Line_253_FA a :TranslationVariant ;
+:text "و چون نخستین نگهبان روزانه ما نشان داد،"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_FA a :TranslationVariant ;
+:text "برای همه شگفتی‌ای دشوار پدید آمد؛"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_FA a :TranslationVariant ;
+:text "زیرا او ناپدید شده بود؛ نه آن‌که تپه‌ای گورمانند بر او باشد،"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_FA a :TranslationVariant ;
+:text "بلکه گردی نرم بر او بود، چنان‌که گویی کسی از آلودگی می‌گریزد."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_FA a :TranslationVariant ;
+:text "و هیچ نشانه‌ای از آمدن جانوری، یا هیچ سگی،"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_FA a :TranslationVariant ;
+:text "یا از دریدن، آشکار نبود."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_FA a :TranslationVariant ;
+:text "و سخنان بد میان یکدیگر می‌غرید،"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_FA a :TranslationVariant ;
+:text "نگهبان نگهبان را بازخواست می‌کرد، و در پایان"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_FA a :TranslationVariant ;
+:text "ضربه‌ای رخ می‌داد، و هیچ کس نبود که بازدارد."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_FA a :TranslationVariant ;
+:text "زیرا هر یک از ما کسی بود که گویی کار را انجام داده است،"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_FA a :TranslationVariant ;
+:text "و هیچ کس آشکار نبود؛ بلکه به ندانستن پناه می‌برد."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_FA a :TranslationVariant ;
+:text "و آماده بودیم که آهن گداخته را با دست‌ها برداریم،"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_FA a :TranslationVariant ;
+:text "و از میان آتش بگذریم، و خدایان را به سوگند بگیریم"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_FA a :TranslationVariant ;
+:text "که نه این کار را کرده‌ایم و نه با کسی هم‌دانش بوده‌ایم،"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_FA a :TranslationVariant ;
+:text "نه با آن‌که آن را اندیشیده و نه با آن‌که انجام داده است."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_FA a :TranslationVariant ;
+:text "سرانجام، چون برای جویندگان هیچ فزونی‌ای نبود،"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_FA a :TranslationVariant ;
+:text "یکی سخن گفت، و همه را واداشت از ترس"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_FA a :TranslationVariant ;
+:text "سرها را به زمین خم کنند؛ زیرا نه توانستیم"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_FA a :TranslationVariant ;
+:text "پاسخ مخالف دهیم، و نه بدانیم چگونه با انجام کاری درست"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_FA a :TranslationVariant ;
+:text "به خوبی پیش خواهیم رفت. و سخن این بود که"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_FA a :TranslationVariant ;
+:text "باید این کار نزد تو آورده شود و پنهان نماند."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_FA a :TranslationVariant ;
+:text "و این رأی پیروز شد، و قرعه من بدبخت را"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_FA a :TranslationVariant ;
+:text "برگزید تا این نیکی را به دست آورم."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_FA a :TranslationVariant ;
+:text "پس ناخواسته آمده‌ام، نزد کسانی که ناخواسته‌اند، می‌دانم؛"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_FA a :TranslationVariant ;
+:text "زیرا هیچ کس پیام‌آور سخنان بد را دوست ندارد."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_FA a :TranslationVariant ;
+:text "ای شاه، از دیرباز اندیشه‌ام برای من می‌اندیشد"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_FA a :TranslationVariant ;
+:text "که مبادا این کار چیزی رانده از سوی خدایان باشد."^^xsd:string ;
+:relatedTo :Line_279 .

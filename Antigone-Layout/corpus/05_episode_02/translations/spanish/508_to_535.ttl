@@ -1,0 +1,35 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-spanish a owl:Ontology .
+# Spanish translation variants for 508_to_535.ttl
+
+:TV_Line_508_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_508 ; :text "Tú sola entre estos cadmeos ves eso."^^xsd:string .
+:TV_Line_509_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_509 ; :text "También ellos lo ven, pero ante ti cierran la boca."^^xsd:string .
+:TV_Line_510_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_510 ; :text "¿Y tú no te avergüenzas de pensar aparte de estos?"^^xsd:string .
+:TV_Line_511_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_511 ; :text "No hay vergüenza alguna en honrar a los nacidos de las mismas entrañas."^^xsd:string .
+:TV_Line_512_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_512 ; :text "¿No era de la misma sangre el que murió enfrente?"^^xsd:string .
+:TV_Line_513_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_513 ; :text "De la misma sangre, de una sola madre y del mismo padre."^^xsd:string .
+:TV_Line_514_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_514 ; :text "¿Cómo entonces honras a uno con impiedad hacia aquel?"^^xsd:string .
+:TV_Line_515_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_515 ; :text "El muerto no dará testimonio de eso."^^xsd:string .
+:TV_Line_516_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_516 ; :text "Si lo honras por igual que al impío."^^xsd:string .
+:TV_Line_517_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_517 ; :text "No murió como esclavo, sino como hermano."^^xsd:string .
+:TV_Line_518_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_518 ; :text "Pero devastaba esta tierra; el otro se opuso por ella."^^xsd:string .
+:TV_Line_519_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_519 ; :text "Sin embargo, Hades desea esas leyes iguales."^^xsd:string .
+:TV_Line_520_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_520 ; :text "Pero el bueno no merece suerte igual al malo."^^xsd:string .
+:TV_Line_521_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_521 ; :text "¿Quién sabe si abajo estas cosas son piadosas?"^^xsd:string .
+:TV_Line_522_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_522 ; :text "El enemigo jamás es amigo, ni siquiera cuando muere."^^xsd:string .
+:TV_Line_523_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_523 ; :text "No nací para compartir odio, sino para compartir amor."^^xsd:string .
+:TV_Line_524_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_524 ; :text "Baja entonces, y si hay que amar, ama a los de allí."^^xsd:string .
+:TV_Line_525_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_525 ; :text "Pero mientras yo viva, no mandará una mujer."^^xsd:string .
+:TV_Line_526_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_526 ; :text "Y sin embargo, ante las puertas está Ismene,"^^xsd:string .
+:TV_Line_527_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_527 ; :text "derramando lágrimas fraternas por su hermana."^^xsd:string .
+:TV_Line_528_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_528 ; :text "Una nube sobre sus cejas afea"^^xsd:string .
+:TV_Line_529_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_529 ; :text "su rostro ensangrentado,"^^xsd:string .
+:TV_Line_530_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_530 ; :text "mojando su hermosa mejilla."^^xsd:string .
+:TV_Line_531_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_531 ; :text "Y tú, que en la casa, como víbora escondida,"^^xsd:string .
+:TV_Line_532_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_532 ; :text "me bebías en secreto, sin que yo supiera"^^xsd:string .
+:TV_Line_533_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_533 ; :text "que criaba dos ruinas y sublevaciones contra el trono,"^^xsd:string .
+:TV_Line_534_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_534 ; :text "vamos, dime ahora: ¿también tú de esta sepultura"^^xsd:string .
+:TV_Line_535_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_535 ; :text "dirás haber participado, o jurarás no saber nada?"^^xsd:string .

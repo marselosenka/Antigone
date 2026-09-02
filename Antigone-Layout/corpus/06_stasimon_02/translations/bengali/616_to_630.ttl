@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-bengali a owl:Ontology .
+# Bengali translation variants for 616_to_630.ttl
+
+:TV_Line_616_BN a :TranslationVariant ;
+:text "আর অনেকের কাছে তা হালকা-মনের বাসনার প্রতারণা;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_BN a :TranslationVariant ;
+:text "জানার আগেই তা ধরে নিয়ে যায়, যতক্ষণ না কেউ জ্বলন্ত আগুনে পা"^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Line 618 and 619 do not exist in Antigone
+
+:TV_Line_620_BN a :TranslationVariant ;
+:text "ছোঁয়। কারণ জ্ঞানের মধ্য থেকে বিখ্যাত বাণী প্রকাশিত হয়েছে:"^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_BN a :TranslationVariant ;
+:text "কখনও মন্দকে সৎ বলে মনে হওয়া"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_BN a :TranslationVariant ;
+:text "তারই কাছে ঘটে, যার মন"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_BN a :TranslationVariant ;
+:text "দেবতা ধ্বংসের দিকে নিয়ে যান;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone
+
+:TV_Line_625_BN a :TranslationVariant ;
+:text "আর সে ধ্বংসের বাইরে অতি অল্প সময়ই কাজ করে।"^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_BN a :TranslationVariant ;
+:text "দেখো, হাইমন, তোমার সন্তানদের"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_BN a :TranslationVariant ;
+:text "সর্বকনিষ্ঠ জন্ম; সে কি অভিশাপে ভারাক্রান্ত হয়ে"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_BN a :TranslationVariant ;
+:text "তার বাগদত্তা আন্তিগোনের ভাগ্য নিয়ে এসেছে,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone
+
+:TV_Line_630_BN a :TranslationVariant ;
+:text "বিবাহশয্যার প্রতারণার জন্য অতিশয় ব্যথিত?"^^xsd:string ;
+:relatedTo :Line_630 .

@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-bengali a owl:Ontology .
+# Bengali translation variants for 988_to_1032.ttl
+
+:TV_Line_988_BN a :TranslationVariant ;
+:text "থিব্‌সের প্রভুগণ, আমরা এক সাধারণ পথে এসেছি,"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_BN a :TranslationVariant ;
+:text "দুইজন, একজনের চোখে দেখে; কারণ অন্ধদের জন্য"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_BN a :TranslationVariant ;
+:text "এই পথ পথপ্রদর্শকের মাধ্যমে হয়।"^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_BN a :TranslationVariant ;
+:text "কী হয়েছে, বৃদ্ধ তেইরেসিয়াস? নতুন কী?"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_BN a :TranslationVariant ;
+:text "আমি শেখাব; আর তুমি দ্রষ্টার কথা মানো।"^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_BN a :TranslationVariant ;
+:text "আগে তো কখনও তোমার বুদ্ধি থেকে আমি সরে দাঁড়াইনি।"^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_BN a :TranslationVariant ;
+:text "তাই তুমি এই নগরকে সোজা পথে নাবিকের মতো চালাচ্ছ।"^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_BN a :TranslationVariant ;
+:text "লাভ পেয়েছি বলে সাক্ষ্য দিতে পারি।"^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_BN a :TranslationVariant ;
+:text "এখন আবার ভাগ্যের ক্ষুরধারে দাঁড়িয়ে সাবধান হও।"^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_BN a :TranslationVariant ;
+:text "কী হয়েছে? তোমার মুখের কথা শুনে আমি শিউরে উঠছি।"^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_BN a :TranslationVariant ;
+:text "আমার কলার লক্ষণ শুনে তুমি জানতে পারবে।"^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_BN a :TranslationVariant ;
+:text "কারণ পাখি-লক্ষণ দেখার পুরোনো আসনে"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_BN a :TranslationVariant ;
+:text "বসেছিলাম, যেখানে সব পাখির জন্য আমার কাছে আশ্রয় ছিল,"^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_BN a :TranslationVariant ;
+:text "আমি পাখিদের অজানা ধ্বনি শুনলাম,"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_BN a :TranslationVariant ;
+:text "অশুভ ও বর্বর উন্মাদনায় চিৎকার করছে;"^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_BN a :TranslationVariant ;
+:text "আর হত্যাকারী নখরে একে অন্যকে ছিঁড়ছে,"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_BN a :TranslationVariant ;
+:text "আমি বুঝলাম; কারণ ডানার শব্দ অস্পষ্ট ছিল না।"^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_BN a :TranslationVariant ;
+:text "সঙ্গে সঙ্গে ভয়ে আমি দগ্ধ আহুতি পরীক্ষা করলাম"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_BN a :TranslationVariant ;
+:text "সর্বদিক-জ্বলন্ত বেদিগুলিতে; কিন্তু বলিদ্রব্য থেকে"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_BN a :TranslationVariant ;
+:text "হেফাইস্তোস জ্বলে উঠল না; বরং ছাইয়ের উপর"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_BN a :TranslationVariant ;
+:text "উরুর চর্বির পচা স্রাব গলে পড়ছিল,"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_BN a :TranslationVariant ;
+:text "ধোঁয়া তুলছিল ও থুতুর মতো ছিটাচ্ছিল; আর ওপরদিকে"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_BN a :TranslationVariant ;
+:text "পিত্ত ছড়িয়ে পড়ছিল, আর গড়িয়ে পড়া"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_BN a :TranslationVariant ;
+:text "উরুর হাড় আচ্ছাদনকারী চর্বি থেকে উন্মুক্ত হয়ে পড়েছিল।"^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_BN a :TranslationVariant ;
+:text "এই ছেলেটির কাছ থেকে আমি এমন জিনিস জানতে পারলাম:"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_BN a :TranslationVariant ;
+:text "লক্ষণহীন আচারের ভবিষ্যদ্বাণীগুলি নষ্ট হয়ে যাচ্ছিল;"^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_BN a :TranslationVariant ;
+:text "কারণ সে আমার পথপ্রদর্শক, আর আমি অন্যদের।"^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_BN a :TranslationVariant ;
+:text "আর এসব তোমার মনের কারণেই—নগর অসুস্থ;"^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_BN a :TranslationVariant ;
+:text "কারণ আমাদের সব বেদি ও আগুনের চৌকি সম্পূর্ণভাবে"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_BN a :TranslationVariant ;
+:text "পাখি ও কুকুরের আনা খাদ্যে পূর্ণ,"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_BN a :TranslationVariant ;
+:text "দুর্ভাগা ঐদিপাসের পতিত পুত্রের দেহ থেকে।"^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_BN a :TranslationVariant ;
+:text "তারপর দেবতারা আর আমাদের কাছ থেকে"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_BN a :TranslationVariant ;
+:text "বলির প্রার্থনা কিংবা উরু-আহুতির শিখা গ্রহণ করেন না,"^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_BN a :TranslationVariant ;
+:text "কোনো পাখিও শুভলক্ষণী ডাক ধ্বনিত করে না,"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_BN a :TranslationVariant ;
+:text "কারণ তারা মানবঘাতী রক্তের চর্বি খেয়েছে।"^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_BN a :TranslationVariant ;
+:text "তাই এসব ভাবো, সন্তান। কারণ মানুষের জন্য"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_BN a :TranslationVariant ;
+:text "সবাইয়েরই সাধারণ বিষয় হলো ভুল করা;"^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_BN a :TranslationVariant ;
+:text "কিন্তু ভুল করলে সে মানুষ আর অবিবেচক নয়"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_BN a :TranslationVariant ;
+:text "অথবা অকল্যাণগ্রস্ত নয়, যদি অমঙ্গলে"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_BN a :TranslationVariant ;
+:text "পড়ে সে তা সারায় এবং অচল হয়ে না থাকে;"^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_BN a :TranslationVariant ;
+:text "হঠকারিতা অবশ্য মূর্খতার দায় বহন করে।"^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_BN a :TranslationVariant ;
+:text "মৃতের কাছে নতি স্বীকার করো, আর ধ্বংসপ্রাপ্তকে খোঁচাও না;"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_BN a :TranslationVariant ;
+:text "মৃতকে আবার হত্যা করায় কী শক্তি আছে?"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_BN a :TranslationVariant ;
+:text "তোমার জন্য ভালো ভেবে আমি ভালো কথা বলছি; আর শেখা"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_BN a :TranslationVariant ;
+:text "ভালো বক্তার কাছ থেকে সবচেয়ে মধুর, যদি তা লাভ আনে।"^^xsd:string ;
+:relatedTo :Line_1032 .

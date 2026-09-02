@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-portuguese a owl:Ontology .
+# Portuguese translation variants for 944_to_965.ttl
+
+:TV_Line_944_PT a :TranslationVariant ;
+:text "Também Danae suportou trocar a luz celeste"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_PT a :TranslationVariant ;
+:text "pelo corpo em câmaras presas com bronze;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_PT a :TranslationVariant ;
+:text "oculta em câmara tumular, foi subjugada;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_PT a :TranslationVariant ;
+:text "e contudo também era honrada pela linhagem, ó filha, filha,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Lines 948 and 949 do not exist in canonical.
+
+:TV_Line_950_PT a :TranslationVariant ;
+:text "e guardava a semente de Zeus, fluente em ouro."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_PT a :TranslationVariant ;
+:text "Mas algum poder do destino é terrível;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_PT a :TranslationVariant ;
+:text "nem riqueza, nem Ares, nem torre, nem as negras naus batidas pelo mar"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_PT a :TranslationVariant ;
+:text "poderiam escapar-lhe."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in canonical.
+
+:TV_Line_955_PT a :TranslationVariant ;
+:text "Foi atado também o filho de Drias, de cólera aguda,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_PT a :TranslationVariant ;
+:text "rei dos edônios, por suas iras zombeteiras,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_PT a :TranslationVariant ;
+:text "por Dioniso, encerrado em prisão pétrea."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_PT a :TranslationVariant ;
+:text "Assim da loucura se esgota, terrível,"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in canonical.
+
+:TV_Line_960_PT a :TranslationVariant ;
+:text "o vigor florescente. Aquele reconheceu, em suas loucuras,"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_PT a :TranslationVariant ;
+:text "que tocava o deus com línguas zombeteiras."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_PT a :TranslationVariant ;
+:text "Pois detinha as mulheres possuídas pelo deus e o fogo euio,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Lines 963 and 964 do not exist in canonical.
+
+:TV_Line_965_PT a :TranslationVariant ;
+:text "e irritava as Musas amantes da flauta."^^xsd:string ;
+:relatedTo :Line_965 .

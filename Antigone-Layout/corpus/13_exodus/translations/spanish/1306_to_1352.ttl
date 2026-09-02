@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-spanish a owl:Ontology .
+# Spanish translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1306 ; :text "Ay, ay,"^^xsd:string .
+:TV_Line_1307_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1307 ; :text "estoy fuera de mí de miedo. ¿Por qué nadie de frente"^^xsd:string .
+:TV_Line_1308_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1308 ; :text "me hirió con una espada de doble filo?"^^xsd:string .
+
+# Line 1309 does not exist in Antigone.
+
+:TV_Line_1310_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1310 ; :text "Desdichado de mí, ay,"^^xsd:string .
+:TV_Line_1311_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1311 ; :text "mezclado estoy con desdichada aflicción."^^xsd:string .
+:TV_Line_1312_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1312 ; :text "Como culpable de estas cosas y también de aquellas,"^^xsd:string .
+:TV_Line_1313_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1313 ; :text "fuiste acusado por esta muerta de esas muertes."^^xsd:string .
+:TV_Line_1314_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1314 ; :text "¿Y de qué modo se liberó entre sangre?"^^xsd:string .
+:TV_Line_1315_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1315 ; :text "Hiriéndose bajo el hígado con su propia mano,"^^xsd:string .
+:TV_Line_1316_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1316 ; :text "cuando supo esta desgracia de su hijo, de agudo lamento."^^xsd:string .
+:TV_Line_1317_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1317 ; :text "Ay de mí, estas cosas no podrán ajustarse jamás"^^xsd:string .
+:TV_Line_1318_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1318 ; :text "a ningún otro mortal como causa mía."^^xsd:string .
+:TV_Line_1319_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1319 ; :text "Pues yo, yo te maté, oh miserable,"^^xsd:string .
+:TV_Line_1320_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1320 ; :text "yo, digo la verdad. Ay, servidores,"^^xsd:string .
+:TV_Line_1321_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1321 ; :text "llevadme cuanto antes, llevadme fuera de la vista,"^^xsd:string .
+
+# Lines 1322, 1323 and 1324 do not exist in Antigone.
+
+:TV_Line_1325_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1325 ; :text "a mí, que soy más bien nada que nadie."^^xsd:string .
+:TV_Line_1326_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1326 ; :text "Aconsejas provecho, si hay algún provecho entre males;"^^xsd:string .
+:TV_Line_1327_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1327 ; :text "pues los males más breves a los pies son los mejores."^^xsd:string .
+:TV_Line_1328_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1328 ; :text "Que venga, que venga,"^^xsd:string .
+:TV_Line_1329_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1329 ; :text "que aparezca el más hermoso de mis destinos,"^^xsd:string .
+:TV_Line_1330_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1330 ; :text "trayéndome el día final,"^^xsd:string .
+:TV_Line_1331_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1331 ; :text "el supremo; que venga, que venga,"^^xsd:string .
+:TV_Line_1332_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1332 ; :text "para que ya no vea otro día."^^xsd:string .
+
+# Line 1333 does not exist in Antigone.
+
+:TV_Line_1334_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1334 ; :text "Eso pertenece al futuro. De lo que está delante"^^xsd:string .
+:TV_Line_1335_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1335 ; :text "algo hay que hacer; pues de ello se ocupan quienes deben ocuparse."^^xsd:string .
+:TV_Line_1336_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1336 ; :text "Pero por eso mismo que deseo he elevado esta plegaria."^^xsd:string .
+:TV_Line_1337_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1337 ; :text "No reces ahora nada; pues de una desgracia decretada"^^xsd:string .
+:TV_Line_1338_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1338 ; :text "no hay liberación para los mortales."^^xsd:string .
+:TV_Line_1339_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1339 ; :text "Llevad fuera de la vista a este hombre vano,"^^xsd:string .
+:TV_Line_1340_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1340 ; :text "que, hijo, te maté sin querer,"^^xsd:string .
+:TV_Line_1341_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1341 ; :text "y a ti también, a esta; ay, miserable, no tengo"^^xsd:string .
+:TV_Line_1342_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1342 ; :text "hacia cuál de los dos mirar, ni dónde apoyarme; pues todo"^^xsd:string .
+
+# Lines 1343 and 1344 do not exist in Antigone.
+
+:TV_Line_1345_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1345 ; :text "está torcido en mis manos, y sobre mi cabeza"^^xsd:string .
+:TV_Line_1346_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1346 ; :text "se ha precipitado un destino difícil de soportar."^^xsd:string .
+:TV_Line_1347_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1347 ; :text "Con mucho, la prudencia es lo primero"^^xsd:string .
+:TV_Line_1348_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1348 ; :text "para la felicidad; y en lo tocante a los dioses"^^xsd:string .
+
+# Line 1349 does not exist in Antigone.
+
+:TV_Line_1350_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1350 ; :text "no hay que cometer impiedad alguna. Las grandes palabras"^^xsd:string .
+:TV_Line_1351_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1351 ; :text "de los demasiado soberbios, pagando grandes golpes,"^^xsd:string .
+:TV_Line_1352_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1352 ; :text "al final"^^xsd:string .
+:TV_Line_1353_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1353 ; :text "enseñaron prudencia en la vejez."^^xsd:string .

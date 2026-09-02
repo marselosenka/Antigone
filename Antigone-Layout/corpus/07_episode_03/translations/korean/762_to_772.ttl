@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-korean a owl:Ontology .
+# Korean translation variants for 762_to_772.ttl
+
+:TV_Line_762_KO a :TranslationVariant ;
+:text "결코 제 앞에서는 아닙니다. 그 생각은 결코 하지 마십시오."^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_KO a :TranslationVariant ;
+:text "이 여자도 제 곁에서 죽지 않을 것이며, 당신도 결코"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_KO a :TranslationVariant ;
+:text "제 얼굴을 눈으로 보지 못할 것입니다."^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_KO a :TranslationVariant ;
+:text "당신 친구들 가운데 원하는 자들과 함께 미쳐 지내십시오."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_KO a :TranslationVariant ;
+:text "왕이여, 그 남자는 분노에서 빠르게 떠났습니다."^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_KO a :TranslationVariant ;
+:text "그만한 나이의 마음이 고통받으면 무겁습니다."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_KO a :TranslationVariant ;
+:text "그가 행하게 하라. 사람에게 맞는 것보다 더 큰 생각을 품게 하라."^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_KO a :TranslationVariant ;
+:text "그러나 그 두 소녀는 죽음에서 벗어나지 못할 것이다."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_KO a :TranslationVariant ;
+:text "둘 다 죽이려 하십니까?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_KO a :TranslationVariant ;
+:text "손대지 않은 쪽은 아니다. 네 말이 옳다."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_KO a :TranslationVariant ;
+:text "어떤 죽음으로 그녀를 죽이기로 생각하십니까?"^^xsd:string ;
+:relatedTo :Line_772 .

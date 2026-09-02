@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-korean a owl:Ontology .
+# Korean translation variants for 773_to_780.ttl
+
+:TV_Line_773_KO a :TranslationVariant ;
+:text "인간들의 길이 없는 외딴곳으로 데려가,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_KO a :TranslationVariant ;
+:text "바위로 된 지하 굴에 산 채로 숨기겠다,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_KO a :TranslationVariant ;
+:text "음식은 더러움을 피할 만큼만"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_KO a :TranslationVariant ;
+:text "앞에 놓아, 온 도시가 오염을 피하게 하려고."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_KO a :TranslationVariant ;
+:text "그리고 거기서 그녀가 신들 가운데 홀로 공경하는 하데스에게"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_KO a :TranslationVariant ;
+:text "기도하며 어쩌면 죽지 않음을 얻을지도 모른다,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_KO a :TranslationVariant ;
+:text "아니면 적어도 그때에는 알게 될 것이다,"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_KO a :TranslationVariant ;
+:text "하데스 안의 것들을 공경하는 수고가 헛됨을."^^xsd:string ;
+:relatedTo :Line_780 .

@@ -1,0 +1,95 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-spanish a owl:Ontology .
+# Spanish translation variants for 20_to_41.ttl
+
+:TV_Line_020_ES a :TranslationVariant ;
+    :text "¿Qué ocurre? Es claro que tus palabras esconden inquietud."^^xsd:string ;
+    :relatedTo :Line_020 .
+
+:TV_Line_021_ES a :TranslationVariant ;
+    :text "¿No ha dispuesto Creonte para nuestros dos hermanos"^^xsd:string ;
+    :relatedTo :Line_021 .
+
+:TV_Line_022_ES a :TranslationVariant ;
+    :text "sepultura para uno, y deshonra para el otro?"^^xsd:string ;
+    :relatedTo :Line_022 .
+
+:TV_Line_023_ES a :TranslationVariant ;
+    :text "A Eteocles, según dicen, con justicia"^^xsd:string ;
+    :relatedTo :Line_023 .
+
+:TV_Line_024_ES a :TranslationVariant ;
+    :text "y conforme a la ley debida, bajo tierra"^^xsd:string ;
+    :relatedTo :Line_024 .
+
+:TV_Line_025_ES a :TranslationVariant ;
+    :text "lo ocultó, honrado entre los muertos de abajo."^^xsd:string ;
+    :relatedTo :Line_025 .
+
+:TV_Line_026_ES a :TranslationVariant ;
+    :text "Pero el cadáver de Polinices, muerto miserablemente,"^^xsd:string ;
+    :relatedTo :Line_026 .
+
+:TV_Line_027_ES a :TranslationVariant ;
+    :text "dicen que ha proclamado a los ciudadanos que nadie"^^xsd:string ;
+    :relatedTo :Line_027 .
+
+:TV_Line_028_ES a :TranslationVariant ;
+    :text "lo cubra con tumba ni lo llore,"^^xsd:string ;
+    :relatedTo :Line_028 .
+
+:TV_Line_029_ES a :TranslationVariant ;
+    :text "sino que lo dejen sin llanto, sin sepultura, dulce"^^xsd:string ;
+    :relatedTo :Line_029 .
+
+:TV_Line_030_ES a :TranslationVariant ;
+    :text "tesoro para las aves que miran por el placer del pasto."^^xsd:string ;
+    :relatedTo :Line_030 .
+
+:TV_Line_031_ES a :TranslationVariant ;
+    :text "Eso dicen que el noble Creonte ha proclamado"^^xsd:string ;
+    :relatedTo :Line_031 .
+
+:TV_Line_032_ES a :TranslationVariant ;
+    :text "para ti y para mí, sí, también para mí;"^^xsd:string ;
+    :relatedTo :Line_032 .
+
+:TV_Line_033_ES a :TranslationVariant ;
+    :text "y que viene aquí para anunciarlo claramente"^^xsd:string ;
+    :relatedTo :Line_033 .
+
+:TV_Line_034_ES a :TranslationVariant ;
+    :text "a quienes no lo saben, y que el asunto"^^xsd:string ;
+    :relatedTo :Line_034 .
+
+:TV_Line_035_ES a :TranslationVariant ;
+    :text "no lo toma como nada: quien haga algo de esto"^^xsd:string ;
+    :relatedTo :Line_035 .
+
+:TV_Line_036_ES a :TranslationVariant ;
+    :text "tendrá por delante la muerte, lapidado públicamente en la ciudad."^^xsd:string ;
+    :relatedTo :Line_036 .
+
+:TV_Line_037_ES a :TranslationVariant ;
+    :text "Así están las cosas para ti, y pronto mostrarás"^^xsd:string ;
+    :relatedTo :Line_037 .
+
+:TV_Line_038_ES a :TranslationVariant ;
+    :text "si has nacido noble, o mala de padres nobles."^^xsd:string ;
+    :relatedTo :Line_038 .
+
+:TV_Line_039_ES a :TranslationVariant ;
+    :text "Pero, desdichada, si las cosas están así,"^^xsd:string ;
+    :relatedTo :Line_039 .
+
+:TV_Line_040_ES a :TranslationVariant ;
+    :text "¿qué podría yo añadir, soltando o atando nada?"^^xsd:string ;
+    :relatedTo :Line_040 .
+
+:TV_Line_041_ES a :TranslationVariant ;
+    :text "Mira si compartirás el trabajo y colaborarás conmigo."^^xsd:string ;
+    :relatedTo :Line_041 .

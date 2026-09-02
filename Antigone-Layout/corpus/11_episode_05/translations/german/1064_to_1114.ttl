@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-german a owl:Ontology .
+# German translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_DE a :TranslationVariant ;
+:text "Doch wisse genau, dass du nicht mehr viele"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_DE a :TranslationVariant ;
+:text "um die Wette laufende Umläufe der Sonne vollenden wirst,"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_DE a :TranslationVariant ;
+:text "in denen du selbst aus deinen eigenen Eingeweiden einen"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_DE a :TranslationVariant ;
+:text "Toten als Gegengabe für Tote gegeben haben wirst,"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_DE a :TranslationVariant ;
+:text "dafür, dass du einen von denen oben hinabgeworfen hältst,"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_DE a :TranslationVariant ;
+:text "und eine Seele ehrlos im Grab angesiedelt hast,"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_DE a :TranslationVariant ;
+:text "und von den unteren Göttern hier wiederum"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_DE a :TranslationVariant ;
+:text "einen Toten ohne Anteil, ohne Bestattung, unheilig hältst."^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_DE a :TranslationVariant ;
+:text "Daran hast weder du Anteil noch die oberen"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_DE a :TranslationVariant ;
+:text "Götter, sondern von dir aus wird dies gewaltsam getan."^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_DE a :TranslationVariant ;
+:text "Für diese Dinge lauern auf dich spätvernichtende Rächer,"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_DE a :TranslationVariant ;
+:text "die Erinnyen des Hades und der Götter,"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_DE a :TranslationVariant ;
+:text "damit du in denselben Übeln ergriffen wirst."^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_DE a :TranslationVariant ;
+:text "Und betrachte, ob ich dies, mit Silber bezahlt,"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_DE a :TranslationVariant ;
+:text "sage; denn nach keiner langen Zeitverzögerung werden erscheinen"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_DE a :TranslationVariant ;
+:text "Klagelaute von Männern und Frauen in deinem Haus."^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_DE a :TranslationVariant ;
+:text "In Feindschaft aber werden alle Städte zusammen erschüttert,"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_DE a :TranslationVariant ;
+:text "von welchen zerrissene Stücke entweder Hunde gereinigt haben"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_DE a :TranslationVariant ;
+:text "oder Tiere oder irgendein geflügelter Vogel, der"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_DE a :TranslationVariant ;
+:text "unheiligen Geruch in eine Stadt mit Herden trägt."^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_DE a :TranslationVariant ;
+:text "Solche Pfeile habe ich gegen dich, denn du schmerzt mich, wie ein Bogenschütze,"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_DE a :TranslationVariant ;
+:text "aus meinem Zorn als Geschosse des Herzens abgeschossen,"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_DE a :TranslationVariant ;
+:text "sichere, deren Glut du nicht entlaufen wirst."^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_DE a :TranslationVariant ;
+:text "O Knabe, du aber führe uns zu den Häusern weg, damit"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_DE a :TranslationVariant ;
+:text "dieser seinen Zorn gegen Jüngere loslässt,"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_DE a :TranslationVariant ;
+:text "und lernt, die Zunge ruhiger zu nähren"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_DE a :TranslationVariant ;
+:text "und den Sinn besser, als er ihn jetzt in der Brust trägt."^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_DE a :TranslationVariant ;
+:text "Der Mann, Herr, ist fortgegangen, nachdem er Furchtbares geweissagt hat;"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_DE a :TranslationVariant ;
+:text "wir wissen aber, seit ich dieses weiße"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_DE a :TranslationVariant ;
+:text "Haar statt des schwarzen um mich trage,"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_DE a :TranslationVariant ;
+:text "dass er noch niemals eine Lüge in die Stadt hineingeschrien hat."^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_DE a :TranslationVariant ;
+:text "Ich habe es selbst erkannt und bin im Sinn verwirrt."^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_DE a :TranslationVariant ;
+:text "Denn nachzugeben ist furchtbar, entgegenstehend aber"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_DE a :TranslationVariant ;
+:text "die Seele mit Unheil zu schlagen, ist im Furchtbaren dabei."^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_DE a :TranslationVariant ;
+:text "Guten Rat muss man fassen, Sohn des Menoikeus."^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_DE a :TranslationVariant ;
+:text "Was muss man denn tun? Sprich. Ich werde gehorchen."^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_DE a :TranslationVariant ;
+:text "Geh, lass das Mädchen aus dem unterirdisch gegrabenen Haus"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_DE a :TranslationVariant ;
+:text "frei, und errichte dem daliegenden einen Grabplatz."^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_DE a :TranslationVariant ;
+:text "Und dies lobst du und meinst, ich solle nachgeben?"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_DE a :TranslationVariant ;
+:text "So schnell wie möglich, Herr; denn es schneiden ab"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_DE a :TranslationVariant ;
+:text "die schnellfüßigen Schäden der Götter die schlecht Gesinnten."^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_DE a :TranslationVariant ;
+:text "Weh mir; kaum zwar, doch von meinem Herzen stehe ich ab,"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_DE a :TranslationVariant ;
+:text "es zu tun; gegen Notwendigkeit darf man nicht schwer kämpfen."^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_DE a :TranslationVariant ;
+:text "Tu nun dies, geh, und wende dich nicht an andere."^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_DE a :TranslationVariant ;
+:text "So wie ich bin, werde ich gehen. Geht, geht, Begleiter,"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_DE a :TranslationVariant ;
+:text "die Anwesenden und die Abwesenden, mit Äxten in den Händen"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_DE a :TranslationVariant ;
+:text "eilt, sie ergreifend, zum sichtbaren Ort."^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_DE a :TranslationVariant ;
+:text "Ich aber, da die Meinung sich so gewendet hat,"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_DE a :TranslationVariant ;
+:text "habe selbst gefesselt und werde anwesend selbst lösen."^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_DE a :TranslationVariant ;
+:text "Denn ich fürchte, dass es, die bestehenden Gesetze"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_DE a :TranslationVariant ;
+:text "bewahrend, das Beste ist, das Leben zu vollenden."^^xsd:string ;
+:relatedTo :Line_1114 .

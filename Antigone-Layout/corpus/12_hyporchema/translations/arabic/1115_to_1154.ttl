@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-arabic a owl:Ontology .
+# Arabic translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_AR a :TranslationVariant ;
+:text "يا كثير الأسماء، فخر عروس كادموس،"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_AR a :TranslationVariant ;
+:text "ويا نسل زيوس عميق الرعد،"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_AR a :TranslationVariant ;
+:text "يا من ترعى إيطاليا الشهيرة،"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_AR a :TranslationVariant ;
+:text "وتحكم"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_AR a :TranslationVariant ;
+:text "في أحضان ديو الإليوسينية،"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_AR a :TranslationVariant ;
+:text "المشتركة للجميع، يا باكخوس قائد الباكخيات،"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_AR a :TranslationVariant ;
+:text "يا من تسكن طيبة، مدينة أمك،"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_AR a :TranslationVariant ;
+:text "قرب الجداول الرطبة"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Line 1123 and 1124 do not exist in Antigone
+
+:TV_Line_1125_AR a :TranslationVariant ;
+:text "لإسمينوس، وفوق زرع التنين الوحشي."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_AR a :TranslationVariant ;
+:text "وقد رآك بريق الدخان"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_AR a :TranslationVariant ;
+:text "فوق الصخرة ذات القمتين، حيث الكوريكيات"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_AR a :TranslationVariant ;
+:text "يمضين، حوريات باكخيات،"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in Antigone
+
+:TV_Line_1130_AR a :TranslationVariant ;
+:text "وماء كاستاليا."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_AR a :TranslationVariant ;
+:text "وإياك أيضًا من جبال نيسا"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_AR a :TranslationVariant ;
+:text "ترسلك الضفاف المكللة باللبلاب والساحل الأخضر"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_AR a :TranslationVariant ;
+:text "الكثير العناقيد،"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_AR a :TranslationVariant ;
+:text "بينما الكلمات الخالدة"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_AR a :TranslationVariant ;
+:text "تهتف إيوي، وأنت تشرف على طرقات طيبة؛"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in Antigone
+
+:TV_Line_1137_AR a :TranslationVariant ;
+:text "طيبة التي تكرمها من بين كل المدن، فوق الجميع،"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_AR a :TranslationVariant ;
+:text "مع أمك المصعوقة بالبرق؛"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in Antigone
+
+:TV_Line_1140_AR a :TranslationVariant ;
+:text "والآن، إذ إن المدينة كلها"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_AR a :TranslationVariant ;
+:text "ممسوكة بمرض عنيف يعم الشعب،"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_AR a :TranslationVariant ;
+:text "تعال بقدم مطهرة فوق منحدر بارناسوس،"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Line 1143 and 1144 do not exist in Antigone
+
+:TV_Line_1145_AR a :TranslationVariant ;
+:text "أو عبر المضيق كثير الأنين."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_AR a :TranslationVariant ;
+:text "آه، يا قائد جوقة النجوم النافخة نارًا،"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_AR a :TranslationVariant ;
+:text "يا مشرفًا على أصوات الليل،"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_AR a :TranslationVariant ;
+:text "يا ابن زيوس، يا مولوده،"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in Antigone
+
+:TV_Line_1150_AR a :TranslationVariant ;
+:text "أيها السيد، تعال مع تابعاتك"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_AR a :TranslationVariant ;
+:text "الثويّات، اللواتي في جنونهن"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_AR a :TranslationVariant ;
+:text "يرقصن طوال الليل لك، يا إياكخوس القيّم."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Line 1153 and 1154 do not exist in Antigone

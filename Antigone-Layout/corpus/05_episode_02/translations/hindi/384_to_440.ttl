@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-hindi a owl:Ontology .
+# Hindi translation variants for 384_to_440.ttl
+
+:TV_Line_384_HI a :TranslationVariant ;
+:text "यही वह है जिसने वह काम किया है;"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_HI a :TranslationVariant ;
+:text "हमने इसे दफ़नाते हुए पकड़ा। पर क्रेयोन कहाँ है?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_HI a :TranslationVariant ;
+:text "वह रहा, घर से लौटकर ठीक आवश्यकता के समय आ रहा है।"^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_HI a :TranslationVariant ;
+:text "क्या बात है? किस घटना से मेरा आना ठीक बैठा?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_HI a :TranslationVariant ;
+:text "स्वामी, मर्त्यों के लिए कोई बात शपथ से परे नहीं होती।"^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_HI a :TranslationVariant ;
+:text "क्योंकि बाद का विचार पहले निर्णय को झूठा कर देता है; चूँकि"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_HI a :TranslationVariant ;
+:text "मैंने तो बड़ी शपथ खाई थी कि यहाँ धीरे-धीरे भी न आऊँगा,"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_HI a :TranslationVariant ;
+:text "तेरी उन धमकियों से जिनसे तब मैं तूफ़ान में पड़ा था;"^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_HI a :TranslationVariant ;
+:text "पर आशा से बाहर और विरुद्ध मिलने वाली प्रसन्नता"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_HI a :TranslationVariant ;
+:text "किसी और आनंद से लंबाई में तुलना नहीं रखती,"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_HI a :TranslationVariant ;
+:text "इसलिए मैं आया हूँ, यद्यपि शपथों से बँधा था और मना कर चुका था,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_HI a :TranslationVariant ;
+:text "इस कन्या को लाते हुए, जो कब्र"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_HI a :TranslationVariant ;
+:text "सजा रही थी और पकड़ी गई। यहाँ कोई चिट्ठी नहीं उछली,"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_HI a :TranslationVariant ;
+:text "बल्कि यह मेरा भाग्य है, मेरा मिला हुआ लाभ, किसी और का नहीं।"^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_HI a :TranslationVariant ;
+:text "और अब, स्वामी, इसे तू स्वयं, जैसा चाहे, लेकर"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_HI a :TranslationVariant ;
+:text "जाँच और दोष सिद्ध कर; मैं स्वतंत्र होकर"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_HI a :TranslationVariant ;
+:text "इन बुराइयों से छूटने का अधिकारी हूँ।"^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_HI a :TranslationVariant ;
+:text "तू इसे किस रीति से, कहाँ से पकड़कर लाता है?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_HI a :TranslationVariant ;
+:text "यह उस पुरुष को दफ़ना रही थी; अब तू सब जानता है।"^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_HI a :TranslationVariant ;
+:text "क्या तू समझ भी रहा है और ठीक कह रहा है जो कहता है?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_HI a :TranslationVariant ;
+:text "इसे मैंने उसी मृतक को दफ़नाते देखा जिसे तूने"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_HI a :TranslationVariant ;
+:text "मना किया था। क्या मैं स्पष्ट और साफ़ कह रहा हूँ?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_HI a :TranslationVariant ;
+:text "और कैसे देखी गई, और पकड़ में कैसे आई?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_HI a :TranslationVariant ;
+:text "घटना ऐसी थी। जब हम आए,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_HI a :TranslationVariant ;
+:text "तेरी वे भयानक धमकियाँ हम पर पड़ी हुई थीं,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_HI a :TranslationVariant ;
+:text "हमने सारी धूल बुहार दी, जिसने"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_HI a :TranslationVariant ;
+:text "मृतक को ढँक रखा था, और सड़ते शरीर को खूब नंगा कर दिया,"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_HI a :TranslationVariant ;
+:text "फिर ऊँची चट्टानों पर हवा से बचकर बैठ गए,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_HI a :TranslationVariant ;
+:text "ताकि उससे आती दुर्गंध हमें न लगे, उससे बचते हुए,"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_HI a :TranslationVariant ;
+:text "हर आदमी दूसरे को जगाकर बुरी"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_HI a :TranslationVariant ;
+:text "डाँट से हिलाता, यदि कोई इस कष्ट से ढीला पड़ता।"^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_HI a :TranslationVariant ;
+:text "इतनी देर तक यह चलता रहा, जब तक आकाश के"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_HI a :TranslationVariant ;
+:text "मध्य में सूर्य का चमकीला चक्र ठहर गया"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_HI a :TranslationVariant ;
+:text "और ताप गरमाने लगा; तभी अचानक धरती से"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_HI a :TranslationVariant ;
+:text "एक बवंडर उठा, आकाशीय विपत्ति की तरह,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_HI a :TranslationVariant ;
+:text "मैदान भर गया, समतल वनस्पति की सारी पत्तियों को"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_HI a :TranslationVariant ;
+:text "पीटता हुआ, और विशाल आकाश"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_HI a :TranslationVariant ;
+:text "भर गया; हमने आँखें बंद कर दिव्य रोग सहा।"^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_HI a :TranslationVariant ;
+:text "और जब वह लंबे समय बाद हट गया,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_HI a :TranslationVariant ;
+:text "कन्या दिखाई दी, और वह तीखे स्वर से चिल्लाई,"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_HI a :TranslationVariant ;
+:text "कड़वे पक्षी की तीखी ध्वनि जैसी, जैसे जब"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_HI a :TranslationVariant ;
+:text "वह अपने बच्चों के खाली, अनाथ शय्या को देखे।"^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_HI a :TranslationVariant ;
+:text "ऐसी ही यह भी, जब नंगा शव देखती है,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_HI a :TranslationVariant ;
+:text "विलापों में कराह उठी, और बुरी शापें"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_HI a :TranslationVariant ;
+:text "उन पर दीं जिन्होंने यह काम किया था।"^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_HI a :TranslationVariant ;
+:text "और तुरंत हाथों से सूखी धूल उठाती है,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_HI a :TranslationVariant ;
+:text "और सुंदर-गढ़ी कांस्य कलशी से"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_HI a :TranslationVariant ;
+:text "तीन बार अर्घ्य देकर मृतक को मुकुटित करती है।"^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_HI a :TranslationVariant ;
+:text "और हम देखकर दौड़े, और साथ मिलकर"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_HI a :TranslationVariant ;
+:text "उसे तुरंत पकड़ लिया, वह तनिक भी भयभीत नहीं थी,"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_HI a :TranslationVariant ;
+:text "और पहले के तथा अभी के"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_HI a :TranslationVariant ;
+:text "कामों पर हमने प्रश्न किया; वह किसी बात से इनकार न करती थी,"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_HI a :TranslationVariant ;
+:text "मुझे साथ-साथ आनंद भी हुआ और पीड़ा भी।"^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_HI a :TranslationVariant ;
+:text "क्योंकि स्वयं बुराइयों से बच निकलना"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_HI a :TranslationVariant ;
+:text "सबसे मधुर है, पर अपने प्रियजनों को बुराई में लाना"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_HI a :TranslationVariant ;
+:text "पीड़ादायक है; फिर भी ये सब बातें मेरे लिए"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_HI a :TranslationVariant ;
+:text "मेरी अपनी रक्षा से कम महत्त्व की स्वभावतः हैं।"^^xsd:string ;
+:relatedTo :Line_440 .

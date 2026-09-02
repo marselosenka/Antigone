@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-korean a owl:Ontology .
+# Korean translation variants for 63_to_89.ttl
+
+:TV_Line_063_KO a :TranslationVariant ;
+:text "다음으로, 우리가 더 강한 자들에게 지배받고 있으므로"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_KO a :TranslationVariant ;
+:text "이것들도, 또 이보다 더 고통스러운 것들도 들어야 한다."^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_KO a :TranslationVariant ;
+:text "그러므로 나는 땅 아래 있는 이들에게"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_KO a :TranslationVariant ;
+:text "용서를 가져 달라고 구하며, 내가 이 일들에 강제되고 있기에,"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_KO a :TranslationVariant ;
+:text "권력의 자리에 선 이들에게 복종하겠다. 왜냐하면"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_KO a :TranslationVariant ;
+:text "지나친 일을 하는 것은 아무런 이성도 없기 때문이다."^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_KO a :TranslationVariant ;
+:text "나는 너에게 명하지도 않을 것이며, 네가 아직 원한다 해도"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_KO a :TranslationVariant ;
+:text "행하려 한다면, 적어도 나와 함께 기꺼이 하지는 못할 것이다."^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_KO a :TranslationVariant ;
+:text "그러나 네가 좋다고 여기는 대로 알아라. 나는 그를"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_KO a :TranslationVariant ;
+:text "묻겠다. 이 일을 하다가 죽는 것은 내게 아름답다."^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_KO a :TranslationVariant ;
+:text "사랑받는 나는 사랑하는 그와 함께 누울 것이다,"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_KO a :TranslationVariant ;
+:text "거룩한 범죄를 저지르고서. 왜냐하면 더 긴 시간이"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_KO a :TranslationVariant ;
+:text "이곳의 자들보다 아래의 자들을 기쁘게 해야 하기 때문이다."^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_KO a :TranslationVariant ;
+:text "그곳에서 나는 영원히 누워 있을 것이다. 하지만 네가 좋다면,"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_KO a :TranslationVariant ;
+:text "신들의 존귀한 것들을 모욕한 채 가지고 있어라."^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_KO a :TranslationVariant ;
+:text "나는 그것들을 모욕하지 않는다. 다만"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_KO a :TranslationVariant ;
+:text "시민들의 힘을 거슬러 행할 수 없도록 태어났다."^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_KO a :TranslationVariant ;
+:text "너는 그런 핑계를 내세울 수 있겠지. 그러나 나는 이제"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_KO a :TranslationVariant ;
+:text "가장 사랑하는 형제에게 무덤을 쌓으러 가겠다."^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_KO a :TranslationVariant ;
+:text "아아, 가엾은 너를 내가 얼마나 몹시 두려워하는지."^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_KO a :TranslationVariant ;
+:text "나를 미리 두려워하지 마라. 네 자신의 운명을 바로 세워라."^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_KO a :TranslationVariant ;
+:text "그래도 이 일을 아무에게도 미리 알리지 말아라,"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_KO a :TranslationVariant ;
+:text "그 일을 은밀히 숨겨라. 나도 마찬가지로 하겠다."^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_KO a :TranslationVariant ;
+:text "아아, 말하여라. 침묵한다면 훨씬 더 미움받을 것이다,"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_KO a :TranslationVariant ;
+:text "이 일을 모든 사람에게 선포하지 않는다면."^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_KO a :TranslationVariant ;
+:text "너는 차가운 일들 위에 뜨거운 마음을 가지고 있다."^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_KO a :TranslationVariant ;
+:text "그러나 나는 내가 가장 기쁘게 해야 할 이들을 기쁘게 하고 있음을 안다."^^xsd:string ;
+:relatedTo :Line_089 .

@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-indonesian a owl:Ontology .
+# Indonesian translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone
+
+:TV_Line_1278_ID a :TranslationVariant ;
+:text "Wahai tuan, sebagaimana engkau ada dan memiliki,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_ID a :TranslationVariant ;
+:text "engkau tampak membawa hal-hal ini di depan tanganmu, sedangkan di rumah"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_ID a :TranslationVariant ;
+:text "engkau telah datang dan segera akan melihat keburukan-keburukan lain."^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_ID a :TranslationVariant ;
+:text "Apa? Apakah masih ada sesuatu yang lebih buruk dari keburukan-keburukan ini?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_ID a :TranslationVariant ;
+:text "Istrimu telah mati, ibu sejati sepenuhnya dari mayat ini,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_ID a :TranslationVariant ;
+:text "perempuan malang, baru saja oleh luka-luka yang baru dipotong."^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_ID a :TranslationVariant ;
+:text "Io, io, pelabuhan Hades yang sulit disucikan,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_ID a :TranslationVariant ;
+:text "mengapa, mengapa engkau membinasakanku?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_ID a :TranslationVariant ;
+:text "Wahai pembawa kabar buruk bagiku,"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_ID a :TranslationVariant ;
+:text "yang mengirim duka lebih dahulu, perkataan apa yang kaupekikkan?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_ID a :TranslationVariant ;
+:text "Aiai, engkau telah menghancurkan orang yang sudah binasa."^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_ID a :TranslationVariant ;
+:text "Apa katamu, anak? Hal baru apa yang kaukatakan kepadaku,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_ID a :TranslationVariant ;
+:text "aiai, aiai,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_ID a :TranslationVariant ;
+:text "bahwa pembantaian di atas kehancuran,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_ID a :TranslationVariant ;
+:text "kematian perempuan, terletak di atasku?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_ID a :TranslationVariant ;
+:text "Engkau dapat melihatnya; sebab ia tidak lagi berada di bagian dalam."^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_ID a :TranslationVariant ;
+:text "Aduh,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_ID a :TranslationVariant ;
+:text "aku yang malang melihat keburukan kedua ini lagi."^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_ID a :TranslationVariant ;
+:text "Nasib apa, nasib apa lagi yang menungguku?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_ID a :TranslationVariant ;
+:text "Baru saja aku memegang anakku dalam tangan,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_ID a :TranslationVariant ;
+:text "aku yang malang, dan di depanku aku melihat mayat lain."^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in Antigone
+
+:TV_Line_1300_ID a :TranslationVariant ;
+:text "Feu, feu, ibu yang malang, feu, anakku."^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_ID a :TranslationVariant ;
+:text "Dan perempuan itu, terpukul tajam, duduk di samping altar,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_ID a :TranslationVariant ;
+:text "menutup kelopak matanya yang gelap, setelah meratap"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_ID a :TranslationVariant ;
+:text "untuk ranjang kosong Megareus yang sebelumnya mati,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_ID a :TranslationVariant ;
+:text "lalu untuk yang ini, dan terakhir bagimu"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_ID a :TranslationVariant ;
+:text "ia menyanyikan perbuatan-perbuatan jahat, menyebutmu pembunuh anak."^^xsd:string ;
+:relatedTo :Line_1305 .

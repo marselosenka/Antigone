@@ -1,0 +1,35 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-spanish a owl:Ontology .
+# Spanish translation variants for 480_to_507.ttl
+
+:TV_Line_480_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_480 ; :text "Ella ya sabía entonces cometer insolencia,"^^xsd:string .
+:TV_Line_481_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_481 ; :text "al transgredir las leyes establecidas."^^xsd:string .
+:TV_Line_482_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_482 ; :text "Y esta es una segunda insolencia, después de hacerlo:"^^xsd:string .
+:TV_Line_483_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_483 ; :text "jactarse de ello y reírse de haberlo hecho."^^xsd:string .
+:TV_Line_484_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_484 ; :text "En verdad, ahora yo no soy hombre y ella es hombre,"^^xsd:string .
+:TV_Line_485_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_485 ; :text "si estos poderes le quedan impunes."^^xsd:string .
+:TV_Line_486_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_486 ; :text "Pero ya sea hija de mi hermana o más cercana por sangre"^^xsd:string .
+:TV_Line_487_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_487 ; :text "que todos los protegidos de Zeus de nuestro hogar,"^^xsd:string .
+:TV_Line_488_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_488 ; :text "ni ella ni su hermana de la misma sangre escaparán"^^xsd:string .
+:TV_Line_489_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_489 ; :text "de la peor muerte; pues también a aquella la acuso"^^xsd:string .
+:TV_Line_490_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_490 ; :text "por igual de haber planeado esta sepultura."^^xsd:string .
+:TV_Line_491_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_491 ; :text "Llamadla también; pues hace poco la vi dentro"^^xsd:string .
+:TV_Line_492_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_492 ; :text "furiosa, sin dominio de su mente."^^xsd:string .
+:TV_Line_493_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_493 ; :text "El ánimo suele ser capturado antes como ladrón"^^xsd:string .
+:TV_Line_494_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_494 ; :text "de quienes traman en la oscuridad algo no recto."^^xsd:string .
+:TV_Line_495_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_495 ; :text "Y ciertamente odio cuando alguien, atrapado en males,"^^xsd:string .
+:TV_Line_496_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_496 ; :text "quiere luego embellecer ese hecho."^^xsd:string .
+:TV_Line_497_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_497 ; :text "¿Quieres algo más que prenderme y matarme?"^^xsd:string .
+:TV_Line_498_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_498 ; :text "Yo nada más; teniendo eso, lo tengo todo."^^xsd:string .
+:TV_Line_499_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_499 ; :text "¿Por qué tardas entonces? Pues de tus palabras"^^xsd:string .
+:TV_Line_500_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_500 ; :text "nada me agrada ni pueda jamás agradarme."^^xsd:string .
+:TV_Line_501_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_501 ; :text "Así también las mías nacen desagradables para ti."^^xsd:string .
+:TV_Line_502_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_502 ; :text "Y sin embargo, ¿de qué otra cosa habría obtenido gloria"^^xsd:string .
+:TV_Line_503_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_503 ; :text "más gloriosa que poniendo en tumba a mi hermano carnal?"^^xsd:string .
+:TV_Line_504_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_504 ; :text "Todos estos dirían que esto les agrada,"^^xsd:string .
+:TV_Line_505_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_505 ; :text "si el miedo no les cerrara la lengua."^^xsd:string .
+:TV_Line_506_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_506 ; :text "Pero la tiranía es feliz en muchas otras cosas,"^^xsd:string .
+:TV_Line_507_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_507 ; :text "y le es permitido hacer y decir lo que quiere."^^xsd:string .

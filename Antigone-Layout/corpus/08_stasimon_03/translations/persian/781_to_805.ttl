@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-persian a owl:Ontology .
+# Persian translation variants for 781_to_805.ttl
+
+:TV_Line_781_FA a :TranslationVariant ;
+:text "ای اروس، شکست‌ناپذیر در نبرد، ای اروس، که بر دارایی‌ها فرود می‌آیی،"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_FA a :TranslationVariant ;
+:text "که بر گونه‌های نرمِ دختر جوان شب را به سر می‌بری،"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Lines 783 and 784 do not exist in Antigone
+
+:TV_Line_785_FA a :TranslationVariant ;
+:text "و بر فراز دریا می‌گردی و در آغل‌های دشت‌نشینان نیز هستی؛"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_FA a :TranslationVariant ;
+:text "و از تو، هیچ یک از نامیرایان گریختنی نیست،"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Lines 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_FA a :TranslationVariant ;
+:text "و نه هیچ یک از انسان‌های یک‌روزه؛ و آن‌که تو را دارد، دیوانه شده است."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_FA a :TranslationVariant ;
+:text "تو حتی ذهن‌های دادگران را به سوی بی‌عدالتی و رسوایی می‌کشانی،"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_FA a :TranslationVariant ;
+:text "تو نیز این ستیز هم‌خونِ مردان را برآشفته‌ای؛"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Lines 793 and 794 do not exist in Antigone
+
+:TV_Line_795_FA a :TranslationVariant ;
+:text "و میلِ آشکار از پلک‌های عروسِ خوش‌بستر پیروز می‌شود،"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_FA a :TranslationVariant ;
+:text "هم‌نشین در فرمانروایی‌های بزرگِ آیین‌ها،"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Lines 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_FA a :TranslationVariant ;
+:text "زیرا الهه‌ای شکست‌ناپذیر، آفرودیت، بازی می‌کند."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_FA a :TranslationVariant ;
+:text "و اکنون دیگر، من خود نیز از آیین‌ها"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_FA a :TranslationVariant ;
+:text "بیرون برده می‌شوم، چون اینها را می‌بینم، و دیگر"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_FA a :TranslationVariant ;
+:text "توان نگاه داشتن چشمه‌های اشک را ندارم،"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_FA a :TranslationVariant ;
+:text "هنگامی که اتاق همه‌خواب را می‌بینم"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_FA a :TranslationVariant ;
+:text "که این آنتیگونه به سوی آن می‌رود و آن را به انجام می‌رساند."^^xsd:string ;
+:relatedTo :Line_805 .

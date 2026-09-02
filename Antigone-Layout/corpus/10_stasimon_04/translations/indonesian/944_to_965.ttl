@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-indonesian a owl:Ontology .
+# Indonesian translation variants for 944_to_965.ttl
+
+:TV_Line_944_ID a :TranslationVariant ;
+:text "Danae pun menanggung penggantian cahaya surgawi"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_ID a :TranslationVariant ;
+:text "dengan tubuhnya dalam ruang-ruang terikat perunggu;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_ID a :TranslationVariant ;
+:text "tersembunyi dalam kamar seperti makam, ia dikekang;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_ID a :TranslationVariant ;
+:text "padahal ia juga terhormat karena keturunan, wahai anak, anak,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Line 948 and 949 do not exist in Antigone
+
+:TV_Line_950_ID a :TranslationVariant ;
+:text "dan ia menyimpan keturunan Zeus yang mengalir emas."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_ID a :TranslationVariant ;
+:text "Tetapi suatu kekuatan takdir memang mengerikan;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_ID a :TranslationVariant ;
+:text "baik kemakmuran, Ares, menara, maupun kapal-kapal hitam"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_ID a :TranslationVariant ;
+:text "yang dihantam laut tidak dapat luput darinya."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in Antigone
+
+:TV_Line_955_ID a :TranslationVariant ;
+:text "Dan terikatlah putra Dryas yang cepat murka,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_ID a :TranslationVariant ;
+:text "raja bangsa Edonia, karena amarahnya yang mengejek,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_ID a :TranslationVariant ;
+:text "oleh Dionisos, terkurung dalam belenggu berbatu."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_ID a :TranslationVariant ;
+:text "Demikianlah kekuatan mengerikan dari kegilaannya menetes habis,"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in Antigone
+
+:TV_Line_960_ID a :TranslationVariant ;
+:text "dan tenaga mekarnya juga. Ia mengenal dalam kegilaan"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_ID a :TranslationVariant ;
+:text "bahwa ia telah menyentuh sang dewa dengan lidah-lidah ejekan."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_ID a :TranslationVariant ;
+:text "Sebab ia biasa menghentikan para perempuan yang dirasuki dewa dan api euoios,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Line 963 and 964 do not exist in Antigone
+
+:TV_Line_965_ID a :TranslationVariant ;
+:text "dan ia membangkitkan murka para Mousa pencinta seruling."^^xsd:string ;
+:relatedTo :Line_965 .

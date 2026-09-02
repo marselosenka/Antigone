@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-russian a owl:Ontology .
+# Russian translation variants for 872_to_928.ttl
+
+:TV_Line_872_RU a :TranslationVariant ;
+:text "Почитать благочестие — это некое благочестие,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_RU a :TranslationVariant ;
+:text "но власть, кому власть важна,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_RU a :TranslationVariant ;
+:text "никак не бывает преступаемой;"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_RU a :TranslationVariant ;
+:text "тебя же погубил самовольный нрав."^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_RU a :TranslationVariant ;
+:text "Неоплаканная, без друзей, без брачной песни, несчастная, я ведома"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_RU a :TranslationVariant ;
+:text "последним путем. Уже мне это"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_RU a :TranslationVariant ;
+:text "священное око светильника"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in Antigone
+
+:TV_Line_880_RU a :TranslationVariant ;
+:text "око светильника видеть, несчастной, не дозволено;"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_RU a :TranslationVariant ;
+:text "а мой безслезный жребий"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_RU a :TranslationVariant ;
+:text "никто из друзей не оплакивает."^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_RU a :TranslationVariant ;
+:text "Разве вы не знаете, что песни и стоны перед смертью"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_RU a :TranslationVariant ;
+:text "никто не прекратил бы, если бы нужно было, говоря?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_RU a :TranslationVariant ;
+:text "Не уведете ли ее как можно скорее и, крытой"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_RU a :TranslationVariant ;
+:text "могилой окружив, как я сказал,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_RU a :TranslationVariant ;
+:text "оставьте одну, одинокую, если ей должно умереть,"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_RU a :TranslationVariant ;
+:text "или жить погребенной в таком жилище."^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_RU a :TranslationVariant ;
+:text "Ведь мы чисты в отношении этой девушки;"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_RU a :TranslationVariant ;
+:text "но жительства наверху она будет лишена."^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_RU a :TranslationVariant ;
+:text "О могила, о брачный покой, о выкопанное"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_RU a :TranslationVariant ;
+:text "жилище, вечно стерегущее, куда я иду"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_RU a :TranslationVariant ;
+:text "к моим, число которых среди мертвых"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_RU a :TranslationVariant ;
+:text "наибольшее приняла Ферсефасса из погибших;"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_RU a :TranslationVariant ;
+:text "из них последней я и намного хуже всех"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_RU a :TranslationVariant ;
+:text "спускаюсь, прежде чем моя доля жизни дошла до конца."^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_RU a :TranslationVariant ;
+:text "Придя, однако, я очень питаюсь надеждами,"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_RU a :TranslationVariant ;
+:text "что приду милой отцу, дорогой тебе,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_RU a :TranslationVariant ;
+:text "мать, и милой тебе, братское лицо;"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_RU a :TranslationVariant ;
+:text "ведь когда вы умерли, я собственными руками"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_RU a :TranslationVariant ;
+:text "омыла вас, украсила и надгробные"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_RU a :TranslationVariant ;
+:text "возлияния дала; теперь же, Полиник, за твое"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_RU a :TranslationVariant ;
+:text "тело, покрывая его, я получаю вот что."^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_RU a :TranslationVariant ;
+:text "И все же я почтила тебя правильно для разумных."^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_RU a :TranslationVariant ;
+:text "Ведь никогда, ни если бы я была матерью детей,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_RU a :TranslationVariant ;
+:text "ни если бы у меня умер муж и истлевал,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_RU a :TranslationVariant ;
+:text "я не взяла бы на себя этот труд вопреки гражданам."^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_RU a :TranslationVariant ;
+:text "Ради какого же закона я говорю это?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_RU a :TranslationVariant ;
+:text "Если бы муж умер, был бы у меня другой,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_RU a :TranslationVariant ;
+:text "и ребенок от другого мужа, если бы я лишилась этого;"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_RU a :TranslationVariant ;
+:text "но когда мать и отец скрыты в Аиде,"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_RU a :TranslationVariant ;
+:text "нет брата, который когда-либо мог бы вырасти."^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_RU a :TranslationVariant ;
+:text "Таким законом я прежде всего почтила тебя,"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_RU a :TranslationVariant ;
+:text "но Креонту это показалось ошибкой"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_RU a :TranslationVariant ;
+:text "и страшной дерзостью, о братское лицо."^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_RU a :TranslationVariant ;
+:text "И теперь он ведет меня, так взяв руками,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_RU a :TranslationVariant ;
+:text "без брачного ложа, без брачной песни, ни доли"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_RU a :TranslationVariant ;
+:text "брака не получившую, ни воспитания детей,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_RU a :TranslationVariant ;
+:text "но так, одинокая от друзей, я несчастная,"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_RU a :TranslationVariant ;
+:text "живой иду в выкопанные жилища умерших;"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_RU a :TranslationVariant ;
+:text "какую справедливость богов я преступила?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_RU a :TranslationVariant ;
+:text "Зачем мне, несчастной, еще смотреть"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_RU a :TranslationVariant ;
+:text "к богам? Кого звать из союзников? Ведь"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_RU a :TranslationVariant ;
+:text "благочестием я приобрела нечестие."^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_RU a :TranslationVariant ;
+:text "Но если это прекрасно у богов,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_RU a :TranslationVariant ;
+:text "пострадав, мы признаем, что ошиблись;"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_RU a :TranslationVariant ;
+:text "если же эти ошибаются, пусть не больше бед"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_RU a :TranslationVariant ;
+:text "они испытают, чем и они несправедливо делают мне."^^xsd:string ;
+:relatedTo :Line_928 .

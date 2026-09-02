@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-japanese a owl:Ontology .
+# Japanese translation variants for 929_to_943.ttl
+
+:TV_Line_929_JA a :TranslationVariant ;
+:text "なお同じ風の、同じ"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_JA a :TranslationVariant ;
+:text "魂の突風が、この女を捕らえている。"^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_JA a :TranslationVariant ;
+:text "だから、この女を連れて行く者たちには、"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_JA a :TranslationVariant ;
+:text "遅れのために泣き声が起こるだろう。"^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_JA a :TranslationVariant ;
+:text "ああ、この言葉は死に最も近いところへ"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_JA a :TranslationVariant ;
+:text "到達した。"^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_JA a :TranslationVariant ;
+:text "勇気を持てとは何も慰めない、"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_JA a :TranslationVariant ;
+:text "これらがこのように確定しないことはないのだから。"^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_JA a :TranslationVariant ;
+:text "おお、テーバイの地の父祖の町よ、"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_JA a :TranslationVariant ;
+:text "そして祖先の神々よ、"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_JA a :TranslationVariant ;
+:text "私はもう連れて行かれ、もはや遅れない。"^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_JA a :TranslationVariant ;
+:text "見てください、テーバイを治める方々よ、"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_JA a :TranslationVariant ;
+:text "王家の者たちのうち、ただ一人残った私を、"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_JA a :TranslationVariant ;
+:text "どのような男たちから、どのようなことを私は受けているのかを、"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_JA a :TranslationVariant ;
+:text "敬虔を敬ったために。"^^xsd:string ;
+:relatedTo :Line_943 .

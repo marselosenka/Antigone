@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-indonesian a owl:Ontology .
+# Indonesian translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_ID a :TranslationVariant ;
+:text "Para tetangga Kadmos dan rumah Amfion,"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_ID a :TranslationVariant ;
+:text "tidak ada kehidupan manusia dalam keadaan berdiri mana pun"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_ID a :TranslationVariant ;
+:text "yang pernah dapat kupuji ataupun kucela."^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_ID a :TranslationVariant ;
+:text "Sebab nasib mengangkat, dan nasib meruntuhkan"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_ID a :TranslationVariant ;
+:text "orang yang beruntung dan orang yang malang, selalu;"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_ID a :TranslationVariant ;
+:text "dan tidak ada peramal bagi hal-hal yang telah ditetapkan bagi manusia fana."^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_ID a :TranslationVariant ;
+:text "Sebab Kreon dahulu patut dicemburui, menurutku,"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_ID a :TranslationVariant ;
+:text "karena telah menyelamatkan tanah Kadmeia ini dari musuh-musuh,"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_ID a :TranslationVariant ;
+:text "dan setelah menerima kekuasaan tunggal penuh atas negeri,"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_ID a :TranslationVariant ;
+:text "ia memerintahnya, berkembang dengan keturunan anak-anak yang mulia;"^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_ID a :TranslationVariant ;
+:text "dan sekarang semuanya telah lepas. Sebab kenikmatan-kenikmatan,"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_ID a :TranslationVariant ;
+:text "ketika manusia mengkhianatinya, aku tidak menetapkan"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_ID a :TranslationVariant ;
+:text "orang itu hidup, melainkan menganggapnya mayat bernyawa."^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_ID a :TranslationVariant ;
+:text "Sebab biarlah ia kaya besar di rumah, jika engkau mau,"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_ID a :TranslationVariant ;
+:text "dan hidup dengan wujud seorang tiran; tetapi jika hilang"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_ID a :TranslationVariant ;
+:text "kegembiraan dari hal-hal itu, semua yang lain tidak akan kubeli"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_ID a :TranslationVariant ;
+:text "dari siapa pun dengan bayangan asap, dibandingkan dengan kesenangan."^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_ID a :TranslationVariant ;
+:text "Beban apakah dari para raja ini yang kaudatang bawa?"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_ID a :TranslationVariant ;
+:text "Mereka telah mati; dan yang hidup bersalah atas kematian itu."^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_ID a :TranslationVariant ;
+:text "Dan siapa yang membunuh? Siapa yang terbaring mati? Katakan."^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_ID a :TranslationVariant ;
+:text "Haimon telah binasa; oleh tangannya sendiri ia berdarah."^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_ID a :TranslationVariant ;
+:text "Apakah oleh tangan ayahnya atau oleh tangannya sendiri?"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_ID a :TranslationVariant ;
+:text "Oleh dirinya sendiri melawan dirinya, murka kepada ayahnya karena pembunuhan."^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_ID a :TranslationVariant ;
+:text "Wahai peramal, betapa benar engkau menyelesaikan perkataan itu."^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_ID a :TranslationVariant ;
+:text "Karena hal-hal demikian adanya, tinggal mempertimbangkan yang lain."^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_ID a :TranslationVariant ;
+:text "Dan sungguh aku melihat Eurydike yang malang di dekat sini,"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_ID a :TranslationVariant ;
+:text "istri Kreon. Dari rumah-rumah ia keluar,"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_ID a :TranslationVariant ;
+:text "entah karena mendengar tentang anaknya atau karena kebetulan."^^xsd:string ;
+:relatedTo :Line_1182 .

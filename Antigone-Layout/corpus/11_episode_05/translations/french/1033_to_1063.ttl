@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-french a owl:Ontology .
+# French translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_FR a :TranslationVariant ;
+:text "Ô vieillard, tous, comme des archers, vers la cible"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_FR a :TranslationVariant ;
+:text "vous tirez contre cet homme, et même par l’art divinatoire"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_FR a :TranslationVariant ;
+:text "je ne suis pas laissé sans attaque par vous ; par la race"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_FR a :TranslationVariant ;
+:text "j’ai été vendu et chargé depuis longtemps."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_FR a :TranslationVariant ;
+:text "Gagnez donc, trafiquez l’électrum de Sardes,"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_FR a :TranslationVariant ;
+:text "si vous voulez, et l’or indien ;"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_FR a :TranslationVariant ;
+:text "mais vous ne cacherez pas celui-là dans un tombeau,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_FR a :TranslationVariant ;
+:text "même si les aigles de Zeus voulaient comme nourriture"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_FR a :TranslationVariant ;
+:text "l’emporter en le ravissant jusqu’aux trônes de Zeus,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_FR a :TranslationVariant ;
+:text "même ainsi, sans craindre cette souillure, moi,"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_FR a :TranslationVariant ;
+:text "je ne permettrai pas qu’on l’ensevelisse ; car je sais bien"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_FR a :TranslationVariant ;
+:text "qu’aucun des hommes n’a la force de souiller les dieux."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_FR a :TranslationVariant ;
+:text "Ils tombent pourtant, vieux Tirésias, parmi les mortels,"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_FR a :TranslationVariant ;
+:text "même ceux qui sont terriblement habiles, en chutes honteuses, lorsque des paroles"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_FR a :TranslationVariant ;
+:text "honteuses ils les disent joliment pour le profit."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_FR a :TranslationVariant ;
+:text "Hélas ! Est-ce qu’un homme sait, est-ce qu’il considère,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_FR a :TranslationVariant ;
+:text "Quelle chose ? Quelle chose commune à tous dis-tu là ?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_FR a :TranslationVariant ;
+:text "Combien le bon conseil est le meilleur des biens ?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_FR a :TranslationVariant ;
+:text "Autant, je pense, que ne pas penser est le plus grand dommage."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_FR a :TranslationVariant ;
+:text "Toi pourtant, tu es né plein de cette maladie."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_FR a :TranslationVariant ;
+:text "Je ne veux pas répondre au devin par de mauvaises paroles."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_FR a :TranslationVariant ;
+:text "Et pourtant tu le fais, en disant que je prophétise des mensonges."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_FR a :TranslationVariant ;
+:text "Car toute la race des devins aime l’argent."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_FR a :TranslationVariant ;
+:text "Et celle des tyrans aime les gains honteux."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_FR a :TranslationVariant ;
+:text "Sais-tu que tu dis ce que tu dis à des chefs ?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_FR a :TranslationVariant ;
+:text "Je le sais ; car c’est par moi que tu tiens cette cité sauvée."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_FR a :TranslationVariant ;
+:text "Tu es un sage devin, mais aimant commettre l’injustice."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_FR a :TranslationVariant ;
+:text "Tu me pousseras à dire les choses immobiles à travers mon esprit."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_FR a :TranslationVariant ;
+:text "Remue-les, seulement sans parler pour des gains."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_FR a :TranslationVariant ;
+:text "Car ainsi déjà, je semble le faire pour ta part."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_FR a :TranslationVariant ;
+:text "Sache que tu n’achèteras pas ma pensée."^^xsd:string ;
+:relatedTo :Line_1063 .

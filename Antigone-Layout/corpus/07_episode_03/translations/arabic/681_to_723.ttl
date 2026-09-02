@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-arabic a owl:Ontology .
+# Arabic translation variants for 681_to_723.ttl
+
+:TV_Line_681_AR a :TranslationVariant ;
+:text "أما نحن، إن لم نكن مسروقين بالزمن،"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_AR a :TranslationVariant ;
+:text "فتبدو أنك تقول بعقل في شأن ما تقول."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_AR a :TranslationVariant ;
+:text "يا أبي، الآلهة تُنبت للناس عقولًا،"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_AR a :TranslationVariant ;
+:text "وهي أعلى كل ما في الموجودات من مقتنيات."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_AR a :TranslationVariant ;
+:text "أما أن أقول إنك لا تقول هذه الأمور على صواب،"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_AR a :TranslationVariant ;
+:text "فلا أستطيع ولا أعرف أن أقوله."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_AR a :TranslationVariant ;
+:text "لكن قد يكون الأمر حسنًا أيضًا عند آخر."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_AR a :TranslationVariant ;
+:text "أما أنا فطبيعتي أن أراقب لك كل ما"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_AR a :TranslationVariant ;
+:text "يقوله أحد أو يفعله أو يجد فيه لومًا."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_AR a :TranslationVariant ;
+:text "فإن عينك مرهوبة للرجل من الشعب"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_AR a :TranslationVariant ;
+:text "في مثل هذه الأقوال التي لا تسرّك إذا سمعتها؛"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_AR a :TranslationVariant ;
+:text "أما لي فممكن أن أسمع هذه في الظل:"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_AR a :TranslationVariant ;
+:text "كيف تنوح المدينة على هذه الفتاة،"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_AR a :TranslationVariant ;
+:text "قائلة إنها، من بين كل النساء، أقل من تستحق"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_AR a :TranslationVariant ;
+:text "أن تهلك شر هلاك بسبب أمجد الأعمال."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_AR a :TranslationVariant ;
+:text "هي التي لم تترك أخاها الشقيق، الساقط في القتل،"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_AR a :TranslationVariant ;
+:text "غير مدفون، لا تحت كلاب آكلة اللحم النيء"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_AR a :TranslationVariant ;
+:text "يفنى ولا تحت طائر ما."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_AR a :TranslationVariant ;
+:text "أليست هذه تستحق أن تنال كرامة ذهبية؟"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_AR a :TranslationVariant ;
+:text "مثل هذا القول المظلم يتقدم صامتًا."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_AR a :TranslationVariant ;
+:text "أما عندي، يا أبي، فلا يوجد مقتنى أثمن"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_AR a :TranslationVariant ;
+:text "من أن تنجح أنت في العمل."^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_AR a :TranslationVariant ;
+:text "فأي زينة أعظم للأبناء من مجد أب"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_AR a :TranslationVariant ;
+:text "مزدهر، أو أي زينة أعظم للأب من الأبناء؟"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_AR a :TranslationVariant ;
+:text "فلا تحمل الآن في نفسك خلقًا واحدًا وحده،"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_AR a :TranslationVariant ;
+:text "أن ما تقوله أنت، ولا شيء غيره، هو الصحيح."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_AR a :TranslationVariant ;
+:text "فمن يظن أنه وحده يفكر،"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_AR a :TranslationVariant ;
+:text "أو أن له لسانًا لا يملكه غيره، أو نفسًا،"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_AR a :TranslationVariant ;
+:text "فهؤلاء، إذا فُتحوا، ظهروا فارغين."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_AR a :TranslationVariant ;
+:text "بل الرجل، ولو كان حكيمًا، ليس شيئًا مخزيًا له"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_AR a :TranslationVariant ;
+:text "أن يتعلم كثيرًا، وألا يشتد أكثر مما ينبغي."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_AR a :TranslationVariant ;
+:text "أترى عند مجاري السيول الشتوية كيف أن"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_AR a :TranslationVariant ;
+:text "ما ينحني من الأشجار يُنقذ أغصانه،"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_AR a :TranslationVariant ;
+:text "أما ما يقاوم فيُهلك من الجذر نفسه."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_AR a :TranslationVariant ;
+:text "وكذلك صاحب السفينة الذي يشد رجل الشراع"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_AR a :TranslationVariant ;
+:text "ويمتنع عن الانحناء في شيء، يقلب سفينته إلى أسفل"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_AR a :TranslationVariant ;
+:text "ثم يبحر بعد ذلك على مقاعد مقلوبة."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_AR a :TranslationVariant ;
+:text "بل تنازل، وأعطِ للغضب تبدلًا."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_AR a :TranslationVariant ;
+:text "فإن كان رأي ما حاضرًا أيضًا مني، وأنا الأصغر،"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_AR a :TranslationVariant ;
+:text "فإني أقول إن الأفضل بكثير"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_AR a :TranslationVariant ;
+:text "أن يولد الرجل ممتلئًا بكل علم؛"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_AR a :TranslationVariant ;
+:text "لكن إن لم يكن ذلك، إذ غالبًا لا يميل الأمر هكذا،"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_AR a :TranslationVariant ;
+:text "فجميل أيضًا أن يتعلم من المتكلمين حسنًا."^^xsd:string ;
+:relatedTo :Line_723 .

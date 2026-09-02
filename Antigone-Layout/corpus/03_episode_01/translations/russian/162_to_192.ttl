@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-russian a owl:Ontology .
+# Russian translation variants for 162_to_192.ttl
+
+:TV_Line_162_RU a :TranslationVariant ;
+:text "Мужи, дела города надежно боги,"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_RU a :TranslationVariant ;
+:text "сильною бурей поколебав, снова выпрямили;"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_RU a :TranslationVariant ;
+:text "вас же я через посланцев, отдельно от всех,"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_RU a :TranslationVariant ;
+:text "велел прийти, зная, во-первых, что вы всегда"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_RU a :TranslationVariant ;
+:text "хорошо почитали власть престолов Лая,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_RU a :TranslationVariant ;
+:text "и, опять же, когда Эдип направлял город,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_RU a :TranslationVariant ;
+:text "и когда он погиб, вы еще при его детях"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_RU a :TranslationVariant ;
+:text "оставались с твердыми помыслами."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_RU a :TranslationVariant ;
+:text "Итак, когда они от двойной судьбы в один"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_RU a :TranslationVariant ;
+:text "день погибли, и ударив, и"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_RU a :TranslationVariant ;
+:text "пораженные собственной рукой, с осквернением,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_RU a :TranslationVariant ;
+:text "я теперь держу всю власть и престолы"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_RU a :TranslationVariant ;
+:text "по ближайшему родству с погибшими."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_RU a :TranslationVariant ;
+:text "Но невозможно узнать всякого мужа"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_RU a :TranslationVariant ;
+:text "душу, разум и мнение, прежде чем"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_RU a :TranslationVariant ;
+:text "он явится испытанным во власти и законах."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_RU a :TranslationVariant ;
+:text "Ибо для меня тот, кто, направляя весь город,"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_RU a :TranslationVariant ;
+:text "не держится лучших решений,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_RU a :TranslationVariant ;
+:text "но из какого-то страха держит язык запертым,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_RU a :TranslationVariant ;
+:text "кажется худшим и ныне, и издревле;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_RU a :TranslationVariant ;
+:text "и кто друга считает большим, чем свою отчизну,"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_RU a :TranslationVariant ;
+:text "того я ни во что не ставлю."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_RU a :TranslationVariant ;
+:text "Ибо я, пусть знает Зевс, всегда все видящий,"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_RU a :TranslationVariant ;
+:text "не стал бы молчать, видя гибель,"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_RU a :TranslationVariant ;
+:text "идущую к гражданам вместо спасения,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_RU a :TranslationVariant ;
+:text "и никогда не сделал бы другом себе человека, враждебного земле,"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_RU a :TranslationVariant ;
+:text "зная вот что:"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_RU a :TranslationVariant ;
+:text "она есть та, что спасает, и на ней,"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_RU a :TranslationVariant ;
+:text "когда она плывет прямо, мы приобретаем друзей."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_RU a :TranslationVariant ;
+:text "Такими законами я возвеличу этот город."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_RU a :TranslationVariant ;
+:text "И теперь, в согласии с этим, я сделал воззвание"^^xsd:string ;
+:relatedTo :Line_192 .

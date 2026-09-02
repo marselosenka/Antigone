@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-bengali a owl:Ontology .
+# Bengali translation variants for 90_to_99.ttl
+
+:TV_Line_090_BN a :TranslationVariant ;
+:text "যদি পারোও বটে; কিন্তু তুমি অসম্ভবের প্রেমে পড়েছ।"^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_BN a :TranslationVariant ;
+:text "তাহলে যখন আর শক্তি থাকবে না, আমি থামব।"^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_BN a :TranslationVariant ;
+:text "কিন্তু শুরুতেই অসম্ভব শিকার করতে যাওয়া শোভন নয়।"^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_BN a :TranslationVariant ;
+:text "যদি তুমি এসব বলো, তবে আমার কাছে ঘৃণিত হবে,"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_BN a :TranslationVariant ;
+:text "আর ন্যায়সঙ্গতভাবেই মৃতের কাছেও ঘৃণিত হয়ে থাকবে।"^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_BN a :TranslationVariant ;
+:text "কিন্তু আমাকে এবং আমার নিজের মূর্খ সিদ্ধান্তকে ছেড়ে দাও"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_BN a :TranslationVariant ;
+:text "এই ভয়ংকর জিনিস ভোগ করতে; কারণ আমি এমন কিছুই ভোগ করব না"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_BN a :TranslationVariant ;
+:text "যতটা ভয়ংকর যে সুন্দরভাবে মরতে না পারি।"^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_BN a :TranslationVariant ;
+:text "তবে, যদি তোমার মনে হয়, যাও; কিন্তু এই কথা জেনে রাখো,"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_BN a :TranslationVariant ;
+:text "তুমি নির্বুদ্ধির মতো যাচ্ছ, তবু আপনজনদের কাছে যথার্থই প্রিয়।"^^xsd:string ;
+:relatedTo :Line_099 .

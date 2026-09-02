@@ -1,0 +1,112 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-582-615-korean a owl:Ontology .
+# Korean translation variants for 582_to_615.ttl
+
+# Line 582 does not exist in Antigone
+
+:TV_Line_583_KO a :TranslationVariant ;
+:text "행복한 이들이여, 재앙을 맛보지 않은 생애를 가진 이들이여."^^xsd:string ;
+:relatedTo :Line_583 .
+
+:TV_Line_584_KO a :TranslationVariant ;
+:text "신으로부터 그 집이 흔들리는 자들에게는,"^^xsd:string ;
+:relatedTo :Line_584 .
+
+:TV_Line_585_KO a :TranslationVariant ;
+:text "파멸이 아무것도 남기지 않고, 세대의 무리를 휩쓸며 나아가기 때문이다."^^xsd:string ;
+:relatedTo :Line_585 .
+
+:TV_Line_586_KO a :TranslationVariant ;
+:text "이는 바다의 물결이, 숨막히는"^^xsd:string ;
+:relatedTo :Line_586 .
+
+:TV_Line_587_KO a :TranslationVariant ;
+:text "트라키아 바람들로 어둠의 바다 위를 덮쳐 달려갈 때와 같다."^^xsd:string ;
+:relatedTo :Line_587 .
+
+# Lines 588 and 589 do not exist in Antigone
+
+:TV_Line_590_KO a :TranslationVariant ;
+:text "그것은 깊은 곳에서 검은 모래를 굴려 올리고,"^^xsd:string ;
+:relatedTo :Line_590 .
+
+:TV_Line_591_KO a :TranslationVariant ;
+:text "거센 바람 속에서, 맞부딪히는 해안들은 입을 울리며 포효한다."^^xsd:string ;
+:relatedTo :Line_591 .
+
+# Line 592 does not exist in Antigone
+
+:TV_Line_593_KO a :TranslationVariant ;
+:text "라브다코스 집안의 오래된 고통들을, 나는 저주 속에서 본다,"^^xsd:string ;
+:relatedTo :Line_593 .
+
+# Line 594 does not exist in Antigone
+
+:TV_Line_595_KO a :TranslationVariant ;
+:text "죽은 자들의 고통 위에 고통들이 떨어지며,"^^xsd:string ;
+:relatedTo :Line_595 .
+
+:TV_Line_596_KO a :TranslationVariant ;
+:text "한 세대가 다른 세대를 풀어 주지 않고, 오히려 무너뜨린다."^^xsd:string ;
+:relatedTo :Line_596 .
+
+:TV_Line_597_KO a :TranslationVariant ;
+:text "신들 중 누군가가 그렇게 하며, 그것에는 풀림이 없다. 이제 마지막"^^xsd:string ;
+:relatedTo :Line_597 .
+
+# Lines 598 and 599 do not exist in Antigone
+
+:TV_Line_600_KO a :TranslationVariant ;
+:text "뿌리로부터 오이디푸스의 집에 빛이 뻗어 있었으나,"^^xsd:string ;
+:relatedTo :Line_600 .
+
+:TV_Line_601_KO a :TranslationVariant ;
+:text "아래 신들의 피 묻은"^^xsd:string ;
+:relatedTo :Line_601 .
+
+:TV_Line_602_KO a :TranslationVariant ;
+:text "먼지가, 말의 어리석음과 마음의 광란으로 그것을 베어 내린다."^^xsd:string ;
+:relatedTo :Line_602 .
+
+# Lines 603 and 604 do not exist in Antigone
+
+:TV_Line_605_KO a :TranslationVariant ;
+:text "제우스여, 당신의 힘을 인간들의 어떤 넘어섬이 억누를 수 있겠습니까?"^^xsd:string ;
+:relatedTo :Line_605 .
+
+:TV_Line_606_KO a :TranslationVariant ;
+:text "그것을 잠도, 모든 것을 늙게 하는 것도, 결코 빼앗지 못하며,"^^xsd:string ;
+:relatedTo :Line_606 .
+
+:TV_Line_607_KO a :TranslationVariant ;
+:text "신들의 달들도 홀로는 그러지 못하고, 늙지 않는 시간 속에서"^^xsd:string ;
+:relatedTo :Line_607 .
+
+# Lines 608 and 609 do not exist in Antigone
+
+:TV_Line_610_KO a :TranslationVariant ;
+:text "당신은 지배자로서 올림포스의 대리석처럼 빛나는 광휘를 지니고 계십니다."^^xsd:string ;
+:relatedTo :Line_610 .
+
+:TV_Line_611_KO a :TranslationVariant ;
+:text "뒤에 올 것도, 장차 올 것도,"^^xsd:string ;
+:relatedTo :Line_611 .
+
+:TV_Line_612_KO a :TranslationVariant ;
+:text "또 이전의 것도 충분히 채울 것이다,"^^xsd:string ;
+:relatedTo :Line_612 .
+
+:TV_Line_613_KO a :TranslationVariant ;
+:text "이 법이. 그것은 제 것으로 휩쓸어 가며,"^^xsd:string ;
+:relatedTo :Line_613 .
+
+:TV_Line_614_KO a :TranslationVariant ;
+:text "죽을 자들의 삶에서 매우 많은 것을 파멸 밖에 두지 않는다."^^xsd:string ;
+:relatedTo :Line_614 .
+
+:TV_Line_615_KO a :TranslationVariant ;
+:text "왜냐하면 많이 떠도는 희망은 많은 사람들에게는 유익이지만,"^^xsd:string ;
+:relatedTo :Line_615 .

@@ -1,0 +1,112 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-582-615-german a owl:Ontology .
+# German translation variants for 582_to_615.ttl
+
+# Line 582 is commented out in canonical.
+
+:TV_Line_583_DE a :TranslationVariant ;
+:text "Glückselig, deren Leben von Übeln ungekostet ist;"^^xsd:string ;
+:relatedTo :Line_583 .
+
+:TV_Line_584_DE a :TranslationVariant ;
+:text "denn bei denen, deren Haus von Gott her erschüttert wird,"^^xsd:string ;
+:relatedTo :Line_584 .
+
+:TV_Line_585_DE a :TranslationVariant ;
+:text "fehlt kein Verderben, das über die Menge des Geschlechts kriecht;"^^xsd:string ;
+:relatedTo :Line_585 .
+
+:TV_Line_586_DE a :TranslationVariant ;
+:text "ähnlich ist es, wenn Meereswogen mit schwer atmenden"^^xsd:string ;
+:relatedTo :Line_586 .
+
+:TV_Line_587_DE a :TranslationVariant ;
+:text "thrakischen Winden über die meerige Finsternis hinlaufen,"^^xsd:string ;
+:relatedTo :Line_587 .
+
+# Lines 588 and 589 are commented out in canonical.
+
+:TV_Line_590_DE a :TranslationVariant ;
+:text "rollt sie vom Grund her den schwarzen Sand, und"^^xsd:string ;
+:relatedTo :Line_590 .
+
+:TV_Line_591_DE a :TranslationVariant ;
+:text "unter widrigen Winden dröhnen die entgegengeschlagenen Küsten am Mund."^^xsd:string ;
+:relatedTo :Line_591 .
+
+# Line 592 is commented out in canonical.
+
+:TV_Line_593_DE a :TranslationVariant ;
+:text "alte Leiden der Häuser der Labdakiden sehe ich"^^xsd:string ;
+:relatedTo :Line_593 .
+
+# Line 594 is commented out in canonical.
+
+:TV_Line_595_DE a :TranslationVariant ;
+:text "als Leiden über Leiden der Dahingeschiedenen fallen;"^^xsd:string ;
+:relatedTo :Line_595 .
+
+:TV_Line_596_DE a :TranslationVariant ;
+:text "und kein Geschlecht befreit ein Geschlecht, sondern es stürzt"^^xsd:string ;
+:relatedTo :Line_596 .
+
+:TV_Line_597_DE a :TranslationVariant ;
+:text "irgendein Gott, und es hat keine Lösung. Denn jetzt von den äußersten"^^xsd:string ;
+:relatedTo :Line_597 .
+
+# Lines 598 and 599 are commented out in canonical.
+
+:TV_Line_600_DE a :TranslationVariant ;
+:text "Wurzeln her hatte sich Licht im Haus des Ödipus ausgespannt,"^^xsd:string ;
+:relatedTo :Line_600 .
+
+:TV_Line_601_DE a :TranslationVariant ;
+:text "da mäht es der blutige Staub der unteren Götter nieder,"^^xsd:string ;
+:relatedTo :Line_601 .
+
+:TV_Line_602_DE a :TranslationVariant ;
+:text "durch Torheit der Rede und Erinye der Sinne."^^xsd:string ;
+:relatedTo :Line_602 .
+
+# Lines 603 and 604 are commented out in canonical.
+
+:TV_Line_605_DE a :TranslationVariant ;
+:text "Deine Macht, Zeus, welche Überschreitung der Männer könnte sie festhalten?"^^xsd:string ;
+:relatedTo :Line_605 .
+
+:TV_Line_606_DE a :TranslationVariant ;
+:text "Sie nimmt weder jemals der Schlaf, der alles altern lässt,"^^xsd:string ;
+:relatedTo :Line_606 .
+
+:TV_Line_607_DE a :TranslationVariant ;
+:text "noch die unermüdlichen Monate der Götter; sondern in altersloser Zeit"^^xsd:string ;
+:relatedTo :Line_607 .
+
+# Lines 608 and 609 are commented out in canonical.
+
+:TV_Line_610_DE a :TranslationVariant ;
+:text "herrschend hältst du den marmorschimmernden Glanz des Olymp."^^xsd:string ;
+:relatedTo :Line_610 .
+
+:TV_Line_611_DE a :TranslationVariant ;
+:text "Und das Folgende und das Künftige"^^xsd:string ;
+:relatedTo :Line_611 .
+
+:TV_Line_612_DE a :TranslationVariant ;
+:text "und das Frühere wird genügen:"^^xsd:string ;
+:relatedTo :Line_612 .
+
+:TV_Line_613_DE a :TranslationVariant ;
+:text "als Gesetz reißt dies an sich"^^xsd:string ;
+:relatedTo :Line_613 .
+
+:TV_Line_614_DE a :TranslationVariant ;
+:text "im Leben der Sterblichen gar nichts Großes außerhalb des Verderbens."^^xsd:string ;
+:relatedTo :Line_614 .
+
+:TV_Line_615_DE a :TranslationVariant ;
+:text "Denn die viel umherirrende Hoffnung ist vielen Männern Nutzen,"^^xsd:string ;
+:relatedTo :Line_615 .

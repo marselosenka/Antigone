@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-german a owl:Ontology .
+# German translation variants for 536_to_562.ttl
+
+:TV_Line_536_DE a :TranslationVariant ;
+:text "Ich habe das Werk getan, wenn diese hier zustimmt,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_DE a :TranslationVariant ;
+:text "und ich habe Anteil daran und trage die Schuld."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_DE a :TranslationVariant ;
+:text "Doch die Gerechtigkeit wird dir dies nicht erlauben, da"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_DE a :TranslationVariant ;
+:text "du weder wolltest noch ich dich zur Teilhaberin machte."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_DE a :TranslationVariant ;
+:text "Doch in deinen Übeln schäme ich mich nicht,"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_DE a :TranslationVariant ;
+:text "mich selbst zur Mitfahrenden des Leidens zu machen."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_DE a :TranslationVariant ;
+:text "Wessen das Werk ist, Hades und die Unteren wissen es mit;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_DE a :TranslationVariant ;
+:text "eine durch Worte liebende Freundin liebe ich aber nicht."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_DE a :TranslationVariant ;
+:text "Doch nicht, Schwester, entehr mich dadurch, nicht"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_DE a :TranslationVariant ;
+:text "mit dir zu sterben und den Gestorbenen zu heiligen."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_DE a :TranslationVariant ;
+:text "Stirb nicht mit mir gemeinsam, und was du nicht berührt hast,"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_DE a :TranslationVariant ;
+:text "mach nicht zu deinem. Ich werde sterbend genügen."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_DE a :TranslationVariant ;
+:text "Und welches Leben wäre mir lieb, wenn ich von dir verlassen bin?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_DE a :TranslationVariant ;
+:text "Frag Kreon; denn für diesen sorgst du."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_DE a :TranslationVariant ;
+:text "Warum betrübst du mich damit, ohne etwas zu nützen?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_DE a :TranslationVariant ;
+:text "Mit Schmerz gewiss lache ich, wenn ich über dich lache."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_DE a :TranslationVariant ;
+:text "Womit also sonst könnte ich dir jetzt noch helfen?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_DE a :TranslationVariant ;
+:text "Rette dich selbst; ich missgönne dir nicht, zu entkommen."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_DE a :TranslationVariant ;
+:text "Weh mir Unglücklicher, werde ich auch dein Schicksal verfehlen?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_DE a :TranslationVariant ;
+:text "Denn du wähltest zu leben, ich aber zu sterben."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_DE a :TranslationVariant ;
+:text "Doch nicht wenigstens bei unausgesprochenen Worten von mir."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_DE a :TranslationVariant ;
+:text "Du schienst den einen gut zu denken, ich aber den anderen."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_DE a :TranslationVariant ;
+:text "Und doch ist der Fehler für uns beide gleich."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_DE a :TranslationVariant ;
+:text "Sei getrost; du lebst, meine Seele aber ist längst"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_DE a :TranslationVariant ;
+:text "gestorben, sodass sie den Gestorbenen nützt."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_DE a :TranslationVariant ;
+:text "Ich sage, diese zwei Kinder: die eine eben erst"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_DE a :TranslationVariant ;
+:text "hat sich als unvernünftig gezeigt, die andere seit sie zuerst entstand."^^xsd:string ;
+:relatedTo :Line_562 .

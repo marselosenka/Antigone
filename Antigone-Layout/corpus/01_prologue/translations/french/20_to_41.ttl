@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-french a owl:Ontology .
+# French translation variants for 20_to_41.ttl
+
+:TV_Line_020_FR a :TranslationVariant ;
+:text "Qu’y a-t-il ? Car tu manifestes quelque parole sombrement agitée."^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_FR a :TranslationVariant ;
+:text "Créon n’a-t-il pas, pour nos deux frères, réservé à l’un"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_FR a :TranslationVariant ;
+:text "l’honneur du tombeau, et tenu l’autre dans le déshonneur ?"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_FR a :TranslationVariant ;
+:text "Étéocle, disent-ils, en usant d’un droit juste"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_FR a :TranslationVariant ;
+:text "et selon la loi, il l’a caché sous la terre,"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_FR a :TranslationVariant ;
+:text "honoré parmi les morts d’en bas;"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_FR a :TranslationVariant ;
+:text "mais le cadavre de Polynice, mort misérablement,"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_FR a :TranslationVariant ;
+:text "on dit qu’il a été proclamé aux citoyens de ne pas"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_FR a :TranslationVariant ;
+:text "le couvrir d’un tombeau ni que personne le pleure,"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_FR a :TranslationVariant ;
+:text "mais de le laisser sans pleurs, sans sépulture, doux trésor"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_FR a :TranslationVariant ;
+:text "pour les oiseaux qui le guettent avec plaisir comme pâture."^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_FR a :TranslationVariant ;
+:text "Voilà ce que, dit-on, le bon Créon a proclamé"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_FR a :TranslationVariant ;
+:text "pour toi et pour moi, car je dis bien: pour moi aussi,"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_FR a :TranslationVariant ;
+:text "et il vient ici annoncer clairement ces choses"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_FR a :TranslationVariant ;
+:text "à ceux qui ne les savent pas, et traiter l’affaire"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_FR a :TranslationVariant ;
+:text "non comme rien, mais, pour quiconque ferait une de ces choses,"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_FR a :TranslationVariant ;
+:text "la mort par lapidation publique est fixée dans la cité."^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_FR a :TranslationVariant ;
+:text "Voilà donc ce qu’il en est pour toi, et tu montreras bientôt"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_FR a :TranslationVariant ;
+:text "si tu es née noble, ou mauvaise issue de nobles."^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_FR a :TranslationVariant ;
+:text "Mais quoi, malheureuse, si les choses en sont là, moi,"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_FR a :TranslationVariant ;
+:text "en déliant ou en touchant, qu’ajouterais-je de plus ?"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_FR a :TranslationVariant ;
+:text "Vois si tu partageras la peine et l’action avec moi."^^xsd:string ;
+:relatedTo :Line_041 .

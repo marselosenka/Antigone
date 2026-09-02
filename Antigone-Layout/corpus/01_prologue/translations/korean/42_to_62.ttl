@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-korean a owl:Ontology .
+# Korean translation variants for 42_to_62.ttl
+
+:TV_Line_042_KO a :TranslationVariant ;
+:text "어떤 위험인가? 너는 도대체 마음을 어디에 두고 있느냐?"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_KO a :TranslationVariant ;
+:text "이 손과 함께 그 죽은 이를 들어 올리겠느냐?"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_KO a :TranslationVariant ;
+:text "정녕 도시가 금한 그를 묻으려 생각하느냐?"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_KO a :TranslationVariant ;
+:text "적어도 나의 형제, 그리고 네가 원하지 않더라도 너의 형제를,"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_KO a :TranslationVariant ;
+:text "나는 결코 배신자로 붙잡히지 않을 것이다."^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_KO a :TranslationVariant ;
+:text "오 무모한 이여, 크레온이 금했는데도?"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_KO a :TranslationVariant ;
+:text "그에게는 내 것들에서 나를 막을 몫이 전혀 없다."^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_KO a :TranslationVariant ;
+:text "아아, 생각해 보아라, 자매여, 우리 아버지가"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_KO a :TranslationVariant ;
+:text "얼마나 미움받고 악명 속에 죽었는지를,"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_KO a :TranslationVariant ;
+:text "스스로 드러난 허물들 앞에서, 두"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_KO a :TranslationVariant ;
+:text "눈을 자기 손으로 직접 쳐서 깨뜨렸음을."^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_KO a :TranslationVariant ;
+:text "그 다음에는 어머니이자 아내, 두 겹의 말인 그녀가,"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_KO a :TranslationVariant ;
+:text "꼬아 만든 올가미로 삶을 욕되게 했다."^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_KO a :TranslationVariant ;
+:text "셋째로는 두 형제가 한 날에"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_KO a :TranslationVariant ;
+:text "서로를 죽이며, 그 불쌍한 두 사람이"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_KO a :TranslationVariant ;
+:text "서로의 손으로 공동의 죽음을 이루었다."^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_KO a :TranslationVariant ;
+:text "이제 다시 우리 둘만 남았음을 보아라,"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_KO a :TranslationVariant ;
+:text "법의 폭력으로, 만일 우리가"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_KO a :TranslationVariant ;
+:text "참주들의 판결이나 권력에 맞선다면 얼마나 가장 비참하게 죽을지를."^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_KO a :TranslationVariant ;
+:text "그러나 먼저 이것을 생각해야 한다, 우리는 여자로"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_KO a :TranslationVariant ;
+:text "태어났으니, 남자들과 싸우도록 된 것이 아니라는 것을."^^xsd:string ;
+:relatedTo :Line_062 .

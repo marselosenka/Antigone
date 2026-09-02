@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-indonesian a owl:Ontology .
+# Indonesian translation variants for 773_to_780.ttl
+
+:TV_Line_773_ID a :TranslationVariant ;
+:text "Dengan membawanya ke tempat sepi, di mana ada jejak manusia,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_ID a :TranslationVariant ;
+:text "aku akan menyembunyikannya hidup-hidup dalam ruang bawah tanah berbatu,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_ID a :TranslationVariant ;
+:text "dengan menyediakan makanan hanya sebanyak untuk menghindari cemar,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_ID a :TranslationVariant ;
+:text "agar seluruh kota luput dari noda."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_ID a :TranslationVariant ;
+:text "Dan di sana, dengan memohon kepada Hades, satu-satunya dewa yang ia hormati,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_ID a :TranslationVariant ;
+:text "mungkin ia akan memperoleh agar tidak mati,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_ID a :TranslationVariant ;
+:text "atau setidaknya ia akan tahu pada waktu itu"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_ID a :TranslationVariant ;
+:text "bahwa menghormati hal-hal Hades adalah kerja berlebihan."^^xsd:string ;
+:relatedTo :Line_780 .

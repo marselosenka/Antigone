@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-french a owl:Ontology .
+# French translation variants for 223_to_252.ttl
+
+:TV_Line_223_FR a :TranslationVariant ;
+:text "Seigneur, je ne dirai pas que c’est sous l’effet de la hâte"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_FR a :TranslationVariant ;
+:text "que j’arrive essoufflé, levant un pied léger."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_FR a :TranslationVariant ;
+:text "Car j’ai eu beaucoup d’arrêts de pensées,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_FR a :TranslationVariant ;
+:text "me retournant sur les chemins pour revenir en arrière ;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_FR a :TranslationVariant ;
+:text "car mon âme me parlait beaucoup, me racontant :"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_FR a :TranslationVariant ;
+:text "Malheureux, pourquoi avances-tu là où, arrivé, tu paieras la peine ?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_FR a :TranslationVariant ;
+:text "Misérable, attends-tu encore ? Et si Créon apprend cela"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_FR a :TranslationVariant ;
+:text "par un autre homme, comment alors ne souffriras-tu pas ?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_FR a :TranslationVariant ;
+:text "En roulant de telles choses, j’accomplissais ma route lentement, à loisir,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_FR a :TranslationVariant ;
+:text "et ainsi une route courte devient longue."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_FR a :TranslationVariant ;
+:text "À la fin pourtant, venir ici"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_FR a :TranslationVariant ;
+:text "auprès de toi a vaincu ; et même si je ne dirai rien, je parlerai néanmoins."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_FR a :TranslationVariant ;
+:text "Car je viens agrippé à l’espérance :"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_FR a :TranslationVariant ;
+:text "ne rien subir d’autre que ce qui est destiné."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_FR a :TranslationVariant ;
+:text "Qu’est-ce donc pour quoi tu as cet abattement ?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_FR a :TranslationVariant ;
+:text "Je veux d’abord te dire ce qui me concerne ; car l’affaire,"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_FR a :TranslationVariant ;
+:text "je ne l’ai ni faite, ni vu qui était celui qui l’a faite,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_FR a :TranslationVariant ;
+:text "et je ne tomberais justement dans aucun mal."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_FR a :TranslationVariant ;
+:text "Tu vises bien, certes, et tu barricades tout autour"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_FR a :TranslationVariant ;
+:text "l’affaire ; tu montres que tu vas signaler quelque chose de nouveau."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_FR a :TranslationVariant ;
+:text "Car les choses terribles imposent beaucoup d’hésitation."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_FR a :TranslationVariant ;
+:text "Ne parleras-tu donc jamais, puis, délivré, t’en iras-tu ?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_FR a :TranslationVariant ;
+:text "Eh bien je te le dis : le cadavre, quelqu’un tout récemment,"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_FR a :TranslationVariant ;
+:text "l’ayant enseveli, est parti, après avoir répandu sur la peau"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_FR a :TranslationVariant ;
+:text "une poussière sèche et accompli les rites qu’il faut."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_FR a :TranslationVariant ;
+:text "Que dis-tu ? Qui des hommes osa ces choses ?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_FR a :TranslationVariant ;
+:text "Je ne sais pas ; là-bas, en effet, il n’y avait ni coup"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_FR a :TranslationVariant ;
+:text "de pioche, ni rejet de hoyau ; la terre était dure"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_FR a :TranslationVariant ;
+:text "et sèche, sans fente, ni marquée"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_FR a :TranslationVariant ;
+:text "par des roues ; mais l’ouvrier était quelqu’un sans trace."^^xsd:string ;
+:relatedTo :Line_252 .

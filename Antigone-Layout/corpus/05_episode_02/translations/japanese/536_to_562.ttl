@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-japanese a owl:Ontology .
+# Japanese translation variants for 536_to_562.ttl
+
+:TV_Line_536_JA a :TranslationVariant ;
+:text "私はその行いをしました、もしこの女が同意するなら、"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_JA a :TranslationVariant ;
+:text "共に分かち、責めも共に負います。"^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_JA a :TranslationVariant ;
+:text "しかし正義はそれをあなたに許しません。なぜなら、"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_JA a :TranslationVariant ;
+:text "あなたは望まず、私もあなたを共同者にしなかったから。"^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_JA a :TranslationVariant ;
+:text "でもあなたの災いの中で、私は恥じません、"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_JA a :TranslationVariant ;
+:text "自分自身をその苦しみの同船者にすることを。"^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_JA a :TranslationVariant ;
+:text "その行いについては、ハデスと下にいる者たちが証人です。"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_JA a :TranslationVariant ;
+:text "言葉で愛する友を、私は友として喜びません。"^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_JA a :TranslationVariant ;
+:text "どうか、妹よ、私を不名誉にしないで、"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_JA a :TranslationVariant ;
+:text "あなたと共に死に、死んだ者を清めることから私を排除しないで。"^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_JA a :TranslationVariant ;
+:text "私と共に死なないで。触れなかったものを"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_JA a :TranslationVariant ;
+:text "自分のものにしないで。私一人が死ねば足ります。"^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_JA a :TranslationVariant ;
+:text "あなたを失って私に愛すべきどんな生が残るのですか。"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_JA a :TranslationVariant ;
+:text "クレオンに尋ねなさい。あなたはこの人の世話人なのだから。"^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_JA a :TranslationVariant ;
+:text "なぜ私をそう苦しめるのですか、何の益も得ずに。"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_JA a :TranslationVariant ;
+:text "私は苦しみながら笑っています、あなたを笑うならば。"^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_JA a :TranslationVariant ;
+:text "では今、ほかにどうすれば私はあなたをなお助けられるでしょう。"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_JA a :TranslationVariant ;
+:text "自分自身を救いなさい。あなたが逃れ去ることを私は妬みません。"^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_JA a :TranslationVariant ;
+:text "ああ、哀れな私、あなたの死の運命から外されるのですか。"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_JA a :TranslationVariant ;
+:text "あなたは生きることを選び、私は死ぬことを選んだから。"^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_JA a :TranslationVariant ;
+:text "しかし私の言葉は、言われなかったものではありませんでした。"^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_JA a :TranslationVariant ;
+:text "あなたはそちらの者たちに、私はこちらの者たちに、よく考えていると思われたのです。"^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_JA a :TranslationVariant ;
+:text "それでも私たち二人の過ちは等しいのです。"^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_JA a :TranslationVariant ;
+:text "勇気を持ちなさい。あなたは生きているが、私の魂はずっと前に"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_JA a :TranslationVariant ;
+:text "死んでいます、死者たちを助けるために。"^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_JA a :TranslationVariant ;
+:text "この二人の娘について、私は言う。一方はいま"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_JA a :TranslationVariant ;
+:text "無分別と現れ、もう一方は初めからそうだったと。"^^xsd:string ;
+:relatedTo :Line_562 .

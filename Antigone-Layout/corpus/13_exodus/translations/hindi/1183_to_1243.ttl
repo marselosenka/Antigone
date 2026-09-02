@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-hindi a owl:Ontology .
+# Hindi translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_HI a :TranslationVariant ;
+:text "हे सभी नगरवासियो, मैंने उन बातों को सुना"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_HI a :TranslationVariant ;
+:text "जब मैं बाहर निकल रही थी, देवी पल्लास के पास जाने को,"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_HI a :TranslationVariant ;
+:text "कि प्रार्थनाओं की याचक बनकर वहाँ पहुँचूँ।"^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_HI a :TranslationVariant ;
+:text "और संयोग से मैं खिंचकर खुलने वाले द्वार की अड़चनें"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_HI a :TranslationVariant ;
+:text "ढीली कर रही थी, तभी घर के अपने दुःख की आवाज़"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_HI a :TranslationVariant ;
+:text "मेरे कानों से टकराई; और मैं भय से पीछे की ओर झुक गई"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_HI a :TranslationVariant ;
+:text "दासियों के बीच, और स्तब्ध हो गई।"^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_HI a :TranslationVariant ;
+:text "पर जो बात थी, उसे फिर से कहो;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_HI a :TranslationVariant ;
+:text "क्योंकि मैं दुखों से अनभिज्ञ नहीं हूँ; सुनूँगी।"^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_HI a :TranslationVariant ;
+:text "मैं, प्रिय स्वामिनी, उपस्थित था और कहूँगा,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_HI a :TranslationVariant ;
+:text "और सत्य के एक भी वचन को नहीं छोड़ूँगा;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_HI a :TranslationVariant ;
+:text "क्योंकि मैं उन बातों को नरम क्यों करूँ जिनके विषय में बाद में"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_HI a :TranslationVariant ;
+:text "हम झूठे सिद्ध होंगे? सत्य सदा सीधा होता है।"^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_HI a :TranslationVariant ;
+:text "मैं तेरे पति के पद-मार्गदर्शक की तरह पीछे-पीछे गया"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_HI a :TranslationVariant ;
+:text "मैदान के अंतिम भाग तक, जहाँ अभी भी पड़ा था"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_HI a :TranslationVariant ;
+:text "पोलिनाइकेस का निर्दयी, कुत्तों से फटा शरीर;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_HI a :TranslationVariant ;
+:text "और पहले मार्ग की देवी से"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_HI a :TranslationVariant ;
+:text "और प्लूटोन से प्रार्थना कर कि वे अपना क्रोध अनुकूल रोक लें,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_HI a :TranslationVariant ;
+:text "हमने उसे शुद्ध स्नान से धोया, और नए काटे हुए"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_HI a :TranslationVariant ;
+:text "पल्लवों के साथ जो बचा था उसे साथ जला दिया,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_HI a :TranslationVariant ;
+:text "और उसकी अपनी भूमि की ऊँची शिर वाली मिट्टी की ढेरी बनाकर,"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_HI a :TranslationVariant ;
+:text "फिर हम पत्थर-बिछे कन्या के"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_HI a :TranslationVariant ;
+:text "हेडीस के खोखले विवाह-कक्ष की ओर गए।"^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_HI a :TranslationVariant ;
+:text "और दूर से ऊँचे विलापों की आवाज़"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_HI a :TranslationVariant ;
+:text "किसी ने उस अंतिम-संस्कारहीन वधू-कक्ष के पास सुनी,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_HI a :TranslationVariant ;
+:text "और आकर स्वामी क्रेओन को सूचना दी;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_HI a :TranslationVariant ;
+:text "जब वह और निकट सरकता गया, तो अभागी पुकार की अस्पष्ट ध्वनियाँ"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_HI a :TranslationVariant ;
+:text "उसके चारों ओर आने लगीं, और उसने कराहकर"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_HI a :TranslationVariant ;
+:text "एक दयनीय वचन छोड़ा: हाय अभागा मैं,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_HI a :TranslationVariant ;
+:text "क्या मैं भविष्यवक्ता हूँ? क्या मैं सबसे अधिक दुर्भाग्यपूर्ण"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_HI a :TranslationVariant ;
+:text "मार्ग पर चलता हूँ, जितने मार्गों से पहले गुजरा हूँ?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_HI a :TranslationVariant ;
+:text "पुत्र की आवाज़ मुझे लुभा रही है। पर सेवको,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_HI a :TranslationVariant ;
+:text "शीघ्र निकट जाओ, और कब्र के पास खड़े होकर"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_HI a :TranslationVariant ;
+:text "देखो, जहाँ मिट्टी का जोड़ पत्थर हटाकर खुला है,"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_HI a :TranslationVariant ;
+:text "सीधे उसी मुहाने में झाँककर, कि क्या मैं हैमन की"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_HI a :TranslationVariant ;
+:text "आवाज़ समझता हूँ, या देवताओं द्वारा ठगा जा रहा हूँ।"^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_HI a :TranslationVariant ;
+:text "हमने ये बातें निरुत्साहित स्वामी के आदेशों से"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_HI a :TranslationVariant ;
+:text "देखीं; और अंतिम समाधि-कक्ष के भीतर"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_HI a :TranslationVariant ;
+:text "हमने उसे गर्दन से लटकी हुई देखा,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_HI a :TranslationVariant ;
+:text "सन के वस्त्र की धागे-जैसी फाँसी से झूलती हुई,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_HI a :TranslationVariant ;
+:text "और उसे उसके मध्य भाग से लिपटा हुआ पड़ा देखा,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_HI a :TranslationVariant ;
+:text "नीचे की शय्या के नाश पर विलाप करता हुआ,"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_HI a :TranslationVariant ;
+:text "और पिता के कर्मों पर और उस अभागे विवाह-बिस्तर पर।"^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_HI a :TranslationVariant ;
+:text "और जब पिता ने उन्हें देखा, भयानक कराहकर भीतर"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_HI a :TranslationVariant ;
+:text "उसके पास गया और चीत्कार कर पुकारा:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_HI a :TranslationVariant ;
+:text "हे दुःखी, तूने कैसा कर्म किया? किस"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_HI a :TranslationVariant ;
+:text "बुद्धि में पड़ा? किस विपत्ति में नष्ट हुआ?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_HI a :TranslationVariant ;
+:text "बाहर आ, पुत्र; याचक की तरह तुझसे विनती करता हूँ।"^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_HI a :TranslationVariant ;
+:text "पर पुत्र ने जंगली आँखों से उसे घूरकर,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_HI a :TranslationVariant ;
+:text "उसके मुख पर थूककर, बिना कुछ उत्तर दिए तलवार के"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_HI a :TranslationVariant ;
+:text "दोहरी धार वाले दाँत खींचे; और जब पिता झपटकर हट गया,"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_HI a :TranslationVariant ;
+:text "तो उसके भागने से वह चूक गया; फिर अभागा"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_HI a :TranslationVariant ;
+:text "अपने ऊपर क्रुद्ध होकर, जैसे था वैसे ही, अपने ऊपर झुककर"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_HI a :TranslationVariant ;
+:text "तलवार को अपनी पसलियों के बीच गड़ा दिया; और अभी सचेत रहते हुए"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_HI a :TranslationVariant ;
+:text "गीली भुजा से कन्या को बाँहों में भर लिया;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_HI a :TranslationVariant ;
+:text "और साँस छोड़ते हुए तीखी धारा उछाली"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_HI a :TranslationVariant ;
+:text "उसके श्वेत गाल पर रक्तिम बूँदों की।"^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_HI a :TranslationVariant ;
+:text "वह मृत, मृतका के पास पड़ा है, अभागे ने विवाह के"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_HI a :TranslationVariant ;
+:text "संस्कार हेडीस के घरों में पाए,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_HI a :TranslationVariant ;
+:text "मनुष्यों के बीच दिखाते हुए कि अबुद्धि"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_HI a :TranslationVariant ;
+:text "मनुष्य से जुड़ी सबसे बड़ी बुराई है।"^^xsd:string ;
+:relatedTo :Line_1243 .

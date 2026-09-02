@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-russian a owl:Ontology .
+# Russian translation variants for 508_to_535.ttl
+
+:TV_Line_508_RU a :TranslationVariant ;
+:text "Ты одна из этих кадмейцев это видишь."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_RU a :TranslationVariant ;
+:text "И они видят, но перед тобой зажимают рот."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_RU a :TranslationVariant ;
+:text "А тебе не стыдно, если мыслишь отдельно от них?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_RU a :TranslationVariant ;
+:text "Ведь нет ничего постыдного в почитании единоутробных."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_RU a :TranslationVariant ;
+:text "Разве не едино кровен и тот, кто умер напротив?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_RU a :TranslationVariant ;
+:text "Единокровен, от одной матери и того же отца."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_RU a :TranslationVariant ;
+:text "Как же ты оказываешь ему нечестивую честь?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_RU a :TranslationVariant ;
+:text "Умерший мертвец не засвидетельствует этого."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_RU a :TranslationVariant ;
+:text "Если ты чтишь его наравне с нечестивым."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_RU a :TranslationVariant ;
+:text "Ведь погиб не раб, но брат."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_RU a :TranslationVariant ;
+:text "Но он разорял эту землю; тот же стоял против в защиту."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_RU a :TranslationVariant ;
+:text "Все равно Аид желает этих законов."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_RU a :TranslationVariant ;
+:text "Но добрый не имеет равного удела с дурным."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_RU a :TranslationVariant ;
+:text "Кто знает, святы ли эти вещи внизу?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_RU a :TranslationVariant ;
+:text "Враг, конечно, никогда, даже когда умрет, не друг."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_RU a :TranslationVariant ;
+:text "Я рождена не для совместной ненависти, а для совместной любви."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_RU a :TranslationVariant ;
+:text "Ступай же вниз и, если должно любить, люби"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_RU a :TranslationVariant ;
+:text "тех; пока я жив, женщина не будет править мной."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_RU a :TranslationVariant ;
+:text "И вот перед воротами эта Исмена,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_RU a :TranslationVariant ;
+:text "льющая родственные брату слезы внизу;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_RU a :TranslationVariant ;
+:text "и облако над бровями кровавое"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_RU a :TranslationVariant ;
+:text "лицо уродует,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_RU a :TranslationVariant ;
+:text "смачивая прекрасноликое щеку."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_RU a :TranslationVariant ;
+:text "А ты, которая в доме, как ехидна, подползшая,"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_RU a :TranslationVariant ;
+:text "тайно высасывала меня, и я не понимал,"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_RU a :TranslationVariant ;
+:text "что вскармливаю две гибели и восстания против престолов,"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_RU a :TranslationVariant ;
+:text "ну, скажи мне: и ты в этом погребении"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_RU a :TranslationVariant ;
+:text "скажешь, что участвовала, или поклянешься, что не знала?"^^xsd:string ;
+:relatedTo :Line_535 .

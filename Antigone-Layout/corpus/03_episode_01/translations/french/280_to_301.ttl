@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-french a owl:Ontology .
+# French translation variants for 280_to_301.ttl
+
+:TV_Line_280_FR a :TranslationVariant ;
+:text "Cesse, avant qu’en parlant tu ne me remplisses aussi de colère,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_FR a :TranslationVariant ;
+:text "de peur que tu ne sois découvert à la fois insensé et vieux."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_FR a :TranslationVariant ;
+:text "Car tu dis des choses intolérables, en disant que les divinités"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_FR a :TranslationVariant ;
+:text "ont souci de ce cadavre."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_FR a :TranslationVariant ;
+:text "Est-ce en l’honorant par-dessus tout comme un bienfaiteur"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_FR a :TranslationVariant ;
+:text "qu’ils l’ont enseveli, lui qui était venu pour brûler"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_FR a :TranslationVariant ;
+:text "les temples entourés de colonnes et les offrandes,"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_FR a :TranslationVariant ;
+:text "et leur terre, et pour disperser les lois ?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_FR a :TranslationVariant ;
+:text "Ou vois-tu les dieux honorant les mauvais ?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_FR a :TranslationVariant ;
+:text "Il n’en est rien ; mais depuis longtemps déjà, des hommes de la cité,"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_FR a :TranslationVariant ;
+:text "supportant difficilement ces choses, murmuraient contre moi"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_FR a :TranslationVariant ;
+:text "en secret, secouant la tête, et ils ne tenaient pas sous le joug"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_FR a :TranslationVariant ;
+:text "leur nuque justement, de manière à m’aimer."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_FR a :TranslationVariant ;
+:text "D’après cela je sais très bien que ces hommes"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_FR a :TranslationVariant ;
+:text "ont été entraînés par des salaires à faire ces choses."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_FR a :TranslationVariant ;
+:text "Car rien, pour les hommes, comme l’argent"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_FR a :TranslationVariant ;
+:text "n’a germé en mauvaise monnaie ; celui-ci ravage même les cités,"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_FR a :TranslationVariant ;
+:text "celui-ci arrache les hommes de leurs maisons,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_FR a :TranslationVariant ;
+:text "celui-ci enseigne et détourne les esprits"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_FR a :TranslationVariant ;
+:text "honnêtes des mortels pour les établir dans des actions honteuses ;"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_FR a :TranslationVariant ;
+:text "il a montré aux hommes à posséder des fourberies"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_FR a :TranslationVariant ;
+:text "et à connaître l’impiété de toute œuvre."^^xsd:string ;
+:relatedTo :Line_301 .

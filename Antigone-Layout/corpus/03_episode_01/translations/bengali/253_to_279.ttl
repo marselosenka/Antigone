@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-bengali a owl:Ontology .
+# Bengali translation variants for 253_to_279.ttl
+
+:TV_Line_253_BN a :TranslationVariant ;
+:text "আর যেভাবে প্রথম দিনের প্রহরী আমাদের দেখাল,"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_BN a :TranslationVariant ;
+:text "সবার কাছে কঠিন বিস্ময় উপস্থিত ছিল;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_BN a :TranslationVariant ;
+:text "কারণ দেহটি অদৃশ্য হয়ে গিয়েছিল, কিন্তু পূর্ণ কবর নয়,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_BN a :TranslationVariant ;
+:text "বরং পাতলা ধুলো ছিল, যেন অপবিত্রতা এড়াতে কেউ দিয়েছে।"^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_BN a :TranslationVariant ;
+:text "কোনো পশু বা কুকুরের"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_BN a :TranslationVariant ;
+:text "আসা বা টেনে নেওয়ার চিহ্ন দেখা যাচ্ছিল না।"^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_BN a :TranslationVariant ;
+:text "আমাদের মধ্যে খারাপ কথাবার্তা গুঞ্জন করছিল,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_BN a :TranslationVariant ;
+:text "প্রহরী প্রহরীকে দোষ দিচ্ছিল, আর শেষে"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_BN a :TranslationVariant ;
+:text "মারামারি হত, বাধা দেওয়ার কেউও থাকত না।"^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_BN a :TranslationVariant ;
+:text "কারণ প্রত্যেকেই যেন কাজটি করেছিল,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_BN a :TranslationVariant ;
+:text "কিন্তু কেউ স্পষ্ট নয়; সবাই না-জানাকে আশ্রয় করছিল।"^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_BN a :TranslationVariant ;
+:text "আমরা প্রস্তুত ছিলাম হাতে জ্বলন্ত লোহাও তুলতে,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_BN a :TranslationVariant ;
+:text "আগুনের মধ্য দিয়ে যেতে, আর দেবতাদের শপথ করতে,"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_BN a :TranslationVariant ;
+:text "যে কাজটি করিনি, আর কাউকে জানিও না,"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_BN a :TranslationVariant ;
+:text "যে তা পরিকল্পনা করেছে বা সম্পন্ন করেছে।"^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_BN a :TranslationVariant ;
+:text "শেষে, অনুসন্ধানে যখন আর কিছুই বাড়ল না,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_BN a :TranslationVariant ;
+:text "একজন কথা বলল, যে ভয়ে আমাদের সবাইকে মাথা"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_BN a :TranslationVariant ;
+:text "মাটির দিকে নোয়াতে বাধ্য করল; কারণ আমাদের ছিল না"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_BN a :TranslationVariant ;
+:text "না উত্তর দেওয়ার শক্তি, না কীভাবে ভালো করে কাজ করে"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_BN a :TranslationVariant ;
+:text "সফল হব তার উপায়। কথাটি ছিল যে"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_BN a :TranslationVariant ;
+:text "এই কাজ তোমার কাছে জানাতে হবে, লুকোতে নয়।"^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_BN a :TranslationVariant ;
+:text "এই কথাই জয়ী হল, আর আমাকে, দুর্ভাগাকে,"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_BN a :TranslationVariant ;
+:text "লটারির ভাগ্য এই ভালোটি নিতে বেছে নিল।"^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_BN a :TranslationVariant ;
+:text "আমি অনিচ্ছুক হয়ে এসেছি, অনিচ্ছুকদের কাছেই—আমি জানি;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_BN a :TranslationVariant ;
+:text "কারণ কেউ মন্দ কথার দূতকে ভালোবাসে না।"^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_BN a :TranslationVariant ;
+:text "রাজা, আমার মনে বহুক্ষণ ধরে এই চিন্তা পরামর্শ দিচ্ছে,"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_BN a :TranslationVariant ;
+:text "এই কাজটি কি দেবতা-প্রেরিত কিছু নয়?"^^xsd:string ;
+:relatedTo :Line_279 .

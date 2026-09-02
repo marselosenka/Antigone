@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-italian a owl:Ontology .
+# Italian translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in canonical.
+
+:TV_Line_1278_IT a :TranslationVariant ;
+:text "O signore, come uno che ha e possiede,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_IT a :TranslationVariant ;
+:text "sembri portare questi mali davanti alle mani, e quelli in casa,"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_IT a :TranslationVariant ;
+:text "arrivato, presto li vedrai."^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_IT a :TranslationVariant ;
+:text "Che cosa? C’è forse ancora qualcosa peggiore dai mali?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_IT a :TranslationVariant ;
+:text "La donna è morta, madre intera di questo morto,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_IT a :TranslationVariant ;
+:text "sventurata, poco fa con ferite appena tagliate."^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_IT a :TranslationVariant ;
+:text "Io, io porto di Ade difficile da purificare,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_IT a :TranslationVariant ;
+:text "perché dunque, perché mi distruggi?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_IT a :TranslationVariant ;
+:text "O tu che mi annunci mali,"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_IT a :TranslationVariant ;
+:text "avendo mandato avanti dolori, quale parola gridi?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_IT a :TranslationVariant ;
+:text "Ahimè, hai rifinito un uomo già perduto."^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_IT a :TranslationVariant ;
+:text "Che dici, ragazzo? Quale nuovo fatto mi dici,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_IT a :TranslationVariant ;
+:text "ahimè, ahimè,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_IT a :TranslationVariant ;
+:text "vittima sacrificale su rovina,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_IT a :TranslationVariant ;
+:text "che una sorte femminile giace intorno?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_IT a :TranslationVariant ;
+:text "È possibile vedere; infatti non è più nei recessi."^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_IT a :TranslationVariant ;
+:text "Ahimè,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_IT a :TranslationVariant ;
+:text "quest’altro secondo male vedo, misero."^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_IT a :TranslationVariant ;
+:text "Quale dunque, quale sorte ancora mi attende?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_IT a :TranslationVariant ;
+:text "Ho appena nelle mani mio figlio,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_IT a :TranslationVariant ;
+:text "misero, e davanti guardo un altro morto."^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in canonical.
+
+:TV_Line_1300_IT a :TranslationVariant ;
+:text "Ah, ah, madre infelice, ah, figlio."^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_IT a :TranslationVariant ;
+:text "Ella, trafitta da colpo acuto, seduta presso l’altare,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_IT a :TranslationVariant ;
+:text "scioglie le palpebre nere, avendo pianto"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_IT a :TranslationVariant ;
+:text "il letto vuoto di Megareo, morto prima,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_IT a :TranslationVariant ;
+:text "poi di nuovo questo; e infine contro di te"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_IT a :TranslationVariant ;
+:text "cantò cattive azioni, contro l’uccisore dei figli."^^xsd:string ;
+:relatedTo :Line_1305 .

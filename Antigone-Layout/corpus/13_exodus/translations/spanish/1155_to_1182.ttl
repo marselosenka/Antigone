@@ -1,0 +1,35 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-spanish a owl:Ontology .
+# Spanish translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1155 ; :text "Vecinos de Cadmo y de las moradas de Anfión,"^^xsd:string .
+:TV_Line_1156_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1156 ; :text "no existe vida humana, puesta en tal estado,"^^xsd:string .
+:TV_Line_1157_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1157 ; :text "que yo pudiera jamás alabar ni censurar."^^xsd:string .
+:TV_Line_1158_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1158 ; :text "Pues la fortuna endereza, y la fortuna derriba,"^^xsd:string .
+:TV_Line_1159_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1159 ; :text "siempre, al afortunado y al desdichado;"^^xsd:string .
+:TV_Line_1160_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1160 ; :text "y ningún adivino conoce lo establecido para los mortales."^^xsd:string .
+:TV_Line_1161_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1161 ; :text "Creonte, en otro tiempo, era envidiable, a mi juicio,"^^xsd:string .
+:TV_Line_1162_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1162 ; :text "pues salvó de los enemigos esta tierra cadmea"^^xsd:string .
+:TV_Line_1163_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1163 ; :text "y, tomando el poder absoluto del país,"^^xsd:string .
+:TV_Line_1164_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1164 ; :text "lo gobernaba, floreciendo en noble descendencia de hijos;"^^xsd:string .
+:TV_Line_1165_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1165 ; :text "y ahora todo se ha perdido. Pues cuando los hombres entregan"^^xsd:string .
+:TV_Line_1166_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1166 ; :text "sus alegrías, yo no considero que ese hombre"^^xsd:string .
+:TV_Line_1167_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1167 ; :text "viva, sino que lo tengo por un muerto con aliento."^^xsd:string .
+:TV_Line_1168_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1168 ; :text "Sea rico en su casa, si quieres, muy rico,"^^xsd:string .
+:TV_Line_1169_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1169 ; :text "y viva con figura de tirano; pero si falta"^^xsd:string .
+:TV_Line_1170_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1170 ; :text "el gozo de esas cosas, todo lo demás, por una sombra de humo,"^^xsd:string .
+:TV_Line_1171_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1171 ; :text "no lo compraría de nadie frente al placer."^^xsd:string .
+:TV_Line_1172_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1172 ; :text "¿Qué carga de los reyes vienes trayendo?"^^xsd:string .
+:TV_Line_1173_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1173 ; :text "Han muerto; y los vivos son culpables de su muerte."^^xsd:string .
+:TV_Line_1174_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1174 ; :text "¿Y quién mata? ¿Quién yace muerto? Habla."^^xsd:string .
+:TV_Line_1175_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1175 ; :text "Hemón ha perecido; se ensangrienta por su propia mano."^^xsd:string .
+:TV_Line_1176_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1176 ; :text "¿Por mano paterna o por la suya propia?"^^xsd:string .
+:TV_Line_1177_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1177 ; :text "Él mismo contra sí mismo, enfurecido con su padre por la muerte."^^xsd:string .
+:TV_Line_1178_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1178 ; :text "Oh adivino, qué rectamente cumpliste tu palabra."^^xsd:string .
+:TV_Line_1179_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1179 ; :text "Siendo así las cosas, queda deliberar sobre lo demás."^^xsd:string .
+:TV_Line_1180_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1180 ; :text "Y ahora veo cerca a la desdichada Eurídice,"^^xsd:string .
+:TV_Line_1181_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1181 ; :text "la esposa de Creonte; desde la casa sale,"^^xsd:string .
+:TV_Line_1182_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1182 ; :text "ya sea porque oye lo de su hijo, ya por azar."^^xsd:string .

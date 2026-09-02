@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-italian a owl:Ontology .
+# Italian translation variants for 366_to_383.ttl
+
+:TV_Line_366_IT a :TranslationVariant ;
+:text "Ora verso il male, altra volta verso il bene striscia,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_IT a :TranslationVariant ;
+:text "onorando le leggi della terra e la giustizia giurata degli dèi,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Lines 368 and 369 are commented out in canonical.
+
+:TV_Line_370_IT a :TranslationVariant ;
+:text "alto nella città; senza città colui al quale il non bello"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_IT a :TranslationVariant ;
+:text "sta insieme per amore dell'audacia. Né presso il mio focolare"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Lines 372, 373, and 374 are commented out in canonical.
+
+:TV_Line_375_IT a :TranslationVariant ;
+:text "sia, né pensi ugualmente a me chi compie queste cose."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_IT a :TranslationVariant ;
+:text "Verso un prodigio divino sono in dubbio"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_IT a :TranslationVariant ;
+:text "su questo: come, sapendo, potrò negare"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_IT a :TranslationVariant ;
+:text "che questa non sia la fanciulla Antigone?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_IT a :TranslationVariant ;
+:text "O infelice"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_IT a :TranslationVariant ;
+:text "e figlia dell'infelice padre Edipo,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_IT a :TranslationVariant ;
+:text "che mai? Davvero non ti conducono,"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_IT a :TranslationVariant ;
+:text "disobbediente alle leggi regali,"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_IT a :TranslationVariant ;
+:text "e colta in stoltezza?"^^xsd:string ;
+:relatedTo :Line_383 .

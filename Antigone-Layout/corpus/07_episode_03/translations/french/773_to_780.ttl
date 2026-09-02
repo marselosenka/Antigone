@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-french a owl:Ontology .
+# French translation variants for 773_to_780.ttl
+
+:TV_Line_773_FR a :TranslationVariant ;
+:text "L’emmenant déserte, là où serait une trace de mortels,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_FR a :TranslationVariant ;
+:text "je la cacherai vivante dans une cavité rocheuse,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_FR a :TranslationVariant ;
+:text "ayant placé devant elle autant de nourriture que pour éviter seulement la souillure,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_FR a :TranslationVariant ;
+:text "afin que toute la cité échappe à la pollution."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_FR a :TranslationVariant ;
+:text "Et là, Hadès, le seul des dieux qu’elle respecte,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_FR a :TranslationVariant ;
+:text "en le suppliant, peut-être obtiendra-t-elle de ne pas mourir,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_FR a :TranslationVariant ;
+:text "ou bien du moins elle saura alors"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_FR a :TranslationVariant ;
+:text "que c’est une peine superflue d’honorer les choses de l’Hadès."^^xsd:string ;
+:relatedTo :Line_780 .

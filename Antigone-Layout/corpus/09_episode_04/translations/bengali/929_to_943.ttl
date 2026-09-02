@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-bengali a owl:Ontology .
+# Bengali translation variants for 929_to_943.ttl
+
+:TV_Line_929_BN a :TranslationVariant ;
+:text "এখনও একই বাতাসের"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_BN a :TranslationVariant ;
+:text "একই প্রাণের ঝাপটা তাকে ধরে রেখেছে।"^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_BN a :TranslationVariant ;
+:text "তাই যারা তাকে নিয়ে যাচ্ছে, তাদের জন্য"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_BN a :TranslationVariant ;
+:text "বিলম্বের কারণে কান্না উপস্থিত হবে।"^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_BN a :TranslationVariant ;
+:text "হায়, এই বাক্য"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_BN a :TranslationVariant ;
+:text "মৃত্যুর একেবারে কাছে এসে পৌঁছেছে।"^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_BN a :TranslationVariant ;
+:text "আমি তোমাকে কোনো সাহসের সান্ত্বনা দিচ্ছি না"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_BN a :TranslationVariant ;
+:text "যে এসব এভাবেই নিশ্চিত হবে না।"^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_BN a :TranslationVariant ;
+:text "হে থিব্‌স ভূমির পিতৃনগর,"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_BN a :TranslationVariant ;
+:text "আর হে পূর্বপুরুষদের দেবতারা,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_BN a :TranslationVariant ;
+:text "আমাকে নিয়ে যাওয়া হচ্ছে, আর আর বিলম্ব নেই।"^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_BN a :TranslationVariant ;
+:text "দেখো, হে থিব্‌সের শাসকবর্গ,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_BN a :TranslationVariant ;
+:text "রাজবংশের একমাত্র অবশিষ্ট আমাকে,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_BN a :TranslationVariant ;
+:text "কী সহ্য করছি, আর কেমন মানুষের হাতে,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_BN a :TranslationVariant ;
+:text "ধর্মনিষ্ঠাকে সম্মান করার কারণে।"^^xsd:string ;
+:relatedTo :Line_943 .

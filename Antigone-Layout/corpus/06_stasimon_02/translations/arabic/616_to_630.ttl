@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-arabic a owl:Ontology .
+# Arabic translation variants for 616_to_630.ttl
+
+:TV_Line_616_AR a :TranslationVariant ;
+:text "ولكثيرين خداع رغبات خفيفة الفكر؛"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_AR a :TranslationVariant ;
+:text "وتزحف على من لا يعلم شيئًا، قبل أن يمس أحد بقدمه النار الحارة."^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in canonical.
+
+:TV_Line_620_AR a :TranslationVariant ;
+:text "فقد ظهر من حكمة كلام مشهور."^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_AR a :TranslationVariant ;
+:text "أن يبدو الشر يومًا خيرًا"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_AR a :TranslationVariant ;
+:text "لذلك الذي تكون له الأفكار"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_AR a :TranslationVariant ;
+:text "يسوقها إله نحو البلاء؛"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in canonical.
+
+:TV_Line_625_AR a :TranslationVariant ;
+:text "ولا يقضي خارج البلاء إلا أقصر زمن."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_AR a :TranslationVariant ;
+:text "انظر، ها هو هيمون، من أبنائك"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_AR a :TranslationVariant ;
+:text "أحدث مولود؛ ألعله يأتي مثقلًا بلعنة"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_AR a :TranslationVariant ;
+:text "مصير عروسه أنتيغوني،"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in canonical.
+
+:TV_Line_630_AR a :TranslationVariant ;
+:text "متألمًا ألمًا شديدًا من خداع فراش الزواج؟"^^xsd:string ;
+:relatedTo :Line_630 .

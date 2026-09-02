@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-bengali a owl:Ontology .
+# Bengali translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone
+
+:TV_Line_1278_BN a :TranslationVariant ;
+:text "দূত: হে প্রভু, যা নিয়ে তুমি দাঁড়িয়ে আছ ও যা ধারণ করেছ,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_BN a :TranslationVariant ;
+:text "দেখা যায়, সামনের এসব তুমি হাতে বহন করছ, আর গৃহে"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_BN a :TranslationVariant ;
+:text "এসে তুমি আরও অমঙ্গল পেয়েছ এবং শিগগিরই দেখবে।"^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_BN a :TranslationVariant ;
+:text "ক্রেয়োন: কী? অমঙ্গলের পরেও কি আরও খারাপ কিছু আছে?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_BN a :TranslationVariant ;
+:text "দূত: তোমার স্ত্রী মৃত, এই মৃতের সর্বমাতা,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_BN a :TranslationVariant ;
+:text "হতভাগিনী, সদ্য-কাটা আঘাতে এখনই।"^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_BN a :TranslationVariant ;
+:text "ক্রেয়োন: হায়, হায়, হেডিসের অশোধনীয় আশ্রয়,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_BN a :TranslationVariant ;
+:text "কেন আমাকে, কেন আমাকে ধ্বংস করছ?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_BN a :TranslationVariant ;
+:text "হে আমার কাছে অমঙ্গল-বার্তা আনা মানুষ,"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_BN a :TranslationVariant ;
+:text "যে আগে দুঃখ পাঠালে, কী কথা উচ্চারণ করছ?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_BN a :TranslationVariant ;
+:text "হায়, তুমি ধ্বংসপ্রাপ্ত মানুষকে আরও শেষ করে দিলে।"^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_BN a :TranslationVariant ;
+:text "কী বলছ, হে ছেলে? কী নতুন কথা আমাকে বলছ,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_BN a :TranslationVariant ;
+:text "হায় হায়, হায় হায়,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_BN a :TranslationVariant ;
+:text "বিনাশের উপর জবাই-দেওয়া,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_BN a :TranslationVariant ;
+:text "এক নারীর মৃত্যু আমার উপর এসে বসেছে?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_BN a :TranslationVariant ;
+:text "দূত: দেখা সম্ভব; কারণ আর ভেতরের গোপনে নেই।"^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_BN a :TranslationVariant ;
+:text "ক্রেয়োন: হায়,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_BN a :TranslationVariant ;
+:text "হতভাগা আমি এই দ্বিতীয় অমঙ্গলও দেখছি।"^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_BN a :TranslationVariant ;
+:text "কোন ভাগ্য, কোন ভাগ্য এখনও আমার জন্য অপেক্ষা করছে?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_BN a :TranslationVariant ;
+:text "এইমাত্র হাতে ধরে আছি সন্তানকে,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_BN a :TranslationVariant ;
+:text "হতভাগা আমি, আর সামনে আরেক মৃতকে দেখছি।"^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in Antigone
+
+:TV_Line_1300_BN a :TranslationVariant ;
+:text "হায় হায়, হতভাগিনী মা, হায় সন্তান।"^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_BN a :TranslationVariant ;
+:text "দূত: সে, তীক্ষ্ণ আঘাতপ্রাপ্ত, বেদির পাশে বসে,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_BN a :TranslationVariant ;
+:text "কালো চোখ বন্ধ করল, প্রথমে চিৎকার করে"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_BN a :TranslationVariant ;
+:text "আগে মৃত মেগারেউসের শূন্য শয্যার জন্য,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_BN a :TranslationVariant ;
+:text "তারপর এ-ছেলের জন্য, আর শেষে তোমার বিরুদ্ধে"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_BN a :TranslationVariant ;
+:text "অমঙ্গল কাজের শাপ উচ্চারণ করে, তোমাকে পুত্রঘাতী বলে।"^^xsd:string ;
+:relatedTo :Line_1305 .

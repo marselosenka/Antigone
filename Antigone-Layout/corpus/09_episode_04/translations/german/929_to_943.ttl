@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-german a owl:Ontology .
+# German translation variants for 929_to_943.ttl
+
+:TV_Line_929_DE a :TranslationVariant ;
+:text "Noch dieselben Windstöße derselben"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_DE a :TranslationVariant ;
+:text "Winde der Seele halten diese ja fest."^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_DE a :TranslationVariant ;
+:text "Daher wird bei diesen den Führenden"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_DE a :TranslationVariant ;
+:text "Weinen für ihre Langsamkeit zuteil werden."^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_DE a :TranslationVariant ;
+:text "Weh mir, dem Tod ganz nahe"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_DE a :TranslationVariant ;
+:text "ist dieses Wort gelangt."^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_DE a :TranslationVariant ;
+:text "Zum Mut fasse ich nichts Tröstendes an,"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_DE a :TranslationVariant ;
+:text "dass dies nicht auf diese Weise bestätigt wird."^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_DE a :TranslationVariant ;
+:text "O Stadt der väterlichen Erde Thebens"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_DE a :TranslationVariant ;
+:text "und Götter der Vorfahren,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_DE a :TranslationVariant ;
+:text "ich werde nun geführt und zögere nicht mehr."^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_DE a :TranslationVariant ;
+:text "Schaut, ihr Herrscher von Theben,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_DE a :TranslationVariant ;
+:text "die einzige Übriggebliebene der Königstöchter,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_DE a :TranslationVariant ;
+:text "was ich von welchen Männern erleide,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_DE a :TranslationVariant ;
+:text "weil ich die Frömmigkeit ehrte."^^xsd:string ;
+:relatedTo :Line_943 .

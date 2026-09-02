@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-arabic a owl:Ontology .
+# Arabic translation variants for 42_to_62.ttl
+
+:TV_Line_042_AR a :TranslationVariant ;
+:text "أي خطر هذا؟ وإلى أين يتجه رأيك؟"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_AR a :TranslationVariant ;
+:text "هل سترفعين الجثة مع هذه اليد؟"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_AR a :TranslationVariant ;
+:text "أحقًّا تنوين دفنه، وهو محظور على المدينة؟"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_AR a :TranslationVariant ;
+:text "أخي أنا، وهو أخوك أيضًا، إن لم تريدي،"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_AR a :TranslationVariant ;
+:text "فلن أُمسك وأنا أخون أخًا."^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_AR a :TranslationVariant ;
+:text "يا شقية، مع أن كريون قد نهى؟"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_AR a :TranslationVariant ;
+:text "لكن ليس له نصيب في أن يمنعني من خاصتي."^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_AR a :TranslationVariant ;
+:text "وا أسفاه؛ تذكري، يا أختي، أبانا،"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_AR a :TranslationVariant ;
+:text "كيف هلك مبغوضًا سيئ السمعة لدينا،"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_AR a :TranslationVariant ;
+:text "إذ بسبب آثامه المكتشفة بنفسها"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_AR a :TranslationVariant ;
+:text "حطم عينيه الاثنتين بيده الفاعلة نفسها؛"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_AR a :TranslationVariant ;
+:text "ثم الأم والزوجة، اسم مزدوج،"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_AR a :TranslationVariant ;
+:text "شوّهت حياتها بمشانق مضفورة؛"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_AR a :TranslationVariant ;
+:text "وثالثًا أخوانا الاثنان في يوم واحد"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_AR a :TranslationVariant ;
+:text "وهما يقتلان نفسيهما، المسكينان،"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_AR a :TranslationVariant ;
+:text "أنجزا مصيرًا مشتركًا بأيدٍ متبادلة."^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_AR a :TranslationVariant ;
+:text "والآن، نحن الاثنتين وحدنا قد تُركنا، فانظري"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_AR a :TranslationVariant ;
+:text "كم شرّ موتنا سيكون إن خالفنا بقوة القانون"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_AR a :TranslationVariant ;
+:text "قرار الطغاة أو سلطانهم."^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_AR a :TranslationVariant ;
+:text "بل ينبغي أن نفكر أولًا في هذا: أننا ولدنا امرأتين،"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_AR a :TranslationVariant ;
+:text "لسنا مخلوقتين لنحارب الرجال."^^xsd:string ;
+:relatedTo :Line_062 .

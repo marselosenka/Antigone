@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-indonesian a owl:Ontology .
+# Indonesian translation variants for 366_to_383.ttl
+
+:TV_Line_366_ID a :TranslationVariant ;
+:text "Kadang ia merayap menuju yang buruk, lain kali menuju yang baik,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_ID a :TranslationVariant ;
+:text "menghormati hukum-hukum bumi dan keadilan bersumpah para dewa,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Line 368 and 369 do not exist in Antigone
+
+:TV_Line_370_ID a :TranslationVariant ;
+:text "tinggi dalam kota; tanpa kota ia, yang padanya hal tidak baik"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_ID a :TranslationVariant ;
+:text "tinggal demi keberanian. Janganlah ia menjadi serumah denganku,"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Line 372, 373 and 374 do not exist in Antigone
+
+:TV_Line_375_ID a :TranslationVariant ;
+:text "dan jangan pula berpikiran sama denganku, siapa pun yang melakukan hal-hal ini."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_ID a :TranslationVariant ;
+:text "Aku ragu-ragu di hadapan keajaiban ilahi ini;"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_ID a :TranslationVariant ;
+:text "bagaimana aku, setelah mengetahuinya, akan menyangkal"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_ID a :TranslationVariant ;
+:text "bahwa gadis ini bukan Antigone?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_ID a :TranslationVariant ;
+:text "Wahai yang malang,"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_ID a :TranslationVariant ;
+:text "dan anak dari ayah yang malang, Oidipus,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_ID a :TranslationVariant ;
+:text "apa ini? Tentulah mereka tidak membawamu karena tidak percaya"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_ID a :TranslationVariant ;
+:text "kepada hukum-hukum kerajaan"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_ID a :TranslationVariant ;
+:text "dan karena menangkapmu dalam kebodohan?"^^xsd:string ;
+:relatedTo :Line_383 .

@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-arabic a owl:Ontology .
+# Arabic translation variants for 63_to_89.ttl
+
+:TV_Line_063_AR a :TranslationVariant ;
+:text "ثم إننا محكومتان بمن هم أقوى،"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_AR a :TranslationVariant ;
+:text "وعلينا أن نسمع هذه الأمور، وما هو أشد إيلامًا منها."^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_AR a :TranslationVariant ;
+:text "فأنا، إذ أطلب إلى الذين تحت الأرض"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_AR a :TranslationVariant ;
+:text "أن يكون لهم عذر، لأنني أُكره على هذه الأمور،"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_AR a :TranslationVariant ;
+:text "سأطيع الذين قاموا في السلطان؛ فإن"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_AR a :TranslationVariant ;
+:text "فعل ما يتجاوز الحد لا عقل فيه البتة."^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_AR a :TranslationVariant ;
+:text "لا آمرك، ولا إن أردتِ بعدُ"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_AR a :TranslationVariant ;
+:text "أن تفعلي، تفعلين ذلك معي بسرور مني."^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_AR a :TranslationVariant ;
+:text "بل اعلمي ما يبدو لك؛ أما ذاك فأنا"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_AR a :TranslationVariant ;
+:text "سأدفنه؛ وجميل لي أن أموت وأنا أفعل هذا."^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_AR a :TranslationVariant ;
+:text "سأرقد حبيبة معه، مع حبيب،"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_AR a :TranslationVariant ;
+:text "وقد ارتكبت جرمًا تقيًّا؛ إذ إن الزمن أطول"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_AR a :TranslationVariant ;
+:text "الذي ينبغي لي فيه أن أرضي الذين في الأسفل، لا الذين هنا."^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_AR a :TranslationVariant ;
+:text "فهناك سأرقد دائمًا؛ أما أنت، إن بدا لك،"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_AR a :TranslationVariant ;
+:text "فاحتفظي بإهانة ما هو مكرم عند الآلهة."^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_AR a :TranslationVariant ;
+:text "أنا لا أجعل ذلك مهانًا، لكنني"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_AR a :TranslationVariant ;
+:text "وُلدت عاجزة عن الفعل بالقوة ضد المواطنين."^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_AR a :TranslationVariant ;
+:text "أنتِ ستتخذين هذه حجة؛ أما أنا فسأمضي"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_AR a :TranslationVariant ;
+:text "لأهيل تراب القبر على أخي الأعز."^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_AR a :TranslationVariant ;
+:text "وا أسفاه، يا مسكينة، كم أخاف عليك كثيرًا."^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_AR a :TranslationVariant ;
+:text "لا تخافي عليّ مسبقًا؛ أصلحي مصيرك أنت."^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_AR a :TranslationVariant ;
+:text "لكن لا تخبري أحدًا بهذا"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_AR a :TranslationVariant ;
+:text "العمل، بل أخفيه في السر؛ وأنا أيضًا كذلك."^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_AR a :TranslationVariant ;
+:text "وا أسفاه، أعلنيه؛ ستكونين أبغض بكثير"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_AR a :TranslationVariant ;
+:text "إن صمتِّ، إن لم تنادي بهذه الأمور للجميع."^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_AR a :TranslationVariant ;
+:text "لك قلب حار على أمور باردة."^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_AR a :TranslationVariant ;
+:text "لكنني أعلم أنني أرضي من ينبغي لي أكثر أن أُرضيهم."^^xsd:string ;
+:relatedTo :Line_089 .

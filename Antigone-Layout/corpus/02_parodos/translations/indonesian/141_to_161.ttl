@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-indonesian a owl:Ontology .
+# Indonesian translation variants for 141_to_161.ttl
+
+:TV_Line_141_ID a :TranslationVariant ;
+:text "Sebab tujuh panglima pada tujuh gerbang,"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_ID a :TranslationVariant ;
+:text "ditempatkan setara melawan yang setara, meninggalkan"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_ID a :TranslationVariant ;
+:text "persembahan serba perunggu bagi Zeus pembawa kemenangan,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_ID a :TranslationVariant ;
+:text "kecuali kedua orang menjijikkan itu, yang dari satu ayah"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_ID a :TranslationVariant ;
+:text "dan satu ibu lahir, lalu terhadap diri mereka sendiri"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_ID a :TranslationVariant ;
+:text "menegakkan tombak-tombak berkuasa ganda"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_ID a :TranslationVariant ;
+:text "dan keduanya mendapat bagian dari kematian bersama."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_ID a :TranslationVariant ;
+:text "Namun kini Nike yang bernama agung telah datang,"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_ID a :TranslationVariant ;
+:text "ikut bersukacita dengan Thebes yang banyak keretanya,"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_ID a :TranslationVariant ;
+:text "maka dari peperangan-peperangan"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_ID a :TranslationVariant ;
+:text "yang sekarang ini marilah kita menaruh kelupaan,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_ID a :TranslationVariant ;
+:text "dan ke kuil-kuil para dewa"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_ID a :TranslationVariant ;
+:text "marilah kita semua pergi dengan tarian sepanjang malam,"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_ID a :TranslationVariant ;
+:text "dan Bakkhios yang mengguncang Thebes"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_ID a :TranslationVariant ;
+:text "hendaklah memimpin."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_ID a :TranslationVariant ;
+:text "Namun, sebab inilah raja negeri ini,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_ID a :TranslationVariant ;
+:text "Kreon putra Menoikeus, yang baru tampil,"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_ID a :TranslationVariant ;
+:text "karena peristiwa-peristiwa baru dari para dewa,"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_ID a :TranslationVariant ;
+:text "ia maju, mengayuh siasat apakah gerangan,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_ID a :TranslationVariant ;
+:text "sehingga sidang para tetua ini"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_ID a :TranslationVariant ;
+:text "ia tetapkan, setelah mengirim pengumuman umum?"^^xsd:string ;
+:relatedTo :Line_161 .

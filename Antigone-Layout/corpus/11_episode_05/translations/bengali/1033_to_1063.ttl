@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-bengali a owl:Ontology .
+# Bengali translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_BN a :TranslationVariant ;
+:text "ক্রেয়োন: হে বৃদ্ধ, তোমরা সবাই তীরন্দাজের মতো লক্ষ্যস্থলের দিকে"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_BN a :TranslationVariant ;
+:text "এই মানুষটিকে তীর ছুড়ছ; ভবিষ্যদ্বাণীতেও"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_BN a :TranslationVariant ;
+:text "আমি তোমাদের কাছে নিস্তার পাইনি; তোমাদের জাতির হাতে"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_BN a :TranslationVariant ;
+:text "অনেক আগেই আমি বিক্রি হয়েছি, বোঝা হয়ে বহিত হয়েছি।"^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_BN a :TranslationVariant ;
+:text "লাভ করো, বাণিজ্য করো সার্দিসের"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_BN a :TranslationVariant ;
+:text "ইলেকট্রাম নিয়ে, যদি চাও, আর ভারতীয় সোনা নিয়েও;"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_BN a :TranslationVariant ;
+:text "কিন্তু তাকে সমাধিতে তোমরা লুকাতে পারবে না,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_BN a :TranslationVariant ;
+:text "জিউসের ঈগলরাও যদি খাদ্য হিসেবে"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_BN a :TranslationVariant ;
+:text "তাকে ছিনিয়ে জিউসের সিংহাসনে নিয়ে যেতে চায়,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_BN a :TranslationVariant ;
+:text "তবু এই কলুষতাকে ভয় না করেই আমি"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_BN a :TranslationVariant ;
+:text "তাকে কবর দিতে দেব না; কারণ আমি ভালোই জানি যে"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_BN a :TranslationVariant ;
+:text "দেবতাদের কলুষিত করার শক্তি কোনো মানুষের নেই।"^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_BN a :TranslationVariant ;
+:text "পতিত হয়, হে বৃদ্ধ তেইরেসিয়াস, মর্ত্যদের মধ্যে"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_BN a :TranslationVariant ;
+:text "অনেক ভয়ংকর বুদ্ধিমান লোকও লজ্জাজনক পতনে পড়ে, যখন তারা"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_BN a :TranslationVariant ;
+:text "লাভের জন্য লজ্জাজনক কথা সুন্দরভাবে বলে।"^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: হায়; মানুষের মধ্যে কেউ কি জানে, কেউ কি বোঝে,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_BN a :TranslationVariant ;
+:text "ক্রেয়োন: কী কথা? কোন সর্বজনীন কথা তুমি বলছ?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: সম্পদের মধ্যে সুবিবেচনা কত শ্রেষ্ঠ?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_BN a :TranslationVariant ;
+:text "ক্রেয়োন: যতটা, মনে করি, অবিবেচনা সবচেয়ে বড় ক্ষতি।"^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: কিন্তু তুমি তো সেই রোগে পূর্ণ হয়ে জন্মেছ।"^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_BN a :TranslationVariant ;
+:text "ক্রেয়োন: আমি দ্রষ্টাকে কটু কথায় জবাব দিতে চাই না।"^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: অথচ দিচ্ছ, যখন বলছ আমি মিথ্যা ভবিষ্যদ্বাণী করি।"^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_BN a :TranslationVariant ;
+:text "ক্রেয়োন: কারণ দ্রষ্টাদের সমস্ত জাতিই অর্থপ্রেমী।"^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: আর শাসকদের জাতি লজ্জাজনক লাভ ভালোবাসে।"^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_BN a :TranslationVariant ;
+:text "ক্রেয়োন: তুমি কি জানো, শাসকদের উদ্দেশেই তুমি এসব বলছ?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: জানি; কারণ আমার দ্বারাই তুমি এই নগর রক্ষা করে পেয়েছ।"^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_BN a :TranslationVariant ;
+:text "ক্রেয়োন: তুমি জ্ঞানী দ্রষ্টা, কিন্তু অন্যায় ভালোবাসো।"^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: তুমি আমাকে মনের অচল কথা বলাতে বাধ্য করবে।"^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_BN a :TranslationVariant ;
+:text "ক্রেয়োন: বলো, শুধু লাভের জন্য বলো না।"^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: তোমার দিক থেকে তো আমি ইতিমধ্যেই এমনই মনে হচ্ছি।"^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_BN a :TranslationVariant ;
+:text "ক্রেয়োন: জেনে রাখো, তুমি আমার মন কিনতে পারবে না।"^^xsd:string ;
+:relatedTo :Line_1063 .

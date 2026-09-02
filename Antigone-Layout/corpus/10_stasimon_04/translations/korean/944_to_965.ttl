@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-korean a owl:Ontology .
+# Korean translation variants for 944_to_965.ttl
+
+:TV_Line_944_KO a :TranslationVariant ;
+:text "다나에도 하늘의 빛을"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_KO a :TranslationVariant ;
+:text "청동으로 묶인 방들 안의 몸과 바꾸는 일을 견뎠다."^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_KO a :TranslationVariant ;
+:text "무덤 같은 방 안에 숨겨진 채 그녀는 매여 있었다."^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_KO a :TranslationVariant ;
+:text "그럼에도 그녀는 혈통으로 존귀했다, 아이야, 아이야,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Lines 948 and 949 do not exist in Antigone
+
+:TV_Line_950_KO a :TranslationVariant ;
+:text "그리고 제우스의 황금으로 흐르는 씨앗을 맡아 지키고 있었다."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_KO a :TranslationVariant ;
+:text "그러나 어떤 운명의 힘은 두렵다."^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_KO a :TranslationVariant ;
+:text "부도, 아레스도, 탑도, 바다에 부딪히는"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_KO a :TranslationVariant ;
+:text "검은 배들도 그것을 피할 수 없을 것이다."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in Antigone
+
+:TV_Line_955_KO a :TranslationVariant ;
+:text "또한 날카로운 분노의 드뤼아스의 아들이 묶였다,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_KO a :TranslationVariant ;
+:text "에도니아인들의 왕이, 조롱하는 분노 때문에,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_KO a :TranslationVariant ;
+:text "디오뉘소스에 의해 바위 감옥의 결박 속에 갇혀."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_KO a :TranslationVariant ;
+:text "이렇게 광기의 두려운 것이 흘러내리고,"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in Antigone
+
+:TV_Line_960_KO a :TranslationVariant ;
+:text "꽃다운 힘도 흘러내렸다. 그는 광기 속에서 알았다,"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_KO a :TranslationVariant ;
+:text "조롱하는 혀들로 신을 건드리고 있었다는 것을."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_KO a :TranslationVariant ;
+:text "그가 신들린 여자들과 에우이오스의 불을 멈추게 했기 때문이다."^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Lines 963 and 964 do not exist in Antigone
+
+:TV_Line_965_KO a :TranslationVariant ;
+:text "또 피리를 사랑하는 무사들을 자극하고 있었다."^^xsd:string ;
+:relatedTo :Line_965 .

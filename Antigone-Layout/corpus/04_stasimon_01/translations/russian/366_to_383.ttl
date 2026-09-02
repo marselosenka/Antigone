@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-russian a owl:Ontology .
+# Russian translation variants for 366_to_383.ttl
+
+:TV_Line_366_RU a :TranslationVariant ;
+:text "Иногда к злу, иной раз к добру он ползет,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_RU a :TranslationVariant ;
+:text "почитая законы земли и клятвенную справедливость богов,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Line 368 and 369 do not exist in Antigone
+
+:TV_Line_370_RU a :TranslationVariant ;
+:text "высок в городе; без города тот, у кого недоброе"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_RU a :TranslationVariant ;
+:text "живет ради дерзости. Да не будет он у моего очага,"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Line 372, 373 and 374 do not exist in Antigone
+
+:TV_Line_375_RU a :TranslationVariant ;
+:text "и да не мыслит равно со мной тот, кто делает это."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_RU a :TranslationVariant ;
+:text "О божественном чуде я сомневаюсь"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_RU a :TranslationVariant ;
+:text "в этом; как, зная, я стану противоречить,"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_RU a :TranslationVariant ;
+:text "что эта девушка не Антигона?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_RU a :TranslationVariant ;
+:text "О несчастная"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_RU a :TranslationVariant ;
+:text "и дочь несчастного отца Эдипа,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_RU a :TranslationVariant ;
+:text "что это? Ведь неужели тебя, не повинующуюся"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_RU a :TranslationVariant ;
+:text "царским законам, ведут"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_RU a :TranslationVariant ;
+:text "и, поймав в безрассудстве, уводят?"^^xsd:string ;
+:relatedTo :Line_383 .

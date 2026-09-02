@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-russian a owl:Ontology .
+# Russian translation variants for 944_to_965.ttl
+
+:TV_Line_944_RU a :TranslationVariant ;
+:text "И Даная вынесла замену небесного света"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_RU a :TranslationVariant ;
+:text "телом в медносвязанных покоях;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_RU a :TranslationVariant ;
+:text "сокрытая в гробоподобной спальне, она была скована;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_RU a :TranslationVariant ;
+:text "хотя и была почтенна родом, о дитя, дитя,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Line 948 and 949 do not exist in Antigone
+
+:TV_Line_950_RU a :TranslationVariant ;
+:text "и хранила золототекущие семена Зевса."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_RU a :TranslationVariant ;
+:text "Но некая сила судьбы страшна;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_RU a :TranslationVariant ;
+:text "ни богатство, ни Арес, ни башня, ни бьемые морем"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_RU a :TranslationVariant ;
+:text "черные корабли не могли бы от нее убежать."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in Antigone
+
+:TV_Line_955_RU a :TranslationVariant ;
+:text "И был скован вспыльчивый сын Дрианта,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_RU a :TranslationVariant ;
+:text "царь эдонов, за насмешливые гневы"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_RU a :TranslationVariant ;
+:text "Дионисом, запертый в каменной темнице."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_RU a :TranslationVariant ;
+:text "Так страшная сила его безумия истекает"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in Antigone
+
+:TV_Line_960_RU a :TranslationVariant ;
+:text "и цветущая мощь. Он узнал в безумиях,"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_RU a :TranslationVariant ;
+:text "что касался бога насмешливыми языками."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_RU a :TranslationVariant ;
+:text "Ведь он прекращал боговдохновенных женщин и эвойский огонь,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Line 963 and 964 do not exist in Antigone
+
+:TV_Line_965_RU a :TranslationVariant ;
+:text "и раздражал любящих флейты Муз."^^xsd:string ;
+:relatedTo :Line_965 .

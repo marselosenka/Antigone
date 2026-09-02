@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-hindi a owl:Ontology .
+# Hindi translation variants for 806_to_822.ttl
+
+:TV_Line_806_HI a :TranslationVariant ;
+:text "मुझे देखो, हे पितृभूमि के नागरिको, अंतिम मार्ग पर"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_HI a :TranslationVariant ;
+:text "चलती हुई, और सूर्य की अंतिम ज्योति को देखती हुई,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Line 808 and 809 do not exist in Antigone
+
+:TV_Line_810_HI a :TranslationVariant ;
+:text "और फिर कभी नहीं; बल्कि सबको सुलाने वाला हेडीस मुझे जीवित ही ले जा रहा है"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_HI a :TranslationVariant ;
+:text "अकेरोन के"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_HI a :TranslationVariant ;
+:text "किनारे की ओर, विवाह-गीतों में बिना भाग पाए, और विवाह-विधियों में भी नहीं,"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Line 813 and 814 do not exist in Antigone
+
+:TV_Line_815_HI a :TranslationVariant ;
+:text "कभी किसी गीत ने मेरे विवाह का गान नहीं किया, बल्कि मैं अकेरोन से विवाह करूँगी।"^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in Antigone
+
+:TV_Line_817_HI a :TranslationVariant ;
+:text "तो निश्चय ही यशस्विनी और प्रशंसा पाती हुई"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_HI a :TranslationVariant ;
+:text "तुम मृतकों की इस गहराई में जा रही हो,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_HI a :TranslationVariant ;
+:text "न शरीर गलाने वाले रोगों से आहत,"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_HI a :TranslationVariant ;
+:text "न तलवारों के प्रहार का भाग पाकर,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_HI a :TranslationVariant ;
+:text "बल्कि अपने नियम से, जीवित, सचमुच अकेली,"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_HI a :TranslationVariant ;
+:text "मनुष्यों में अकेली, हेडीस में उतरोगी।"^^xsd:string ;
+:relatedTo :Line_822 .

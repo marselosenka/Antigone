@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-italian a owl:Ontology .
+# Italian translation variants for 302_to_323.ttl
+
+:TV_Line_302_IT a :TranslationVariant ;
+:text "Quanti dunque, prendendo paga, compirono queste cose,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_IT a :TranslationVariant ;
+:text "col tempo ottennero alla fine di pagare giustizia."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_IT a :TranslationVariant ;
+:text "Ma se davvero Zeus ancora riceve da me venerazione,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_IT a :TranslationVariant ;
+:text "sappi bene questo, e te lo dico sotto giuramento:"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_IT a :TranslationVariant ;
+:text "se non, trovato l'autore di mano propria di questa sepoltura,"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_IT a :TranslationVariant ;
+:text "lo mostrerete manifesto ai miei occhi,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_IT a :TranslationVariant ;
+:text "non vi basterà il solo Hades, prima che"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_IT a :TranslationVariant ;
+:text "vivi appesi rendiate chiara questa violenza,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_IT a :TranslationVariant ;
+:text "affinché, sapendo da dove bisogna portare il guadagno,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_IT a :TranslationVariant ;
+:text "per il futuro possiate arraffare, e impariate che"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_IT a :TranslationVariant ;
+:text "non da ogni cosa bisogna amare il guadagnare."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_IT a :TranslationVariant ;
+:text "Infatti dai guadagni vergognosi potresti vedere i più"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_IT a :TranslationVariant ;
+:text "rovinati piuttosto che salvati."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_IT a :TranslationVariant ;
+:text "Mi concederai di parlare, o così voltato me ne vado?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_IT a :TranslationVariant ;
+:text "Non sai anche ora quanto parli in modo molesto?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_IT a :TranslationVariant ;
+:text "Ti mordo nelle orecchie o sull'anima?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_IT a :TranslationVariant ;
+:text "Perché misuri dove sta il mio dolore?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_IT a :TranslationVariant ;
+:text "Chi ha agito ti addolora la mente, io invece le orecchie."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_IT a :TranslationVariant ;
+:text "Ahimè, com'è chiaro che sei nato chiacchierone."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_IT a :TranslationVariant ;
+:text "Eppure non ho mai fatto quest'opera."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_IT a :TranslationVariant ;
+:text "E questo, vendendo per argento la tua anima."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_IT a :TranslationVariant ;
+:text "Pheu; è terribile, per chi giudica, giudicare anche il falso."^^xsd:string ;
+:relatedTo :Line_323 .

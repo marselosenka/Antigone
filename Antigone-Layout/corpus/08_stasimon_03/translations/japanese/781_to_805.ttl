@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-japanese a owl:Ontology .
+# Japanese translation variants for 781_to_805.ttl
+
+:TV_Line_781_JA a :TranslationVariant ;
+:text "エロスよ、戦いに征服されぬ者、エロスよ、所有物の中へ落ちかかる者よ、"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_JA a :TranslationVariant ;
+:text "若い娘の柔らかな頬の上で夜を過ごす者よ、"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Lines 783 and 784 do not exist in Antigone
+
+:TV_Line_785_JA a :TranslationVariant ;
+:text "海を越えて行き、野を治める屋敷の中にも通う者よ。"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_JA a :TranslationVariant ;
+:text "あなたからは、不死なる者たちの誰も逃れられず、"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Lines 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_JA a :TranslationVariant ;
+:text "一日だけを生きる人間の誰も逃れられない。あなたを持つ者は狂う。"^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_JA a :TranslationVariant ;
+:text "あなたは正しい者たちの心さえ、不正な心へ、辱めへと引きずり外す。"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_JA a :TranslationVariant ;
+:text "あなたはまた、この同血の男たちの争いをかき乱して持っている。"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Lines 793 and 794 do not exist in Antigone
+
+:TV_Line_795_JA a :TranslationVariant ;
+:text "そして、よく床を飾られた花嫁のまぶたの明らかな欲望が勝つ。"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_JA a :TranslationVariant ;
+:text "大いなる掟の支配の中で、傍らに座る者として。"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Lines 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_JA a :TranslationVariant ;
+:text "というのも、戦い得ぬ神アフロディテが戯れるからだ。"^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_JA a :TranslationVariant ;
+:text "だが今、私自身もすでに掟の"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_JA a :TranslationVariant ;
+:text "外へ運ばれている、これを見て。もはや"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_JA a :TranslationVariant ;
+:text "涙の泉を抑えることができない、"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_JA a :TranslationVariant ;
+:text "すべての者が共に眠る部屋へと向かうのを見た時、"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_JA a :TranslationVariant ;
+:text "このアンティゴネが成し遂げて行くのを。"^^xsd:string ;
+:relatedTo :Line_805 .

@@ -1,0 +1,47 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-spanish a owl:Ontology .
+# Spanish translation variants for 90_to_99.ttl
+
+:TV_Line_090_ES a :TranslationVariant ;
+    :text "Si es que puedes; pero amas lo imposible."^^xsd:string ;
+    :relatedTo :Line_090 .
+
+:TV_Line_091_ES a :TranslationVariant ;
+    :text "Entonces, cuando ya no tenga fuerza, me detendré."^^xsd:string ;
+    :relatedTo :Line_091 .
+
+:TV_Line_092_ES a :TranslationVariant ;
+    :text "Pero no conviene empezar persiguiendo lo imposible."^^xsd:string ;
+    :relatedTo :Line_092 .
+
+:TV_Line_093_ES a :TranslationVariant ;
+    :text "Si dices eso, serás odiada por mí,"^^xsd:string ;
+    :relatedTo :Line_093 .
+
+:TV_Line_094_ES a :TranslationVariant ;
+    :text "y con justicia quedarás odiosa para el muerto."^^xsd:string ;
+    :relatedTo :Line_094 .
+
+:TV_Line_095_ES a :TranslationVariant ;
+    :text "Pero déjame a mí y a mi propia mala decisión"^^xsd:string ;
+    :relatedTo :Line_095 .
+
+:TV_Line_096_ES a :TranslationVariant ;
+    :text "sufrir este peligro terrible; pues no padeceré nada"^^xsd:string ;
+    :relatedTo :Line_096 .
+
+:TV_Line_097_ES a :TranslationVariant ;
+    :text "tan terrible que me impida morir noblemente."^^xsd:string ;
+    :relatedTo :Line_097 .
+
+:TV_Line_098_ES a :TranslationVariant ;
+    :text "Pues bien, si te parece, ve; pero sabe esto:"^^xsd:string ;
+    :relatedTo :Line_098 .
+
+:TV_Line_099_ES a :TranslationVariant ;
+    :text "vas sin juicio, aunque con razón eres querida por los tuyos."^^xsd:string ;
+    :relatedTo :Line_099 .

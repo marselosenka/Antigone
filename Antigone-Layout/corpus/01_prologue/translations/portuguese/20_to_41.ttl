@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-portuguese a owl:Ontology .
+# Portuguese translation variants for 20_to_41.ttl
+
+:TV_Line_020_PT a :TranslationVariant ;
+:text "Que há? Pois mostras alguma palavra sombria."^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_PT a :TranslationVariant ;
+:text "Acaso Creonte não concedeu a nós duas, dos dois irmãos,"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_PT a :TranslationVariant ;
+:text "honra de sepultura a um, e ao outro desonra?"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_PT a :TranslationVariant ;
+:text "Etéocles, segundo dizem, usando justiça"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_PT a :TranslationVariant ;
+:text "justa e lei, debaixo da terra"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_PT a :TranslationVariant ;
+:text "escondeu, honrado entre os mortos de baixo;"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_PT a :TranslationVariant ;
+:text "mas quanto ao cadáver de Polinices, morto miseravelmente,"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_PT a :TranslationVariant ;
+:text "dizem que foi proclamado aos cidadãos que ninguém"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_PT a :TranslationVariant ;
+:text "o cubra com sepultura, nem o lamente,"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_PT a :TranslationVariant ;
+:text "mas o deixe sem pranto, sem túmulo, doce tesouro"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_PT a :TranslationVariant ;
+:text "para as aves que o avistam, por prazer de alimento."^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_PT a :TranslationVariant ;
+:text "Tais coisas dizem que o bom Creonte a ti"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_PT a :TranslationVariant ;
+:text "e a mim — pois digo também a mim — proclamou,"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_PT a :TranslationVariant ;
+:text "e que vem aqui para anunciar claramente"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_PT a :TranslationVariant ;
+:text "estas coisas aos que não as sabem, e não toma o assunto"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_PT a :TranslationVariant ;
+:text "como coisa nenhuma, mas para quem fizer algo disso"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_PT a :TranslationVariant ;
+:text "está proposta morte por apedrejamento público na cidade."^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_PT a :TranslationVariant ;
+:text "Assim estão estas coisas para ti, e logo mostrarás"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_PT a :TranslationVariant ;
+:text "se nasceste nobre, ou vil de pais nobres."^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_PT a :TranslationVariant ;
+:text "E que, ó infeliz, se estas coisas estão assim,"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_PT a :TranslationVariant ;
+:text "eu, desfazendo ou atando, acrescentaria de mais?"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_PT a :TranslationVariant ;
+:text "Vê se sofrerás comigo e agirás comigo."^^xsd:string ;
+:relatedTo :Line_041 .

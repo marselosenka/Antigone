@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-italian a owl:Ontology .
+# Italian translation variants for 872_to_928.ttl
+
+:TV_Line_872_IT a :TranslationVariant ;
+:text "Onorare è certo una forma di pietà,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_IT a :TranslationVariant ;
+:text "ma il potere, per chi ha cura del potere,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_IT a :TranslationVariant ;
+:text "non è in alcun modo trasgredibile;"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_IT a :TranslationVariant ;
+:text "e ti ha distrutta un’indole ostinata."^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_IT a :TranslationVariant ;
+:text "Non pianta, senza amici, senza imeneo, misera, sono condotta"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_IT a :TranslationVariant ;
+:text "per l’ultima via. Non più per me questo"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_IT a :TranslationVariant ;
+:text "sacro occhio della fiaccola"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in canonical.
+
+:TV_Line_880_IT a :TranslationVariant ;
+:text "è lecito vedere, a me sventurata;"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_IT a :TranslationVariant ;
+:text "e il mio destino senza lacrime"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_IT a :TranslationVariant ;
+:text "nessuno degli amici lo geme."^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_IT a :TranslationVariant ;
+:text "Sapete forse che canti e lamenti prima di morire"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_IT a :TranslationVariant ;
+:text "nessuno li cesserebbe mai, se giovasse dirli?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_IT a :TranslationVariant ;
+:text "Non la porterete il più presto possibile e, in una tomba"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_IT a :TranslationVariant ;
+:text "coperta, dopo averla chiusa, come io ho detto,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_IT a :TranslationVariant ;
+:text "la lascerete sola, deserta, sia che debba morire,"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_IT a :TranslationVariant ;
+:text "sia che viva sepolta in tale dimora?"^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_IT a :TranslationVariant ;
+:text "Noi infatti siamo puri quanto a questa fanciulla;"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_IT a :TranslationVariant ;
+:text "ma certo sarà privata della dimora di sopra."^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_IT a :TranslationVariant ;
+:text "O tomba, o camera nuziale, o scavata"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_IT a :TranslationVariant ;
+:text "abitazione, sempre custode, dove procedo"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_IT a :TranslationVariant ;
+:text "verso i miei, dei quali il numero fra i morti"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_IT a :TranslationVariant ;
+:text "Persefone ha accolto, grandissimo, dei periti;"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_IT a :TranslationVariant ;
+:text "di loro io, ultima e di gran lunga nel modo peggiore,"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_IT a :TranslationVariant ;
+:text "scendo, prima che mi sia giunta la parte della vita."^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_IT a :TranslationVariant ;
+:text "Eppure, arrivando, nutro grandi speranze"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_IT a :TranslationVariant ;
+:text "di giungere cara a mio padre, carissima a te,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_IT a :TranslationVariant ;
+:text "madre, e cara a te, capo fraterno;"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_IT a :TranslationVariant ;
+:text "poiché, morti voi, con le mie mani io"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_IT a :TranslationVariant ;
+:text "vi lavai, vi adornai e sulle tombe"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_IT a :TranslationVariant ;
+:text "diedi libagioni; ora invece, Polinice, il tuo"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_IT a :TranslationVariant ;
+:text "corpo ricoprendo, tali cose ottengo."^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_IT a :TranslationVariant ;
+:text "Eppure io ti onorai agli occhi di chi pensa rettamente."^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_IT a :TranslationVariant ;
+:text "Infatti mai, né se fossi stata madre di figli,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_IT a :TranslationVariant ;
+:text "né se un marito, morto, mi si fosse consumato,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_IT a :TranslationVariant ;
+:text "contro la forza dei cittadini avrei scelto questa pena."^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_IT a :TranslationVariant ;
+:text "In grazia di quale legge dunque dico queste cose?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_IT a :TranslationVariant ;
+:text "Un marito, se fosse morto, per me ce ne sarebbe stato un altro,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_IT a :TranslationVariant ;
+:text "e un figlio da un altro uomo, se avessi perduto questo;"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_IT a :TranslationVariant ;
+:text "ma, con madre e padre nascosti nell’Ade,"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_IT a :TranslationVariant ;
+:text "non c’è fratello che possa mai germogliare."^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_IT a :TranslationVariant ;
+:text "Per tale legge, dunque, avendoti anteposto nell’onore,"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_IT a :TranslationVariant ;
+:text "a Creonte queste cose parvero errore"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_IT a :TranslationVariant ;
+:text "e terribile audacia, o capo fraterno."^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_IT a :TranslationVariant ;
+:text "E ora mi conduce, avendomi presa così per le mani,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_IT a :TranslationVariant ;
+:text "senza letto nuziale, senza imeneo, senza aver ottenuto parte"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_IT a :TranslationVariant ;
+:text "di nozze né di nutrimento di figli,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_IT a :TranslationVariant ;
+:text "ma così deserta dagli amici, io sventurata,"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_IT a :TranslationVariant ;
+:text "viva, vado verso le tombe scavate dei morti;"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_IT a :TranslationVariant ;
+:text "quale giustizia degli dèi ho trasgredito?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_IT a :TranslationVariant ;
+:text "Perché devo ancora, io infelice, guardare agli dèi?"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_IT a :TranslationVariant ;
+:text "Quale degli alleati invocare? Poiché davvero,"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_IT a :TranslationVariant ;
+:text "essendo pia, mi sono acquistata empietà."^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_IT a :TranslationVariant ;
+:text "Ma se dunque queste cose sono belle presso gli dèi,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_IT a :TranslationVariant ;
+:text "avendo patito, riconosceremmo di aver errato;"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_IT a :TranslationVariant ;
+:text "ma se costoro errano, non patiscano mali maggiori"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_IT a :TranslationVariant ;
+:text "di quelli che infliggono ingiustamente a me."^^xsd:string ;
+:relatedTo :Line_928 .

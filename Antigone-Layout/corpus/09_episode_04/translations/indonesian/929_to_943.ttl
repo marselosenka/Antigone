@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-indonesian a owl:Ontology .
+# Indonesian translation variants for 929_to_943.ttl
+
+:TV_Line_929_ID a :TranslationVariant ;
+:text "Masih dari angin-angin yang sama, embusan yang sama"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_ID a :TranslationVariant ;
+:text "atas jiwa memegang dia ini."^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_ID a :TranslationVariant ;
+:text "Maka bagi orang-orang yang membawanya ini"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_ID a :TranslationVariant ;
+:text "akan ada tangisan karena kelambatan."^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_ID a :TranslationVariant ;
+:text "Aduhai, kata ini telah sampai"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_ID a :TranslationVariant ;
+:text "paling dekat pada kematian."^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_ID a :TranslationVariant ;
+:text "Aku tidak menasihatimu untuk berani berharap"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_ID a :TranslationVariant ;
+:text "bahwa hal-hal ini tidak akan dipastikan demikian."^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_ID a :TranslationVariant ;
+:text "Wahai kota ayahku, kota tanah Thebes,"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_ID a :TranslationVariant ;
+:text "dan dewa-dewa leluhur,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_ID a :TranslationVariant ;
+:text "aku dibawa sekarang dan tidak menunda lagi."^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_ID a :TranslationVariant ;
+:text "Pandanglah, para penguasa Thebes,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_ID a :TranslationVariant ;
+:text "satu-satunya yang tersisa dari putri-putri raja,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_ID a :TranslationVariant ;
+:text "hal-hal macam apa yang kuderita, dan dari lelaki macam apa,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_ID a :TranslationVariant ;
+:text "karena aku menghormati kesalehan."^^xsd:string ;
+:relatedTo :Line_943 .

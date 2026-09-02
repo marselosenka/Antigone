@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-hindi a owl:Ontology .
+# Hindi translation variants for 966_to_987.ttl
+
+:TV_Line_966_HI a :TranslationVariant ;
+:text "और गहरे नीले चट्टानों के पास, दोहरे समुद्र के किनारे,"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_HI a :TranslationVariant ;
+:text "बोसपोरस के तट और थ्राकियों का किनारा है,"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Line 968 and 969 do not exist in Antigone
+
+:TV_Line_970_HI a :TranslationVariant ;
+:text "साल्मीदेस्सोस, जहाँ समीपवर्ती एरेस ने"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_HI a :TranslationVariant ;
+:text "फिनियस के दोनों पुत्रों के लिए"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_HI a :TranslationVariant ;
+:text "शापित घाव देखा,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_HI a :TranslationVariant ;
+:text "जंगली पत्नी से अंधा किया गया,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_HI a :TranslationVariant ;
+:text "आँखों की अंधी और प्रतिशोधी गोलाइयों में,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_HI a :TranslationVariant ;
+:text "रक्तरंजित हाथों से"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_HI a :TranslationVariant ;
+:text "और करघे की नोकों से कुचले गए।"^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_HI a :TranslationVariant ;
+:text "और गलते हुए वे दयनीय, दयनीय पीड़ा को"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Line 978 and 979 do not exist in Antigone
+
+:TV_Line_980_HI a :TranslationVariant ;
+:text "रोते थे, क्योंकि उनकी उत्पत्ति अनविवाहित माँ से थी;"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_HI a :TranslationVariant ;
+:text "और वह प्राचीन-जन्मे"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_HI a :TranslationVariant ;
+:text "एरेख्थेइदों के वंश से मिली थी,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_HI a :TranslationVariant ;
+:text "और दूरस्थ गुफाओं में"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_HI a :TranslationVariant ;
+:text "पितृक तूफानों के बीच पाली गई,"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_HI a :TranslationVariant ;
+:text "बोरियास की पुत्री, खड़ी चट्टान पर घोड़ों-सी तेज,"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_HI a :TranslationVariant ;
+:text "देवताओं की संतान; पर उस पर भी"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_HI a :TranslationVariant ;
+:text "दीर्घायु मोइराओं ने पकड़ बना ली, हे बालिका।"^^xsd:string ;
+:relatedTo :Line_987 .

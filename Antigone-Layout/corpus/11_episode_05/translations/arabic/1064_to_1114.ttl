@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-arabic a owl:Ontology .
+# Arabic translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_AR a :TranslationVariant ;
+:text "لكن اعلم جيدًا أنك، قبل أن تتمّ"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_AR a :TranslationVariant ;
+:text "دوائر كثيرة بعد من سباق الشمس،"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_AR a :TranslationVariant ;
+:text "ستكون أنت نفسك قد أعطيت من أحشائك"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_AR a :TranslationVariant ;
+:text "ميتًا واحدًا بدلًا من موتى،"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_AR a :TranslationVariant ;
+:text "لأنك طرحت واحدًا من أهل العلو إلى أسفل،"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_AR a :TranslationVariant ;
+:text "وأسكنت نفسًا في قبر بلا كرامة،"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_AR a :TranslationVariant ;
+:text "ولأنك تمسك هنا، في المقابل، من آلهة الأسفل"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_AR a :TranslationVariant ;
+:text "ميتًا بلا نصيب، بلا شعائر جنازة، غير مقدس."^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_AR a :TranslationVariant ;
+:text "وهذه الأمور لا حق لك فيها ولا للآلهة"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_AR a :TranslationVariant ;
+:text "الذين في العلو، بل تُغتصب هذه الأمور منك."^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_AR a :TranslationVariant ;
+:text "لأجل هذه، يرصدك المخرّبون المتأخرون في العقاب،"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_AR a :TranslationVariant ;
+:text "إيرينيات هاديس والآلهة،"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_AR a :TranslationVariant ;
+:text "لكي تؤخذ في هذه الشرور نفسها."^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_AR a :TranslationVariant ;
+:text "وتأمل هذه الأمور، هل أقولها مأخوذًا بالفضة؛"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_AR a :TranslationVariant ;
+:text "فإنه سيظهر، من غير مرور زمن طويل،"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_AR a :TranslationVariant ;
+:text "نواح رجال ونساء في بيوتك."^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_AR a :TranslationVariant ;
+:text "وكل المدن تضطرب بالعداوة،"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_AR a :TranslationVariant ;
+:text "تلك التي طهرت الكلاب أشلاء أهلها"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_AR a :TranslationVariant ;
+:text "أو الوحوش، أو طائر مجنح ما، حاملًا"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_AR a :TranslationVariant ;
+:text "رائحة غير مقدسة إلى مدينة ذات مواقد."^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_AR a :TranslationVariant ;
+:text "مثل هذه سهامي نحوك، لأنك تؤلمني، وكأنني رامٍ،"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_AR a :TranslationVariant ;
+:text "أطلقتُ من غضبي سهام القلب،"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_AR a :TranslationVariant ;
+:text "ثابتةً، لن تفلت أنت من حرارتها."^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_AR a :TranslationVariant ;
+:text "يا فتى، قُدنا إلى البيوت، لكي"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_AR a :TranslationVariant ;
+:text "يصرف هذا الرجل غضبه إلى من هم أصغر سنًا،"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_AR a :TranslationVariant ;
+:text "ويتعلم أن يربي لسانًا أهدأ"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_AR a :TranslationVariant ;
+:text "وعقلًا أفضل في صدره مما يحمل الآن."^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_AR a :TranslationVariant ;
+:text "أيها الملك، لقد ذهب الرجل وقد أنبأ بأمور رهيبة؛"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_AR a :TranslationVariant ;
+:text "ونحن نعلم، منذ حين صرت أنا ألبس"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_AR a :TranslationVariant ;
+:text "هذا الشعر الأبيض بدلًا من الأسود،"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_AR a :TranslationVariant ;
+:text "أنه لم يصرخ قط بكذب إلى المدينة."^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_AR a :TranslationVariant ;
+:text "لقد عرفتُ أنا أيضًا، وأضطرب في فكري."^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_AR a :TranslationVariant ;
+:text "فالخضوع أمر رهيب، وأما المقاومة"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_AR a :TranslationVariant ;
+:text "وضرب النفس بالهلاك، فذلك في موضع رهيب."^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_AR a :TranslationVariant ;
+:text "ينبغي أن تأخذ بالمشورة الصالحة، يا ابن مينويس."^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_AR a :TranslationVariant ;
+:text "فماذا إذن ينبغي أن أفعل؟ قل، وسأطيع."^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_AR a :TranslationVariant ;
+:text "اذهب، وأطلق الفتاة من المسكن المحفور تحت الأرض،"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_AR a :TranslationVariant ;
+:text "وابنِ للجثة المطروحة قبرًا."^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_AR a :TranslationVariant ;
+:text "وهل تثني على هذه الأمور، وترى أن أتنازل؟"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_AR a :TranslationVariant ;
+:text "نعم، أيها الملك، وبأسرع ما يمكن؛ فإن ضربات الآلهة"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_AR a :TranslationVariant ;
+:text "السريعة القدمين تقطع أصحاب الفكر السيئ."^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_AR a :TranslationVariant ;
+:text "واحسرتاه؛ بصعوبة حقًا، لكنني أُزيح قلبي"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_AR a :TranslationVariant ;
+:text "إلى الفعل؛ فالضرورة لا ينبغي مقاومتها."^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_AR a :TranslationVariant ;
+:text "افعل الآن هذه الأمور، واذهب، ولا تلتفت إلى آخرين."^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_AR a :TranslationVariant ;
+:text "هكذا كما أنا أمضي؛ هلمّوا، هلمّوا، أيها الأتباع،"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_AR a :TranslationVariant ;
+:text "الحاضرون والغائبون، أمسكوا الفؤوس بأيديكم"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_AR a :TranslationVariant ;
+:text "واندفعوا إلى الموضع المرئي أمامكم."^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_AR a :TranslationVariant ;
+:text "أما أنا، فبما أن الرأي قد انقلب إلى هذا،"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_AR a :TranslationVariant ;
+:text "فأنا نفسي قيدتها، وبحضوري سأطلقها."^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_AR a :TranslationVariant ;
+:text "فإني أخاف أن يكون الأفضل أن يحفظ المرء"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_AR a :TranslationVariant ;
+:text "القوانين القائمة، وأن يتم حياته بذلك."^^xsd:string ;
+:relatedTo :Line_1114 .

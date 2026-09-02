@@ -1,0 +1,103 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-spanish a owl:Ontology .
+# Spanish translation variants for 113_to_140.ttl
+
+:TV_Line_113_ES a :TranslationVariant ;
+    :text "como un águila voló sobre la tierra,"^^xsd:string ;
+    :relatedTo :Line_113 .
+
+:TV_Line_114_ES a :TranslationVariant ;
+    :text "cubierto por ala de blanca nieve,"^^xsd:string ;
+    :relatedTo :Line_114 .
+
+:TV_Line_115_ES a :TranslationVariant ;
+    :text "con muchas armas"^^xsd:string ;
+    :relatedTo :Line_115 .
+
+:TV_Line_116_ES a :TranslationVariant ;
+    :text "y con cascos de crines de caballo."^^xsd:string ;
+    :relatedTo :Line_116 .
+
+:TV_Line_117_ES a :TranslationVariant ;
+    :text "Plantado sobre los techos, con fauces asesinas abiertas en círculo,"^^xsd:string ;
+    :relatedTo :Line_117 .
+
+:TV_Line_118_ES a :TranslationVariant ;
+    :text "contra la boca de siete puertas, con lanzas,"^^xsd:string ;
+    :relatedTo :Line_118 .
+
+:TV_Line_119_ES a :TranslationVariant ;
+    :text "se fue antes de que nuestras"^^xsd:string ;
+    :relatedTo :Line_119 .
+
+:TV_Line_120_ES a :TranslationVariant ;
+    :text "sangres llenaran sus mandíbulas y antes de tomar la corona de torres"^^xsd:string ;
+    :relatedTo :Line_120 .
+
+:TV_Line_121_ES a :TranslationVariant ;
+    :text "con el fuego de Hefesto alimentado por pino. Tal estruendo se extendió en torno a su espalda,"^^xsd:string ;
+    :relatedTo :Line_121 .
+
+:TV_Line_125_ES a :TranslationVariant ;
+    :text "estrépito de Ares, dura lucha para el dragón adversario."^^xsd:string ;
+    :relatedTo :Line_125 .
+
+:TV_Line_127_ES a :TranslationVariant ;
+    :text "Pues Zeus odia sobremanera las jactancias"^^xsd:string ;
+    :relatedTo :Line_127 .
+
+:TV_Line_128_ES a :TranslationVariant ;
+    :text "de una lengua arrogante; y al verlos"^^xsd:string ;
+    :relatedTo :Line_128 .
+
+:TV_Line_129_ES a :TranslationVariant ;
+    :text "avanzar como gran torrente,"^^xsd:string ;
+    :relatedTo :Line_129 .
+
+:TV_Line_130_ES a :TranslationVariant ;
+    :text "soberbios con el estruendo del oro,"^^xsd:string ;
+    :relatedTo :Line_130 .
+
+:TV_Line_131_ES a :TranslationVariant ;
+    :text "con fuego lanzado los arroja"^^xsd:string ;
+    :relatedTo :Line_131 .
+
+:TV_Line_132_ES a :TranslationVariant ;
+    :text "desde lo alto de las almenas, cuando ya"^^xsd:string ;
+    :relatedTo :Line_132 .
+
+:TV_Line_133_ES a :TranslationVariant ;
+    :text "se lanzaban a gritar victoria."^^xsd:string ;
+    :relatedTo :Line_133 .
+
+:TV_Line_134_ES a :TranslationVariant ;
+    :text "Y cayó contra la tierra que le respondió al golpe, sacudido,"^^xsd:string ;
+    :relatedTo :Line_134 .
+
+:TV_Line_135_ES a :TranslationVariant ;
+    :text "el portador de fuego, que entonces con impulso enloquecido"^^xsd:string ;
+    :relatedTo :Line_135 .
+
+:TV_Line_136_ES a :TranslationVariant ;
+    :text "soplaba en delirio báquico"^^xsd:string ;
+    :relatedTo :Line_136 .
+
+:TV_Line_137_ES a :TranslationVariant ;
+    :text "con ráfagas de vientos odiosísimos."^^xsd:string ;
+    :relatedTo :Line_137 .
+
+:TV_Line_138_ES a :TranslationVariant ;
+    :text "Pero unas cosas tuvieron un curso,"^^xsd:string ;
+    :relatedTo :Line_138 .
+
+:TV_Line_139_ES a :TranslationVariant ;
+    :text "y otras sobre otros repartía, golpeando,"^^xsd:string ;
+    :relatedTo :Line_139 .
+
+:TV_Line_140_ES a :TranslationVariant ;
+    :text "el gran Ares, que acomete por la derecha."^^xsd:string ;
+    :relatedTo :Line_140 .

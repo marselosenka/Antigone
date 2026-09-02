@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-hindi a owl:Ontology .
+# Hindi translation variants for 762_to_772.ttl
+
+:TV_Line_762_HI a :TranslationVariant ;
+:text "नहीं, मेरे सामने तो नहीं; यह कभी मत सोच,"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_HI a :TranslationVariant ;
+:text "न यह मेरे पास मरेगी, और तू कभी"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_HI a :TranslationVariant ;
+:text "मेरे मुख को अपनी आँखों से नहीं देखेगा,"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_HI a :TranslationVariant ;
+:text "ताकि जो मित्र चाहें, उनके साथ रहकर तू पागल हो।"^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_HI a :TranslationVariant ;
+:text "राजन, पुरुष क्रोध में शीघ्र चला गया है;"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_HI a :TranslationVariant ;
+:text "ऐसे युवा का मन पीड़ा पाकर भारी हो जाता है।"^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_HI a :TranslationVariant ;
+:text "वह करे; मनुष्य से बढ़कर कुछ सोचता जाए;"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_HI a :TranslationVariant ;
+:text "पर इन दो कन्याओं को वह मृत्यु से मुक्त नहीं करेगा।"^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_HI a :TranslationVariant ;
+:text "क्या तू सचमुच दोनों को मारने का सोचता है?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_HI a :TranslationVariant ;
+:text "जिसने स्पर्श नहीं किया, उसे नहीं; तू ठीक कहता है।"^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_HI a :TranslationVariant ;
+:text "और किस मृत्यु से उसे मारने का विचार करता है?"^^xsd:string ;
+:relatedTo :Line_772 .

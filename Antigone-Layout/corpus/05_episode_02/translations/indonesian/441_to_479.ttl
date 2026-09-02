@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-indonesian a owl:Ontology .
+# Indonesian translation variants for 441_to_479.ttl
+
+:TV_Line_441_ID a :TranslationVariant ;
+:text "Engkau, ya engkau yang menundukkan kepala ke tanah,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_ID a :TranslationVariant ;
+:text "kau mengaku atau menyangkal telah melakukan hal-hal ini?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_ID a :TranslationVariant ;
+:text "Aku mengaku telah melakukannya, dan tidak menyangkalnya."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_ID a :TranslationVariant ;
+:text "Engkau boleh membawa dirimu sendiri ke mana kau mau,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_ID a :TranslationVariant ;
+:text "bebas dari tuduhan berat."^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_ID a :TranslationVariant ;
+:text "Tetapi engkau, katakan kepadaku bukan panjang lebar, melainkan singkat:"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_ID a :TranslationVariant ;
+:text "apakah engkau tahu bahwa telah diumumkan untuk tidak melakukan hal-hal ini?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_ID a :TranslationVariant ;
+:text "Aku tahu; bagaimana mungkin tidak? Sebab itu jelas."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_ID a :TranslationVariant ;
+:text "Dan sungguh, engkau berani melanggar hukum-hukum ini?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_ID a :TranslationVariant ;
+:text "Sebab bukan Zeus yang mengumumkan hal-hal ini kepadaku,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_ID a :TranslationVariant ;
+:text "dan bukan pula Dike, yang tinggal bersama dewa-dewa bawah,"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_ID a :TranslationVariant ;
+:text "yang menetapkan hukum-hukum seperti itu di antara manusia."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_ID a :TranslationVariant ;
+:text "Aku juga tidak menyangka pengumumanmu memiliki kekuatan sebesar itu,"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_ID a :TranslationVariant ;
+:text "sehingga hukum-hukum para dewa yang tak tertulis dan tak tergoyahkan"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_ID a :TranslationVariant ;
+:text "dapat dilampaui oleh seorang yang fana."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_ID a :TranslationVariant ;
+:text "Sebab hukum-hukum itu hidup bukan sekarang saja atau kemarin,"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_ID a :TranslationVariant ;
+:text "melainkan selalu, dan tidak seorang pun tahu sejak kapan ia tampak."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_ID a :TranslationVariant ;
+:text "Aku tidak akan, karena takut pada pikiran lelaki mana pun,"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_ID a :TranslationVariant ;
+:text "membayar hukuman kepada para dewa untuk hal-hal itu;"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_ID a :TranslationVariant ;
+:text "sebab aku tahu betul aku akan mati, bagaimana tidak?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_ID a :TranslationVariant ;
+:text "meskipun engkau tidak lebih dulu mengumumkannya. Jika sebelum waktuku"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_ID a :TranslationVariant ;
+:text "aku mati, itu kusebut keuntungan."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_ID a :TranslationVariant ;
+:text "Sebab siapa pun yang hidup dalam begitu banyak bencana seperti aku,"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_ID a :TranslationVariant ;
+:text "bagaimana ia tidak membawa keuntungan dengan mati?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_ID a :TranslationVariant ;
+:text "Demikianlah bagiku memperoleh nasib mati ini"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_ID a :TranslationVariant ;
+:text "bukanlah penderitaan sama sekali; tetapi jika mayat yang lahir dari ibuku"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_ID a :TranslationVariant ;
+:text "yang telah mati kubiarkan tanpa kubur,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_ID a :TranslationVariant ;
+:text "atas hal itu aku akan menderita; tetapi atas ini aku tidak menderita."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_ID a :TranslationVariant ;
+:text "Dan jika sekarang bagimu aku tampak berbuat bodoh,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_ID a :TranslationVariant ;
+:text "hampir oleh orang bodohlah aku dituduh bodoh."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_ID a :TranslationVariant ;
+:text "Keturunan ganas dari ayah yang ganas tampak jelas"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_ID a :TranslationVariant ;
+:text "pada gadis ini. Ia tidak tahu bagaimana menyerah kepada bencana."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_ID a :TranslationVariant ;
+:text "Tetapi ketahuilah bahwa pikiran yang terlalu keras"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_ID a :TranslationVariant ;
+:text "paling sering jatuh, dan besi yang paling kuat,"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_ID a :TranslationVariant ;
+:text "setelah dibakar dari api hingga sangat keras,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_ID a :TranslationVariant ;
+:text "sering kaulihat patah dan retak paling banyak;"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_ID a :TranslationVariant ;
+:text "dan dengan kekang kecil aku tahu kuda-kuda yang bernafsu"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_ID a :TranslationVariant ;
+:text "dijinakkan; sebab tidak boleh"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_ID a :TranslationVariant ;
+:text "berpikiran besar siapa pun yang menjadi budak orang-orang sekitarnya."^^xsd:string ;
+:relatedTo :Line_479 .

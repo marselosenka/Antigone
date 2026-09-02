@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-german a owl:Ontology .
+# German translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_DE a :TranslationVariant ;
+:text "Nachbarn des Kadmos und der Häuser Amphions,"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_DE a :TranslationVariant ;
+:text "es gibt kein Leben eines Menschen, dessen Stand ich"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_DE a :TranslationVariant ;
+:text "jemals entweder loben oder tadeln könnte."^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_DE a :TranslationVariant ;
+:text "Denn Glück richtet auf, und Glück stürzt nieder"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_DE a :TranslationVariant ;
+:text "den Glücklichen wie den Unglücklichen, immer;"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_DE a :TranslationVariant ;
+:text "und kein Seher kennt das für Sterbliche Feststehende."^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_DE a :TranslationVariant ;
+:text "Denn Kreon war einst beneidenswert, wie mir schien,"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_DE a :TranslationVariant ;
+:text "da er dieses kadmeische Land von Feinden gerettet hatte"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_DE a :TranslationVariant ;
+:text "und die vollständige Alleinherrschaft des Landes ergriffen hatte;"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_DE a :TranslationVariant ;
+:text "er lenkte es, blühend an edler Saat von Kindern."^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_DE a :TranslationVariant ;
+:text "Und nun ist alles losgelassen. Denn die Freuden,"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_DE a :TranslationVariant ;
+:text "wenn Männer sie verraten, rechne ich"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_DE a :TranslationVariant ;
+:text "diesen nicht als lebend, sondern halte ihn für einen beseelten Toten."^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_DE a :TranslationVariant ;
+:text "Mag er im Haus reich sein, wenn du willst, sehr reich,"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_DE a :TranslationVariant ;
+:text "und leben mit der Gestalt eines Tyrannen; wenn aber fehlt"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_DE a :TranslationVariant ;
+:text "bei diesen das Sich-Freuen, das Übrige würde ich um eines Rauches Schatten"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_DE a :TranslationVariant ;
+:text "keinem Mann kaufen im Vergleich mit Freude."^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_DE a :TranslationVariant ;
+:text "Welche Last der Könige kommst du nun tragend her?"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_DE a :TranslationVariant ;
+:text "Sie sind tot. Die Lebenden aber sind schuld am Sterben."^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_DE a :TranslationVariant ;
+:text "Und wer mordet? Wer liegt da? Sprich."^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_DE a :TranslationVariant ;
+:text "Haimon ist zugrunde gegangen; durch eigene Hand blutet er."^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_DE a :TranslationVariant ;
+:text "Durch väterliche oder durch eigene Hand?"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_DE a :TranslationVariant ;
+:text "Selbst durch sich selbst, dem Vater zürnend wegen des Mordes."^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_DE a :TranslationVariant ;
+:text "O Seher, wie richtig hast du also das Wort vollendet."^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_DE a :TranslationVariant ;
+:text "Da es so steht, ist das Übrige zu beraten."^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_DE a :TranslationVariant ;
+:text "Und doch sehe ich die unglückliche Eurydike zugleich,"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_DE a :TranslationVariant ;
+:text "die Gattin Kreons. Aus dem Haus"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_DE a :TranslationVariant ;
+:text "kommt sie, entweder weil sie vom Kind hört oder durch Zufall."^^xsd:string ;
+:relatedTo :Line_1182 .

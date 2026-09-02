@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-bengali a owl:Ontology .
+# Bengali translation variants for 384_to_440.ttl
+
+:TV_Line_384_BN a :TranslationVariant ;
+:text "এই সেই মেয়ে, যে কাজটি সম্পন্ন করেছে;"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_BN a :TranslationVariant ;
+:text "তাকে আমরা কবর দিতে গিয়ে ধরেছি। কিন্তু ক্রেয়ন কোথায়?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_BN a :TranslationVariant ;
+:text "এই তো তিনি ঘর থেকে যথাসময়ে ফিরে আসছেন।"^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_BN a :TranslationVariant ;
+:text "কী হয়েছে? কোন ঘটনার সঙ্গে মানানসই হয়ে আমি বেরোলাম?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_BN a :TranslationVariant ;
+:text "রাজা, মানুষের কাছে শপথ করে অস্বীকার করা যায় না এমন কিছু নেই।"^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_BN a :TranslationVariant ;
+:text "কারণ পরের চিন্তা আগের সিদ্ধান্তকে মিথ্যা করে; যেহেতু"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_BN a :TranslationVariant ;
+:text "আমি কষ্টে কখনও এখানে আসব বলে শপথ করেছিলাম,"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_BN a :TranslationVariant ;
+:text "তোমার সেই হুমকির জন্য, যেগুলোতে তখন আমি ঝড়ে পড়েছিলাম।"^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_BN a :TranslationVariant ;
+:text "কিন্তু প্রত্যাশার বাইরে ও আশার বিপরীতে যে আনন্দ,"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_BN a :TranslationVariant ;
+:text "তার দৈর্ঘ্যে অন্য কোনো সুখ সমান নয় বলে মনে হয়।"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_BN a :TranslationVariant ;
+:text "আমি এসেছি, শপথ করেও যদিও অস্বীকার করেছিলাম,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_BN a :TranslationVariant ;
+:text "এই মেয়েকে নিয়ে, যে কবর সাজাতে গিয়ে ধরা পড়েছে।"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_BN a :TranslationVariant ;
+:text "এখানে কোনো চিরকুট লাফায়নি,"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_BN a :TranslationVariant ;
+:text "বরং এ আমারই পাওয়া সৌভাগ্য, অন্য কারও নয়।"^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_BN a :TranslationVariant ;
+:text "এখন, রাজা, তুমি নিজে তাকে যেমন চাও গ্রহণ করে"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_BN a :TranslationVariant ;
+:text "বিচার করো ও জেরা করো; আর আমি মুক্ত,"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_BN a :TranslationVariant ;
+:text "এই দুঃখগুলো থেকে ছাড়া পাওয়ার ন্যায্য অধিকারী।"^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_BN a :TranslationVariant ;
+:text "তুমি তাকে কোন উপায়ে, কোথা থেকে ধরে আনছ?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_BN a :TranslationVariant ;
+:text "এই মেয়েই মানুষটিকে কবর দিচ্ছিল; তুমি সব জানলে।"^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_BN a :TranslationVariant ;
+:text "তুমি কি বুঝছও, আর যা বলছ তা ঠিক বলছ?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_BN a :TranslationVariant ;
+:text "তাকে আমি দেখেছি, তুমি যে মৃতদেহ নিষিদ্ধ করেছিলে,"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_BN a :TranslationVariant ;
+:text "তাকে কবর দিচ্ছে। আমি কি স্পষ্ট ও পরিষ্কার বলছি?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_BN a :TranslationVariant ;
+:text "কীভাবে সে দেখা গেল এবং হাতে-নাতে ধরা পড়ল?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_BN a :TranslationVariant ;
+:text "ঘটনাটি এমন ছিল। আমরা যখন এলাম,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_BN a :TranslationVariant ;
+:text "তোমার কাছ থেকে সেই ভয়ংকর হুমকি পেয়ে,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_BN a :TranslationVariant ;
+:text "যে ধুলো মৃতদেহ ঢেকেছিল সব ঝেড়ে ফেলে,"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_BN a :TranslationVariant ;
+:text "পচা দেহটি ভালো করে উন্মুক্ত করে,"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_BN a :TranslationVariant ;
+:text "আমরা পাহাড়ের চূড়ায় বসেছিলাম, বাতাসের আড়ালে,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_BN a :TranslationVariant ;
+:text "যাতে তার গন্ধ এসে না লাগে, সে থেকে বাঁচতে।"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_BN a :TranslationVariant ;
+:text "মানুষ মানুষকে জাগিয়ে রাখত, কঠোর"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_BN a :TranslationVariant ;
+:text "তিরস্কারে, যদি কেউ এই শ্রমে অমনোযোগী হত।"^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_BN a :TranslationVariant ;
+:text "এভাবে সময় কাটছিল, যতক্ষণ না আকাশের"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_BN a :TranslationVariant ;
+:text "মাঝখানে সূর্যের উজ্জ্বল চক্র দাঁড়াল"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_BN a :TranslationVariant ;
+:text "আর উত্তাপ দগ্ধ করছিল; তখন হঠাৎ মাটি থেকে"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_BN a :TranslationVariant ;
+:text "ঘূর্ণিঝড় উঠে, আকাশীয় দুর্দশা হয়ে,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_BN a :TranslationVariant ;
+:text "সমতল ভরিয়ে দিল, মাঠের অরণ্যের সব পাতাকে"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_BN a :TranslationVariant ;
+:text "নষ্ট করতে করতে; আর বিশাল আকাশ পূর্ণ হয়ে গেল।"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_BN a :TranslationVariant ;
+:text "চোখ বুজে আমরা দেবতারোগ সহ্য করছিলাম।"^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_BN a :TranslationVariant ;
+:text "অনেক সময় পরে তা সরে গেলে,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_BN a :TranslationVariant ;
+:text "মেয়েটি দেখা গেল, আর সে তীব্র চিৎকারে কেঁদে উঠল,"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_BN a :TranslationVariant ;
+:text "তীক্ষ্ণ স্বরে তিক্ত পাখির মতো, যেমন যখন সে"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_BN a :TranslationVariant ;
+:text "শূন্য বাসায় ছানাহীন শয্যা দেখে।"^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_BN a :TranslationVariant ;
+:text "তেমনই সেও, যখন উলঙ্গ মৃতদেহ দেখল,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_BN a :TranslationVariant ;
+:text "বিলাপে হাহাকার করল, আর খারাপ অভিশাপ"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_BN a :TranslationVariant ;
+:text "দিল তাদের, যারা কাজটি করেছিল।"^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_BN a :TranslationVariant ;
+:text "তারপর হাতে সঙ্গে সঙ্গে তৃষ্ণার্ত ধুলো বহন করল,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_BN a :TranslationVariant ;
+:text "আর সুন্দরভাবে গড়া ব্রোঞ্জের কলস থেকে পুরো ঢেলে,"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_BN a :TranslationVariant ;
+:text "তিনবার অর্পিত তর্পণে মৃতদেহকে মুকুট পরাল।"^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_BN a :TranslationVariant ;
+:text "আমরা দেখে ছুটে গেলাম, আর সঙ্গে সঙ্গে"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_BN a :TranslationVariant ;
+:text "তাকে ধরলাম, সে বিন্দুমাত্র বিচলিত নয়।"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_BN a :TranslationVariant ;
+:text "আমরা আগের কাজ ও এখনকার কাজ দুটিই জেরা করলাম;"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_BN a :TranslationVariant ;
+:text "সে কোনো কিছুরই অস্বীকারকারী হয়ে দাঁড়াল না,"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_BN a :TranslationVariant ;
+:text "যা আমার কাছে একই সঙ্গে সুখকর ও বেদনাদায়ক।"^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_BN a :TranslationVariant ;
+:text "কারণ নিজে বিপদ থেকে পালিয়ে আসা"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_BN a :TranslationVariant ;
+:text "সবচেয়ে মধুর, কিন্তু আপনজনদের বিপদে নিয়ে যাওয়া"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_BN a :TranslationVariant ;
+:text "বেদনাদায়ক; তবু এই সবকিছুকে কম ধরে নেওয়া"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_BN a :TranslationVariant ;
+:text "আমার স্বভাব, নিজের নিরাপত্তার তুলনায়।"^^xsd:string ;
+:relatedTo :Line_440 .

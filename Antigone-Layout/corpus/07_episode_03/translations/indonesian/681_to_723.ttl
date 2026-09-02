@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-indonesian a owl:Ontology .
+# Indonesian translation variants for 681_to_723.ttl
+
+:TV_Line_681_ID a :TranslationVariant ;
+:text "Bagi kami, jika usia tidak telah mencuri pengertian kami,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_ID a :TranslationVariant ;
+:text "engkau tampak berbicara bijaksana tentang yang kaukatakan."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_ID a :TranslationVariant ;
+:text "Ayah, para dewa menumbuhkan akal pada manusia,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_ID a :TranslationVariant ;
+:text "yang tertinggi dari semua harta yang ada."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_ID a :TranslationVariant ;
+:text "Bahwa engkau tidak berkata benar dalam hal ini,"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_ID a :TranslationVariant ;
+:text "aku tidak mampu dan tidak tahu bagaimana mengatakannya."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_ID a :TranslationVariant ;
+:text "Namun mungkin pada orang lain pun ada sesuatu yang baik."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_ID a :TranslationVariant ;
+:text "Bagaimanapun, aku dilahirkan untuk memperhatikan bagimu semua hal"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_ID a :TranslationVariant ;
+:text "yang dikatakan seseorang, dilakukan seseorang, atau dicela seseorang."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_ID a :TranslationVariant ;
+:text "Sebab matamu menakutkan bagi seorang warga biasa"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_ID a :TranslationVariant ;
+:text "terhadap kata-kata semacam itu, yang tidak akan menyenangkanmu jika didengar;"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_ID a :TranslationVariant ;
+:text "tetapi bagiku mungkin mendengar hal-hal ini dalam gelap,"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_ID a :TranslationVariant ;
+:text "bagaimana kota meratapi gadis ini,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_ID a :TranslationVariant ;
+:text "bahwa dari semua perempuan, dia paling tidak layak"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_ID a :TranslationVariant ;
+:text "binasa paling buruk karena perbuatan yang paling mulia."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_ID a :TranslationVariant ;
+:text "Dia yang tidak membiarkan saudara kandungnya sendiri, yang jatuh"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_ID a :TranslationVariant ;
+:text "dalam pembantaian, tetap tak terkubur, ataupun binasa oleh anjing-anjing pemakan mentah"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_ID a :TranslationVariant ;
+:text "ataupun oleh burung mana pun."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_ID a :TranslationVariant ;
+:text "Bukankah dia layak memperoleh kehormatan emas?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_ID a :TranslationVariant ;
+:text "Kabar gelap semacam ini datang diam-diam."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_ID a :TranslationVariant ;
+:text "Bagiku, ketika engkau bertindak dengan beruntung, ayah,"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_ID a :TranslationVariant ;
+:text "tidak ada harta yang lebih berharga."^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_ID a :TranslationVariant ;
+:text "Sebab kemuliaan apa yang lebih besar bagi anak-anak"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_ID a :TranslationVariant ;
+:text "daripada ayah yang berkembang, atau bagi ayah dari anak-anak?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_ID a :TranslationVariant ;
+:text "Maka jangan bawa satu watak saja dalam dirimu,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_ID a :TranslationVariant ;
+:text "bahwa apa yang kaukatakan, dan tidak ada yang lain, itulah yang benar."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_ID a :TranslationVariant ;
+:text "Sebab siapa pun yang mengira dirinya sendiri satu-satunya yang berpikir,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_ID a :TranslationVariant ;
+:text "atau memiliki lidah yang tidak dimiliki orang lain, atau jiwa,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_ID a :TranslationVariant ;
+:text "orang-orang itu, ketika dibentangkan terbuka, tampak kosong."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_ID a :TranslationVariant ;
+:text "Tetapi bagi seorang lelaki, meskipun ia bijak, belajar banyak"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_ID a :TranslationVariant ;
+:text "bukanlah sesuatu yang memalukan, dan juga tidak terlalu menegang."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_ID a :TranslationVariant ;
+:text "Engkau melihat di sepanjang arus banjir musim dingin, semua"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_ID a :TranslationVariant ;
+:text "pohon yang menyerah, bagaimana ranting-rantingnya terselamatkan,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_ID a :TranslationVariant ;
+:text "sedangkan yang melawan hancur sampai akar-akarnya."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_ID a :TranslationVariant ;
+:text "Demikian pula siapa pun di kapal yang mengencangkan tali kaki"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_ID a :TranslationVariant ;
+:text "dan sama sekali tidak mengendur, setelah membalik kapal ke bawah"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_ID a :TranslationVariant ;
+:text "akan berlayar selanjutnya dengan bangku-bangku terbalik."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_ID a :TranslationVariant ;
+:text "Tetapi mengalahlah dan berilah perubahan kepada amarah."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_ID a :TranslationVariant ;
+:text "Sebab jika ada suatu pendapat juga dari aku yang lebih muda"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_ID a :TranslationVariant ;
+:text "yang hadir, aku sungguh berkata bahwa jauh paling utama"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_ID a :TranslationVariant ;
+:text "bagi seorang lelaki dilahirkan penuh dengan seluruh pengetahuan;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_ID a :TranslationVariant ;
+:text "tetapi jika tidak, sebab hal itu biasanya tidak condong demikian,"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_ID a :TranslationVariant ;
+:text "indah juga belajar dari mereka yang berbicara baik."^^xsd:string ;
+:relatedTo :Line_723 .

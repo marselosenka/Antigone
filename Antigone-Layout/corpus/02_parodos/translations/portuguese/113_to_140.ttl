@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-portuguese a owl:Ontology .
+# Portuguese translation variants for 113_to_140.ttl
+
+:TV_Line_113_PT a :TranslationVariant ;
+:text "como águia sobrevoou a terra,"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_PT a :TranslationVariant ;
+:text "coberto pela asa de neve branca,"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_PT a :TranslationVariant ;
+:text "com muitas armas"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_PT a :TranslationVariant ;
+:text "e com elmos crinados de cavalo."^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_PT a :TranslationVariant ;
+:text "Posto sobre os telhados, abrindo em volta as mandíbulas sedentas de sangue,"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_PT a :TranslationVariant ;
+:text "com lanças, a boca de sete portas,"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_PT a :TranslationVariant ;
+:text "foi-se, antes que jamais dos nossos"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_PT a :TranslationVariant ;
+:text "sangues suas mandíbulas se enchessem e antes que a coroa das torres"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_PT a :TranslationVariant ;
+:text "tomasse com Hefesto de pinho ardente. Tal estrondo se estendeu ao redor de suas costas,"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Lines 122, 123, and 124 do not exist in canonical.
+
+:TV_Line_125_PT a :TranslationVariant ;
+:text "estrondo de Ares, difícil manejo para o dragão adversário."^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in canonical.
+
+:TV_Line_127_PT a :TranslationVariant ;
+:text "Pois Zeus odeia em extremo as soberbas de uma grande língua,"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_PT a :TranslationVariant ;
+:text "e, ao vê-los"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_PT a :TranslationVariant ;
+:text "aproximando-se em grande corrente,"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_PT a :TranslationVariant ;
+:text "arrogantes pelo clangor do ouro,"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_PT a :TranslationVariant ;
+:text "com fogo arremessado lançou-o"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_PT a :TranslationVariant ;
+:text "já sobre as extremas"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_PT a :TranslationVariant ;
+:text "balizas, precipitando-se para gritar vitória;"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_PT a :TranslationVariant ;
+:text "e sobre a terra resistente caiu, sacudido como Tântalo,"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_PT a :TranslationVariant ;
+:text "o portador de fogo, que então, com impulso enlouquecido,"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_PT a :TranslationVariant ;
+:text "em delírio soprava"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_PT a :TranslationVariant ;
+:text "rajadas dos ventos mais odiosos."^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_PT a :TranslationVariant ;
+:text "Mas uma coisa se deu de um lado,"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_PT a :TranslationVariant ;
+:text "e outra sobre outros ele movia, golpeando,"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_PT a :TranslationVariant ;
+:text "o grande Ares, companheiro de rédea à direita."^^xsd:string ;
+:relatedTo :Line_140 .

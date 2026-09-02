@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-persian a owl:Ontology .
+# Persian translation variants for 762_to_772.ttl
+
+:TV_Line_762_FA a :TranslationVariant ;
+:text "نه، نزد من هرگز چنین نخواهد شد، این را هرگز مپندار،"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_FA a :TranslationVariant ;
+:text "نه او نزدیک من نابود خواهد شد، و نه تو هرگز"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_FA a :TranslationVariant ;
+:text "سر مرا روبه‌روی چشمانت خواهی دید،"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_FA a :TranslationVariant ;
+:text "پس با هر کدام از دوستانت که می‌خواهند، دیوانه‌وار همنشین باش."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_FA a :TranslationVariant ;
+:text "ای شاه، آن مرد از خشم شتابان رفت؛"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_FA a :TranslationVariant ;
+:text "و اندیشه‌ای در این سن، چون درد کشد، سنگین است."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_FA a :TranslationVariant ;
+:text "بگذار عمل کند؛ بگذار بزرگ‌تر از حد انسان بیندیشد؛"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_FA a :TranslationVariant ;
+:text "اما آن دو دختر را از سرنوشت رها نخواهد کرد."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_FA a :TranslationVariant ;
+:text "آیا قصد داری هر دو را بکشی؟"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_FA a :TranslationVariant ;
+:text "نه آن را که دست نزده است؛ زیرا درست می‌گویی."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_FA a :TranslationVariant ;
+:text "اما با چه مرگی تصمیم داری او را بکشی؟"^^xsd:string ;
+:relatedTo :Line_772 .

@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-portuguese a owl:Ontology .
+# Portuguese translation variants for 280_to_301.ttl
+
+:TV_Line_280_PT a :TranslationVariant ;
+:text "Cessa, antes que, falando, me enchas também de ira,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_PT a :TranslationVariant ;
+:text "para que não sejas descoberto insensato e velho ao mesmo tempo."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_PT a :TranslationVariant ;
+:text "Pois dizes coisas intoleráveis, dizendo que os deuses"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_PT a :TranslationVariant ;
+:text "têm providência acerca deste morto."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_PT a :TranslationVariant ;
+:text "Acaso, honrando-o como benfeitor,"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_PT a :TranslationVariant ;
+:text "eles o esconderam, ele que veio para queimar"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_PT a :TranslationVariant ;
+:text "templos rodeados de colunas e oferendas,"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_PT a :TranslationVariant ;
+:text "e para dispersar a terra deles e as leis?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_PT a :TranslationVariant ;
+:text "Ou vês os deuses honrando os maus?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_PT a :TranslationVariant ;
+:text "Não é assim; mas estas coisas, há muito, homens da cidade,"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_PT a :TranslationVariant ;
+:text "suportando com dificuldade, murmuravam contra mim"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_PT a :TranslationVariant ;
+:text "em segredo, sacudindo a cabeça, e não sob o jugo"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_PT a :TranslationVariant ;
+:text "mantinham justamente o pescoço, de modo a me amar."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_PT a :TranslationVariant ;
+:text "Por isso sei bem que estes"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_PT a :TranslationVariant ;
+:text "foram levados por salários a fazer estas coisas."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_PT a :TranslationVariant ;
+:text "Pois nada tão mau como a prata"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_PT a :TranslationVariant ;
+:text "germinou entre os homens como moeda; ela também cidades"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_PT a :TranslationVariant ;
+:text "devasta, ela expulsa homens de casas,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_PT a :TranslationVariant ;
+:text "ela ensina e transforma pensamentos"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_PT a :TranslationVariant ;
+:text "bons dos mortais a pôr-se em atos vergonhosos,"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_PT a :TranslationVariant ;
+:text "e mostrou aos homens como ter todo crime"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_PT a :TranslationVariant ;
+:text "e conhecer a impiedade de toda ação."^^xsd:string ;
+:relatedTo :Line_301 .

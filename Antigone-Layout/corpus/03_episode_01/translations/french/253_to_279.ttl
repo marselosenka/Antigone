@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-french a owl:Ontology .
+# French translation variants for 253_to_279.ttl
+
+:TV_Line_253_FR a :TranslationVariant ;
+:text "Et lorsque le premier guetteur du jour nous"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_FR a :TranslationVariant ;
+:text "le montre, un étonnement pénible était présent pour tous ;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_FR a :TranslationVariant ;
+:text "car lui avait disparu, non pas couvert d’un tumulus,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_FR a :TranslationVariant ;
+:text "mais une fine poussière était posée sur lui, comme par quelqu’un fuyant une souillure."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_FR a :TranslationVariant ;
+:text "Et nul signe de bête sauvage ni d’aucun chien"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_FR a :TranslationVariant ;
+:text "venu ni l’ayant déchiré n’apparaissait."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_FR a :TranslationVariant ;
+:text "De mauvais propos grondaient entre nous,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_FR a :TranslationVariant ;
+:text "un garde accusant un garde, et cela en serait venu"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_FR a :TranslationVariant ;
+:text "à un coup final, et personne n’était là pour l’empêcher."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_FR a :TranslationVariant ;
+:text "Car chacun était en quelque sorte celui qui avait fait l’ouvrage,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_FR a :TranslationVariant ;
+:text "et personne n’était manifeste, mais chacun échappait en disant ne pas savoir."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_FR a :TranslationVariant ;
+:text "Nous étions prêts même à prendre des fers brûlants dans nos mains,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_FR a :TranslationVariant ;
+:text "à marcher à travers le feu, et à jurer par les dieux"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_FR a :TranslationVariant ;
+:text "que nous n’avions ni fait la chose ni su avec quelqu’un"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_FR a :TranslationVariant ;
+:text "qui l’eût conçue ou exécutée."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_FR a :TranslationVariant ;
+:text "À la fin, quand il n’y avait rien de plus pour ceux qui cherchaient,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_FR a :TranslationVariant ;
+:text "un certain homme parle, qui força tous nos fronts"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_FR a :TranslationVariant ;
+:text "à s’incliner vers le sol par peur ; car nous ne pouvions"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_FR a :TranslationVariant ;
+:text "ni contredire ni voir comment, en agissant, nous ferions bien."^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_FR a :TranslationVariant ;
+:text "Et le discours était qu’il fallait rapporter"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_FR a :TranslationVariant ;
+:text "à toi cette action et non la cacher."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_FR a :TranslationVariant ;
+:text "Et cela l’emporta, et moi, l’infortuné,"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_FR a :TranslationVariant ;
+:text "le sort me choisit pour recevoir ce bien-là."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_FR a :TranslationVariant ;
+:text "Me voici donc contre mon gré, non devant des gens consentants, je le sais ;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_FR a :TranslationVariant ;
+:text "car personne n’aime le messager de mauvaises paroles."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_FR a :TranslationVariant ;
+:text "Seigneur, quant à moi, depuis longtemps mon inquiétude"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_FR a :TranslationVariant ;
+:text "me suggère que cette action pourrait bien être poussée par les dieux."^^xsd:string ;
+:relatedTo :Line_279 .

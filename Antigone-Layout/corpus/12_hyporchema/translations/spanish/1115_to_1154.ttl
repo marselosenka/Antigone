@@ -1,0 +1,57 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-spanish a owl:Ontology .
+# Spanish translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1115 ; :text "Tú, de muchos nombres, gloria de la novia cadmea,"^^xsd:string .
+:TV_Line_1116_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1116 ; :text "e hijo de Zeus de grave trueno,"^^xsd:string .
+:TV_Line_1117_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1117 ; :text "linaje suyo, tú que rodeas y proteges"^^xsd:string .
+:TV_Line_1118_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1118 ; :text "la ilustre Italia, y gobiernas"^^xsd:string .
+:TV_Line_1119_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1119 ; :text "en los senos comunes de la eleusina"^^xsd:string .
+:TV_Line_1120_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1120 ; :text "Deo, Baco de las bacantes,"^^xsd:string .
+:TV_Line_1121_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1121 ; :text "tú que habitas Tebas, ciudad de tu madre,"^^xsd:string .
+:TV_Line_1122_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1122 ; :text "junto a las húmedas"^^xsd:string .
+
+# Lines 1123 and 1124 do not exist in Antigone.
+
+:TV_Line_1125_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1125 ; :text "corrientes del Ismeno y sobre la siembra del feroz dragón."^^xsd:string .
+:TV_Line_1126_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1126 ; :text "A ti, sobre la roca de dos cumbres, te ha visto el fulgor"^^xsd:string .
+:TV_Line_1127_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1127 ; :text "humeante, allí donde las coricias"^^xsd:string .
+:TV_Line_1128_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1128 ; :text "ninfas bacantes marchan,"^^xsd:string .
+
+# Line 1129 does not exist in Antigone.
+
+:TV_Line_1130_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1130 ; :text "y la corriente de Castalia."^^xsd:string .
+:TV_Line_1131_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1131 ; :text "Y a ti las laderas cubiertas de hiedra"^^xsd:string .
+:TV_Line_1132_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1132 ; :text "de los montes niseos y la verde costa"^^xsd:string .
+:TV_Line_1133_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1133 ; :text "rica en racimos te envían,"^^xsd:string .
+:TV_Line_1134_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1134 ; :text "mientras palabras inmortales"^^xsd:string .
+:TV_Line_1135_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1135 ; :text "gritan evohé y velan por las calles tebanas;"^^xsd:string .
+
+# Line 1136 does not exist in Antigone.
+
+:TV_Line_1137_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1137 ; :text "a esta honras por encima de todas las ciudades,"^^xsd:string .
+:TV_Line_1138_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1138 ; :text "junto con tu madre herida por el rayo."^^xsd:string .
+
+# Line 1139 does not exist in Antigone.
+
+:TV_Line_1140_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1140 ; :text "Y ahora, puesto que la ciudad entera"^^xsd:string .
+:TV_Line_1141_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1141 ; :text "está presa de una enfermedad violenta,"^^xsd:string .
+:TV_Line_1142_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1142 ; :text "ven con pie purificador sobre la ladera parnasia"^^xsd:string .
+
+# Lines 1143 and 1144 do not exist in Antigone.
+
+:TV_Line_1145_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1145 ; :text "o sobre el estrecho que gime."^^xsd:string .
+:TV_Line_1146_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1146 ; :text "¡Oh conductor del coro de astros que respiran fuego,"^^xsd:string .
+:TV_Line_1147_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1147 ; :text "guardián de voces nocturnas,"^^xsd:string .
+:TV_Line_1148_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1148 ; :text "hijo engendrado por Zeus!"^^xsd:string .
+
+# Line 1149 does not exist in Antigone.
+
+:TV_Line_1150_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1150 ; :text "Señor, aparece junto con tus servidoras,"^^xsd:string .
+:TV_Line_1151_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1151 ; :text "las Tíades, que enloquecidas"^^xsd:string .
+:TV_Line_1152_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1152 ; :text "danzan toda la noche para ti, Íaco dispensador."^^xsd:string .
+
+# Lines 1153 and 1154 do not exist in Antigone.

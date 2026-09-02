@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-indonesian a owl:Ontology .
+# Indonesian translation variants for 823_to_871.ttl
+
+:TV_Line_823_ID a :TranslationVariant ;
+:text "Aku pernah mendengar bahwa tamu perempuan Frigia itu mati dengan sangat menyedihkan,"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in Antigone
+
+:TV_Line_825_ID a :TranslationVariant ;
+:text "putri Tantalos, di dekat puncak Sipilos, yang seperti sulur ivy melekat"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_ID a :TranslationVariant ;
+:text "ditaklukkan oleh pertumbuhan batu; dan atas dirinya yang mencair, hujan-hujan,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_ID a :TranslationVariant ;
+:text "seperti kata cerita manusia,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Line 828 and 829 do not exist in Antigone
+
+:TV_Line_830_ID a :TranslationVariant ;
+:text "dan salju tidak pernah meninggalkannya; di bawah alis yang seluruhnya menangis, ia membasahi"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_ID a :TranslationVariant ;
+:text "lehernya; sangat serupa dengan dia, dewa menidurkanku."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Line 832 and 833 do not exist in Antigone
+
+:TV_Line_834_ID a :TranslationVariant ;
+:text "Tetapi ia memang dewi dan lahir dari dewa,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_ID a :TranslationVariant ;
+:text "sedangkan kita fana dan lahir dari yang fana."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_ID a :TranslationVariant ;
+:text "Namun bagi orang yang sedang mati, besar juga mendengar"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_ID a :TranslationVariant ;
+:text "bahwa ia memperoleh bagian yang sama dengan para dewa,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_ID a :TranslationVariant ;
+:text "baik ketika hidup maupun kemudian setelah mati."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_ID a :TranslationVariant ;
+:text "Aduhai, aku ditertawakan. Mengapa, demi dewa-dewa leluhur,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_ID a :TranslationVariant ;
+:text "engkau menghinaku bukan setelah aku pergi, tetapi selagi aku masih tampak?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_ID a :TranslationVariant ;
+:text "Wahai kota, wahai orang-orang kaya kota;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_ID a :TranslationVariant ;
+:text "aduhai, mata air Dirke,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Line 843 and 844 do not exist in Antigone
+
+:TV_Line_845_ID a :TranslationVariant ;
+:text "dan hutan Thebes yang berkereta indah, setidaknya kalian kujadikan saksi bersama,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_ID a :TranslationVariant ;
+:text "bagaimana aku pergi, tak ditangisi oleh orang-orang tercinta, oleh hukum macam apa"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_ID a :TranslationVariant ;
+:text "aku menuju kurungan makam yang ditimbun tanah, makam asing."^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Line 848 and 849 do not exist in Antigone
+
+:TV_Line_850_ID a :TranslationVariant ;
+:text "Bukan mayat di antara mayat-mayat,"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_ID a :TranslationVariant ;
+:text "bukan penghuni bersama yang hidup, bukan pula yang mati."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in Antigone
+
+:TV_Line_853_ID a :TranslationVariant ;
+:text "Dengan melangkah sampai batas terakhir keberanian nekat"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_ID a :TranslationVariant ;
+:text "menuju takhta tinggi Dike,"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_ID a :TranslationVariant ;
+:text "engkau jatuh, wahai anak, sangat jauh;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_ID a :TranslationVariant ;
+:text "dan engkau membayar suatu hukuman dari ayahmu."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in Antigone
+
+:TV_Line_858_ID a :TranslationVariant ;
+:text "Engkau menyentuh kepedihan pikiranku yang paling menyakitkan,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_ID a :TranslationVariant ;
+:text "ratapan ayah yang tiga kali dikisahkan dan seluruh"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_ID a :TranslationVariant ;
+:text "nasib kami, milik Labdakidai yang termasyhur."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_ID a :TranslationVariant ;
+:text "Aduhai, ranjang-ranjang ibu,"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Line 862, 863 and 864 do not exist in Antigone
+
+:TV_Line_865_ID a :TranslationVariant ;
+:text "bencana dan tidur yang lahir sendiri bagi ayahku dari ibunya yang malang,"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_ID a :TranslationVariant ;
+:text "dari orang-orang seperti itulah aku, yang malang ini, pernah lahir;"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_ID a :TranslationVariant ;
+:text "kepada mereka aku pergi sebagai yang terkutuk, tak bersuami, seorang pendatang."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Line 868 and 869 do not exist in Antigone
+
+:TV_Line_870_ID a :TranslationVariant ;
+:text "Wahai saudara, yang memperoleh perkawinan malang,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_ID a :TranslationVariant ;
+:text "dengan mati engkau membunuhku yang masih hidup."^^xsd:string ;
+:relatedTo :Line_871 .

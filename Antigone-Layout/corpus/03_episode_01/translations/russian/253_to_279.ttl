@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-russian a owl:Ontology .
+# Russian translation variants for 253_to_279.ttl
+
+:TV_Line_253_RU a :TranslationVariant ;
+:text "А когда первый дневной страж нам"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_RU a :TranslationVariant ;
+:text "показал, всем явилось трудное изумление;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_RU a :TranslationVariant ;
+:text "ибо он был исчезнувшим, но не насыпанным в могилу,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_RU a :TranslationVariant ;
+:text "а тонкая пыль лежала, словно от того, кто избегает скверны."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_RU a :TranslationVariant ;
+:text "И следов ни зверя, ни какого-либо пса,"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_RU a :TranslationVariant ;
+:text "пришедшего или терзавшего, не обнаруживалось."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_RU a :TranslationVariant ;
+:text "Злые слова шумели между нами,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_RU a :TranslationVariant ;
+:text "страж обличал стража, и дошло бы"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_RU a :TranslationVariant ;
+:text "до удара в конце, и не было никого, кто воспрепятствовал бы."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_RU a :TranslationVariant ;
+:text "Ибо каждый был тем, кто это совершил,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_RU a :TranslationVariant ;
+:text "и никто явным, но каждый избегал знания."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_RU a :TranslationVariant ;
+:text "Мы были готовы и раскаленные железа поднимать руками,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_RU a :TranslationVariant ;
+:text "и через огонь проходить, и богами клясться,"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_RU a :TranslationVariant ;
+:text "что ни не сделали, ни ни с кем не знали вместе"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_RU a :TranslationVariant ;
+:text "о деле — ни с задумавшим, ни с совершившим."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_RU a :TranslationVariant ;
+:text "Наконец, когда исследующим не было никакой пользы,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_RU a :TranslationVariant ;
+:text "говорит один, который всех к земле головы"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_RU a :TranslationVariant ;
+:text "склонить от страха заставил; ведь мы не имели"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_RU a :TranslationVariant ;
+:text "ни возможности возразить, ни как, действуя хорошо,"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_RU a :TranslationVariant ;
+:text "мы могли бы поступить. А речь была, что нужно"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_RU a :TranslationVariant ;
+:text "тебе донести это дело, а не скрывать."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_RU a :TranslationVariant ;
+:text "И это победило, и меня, несчастного,"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_RU a :TranslationVariant ;
+:text "жребий выбирает получить это добро."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_RU a :TranslationVariant ;
+:text "Я присутствую невольно к невольным, знаю это;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_RU a :TranslationVariant ;
+:text "ведь никто не любит вестника дурных слов."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_RU a :TranslationVariant ;
+:text "Владыка, мне давно мысль обдумывает,"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_RU a :TranslationVariant ;
+:text "не есть ли это дело чем-то богом посланным."^^xsd:string ;
+:relatedTo :Line_279 .

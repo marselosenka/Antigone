@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-italian a owl:Ontology .
+# Italian translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_IT a :TranslationVariant ;
+:text "O vecchio, tutti voi, come arcieri contro il bersaglio,"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_IT a :TranslationVariant ;
+:text "scagliate frecce contro quest’uomo, e neppure dalla mantica"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_IT a :TranslationVariant ;
+:text "sono per voi lasciato inattivo; e da parte della vostra stirpe"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_IT a :TranslationVariant ;
+:text "sono stato venduto e caricato da tempo."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_IT a :TranslationVariant ;
+:text "Guadagnate, commerciate l’ambra di Sardi,"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_IT a :TranslationVariant ;
+:text "se volete, e l’oro indiano;"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_IT a :TranslationVariant ;
+:text "ma quello non lo nasconderete in una tomba,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_IT a :TranslationVariant ;
+:text "neppure se le aquile di Zeus volessero"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_IT a :TranslationVariant ;
+:text "portarlo come pasto, rapendolo, ai troni di Zeus,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_IT a :TranslationVariant ;
+:text "neppure così, senza temere questa contaminazione, io"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_IT a :TranslationVariant ;
+:text "permetterò di seppellire quello; infatti so bene che"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_IT a :TranslationVariant ;
+:text "nessuno degli uomini ha forza di contaminare gli dèi."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_IT a :TranslationVariant ;
+:text "Cadono, vecchio Tiresia, tra i mortali"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_IT a :TranslationVariant ;
+:text "anche quelli molto abili, in cadute vergognose, quando parole"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_IT a :TranslationVariant ;
+:text "vergognose dicono bene per amore del guadagno."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_IT a :TranslationVariant ;
+:text "Ahimè; qualcuno degli uomini sa, forse comprende,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_IT a :TranslationVariant ;
+:text "Che cosa? Quale detto così comune dici?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_IT a :TranslationVariant ;
+:text "Quanto il buon consiglio sia il migliore dei beni?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_IT a :TranslationVariant ;
+:text "Tanto quanto, credo, il non pensare è il danno più grande."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_IT a :TranslationVariant ;
+:text "Eppure tu sei nato pieno di questa malattia."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_IT a :TranslationVariant ;
+:text "Non voglio contraddire malamente il veggente."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_IT a :TranslationVariant ;
+:text "E tuttavia lo fai, dicendo che io profetizzo il falso."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_IT a :TranslationVariant ;
+:text "Infatti tutta la stirpe dei veggenti ama il denaro."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_IT a :TranslationVariant ;
+:text "E quella dei tiranni ama il guadagno vergognoso."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_IT a :TranslationVariant ;
+:text "Sai che, dicendo ciò che dici, parli a governanti?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_IT a :TranslationVariant ;
+:text "Lo so; infatti grazie a me hai questa città salvata."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_IT a :TranslationVariant ;
+:text "Tu sei un veggente sapiente, ma amante dell’ingiustizia."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_IT a :TranslationVariant ;
+:text "Mi spingerai a dire le cose immobili nel mio senno."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_IT a :TranslationVariant ;
+:text "Muovile, soltanto non parlando per guadagni."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_IT a :TranslationVariant ;
+:text "Così infatti ormai sembro anche, almeno per la tua parte."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_IT a :TranslationVariant ;
+:text "Sappi che non comprerai il mio pensiero."^^xsd:string ;
+:relatedTo :Line_1063 .

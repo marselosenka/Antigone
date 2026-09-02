@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-italian a owl:Ontology .
+# Italian translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_IT a :TranslationVariant ;
+:text "Ma sappi bene che non molti ancora"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_IT a :TranslationVariant ;
+:text "giri concorrenti del sole compirai,"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_IT a :TranslationVariant ;
+:text "nei quali tu stesso, dalle tue viscere, uno"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_IT a :TranslationVariant ;
+:text "darai come morto, cadavere in cambio di cadaveri,"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_IT a :TranslationVariant ;
+:text "in cambio di quelli che, di quelli di sopra, hai gettato giù,"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_IT a :TranslationVariant ;
+:text "e hai abitato disonorevolmente un’anima in una tomba,"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_IT a :TranslationVariant ;
+:text "e invece trattieni qui, degli dèi di sotto,"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_IT a :TranslationVariant ;
+:text "un cadavere senza parte, senza onori funebri, empio."^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_IT a :TranslationVariant ;
+:text "Di queste cose né tu hai parte né gli dèi"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_IT a :TranslationVariant ;
+:text "di sopra; ma da te queste cose sono forzate."^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_IT a :TranslationVariant ;
+:text "Per queste cose ti stanno in agguato le punitrici vendicatrici tardive,"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_IT a :TranslationVariant ;
+:text "le Erinni di Ade e degli dèi,"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_IT a :TranslationVariant ;
+:text "perché tu sia preso in questi stessi mali."^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_IT a :TranslationVariant ;
+:text "E osserva se dico queste cose corrotto dall’argento;"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_IT a :TranslationVariant ;
+:text "infatti apparirà, non dopo lungo passare di tempo,"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_IT a :TranslationVariant ;
+:text "il lamento di uomini e donne nella tua casa."^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_IT a :TranslationVariant ;
+:text "E tutte le città sono turbate da inimicizia,"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_IT a :TranslationVariant ;
+:text "di quanti i brandelli cani hanno purificato"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_IT a :TranslationVariant ;
+:text "o fiere, o qualche uccello alato, portando"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_IT a :TranslationVariant ;
+:text "odore empio verso una città custode del focolare."^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_IT a :TranslationVariant ;
+:text "Tali frecce, poiché mi affliggi, come un arciere"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_IT a :TranslationVariant ;
+:text "ho scagliato con animo, saette del cuore"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_IT a :TranslationVariant ;
+:text "salde, il cui calore tu non sfuggirai."^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_IT a :TranslationVariant ;
+:text "Ragazzo, tu conducici verso casa, affinché"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_IT a :TranslationVariant ;
+:text "costui sfoghi l’ira contro uomini più giovani,"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_IT a :TranslationVariant ;
+:text "e impari a nutrire una lingua più quieta"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_IT a :TranslationVariant ;
+:text "e una mente migliore dei pensieri che ora porta."^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_IT a :TranslationVariant ;
+:text "L’uomo, signore, se n’è andato dopo aver profetizzato cose terribili;"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_IT a :TranslationVariant ;
+:text "e sappiamo, da quando io"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_IT a :TranslationVariant ;
+:text "rivesto questo capello bianco al posto del nero,"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_IT a :TranslationVariant ;
+:text "che mai ancora egli ha gridato menzogna alla città."^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_IT a :TranslationVariant ;
+:text "Lo so anch’io, e sono turbato nel senno."^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_IT a :TranslationVariant ;
+:text "Terribile è cedere, ma opponendosi"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_IT a :TranslationVariant ;
+:text "colpire l’animo con rovina è in cosa terribile."^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_IT a :TranslationVariant ;
+:text "Bisogna prendere buon consiglio, figlio di Meneceo."^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_IT a :TranslationVariant ;
+:text "Che dunque bisogna fare? Dillo. Io obbedirò."^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_IT a :TranslationVariant ;
+:text "Andato, libera la fanciulla dalla dimora sotterranea,"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_IT a :TranslationVariant ;
+:text "e costruisci una tomba per quello che giace esposto."^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_IT a :TranslationVariant ;
+:text "E lodi queste cose, e ti sembra che io debba cedere?"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_IT a :TranslationVariant ;
+:text "Sì, signore, quanto più presto possibile; infatti abbreviano"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_IT a :TranslationVariant ;
+:text "i danni degli dèi, dai piedi veloci, gli uomini mal pensanti."^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_IT a :TranslationVariant ;
+:text "Ahimè; a fatica, certo, ma mi distacco dal cuore"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_IT a :TranslationVariant ;
+:text "nel farlo; ma contro la necessità non bisogna combattere male."^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_IT a :TranslationVariant ;
+:text "Fa’ dunque queste cose, andando, e non volgerti ad altri."^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_IT a :TranslationVariant ;
+:text "Così come sono andrei; andate, andate, servi,"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_IT a :TranslationVariant ;
+:text "voi presenti e voi assenti, con scuri nelle mani"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_IT a :TranslationVariant ;
+:text "slanciatevi, prendendole, verso il luogo visibile."^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_IT a :TranslationVariant ;
+:text "Io, poiché la decisione si è volta da questa parte,"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_IT a :TranslationVariant ;
+:text "io stesso la legai e, presente, la libererò."^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_IT a :TranslationVariant ;
+:text "Temo infatti che custodire le leggi stabilite"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_IT a :TranslationVariant ;
+:text "sia la cosa migliore per compiere la vita."^^xsd:string ;
+:relatedTo :Line_1114 .

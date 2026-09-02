@@ -1,0 +1,112 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-582-615-bengali a owl:Ontology .
+# Bengali translation variants for 582_to_615.ttl
+
+# Line 582 does not exist in Antigone
+
+:TV_Line_583_BN a :TranslationVariant ;
+:text "ধন্য তারা, যাদের জীবন মন্দের স্বাদ পায়নি;"^^xsd:string ;
+:relatedTo :Line_583 .
+
+:TV_Line_584_BN a :TranslationVariant ;
+:text "কারণ যাদের গৃহ দেবতার দিক থেকে কেঁপে ওঠে,"^^xsd:string ;
+:relatedTo :Line_584 .
+
+:TV_Line_585_BN a :TranslationVariant ;
+:text "ধ্বংস কিছুই বাদ রাখে না, প্রজন্মের ভিড় ধরে ছুটে যায়;"^^xsd:string ;
+:relatedTo :Line_585 .
+
+:TV_Line_586_BN a :TranslationVariant ;
+:text "যেমন সমুদ্রের দুর্বাতাসী ঢেউয়ের মতো হয়,"^^xsd:string ;
+:relatedTo :Line_586 .
+
+:TV_Line_587_BN a :TranslationVariant ;
+:text "যখন থ্রেসীয় ঝাপটায় অন্ধকার গভীরতার উপর দিয়ে ছুটে আসে,"^^xsd:string ;
+:relatedTo :Line_587 .
+
+# Line 588 and 589 do not exist in Antigone
+
+:TV_Line_590_BN a :TranslationVariant ;
+:text "তখন তা তলদেশ থেকে কালো বালুকাতট গড়িয়ে তোলে,"^^xsd:string ;
+:relatedTo :Line_590 .
+
+:TV_Line_591_BN a :TranslationVariant ;
+:text "আর বিরুদ্ধ আঘাতে তাড়িত উপকূলগুলি বাতাসে কষ্ট পেয়ে গর্জে ওঠে।"^^xsd:string ;
+:relatedTo :Line_591 .
+
+# Line 592 does not exist in Antigone
+
+:TV_Line_593_BN a :TranslationVariant ;
+:text "আমি দেখি, লাবদাকিদদের গৃহের প্রাচীন অভিশাপ"^^xsd:string ;
+:relatedTo :Line_593 .
+
+# Line 594 does not exist in Antigone
+
+:TV_Line_595_BN a :TranslationVariant ;
+:text "নিহতদের দুঃখের উপর দুঃখ ফেলে দেয়,"^^xsd:string ;
+:relatedTo :Line_595 .
+
+:TV_Line_596_BN a :TranslationVariant ;
+:text "এক প্রজন্ম আরেক প্রজন্মকে মুক্ত করে না, বরং ভেঙে ফেলে;"^^xsd:string ;
+:relatedTo :Line_596 .
+
+:TV_Line_597_BN a :TranslationVariant ;
+:text "কোনো দেবতা তা করে, আর তার মুক্তি নেই। কারণ এখন শেষ"^^xsd:string ;
+:relatedTo :Line_597 .
+
+# Line 598 and 599 do not exist in Antigone
+
+:TV_Line_600_BN a :TranslationVariant ;
+:text "শিকড় থেকে ঐদিপাসের ঘরে যে আলো প্রসারিত ছিল,"^^xsd:string ;
+:relatedTo :Line_600 .
+
+:TV_Line_601_BN a :TranslationVariant ;
+:text "নিম্নলোকের দেবতাদের রক্তাক্ত"^^xsd:string ;
+:relatedTo :Line_601 .
+
+:TV_Line_602_BN a :TranslationVariant ;
+:text "ধুলো তা কাটছে, কথার মূর্খতা ও মনের এরিনিস দিয়ে।"^^xsd:string ;
+:relatedTo :Line_602 .
+
+# Line 603 and 604 do not exist in Antigone
+
+:TV_Line_605_BN a :TranslationVariant ;
+:text "হে জিউস, মানুষের কোন অতিক্রম তোমার শক্তিকে রুখতে পারে?"^^xsd:string ;
+:relatedTo :Line_605 .
+
+:TV_Line_606_BN a :TranslationVariant ;
+:text "যাকে কখনও ঘুম, সর্ববার্ধক্য-আনা ঘুমও, ধরে না,"^^xsd:string ;
+:relatedTo :Line_606 .
+
+:TV_Line_607_BN a :TranslationVariant ;
+:text "না দেবতাদের অশ্রান্ত মাসগুলি; বরং অজর সময়ে"^^xsd:string ;
+:relatedTo :Line_607 .
+
+# Line 608 and 609 do not exist in Antigone
+
+:TV_Line_610_BN a :TranslationVariant ;
+:text "শাসক হয়ে তুমি অলিম্পাসের মার্বরের মতো দীপ্তি ধারণ কর।"^^xsd:string ;
+:relatedTo :Line_610 .
+
+:TV_Line_611_BN a :TranslationVariant ;
+:text "যা পরে আসে, যা ভবিষ্যৎ,"^^xsd:string ;
+:relatedTo :Line_611 .
+
+:TV_Line_612_BN a :TranslationVariant ;
+:text "আর যা আগে ছিল, তার জন্য এই আইন যথেষ্ট হবে:"^^xsd:string ;
+:relatedTo :Line_612 .
+
+:TV_Line_613_BN a :TranslationVariant ;
+:text "নিজস্ব পথে তা বহন করে"^^xsd:string ;
+:relatedTo :Line_613 .
+
+:TV_Line_614_BN a :TranslationVariant ;
+:text "মরণশীল জীবনের বহু কিছুই ধ্বংসের বাইরে নয়।"^^xsd:string ;
+:relatedTo :Line_614 .
+
+:TV_Line_615_BN a :TranslationVariant ;
+:text "কারণ বহুভ্রমণশীল আশা অনেক মানুষের উপকার,"^^xsd:string ;
+:relatedTo :Line_615 .

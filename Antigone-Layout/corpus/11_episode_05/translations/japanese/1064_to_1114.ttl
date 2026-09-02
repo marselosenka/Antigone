@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-japanese a owl:Ontology .
+# Japanese translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_JA a :TranslationVariant ;
+:text "だが、これをよく知れ、まだ多くの"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_JA a :TranslationVariant ;
+:text "太陽の競う輪を終える前に、"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_JA a :TranslationVariant ;
+:text "その間に、お前は自分の腹から出た者の一人を"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_JA a :TranslationVariant ;
+:text "死者たちの代償として、死体として差し出すことになる。"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_JA a :TranslationVariant ;
+:text "なぜなら、上の者を下へ投げ落として持ち、"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_JA a :TranslationVariant ;
+:text "生きた魂を不名誉に墓の中へ住まわせたからだ。"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_JA a :TranslationVariant ;
+:text "また下の神々に属するものを、今度はここに持っている、"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_JA a :TranslationVariant ;
+:text "分け前もなく、葬礼もなく、不敬な死体を。"^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_JA a :TranslationVariant ;
+:text "それらには、お前にも上の"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_JA a :TranslationVariant ;
+:text "神々にも関わる権利はない。だがこれらはお前から力ずくで犯されている。"^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_JA a :TranslationVariant ;
+:text "このために、遅れて破滅させる復讐者たちが"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_JA a :TranslationVariant ;
+:text "お前を待ち伏せている、ハデスと神々のエリニュスたちが、"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_JA a :TranslationVariant ;
+:text "これらと同じ災いの中で捕らえられるように。"^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_JA a :TranslationVariant ;
+:text "そしてこれらについて見よ、私が銀で買収されて"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_JA a :TranslationVariant ;
+:text "語っているかどうかを。長い時を経ずして現れるだろう、"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_JA a :TranslationVariant ;
+:text "お前の家に、男たちと女たちの悲鳴が。"^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_JA a :TranslationVariant ;
+:text "そしてすべての町々が憎しみでかき乱される、"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_JA a :TranslationVariant ;
+:text "その者たちの裂かれたものを、犬たちが清めたか、"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_JA a :TranslationVariant ;
+:text "獣たち、あるいは翼ある鳥の誰かが運び、"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_JA a :TranslationVariant ;
+:text "不敬な臭いを炉持つ町へもたらした者たちの町々が。"^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_JA a :TranslationVariant ;
+:text "このようなものを、お前が苦しめるので、射手のように"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_JA a :TranslationVariant ;
+:text "怒りで心の矢を放った、"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_JA a :TranslationVariant ;
+:text "確かな矢を。その熱からお前は逃れられない。"^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_JA a :TranslationVariant ;
+:text "おお少年よ、お前は私たちを家へ連れて行け、"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_JA a :TranslationVariant ;
+:text "この者が怒りをもっと若い者たちへ放ち、"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_JA a :TranslationVariant ;
+:text "舌をより静かに育てることを学び、"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_JA a :TranslationVariant ;
+:text "今持っている心よりもよい心を胸に持つように。"^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_JA a :TranslationVariant ;
+:text "王よ、あの男は恐ろしいことを予言して去った。"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_JA a :TranslationVariant ;
+:text "そして私たちは知っている、私がこの白い"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_JA a :TranslationVariant ;
+:text "髪を黒い髪の代わりにまとうようになって以来、"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_JA a :TranslationVariant ;
+:text "彼がまだ一度も町へ偽りを叫んだことがないと。"^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_JA a :TranslationVariant ;
+:text "私もそれを知っている。そして心が乱れている。"^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_JA a :TranslationVariant ;
+:text "譲ることは恐ろしい。だが逆らって立ち、"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_JA a :TranslationVariant ;
+:text "破滅で心を打つことも、恐ろしい危険の中にある。"^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_JA a :TranslationVariant ;
+:text "よい判断を取る必要がある、メノイケウスの子よ。"^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_JA a :TranslationVariant ;
+:text "では何をすべきなのか。語れ。私は従う。"^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_JA a :TranslationVariant ;
+:text "行って、娘を掘られた家から"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_JA a :TranslationVariant ;
+:text "解放し、横たわる者のために墓を築け。"^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_JA a :TranslationVariant ;
+:text "それをお前は勧め、私が譲るべきだと思うのか。"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_JA a :TranslationVariant ;
+:text "はい、王よ、できるだけ速く。神々の"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_JA a :TranslationVariant ;
+:text "足の速い害は、悪い心の者たちを短く切るからです。"^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_JA a :TranslationVariant ;
+:text "ああ、つらい。困難だが、私は心から"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_JA a :TranslationVariant ;
+:text "その行いを離れる。必然とは悪く戦ってはならない。"^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_JA a :TranslationVariant ;
+:text "では今、行ってそれを行い、他のことへ向かうな。"^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_JA a :TranslationVariant ;
+:text "このまま私は行こう。行け、行け、従者たちよ、"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_JA a :TranslationVariant ;
+:text "ここにいる者もいない者も、手に斧を"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_JA a :TranslationVariant ;
+:text "取って、見える場所へ急げ。"^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_JA a :TranslationVariant ;
+:text "私は、この考えが変わった以上、"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_JA a :TranslationVariant ;
+:text "自分で縛ったのだから、自分で行って解き放つ。"^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_JA a :TranslationVariant ;
+:text "というのも私は恐れている、定められた法を"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_JA a :TranslationVariant ;
+:text "守って生を終えることが最善ではないかと。"^^xsd:string ;
+:relatedTo :Line_1114 .

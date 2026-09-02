@@ -1,0 +1,35 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-324-330-spanish a owl:Ontology .
+# Spanish translation variants for 324_to_330.ttl
+
+:TV_Line_324_ES a :TranslationVariant ;
+    :text "Sofistica ahora sobre esa opinión; pero si no"^^xsd:string ;
+    :relatedTo :Line_324 .
+
+:TV_Line_325_ES a :TranslationVariant ;
+    :text "me mostráis a quienes hicieron esto, diréis"^^xsd:string ;
+    :relatedTo :Line_325 .
+
+:TV_Line_326_ES a :TranslationVariant ;
+    :text "que las ganancias cobardes producen desgracias."^^xsd:string ;
+    :relatedTo :Line_326 .
+
+:TV_Line_327_ES a :TranslationVariant ;
+    :text "Ojalá sea encontrado, sobre todo; pero si"^^xsd:string ;
+    :relatedTo :Line_327 .
+
+:TV_Line_328_ES a :TranslationVariant ;
+    :text "es capturado o no, pues eso lo decidirá la suerte,"^^xsd:string ;
+    :relatedTo :Line_328 .
+
+:TV_Line_329_ES a :TranslationVariant ;
+    :text "no hay modo de que me veas venir aquí de nuevo."^^xsd:string ;
+    :relatedTo :Line_329 .
+
+:TV_Line_330_ES a :TranslationVariant ;
+    :text "Pues también ahora, contra mi esperanza y mi juicio,"^^xsd:string ;
+    :relatedTo :Line_330 .

@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-hindi a owl:Ontology .
+# Hindi translation variants for 366_to_383.ttl
+
+:TV_Line_366_HI a :TranslationVariant ;
+:text "कभी वह बुराई की ओर, कभी भलाई की ओर चलता है,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_HI a :TranslationVariant ;
+:text "धरती के नियमों और देवताओं की शपथबद्ध न्याय-व्यवस्था का सम्मान करता हुआ,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Line 368 and 369 do not exist in Antigone
+
+:TV_Line_370_HI a :TranslationVariant ;
+:text "नगर में ऊँचा; पर राज्यहीन है वह, जिसके साथ असुंदरता"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_HI a :TranslationVariant ;
+:text "साहस के कारण रहती है। ऐसा करने वाला न मेरे चूल्हे का सहभागी हो,"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Line 372, 373 and 374 do not exist in Antigone
+
+:TV_Line_375_HI a :TranslationVariant ;
+:text "न मेरे समान सोचने वाला हो।"^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_HI a :TranslationVariant ;
+:text "इस दैवी अद्भुत दृश्य पर मैं दो मन में हूँ,"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_HI a :TranslationVariant ;
+:text "इसे जानकर मैं कैसे विरोध में कहूँ"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_HI a :TranslationVariant ;
+:text "कि यह कन्या अन्तिगोने नहीं है?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_HI a :TranslationVariant ;
+:text "हे अभागी,"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_HI a :TranslationVariant ;
+:text "और अभागे पिता ओइदिपुस की संतान,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_HI a :TranslationVariant ;
+:text "यह क्या? क्या सचमुच वे तुझे अविश्वासी होकर"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_HI a :TranslationVariant ;
+:text "राजकीय नियमों के विरुद्ध ले जा रहे हैं,"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_HI a :TranslationVariant ;
+:text "और मूर्खता में पकड़कर गिरा दिया है?"^^xsd:string ;
+:relatedTo :Line_383 .

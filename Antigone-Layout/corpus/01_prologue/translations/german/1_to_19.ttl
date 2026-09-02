@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-german a owl:Ontology .
+# German translation variants for 1_to_19.ttl
+
+:TV_Line_1_DE a :TranslationVariant ;
+:text "O gemeinsames, leibliches Schwesterhaupt Ismenes,"^^xsd:string ;
+:relatedTo :Line_1 .
+
+:TV_Line_2_DE a :TranslationVariant ;
+:text "weißt du, welches von den Übeln aus Ödipus Zeus"^^xsd:string ;
+:relatedTo :Line_2 .
+
+:TV_Line_3_DE a :TranslationVariant ;
+:text "nicht noch an uns beiden, solange wir leben, vollendet?"^^xsd:string ;
+:relatedTo :Line_3 .
+
+:TV_Line_4_DE a :TranslationVariant ;
+:text "Denn nichts gibt es, weder Schmerzhaftes noch ohne Unheil,"^^xsd:string ;
+:relatedTo :Line_4 .
+
+:TV_Line_5_DE a :TranslationVariant ;
+:text "weder Schändliches noch Ehrloses, das ich nicht"^^xsd:string ;
+:relatedTo :Line_5 .
+
+:TV_Line_6_DE a :TranslationVariant ;
+:text "unter deinen und meinen Übeln gesehen hätte."^^xsd:string ;
+:relatedTo :Line_6 .
+
+:TV_Line_7_DE a :TranslationVariant ;
+:text "Und nun, was ist dies wiederum, von dem man sagt, der Feldherr habe"^^xsd:string ;
+:relatedTo :Line_7 .
+
+:TV_Line_8_DE a :TranslationVariant ;
+:text "soeben der ganzen Stadt als Verkündigung auferlegt?"^^xsd:string ;
+:relatedTo :Line_8 .
+
+:TV_Line_9_DE a :TranslationVariant ;
+:text "Hast du etwas, und hast du es gehört? Oder bleibt dir verborgen,"^^xsd:string ;
+:relatedTo :Line_9 .
+
+:TV_Line_10_DE a :TranslationVariant ;
+:text "dass Übel von Feinden gegen die Freunde schreiten?"^^xsd:string ;
+:relatedTo :Line_10 .
+
+:TV_Line_11_DE a :TranslationVariant ;
+:text "Zu mir ist, Antigone, keine Kunde von Freunden"^^xsd:string ;
+:relatedTo :Line_11 .
+
+:TV_Line_12_DE a :TranslationVariant ;
+:text "gekommen, weder süß noch schmerzhaft, seitdem"^^xsd:string ;
+:relatedTo :Line_12 .
+
+:TV_Line_13_DE a :TranslationVariant ;
+:text "wir zwei Schwestern zweier Brüder beraubt wurden,"^^xsd:string ;
+:relatedTo :Line_13 .
+
+:TV_Line_14_DE a :TranslationVariant ;
+:text "die an einem einzigen Tag durch doppelte Hand starben;"^^xsd:string ;
+:relatedTo :Line_14 .
+
+:TV_Line_15_DE a :TranslationVariant ;
+:text "seit aber das Heer der Argeier verschwunden ist"^^xsd:string ;
+:relatedTo :Line_15 .
+
+:TV_Line_16_DE a :TranslationVariant ;
+:text "in dieser jetzigen Nacht, weiß ich nichts Weiteres,"^^xsd:string ;
+:relatedTo :Line_16 .
+
+:TV_Line_17_DE a :TranslationVariant ;
+:text "weder dass ich glücklicher wäre noch mehr zugrunde gerichtet."^^xsd:string ;
+:relatedTo :Line_17 .
+
+:TV_Line_18_DE a :TranslationVariant ;
+:text "Das wusste ich wohl, und deshalb ließ ich dich vor die Hoftore"^^xsd:string ;
+:relatedTo :Line_18 .
+
+:TV_Line_19_DE a :TranslationVariant ;
+:text "hinausrufen, damit du allein es hörst."^^xsd:string ;
+:relatedTo :Line_19 .

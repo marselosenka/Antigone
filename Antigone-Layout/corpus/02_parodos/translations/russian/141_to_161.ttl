@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-russian a owl:Ontology .
+# Russian translation variants for 141_to_161.ttl
+
+:TV_Line_141_RU a :TranslationVariant ;
+:text "Ибо семь военачальников у семи ворот,"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_RU a :TranslationVariant ;
+:text "поставленные равные против равных, оставили"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_RU a :TranslationVariant ;
+:text "Зевсу Победителю всебронзовые дары,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_RU a :TranslationVariant ;
+:text "кроме тех двух ненавистных, которые от одного отца"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_RU a :TranslationVariant ;
+:text "и одной матери родившись, друг против друга"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_RU a :TranslationVariant ;
+:text "две властные копья подняв,"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_RU a :TranslationVariant ;
+:text "оба получили долю общей смерти."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_RU a :TranslationVariant ;
+:text "Но ведь пришла славноименная Ника,"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_RU a :TranslationVariant ;
+:text "радуясь вместе с много колесничными Фивами,"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_RU a :TranslationVariant ;
+:text "и от войн"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_RU a :TranslationVariant ;
+:text "нынешних положим забвение,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_RU a :TranslationVariant ;
+:text "а храмы богов хороводами"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_RU a :TranslationVariant ;
+:text "всенощными все обойдем,"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_RU a :TranslationVariant ;
+:text "и потрясающий Фивы"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_RU a :TranslationVariant ;
+:text "Вакх пусть ведет."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_RU a :TranslationVariant ;
+:text "Но вот, ибо это царь страны,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_RU a :TranslationVariant ;
+:text "Креонт, сын Менекея, новый"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_RU a :TranslationVariant ;
+:text "при свежих обстоятельствах, посланных богами,"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_RU a :TranslationVariant ;
+:text "идет, какую же мысль гребя,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_RU a :TranslationVariant ;
+:text "что это собрание старцев"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_RU a :TranslationVariant ;
+:text "он назначил для совещания, послав общий призыв."^^xsd:string ;
+:relatedTo :Line_161 .

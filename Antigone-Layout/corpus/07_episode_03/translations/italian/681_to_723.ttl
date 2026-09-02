@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-italian a owl:Ontology .
+# Italian translation variants for 681_to_723.ttl
+
+:TV_Line_681_IT a :TranslationVariant ;
+:text "A noi, se non siamo stati ingannati dall’età,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_IT a :TranslationVariant ;
+:text "sembra che tu parli con senno delle cose di cui parli."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_IT a :TranslationVariant ;
+:text "Padre, gli dèi fanno nascere negli uomini il senno,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_IT a :TranslationVariant ;
+:text "il più alto di tutti i beni che esistono."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_IT a :TranslationVariant ;
+:text "Ma io, che tu non dica rettamente queste cose,"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_IT a :TranslationVariant ;
+:text "non potrei né saprei dirlo."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_IT a :TranslationVariant ;
+:text "Tuttavia anche per un altro potrebbe esserci qualcosa di buono."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_IT a :TranslationVariant ;
+:text "Io dunque sono nato per osservare per te tutto ciò che"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_IT a :TranslationVariant ;
+:text "qualcuno dice, o fa, o ha da rimproverare."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_IT a :TranslationVariant ;
+:text "Il tuo sguardo infatti è terribile per l’uomo del popolo"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_IT a :TranslationVariant ;
+:text "con parole tali che tu non gioirai udendole;"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_IT a :TranslationVariant ;
+:text "ma a me è possibile ascoltare queste cose nell’ombra,"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_IT a :TranslationVariant ;
+:text "come la città piange questa fanciulla,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_IT a :TranslationVariant ;
+:text "dicendo che, fra tutte le donne, ella è la meno degna"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_IT a :TranslationVariant ;
+:text "di morire nel modo peggiore per opere gloriosissime."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_IT a :TranslationVariant ;
+:text "Lei che il proprio fratello, nato dallo stesso sangue,"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_IT a :TranslationVariant ;
+:text "caduto nelle stragi e insepolto, né da cani divoratori di carne"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_IT a :TranslationVariant ;
+:text "né da alcun uccello lasciò che fosse distrutto."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_IT a :TranslationVariant ;
+:text "Non è forse lei degna di ottenere onore d’oro?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_IT a :TranslationVariant ;
+:text "Tale voce oscura avanza in silenzio."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_IT a :TranslationVariant ;
+:text "Per me, padre, mentre tu agisci felicemente,"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_IT a :TranslationVariant ;
+:text "non c’è alcun possesso più prezioso,"^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_IT a :TranslationVariant ;
+:text "quale ornamento infatti per i figli è più grande"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_IT a :TranslationVariant ;
+:text "della buona fama del padre fiorente, o quale per il padre dai figli?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_IT a :TranslationVariant ;
+:text "Non portare dunque in te un solo carattere soltanto,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_IT a :TranslationVariant ;
+:text "che ciò che dici tu, e nient’altro, sia giusto."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_IT a :TranslationVariant ;
+:text "Chi infatti crede di essere il solo a pensare,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_IT a :TranslationVariant ;
+:text "o di avere una lingua che nessun altro ha, o un’anima,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_IT a :TranslationVariant ;
+:text "costoro, aperti, si rivelano vuoti."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_IT a :TranslationVariant ;
+:text "Ma per un uomo, anche se è sapiente, imparare"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_IT a :TranslationVariant ;
+:text "molto non è affatto vergognoso, né il non tendersi troppo."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_IT a :TranslationVariant ;
+:text "Vedi presso i torrenti invernali quante"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_IT a :TranslationVariant ;
+:text "piante cedono, e come salvano i rami,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_IT a :TranslationVariant ;
+:text "mentre quelle che resistono vengono distrutte con la radice stessa."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_IT a :TranslationVariant ;
+:text "Allo stesso modo, chi sulla nave, tendendo salda la scotta,"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_IT a :TranslationVariant ;
+:text "non cede in nulla, dopo aver rovesciato in basso"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_IT a :TranslationVariant ;
+:text "il banco rimanente, naviga con sedili capovolti."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_IT a :TranslationVariant ;
+:text "Dunque cedi, e concedi mutamento all’ira."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_IT a :TranslationVariant ;
+:text "Se infatti c’è un giudizio anche da parte mia, più giovane,"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_IT a :TranslationVariant ;
+:text "io dico che è molto preferibile"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_IT a :TranslationVariant ;
+:text "che l’uomo nasca pieno di ogni conoscenza;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_IT a :TranslationVariant ;
+:text "ma se dunque, poiché ciò suole non piegare così,"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_IT a :TranslationVariant ;
+:text "è bello imparare anche da coloro che parlano bene."^^xsd:string ;
+:relatedTo :Line_723 .

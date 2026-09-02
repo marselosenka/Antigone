@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-french a owl:Ontology .
+# French translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in canonical.
+
+:TV_Line_1278_FR a :TranslationVariant ;
+:text "Ô maître, comme quelqu’un qui possède et qui a acquis,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_FR a :TranslationVariant ;
+:text "tu sembles porter ces maux devant tes mains, et ceux de la maison,"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_FR a :TranslationVariant ;
+:text "en arrivant, tu les verras bientôt."^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_FR a :TranslationVariant ;
+:text "Qu’y a-t-il ? Y a-t-il encore un mal pire parmi les maux ?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_FR a :TranslationVariant ;
+:text "La femme est morte, mère entière de ce mort,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_FR a :TranslationVariant ;
+:text "malheureuse, tout récemment, par des plaies fraîchement coupées."^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_FR a :TranslationVariant ;
+:text "Io, io, port d’Hadès difficile à purifier,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_FR a :TranslationVariant ;
+:text "pourquoi donc, pourquoi me détruis-tu ?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_FR a :TranslationVariant ;
+:text "Ô toi qui m’as envoyé"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_FR a :TranslationVariant ;
+:text "des douleurs porteuses de mauvaises nouvelles, quelle parole cries-tu ?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_FR a :TranslationVariant ;
+:text "Aiai, un homme déjà perdu, tu l’as achevé."^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_FR a :TranslationVariant ;
+:text "Que dis-tu, enfant ? Quelle nouvelle me dis-tu,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_FR a :TranslationVariant ;
+:text "aiai, aiai,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_FR a :TranslationVariant ;
+:text "quel sacrifice sur la ruine,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_FR a :TranslationVariant ;
+:text "quel destin de femme est étendu autour de moi ?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_FR a :TranslationVariant ;
+:text "Il est possible de voir ; car elle n’est plus dans les profondeurs."^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_FR a :TranslationVariant ;
+:text "Hélas,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_FR a :TranslationVariant ;
+:text "je vois, malheureux, cet autre second mal."^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_FR a :TranslationVariant ;
+:text "Quel donc, quel destin m’attend encore ?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_FR a :TranslationVariant ;
+:text "Je tiens certes dans mes mains, tout à l’heure, mon enfant,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_FR a :TranslationVariant ;
+:text "malheureux, et je regarde devant moi l’autre mort."^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in canonical.
+
+:TV_Line_1300_FR a :TranslationVariant ;
+:text "Pheu, pheu, mère infortunée, pheu, enfant."^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_FR a :TranslationVariant ;
+:text "Elle, frappée d’un coup aigu, assise près de l’autel,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_FR a :TranslationVariant ;
+:text "détache ses paupières noires, ayant crié d’abord"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_FR a :TranslationVariant ;
+:text "sur le lit vide de Mégarée mort auparavant,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_FR a :TranslationVariant ;
+:text "puis de nouveau sur celui-ci, et enfin, contre toi,"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_FR a :TranslationVariant ;
+:text "ayant chanté de mauvaises actions à l’adresse du meurtrier de son enfant."^^xsd:string ;
+:relatedTo :Line_1305 .

@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-german a owl:Ontology .
+# German translation variants for 508_to_535.ttl
+
+:TV_Line_508_DE a :TranslationVariant ;
+:text "Du allein von diesen Kadmeiern siehst dies."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_DE a :TranslationVariant ;
+:text "Auch diese sehen es, aber vor dir verschließen sie den Mund."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_DE a :TranslationVariant ;
+:text "Schämst du dich nicht, wenn du getrennt von diesen denkst?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_DE a :TranslationVariant ;
+:text "Denn nichts ist schändlich daran, die aus gleichem Schoß zu ehren."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_DE a :TranslationVariant ;
+:text "War nicht auch der von gleichem Blut, der gegenüber starb?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_DE a :TranslationVariant ;
+:text "Von gleichem Blut, aus einer Mutter und demselben Vater."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_DE a :TranslationVariant ;
+:text "Wie ehrst du denn jenem gegenüber mit gottlosem Dank?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_DE a :TranslationVariant ;
+:text "Der gestorbene Tote wird dies nicht bezeugen."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_DE a :TranslationVariant ;
+:text "Wenn du ihn doch dem Gottlosen gleich ehrst."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_DE a :TranslationVariant ;
+:text "Denn nicht als Sklave, sondern als Bruder ging er zugrunde."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_DE a :TranslationVariant ;
+:text "Der eine verwüstete dieses Land; der andere trat zu seiner Verteidigung entgegen."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_DE a :TranslationVariant ;
+:text "Dennoch verlangt Hades diese Gesetze gleich."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_DE a :TranslationVariant ;
+:text "Doch nicht hat der Edle gleiches Los mit dem Schlechten zu erlangen."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_DE a :TranslationVariant ;
+:text "Wer weiß, ob dies unten rein ist?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_DE a :TranslationVariant ;
+:text "Der Feind ist niemals, auch wenn er stirbt, Freund."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_DE a :TranslationVariant ;
+:text "Nicht zum Mithassen, sondern zum Mitlieben bin ich geboren."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_DE a :TranslationVariant ;
+:text "Geh nun hinab, und wenn geliebt werden muss, liebe"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_DE a :TranslationVariant ;
+:text "jene; solange ich aber lebe, wird keine Frau herrschen."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_DE a :TranslationVariant ;
+:text "Und doch, vor den Toren steht diese Ismene,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_DE a :TranslationVariant ;
+:text "aus Schwesterliebe unten Tränen vergießend;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_DE a :TranslationVariant ;
+:text "und eine Wolke über den Brauen blutig"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_DE a :TranslationVariant ;
+:text "entstellt das Antlitz,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_DE a :TranslationVariant ;
+:text "die schönäugige Wange benetzend."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_DE a :TranslationVariant ;
+:text "Du aber, die du im Haus wie eine Natter verborgen"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_DE a :TranslationVariant ;
+:text "mich heimlich aussogst, und ich merkte nicht,"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_DE a :TranslationVariant ;
+:text "dass ich zwei Verderben und Aufstände gegen die Throne nährte;"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_DE a :TranslationVariant ;
+:text "komm, sag mir nun: auch du an diesem Begräbnis"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_DE a :TranslationVariant ;
+:text "wirst du sagen, Anteil zu haben, oder abschwören, es nicht gewusst zu haben?"^^xsd:string ;
+:relatedTo :Line_535 .

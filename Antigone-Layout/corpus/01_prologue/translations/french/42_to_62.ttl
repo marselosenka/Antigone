@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-french a owl:Ontology .
+# French translation variants for 42_to_62.ttl
+
+:TV_Line_042_FR a :TranslationVariant ;
+:text "Quel danger est-ce là ? Où donc va ta pensée ?"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_FR a :TranslationVariant ;
+:text "Si tu soulèveras le mort avec cette main."^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_FR a :TranslationVariant ;
+:text "Songes-tu donc à l’ensevelir, lui qui est interdit à la cité ?"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_FR a :TranslationVariant ;
+:text "Oui, mon frère du moins, et le tien, si tu ne veux pas,"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_FR a :TranslationVariant ;
+:text "mon frère; car on ne me prendra pas à le trahir."^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_FR a :TranslationVariant ;
+:text "Ô téméraire, alors que Créon l’a défendu ?"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_FR a :TranslationVariant ;
+:text "Mais il n’a nul droit de m’écarter de ce qui est à moi."^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_FR a :TranslationVariant ;
+:text "Hélas, réfléchis, sœur, comme notre père"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_FR a :TranslationVariant ;
+:text "périt haï et sans gloire pour nous deux,"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_FR a :TranslationVariant ;
+:text "après des fautes découvertes par lui-même, ses deux"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_FR a :TranslationVariant ;
+:text "yeux frappés par lui de sa propre main;"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_FR a :TranslationVariant ;
+:text "puis sa mère et femme, double nom,"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_FR a :TranslationVariant ;
+:text "outrage sa vie par des nœuds tressés;"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_FR a :TranslationVariant ;
+:text "en troisième lieu, deux frères, en un seul jour,"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_FR a :TranslationVariant ;
+:text "se tuant eux-mêmes, les deux malheureux,"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_FR a :TranslationVariant ;
+:text "ont accompli un destin commun par leurs mains réciproques."^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_FR a :TranslationVariant ;
+:text "Maintenant encore, regarde-nous deux, seules laissées,"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_FR a :TranslationVariant ;
+:text "combien plus misérablement nous périrons, si par violence contre la loi"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_FR a :TranslationVariant ;
+:text "nous transgressons le décret ou le pouvoir des tyrans."^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_FR a :TranslationVariant ;
+:text "Il faut d’abord considérer ceci: nous sommes nées femmes,"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_FR a :TranslationVariant ;
+:text "non faites pour combattre contre des hommes;"^^xsd:string ;
+:relatedTo :Line_062 .

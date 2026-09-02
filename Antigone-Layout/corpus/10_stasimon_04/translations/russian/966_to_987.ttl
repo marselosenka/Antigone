@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-russian a owl:Ontology .
+# Russian translation variants for 966_to_987.ttl
+
+:TV_Line_966_RU a :TranslationVariant ;
+:text "А у темно-синих скал двойного моря"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_RU a :TranslationVariant ;
+:text "берега Боспорские и фракийский берег,"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Line 968 and 969 do not exist in Antigone
+
+:TV_Line_970_RU a :TranslationVariant ;
+:text "Салмидесс, где близ города Арес"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_RU a :TranslationVariant ;
+:text "для двух сыновей Финея"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_RU a :TranslationVariant ;
+:text "увидел проклятую рану,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_RU a :TranslationVariant ;
+:text "ослепленную дикой женой,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_RU a :TranslationVariant ;
+:text "слепую в мстительных кругах глаз,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_RU a :TranslationVariant ;
+:text "разбитых кровавыми"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_RU a :TranslationVariant ;
+:text "руками и остриями челноков."^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_RU a :TranslationVariant ;
+:text "И, тая, несчастные оплакивали несчастную участь,"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Line 978 and 979 do not exist in Antigone
+
+:TV_Line_980_RU a :TranslationVariant ;
+:text "имея рождение от матери без брака;"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_RU a :TranslationVariant ;
+:text "а она была семенем"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_RU a :TranslationVariant ;
+:text "древнерожденных Эрехтеидов,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_RU a :TranslationVariant ;
+:text "и в дальних пещерах"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_RU a :TranslationVariant ;
+:text "была вскормлена в отцовских бурях,"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_RU a :TranslationVariant ;
+:text "дочь Борея, бегущая с конями над крутым утесом,"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_RU a :TranslationVariant ;
+:text "дитя богов; но и над ней"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_RU a :TranslationVariant ;
+:text "долговечные Мойры возобладали, о дитя."^^xsd:string ;
+:relatedTo :Line_987 .

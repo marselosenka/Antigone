@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-german a owl:Ontology .
+# German translation variants for 211_to_222.ttl
+
+:TV_Line_211_DE a :TranslationVariant ;
+:text "Dir gefällt es, Sohn des Menoikeus, so zu handeln"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_DE a :TranslationVariant ;
+:text "gegen den dieser Stadt Feindlichen und den der Stadt Wohlgesinnten;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_DE a :TranslationVariant ;
+:text "jedes Gesetz zu gebrauchen, das steht dir zu,"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_DE a :TranslationVariant ;
+:text "über die Toten und über uns, die wir leben."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_DE a :TranslationVariant ;
+:text "Damit ihr nun Wächter dessen seid, was gesagt wurde."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_DE a :TranslationVariant ;
+:text "Gib dies einem Jüngeren zu tragen auf."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_DE a :TranslationVariant ;
+:text "Aber es gibt schon bereite Aufseher für den Toten."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_DE a :TranslationVariant ;
+:text "Was anderes würdest du denn noch dazu befehlen?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_DE a :TranslationVariant ;
+:text "Denjenigen nicht nachzugeben, die diesen Befehlen misstrauen."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_DE a :TranslationVariant ;
+:text "Es gibt keinen, der so töricht ist, dass er zu sterben liebt."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_DE a :TranslationVariant ;
+:text "Und doch ist dies der Lohn; aber durch Hoffnungen"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_DE a :TranslationVariant ;
+:text "hat Gewinn Männer oft zugrunde gerichtet."^^xsd:string ;
+:relatedTo :Line_222 .

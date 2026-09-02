@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-hindi a owl:Ontology .
+# Hindi translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_HI a :TranslationVariant ;
+:text "कद्मुस और अम्फियोन के घरों के पड़ोसियो,"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_HI a :TranslationVariant ;
+:text "मनुष्य के जीवन की कोई ऐसी स्थिर दशा नहीं है जिसे देखकर मैं"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_HI a :TranslationVariant ;
+:text "कभी न तो पूरी प्रशंसा कर सकूँ, न दोष दे सकूँ।"^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_HI a :TranslationVariant ;
+:text "क्योंकि भाग्य उठाता है और भाग्य गिरा देता है"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_HI a :TranslationVariant ;
+:text "सदा सुखी मनुष्य को भी और दुखी को भी;"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_HI a :TranslationVariant ;
+:text "और नश्वर जनों के ठहरे हुए भाग्य का कोई भविष्यवक्ता नहीं।"^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_HI a :TranslationVariant ;
+:text "क्योंकि क्रेओन कभी, मेरी दृष्टि में, ईर्ष्यायोग्य था,"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_HI a :TranslationVariant ;
+:text "जब उसने इस कद्मेयी भूमि को शत्रुओं से बचाया,"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_HI a :TranslationVariant ;
+:text "और देश की पूर्ण एकाधिपत्य सत्ता लेकर"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_HI a :TranslationVariant ;
+:text "उसे चलाता था, कुलीन संतानों की वंश-समृद्धि से फलता हुआ;"^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_HI a :TranslationVariant ;
+:text "और अब सब कुछ छूट गया है। क्योंकि जब मनुष्य"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_HI a :TranslationVariant ;
+:text "अपने आनंदों को गँवा देते हैं, तब मैं ऐसे मनुष्य को"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_HI a :TranslationVariant ;
+:text "जीवित नहीं मानता, बल्कि उसे प्राणयुक्त शव समझता हूँ।"^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_HI a :TranslationVariant ;
+:text "वह घर में बहुत धनी हो, यदि तू चाहे,"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_HI a :TranslationVariant ;
+:text "और राजसी रूप धारण कर जीए; पर यदि"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_HI a :TranslationVariant ;
+:text "इन बातों का आनंद अनुपस्थित हो, तो बाकी सब मैं धुएँ की छाया के"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_HI a :TranslationVariant ;
+:text "मूल्य पर भी किसी मनुष्य के लिए आनंद के सामने न खरीदूँ।"^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_HI a :TranslationVariant ;
+:text "राजाओं का यह कौन-सा दुःख-भार लेकर तुम आए हो?"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_HI a :TranslationVariant ;
+:text "वे मर चुके हैं; और जीवित लोग उनके मरने के दोषी हैं।"^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_HI a :TranslationVariant ;
+:text "किसने मारा? कौन पड़ा है? कहो।"^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_HI a :TranslationVariant ;
+:text "हैमन नष्ट हो गया; अपने ही हाथ से रक्त बहाया है।"^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_HI a :TranslationVariant ;
+:text "क्या पिता के हाथ से या अपने ही हाथ से?"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_HI a :TranslationVariant ;
+:text "अपने ही हाथ से, हत्या के कारण पिता पर क्रुद्ध होकर।"^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_HI a :TranslationVariant ;
+:text "हे भविष्यवक्ता, तेरे वचन को तूने कितना सही पूरा किया।"^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_HI a :TranslationVariant ;
+:text "जब बातें ऐसी हैं, तब आगे की बातों पर विचार करना शेष है।"^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_HI a :TranslationVariant ;
+:text "और सचमुच मैं अभागी यूरिदिके को पास ही देखता हूँ,"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_HI a :TranslationVariant ;
+:text "क्रेओन की पत्नी को। वह घर से आती है,"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_HI a :TranslationVariant ;
+:text "या तो पुत्र की बात सुनकर, या संयोग से।"^^xsd:string ;
+:relatedTo :Line_1182 .

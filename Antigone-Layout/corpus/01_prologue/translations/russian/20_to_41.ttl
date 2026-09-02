@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-russian a owl:Ontology .
+# Russian translation variants for 20_to_41.ttl
+
+:TV_Line_020_RU a :TranslationVariant ;
+:text "Что же это? Ведь ты явно темнишь каким-то словом."^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_RU a :TranslationVariant ;
+:text "Разве не в отношении могилы двух наших братьев Креонт"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_RU a :TranslationVariant ;
+:text "одного почтил, а другого держит в бесчестии?"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_RU a :TranslationVariant ;
+:text "Этеокла, как говорят, поступив по правде"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_RU a :TranslationVariant ;
+:text "справедливой и по закону, под землей"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_RU a :TranslationVariant ;
+:text "он скрыл, почетного для мертвых внизу,"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_RU a :TranslationVariant ;
+:text "а несчастно умерший труп Полиника"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_RU a :TranslationVariant ;
+:text "гражданам, говорят, объявлено указом:"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_RU a :TranslationVariant ;
+:text "никому не покрывать его могилой и не оплакивать,"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_RU a :TranslationVariant ;
+:text "но оставить неоплаканным, непогребенным, сладким для птиц"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_RU a :TranslationVariant ;
+:text "сокровищем, чтобы они смотрели на него ради наслаждения пищей."^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_RU a :TranslationVariant ;
+:text "Такое, говорят, благородный Креонт тебе"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_RU a :TranslationVariant ;
+:text "и мне, ибо говорю — и мне, провозгласил,"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_RU a :TranslationVariant ;
+:text "и сюда идет, чтобы тем, кто не знает этого,"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_RU a :TranslationVariant ;
+:text "ясно объявить заранее; и он ведет это дело"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_RU a :TranslationVariant ;
+:text "не как ничтожное, но тому, кто что-нибудь из этого сделает,"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_RU a :TranslationVariant ;
+:text "предстоит смерть от побивания камнями народом в городе."^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_RU a :TranslationVariant ;
+:text "Таковы для тебя эти дела, и скоро ты покажешь,"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_RU a :TranslationVariant ;
+:text "родилась ли ты благородной или дурной от благородных."^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_RU a :TranslationVariant ;
+:text "Что же, несчастная, если это так, я,"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_RU a :TranslationVariant ;
+:text "развязывая или связывая, что могла бы прибавить?"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_RU a :TranslationVariant ;
+:text "Смотри, станешь ли ты трудиться вместе и действовать вместе."^^xsd:string ;
+:relatedTo :Line_041 .

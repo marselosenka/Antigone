@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-korean a owl:Ontology .
+# Korean translation variants for 366_to_383.ttl
+
+:TV_Line_366_KO a :TranslationVariant ;
+:text "때로는 악으로, 또 때로는 선으로 나아간다,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_KO a :TranslationVariant ;
+:text "땅의 법들과 신들의 맹세된 정의를 존중하면서."^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Lines 368 and 369 do not exist in Antigone
+
+:TV_Line_370_KO a :TranslationVariant ;
+:text "도시에서 높다. 그러나 아름답지 않은 것이"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_KO a :TranslationVariant ;
+:text "대담함 때문에 함께 있는 자는 도시 없는 자다. 내 화로 곁에"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Lines 372, 373 and 374 do not exist in Antigone
+
+:TV_Line_375_KO a :TranslationVariant ;
+:text "그런 일을 행하는 자가 오지도, 나와 같은 생각을 하지도 말라."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_KO a :TranslationVariant ;
+:text "이 신적인 괴이한 징조에 대해 나는 양쪽으로 마음이 흔들린다."^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_KO a :TranslationVariant ;
+:text "이것을 알고서, 어떻게 반박하겠는가,"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_KO a :TranslationVariant ;
+:text "이 아이가 안티고네가 아니라고."^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_KO a :TranslationVariant ;
+:text "오 불행한 여인이여,"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_KO a :TranslationVariant ;
+:text "불행한 아버지 오이디푸스의 자식이여,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_KO a :TranslationVariant ;
+:text "도대체 무슨 일인가? 설마 너를, 왕의"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_KO a :TranslationVariant ;
+:text "법들을 믿지 않는 자로 데려오는 것은 아니겠지,"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_KO a :TranslationVariant ;
+:text "그리고 어리석음 속에서 붙잡아."^^xsd:string ;
+:relatedTo :Line_383 .

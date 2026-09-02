@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-arabic a owl:Ontology .
+# Arabic translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_AR a :TranslationVariant ;
+:text "آه آه، آه آه،"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_AR a :TranslationVariant ;
+:text "لقد ارتعدت خوفًا. لماذا لم يضربني أحد"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_AR a :TranslationVariant ;
+:text "مواجهةً بسيف ذي حدين؟"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in Antigone
+
+:TV_Line_1310_AR a :TranslationVariant ;
+:text "أنا شقي، آه آه،"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_AR a :TranslationVariant ;
+:text "وقد امتزجت بشقاء شقي."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_AR a :TranslationVariant ;
+:text "إذ تحمل حقًا سبب هذه الأمور وتلك أيضًا،"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_AR a :TranslationVariant ;
+:text "اتهمتك هذه الميتة عند موتها."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_AR a :TranslationVariant ;
+:text "وبأي طريقة تحررت في الدماء؟"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_AR a :TranslationVariant ;
+:text "ضربت نفسها بيدها تحت الكبد،"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_AR a :TranslationVariant ;
+:text "حين علمت بهذا العذاب الحاد النواح لابنها."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_AR a :TranslationVariant ;
+:text "وا أسفاه لي، هذه الأمور لن تلائم أبدًا"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_AR a :TranslationVariant ;
+:text "أيًّا من البشر بسبب غير سببي أنا."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_AR a :TranslationVariant ;
+:text "فأنا، أنا قتلتك، أيها المسكين،"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_AR a :TranslationVariant ;
+:text "أنا، أقول الحق. آه يا خدم،"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_AR a :TranslationVariant ;
+:text "خذوني بأقصى سرعة، قودوني بعيدًا عن الطريق،"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Line 1322, 1323 and 1324 do not exist in Antigone
+
+:TV_Line_1325_AR a :TranslationVariant ;
+:text "أنا الذي هو أقرب إلى العدم من لا أحد."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_AR a :TranslationVariant ;
+:text "تنصح بما فيه نفع، إن كان في الشرور نفع؛"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_AR a :TranslationVariant ;
+:text "فأقصر الشرور الحاضرة أفضلها."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_AR a :TranslationVariant ;
+:text "ليأتِ، ليأتِ،"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_AR a :TranslationVariant ;
+:text "وليظهر أجمل أقداري"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_AR a :TranslationVariant ;
+:text "جالبًا لي اليوم الختامي،"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_AR a :TranslationVariant ;
+:text "الأقصى؛ ليأتِ، ليأتِ،"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_AR a :TranslationVariant ;
+:text "حتى لا أرى يومًا آخر بعد."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in Antigone
+
+:TV_Line_1334_AR a :TranslationVariant ;
+:text "هذه أمور مقبلة. أما ما هو موضوع أمامنا،"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_AR a :TranslationVariant ;
+:text "فينبغي أن يُفعل شيء؛ فالاهتمام بها لمن يجب أن يهتم."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_AR a :TranslationVariant ;
+:text "لكنني دعوتُ أيضًا من أجل ما أتكلم به."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_AR a :TranslationVariant ;
+:text "لا تدعُ الآن بشيء؛ إذ من المصيبة المقدرة"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_AR a :TranslationVariant ;
+:text "لا خلاص للبشر."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_AR a :TranslationVariant ;
+:text "قودوا رجلًا باطلًا بعيدًا عن الطريق،"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_AR a :TranslationVariant ;
+:text "ذاك الذي، يا بني، قتلك لا طوعًا،"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_AR a :TranslationVariant ;
+:text "وقتلك أنت أيضًا، هذه المرأة. واحسرتاه، يا لشقائي، ولا أملك"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_AR a :TranslationVariant ;
+:text "نحو أيهما أنظر، وإلى أين أميل؛ فكل شيء"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Line 1343 and 1344 do not exist in Antigone
+
+:TV_Line_1345_AR a :TranslationVariant ;
+:text "معوجّ في يديّ، وعلى رأسي"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_AR a :TranslationVariant ;
+:text "اندفع قدر عسير الحمل."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_AR a :TranslationVariant ;
+:text "إن التعقل، بفارق كبير،"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_AR a :TranslationVariant ;
+:text "هو أول ما يقوم عليه حسن السعادة؛ وينبغي في ما يخص الآلهة"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in Antigone
+
+:TV_Line_1350_AR a :TranslationVariant ;
+:text "ألا يكون المرء غير تقي في شيء؛ أما الكلمات العظيمة"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_AR a :TranslationVariant ;
+:text "للمفرطين في الكبرياء، إذ تدفع ضربات عظيمة،"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_AR a :TranslationVariant ;
+:text "فإنها،"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_AR a :TranslationVariant ;
+:text "في الشيخوخة، علّمت التعقل."^^xsd:string ;
+:relatedTo :Line_1353 .

@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-japanese a owl:Ontology .
+# Japanese translation variants for 20_to_41.ttl
+
+:TV_Line_020_JA a :TranslationVariant ;
+:text "それは何なのか。あなたは何か黒く波立つ言葉を示しているから。"^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_JA a :TranslationVariant ;
+:text "クレオンは、私たち二人の兄弟のうち一人には"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_JA a :TranslationVariant ;
+:text "墓をもって敬い、もう一人には不名誉を与えていないのか。"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_JA a :TranslationVariant ;
+:text "エテオクレスは、言われるところでは、正義に従い、"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_JA a :TranslationVariant ;
+:text "正しい慣わしと法を用いて、地の下へ"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_JA a :TranslationVariant ;
+:text "隠し、下なる死者たちの間で名誉ある者とした。"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_JA a :TranslationVariant ;
+:text "しかし悲惨に死んだポリュネイケスの屍については、"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_JA a :TranslationVariant ;
+:text "市民たちに対して布告されたと言われる、誰も"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_JA a :TranslationVariant ;
+:text "墓で覆ってはならず、嘆き悲しんでもならないと。"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_JA a :TranslationVariant ;
+:text "泣かれず、葬られず、鳥たちにとって甘い"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_JA a :TranslationVariant ;
+:text "餌の喜びとして見つめる宝として放置せよと。"^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_JA a :TranslationVariant ;
+:text "このようなことを、立派なクレオンがあなたに、"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_JA a :TranslationVariant ;
+:text "そして私にも、私は私にもと言うが、布告していると言われる。"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_JA a :TranslationVariant ;
+:text "そしてここへ来て、これを知らぬ者たちに"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_JA a :TranslationVariant ;
+:text "明白に前もって告げるのだという。そしてこの事を"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_JA a :TranslationVariant ;
+:text "取るに足らぬものとしてではなく、これらの何かを行う者には"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_JA a :TranslationVariant ;
+:text "町の中で民衆の石打ちによる死が定められているものとして扱うのだ。"^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_JA a :TranslationVariant ;
+:text "あなたにとって事はこのようであり、あなたはすぐに示すだろう、"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_JA a :TranslationVariant ;
+:text "あなたが高貴に生まれたのか、それとも善き者たちから生まれた悪しき者なのか。"^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_JA a :TranslationVariant ;
+:text "だが、哀れな人よ、もし事がこのような中にあるなら、私が"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_JA a :TranslationVariant ;
+:text "解くにしても結ぶにしても、何をさらに加えられようか。"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_JA a :TranslationVariant ;
+:text "あなたが共に苦しみ、共に働くかどうか考えなさい。"^^xsd:string ;
+:relatedTo :Line_041 .

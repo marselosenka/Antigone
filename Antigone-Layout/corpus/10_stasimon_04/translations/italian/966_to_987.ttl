@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-italian a owl:Ontology .
+# Italian translation variants for 966_to_987.ttl
+
+:TV_Line_966_IT a :TranslationVariant ;
+:text "Presso le rupi azzurre del duplice mare"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_IT a :TranslationVariant ;
+:text "le coste bosporie e la riva dei Traci,"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Lines 968 and 969 do not exist in canonical.
+
+:TV_Line_970_IT a :TranslationVariant ;
+:text "Salmydessos, dove Ares vicino alla città"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_IT a :TranslationVariant ;
+:text "per i due figli di Fineo"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_IT a :TranslationVariant ;
+:text "vide la ferita maledetta,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_IT a :TranslationVariant ;
+:text "accecata da una moglie selvaggia,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_IT a :TranslationVariant ;
+:text "cieca nei cerchi vendicativi degli occhi,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_IT a :TranslationVariant ;
+:text "percossi sotto mani sanguinose"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_IT a :TranslationVariant ;
+:text "e con le punte delle spole."^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_IT a :TranslationVariant ;
+:text "E consumandosi, miseri, la misera sorte"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Lines 978 and 979 do not exist in canonical.
+
+:TV_Line_980_IT a :TranslationVariant ;
+:text "piangevano, avendo dalla madre una nascita senza nozze;"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_IT a :TranslationVariant ;
+:text "ella, stirpe degli antichi"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_IT a :TranslationVariant ;
+:text "Eretteidi,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_IT a :TranslationVariant ;
+:text "in grotte remote"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_IT a :TranslationVariant ;
+:text "fu allevata tra le tempeste paterne,"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_IT a :TranslationVariant ;
+:text "Borea, compagno di cavalli, sopra la rupe dal piede diritto,"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_IT a :TranslationVariant ;
+:text "figlia degli dèi; ma anche su di lei"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_IT a :TranslationVariant ;
+:text "le Moire longeve ebbero presa, o figlia."^^xsd:string ;
+:relatedTo :Line_987 .

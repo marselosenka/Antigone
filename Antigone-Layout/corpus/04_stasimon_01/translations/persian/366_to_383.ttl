@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-persian a owl:Ontology .
+# Persian translation variants for 366_to_383.ttl
+
+:TV_Line_366_FA a :TranslationVariant ;
+:text "گاه به سوی بدی، و گاه دیگر به سوی نیکی می‌خزد،"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_FA a :TranslationVariant ;
+:text "اگر قانون‌های زمین و عدالت سوگندخورده خدایان را گرامی دارد،"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Lines 368 and 369 do not exist in Antigone
+
+:TV_Line_370_FA a :TranslationVariant ;
+:text "در شهر بلندمرتبه است؛ اما بی‌شهر است آن‌که نازیبا"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_FA a :TranslationVariant ;
+:text "به خاطر جسارت با او هم‌خانه است. نه کنار آتشدان من"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Lines 372, 373 and 374 do not exist in Antigone
+
+:TV_Line_375_FA a :TranslationVariant ;
+:text "باشد، و نه هم‌رأی من باشد، کسی که این کارها را می‌کند."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_FA a :TranslationVariant ;
+:text "در برابر این شگفتیِ الهی دو دل می‌اندیشم،"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_FA a :TranslationVariant ;
+:text "این را؛ چگونه، چون می‌دانم، مخالفت کنم"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_FA a :TranslationVariant ;
+:text "که این دختر آنتیگونه نیست؟"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_FA a :TranslationVariant ;
+:text "ای تیره‌بخت،"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_FA a :TranslationVariant ;
+:text "و فرزند پدری تیره‌بخت، اودیپوس،"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_FA a :TranslationVariant ;
+:text "چه شده است؟ مگر نه این است که تو را، به سبب بی‌اعتمادی"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_FA a :TranslationVariant ;
+:text "به قانون‌های شاهانه، می‌آورند،"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_FA a :TranslationVariant ;
+:text "و در بی‌خردی گرفتار کرده‌اند؟"^^xsd:string ;
+:relatedTo :Line_383 .

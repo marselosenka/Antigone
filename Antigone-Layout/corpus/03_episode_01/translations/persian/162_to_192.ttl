@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-persian a owl:Ontology .
+# Persian translation variants for 162_to_192.ttl
+
+:TV_Line_162_FA a :TranslationVariant ;
+:text "مردان، کارهای شهر را خدایان، پس از آن‌که"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_FA a :TranslationVariant ;
+:text "با تلاطمی بسیار لرزاندند، دوباره استوار برپا کردند؛"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_FA a :TranslationVariant ;
+:text "و من از میان همه، شما را جداگانه با فرستادگان"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_FA a :TranslationVariant ;
+:text "فرستادم تا بیایید، از یک سو چون خوب می‌دانستم که شما"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_FA a :TranslationVariant ;
+:text "همیشه قدرت تخت‌های لائیوس را گرامی می‌داشتید،"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_FA a :TranslationVariant ;
+:text "و از سوی دیگر، هنگامی که اودیپوس شهر را راست برپا می‌داشت،"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_FA a :TranslationVariant ;
+:text "و پس از آن‌که او نابود شد، همچنان پیرامون فرزندان آنان"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_FA a :TranslationVariant ;
+:text "با اندیشه‌هایی پایدار باقی ماندید."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_FA a :TranslationVariant ;
+:text "پس چون آنان در برابر بختی دوگانه، در یک"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_FA a :TranslationVariant ;
+:text "روز نابود شدند، هم ضربه زدند و هم"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_FA a :TranslationVariant ;
+:text "ضربه خوردند، با آلودگیِ دستِ خویش،"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_FA a :TranslationVariant ;
+:text "اکنون من همه قدرت‌ها و تخت‌ها را در دست دارم،"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_FA a :TranslationVariant ;
+:text "به سبب نزدیکی خویشاوندی با خاندان نابودشدگان."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_FA a :TranslationVariant ;
+:text "اما شناختن جان و اندیشه و رأی هر مردی"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_FA a :TranslationVariant ;
+:text "ناممکن است، پیش از آن‌که"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_FA a :TranslationVariant ;
+:text "در فرمانروایی‌ها و قانون‌ها آزموده و آشکار شود."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_FA a :TranslationVariant ;
+:text "زیرا نزد من، هر کس که همه شهر را راست می‌راند"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_FA a :TranslationVariant ;
+:text "و به بهترین رایزنی‌ها دست نمی‌زند،"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_FA a :TranslationVariant ;
+:text "بلکه از ترسی زبان خود را بسته نگاه می‌دارد،"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_FA a :TranslationVariant ;
+:text "هم اکنون و هم از دیرگاه، بدترین کس به نظر می‌آید؛"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_FA a :TranslationVariant ;
+:text "و هر کس دوستی را بزرگ‌تر از میهن خود"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_FA a :TranslationVariant ;
+:text "بشمارد، او را هیچ‌جا به حساب نمی‌آورم."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_FA a :TranslationVariant ;
+:text "زیرا من، زئوس که همیشه همه چیز را می‌بیند بداند،"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_FA a :TranslationVariant ;
+:text "هرگز خاموش نمی‌ماندم اگر تباهی را می‌دیدم"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_FA a :TranslationVariant ;
+:text "که به جای رستگاری به سوی شهروندان می‌آید،"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_FA a :TranslationVariant ;
+:text "و هرگز مردی را که دشمن این خاک باشد،"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_FA a :TranslationVariant ;
+:text "دوست خود نمی‌گرفتم، چون این را می‌دانم که"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_FA a :TranslationVariant ;
+:text "این شهر است که ما را نجات می‌دهد، و بر آن است"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_FA a :TranslationVariant ;
+:text "که چون درست می‌رانیم، دوستان خود را به دست می‌آوریم."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_FA a :TranslationVariant ;
+:text "با چنین قانون‌هایی من این شهر را بزرگ خواهم کرد."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_FA a :TranslationVariant ;
+:text "و اکنون فرمان‌هایی هم‌خانواده با اینها صادر کرده‌ام"^^xsd:string ;
+:relatedTo :Line_192 .

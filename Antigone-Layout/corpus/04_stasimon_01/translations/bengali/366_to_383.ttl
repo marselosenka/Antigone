@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-bengali a owl:Ontology .
+# Bengali translation variants for 366_to_383.ttl
+
+:TV_Line_366_BN a :TranslationVariant ;
+:text "কখনও সে মন্দের দিকে, আবার কখনও সৎ জিনিসের দিকে চলে,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_BN a :TranslationVariant ;
+:text "ভূমির আইন ও দেবতাদের শপথবদ্ধ ন্যায়কে সম্মান করলে,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Line 368 and 369 do not exist in Antigone
+
+:TV_Line_370_BN a :TranslationVariant ;
+:text "সে নগরে উচ্চ; কিন্তু নগরহীন সে, যার সঙ্গে অসুন্দর জিনিস"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_BN a :TranslationVariant ;
+:text "দুঃসাহসের জন্য সহবাস করে। এমন জন যেন আমার অগ্নিকুণ্ডে না থাকে,"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Line 372, 373 and 374 do not exist in Antigone
+
+:TV_Line_375_BN a :TranslationVariant ;
+:text "আর আমার মতো চিন্তা না করুক, যে এসব করে।"^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_BN a :TranslationVariant ;
+:text "এই দেবীয় বিস্ময়ের সামনে আমি দুই মনে পড়ছি;"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_BN a :TranslationVariant ;
+:text "একে জেনে কী করে আমি বিরোধ করে বলব"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_BN a :TranslationVariant ;
+:text "যে এই মেয়েটি আন্তিগোনে নয়?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_BN a :TranslationVariant ;
+:text "হে দুর্ভাগিনী,"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_BN a :TranslationVariant ;
+:text "আর দুর্ভাগা পিতা ঐদিপাসের কন্যা,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_BN a :TranslationVariant ;
+:text "এ কী? নিশ্চয়ই তোমাকে রাজকীয় আইন"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_BN a :TranslationVariant ;
+:text "অমান্য করার জন্য নিয়ে আসছে না,"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_BN a :TranslationVariant ;
+:text "আর নির্বুদ্ধিতায় ধরে ফেলেছে?"^^xsd:string ;
+:relatedTo :Line_383 .

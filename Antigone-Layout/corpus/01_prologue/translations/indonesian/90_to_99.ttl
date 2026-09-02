@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-indonesian a owl:Ontology .
+# Indonesian translation variants for 90_to_99.ttl
+
+:TV_Line_090_ID a :TranslationVariant ;
+:text "Jika memang engkau sanggup; tetapi engkau mencintai hal-hal mustahil."^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_ID a :TranslationVariant ;
+:text "Maka, ketika aku tidak lagi kuat, aku akan berhenti."^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_ID a :TranslationVariant ;
+:text "Sejak awal tidak patut memburu hal-hal mustahil."^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_ID a :TranslationVariant ;
+:text "Jika kau mengatakan hal-hal itu, engkau akan dibenci olehku,"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_ID a :TranslationVariant ;
+:text "dan dengan adil engkau akan terbaring sebagai musuh bagi orang mati itu."^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_ID a :TranslationVariant ;
+:text "Tetapi biarkan aku dan kebodohan yang berasal dariku"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_ID a :TranslationVariant ;
+:text "menderita hal mengerikan ini; sebab aku tidak akan menderita"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_ID a :TranslationVariant ;
+:text "apa pun yang begitu besar sehingga aku tidak mati dengan indah."^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_ID a :TranslationVariant ;
+:text "Tetapi, jika demikian tampak baik bagimu, pergilah; namun ketahuilah ini:"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_ID a :TranslationVariant ;
+:text "engkau pergi tanpa akal, tetapi bagi orang-orang tercinta engkau benar-benar tercinta."^^xsd:string ;
+:relatedTo :Line_099 .

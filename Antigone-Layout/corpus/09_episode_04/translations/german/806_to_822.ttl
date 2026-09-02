@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-german a owl:Ontology .
+# German translation variants for 806_to_822.ttl
+
+:TV_Line_806_DE a :TranslationVariant ;
+:text "Seht mich, Bürger der väterlichen Erde, den letzten Weg"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_DE a :TranslationVariant ;
+:text "schreiten und das letzte Licht der Sonne schauen,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Lines 808 and 809 are commented out in canonical.
+
+:TV_Line_810_DE a :TranslationVariant ;
+:text "und niemals wieder; sondern der allbettende Hades führt mich lebend"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_DE a :TranslationVariant ;
+:text "an die Küste"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_DE a :TranslationVariant ;
+:text "des Acheron, ohne Anteil an Brautliedern, auch nicht bei Hochzeiten"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Lines 813 and 814 are commented out in canonical.
+
+:TV_Line_815_DE a :TranslationVariant ;
+:text "hat je ein Lied mich besungen, sondern dem Acheron werde ich vermählt."^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 is commented out in canonical.
+
+:TV_Line_817_DE a :TranslationVariant ;
+:text "Also berühmt und Lob habend"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_DE a :TranslationVariant ;
+:text "gehst du in diese Höhlung der Toten fort,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_DE a :TranslationVariant ;
+:text "weder von hinschwindenden Krankheiten geschlagen"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_DE a :TranslationVariant ;
+:text "noch das Handwerk der Schwerter als Los empfangend,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_DE a :TranslationVariant ;
+:text "sondern selbstgesetzlich, lebend, allein ja"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_DE a :TranslationVariant ;
+:text "von den Sterblichen wirst du zum Hades hinabsteigen."^^xsd:string ;
+:relatedTo :Line_822 .

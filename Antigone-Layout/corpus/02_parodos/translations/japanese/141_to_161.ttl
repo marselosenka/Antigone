@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-japanese a owl:Ontology .
+# Japanese translation variants for 141_to_161.ttl
+
+:TV_Line_141_JA a :TranslationVariant ;
+:text "七人の隊長が七つの門に向かって、"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_JA a :TranslationVariant ;
+:text "等しい者たちに対して等しく配置され、残していった、"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_JA a :TranslationVariant ;
+:text "勝利のゼウスへ、全て青銅の供物を。"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_JA a :TranslationVariant ;
+:text "ただし、あの忌まわしい二人は別だ。一人の父と"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_JA a :TranslationVariant ;
+:text "一人の母から生まれ、自分たち同士に対して"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_JA a :TranslationVariant ;
+:text "二つの力ある槍を立て、"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_JA a :TranslationVariant ;
+:text "共通の死の分け前を二人とも得た。"^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_JA a :TranslationVariant ;
+:text "しかし、名高いニケーが来た、"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_JA a :TranslationVariant ;
+:text "多くの戦車を持つテーバイと喜びを共にして。"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_JA a :TranslationVariant ;
+:text "だから今の戦いからは、"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_JA a :TranslationVariant ;
+:text "忘却を置くことにしよう。"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_JA a :TranslationVariant ;
+:text "そして神々の神殿すべてへ、合唱舞踏をもって"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_JA a :TranslationVariant ;
+:text "夜通し、私たちは皆で行こう。"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_JA a :TranslationVariant ;
+:text "テーバイを揺り動かす"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_JA a :TranslationVariant ;
+:text "バッキオスが先導せよ。"^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_JA a :TranslationVariant ;
+:text "だが、ここにこの国の王が、"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_JA a :TranslationVariant ;
+:text "メノイケウスの子クレオンが、新たに現れた者として、"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_JA a :TranslationVariant ;
+:text "神々の新しい出来事に応じて"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_JA a :TranslationVariant ;
+:text "進んで来る。いったいどのような策を漕ぎ動かしながら、"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_JA a :TranslationVariant ;
+:text "この召集された長老たちの"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_JA a :TranslationVariant ;
+:text "集まりを設けたのか、共通の布告を送って。"^^xsd:string ;
+:relatedTo :Line_161 .

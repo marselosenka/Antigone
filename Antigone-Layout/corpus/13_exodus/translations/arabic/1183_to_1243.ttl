@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-arabic a owl:Ontology .
+# Arabic translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_AR a :TranslationVariant ;
+:text "يا جميع المواطنين، لقد أدركتُ فحوى الكلام"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_AR a :TranslationVariant ;
+:text "وأنا أمضي إلى الخروج، نحو الإلهة بالاس،"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_AR a :TranslationVariant ;
+:text "لكي أصل إليها مخاطِبةً بالصلوات."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_AR a :TranslationVariant ;
+:text "وحدث أنني كنت أرخي مزاليج البوابة"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_AR a :TranslationVariant ;
+:text "المجذوبة، فإذا صوت شرّ منزلي"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_AR a :TranslationVariant ;
+:text "يصدم أذنيّ؛ فانحنيت إلى الخلف"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_AR a :TranslationVariant ;
+:text "من الخوف بين الخادمات، وذهلت."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_AR a :TranslationVariant ;
+:text "لكن قولوا مرة أخرى أي قصة كانت؛"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_AR a :TranslationVariant ;
+:text "فأنا، ولست بلا خبرة بالشرور، سأسمع."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_AR a :TranslationVariant ;
+:text "أنا، أيتها السيدة العزيزة، سأقول، وقد كنت حاضرًا،"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_AR a :TranslationVariant ;
+:text "ولن أترك كلمة من الحقيقة؛"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_AR a :TranslationVariant ;
+:text "فلماذا ألين لك أمورًا سنظهر نحن لاحقًا"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_AR a :TranslationVariant ;
+:text "كاذبين فيها؟ الحقيقة مستقيمة دائمًا."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_AR a :TranslationVariant ;
+:text "وقد تبعت زوجك قائدًا لقدمه"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_AR a :TranslationVariant ;
+:text "إلى طرف السهل، حيث كان لا يزال ملقى"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_AR a :TranslationVariant ;
+:text "جسد بولينيكيس القاسي، ممزقًا بالكلاب؛"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_AR a :TranslationVariant ;
+:text "ثم طلبنا من إلهة الطريق"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_AR a :TranslationVariant ;
+:text "ومن بلوتون أن يمسكا غضبهما رحيمًا،"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_AR a :TranslationVariant ;
+:text "وغسلناه بغسل طاهر، وبأغصان مقطوعة حديثًا"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_AR a :TranslationVariant ;
+:text "أحرقنا معًا ما كان قد بقي منه،"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_AR a :TranslationVariant ;
+:text "ثم كوّمنا تلًا قائم الرأس من ترابه الأصلي،"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_AR a :TranslationVariant ;
+:text "ثم عدنا إلى مخدع الفتاة المرصوف بالحجارة،"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_AR a :TranslationVariant ;
+:text "مخدع عرس هاديس المجوف."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_AR a :TranslationVariant ;
+:text "ومن بعيد سمع أحدهم صوت نواح عالٍ"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_AR a :TranslationVariant ;
+:text "حول حجلة بلا شعائر جنازة،"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_AR a :TranslationVariant ;
+:text "فجاء وأشار بذلك إلى السيد كريون؛"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_AR a :TranslationVariant ;
+:text "وحين كان يزحف أقرب فأقرب، أحاطت به"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_AR a :TranslationVariant ;
+:text "علامات صوت شقي غير واضحة، فأطلق، متأوهًا، كلمة"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_AR a :TranslationVariant ;
+:text "كثيرة الرثاء: وا لتعسي أنا،"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_AR a :TranslationVariant ;
+:text "أأنا عرّاف؟ أحقًا أسلك"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_AR a :TranslationVariant ;
+:text "أشد طريق شقاء بين الطرق التي مضت؟"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_AR a :TranslationVariant ;
+:text "صوت ابني يهزني. لكن، يا خدم،"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_AR a :TranslationVariant ;
+:text "اذهبوا أسرع واقتربوا، وقفوا عند القبر"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_AR a :TranslationVariant ;
+:text "وانظروا، داخلين شقّ الردم المنتزع بالحجارة،"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_AR a :TranslationVariant ;
+:text "إلى فم القبر نفسه، هل أسمع صوت هيمون،"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_AR a :TranslationVariant ;
+:text "أم أن الآلهة تخدعني."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_AR a :TranslationVariant ;
+:text "هذه الأمور، بأوامر سيدنا الخائر،"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_AR a :TranslationVariant ;
+:text "كنا نعاينها؛ وفي أقصى القبر"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_AR a :TranslationVariant ;
+:text "رأيناها معلقة من العنق،"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_AR a :TranslationVariant ;
+:text "مشدودة بعقدة خيطية من كتان،"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_AR a :TranslationVariant ;
+:text "ورأيناه مطروحًا ملازمًا لها حول وسطها،"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_AR a :TranslationVariant ;
+:text "ينوح على هلاك مضجعته السفلى،"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_AR a :TranslationVariant ;
+:text "وعلى أفعال أبيه، وعلى الفراش التعيس."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_AR a :TranslationVariant ;
+:text "فلما رآه، تأوه تأوهًا بغيضًا ودخل"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_AR a :TranslationVariant ;
+:text "نحوه، وناداه صارخًا بالنواح:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_AR a :TranslationVariant ;
+:text "يا بائس، أي فعل فعلت؟ أي"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_AR a :TranslationVariant ;
+:text "عقل كان لك؟ في أي مصيبة هلكت؟"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_AR a :TranslationVariant ;
+:text "اخرج، يا بني؛ أتوسل إليك توسل المستجير."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_AR a :TranslationVariant ;
+:text "أما الفتى، فإذ حدق إليه بعينين وحشيتين،"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_AR a :TranslationVariant ;
+:text "وبصق في وجهه، ولم يجبه بشيء، جذب"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_AR a :TranslationVariant ;
+:text "حدّي السيف المزدوجين؛ وحين اندفع أبوه"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_AR a :TranslationVariant ;
+:text "أخطأه إذ فرّ؛ ثم إن التعيس،"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_AR a :TranslationVariant ;
+:text "غاضبًا على نفسه، كما كان، انحنى"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_AR a :TranslationVariant ;
+:text "وغرز وسط النصل في جنبه،"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_AR a :TranslationVariant ;
+:text "وبقي عاقلًا، فبذراع مرتخية عانق الفتاة؛"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_AR a :TranslationVariant ;
+:text "وهو يلهث أخرج مجرى حادًا"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_AR a :TranslationVariant ;
+:text "من قطرات دموية على خدها الأبيض."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_AR a :TranslationVariant ;
+:text "ويرقد ميتًا حول ميتة، وقد نال المسكين"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_AR a :TranslationVariant ;
+:text "تمامات زواجه في بيوت هاديس،"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_AR a :TranslationVariant ;
+:text "مظهرًا بين الناس أن انعدام الرأي"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_AR a :TranslationVariant ;
+:text "هو أعظم شر يلتصق بالرجل."^^xsd:string ;
+:relatedTo :Line_1243 .

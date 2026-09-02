@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-persian a owl:Ontology .
+# Persian translation variants for 563_to_581.ttl
+
+:TV_Line_563_FA a :TranslationVariant ;
+:text "زیرا هرگز، ای شاه، حتی آن خردی که بروید،"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_FA a :TranslationVariant ;
+:text "برای کسانی که بدبختانه کار می‌کنند نمی‌ماند، بلکه از جای خود می‌رود."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_FA a :TranslationVariant ;
+:text "دست‌کم برای تو چنین شد، هنگامی که برگزیدی با بدان بدی کنی."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_FA a :TranslationVariant ;
+:text "زیرا برای من تنها، بی‌او، چه زیستنی هست؟"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_FA a :TranslationVariant ;
+:text "اما درباره این زن سخن مگو؛ زیرا او دیگر نیست."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_FA a :TranslationVariant ;
+:text "اما آیا عروسِ پسر خودت را خواهی کشت؟"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_FA a :TranslationVariant ;
+:text "زیرا کشتزارهای زنان دیگر نیز برای شخم‌زدن هست."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_FA a :TranslationVariant ;
+:text "نه چنان‌که این زن با او پیوند یافته بود."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_FA a :TranslationVariant ;
+:text "من زنان بد را برای پسرانم دشمن می‌دارم."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_FA a :TranslationVariant ;
+:text "ای هایمونِ عزیزترین، چه‌گونه پدرت تو را بی‌حرمت می‌کند."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_FA a :TranslationVariant ;
+:text "تو و بستر زناشویی‌ات بیش از اندازه مرا می‌آزارید."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_FA a :TranslationVariant ;
+:text "آیا به‌راستی پسر خودت را از این زن محروم خواهی کرد؟"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_FA a :TranslationVariant ;
+:text "هادس زاده شده است که این زناشویی‌ها را پایان دهد."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_FA a :TranslationVariant ;
+:text "چنین می‌نماید که مقرر شده این زن بمیرد."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_FA a :TranslationVariant ;
+:text "هم برای تو و هم برای من. دیگر درنگ نه؛ بلکه او را"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_FA a :TranslationVariant ;
+:text "به درون ببرید، ای بندگان؛ از این پس باید"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_FA a :TranslationVariant ;
+:text "این زنان زن باشند و رهاگذاشته نباشند."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_FA a :TranslationVariant ;
+:text "زیرا حتی دلاوران نیز می‌گریزند، هنگامی که نزدیک"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_FA a :TranslationVariant ;
+:text "دیگر هادسِ زندگی را پیش چشم می‌بینند."^^xsd:string ;
+:relatedTo :Line_581 .

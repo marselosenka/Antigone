@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-portuguese a owl:Ontology .
+# Portuguese translation variants for 616_to_630.ttl
+
+:TV_Line_616_PT a :TranslationVariant ;
+:text "mas para muitos é engano de desejos de mente leve;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_PT a :TranslationVariant ;
+:text "e rasteja para quem nada sabe, antes que alguém toque com o pé o fogo quente."^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in canonical.
+
+:TV_Line_620_PT a :TranslationVariant ;
+:text "Pois com sabedoria uma palavra dos famosos se manifestou."^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_PT a :TranslationVariant ;
+:text "Que as coisas más pareçam às vezes boas"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_PT a :TranslationVariant ;
+:text "a este, a quem as mentes"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_PT a :TranslationVariant ;
+:text "um deus conduz para a ruína;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 is commented out in canonical.
+
+:TV_Line_625_PT a :TranslationVariant ;
+:text "e age por pouquíssimo tempo fora da ruína."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_PT a :TranslationVariant ;
+:text "Vê então Hêmon, dos teus filhos"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_PT a :TranslationVariant ;
+:text "o rebento mais jovem; acaso vem dolorido"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_PT a :TranslationVariant ;
+:text "pela sorte de sua prometida, Antígona,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 is commented out in canonical.
+
+:TV_Line_630_PT a :TranslationVariant ;
+:text "profundamente aflito pelo engano do leito nupcial?"^^xsd:string ;
+:relatedTo :Line_630 .

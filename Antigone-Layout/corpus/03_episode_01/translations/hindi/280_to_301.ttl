@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-hindi a owl:Ontology .
+# Hindi translation variants for 280_to_301.ttl
+
+:TV_Line_280_HI a :TranslationVariant ;
+:text "रुक जा, इससे पहले कि बोलते-बोलते तू मुझे भी क्रोध से भर दे,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_HI a :TranslationVariant ;
+:text "कहीं तू एक साथ अबुद्धि और बूढ़ा न पाया जाए।"^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_HI a :TranslationVariant ;
+:text "क्योंकि तू असह्य बातें कहता है, जब देवताओं को"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_HI a :TranslationVariant ;
+:text "इस मृतक के विषय में चिंता रखने वाला बताता है।"^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_HI a :TranslationVariant ;
+:text "क्या वे उसे उपकारी मानकर अत्यधिक सम्मान देते हुए"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_HI a :TranslationVariant ;
+:text "छिपाते थे, जो स्तंभों से घिरे"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_HI a :TranslationVariant ;
+:text "मंदिरों और अर्पणों को जलाने आया था,"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_HI a :TranslationVariant ;
+:text "और उनकी भूमि और नियमों को तितर-बितर करने?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_HI a :TranslationVariant ;
+:text "या तू देवताओं को दुष्टों का सम्मान करते देखता है?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_HI a :TranslationVariant ;
+:text "ऐसा नहीं है; पर नगर के लोग ये बातें पहले भी"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_HI a :TranslationVariant ;
+:text "मुश्किल से सहते हुए मेरे विरुद्ध गुनगुनाते थे,"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_HI a :TranslationVariant ;
+:text "गुप्त रूप से सिर हिलाते हुए, और जुए के नीचे"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_HI a :TranslationVariant ;
+:text "अपनी गर्दन ठीक से नहीं रखते थे, ताकि मुझे स्वीकार करें।"^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_HI a :TranslationVariant ;
+:text "इनसे मैं उन्हें अच्छी तरह जानता हूँ,"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_HI a :TranslationVariant ;
+:text "मजदूरी से बहकाए गए होकर उन्होंने यह किया है।"^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_HI a :TranslationVariant ;
+:text "क्योंकि मनुष्यों में चाँदी जैसा"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_HI a :TranslationVariant ;
+:text "कोई बुरा चलन नहीं उगा; यह नगरों को भी"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_HI a :TranslationVariant ;
+:text "उजाड़ता है, यह पुरुषों को घरों से निकालता है,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_HI a :TranslationVariant ;
+:text "यह मर्त्यों के अच्छे मनों को सिखाता और बदलता है"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_HI a :TranslationVariant ;
+:text "कि वे लज्जाजनक कर्मों की ओर खड़े हों;"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_HI a :TranslationVariant ;
+:text "और मनुष्यों को धूर्तता रखना दिखाया है"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_HI a :TranslationVariant ;
+:text "और हर काम की अधर्मता जानना सिखाया है।"^^xsd:string ;
+:relatedTo :Line_301 .

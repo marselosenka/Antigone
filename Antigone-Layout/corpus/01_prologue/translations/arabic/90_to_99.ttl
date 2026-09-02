@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-arabic a owl:Ontology .
+# Arabic translation variants for 90_to_99.ttl
+
+:TV_Line_090_AR a :TranslationVariant ;
+:text "إن استطعتِ فعلًا؛ لكنك تعشقين المستحيلات."^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_AR a :TranslationVariant ;
+:text "إذن، عندما لا أعود أملك القوة، سأتوقف."^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_AR a :TranslationVariant ;
+:text "لكن لا يليق في البدء أن يطارد المرء المستحيلات."^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_AR a :TranslationVariant ;
+:text "إن قلتِ هذه الأمور، فستُبغضين مني،"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_AR a :TranslationVariant ;
+:text "وبحق ستظلين بغيضة إلى الميت."^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_AR a :TranslationVariant ;
+:text "بل دعيني، ودعي سوء تدبيري الصادر مني،"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_AR a :TranslationVariant ;
+:text "أعاني هذا الأمر الرهيب؛ فلن أعاني"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_AR a :TranslationVariant ;
+:text "شيئًا بمثل هذا القدر حتى لا أموت موتًا جميلًا."^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_AR a :TranslationVariant ;
+:text "بل، إن بدا لك، فامضي؛ واعلمي هذا:"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_AR a :TranslationVariant ;
+:text "تمضين بلا عقل، لكنك بحق عزيزة على الأحبة."^^xsd:string ;
+:relatedTo :Line_099 .

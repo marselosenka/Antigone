@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-hindi a owl:Ontology .
+# Hindi translation variants for 536_to_562.ttl
+
+:TV_Line_536_HI a :TranslationVariant ;
+:text "मैंने काम किया है, यदि यह भी सहमत है,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_HI a :TranslationVariant ;
+:text "और मैं साथ भाग लेती हूँ और आरोप उठाती हूँ।"^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_HI a :TranslationVariant ;
+:text "पर न्याय तुझे यह करने नहीं देगा, क्योंकि"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_HI a :TranslationVariant ;
+:text "न तूने चाहा, न मैंने तुझे सहभागी बनाया।"^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_HI a :TranslationVariant ;
+:text "पर तेरी बुराइयों में मैं लज्जित नहीं हूँ,"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_HI a :TranslationVariant ;
+:text "अपने को तेरे दुःख की सहयात्री बनाते हुए।"^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_HI a :TranslationVariant ;
+:text "जिसका काम है, हेडिस और नीचे वाले जानते हैं;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_HI a :TranslationVariant ;
+:text "और शब्दों से प्रेम करने वाली मित्र को मैं प्रिय नहीं मानती।"^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_HI a :TranslationVariant ;
+:text "बहन, मुझे इस बात से अपमानित मत कर कि मैं"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_HI a :TranslationVariant ;
+:text "तेरे साथ न मरूँ और मृतक को पवित्र न करूँ।"^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_HI a :TranslationVariant ;
+:text "मेरे साथ साझा मृत्यु मत ले, और जिसे तूने छुआ नहीं"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_HI a :TranslationVariant ;
+:text "उसे अपना मत बना। मैं मरकर पर्याप्त रहूँगी।"^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_HI a :TranslationVariant ;
+:text "और तेरे बिना मेरे लिए कौन-सा जीवन प्रिय रहेगा?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_HI a :TranslationVariant ;
+:text "क्रेयोन से पूछ; क्योंकि तू उसी की रखवाली करती है।"^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_HI a :TranslationVariant ;
+:text "तू मुझे ये बातें क्यों दुखाती है, जबकि कुछ लाभ नहीं?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_HI a :TranslationVariant ;
+:text "दुखते हुए ही, यदि हँसती हूँ, तो तेरे ऊपर हँसती हूँ।"^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_HI a :TranslationVariant ;
+:text "तो अब मैं तुझे और किस तरह सहायता कर सकती हूँ?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_HI a :TranslationVariant ;
+:text "अपने को बचा; मुझे तेरा बच निकलना ईर्ष्याजनक नहीं।"^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_HI a :TranslationVariant ;
+:text "हाय, अभागी मैं, क्या मैं तेरी मृत्यु से चूक जाऊँ?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_HI a :TranslationVariant ;
+:text "क्योंकि तूने जीना चुना, और मैंने मरना।"^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_HI a :TranslationVariant ;
+:text "पर मेरे शब्द तो अनकहे नहीं थे।"^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_HI a :TranslationVariant ;
+:text "तुझे एक ओर ठीक लगा, मुझे दूसरी ओर ठीक सोचना लगा।"^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_HI a :TranslationVariant ;
+:text "और सचमुच हम दोनों की भूल समान है।"^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_HI a :TranslationVariant ;
+:text "धैर्य रख; तू जीवित है, पर मेरी आत्मा बहुत पहले"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_HI a :TranslationVariant ;
+:text "मर चुकी है, ताकि मृतकों की सहायता करे।"^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_HI a :TranslationVariant ;
+:text "इन दोनों लड़कियों के विषय में मैं कहता हूँ कि एक अभी-अभी"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_HI a :TranslationVariant ;
+:text "मूर्ख प्रकट हुई, और दूसरी जन्म से ही।"^^xsd:string ;
+:relatedTo :Line_562 .

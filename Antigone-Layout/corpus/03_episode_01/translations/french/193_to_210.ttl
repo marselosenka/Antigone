@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-french a owl:Ontology .
+# French translation variants for 193_to_210.ttl
+
+:TV_Line_193_FR a :TranslationVariant ;
+:text "au sujet des enfants issus d’Œdipe :"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_FR a :TranslationVariant ;
+:text "Étéocle, qui, combattant pour la cité"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_FR a :TranslationVariant ;
+:text "de ce pays, est mort, s’étant montré excellent en tout par la lance,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_FR a :TranslationVariant ;
+:text "qu’on le cache dans un tombeau et qu’on accomplisse toutes les purifications"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_FR a :TranslationVariant ;
+:text "qui accompagnent en bas les meilleurs morts ;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_FR a :TranslationVariant ;
+:text "mais le frère de même sang de celui-ci, je veux dire Polynice,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_FR a :TranslationVariant ;
+:text "qui, revenu d’exil, la terre paternelle et les dieux de sa race"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_FR a :TranslationVariant ;
+:text "voulut par le feu"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_FR a :TranslationVariant ;
+:text "brûler de fond en comble, et voulut se repaître"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_FR a :TranslationVariant ;
+:text "du sang commun, et emmener les autres réduits en esclavage,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_FR a :TranslationVariant ;
+:text "pour celui-là, il a été proclamé à cette cité que personne"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_FR a :TranslationVariant ;
+:text "ne l’honore d’une tombe ni ne le pleure,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_FR a :TranslationVariant ;
+:text "mais qu’on le laisse sans sépulture, corps à manger"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_FR a :TranslationVariant ;
+:text "pour les oiseaux et pour les chiens, spectacle outrageusement traité."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_FR a :TranslationVariant ;
+:text "Telle est ma pensée, et jamais de moi"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_FR a :TranslationVariant ;
+:text "les mauvais ne recevront plus d’honneur que les justes."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_FR a :TranslationVariant ;
+:text "Mais quiconque est bienveillant envers cette cité, mort"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_FR a :TranslationVariant ;
+:text "comme vivant, sera pareillement honoré par moi."^^xsd:string ;
+:relatedTo :Line_210 .

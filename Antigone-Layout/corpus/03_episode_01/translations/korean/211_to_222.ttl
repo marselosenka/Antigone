@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-korean a owl:Ontology .
+# Korean translation variants for 211_to_222.ttl
+
+:TV_Line_211_KO a :TranslationVariant ;
+:text "메노이케우스의 아들이여, 이 도시에 악의를 품은 자와"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_KO a :TranslationVariant ;
+:text "호의를 품은 자에게 그렇게 하는 것이 당신에게 좋게 보입니다."^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_KO a :TranslationVariant ;
+:text "그리고 모든 법을 사용하는 일, 그것은 당신에게 있습니다,"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_KO a :TranslationVariant ;
+:text "죽은 자들과 우리 살아 있는 모든 이들에 관해서."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_KO a :TranslationVariant ;
+:text "그렇다면 이제 너희는 말해진 것들의 감시자가 되어라."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_KO a :TranslationVariant ;
+:text "이 일을 맡기는 것은 더 젊은 어떤 자에게 맡기십시오."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_KO a :TranslationVariant ;
+:text "하지만 그 죽은 자의 감시자들은 준비되어 있다."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_KO a :TranslationVariant ;
+:text "그렇다면 또 다른 어떤 것을 더 명령하시겠습니까?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_KO a :TranslationVariant ;
+:text "이것들을 믿지 않는 자들에게 양보하지 말라는 것이다."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_KO a :TranslationVariant ;
+:text "죽기를 사랑할 만큼 어리석은 자는 없습니다."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_KO a :TranslationVariant ;
+:text "실로 그 보수가 바로 그것이다. 그러나 희망들에 의해"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_KO a :TranslationVariant ;
+:text "이익은 자주 사람들을 멸망시켰다."^^xsd:string ;
+:relatedTo :Line_222 .

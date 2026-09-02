@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-persian a owl:Ontology .
+# Persian translation variants for 280_to_301.ttl
+
+:TV_Line_280_FA a :TranslationVariant ;
+:text "بس کن، پیش از آن‌که با سخن گفتن مرا نیز از خشم پر کنی،"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_FA a :TranslationVariant ;
+:text "مبادا هم نادان و هم پیر، با هم، یافته شوی."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_FA a :TranslationVariant ;
+:text "زیرا سخنانی تحمل‌ناپذیر می‌گویی، وقتی می‌گویی"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_FA a :TranslationVariant ;
+:text "خدایان برای این مرده پروایی داشته‌اند."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_FA a :TranslationVariant ;
+:text "آیا به سبب بزرگ‌داشتن او چون نیکوکار"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_FA a :TranslationVariant ;
+:text "او را پنهان کردند؟ کسی که آمد تا پرستشگاه‌های ستون‌دار را"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_FA a :TranslationVariant ;
+:text "بسوزاند، و پیشکش‌ها را،"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_FA a :TranslationVariant ;
+:text "و زمین آنان و قانون‌ها را پراکنده سازد؟"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_FA a :TranslationVariant ;
+:text "یا می‌بینی که خدایان بدان را گرامی می‌دارند؟"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_FA a :TranslationVariant ;
+:text "چنین نیست؛ بلکه اینها را از دیرباز نیز مردانی از شهر"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_FA a :TranslationVariant ;
+:text "که به دشواری تحمل می‌کردند، پنهانی بر من می‌غریدند،"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_FA a :TranslationVariant ;
+:text "سر می‌جنباندند، و زیر یوغ"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_FA a :TranslationVariant ;
+:text "گردن خود را به‌درستی نگاه نمی‌داشتند، چنان‌که مرا بپذیرند."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_FA a :TranslationVariant ;
+:text "از اینها به‌خوبی می‌دانم که اینان"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_FA a :TranslationVariant ;
+:text "با مزدها فریفته شده‌اند و این کارها را کرده‌اند."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_FA a :TranslationVariant ;
+:text "زیرا هیچ رسمِ بدی برای انسان‌ها مانند سیم"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_FA a :TranslationVariant ;
+:text "نروییده است؛ این هم شهرها را"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_FA a :TranslationVariant ;
+:text "ویران می‌کند، این مردان را از خانه‌ها برمی‌کند،"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_FA a :TranslationVariant ;
+:text "این می‌آموزد و ذهن‌های نیک"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_FA a :TranslationVariant ;
+:text "مردمان را دگرگون می‌کند تا به کارهای شرم‌آور بایستند،"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_FA a :TranslationVariant ;
+:text "و به انسان‌ها نشان داده است که تبهکاری داشته باشند"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_FA a :TranslationVariant ;
+:text "و بی‌دینیِ هر کاری را بشناسند."^^xsd:string ;
+:relatedTo :Line_301 .

@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-hindi a owl:Ontology .
+# Hindi translation variants for 681_to_723.ttl
+
+:TV_Line_681_HI a :TranslationVariant ;
+:text "हमारे लिए, यदि हम समय से छलित नहीं हुए,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_HI a :TranslationVariant ;
+:text "तू जिन बातों को कहता है, उनके विषय में बुद्धिमानी से बोलता लगता है।"^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_HI a :TranslationVariant ;
+:text "पिता, देवता मनुष्यों में बुद्धि उत्पन्न करते हैं,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_HI a :TranslationVariant ;
+:text "जो सारी संपत्तियों में सर्वोच्च है।"^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_HI a :TranslationVariant ;
+:text "और यह कि तू ये बातें ठीक नहीं कहता,"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_HI a :TranslationVariant ;
+:text "न मैं कह सकता, न कहना जानता।"^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_HI a :TranslationVariant ;
+:text "फिर भी दूसरे के पास भी कोई अच्छी बात हो सकती है।"^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_HI a :TranslationVariant ;
+:text "तेरे लिए ही मैं स्वभाव से सब बातें देखता हूँ,"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_HI a :TranslationVariant ;
+:text "कौन क्या कहता है, क्या करता है, या किस बात में निंदा रखता है।"^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_HI a :TranslationVariant ;
+:text "क्योंकि साधारण नागरिक के लिए तेरी आँख भयावह है"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_HI a :TranslationVariant ;
+:text "ऐसे शब्दों के लिए जिन्हें सुनकर तू प्रसन्न न होगा;"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_HI a :TranslationVariant ;
+:text "पर मेरे लिए अँधेरे के भीतर ये बातें सुनना संभव है,"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_HI a :TranslationVariant ;
+:text "नगर इस कन्या के लिए कैसे विलाप करता है,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_HI a :TranslationVariant ;
+:text "कि सब स्त्रियों में वह सबसे कम योग्य है"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_HI a :TranslationVariant ;
+:text "सबसे अच्छे कर्मों के कारण सबसे बुरी मृत्यु से मरने की।"^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_HI a :TranslationVariant ;
+:text "जिसने अपने ही सगे भाई को रक्त में"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_HI a :TranslationVariant ;
+:text "गिरा हुआ, बिना दफ़न, मांसभक्षी कुत्तों से"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_HI a :TranslationVariant ;
+:text "या किसी पक्षी से नष्ट होने नहीं दिया।"^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_HI a :TranslationVariant ;
+:text "क्या वह स्वर्णिम सम्मान का भाग पाने योग्य नहीं?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_HI a :TranslationVariant ;
+:text "ऐसी अँधेरी फुसफुसाहट चुपचाप फैल रही है।"^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_HI a :TranslationVariant ;
+:text "और मेरे लिए, पिता, जब तू सफल होता है,"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_HI a :TranslationVariant ;
+:text "कोई संपत्ति उससे अधिक सम्मानित नहीं।"^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_HI a :TranslationVariant ;
+:text "क्योंकि पिता के खिलते यश से बच्चों के लिए"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_HI a :TranslationVariant ;
+:text "कौन-सा बड़ा गौरव, या बच्चों के यश से पिता के लिए क्या?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_HI a :TranslationVariant ;
+:text "अब अपने भीतर केवल एक ही स्वभाव मत रख,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_HI a :TranslationVariant ;
+:text "कि जैसा तू कहता है, वही ठीक है और कुछ नहीं।"^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_HI a :TranslationVariant ;
+:text "क्योंकि जो स्वयं को अकेला सोचने वाला मानता है,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_HI a :TranslationVariant ;
+:text "या ऐसी जीभ या आत्मा रखने वाला जो किसी और के पास नहीं,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_HI a :TranslationVariant ;
+:text "वे खोले जाने पर खाली दिखाई देते हैं।"^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_HI a :TranslationVariant ;
+:text "पर मनुष्य, यदि कोई बुद्धिमान भी हो, बहुत सीखना"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_HI a :TranslationVariant ;
+:text "लज्जा नहीं, और बहुत अधिक न तनना भी नहीं।"^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_HI a :TranslationVariant ;
+:text "तू देखता है, शीतकालीन धाराओं के किनारे"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_HI a :TranslationVariant ;
+:text "जितने वृक्ष झुकते हैं, वे अपनी डालियाँ बचा लेते हैं,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_HI a :TranslationVariant ;
+:text "और जो विरोध करते हैं, जड़ सहित नष्ट हो जाते हैं।"^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_HI a :TranslationVariant ;
+:text "इसी तरह जहाज़ का जो नाविक पाल की रस्सी"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_HI a :TranslationVariant ;
+:text "कसकर तन देता है और कुछ नहीं झुकता, उल्टा होकर"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_HI a :TranslationVariant ;
+:text "बाकी यात्रा उलटी बेंचों के साथ करता है।"^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_HI a :TranslationVariant ;
+:text "इसलिए झुक, और क्रोध को परिवर्तन दे।"^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_HI a :TranslationVariant ;
+:text "क्योंकि यदि मुझ छोटे से भी कोई मत"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_HI a :TranslationVariant ;
+:text "जुड़ा है, तो मैं कहता हूँ कि बहुत श्रेष्ठ है"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_HI a :TranslationVariant ;
+:text "मनुष्य का हर ज्ञान से भरा जन्म लेना;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_HI a :TranslationVariant ;
+:text "पर यदि ऐसा नहीं—क्योंकि यह प्रायः उस ओर नहीं झुकता—"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_HI a :TranslationVariant ;
+:text "तो अच्छे बोलने वालों से सीखना भी सुंदर है।"^^xsd:string ;
+:relatedTo :Line_723 .

@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-korean a owl:Ontology .
+# Korean translation variants for 536_to_562.ttl
+
+:TV_Line_536_KO a :TranslationVariant ;
+:text "이 여자가 동의한다면, 제가 그 일을 했습니다."^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_KO a :TranslationVariant ;
+:text "저도 함께 참여하고, 그 책임을 함께 집니다."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_KO a :TranslationVariant ;
+:text "그러나 정의는 이것을 네게 허락하지 않을 것이다. 왜냐하면"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_KO a :TranslationVariant ;
+:text "너는 원하지도 않았고, 나도 너와 함께하지 않았기 때문이다."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_KO a :TranslationVariant ;
+:text "그러나 네 재앙들 속에서 나는 부끄러워하지 않는다,"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_KO a :TranslationVariant ;
+:text "나 자신을 이 고난의 함께 항해하는 자로 삼는 것을."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_KO a :TranslationVariant ;
+:text "그 일이 누구의 것인지는 하데스와 아래의 자들이 함께 안다."^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_KO a :TranslationVariant ;
+:text "말로 사랑하는 친구는 내가 사랑하지 않는다."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_KO a :TranslationVariant ;
+:text "제발, 자매여, 나를 모욕하지 마라,"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_KO a :TranslationVariant ;
+:text "너와 함께 죽고, 죽은 이를 거룩하게 하지 못하게 해서."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_KO a :TranslationVariant ;
+:text "나와 함께 죽지 마라. 네가 건드리지 않은 것들을"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_KO a :TranslationVariant ;
+:text "네 것으로 만들지도 마라. 죽는 것은 나로 충분할 것이다."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_KO a :TranslationVariant ;
+:text "네가 남겨진 나에게 무슨 삶이 사랑스럽겠느냐?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_KO a :TranslationVariant ;
+:text "크레온에게 물어라. 너는 그를 돌보는 자이기 때문이다."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_KO a :TranslationVariant ;
+:text "왜 아무 이익도 얻지 못하면서 나를 괴롭히느냐?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_KO a :TranslationVariant ;
+:text "고통스럽기는 하다, 내가 네 안에서 웃고 있다면."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_KO a :TranslationVariant ;
+:text "그렇다면 이제 내가 어떻게 달리 너를 도울 수 있겠느냐?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_KO a :TranslationVariant ;
+:text "너 자신을 구하라. 네가 벗어나는 것을 시기하지 않는다."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_KO a :TranslationVariant ;
+:text "아아, 가엾은 나, 내가 네 죽음에서 잘못 떨어져 나가는가?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_KO a :TranslationVariant ;
+:text "너는 살기를 선택했고, 나는 죽기를 선택했다."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_KO a :TranslationVariant ;
+:text "그러나 적어도 내 말들은 말해지지 않은 것이 아니었다."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_KO a :TranslationVariant ;
+:text "너는 그들에게, 나는 이들에게 잘 생각하는 듯 보였다."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_KO a :TranslationVariant ;
+:text "그래도 우리 둘의 잘못은 같습니다."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_KO a :TranslationVariant ;
+:text "용기를 가져라. 너는 살아 있다. 그러나 내 영혼은 오래전부터"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_KO a :TranslationVariant ;
+:text "죽어 있었다, 죽은 자들을 돕기 위해서."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_KO a :TranslationVariant ;
+:text "나는 이 두 아이에 대해 말한다. 하나는 방금"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_KO a :TranslationVariant ;
+:text "어리석은 자로 드러났고, 다른 하나는 처음 태어난 때부터 그렇다고."^^xsd:string ;
+:relatedTo :Line_562 .

@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-korean a owl:Ontology .
+# Korean translation variants for 141_to_161.ttl
+
+:TV_Line_141_KO a :TranslationVariant ;
+:text "일곱 지휘관들이 일곱 문에 맞서,"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_KO a :TranslationVariant ;
+:text "같은 이들에 맞서 같은 수로 배치되어, 남겨 두었다,"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_KO a :TranslationVariant ;
+:text "승리의 제우스에게 온통 청동인 제물들을."^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_KO a :TranslationVariant ;
+:text "다만 그 증오스러운 두 사람은 제외하고, 한 아버지와"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_KO a :TranslationVariant ;
+:text "한 어머니에게서 태어나 서로를 향해"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_KO a :TranslationVariant ;
+:text "두 힘센 창을 세운 그들은"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_KO a :TranslationVariant ;
+:text "공동의 죽음의 몫을 둘 다 얻었다."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_KO a :TranslationVariant ;
+:text "그러나 이름 큰 승리가 왔다,"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_KO a :TranslationVariant ;
+:text "많은 전차를 가진 테바이와 함께 기뻐하며."^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_KO a :TranslationVariant ;
+:text "그러니 이제 지금의 전쟁들로부터"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_KO a :TranslationVariant ;
+:text "망각을 놓아두자,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_KO a :TranslationVariant ;
+:text "그리고 신들의 모든 신전들로, 춤들과 함께"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_KO a :TranslationVariant ;
+:text "밤새도록 우리 모두 나아가자."^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_KO a :TranslationVariant ;
+:text "테바이를 뒤흔드는"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_KO a :TranslationVariant ;
+:text "바쿠스 신이 이끌게 하라."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_KO a :TranslationVariant ;
+:text "그러나, 여기 이 땅의 왕이"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_KO a :TranslationVariant ;
+:text "메노이케우스의 아들 크레온이, 새롭게"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_KO a :TranslationVariant ;
+:text "신들의 새로운 사건들에 따라"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_KO a :TranslationVariant ;
+:text "나아온다. 대체 어떤 꾀를 노 저으며,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_KO a :TranslationVariant ;
+:text "이 소집된 원로들의"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_KO a :TranslationVariant ;
+:text "모임을 마련했는가, 공동의 포고를 보내어."^^xsd:string ;
+:relatedTo :Line_161 .

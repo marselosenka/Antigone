@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-japanese a owl:Ontology .
+# Japanese translation variants for 508_to_535.ttl
+
+:TV_Line_508_JA a :TranslationVariant ;
+:text "お前だけが、これらのカドモスの民の中でそれを見ている。"^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_JA a :TranslationVariant ;
+:text "この者たちも見ています。ただあなたに対して口を閉じているのです。"^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_JA a :TranslationVariant ;
+:text "お前は恥じないのか、この者たちと別に考えることを。"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_JA a :TranslationVariant ;
+:text "同じ胎からの者たちを敬うことは、何も恥ずべきことではありません。"^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_JA a :TranslationVariant ;
+:text "では、向かい合って死んだ者も同じ血ではなかったのか。"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_JA a :TranslationVariant ;
+:text "同じ血です、一人の母と同じ父からの。"^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_JA a :TranslationVariant ;
+:text "ではなぜ、あの者に不敬な恩恵として名誉を与えるのか。"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_JA a :TranslationVariant ;
+:text "死んだ屍は、そのようには証言しないでしょう。"^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_JA a :TranslationVariant ;
+:text "もしお前が不敬な者と等しく彼を尊ぶならば。"^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_JA a :TranslationVariant ;
+:text "奴隷ではなく、兄弟が死んだのです。"^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_JA a :TranslationVariant ;
+:text "この地を荒らしながらな。もう一人はそれに抗して立った。"^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_JA a :TranslationVariant ;
+:text "それでもハデスは同じ法を求めます。"^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_JA a :TranslationVariant ;
+:text "しかし善い者が悪い者と等しい分け前を得ることはない。"^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_JA a :TranslationVariant ;
+:text "下ではこれらが清らかなことか、誰が知っているでしょう。"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_JA a :TranslationVariant ;
+:text "敵は決して、死んだ時でさえ、友ではない。"^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_JA a :TranslationVariant ;
+:text "私は共に憎むためではなく、共に愛するために生まれました。"^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_JA a :TranslationVariant ;
+:text "では下へ行って、愛さねばならないなら、"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_JA a :TranslationVariant ;
+:text "あの者たちを愛せ。私が生きている間、女は支配しない。"^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_JA a :TranslationVariant ;
+:text "そしてまさに門の前に、こちらにイスメネがいる、"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_JA a :TranslationVariant ;
+:text "兄弟を愛する涙を下へ流しながら。"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_JA a :TranslationVariant ;
+:text "眉の上の雲が、血のように赤い"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_JA a :TranslationVariant ;
+:text "顔を汚し、"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_JA a :TranslationVariant ;
+:text "美しい頬を濡らしている。"^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_JA a :TranslationVariant ;
+:text "お前は、家の中で蝮のように潜み、"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_JA a :TranslationVariant ;
+:text "私に気づかれぬまま私を吸い尽くしていた女だ。私は知らずに"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_JA a :TranslationVariant ;
+:text "二つの破滅と王座への反乱を養っていた。"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_JA a :TranslationVariant ;
+:text "さあ、私に言え。お前もこの埋葬に"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_JA a :TranslationVariant ;
+:text "加わったと言うのか、それとも知らないと誓って否定するのか。"^^xsd:string ;
+:relatedTo :Line_535 .

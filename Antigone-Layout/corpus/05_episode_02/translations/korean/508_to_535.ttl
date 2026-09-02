@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-korean a owl:Ontology .
+# Korean translation variants for 508_to_535.ttl
+
+:TV_Line_508_KO a :TranslationVariant ;
+:text "너 혼자 이 카드모스 사람들 가운데서 이것을 본다."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_KO a :TranslationVariant ;
+:text "이 사람들도 봅니다. 그러나 당신 앞에서 입을 닫고 있습니다."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_KO a :TranslationVariant ;
+:text "너는 이들과 달리 생각하는 것이 부끄럽지 않으냐?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_KO a :TranslationVariant ;
+:text "같은 태에서 난 이들을 공경하는 것은 전혀 수치스럽지 않습니다."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_KO a :TranslationVariant ;
+:text "그렇다면 맞은편에서 죽은 자도 같은 피가 아니냐?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_KO a :TranslationVariant ;
+:text "한 어머니와 같은 아버지에게서 난 같은 피입니다."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_KO a :TranslationVariant ;
+:text "그렇다면 어찌 그에게 불경한 은혜를 베푸느냐?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_KO a :TranslationVariant ;
+:text "죽은 시신은 이것을 증언하지 않을 것입니다."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_KO a :TranslationVariant ;
+:text "네가 그를 불경한 자와 똑같이 공경한다면 말이다."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_KO a :TranslationVariant ;
+:text "그는 노예가 아니라 형제로 죽었습니다."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_KO a :TranslationVariant ;
+:text "그러나 이 땅을 파괴하려 했고, 다른 이는 맞서 싸웠다."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_KO a :TranslationVariant ;
+:text "그래도 하데스는 이 법들을 똑같이 원합니다."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_KO a :TranslationVariant ;
+:text "그러나 훌륭한 자가 나쁜 자와 같은 몫을 얻는 것은 아니다."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_KO a :TranslationVariant ;
+:text "누가 알겠습니까, 아래에서는 이것들이 경건한 것인지?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_KO a :TranslationVariant ;
+:text "적은 결코, 죽은 뒤에도, 친구가 아니다."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_KO a :TranslationVariant ;
+:text "저는 함께 미워하도록 태어난 것이 아니라, 함께 사랑하도록 태어났습니다."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_KO a :TranslationVariant ;
+:text "그렇다면 아래로 내려가, 사랑해야 한다면,"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_KO a :TranslationVariant ;
+:text "그들을 사랑하라. 내가 살아 있는 동안 여자가 다스리지는 못할 것이다."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_KO a :TranslationVariant ;
+:text "그리고 보라, 문 앞에 이스메네가 있다,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_KO a :TranslationVariant ;
+:text "자매를 사랑하는 눈물을 아래로 흘리며."^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_KO a :TranslationVariant ;
+:text "눈썹 위의 구름은 피빛"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_KO a :TranslationVariant ;
+:text "얼굴을 더럽히고,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_KO a :TranslationVariant ;
+:text "아름다운 뺨을 적시고 있다."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_KO a :TranslationVariant ;
+:text "너, 집 안에서 독사처럼 숨어"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_KO a :TranslationVariant ;
+:text "나 몰래 나를 빨아먹던 자여, 나는 깨닫지도 못했다,"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_KO a :TranslationVariant ;
+:text "두 파멸과 왕좌에 대한 반역을 기르고 있었음을."^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_KO a :TranslationVariant ;
+:text "자, 이제 내게 말하라. 너도 이 매장에"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_KO a :TranslationVariant ;
+:text "참여했다고 말하겠느냐, 아니면 모른다고 맹세하겠느냐?"^^xsd:string ;
+:relatedTo :Line_535 .

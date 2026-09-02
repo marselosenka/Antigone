@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-korean a owl:Ontology .
+# Korean translation variants for 929_to_943.ttl
+
+:TV_Line_929_KO a :TranslationVariant ;
+:text "아직도 같은 바람들의 같은"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_KO a :TranslationVariant ;
+:text "영혼의 돌풍들이 이 여자를 붙잡고 있다."^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_KO a :TranslationVariant ;
+:text "그러므로 이 일을 끌고 가는 자들에게는"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_KO a :TranslationVariant ;
+:text "지체 때문에 울음이 있을 것이다."^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_KO a :TranslationVariant ;
+:text "아아, 죽음에 가장 가까이"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_KO a :TranslationVariant ;
+:text "이 말이 이르렀습니다."^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_KO a :TranslationVariant ;
+:text "용기를 가지라고는 전혀 위로하지 않는다,"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_KO a :TranslationVariant ;
+:text "이 일들이 이렇게 확정되지 않으리라고."^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_KO a :TranslationVariant ;
+:text "오 테바이 땅의 조상 도시여,"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_KO a :TranslationVariant ;
+:text "그리고 조상들의 신들이여,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_KO a :TranslationVariant ;
+:text "저는 이제 끌려가며 더는 지체하지 않습니다."^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_KO a :TranslationVariant ;
+:text "보십시오, 테바이의 통치자들이여,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_KO a :TranslationVariant ;
+:text "왕가의 유일하게 남은 저를,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_KO a :TranslationVariant ;
+:text "어떤 사람들에게서 어떤 일들을 제가 겪는지를,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_KO a :TranslationVariant ;
+:text "경건함을 공경했기 때문에."^^xsd:string ;
+:relatedTo :Line_943 .

@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-persian a owl:Ontology .
+# Persian translation variants for 42_to_62.ttl
+
+:TV_Line_042_FA a :TranslationVariant ;
+:text "چه گونه خطری؟ اندیشه‌ات سرانجام به کجا می‌رود؟"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_FA a :TranslationVariant ;
+:text "آیا این جسد را با این دست همراه بلند خواهی کرد؟"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_FA a :TranslationVariant ;
+:text "آیا به‌راستی قصد داری او را دفن کنی، با آن‌که برای شهر ممنوع است؟"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_FA a :TranslationVariant ;
+:text "دست‌کم برادرم را، و برادر تو را نیز، اگر تو نخواهی،"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_FA a :TranslationVariant ;
+:text "زیرا هرگز گرفتار نخواهم شد که به او خیانت کرده باشم."^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_FA a :TranslationVariant ;
+:text "ای بیچاره، با آن‌که کرئون آن را منع کرده است؟"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_FA a :TranslationVariant ;
+:text "اما او را هیچ سهمی نیست که مرا از آنچه از آنِ من است بازدارد."^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_FA a :TranslationVariant ;
+:text "آه بر من؛ بیندیش، ای خواهر، که پدر ما"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_FA a :TranslationVariant ;
+:text "چه‌گونه منفور و بدنام از میان رفت،"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_FA a :TranslationVariant ;
+:text "چون به خطاهای آشکار خود پی برد،"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_FA a :TranslationVariant ;
+:text "دو چشمش را با دست خویش و کارگر خویش برکند؛"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_FA a :TranslationVariant ;
+:text "سپس مادر و همسرش، سخنی دوگانه،"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_FA a :TranslationVariant ;
+:text "زندگی خود را با بندهای بافته تباه کرد؛"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_FA a :TranslationVariant ;
+:text "سوم، دو برادر ما در یک روز"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_FA a :TranslationVariant ;
+:text "با کشتن خود، آن دو تیره‌بخت، سرنوشت"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_FA a :TranslationVariant ;
+:text "مشترک خود را با دست‌های یکدیگر به انجام رساندند."^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_FA a :TranslationVariant ;
+:text "اکنون باز بنگر که ما دو تن تنها بازمانده‌ایم،"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_FA a :TranslationVariant ;
+:text "چه اندازه به بدترین گونه نابود خواهیم شد، اگر به زور قانون"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_FA a :TranslationVariant ;
+:text "حکم و قدرت فرمانروایان را زیر پا بگذاریم."^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_FA a :TranslationVariant ;
+:text "بلکه نخست باید این را در نظر داشت که ما زن"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_FA a :TranslationVariant ;
+:text "زاده شده‌ایم، چنان‌که برای جنگیدن با مردان نیستیم."^^xsd:string ;
+:relatedTo :Line_062 .

@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-hindi a owl:Ontology .
+# Hindi translation variants for 223_to_252.ttl
+
+:TV_Line_223_HI a :TranslationVariant ;
+:text "स्वामी, मैं यह नहीं कहूँगा कि कैसे शीघ्रता के अधीन"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_HI a :TranslationVariant ;
+:text "हाँफता हुआ आया, हल्का पैर उठाकर।"^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_HI a :TranslationVariant ;
+:text "क्योंकि मेरे विचारों ने अनेक ठहराव किए,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_HI a :TranslationVariant ;
+:text "रास्तों में स्वयं को लौटने के लिए घुमाता हुआ;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_HI a :TranslationVariant ;
+:text "क्योंकि मेरी आत्मा मुझसे बहुत बातें करती रही,"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_HI a :TranslationVariant ;
+:text "अभागे, तू वहाँ क्यों जा रहा है जहाँ जाकर दंड देगा?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_HI a :TranslationVariant ;
+:text "दुखिया, फिर रुकेगा? और यदि क्रेयोन यह बातें"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_HI a :TranslationVariant ;
+:text "किसी और पुरुष से जान ले, तब तू कैसे न दुख पाएगा?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_HI a :TranslationVariant ;
+:text "ऐसी बातें घुमाते हुए मैं धीरे-धीरे देर से पूरा कर पाया,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_HI a :TranslationVariant ;
+:text "और इस तरह छोटा रास्ता लंबा हो जाता है।"^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_HI a :TranslationVariant ;
+:text "फिर भी अंत में यहाँ आना ही जीता,"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_HI a :TranslationVariant ;
+:text "तेरे पास; और यदि कुछ नहीं कहूँगा, तो भी कहूँगा।"^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_HI a :TranslationVariant ;
+:text "क्योंकि मैं आशा को पकड़कर आया हूँ,"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_HI a :TranslationVariant ;
+:text "कि मुझे नियत के अलावा कुछ और नहीं भुगतना होगा।"^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_HI a :TranslationVariant ;
+:text "कौन-सी बात है जिसके कारण तू यह निराशा रखता है?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_HI a :TranslationVariant ;
+:text "पहले मैं तुझे अपनी बातें बताना चाहता हूँ; क्योंकि"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_HI a :TranslationVariant ;
+:text "काम न मैंने किया, न मैंने देखा कि करने वाला कौन था,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_HI a :TranslationVariant ;
+:text "और न्यायपूर्वक मैं किसी बुराई में न पड़ूँ।"^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_HI a :TranslationVariant ;
+:text "तू ठीक निशाना लगाता है और चारों ओर से"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_HI a :TranslationVariant ;
+:text "बात को बंद कर रहा है; स्पष्ट है कि तू कुछ नया बताने वाला है।"^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_HI a :TranslationVariant ;
+:text "क्योंकि भयानक बातें बहुत झिझक जोड़ देती हैं।"^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_HI a :TranslationVariant ;
+:text "तो क्या तू कभी कहेगा, फिर छूटकर चला जाएगा?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_HI a :TranslationVariant ;
+:text "अब कहता हूँ तुझे: किसी ने अभी-अभी मृतक को"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_HI a :TranslationVariant ;
+:text "दफ़नाकर चला गया है, और देह पर सूखी"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_HI a :TranslationVariant ;
+:text "धूल छिड़ककर, और जो चाहिए था वह पवित्र कर्म कर दिया।"^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_HI a :TranslationVariant ;
+:text "क्या कहता है? कौन पुरुष था जिसने यह करने का साहस किया?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_HI a :TranslationVariant ;
+:text "नहीं जानता; क्योंकि वहाँ न किसी फावड़े का"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_HI a :TranslationVariant ;
+:text "घाव था, न कुदाल की फेंक; धरती कठोर थी"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_HI a :TranslationVariant ;
+:text "और सूखी, न टूटी, न पहियों से"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_HI a :TranslationVariant ;
+:text "रौंदी हुई; बल्कि करने वाला कोई अचिह्नित था।"^^xsd:string ;
+:relatedTo :Line_252 .

@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-bengali a owl:Ontology .
+# Bengali translation variants for 944_to_965.ttl
+
+:TV_Line_944_BN a :TranslationVariant ;
+:text "দানায়েও সহ্য করেছিল স্বর্গীয় আলো"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_BN a :TranslationVariant ;
+:text "বদলে ব্রোঞ্জে-বাঁধা কক্ষে নিজের দেহ রাখা;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_BN a :TranslationVariant ;
+:text "সমাধিসদৃশ কক্ষে লুকিয়ে সে আবদ্ধ হয়েছিল;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_BN a :TranslationVariant ;
+:text "তবু বংশেও সে ছিল সম্মানিত, হে সন্তান, সন্তান,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Line 948 and 949 do not exist in Antigone
+
+:TV_Line_950_BN a :TranslationVariant ;
+:text "আর সে জিউসের সোনাধারায়-বওয়া বীজ ধারণ করেছিল।"^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_BN a :TranslationVariant ;
+:text "কিন্তু ভাগ্যনির্দিষ্ট কোনো শক্তি ভয়ংকর;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_BN a :TranslationVariant ;
+:text "না সম্পদ, না আরেস, না দুর্গ, না সাগর-আঘাতী"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_BN a :TranslationVariant ;
+:text "কালো জাহাজ—কেউ তা থেকে পালাতে পারে না।"^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in Antigone
+
+:TV_Line_955_BN a :TranslationVariant ;
+:text "আবদ্ধ হয়েছিল তীক্ষ্ণক্রোধী দ্রিয়াসের পুত্র,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_BN a :TranslationVariant ;
+:text "এদোনীয়দের রাজা, উপহাসী ক্রোধের জন্য,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_BN a :TranslationVariant ;
+:text "দিয়োনিসোসের দ্বারা পাথুরে আবদ্ধ কারাগারে।"^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_BN a :TranslationVariant ;
+:text "এইভাবে তার উন্মত্ততার ভয়ংকর শক্তি"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in Antigone
+
+:TV_Line_960_BN a :TranslationVariant ;
+:text "আর প্রস্ফুটিত উগ্রতা ঝরে পড়ল। সে মানুষ উন্মাদনায় জেনেছিল,"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_BN a :TranslationVariant ;
+:text "উপহাসী জিহ্বা দিয়ে দেবতাকে স্পর্শ করার ফল।"^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_BN a :TranslationVariant ;
+:text "কারণ সে দেবাবিষ্ট নারীদের আর ইউয়িওসের আগুন থামাত,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Line 963 and 964 do not exist in Antigone
+
+:TV_Line_965_BN a :TranslationVariant ;
+:text "আর বাঁশিপ্রেমী মিউজদের উত্তেজিত করত।"^^xsd:string ;
+:relatedTo :Line_965 .

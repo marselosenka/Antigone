@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-persian a owl:Ontology .
+# Persian translation variants for 681_to_723.ttl
+
+:TV_Line_681_FA a :TranslationVariant ;
+:text "برای ما، اگر به سبب زمان فریب نخورده باشیم،"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_FA a :TranslationVariant ;
+:text "چنین می‌نماید که درباره آنچه می‌گویی خردمندانه سخن می‌گویی."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_FA a :TranslationVariant ;
+:text "پدر، خدایان برای انسان‌ها خرد می‌رویانند،"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_FA a :TranslationVariant ;
+:text "برترین همه دارایی‌هایی که هست."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_FA a :TranslationVariant ;
+:text "اما این‌که تو اینها را درست نمی‌گویی،"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_FA a :TranslationVariant ;
+:text "من نه توان گفتنش را دارم و نه دانش آن را."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_FA a :TranslationVariant ;
+:text "با این همه، ممکن است دیگری نیز سخنی درست داشته باشد."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_FA a :TranslationVariant ;
+:text "من به هر روی طبیعتاً برای تو همه چیز را می‌نگرم،"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_FA a :TranslationVariant ;
+:text "هر چه کسی می‌گوید یا کسی انجام می‌دهد یا نکوهش دارد."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_FA a :TranslationVariant ;
+:text "زیرا نگاه تو برای مرد شهروند هراس‌آور است،"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_FA a :TranslationVariant ;
+:text "در برابر چنین سخنانی که تو از شنیدنشان شاد نمی‌شوی؛"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_FA a :TranslationVariant ;
+:text "اما برای من ممکن است اینها را در تاریکی بشنوم،"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_FA a :TranslationVariant ;
+:text "که شهر بر حال این دختر چگونه می‌نالد،"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_FA a :TranslationVariant ;
+:text "که او، ناسزاوارترینِ همه زنان برای چنین مرگی،"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_FA a :TranslationVariant ;
+:text "از باشکوه‌ترین کارها به بدترین گونه می‌میرد."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_FA a :TranslationVariant ;
+:text "او که برادر هم‌خون خود را، افتاده در کشتارها،"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_FA a :TranslationVariant ;
+:text "بی‌دفن رها نکرد تا زیر سگ‌های خام‌خوار"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_FA a :TranslationVariant ;
+:text "یا زیر هیچ پرنده‌ای نابود شود."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_FA a :TranslationVariant ;
+:text "آیا او سزاوار نیست که بهره‌ای از شرافت زرین گیرد؟"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_FA a :TranslationVariant ;
+:text "چنین آوازه تاریکی خاموشانه پیش می‌آید."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_FA a :TranslationVariant ;
+:text "اما برای من، ای پدر، اگر کارهای تو نیک‌فرجام باشد،"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_FA a :TranslationVariant ;
+:text "هیچ دارایی‌ای گرامی‌تر نیست؛"^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_FA a :TranslationVariant ;
+:text "زیرا برای فرزندان، چه زینتی بزرگ‌تر از"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_FA a :TranslationVariant ;
+:text "شکوفایی نام نیک پدر است، یا برای پدر از سوی فرزندان؟"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_FA a :TranslationVariant ;
+:text "پس اکنون تنها یک خوی را در خود حمل مکن،"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_FA a :TranslationVariant ;
+:text "که آنچه تو می‌گویی، و هیچ چیز دیگر، درست است."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_FA a :TranslationVariant ;
+:text "زیرا هر کس خود را تنها خردمند می‌پندارد،"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_FA a :TranslationVariant ;
+:text "یا گمان می‌کند زبانی دارد که دیگری ندارد، یا جانی دارد،"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_FA a :TranslationVariant ;
+:text "چنین کسان، چون گشوده شوند، تهی دیده شده‌اند."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_FA a :TranslationVariant ;
+:text "اما برای مرد، اگر هم خردمند باشد، آموختن"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_FA a :TranslationVariant ;
+:text "چیزهای بسیار و بیش از اندازه سخت نایستادن، هیچ ننگی نیست."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_FA a :TranslationVariant ;
+:text "می‌بینی کنار جریان‌های سیلابی زمستانی، هر اندازه"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_FA a :TranslationVariant ;
+:text "درختان خم می‌شوند، چگونه شاخه‌ها را نجات می‌دهند،"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_FA a :TranslationVariant ;
+:text "اما آنها که مقاومت می‌کنند، با ریشه خود نابود می‌شوند."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_FA a :TranslationVariant ;
+:text "همین‌گونه، هر کس پای کشتی را سخت"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_FA a :TranslationVariant ;
+:text "کشیده نگاه دارد و هیچ نرم نشود، پس از آن"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_FA a :TranslationVariant ;
+:text "با عرشه‌های واژگون به زیر، دریانوردی خواهد کرد."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_FA a :TranslationVariant ;
+:text "پس نرم شو و به خشمت دگرگونی بده."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_FA a :TranslationVariant ;
+:text "زیرا اگر رأیی از سوی منِ جوان‌تر نیز"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_FA a :TranslationVariant ;
+:text "هست، من می‌گویم که بسیار برتر است"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_FA a :TranslationVariant ;
+:text "مردی چنان زاده شود که سراسر پر از دانش باشد؛"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_FA a :TranslationVariant ;
+:text "اما اگر چنین نباشد، زیرا معمولاً ترازو به آن سو نمی‌رود،"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_FA a :TranslationVariant ;
+:text "آموختن از کسانی که نیک می‌گویند نیز زیباست."^^xsd:string ;
+:relatedTo :Line_723 .

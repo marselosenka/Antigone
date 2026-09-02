@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-korean a owl:Ontology .
+# Korean translation variants for 384_to_440.ttl
+
+:TV_Line_384_KO a :TranslationVariant ;
+:text "이 여자가 바로 그 일을 해낸 자입니다."^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_KO a :TranslationVariant ;
+:text "우리가 이 여자를 묻고 있는 중에 붙잡았습니다. 그런데 크레온은 어디 있습니까?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_KO a :TranslationVariant ;
+:text "이분이 때맞게 다시 집에서 나오고 있습니다."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_KO a :TranslationVariant ;
+:text "무슨 일인가? 어떤 우연에 맞추어 내가 나왔는가?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_KO a :TranslationVariant ;
+:text "왕이여, 죽을 인간들에게 맹세로 물리칠 수 없는 것은 없습니다."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_KO a :TranslationVariant ;
+:text "뒤의 생각이 판단을 거짓되게 하기 때문입니다. 왜냐하면"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_KO a :TranslationVariant ;
+:text "제가 언젠가 여기로 다시 오리라고는 천천히라도 장담하지 않았을 것입니다,"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_KO a :TranslationVariant ;
+:text "그때 제가 시달렸던 당신의 위협들 때문에."^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_KO a :TranslationVariant ;
+:text "그러나 바깥에서, 기대를 벗어나 오는 기쁨은"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_KO a :TranslationVariant ;
+:text "다른 어떤 즐거움과도 길이에 있어 같지 않은 듯합니다."^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_KO a :TranslationVariant ;
+:text "저는 왔습니다, 맹세로는 비록 오지 않겠다고 맹세했지만,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_KO a :TranslationVariant ;
+:text "이 소녀를 데리고, 그녀는 무덤을"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_KO a :TranslationVariant ;
+:text "정돈하다가 잡혔습니다. 여기서는 제비가 흔들리지 않았습니다."^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_KO a :TranslationVariant ;
+:text "이것은 제 몫이고 제 행운이지, 다른 누구의 것이 아닙니다."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_KO a :TranslationVariant ;
+:text "그러니 이제, 왕이여, 당신 뜻대로 이 여자를 직접 붙잡아"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_KO a :TranslationVariant ;
+:text "판단하고 캐물으십시오. 저는 자유로운 자로서"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_KO a :TranslationVariant ;
+:text "이 재앙들에서 벗어나는 것이 정당합니다."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_KO a :TranslationVariant ;
+:text "너는 어떤 방식으로, 어디서 붙잡아 이 여자를 데려오는가?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_KO a :TranslationVariant ;
+:text "이 여자가 그 남자를 묻고 있었습니다. 당신은 모든 것을 아십니다."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_KO a :TranslationVariant ;
+:text "너는 네가 말하는 것을 참으로 이해하고 바르게 말하는가?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_KO a :TranslationVariant ;
+:text "당신이 금한 그 죽은 자를 이 여자가 묻는 것을"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_KO a :TranslationVariant ;
+:text "제가 보았습니다. 제가 명백하고 분명하게 말하고 있습니까?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_KO a :TranslationVariant ;
+:text "그리고 어떻게 보였고, 현장에서 붙잡혔는가?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_KO a :TranslationVariant ;
+:text "일은 이러했습니다. 우리가 도착했을 때,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_KO a :TranslationVariant ;
+:text "당신에게서 그 두려운 위협들을 받은 뒤,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_KO a :TranslationVariant ;
+:text "그 죽은 이를 덮고 있던 모든 먼지를 쓸어내고,"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_KO a :TranslationVariant ;
+:text "썩어가는 몸을 잘 드러내 놓은 뒤,"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_KO a :TranslationVariant ;
+:text "우리는 높은 언덕 꼭대기에서 바람을 등지고 앉았습니다,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_KO a :TranslationVariant ;
+:text "그에게서 나는 냄새가 우리를 치지 않도록 피해서."^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_KO a :TranslationVariant ;
+:text "사람이 사람을 깨우는 고함과 함께 움직이며,"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_KO a :TranslationVariant ;
+:text "누가 이 수고를 소홀히 하면 나쁜 꾸짖음으로 재촉했습니다."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_KO a :TranslationVariant ;
+:text "그렇게 얼마 동안 있었습니다, 밝은 태양의 원이"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_KO a :TranslationVariant ;
+:text "하늘 한가운데 서고"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_KO a :TranslationVariant ;
+:text "열기가 뜨거워질 때까지. 그때 갑자기 땅에서"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_KO a :TranslationVariant ;
+:text "회오리바람이 일어나 하늘의 재앙 같은 돌풍을 들어 올리고,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_KO a :TranslationVariant ;
+:text "들판을 가득 채우며, 평야 숲의"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_KO a :TranslationVariant ;
+:text "모든 잎을 해치고, 큰"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_KO a :TranslationVariant ;
+:text "하늘도 가득 찼습니다. 우리는 눈을 감고 신적인 병을 견뎠습니다."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_KO a :TranslationVariant ;
+:text "그리고 오랜 시간이 지나 이것이 사라지자,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_KO a :TranslationVariant ;
+:text "그 소녀가 보였습니다. 그녀는 쓰라린"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_KO a :TranslationVariant ;
+:text "새의 날카로운 소리를 내며 울부짖었습니다, 마치 빈"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_KO a :TranslationVariant ;
+:text "둥지에서 새끼들의 고아 된 자리를 보았을 때처럼."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_KO a :TranslationVariant ;
+:text "이 여자도 그렇게, 벌거벗은 시신을 보자,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_KO a :TranslationVariant ;
+:text "통곡으로 크게 울었고, 그 일을"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_KO a :TranslationVariant ;
+:text "해낸 자들에게 나쁜 저주를 퍼부었습니다."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_KO a :TranslationVariant ;
+:text "그리고 곧 두 손으로 목마른 먼지를 가져와,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_KO a :TranslationVariant ;
+:text "잘 두드려 만든 청동 물병에서 위에서부터"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_KO a :TranslationVariant ;
+:text "세 번 붓는 제주로 그 죽은 이를 장식했습니다."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_KO a :TranslationVariant ;
+:text "우리는 보고 달려들었고, 함께 그녀를"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_KO a :TranslationVariant ;
+:text "곧 붙잡았습니다. 그녀는 조금도 놀라지 않았습니다."^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_KO a :TranslationVariant ;
+:text "우리는 이전의 행위와 지금의 행위를"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_KO a :TranslationVariant ;
+:text "따져 물었고, 그녀는 어느 것도 부인하지 않았습니다."^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_KO a :TranslationVariant ;
+:text "그것은 제게 기쁘기도 하고 동시에 고통스럽기도 했습니다."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_KO a :TranslationVariant ;
+:text "자기 자신이 재앙에서 벗어난 것은"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_KO a :TranslationVariant ;
+:text "가장 즐거운 일이지만, 사랑하는 이들을 재앙으로 이끄는 것은"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_KO a :TranslationVariant ;
+:text "고통스럽습니다. 그러나 이 모든 것들은 제게"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_KO a :TranslationVariant ;
+:text "제 자신의 구원보다 작게 여기도록 타고났습니다."^^xsd:string ;
+:relatedTo :Line_440 .

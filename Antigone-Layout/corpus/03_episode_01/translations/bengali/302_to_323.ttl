@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-bengali a owl:Ontology .
+# Bengali translation variants for 302_to_323.ttl
+
+:TV_Line_302_BN a :TranslationVariant ;
+:text "আর যারা মজুরি নিয়ে এসব সম্পন্ন করেছে,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_BN a :TranslationVariant ;
+:text "সময়ে তারা শেষ পর্যন্ত শাস্তি ভোগ করতেই বাধ্য হয়েছে।"^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_BN a :TranslationVariant ;
+:text "কিন্তু যদি জিউস এখনও আমার কাছ থেকে সম্মান রাখেন,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_BN a :TranslationVariant ;
+:text "এ কথা ভালো করে জেনে রাখো, শপথ করে তোমাকে বলছি,"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_BN a :TranslationVariant ;
+:text "যদি এই কবরের নিজহাতে-করা কর্তার সন্ধান পেয়ে"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_BN a :TranslationVariant ;
+:text "আমার চোখের সামনে তাকে প্রকাশ না করো,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_BN a :TranslationVariant ;
+:text "তবে শুধু হেডিস তোমাদের জন্য যথেষ্ট হবে না, যতক্ষণ না"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_BN a :TranslationVariant ;
+:text "জীবন্ত ঝুলে এই ঔদ্ধত্য প্রকাশ করো,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_BN a :TranslationVariant ;
+:text "যাতে জেনে নাও লাভ কোথা থেকে আনতে হয়,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_BN a :TranslationVariant ;
+:text "তারপর থেকে লুট করো, আর শিখে নাও যে"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_BN a :TranslationVariant ;
+:text "সব জায়গা থেকে লাভ ভালোবাসা উচিত নয়।"^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_BN a :TranslationVariant ;
+:text "কারণ লজ্জাজনক আয়ের মধ্যে বেশির ভাগ মানুষকে"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_BN a :TranslationVariant ;
+:text "রক্ষিতের চেয়ে ধ্বংসপ্রাপ্ত দেখতে পাবে।"^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_BN a :TranslationVariant ;
+:text "তুমি কি আমাকে বলতে দেবে, না কি এভাবেই ফিরে যাই?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_BN a :TranslationVariant ;
+:text "তুমি কি এখনও জানো না কত কষ্টদায়কভাবে কথা বলছ?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_BN a :TranslationVariant ;
+:text "কানে, না তোমার আত্মার উপর কামড়াচ্ছি?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_BN a :TranslationVariant ;
+:text "আমার যন্ত্রণা কোথায়, তা তুমি কেন ছন্দে মাপছ?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_BN a :TranslationVariant ;
+:text "কর্তা তোমার মনে যন্ত্রণা দেয়; আর তোমার কানে দিই আমি।"^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_BN a :TranslationVariant ;
+:text "হায়, তুমি জন্ম থেকেই কত স্পষ্ট বাচাল।"^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_BN a :TranslationVariant ;
+:text "তবু কাজটি তো আমি কখনও করিনি।"^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_BN a :TranslationVariant ;
+:text "আর তাও রুপোর জন্য নিজের প্রাণ বিক্রি করে।"^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_BN a :TranslationVariant ;
+:text "হায়; সত্যিই ভয়ংকর, যাকে মনে হয়, তার কাছে মিথ্যাও মনে হওয়া।"^^xsd:string ;
+:relatedTo :Line_323 .

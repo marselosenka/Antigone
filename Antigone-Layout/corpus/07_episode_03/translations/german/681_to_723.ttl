@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-german a owl:Ontology .
+# German translation variants for 681_to_723.ttl
+
+:TV_Line_681_DE a :TranslationVariant ;
+:text "Uns scheint, wenn wir nicht von der Zeit bestohlen sind,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_DE a :TranslationVariant ;
+:text "dass du verständig sprichst über das, wovon du sprichst."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_DE a :TranslationVariant ;
+:text "Vater, die Götter lassen den Menschen Verstand wachsen,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_DE a :TranslationVariant ;
+:text "das Höchste von allem, was es an Gütern gibt."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_DE a :TranslationVariant ;
+:text "Ich aber, dass du dies nicht richtig sagst,"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_DE a :TranslationVariant ;
+:text "könnte ich weder sagen noch verstünde ich es zu sagen."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_DE a :TranslationVariant ;
+:text "Doch könnte es auch bei einem anderen gut stehen."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_DE a :TranslationVariant ;
+:text "Von Natur aber bin ich da, für dich alles zu beobachten, was"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_DE a :TranslationVariant ;
+:text "einer sagt oder einer tut oder zu tadeln hat."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_DE a :TranslationVariant ;
+:text "Denn dein Auge ist furchtbar für den Mann aus dem Volk"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_DE a :TranslationVariant ;
+:text "bei solchen Worten, an denen du dich, sie hörend, nicht erfreust;"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_DE a :TranslationVariant ;
+:text "mir aber ist es möglich, im Dunkeln dies zu hören,"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_DE a :TranslationVariant ;
+:text "wie die Stadt dieses Mädchen beklagt,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_DE a :TranslationVariant ;
+:text "dass sie von allen Frauen am wenigsten würdig"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_DE a :TranslationVariant ;
+:text "durch schlimmste Dinge wegen ruhmvollster Taten vergeht,"^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_DE a :TranslationVariant ;
+:text "sie, die ihren eigenen leiblichen Bruder in den Morden"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_DE a :TranslationVariant ;
+:text "gefallen, unbegraben, weder von rohfressenden Hunden"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_DE a :TranslationVariant ;
+:text "zugrunde gehen ließ noch von irgendeinem Vogel."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_DE a :TranslationVariant ;
+:text "Ist diese nicht würdig, goldene Ehre zu erlangen?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_DE a :TranslationVariant ;
+:text "Solche dunkle Kunde kommt schweigend heran."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_DE a :TranslationVariant ;
+:text "Für mich aber, wenn du glücklich handelst, Vater,"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_DE a :TranslationVariant ;
+:text "gibt es keinen Besitz, der ehrwürdiger wäre."^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_DE a :TranslationVariant ;
+:text "Denn welcher Schmuck ist Kindern größer"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_DE a :TranslationVariant ;
+:text "als eines blühenden Vaters guter Ruhm, oder welcher dem Vater von Kindern?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_DE a :TranslationVariant ;
+:text "Trage nun nicht nur eine einzige Sinnesart in dir selbst,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_DE a :TranslationVariant ;
+:text "dass, wie du sagst, dies und nichts anderes richtig sei."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_DE a :TranslationVariant ;
+:text "Denn wer selbst entweder allein zu denken meint"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_DE a :TranslationVariant ;
+:text "oder eine Zunge, die kein anderer hat, oder eine Seele zu besitzen,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_DE a :TranslationVariant ;
+:text "diese erscheinen, wenn sie entfaltet werden, leer."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_DE a :TranslationVariant ;
+:text "Doch für einen Mann, auch wenn er weise ist, ist das Lernen"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_DE a :TranslationVariant ;
+:text "von vielem nichts Schändliches, und auch nicht allzu sehr zu spannen."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_DE a :TranslationVariant ;
+:text "Du siehst bei winterlichen Strömen, wie viele"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_DE a :TranslationVariant ;
+:text "der Bäume nachgeben, wie sie ihre Zweige retten,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_DE a :TranslationVariant ;
+:text "die aber, die dagegen spannen, gehen mit der Wurzel selbst zugrunde."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_DE a :TranslationVariant ;
+:text "Ebenso aber, wer am Schiff den haltenden Fuß"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_DE a :TranslationVariant ;
+:text "gespannt hat und gar nicht nachgibt, der segelt fortan,"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_DE a :TranslationVariant ;
+:text "nach unten gewendet, auf umgekehrten Ruderbänken."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_DE a :TranslationVariant ;
+:text "Sondern weiche und gib dem Zorn Veränderung."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_DE a :TranslationVariant ;
+:text "Denn wenn auch von mir, dem Jüngeren, irgendeine Meinung"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_DE a :TranslationVariant ;
+:text "hinzukommt, sage ich jedenfalls, es sei bei weitem vorzuziehen,"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_DE a :TranslationVariant ;
+:text "dass der Mann von Natur in allem voll Wissen sei;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_DE a :TranslationVariant ;
+:text "wenn aber nicht, denn dies pflegt nicht dahin zu neigen,"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_DE a :TranslationVariant ;
+:text "ist es auch schön, von denen zu lernen, die gut reden."^^xsd:string ;
+:relatedTo :Line_723 .

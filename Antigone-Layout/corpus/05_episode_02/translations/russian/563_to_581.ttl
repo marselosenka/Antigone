@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-russian a owl:Ontology .
+# Russian translation variants for 563_to_581.ttl
+
+:TV_Line_563_RU a :TranslationVariant ;
+:text "Ведь никогда, владыка, даже тот ум, который вырос,"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_RU a :TranslationVariant ;
+:text "не остается у тех, кто плохо поступает, но выходит из себя."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_RU a :TranslationVariant ;
+:text "У тебя, во всяком случае, когда ты выбрала с дурными делать дурное."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_RU a :TranslationVariant ;
+:text "Ибо какая жизнь мне одной без нее пригодна?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_RU a :TranslationVariant ;
+:text "Но не говори о ней; ведь ее уже нет."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_RU a :TranslationVariant ;
+:text "Но ты убьешь невесту своего собственного сына?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_RU a :TranslationVariant ;
+:text "Ведь пригодные для пахоты поля есть и у других."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_RU a :TranslationVariant ;
+:text "Но не так, как для него с этой было устроено."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_RU a :TranslationVariant ;
+:text "Дурных жен для сыновей я ненавижу."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_RU a :TranslationVariant ;
+:text "О милейший Гемон, как отец тебя бесчестит."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_RU a :TranslationVariant ;
+:text "Слишком уж мучишь и ты, и твоя брачная постель."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_RU a :TranslationVariant ;
+:text "Неужели ты лишишь своего сына ее?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_RU a :TranslationVariant ;
+:text "Аид по природе тот, кто прекратит эти браки."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_RU a :TranslationVariant ;
+:text "Решено, как кажется, что она умрет."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_RU a :TranslationVariant ;
+:text "И тебе, и мне. Больше никаких задержек, но ее"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_RU a :TranslationVariant ;
+:text "ведите внутрь, рабы; отныне нужно,"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_RU a :TranslationVariant ;
+:text "чтобы эти женщины были женщинами, а не распущенными."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_RU a :TranslationVariant ;
+:text "Ведь бегут, знаешь, и смелые, когда близко"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_RU a :TranslationVariant ;
+:text "уже Аида они видят у жизни."^^xsd:string ;
+:relatedTo :Line_581 .

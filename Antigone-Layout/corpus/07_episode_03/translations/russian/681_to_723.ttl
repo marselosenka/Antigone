@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-russian a owl:Ontology .
+# Russian translation variants for 681_to_723.ttl
+
+:TV_Line_681_RU a :TranslationVariant ;
+:text "Нам, если мы не обмануты временем,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_RU a :TranslationVariant ;
+:text "кажется, что ты говоришь разумно о том, что говоришь."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_RU a :TranslationVariant ;
+:text "Отец, боги взращивают в людях разум,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_RU a :TranslationVariant ;
+:text "высшее из всех приобретений, какие есть."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_RU a :TranslationVariant ;
+:text "А я, что ты говоришь это неправильно,"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_RU a :TranslationVariant ;
+:text "не мог бы и не умел бы сказать."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_RU a :TranslationVariant ;
+:text "Но может случиться, что и у другого есть что-то хорошее."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_RU a :TranslationVariant ;
+:text "Я по природе обязан высматривать для тебя все,"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_RU a :TranslationVariant ;
+:text "что кто-то говорит, или делает, или имеет упрекнуть."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_RU a :TranslationVariant ;
+:text "Ведь твой взгляд страшен простому гражданину"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_RU a :TranslationVariant ;
+:text "для таких слов, которыми ты не насладишься, услышав;"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_RU a :TranslationVariant ;
+:text "а мне можно слышать это во мраке:"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_RU a :TranslationVariant ;
+:text "как город оплакивает эту девушку,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_RU a :TranslationVariant ;
+:text "что она, достойнейшая из всех женщин,"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_RU a :TranslationVariant ;
+:text "самой худшей смертью гибнет за самые славные дела."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_RU a :TranslationVariant ;
+:text "Она своего родного брата, павшего"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_RU a :TranslationVariant ;
+:text "в убийствах, не оставила непогребенным, чтобы от плотоядных псов"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_RU a :TranslationVariant ;
+:text "он погиб, или от какой-либо птицы."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_RU a :TranslationVariant ;
+:text "Разве она не достойна получить золотую честь?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_RU a :TranslationVariant ;
+:text "Такая темная молва молча распространяется."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_RU a :TranslationVariant ;
+:text "Для меня же, отец, когда ты поступаешь счастливо,"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_RU a :TranslationVariant ;
+:text "нет никакого имущества более ценного."^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_RU a :TranslationVariant ;
+:text "Ибо какая большая гордость для детей, чем слава"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_RU a :TranslationVariant ;
+:text "цветущего отца, или какая для отца от детей?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_RU a :TranslationVariant ;
+:text "Так не носи в себе одного лишь нрава,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_RU a :TranslationVariant ;
+:text "будто то, что ты говоришь, и ничто другое, правильно."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_RU a :TranslationVariant ;
+:text "Ибо кто сам себе кажется единственным мыслящим,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_RU a :TranslationVariant ;
+:text "или имеющим язык, какого нет у другого, или душу,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_RU a :TranslationVariant ;
+:text "те, раскрытые, оказываются пустыми."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_RU a :TranslationVariant ;
+:text "Но мужу, даже если он мудр, учиться"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_RU a :TranslationVariant ;
+:text "многому не постыдно, как и не натягивать слишком сильно."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_RU a :TranslationVariant ;
+:text "Ты видишь у потоков зимних рек, сколько"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_RU a :TranslationVariant ;
+:text "деревьев уступает, как ветви сохраняются,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_RU a :TranslationVariant ;
+:text "а сопротивляющиеся гибнут с самим корнем."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_RU a :TranslationVariant ;
+:text "Так же и кто на корабле, натянув крепко"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_RU a :TranslationVariant ;
+:text "шкот, ни в чем не уступает, тот, перевернув"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_RU a :TranslationVariant ;
+:text "скамьи вниз, дальше плывет днищем вверх."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_RU a :TranslationVariant ;
+:text "Но уступи и дай перемену гневу."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_RU a :TranslationVariant ;
+:text "Если и от меня, более молодого, есть какое-то"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_RU a :TranslationVariant ;
+:text "суждение, то я говорю: намного лучше"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_RU a :TranslationVariant ;
+:text "быть мужем, полным всякого знания от рождения;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_RU a :TranslationVariant ;
+:text "если же нет, ибо это обычно не склоняется так,"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_RU a :TranslationVariant ;
+:text "прекрасно учиться и у тех, кто говорит хорошо."^^xsd:string ;
+:relatedTo :Line_723 .

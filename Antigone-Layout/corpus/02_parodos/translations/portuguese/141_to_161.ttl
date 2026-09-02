@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-portuguese a owl:Ontology .
+# Portuguese translation variants for 141_to_161.ttl
+
+:TV_Line_141_PT a :TranslationVariant ;
+:text "Pois sete chefes de tropa, junto a sete portas,"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_PT a :TranslationVariant ;
+:text "postos iguais contra iguais, deixaram"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_PT a :TranslationVariant ;
+:text "a Zeus troféu seus tributos todos de bronze,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_PT a :TranslationVariant ;
+:text "exceto os dois odiosos, que de um só pai"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_PT a :TranslationVariant ;
+:text "e uma só mãe nascidos, contra si mesmos"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_PT a :TranslationVariant ;
+:text "ergueram lanças de dois poderes"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_PT a :TranslationVariant ;
+:text "e ambos tiveram parte em morte comum."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_PT a :TranslationVariant ;
+:text "Mas, pois, a Vitória de grande nome veio"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_PT a :TranslationVariant ;
+:text "alegrando-se com Tebas de muitos carros,"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_PT a :TranslationVariant ;
+:text "das guerras de agora"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_PT a :TranslationVariant ;
+:text "ponhamos esquecimento,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_PT a :TranslationVariant ;
+:text "e aos templos dos deuses, com coros"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_PT a :TranslationVariant ;
+:text "que duram toda a noite, vamos todos,"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_PT a :TranslationVariant ;
+:text "e aquele que faz Tebas tremer,"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_PT a :TranslationVariant ;
+:text "o Báquico, conduza."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_PT a :TranslationVariant ;
+:text "Mas, pois este aqui é o rei da terra,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_PT a :TranslationVariant ;
+:text "Creonte, filho de Meneceu, novo"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_PT a :TranslationVariant ;
+:text "pelas recentes circunstâncias dos deuses,"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_PT a :TranslationVariant ;
+:text "avança, remando que desígnio afinal,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_PT a :TranslationVariant ;
+:text "pois esta convocação dos anciãos"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_PT a :TranslationVariant ;
+:text "convocou por proclamação comum?"^^xsd:string ;
+:relatedTo :Line_161 .

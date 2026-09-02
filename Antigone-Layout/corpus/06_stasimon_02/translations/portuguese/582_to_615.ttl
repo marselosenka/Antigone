@@ -1,0 +1,112 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-582-615-portuguese a owl:Ontology .
+# Portuguese translation variants for 582_to_615.ttl
+
+# Line 582 is commented out in canonical.
+
+:TV_Line_583_PT a :TranslationVariant ;
+:text "Felizes aqueles cuja vida não provou os males;"^^xsd:string ;
+:relatedTo :Line_583 .
+
+:TV_Line_584_PT a :TranslationVariant ;
+:text "pois, para aqueles cuja casa é sacudida pelos deuses,"^^xsd:string ;
+:relatedTo :Line_584 .
+
+:TV_Line_585_PT a :TranslationVariant ;
+:text "nada da ruína falta, rastejando sobre a multidão da geração;"^^xsd:string ;
+:relatedTo :Line_585 .
+
+:TV_Line_586_PT a :TranslationVariant ;
+:text "semelhante às ondas marinhas, quando, por sopros difíceis,"^^xsd:string ;
+:relatedTo :Line_586 .
+
+:TV_Line_587_PT a :TranslationVariant ;
+:text "trácios, a escuridão corre sobre o abismo do mar,"^^xsd:string ;
+:relatedTo :Line_587 .
+
+# Lines 588 and 589 are commented out in canonical.
+
+:TV_Line_590_PT a :TranslationVariant ;
+:text "ela rola do fundo a areia negra, e"^^xsd:string ;
+:relatedTo :Line_590 .
+
+:TV_Line_591_PT a :TranslationVariant ;
+:text "sob ventos adversos, as costas golpeadas de frente ribombam na boca."^^xsd:string ;
+:relatedTo :Line_591 .
+
+# Line 592 is commented out in canonical.
+
+:TV_Line_593_PT a :TranslationVariant ;
+:text "os males antigos das casas dos Labdácidas eu vejo,"^^xsd:string ;
+:relatedTo :Line_593 .
+
+# Line 594 is commented out in canonical.
+
+:TV_Line_595_PT a :TranslationVariant ;
+:text "dores caindo sobre dores dos mortos desaparecidos,"^^xsd:string ;
+:relatedTo :Line_595 .
+
+:TV_Line_596_PT a :TranslationVariant ;
+:text "e uma geração não liberta uma geração, mas"^^xsd:string ;
+:relatedTo :Line_596 .
+
+:TV_Line_597_PT a :TranslationVariant ;
+:text "algum deus a derruba, e ela não tem libertação. Pois agora, das extremas"^^xsd:string ;
+:relatedTo :Line_597 .
+
+# Lines 598 and 599 are commented out in canonical.
+
+:TV_Line_600_PT a :TranslationVariant ;
+:text "raízes, estendia-se uma luz nas casas de Édipo,"^^xsd:string ;
+:relatedTo :Line_600 .
+
+:TV_Line_601_PT a :TranslationVariant ;
+:text "mas o pó sangrento dos deuses inferiores"^^xsd:string ;
+:relatedTo :Line_601 .
+
+:TV_Line_602_PT a :TranslationVariant ;
+:text "a corta, pela insensatez da palavra e pela fúria do pensamento."^^xsd:string ;
+:relatedTo :Line_602 .
+
+# Lines 603 and 604 are commented out in canonical.
+
+:TV_Line_605_PT a :TranslationVariant ;
+:text "Teu poder, Zeus, que transgressão dos homens poderia contê-lo?"^^xsd:string ;
+:relatedTo :Line_605 .
+
+:TV_Line_606_PT a :TranslationVariant ;
+:text "nem o sono que tudo envelhece jamais o toma,"^^xsd:string ;
+:relatedTo :Line_606 .
+
+:TV_Line_607_PT a :TranslationVariant ;
+:text "nem os meses incansáveis dos deuses; mas no tempo sem velhice"^^xsd:string ;
+:relatedTo :Line_607 .
+
+# Lines 608 and 609 are commented out in canonical.
+
+:TV_Line_610_PT a :TranslationVariant ;
+:text "como soberano possuis o brilho marmóreo do Olimpo."^^xsd:string ;
+:relatedTo :Line_610 .
+
+:TV_Line_611_PT a :TranslationVariant ;
+:text "Tanto o que vem depois quanto o que está por vir"^^xsd:string ;
+:relatedTo :Line_611 .
+
+:TV_Line_612_PT a :TranslationVariant ;
+:text "e o que veio antes bastará"^^xsd:string ;
+:relatedTo :Line_612 .
+
+:TV_Line_613_PT a :TranslationVariant ;
+:text "esta lei: nada de grande se aproxima"^^xsd:string ;
+:relatedTo :Line_613 .
+
+:TV_Line_614_PT a :TranslationVariant ;
+:text "da vida dos mortais totalmente fora da ruína."^^xsd:string ;
+:relatedTo :Line_614 .
+
+:TV_Line_615_PT a :TranslationVariant ;
+:text "Pois a esperança muito errante é para muitos homens benefício,"^^xsd:string ;
+:relatedTo :Line_615 .

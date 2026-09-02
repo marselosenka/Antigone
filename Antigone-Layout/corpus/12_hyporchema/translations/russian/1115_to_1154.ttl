@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-russian a owl:Ontology .
+# Russian translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_RU a :TranslationVariant ;
+:text "О многоименный, слава кадмейской невесты,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_RU a :TranslationVariant ;
+:text "и порождение тяжкогремящего Зевса,"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_RU a :TranslationVariant ;
+:text "ты, кто объемлет славную"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_RU a :TranslationVariant ;
+:text "Италию и властвует"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_RU a :TranslationVariant ;
+:text "во всенародных лонах элевсинской"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_RU a :TranslationVariant ;
+:text "Део, Бакхей Бакхантов,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_RU a :TranslationVariant ;
+:text "ты, обитающий в материнском городе Фивах"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_RU a :TranslationVariant ;
+:text "у влажных"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Lines 1123 and 1124 do not exist in Antigone
+
+:TV_Line_1125_RU a :TranslationVariant ;
+:text "потоков Исмена и на посеве дикого дракона."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_RU a :TranslationVariant ;
+:text "Тебя над двуглавой скалой видела сверкающая дымность,"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_RU a :TranslationVariant ;
+:text "там, где корикийские"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_RU a :TranslationVariant ;
+:text "нимфы-бакханки шествуют,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in Antigone
+
+:TV_Line_1130_RU a :TranslationVariant ;
+:text "и источник Касталии."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_RU a :TranslationVariant ;
+:text "И тебя от нисейских гор"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_RU a :TranslationVariant ;
+:text "плющеносные склоны и зеленый берег"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_RU a :TranslationVariant ;
+:text "многовиноградный посылают,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_RU a :TranslationVariant ;
+:text "когда бессмертные слова"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_RU a :TranslationVariant ;
+:text "эвойно кричат, надзирая за фиванскими улицами;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in Antigone
+
+:TV_Line_1137_RU a :TranslationVariant ;
+:text "ее ты чтишь превыше всех городов"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_RU a :TranslationVariant ;
+:text "вместе с матерью, пораженной молнией;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in Antigone
+
+:TV_Line_1140_RU a :TranslationVariant ;
+:text "и теперь, когда весь город"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_RU a :TranslationVariant ;
+:text "охвачен насильственной болезнью,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_RU a :TranslationVariant ;
+:text "приди очищающей стопой через парнасский склон"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Lines 1143 and 1144 do not exist in Antigone
+
+:TV_Line_1145_RU a :TranslationVariant ;
+:text "или через стонущий пролив."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_RU a :TranslationVariant ;
+:text "Ио, предводитель хора огнедышащих звезд,"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_RU a :TranslationVariant ;
+:text "страж ночных голосов,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_RU a :TranslationVariant ;
+:text "дитя, рожденное Зевсом,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in Antigone
+
+:TV_Line_1150_RU a :TranslationVariant ;
+:text "о владыка, вместе с твоими спутницами"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_RU a :TranslationVariant ;
+:text "Фиадами, которые, безумствуя,"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_RU a :TranslationVariant ;
+:text "всю ночь чествуют тебя, Иакха, распорядителя."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Lines 1153 and 1154 do not exist in Antigone

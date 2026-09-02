@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-indonesian a owl:Ontology .
+# Indonesian translation variants for 966_to_987.ttl
+
+:TV_Line_966_ID a :TranslationVariant ;
+:text "Di samping tebing-tebing biru tua dari laut kembar"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_ID a :TranslationVariant ;
+:text "terbentang pantai-pantai Bosporos dan tepi bangsa Trakia,"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Line 968 and 969 do not exist in Antigone
+
+:TV_Line_970_ID a :TranslationVariant ;
+:text "Salmidessos, tempat Ares yang dekat kota"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_ID a :TranslationVariant ;
+:text "bagi kedua putra Fineus"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_ID a :TranslationVariant ;
+:text "melihat luka terkutuk,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_ID a :TranslationVariant ;
+:text "dibutakan oleh istri yang buas,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_ID a :TranslationVariant ;
+:text "buta pada lingkar mata yang penuh pembalasan,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_ID a :TranslationVariant ;
+:text "dipukul oleh tangan-tangan"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_ID a :TranslationVariant ;
+:text "berdarah dan ujung-ujung kumparan tenun."^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_ID a :TranslationVariant ;
+:text "Dan sambil meleleh habis, mereka yang malang menangisi penderitaan malang"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Line 978 and 979 do not exist in Antigone
+
+:TV_Line_980_ID a :TranslationVariant ;
+:text "karena memiliki kelahiran dari ibu yang tanpa pernikahan;"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_ID a :TranslationVariant ;
+:text "dan perempuan itu berasal dari benih"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_ID a :TranslationVariant ;
+:text "Erekhtheidai yang lahir purba,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_ID a :TranslationVariant ;
+:text "dan di gua-gua yang jauh"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_ID a :TranslationVariant ;
+:text "ia dibesarkan di tengah badai-badai ayahnya,"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_ID a :TranslationVariant ;
+:text "putri Boreas, secepat kuda di atas tebing yang curam,"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_ID a :TranslationVariant ;
+:text "anak para dewa; tetapi bahkan atas dirinya"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_ID a :TranslationVariant ;
+:text "Moirai yang panjang umur memegang kendali, wahai anak."^^xsd:string ;
+:relatedTo :Line_987 .

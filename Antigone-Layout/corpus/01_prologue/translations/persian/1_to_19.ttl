@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-persian a owl:Ontology .
+# Persian translation variants for 1_to_19.ttl
+
+:TV_Line_001_FA a :TranslationVariant ;
+:text "ای ایسمینه، ای سرِ مشترک و هم‌خونِ خواهرانه،"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_FA a :TranslationVariant ;
+:text "آیا می‌دانی که زئوس از رنج‌های برخاسته از اودیپوس،"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_FA a :TranslationVariant ;
+:text "کدام را هنوز در زندگی ما دو تن به انجام نمی‌رساند؟"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_FA a :TranslationVariant ;
+:text "زیرا هیچ چیز نه دردناک، نه بی‌بهره از تباهی،"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_FA a :TranslationVariant ;
+:text "نه شرم‌آور و نه بی‌آبرو هست، از هر گونه‌ای، که من"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_FA a :TranslationVariant ;
+:text "در میان رنج‌های تو و خودم ندیده باشم."^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_FA a :TranslationVariant ;
+:text "و اکنون این چیست که می‌گویند سردار همین دم"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_FA a :TranslationVariant ;
+:text "برای سراسر شهر فرمانی عمومی نهاده است؟"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_FA a :TranslationVariant ;
+:text "آیا چیزی شنیده‌ای و به گوشت رسیده است؟ یا از تو پنهان مانده"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_FA a :TranslationVariant ;
+:text "که بدی‌های دشمنان به سوی دوستان می‌آید؟"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_FA a :TranslationVariant ;
+:text "برای من، آنتیگونه، هیچ سخنی از دوستان"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_FA a :TranslationVariant ;
+:text "نه خوش و نه دردناک نرسیده است، از آن هنگام که"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_FA a :TranslationVariant ;
+:text "ما دو تن از دو برادر محروم شدیم،"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_FA a :TranslationVariant ;
+:text "که در یک روز، به دست دوگانه، جان سپردند."^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_FA a :TranslationVariant ;
+:text "و چون سپاه آرگیوها در همین شب"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_FA a :TranslationVariant ;
+:text "رفته و ناپدید شده است، من چیزی فراتر نمی‌دانم،"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_FA a :TranslationVariant ;
+:text "نه این‌که خوشبخت‌ترم، نه این‌که بیشتر گرفتار تباهی‌ام."^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_FA a :TranslationVariant ;
+:text "خوب می‌دانستم؛ و برای همین تو را بیرون از دروازه‌های حیاط"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_FA a :TranslationVariant ;
+:text "فرستادم تا تنها تو بشنوی."^^xsd:string ;
+:relatedTo :Line_019 .

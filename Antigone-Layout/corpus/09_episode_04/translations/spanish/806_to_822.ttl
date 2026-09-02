@@ -1,0 +1,28 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-spanish a owl:Ontology .
+# Spanish translation variants for 806_to_822.ttl
+
+:TV_Line_806_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_806 ; :text "Miradme, ciudadanos de la tierra paterna, mientras camino por el último camino"^^xsd:string .
+:TV_Line_807_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_807 ; :text "y contemplo por última vez la luz del sol,"^^xsd:string .
+
+# Lines 808 and 809 do not exist in Antigone.
+
+:TV_Line_810_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_810 ; :text "y nunca más; sino que Hades, que a todos acuesta, me lleva viva"^^xsd:string .
+:TV_Line_811_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_811 ; :text "a la ribera"^^xsd:string .
+:TV_Line_812_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_812 ; :text "del Aqueronte, sin parte en cantos nupciales ni en bodas,"^^xsd:string .
+
+# Lines 813 and 814 do not exist in Antigone.
+
+:TV_Line_815_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_815 ; :text "ningún himno me ha cantado aún; con el Aqueronte me desposaré."^^xsd:string .
+
+# Line 816 does not exist in Antigone.
+
+:TV_Line_817_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_817 ; :text "Así pues, ilustre y con alabanza,"^^xsd:string .
+:TV_Line_818_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_818 ; :text "te marchas a esta cavidad de los muertos,"^^xsd:string .
+:TV_Line_819_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_819 ; :text "sin haber sido golpeada por enfermedades destructoras,"^^xsd:string .
+:TV_Line_820_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_820 ; :text "ni haber recibido la paga de las espadas;"^^xsd:string .
+:TV_Line_821_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_821 ; :text "sino por tu propia ley, viva y sola,"^^xsd:string .
+:TV_Line_822_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_822 ; :text "única entre los mortales, descenderás al Hades."^^xsd:string .

@@ -1,0 +1,83 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-spanish a owl:Ontology .
+# Spanish translation variants for 1_to_19.ttl
+
+:TV_Line_001_ES a :TranslationVariant ;
+    :text "Oh Ismene, hermana de mi misma sangre,"^^xsd:string ;
+    :relatedTo :Line_001 .
+
+:TV_Line_002_ES a :TranslationVariant ;
+    :text "¿sabes si Zeus, de los males que vienen de Edipo,"^^xsd:string ;
+    :relatedTo :Line_002 .
+
+:TV_Line_003_ES a :TranslationVariant ;
+    :text "dejará alguno sin cumplir en nosotras mientras vivamos?"^^xsd:string ;
+    :relatedTo :Line_003 .
+
+:TV_Line_004_ES a :TranslationVariant ;
+    :text "Pues no hay nada doloroso, ni sin ruina,"^^xsd:string ;
+    :relatedTo :Line_004 .
+
+:TV_Line_005_ES a :TranslationVariant ;
+    :text "ni vergonzoso, ni deshonroso, que yo no"^^xsd:string ;
+    :relatedTo :Line_005 .
+
+:TV_Line_006_ES a :TranslationVariant ;
+    :text "haya visto ya entre tus males y los míos."^^xsd:string ;
+    :relatedTo :Line_006 .
+
+:TV_Line_007_ES a :TranslationVariant ;
+    :text "Y ahora, ¿qué es ese edicto que dicen"^^xsd:string ;
+    :relatedTo :Line_007 .
+
+:TV_Line_008_ES a :TranslationVariant ;
+    :text "que el general acaba de imponer a toda la ciudad?"^^xsd:string ;
+    :relatedTo :Line_008 .
+
+:TV_Line_009_ES a :TranslationVariant ;
+    :text "¿Sabes algo, lo has oído? ¿O se te oculta"^^xsd:string ;
+    :relatedTo :Line_009 .
+
+:TV_Line_010_ES a :TranslationVariant ;
+    :text "que males de enemigos avanzan contra los nuestros?"^^xsd:string ;
+    :relatedTo :Line_010 .
+
+:TV_Line_011_ES a :TranslationVariant ;
+    :text "A mí, Antígona, ninguna noticia de los nuestros"^^xsd:string ;
+    :relatedTo :Line_011 .
+
+:TV_Line_012_ES a :TranslationVariant ;
+    :text "me ha llegado, ni grata ni dolorosa, desde que"^^xsd:string ;
+    :relatedTo :Line_012 .
+
+:TV_Line_013_ES a :TranslationVariant ;
+    :text "nosotras dos quedamos privadas de dos hermanos,"^^xsd:string ;
+    :relatedTo :Line_013 .
+
+:TV_Line_014_ES a :TranslationVariant ;
+    :text "muertos en un mismo día por doble mano."^^xsd:string ;
+    :relatedTo :Line_014 .
+
+:TV_Line_015_ES a :TranslationVariant ;
+    :text "Y desde que el ejército argivo se marchó"^^xsd:string ;
+    :relatedTo :Line_015 .
+
+:TV_Line_016_ES a :TranslationVariant ;
+    :text "esta misma noche, nada sé de más,"^^xsd:string ;
+    :relatedTo :Line_016 .
+
+:TV_Line_017_ES a :TranslationVariant ;
+    :text "ni que sea más afortunada ni más desgraciada."^^xsd:string ;
+    :relatedTo :Line_017 .
+
+:TV_Line_018_ES a :TranslationVariant ;
+    :text "Lo sabía bien; por eso te hice salir"^^xsd:string ;
+    :relatedTo :Line_018 .
+
+:TV_Line_019_ES a :TranslationVariant ;
+    :text "fuera de las puertas del palacio, para que solo tú me oyeras."^^xsd:string ;
+    :relatedTo :Line_019 .

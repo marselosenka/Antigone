@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-italian a owl:Ontology .
+# Italian translation variants for 90_to_99.ttl
+
+:TV_Line_90_IT a :TranslationVariant ;
+:text "Se davvero potrai; ma ami cose impossibili."^^xsd:string ;
+:relatedTo :Line_90 .
+
+:TV_Line_91_IT a :TranslationVariant ;
+:text "Dunque, quando ormai non avrò forza, smetterò."^^xsd:string ;
+:relatedTo :Line_91 .
+
+:TV_Line_92_IT a :TranslationVariant ;
+:text "Ma non conviene cominciare a cacciare l'impossibile."^^xsd:string ;
+:relatedTo :Line_92 .
+
+:TV_Line_93_IT a :TranslationVariant ;
+:text "Se dirai queste cose, sarai odiata da me,"^^xsd:string ;
+:relatedTo :Line_93 .
+
+:TV_Line_94_IT a :TranslationVariant ;
+:text "e giustamente starai accanto al morto come nemica."^^xsd:string ;
+:relatedTo :Line_94 .
+
+:TV_Line_95_IT a :TranslationVariant ;
+:text "Ma lascia me e la cattiva decisione che viene da me"^^xsd:string ;
+:relatedTo :Line_95 .
+
+:TV_Line_96_IT a :TranslationVariant ;
+:text "patire questa cosa terribile; infatti non subirò"^^xsd:string ;
+:relatedTo :Line_96 .
+
+:TV_Line_97_IT a :TranslationVariant ;
+:text "nulla di così grande da non morire nobilmente."^^xsd:string ;
+:relatedTo :Line_97 .
+
+:TV_Line_98_IT a :TranslationVariant ;
+:text "Ma, se ti sembra, va'; sappi però questo:"^^xsd:string ;
+:relatedTo :Line_98 .
+
+:TV_Line_99_IT a :TranslationVariant ;
+:text "vai senza senno, ma per i tuoi cari giustamente cara."^^xsd:string ;
+:relatedTo :Line_99 .

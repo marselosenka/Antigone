@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-french a owl:Ontology .
+# French translation variants for 63_to_89.ttl
+
+:TV_Line_063_FR a :TranslationVariant ;
+:text "ensuite, puisque nous sommes gouvernées par plus forts,"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_FR a :TranslationVariant ;
+:text "il faut entendre cela, et même des choses plus douloureuses encore."^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_FR a :TranslationVariant ;
+:text "Pour moi donc, en demandant à ceux de dessous la terre"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_FR a :TranslationVariant ;
+:text "de garder pardon, puisque je suis contrainte à cela,"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_FR a :TranslationVariant ;
+:text "j’obéirai à ceux qui se tiennent au pouvoir; car"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_FR a :TranslationVariant ;
+:text "faire plus qu’il ne faut n’a aucun sens."^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_FR a :TranslationVariant ;
+:text "Je ne te l’ordonnerais pas; et même si tu voulais encore"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_FR a :TranslationVariant ;
+:text "agir, tu ne le ferais pas avec joie avec moi."^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_FR a :TranslationVariant ;
+:text "Mais pense comme il te semble bon; moi, lui,"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_FR a :TranslationVariant ;
+:text "je l’ensevelirai; il m’est beau de mourir en faisant cela."^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_FR a :TranslationVariant ;
+:text "Aimée, je reposerai avec lui, auprès d’un aimé,"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_FR a :TranslationVariant ;
+:text "ayant commis pieusement un crime; car plus long est le temps"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_FR a :TranslationVariant ;
+:text "où il me faut plaire à ceux d’en bas qu’à ceux d’ici."^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_FR a :TranslationVariant ;
+:text "Là-bas en effet je reposerai pour toujours; mais toi, si bon te semble,"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_FR a :TranslationVariant ;
+:text "tiens pour déshonorées les choses honorées des dieux."^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_FR a :TranslationVariant ;
+:text "Pour moi, je ne les tiens pas pour déshonorées; mais"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_FR a :TranslationVariant ;
+:text "je suis par nature impuissante à agir contre la force des citoyens."^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_FR a :TranslationVariant ;
+:text "Toi, tu pourrais mettre cela en avant; moi, pour ma part,"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_FR a :TranslationVariant ;
+:text "j’irai amonceler une tombe pour mon frère très cher."^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_FR a :TranslationVariant ;
+:text "Hélas, malheureuse, comme je tremble pour toi !"^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_FR a :TranslationVariant ;
+:text "Ne tremble pas d’avance pour moi; redresse ton propre destin."^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_FR a :TranslationVariant ;
+:text "Mais du moins ne révèle d’avance cette action à personne;"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_FR a :TranslationVariant ;
+:text "cache-la dans le secret; moi aussi je ferai de même."^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_FR a :TranslationVariant ;
+:text "Hélas, proclame-la; tu me seras bien plus odieuse"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_FR a :TranslationVariant ;
+:text "en te taisant, si tu n’annonces pas ces choses à tous."^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_FR a :TranslationVariant ;
+:text "Tu as un cœur chaud pour des choses froides."^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_FR a :TranslationVariant ;
+:text "Mais je sais que je plais à ceux à qui je dois surtout plaire."^^xsd:string ;
+:relatedTo :Line_089 .

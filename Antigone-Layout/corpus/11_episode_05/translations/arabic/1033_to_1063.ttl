@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-arabic a owl:Ontology .
+# Arabic translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_AR a :TranslationVariant ;
+:text "أيها الشيخ، إنكم جميعًا، كرماة السهام نحو الهدف،"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_AR a :TranslationVariant ;
+:text "تطلقون سهامكم على هذا الرجل، ولا حتى من العرافة"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_AR a :TranslationVariant ;
+:text "أنا سالم منكم؛ ومن قبل جنسكم"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_AR a :TranslationVariant ;
+:text "بِعتُموني وحمّلتموني منذ زمن طويل."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_AR a :TranslationVariant ;
+:text "اربحوا إذن، واتجروا بكهرب سرديس،"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_AR a :TranslationVariant ;
+:text "إن شئتم، وبذهب الهند؛"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_AR a :TranslationVariant ;
+:text "أما ذاك فلن تخفوه في قبر،"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_AR a :TranslationVariant ;
+:text "ولا حتى لو أرادت نسور زيوس"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_AR a :TranslationVariant ;
+:text "أن تخطفه وتحمله طعامًا إلى عروش زيوس،"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_AR a :TranslationVariant ;
+:text "ولا حتى هكذا، خوفًا من هذا الدنس،"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_AR a :TranslationVariant ;
+:text "سأسمح بدفن ذاك؛ فإني أعلم جيدًا أن"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_AR a :TranslationVariant ;
+:text "لا أحد من البشر يقوى على تدنيس الآلهة."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_AR a :TranslationVariant ;
+:text "ويسقط، أيها الشيخ تيريسياس، من البشر"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_AR a :TranslationVariant ;
+:text "حتى ذوو الحذق الكثير سقوطًا مخزيًا، حين يقولون"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_AR a :TranslationVariant ;
+:text "كلامًا قبيحًا في هيئة حسنة من أجل الربح."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_AR a :TranslationVariant ;
+:text "واهًا؛ أحقًا يعرف أحد من البشر، أحقًا يفطن،"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_AR a :TranslationVariant ;
+:text "أي أمر؟ أي قول مشترك للجميع هذا الذي تقوله؟"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_AR a :TranslationVariant ;
+:text "كم أن حسن المشورة هو أفضل المقتنيات؟"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_AR a :TranslationVariant ;
+:text "بقدر ما، في رأيي، يكون عدم الفهم أكبر الأضرار."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_AR a :TranslationVariant ;
+:text "ومع ذلك فقد نشأتَ أنت ممتلئًا من هذا المرض."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_AR a :TranslationVariant ;
+:text "لا أريد أن أجيب العرّاف بسوء."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_AR a :TranslationVariant ;
+:text "بل إنك تقول ذلك، إذ تقول إنني أتنبأ بالباطل."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_AR a :TranslationVariant ;
+:text "فإن جنس العرافين كله محب للمال."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_AR a :TranslationVariant ;
+:text "وأما جنس الطغاة فيحب الربح القبيح."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_AR a :TranslationVariant ;
+:text "أتعلم أنك تقول ما تقوله لمن هم حكام؟"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_AR a :TranslationVariant ;
+:text "أعلم؛ فمن خلالي تملك هذه المدينة وقد نجت."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_AR a :TranslationVariant ;
+:text "أنت عرّاف حكيم، لكنك محب لارتكاب الظلم."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_AR a :TranslationVariant ;
+:text "ستحركني لأقول ما لا يتحرك في فكري."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_AR a :TranslationVariant ;
+:text "حرّكه، لكن فقط لا تتكلم من أجل الأرباح."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_AR a :TranslationVariant ;
+:text "إذن يبدو أنني كذلك منذ الآن في ما يخص جانبك."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_AR a :TranslationVariant ;
+:text "فاعلم أنك لن تساوم على رأيي."^^xsd:string ;
+:relatedTo :Line_1063 .

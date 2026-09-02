@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-hindi a owl:Ontology .
+# Hindi translation variants for 302_to_323.ttl
+
+:TV_Line_302_HI a :TranslationVariant ;
+:text "और जितनों ने मजदूरी लेकर यह पूरा किया,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_HI a :TranslationVariant ;
+:text "समय आने पर उन्होंने अंततः दंड देने की नौबत हासिल की।"^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_HI a :TranslationVariant ;
+:text "पर यदि ज़ीउस अभी भी मुझसे सम्मान रखता है,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_HI a :TranslationVariant ;
+:text "यह अच्छी तरह जानो, और मैं तुझसे शपथपूर्वक कहता हूँ,"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_HI a :TranslationVariant ;
+:text "यदि तुम इस दफ़न का अपने हाथ से करने वाला"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_HI a :TranslationVariant ;
+:text "ढूँढ़कर मेरी आँखों के सामने प्रकट नहीं करोगे,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_HI a :TranslationVariant ;
+:text "तो केवल हेडिस तुम्हारे लिए पर्याप्त नहीं होगा, जब तक"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_HI a :TranslationVariant ;
+:text "जीते-जी लटकाए जाकर तुम यह उद्दंडता स्पष्ट न कर दो,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_HI a :TranslationVariant ;
+:text "ताकि जानकर कि लाभ कहाँ से लाना चाहिए,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_HI a :TranslationVariant ;
+:text "आगे तुम लूटो, और सीखो कि"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_HI a :TranslationVariant ;
+:text "हर जगह से लाभ कमाना प्रेम करने योग्य नहीं।"^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_HI a :TranslationVariant ;
+:text "क्योंकि लज्जाजनक लाभों से तू अधिक लोगों को"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_HI a :TranslationVariant ;
+:text "बचते हुए नहीं, बल्कि विनष्ट होते हुए देखेगा।"^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_HI a :TranslationVariant ;
+:text "क्या तू मुझे बोलने देगा, या मैं यूँ ही लौटकर चला जाऊँ?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_HI a :TranslationVariant ;
+:text "क्या तू अब भी नहीं जानता कि कितनी पीड़ादायक बातें कहता है?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_HI a :TranslationVariant ;
+:text "क्या मैं कानों में काटता हूँ, या आत्मा पर?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_HI a :TranslationVariant ;
+:text "तू मेरी पीड़ा कहाँ है, यह क्यों नापता है?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_HI a :TranslationVariant ;
+:text "करने वाला तेरे मन को दुखाता है, और मैं तेरे कानों को।"^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_HI a :TranslationVariant ;
+:text "हाय, स्पष्ट है कि तू जन्म से ही बहुत बोलने वाला है।"^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_HI a :TranslationVariant ;
+:text "पर यह काम करने वाला तो मैं कभी नहीं।"^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_HI a :TranslationVariant ;
+:text "और यह भी चाँदी के लिए अपनी आत्मा बेचकर।"^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_HI a :TranslationVariant ;
+:text "हाय, भयानक है—जिसे ऐसा लगता है—झूठा सोचना भी।"^^xsd:string ;
+:relatedTo :Line_323 .

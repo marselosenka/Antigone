@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-german a owl:Ontology .
+# German translation variants for 635_to_680.ttl
+
+:TV_Line_635_DE a :TranslationVariant ;
+:text "Vater, dein bin ich, und du, der du gute"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_DE a :TranslationVariant ;
+:text "Ratschlüsse hast, richtest mich auf; diesen werde ich folgen."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_DE a :TranslationVariant ;
+:text "Denn keine Ehe wird mir wert sein,"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_DE a :TranslationVariant ;
+:text "höher getragen zu werden als du, wenn du gut leitest."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_DE a :TranslationVariant ;
+:text "So nämlich, o Sohn, muss man es durch die Brust hindurch haben:"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_DE a :TranslationVariant ;
+:text "hinter dem väterlichen Urteil in allem zu stehen."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_DE a :TranslationVariant ;
+:text "Denn deswegen wünschen Männer sich, Nachkommen"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_DE a :TranslationVariant ;
+:text "gehorsam erzeugt im Haus zu haben,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_DE a :TranslationVariant ;
+:text "damit sie auch dem Feind mit Übeln entgegentreten"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_DE a :TranslationVariant ;
+:text "und den Freund gleich wie den Vater ehren."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_DE a :TranslationVariant ;
+:text "Wer aber unnütze Kinder hervorbringt,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_DE a :TranslationVariant ;
+:text "was könntest du von diesem anderes sagen, als dass er sich selbst Mühen"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_DE a :TranslationVariant ;
+:text "hervorbringt und den Feinden viel Gelächter?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_DE a :TranslationVariant ;
+:text "Wirf nun niemals, o Sohn, deine Sinne unter Lust"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_DE a :TranslationVariant ;
+:text "um einer Frau willen hinaus, wissend, dass"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_DE a :TranslationVariant ;
+:text "dies eine kalte Umarmung wird,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_DE a :TranslationVariant ;
+:text "eine schlechte Frau als Bettgenossin im Haus. Denn was"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_DE a :TranslationVariant ;
+:text "könnte eine größere Wunde sein als ein schlechter Freund?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_DE a :TranslationVariant ;
+:text "Sondern, sie ausspuckend wie eine Feindin, lass"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_DE a :TranslationVariant ;
+:text "dieses Mädchen im Hades irgendeinen heiraten."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_DE a :TranslationVariant ;
+:text "Denn da ich sie selbst offenbar ergriff,"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_DE a :TranslationVariant ;
+:text "als einzige aus der ganzen Stadt ungehorsam,"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_DE a :TranslationVariant ;
+:text "werde ich mich der Stadt nicht als Lügner hinstellen,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_DE a :TranslationVariant ;
+:text "sondern sie töten. Dazu mag sie Zeus besingen,"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_DE a :TranslationVariant ;
+:text "den Verwandten. Denn wenn ich das von Natur Verwandte"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_DE a :TranslationVariant ;
+:text "ungeordnet nähren werde, umso mehr die außerhalb des Geschlechts."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_DE a :TranslationVariant ;
+:text "Denn wer in den eigenen Angelegenheiten ein Mann"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_DE a :TranslationVariant ;
+:text "tüchtig ist, wird auch in der Stadt gerecht erscheinen."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_DE a :TranslationVariant ;
+:text "Wer aber überschreitend die Gesetze vergewaltigt"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_DE a :TranslationVariant ;
+:text "oder den Herrschenden zu befehlen im Sinn hat,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_DE a :TranslationVariant ;
+:text "der wird von mir kein Lob erlangen."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_DE a :TranslationVariant ;
+:text "Sondern wen die Stadt einsetzt, dem muss man gehorchen,"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_DE a :TranslationVariant ;
+:text "in Kleinem und Gerechtem und im Gegenteil."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_DE a :TranslationVariant ;
+:text "Und diesem Mann würde ich vertrauen,"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_DE a :TranslationVariant ;
+:text "dass er gut herrscht und gut beherrscht werden will,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_DE a :TranslationVariant ;
+:text "und dass er im Sturm des Speers, aufgestellt,"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_DE a :TranslationVariant ;
+:text "als gerechter und guter Nebenmann standhält."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_DE a :TranslationVariant ;
+:text "Größeres Übel als Herrschaftslosigkeit gibt es nicht."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_DE a :TranslationVariant ;
+:text "Diese vernichtet Städte, diese macht Häuser"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_DE a :TranslationVariant ;
+:text "umgestürzt, diese reißt beim verbündeten Speer"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_DE a :TranslationVariant ;
+:text "Fluchten auf; bei den Aufgerichteten aber"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_DE a :TranslationVariant ;
+:text "rettet den Großteil der Leiber die Gehorsamkeit."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_DE a :TranslationVariant ;
+:text "So muss man die Geordneten verteidigen,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_DE a :TranslationVariant ;
+:text "und keineswegs darf man einer Frau unterliegen."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_DE a :TranslationVariant ;
+:text "Besser nämlich, wenn es sein muss, durch einen Mann zu fallen,"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_DE a :TranslationVariant ;
+:text "und nicht würden wir geringer als Frauen genannt werden."^^xsd:string ;
+:relatedTo :Line_680 .

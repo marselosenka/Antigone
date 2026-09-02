@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-french a owl:Ontology .
+# French translation variants for 929_to_943.ttl
+
+:TV_Line_929_FR a :TranslationVariant ;
+:text "Encore des mêmes vents, ces mêmes"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_FR a :TranslationVariant ;
+:text "souffles de l’âme la possèdent."^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_FR a :TranslationVariant ;
+:text "Ainsi donc, à cause de cela, pour ceux qui la mènent,"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_FR a :TranslationVariant ;
+:text "il y aura des pleurs pour leur lenteur."^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_FR a :TranslationVariant ;
+:text "Hélas, tout près de la mort"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_FR a :TranslationVariant ;
+:text "cette parole est arrivée."^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_FR a :TranslationVariant ;
+:text "Je ne te console en rien de prendre courage,"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_FR a :TranslationVariant ;
+:text "ni que ces choses ne soient pas confirmées ainsi."^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_FR a :TranslationVariant ;
+:text "Ô cité paternelle de la terre de Thèbes"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_FR a :TranslationVariant ;
+:text "et dieux des ancêtres,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_FR a :TranslationVariant ;
+:text "je suis menée désormais, et je ne tarde plus."^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_FR a :TranslationVariant ;
+:text "Regardez, chefs de Thèbes,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_FR a :TranslationVariant ;
+:text "la seule restante des filles royales,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_FR a :TranslationVariant ;
+:text "quelles choses, de quels hommes, je souffre,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_FR a :TranslationVariant ;
+:text "pour avoir honoré la piété."^^xsd:string ;
+:relatedTo :Line_943 .

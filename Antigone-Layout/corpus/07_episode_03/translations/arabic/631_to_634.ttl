@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-arabic a owl:Ontology .
+# Arabic translation variants for 631_to_634.ttl
+
+:TV_Line_631_AR a :TranslationVariant ;
+:text "سنعلَم سريعًا، أفضل من العرّافين."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_AR a :TranslationVariant ;
+:text "يا بني، هل أتيت، وقد سمعت الحكم النهائي"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_AR a :TranslationVariant ;
+:text "على عروسك المقبلة، ساخطًا على أبيك؟"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_AR a :TranslationVariant ;
+:text "أم إننا لك محبوبون في كل حال، مهما فعلنا؟"^^xsd:string ;
+:relatedTo :Line_634 .

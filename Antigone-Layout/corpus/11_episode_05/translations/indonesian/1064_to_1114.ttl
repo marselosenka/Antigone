@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-indonesian a owl:Ontology .
+# Indonesian translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_ID a :TranslationVariant ;
+:text "Tetapi ketahuilah benar ini: tidak banyak lagi"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_ID a :TranslationVariant ;
+:text "putaran matahari yang saling berlomba akan kautuntaskan,"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_ID a :TranslationVariant ;
+:text "dalam waktu itu engkau sendiri dari isi perutmu"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_ID a :TranslationVariant ;
+:text "akan memberikan satu mayat sebagai balasan bagi mayat-mayat,"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_ID a :TranslationVariant ;
+:text "sebagai ganti karena engkau memegang salah satu dari yang di atas setelah melemparkannya ke bawah,"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_ID a :TranslationVariant ;
+:text "dan menempatkan jiwa yang hidup secara hina dalam makam,"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_ID a :TranslationVariant ;
+:text "dan sebaliknya engkau menahan di sini, dari milik dewa-dewa bawah,"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_ID a :TranslationVariant ;
+:text "mayat tanpa bagian, tanpa upacara, tak suci."^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_ID a :TranslationVariant ;
+:text "Dalam hal-hal itu baik engkau maupun dewa-dewa atas"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_ID a :TranslationVariant ;
+:text "tidak mempunyai bagian, tetapi olehmu hal-hal ini dipaksa."^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_ID a :TranslationVariant ;
+:text "Karena itu para perusak yang melukai, terlambat tetapi menghancurkan,"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_ID a :TranslationVariant ;
+:text "Erinyes Hades dan para dewa, mengintaimu,"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_ID a :TranslationVariant ;
+:text "agar engkau tertangkap dalam kejahatan-kejahatan yang sama ini."^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_ID a :TranslationVariant ;
+:text "Dan perhatikanlah apakah aku mengatakan ini setelah disuap perak;"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_ID a :TranslationVariant ;
+:text "sebab tidak lama waktu berlalu akan menampakkan"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_ID a :TranslationVariant ;
+:text "ratapan laki-laki dan perempuan di rumahmu."^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_ID a :TranslationVariant ;
+:text "Dan semua kota terguncang bersama dalam permusuhan,"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_ID a :TranslationVariant ;
+:text "yang sisa-sisa tercabiknya telah disucikan oleh anjing"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_ID a :TranslationVariant ;
+:text "atau binatang buas, atau burung bersayap, sambil membawa"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_ID a :TranslationVariant ;
+:text "bau tak suci ke kota penjaga perapian."^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_ID a :TranslationVariant ;
+:text "Hal-hal demikian kulepaskan kepadamu, sebab engkau menyakitiku, seperti pemanah,"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_ID a :TranslationVariant ;
+:text "panah-panah dari hati dalam amarah,"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_ID a :TranslationVariant ;
+:text "pasti, yang panasnya tidak akan kaularikan."^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_ID a :TranslationVariant ;
+:text "Anak, bawalah kami pulang ke rumah, agar"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_ID a :TranslationVariant ;
+:text "orang ini melepaskan amarahnya kepada yang lebih muda,"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_ID a :TranslationVariant ;
+:text "dan belajar memelihara lidah yang lebih tenang"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_ID a :TranslationVariant ;
+:text "dan pikiran yang lebih baik di dalam dadanya daripada yang kini ia bawa."^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_ID a :TranslationVariant ;
+:text "Tuan, orang itu telah pergi setelah menubuatkan hal-hal mengerikan;"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_ID a :TranslationVariant ;
+:text "dan kami tahu, sejak aku"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_ID a :TranslationVariant ;
+:text "mengenakan rambut ini putih dari yang hitam,"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_ID a :TranslationVariant ;
+:text "bahwa belum pernah ia mengucapkan dusta kepada kota ini."^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_ID a :TranslationVariant ;
+:text "Aku sendiri telah mengetahuinya, dan pikiranku terguncang."^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_ID a :TranslationVariant ;
+:text "Sebab menyerah itu mengerikan, tetapi setelah melawan,"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_ID a :TranslationVariant ;
+:text "menghantam jiwa dengan bencana berada dalam keadaan mengerikan."^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_ID a :TranslationVariant ;
+:text "Perlu mengambil nasihat baik, putra Menoikeus."^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_ID a :TranslationVariant ;
+:text "Lalu apa yang harus kulakukan? Katakan. Aku akan taat."^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_ID a :TranslationVariant ;
+:text "Pergilah, dan gadis itu dari rumah yang tergali"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_ID a :TranslationVariant ;
+:text "lepaskan; dan bangunlah makam bagi yang terbaring di depan."^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_ID a :TranslationVariant ;
+:text "Dan engkau menyetujui hal ini, dan berpendapat aku harus mengalah?"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_ID a :TranslationVariant ;
+:text "Ya, tuan, secepat mungkin; sebab pukulan-pukulan para dewa"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_ID a :TranslationVariant ;
+:text "yang berkaki cepat memotong jatuh orang-orang berpikiran buruk."^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_ID a :TranslationVariant ;
+:text "Aduh; memang sulit, tetapi aku menyingkirkan dari hati"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_ID a :TranslationVariant ;
+:text "tindakan itu; terhadap keharusan tidak boleh berperang."^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_ID a :TranslationVariant ;
+:text "Pergilah sekarang, lakukan hal-hal ini, dan jangan berpaling kepada yang lain."^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_ID a :TranslationVariant ;
+:text "Aku akan pergi seperti keadaanku ini; ayo, ayo, para pengiring,"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_ID a :TranslationVariant ;
+:text "baik yang hadir maupun yang tidak hadir, dengan kapak di tangan"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_ID a :TranslationVariant ;
+:text "bergegaslah mengambilnya ke tempat yang tampak."^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_ID a :TranslationVariant ;
+:text "Dan aku, karena keputusan ini telah berbalik,"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_ID a :TranslationVariant ;
+:text "aku sendiri mengikatnya dan, hadir sendiri, akan melepaskannya."^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_ID a :TranslationVariant ;
+:text "Sebab aku takut bahwa hukum-hukum yang telah ditetapkan"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_ID a :TranslationVariant ;
+:text "paling baik dijaga sampai akhir hidup."^^xsd:string ;
+:relatedTo :Line_1114 .

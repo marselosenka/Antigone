@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-german a owl:Ontology .
+# German translation variants for 302_to_323.ttl
+
+:TV_Line_302_DE a :TranslationVariant ;
+:text "Alle aber, die um Lohn dies vollbracht haben,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_DE a :TranslationVariant ;
+:text "haben mit der Zeit einmal erreicht, Strafe zu zahlen."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_DE a :TranslationVariant ;
+:text "Wenn aber Zeus noch Verehrung von mir hat,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_DE a :TranslationVariant ;
+:text "wisse dies gut, und eidlich sage ich dir:"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_DE a :TranslationVariant ;
+:text "wenn ihr den Eigenhändigen dieses Begräbnisses"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_DE a :TranslationVariant ;
+:text "nicht findet und vor meine Augen bringt,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_DE a :TranslationVariant ;
+:text "wird euch Hades allein nicht genügen, bevor ihr,"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_DE a :TranslationVariant ;
+:text "lebend aufgehängt, diesen Frevel offenbart habt,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_DE a :TranslationVariant ;
+:text "damit ihr, wissend, woher Gewinn zu tragen ist,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_DE a :TranslationVariant ;
+:text "künftig raubt und lernt,"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_DE a :TranslationVariant ;
+:text "dass man nicht aus allem Gewinn lieben soll."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_DE a :TranslationVariant ;
+:text "Denn von den schändlichen Einnahmen könntest du die meisten"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_DE a :TranslationVariant ;
+:text "zugrunde gerichtet sehen, eher als gerettet."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_DE a :TranslationVariant ;
+:text "Wirst du mir zu sprechen erlauben, oder soll ich mich wenden und so gehen?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_DE a :TranslationVariant ;
+:text "Weißt du nicht auch jetzt, wie lästig du redest?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_DE a :TranslationVariant ;
+:text "Beiße ich in den Ohren oder an der Seele?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_DE a :TranslationVariant ;
+:text "Warum bestimmst du, wo mein Schmerz liegt?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_DE a :TranslationVariant ;
+:text "Der Täter quält deinen Sinn, die Ohren aber ich."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_DE a :TranslationVariant ;
+:text "Weh, wie offenbar du als Geschwätz geboren bist."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_DE a :TranslationVariant ;
+:text "Aber doch niemals als Täter dieser Tat."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_DE a :TranslationVariant ;
+:text "Und dies auch noch für Silber, nachdem du deine Seele verkauft hast."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_DE a :TranslationVariant ;
+:text "Pheu; wahrlich schrecklich ist es, wenn einer meint, auch Falsches zu meinen."^^xsd:string ;
+:relatedTo :Line_323 .

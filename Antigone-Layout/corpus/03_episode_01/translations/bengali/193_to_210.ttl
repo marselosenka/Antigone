@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-bengali a owl:Ontology .
+# Bengali translation variants for 193_to_210.ttl
+
+:TV_Line_193_BN a :TranslationVariant ;
+:text "ঐদিপাসের সন্তানদের বিষয়ে নগরবাসীদের কাছে;"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_BN a :TranslationVariant ;
+:text "এতেওক্লেসকে, যে এই নগরের পক্ষে যুদ্ধ করতে করতে"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_BN a :TranslationVariant ;
+:text "মরেছে, বর্শায় সব দিক থেকে শ্রেষ্ঠত্ব দেখিয়ে,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_BN a :TranslationVariant ;
+:text "তাকে কবরে লুকিয়ে দিতে এবং সব পবিত্র আচার করতে,"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_BN a :TranslationVariant ;
+:text "যা নিচে শ্রেষ্ঠ মৃতদের কাছে যায়;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_BN a :TranslationVariant ;
+:text "আর তার রক্তসম্বন্ধীয় অন্যজনকে, পলিনেইকেস বলছি,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_BN a :TranslationVariant ;
+:text "যে নির্বাসন থেকে ফিরে এসে পিতৃভূমি"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_BN a :TranslationVariant ;
+:text "ও স্বজাত দেবতাদের আগুনে"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_BN a :TranslationVariant ;
+:text "সম্পূর্ণভাবে পোড়াতে চেয়েছিল, আর চেয়েছিল"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_BN a :TranslationVariant ;
+:text "আপন রক্তের স্বাদ নিতে, আর বাকিদের দাস করে নিয়ে যেতে,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_BN a :TranslationVariant ;
+:text "এই নগরে তার বিষয়ে ঘোষণা করা হয়েছে,"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_BN a :TranslationVariant ;
+:text "কেউ যেন তাকে কবর না দেয়, শেষকৃত্য না করে, বিলাপও না করে,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_BN a :TranslationVariant ;
+:text "বরং অদাফন অবস্থায় ছেড়ে দেয়, তার দেহ পাখিদের"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_BN a :TranslationVariant ;
+:text "ও কুকুরদের খাদ্য হয়ে অপমানিত দেখা যাক।"^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_BN a :TranslationVariant ;
+:text "এই রকম আমার মনোভাব; আর আমার কাছ থেকে কখনও"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_BN a :TranslationVariant ;
+:text "দুষ্টরা ন্যায়বানদের চেয়ে সম্মানে এগিয়ে থাকবে না।"^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_BN a :TranslationVariant ;
+:text "কিন্তু যে এই নগরের প্রতি শুভেচ্ছুক, সে মৃত হলেও"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_BN a :TranslationVariant ;
+:text "আর জীবিত হলেও আমার কাছ থেকে একইভাবে সম্মান পাবে।"^^xsd:string ;
+:relatedTo :Line_210 .

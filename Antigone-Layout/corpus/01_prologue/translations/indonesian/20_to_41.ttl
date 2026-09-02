@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-20-41-indonesian a owl:Ontology .
+# Indonesian translation variants for 20_to_41.ttl
+
+:TV_Line_020_ID a :TranslationVariant ;
+:text "Ada apa? Sebab jelas kau menggelapkan suatu perkataan."^^xsd:string ;
+:relatedTo :Line_020 .
+
+:TV_Line_021_ID a :TranslationVariant ;
+:text "Bukankah Kreon telah memperlakukan kedua saudara kita dalam hal makam,"^^xsd:string ;
+:relatedTo :Line_021 .
+
+:TV_Line_022_ID a :TranslationVariant ;
+:text "yang satu ia hormati, yang lain ia hinakan?"^^xsd:string ;
+:relatedTo :Line_022 .
+
+:TV_Line_023_ID a :TranslationVariant ;
+:text "Eteokles, seperti kata orang, dengan keadilan"^^xsd:string ;
+:relatedTo :Line_023 .
+
+:TV_Line_024_ID a :TranslationVariant ;
+:text "yang adil dan menurut hukum, di bawah tanah"^^xsd:string ;
+:relatedTo :Line_024 .
+
+:TV_Line_025_ID a :TranslationVariant ;
+:text "ia sembunyikan, terhormat di antara mayat-mayat di bawah sana;"^^xsd:string ;
+:relatedTo :Line_025 .
+
+:TV_Line_026_ID a :TranslationVariant ;
+:text "tetapi tentang mayat Polineikes yang mati menyedihkan,"^^xsd:string ;
+:relatedTo :Line_026 .
+
+:TV_Line_027_ID a :TranslationVariant ;
+:text "kata orang telah diumumkan kepada warga bahwa tidak seorang pun"^^xsd:string ;
+:relatedTo :Line_027 .
+
+:TV_Line_028_ID a :TranslationVariant ;
+:text "boleh menutupinya dengan makam ataupun meratapinya,"^^xsd:string ;
+:relatedTo :Line_028 .
+
+:TV_Line_029_ID a :TranslationVariant ;
+:text "melainkan membiarkannya tanpa tangis, tanpa kubur, harta manis"^^xsd:string ;
+:relatedTo :Line_029 .
+
+:TV_Line_030_ID a :TranslationVariant ;
+:text "bagi burung-burung yang memandangnya demi kenikmatan santapan."^^xsd:string ;
+:relatedTo :Line_030 .
+
+:TV_Line_031_ID a :TranslationVariant ;
+:text "Hal-hal seperti itu, kata orang, Kreon yang mulia telah umumkan"^^xsd:string ;
+:relatedTo :Line_031 .
+
+:TV_Line_032_ID a :TranslationVariant ;
+:text "kepadamu dan kepadaku, sebab aku berkata: juga kepadaku,"^^xsd:string ;
+:relatedTo :Line_032 .
+
+:TV_Line_033_ID a :TranslationVariant ;
+:text "dan ia akan datang kemari untuk menyatakan hal-hal ini dengan jelas"^^xsd:string ;
+:relatedTo :Line_033 .
+
+:TV_Line_034_ID a :TranslationVariant ;
+:text "kepada mereka yang belum tahu, dan ia tidak menganggap perkara ini"^^xsd:string ;
+:relatedTo :Line_034 .
+
+:TV_Line_035_ID a :TranslationVariant ;
+:text "sebagai hal remeh, melainkan bagi siapa pun yang melakukan sesuatu dari itu"^^xsd:string ;
+:relatedTo :Line_035 .
+
+:TV_Line_036_ID a :TranslationVariant ;
+:text "hukuman mati dengan rajam umum di kota telah disediakan."^^xsd:string ;
+:relatedTo :Line_036 .
+
+:TV_Line_037_ID a :TranslationVariant ;
+:text "Begitulah perkara ini bagimu, dan segera kau akan menunjukkan"^^xsd:string ;
+:relatedTo :Line_037 .
+
+:TV_Line_038_ID a :TranslationVariant ;
+:text "apakah engkau lahir mulia atau buruk dari orang-orang baik."^^xsd:string ;
+:relatedTo :Line_038 .
+
+:TV_Line_039_ID a :TranslationVariant ;
+:text "Tetapi, wahai malang, jika perkara ini demikian, apa yang dapat aku"^^xsd:string ;
+:relatedTo :Line_039 .
+
+:TV_Line_040_ID a :TranslationVariant ;
+:text "tambahkan, baik dengan melepaskan maupun dengan mengikatnya?"^^xsd:string ;
+:relatedTo :Line_040 .
+
+:TV_Line_041_ID a :TranslationVariant ;
+:text "Pertimbangkan apakah kau akan ikut bekerja dan bertindak bersamaku."^^xsd:string ;
+:relatedTo :Line_041 .

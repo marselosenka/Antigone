@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-korean a owl:Ontology .
+# Korean translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_KO a :TranslationVariant ;
+:text "많은 이름을 지닌 이여, 카드모스의 신부의 영광이여,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_KO a :TranslationVariant ;
+:text "그리고 무겁게 천둥치는 제우스의"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_KO a :TranslationVariant ;
+:text "자손이여, 이름난 땅을 돌보는 이여,"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_KO a :TranslationVariant ;
+:text "이탈리아를, 또 다스리는 이여,"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_KO a :TranslationVariant ;
+:text "모두에게 공통된, 엘레우시스의"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_KO a :TranslationVariant ;
+:text "데오의 품 안에서, 바카이의 바쿠스여,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_KO a :TranslationVariant ;
+:text "어머니의 도시 테바이에 거주하는 이여,"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_KO a :TranslationVariant ;
+:text "젖은 물줄기들 곁에"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Lines 1123 and 1124 do not exist in Antigone
+
+:TV_Line_1125_KO a :TranslationVariant ;
+:text "이스메노스의 흐름들과 사나운 용의 씨뿌려진 땅 위에."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_KO a :TranslationVariant ;
+:text "또 두 봉우리의 바위 위에서 번쩍이는"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_KO a :TranslationVariant ;
+:text "연기가 너를 보았다, 그곳에서는 코뤼키아의"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_KO a :TranslationVariant ;
+:text "바쿠스의 님프들이 행진해 가고,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in Antigone
+
+:TV_Line_1130_KO a :TranslationVariant ;
+:text "카스탈리아의 물줄기도 그러하다."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_KO a :TranslationVariant ;
+:text "또 너를 뉘사의 산들의"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_KO a :TranslationVariant ;
+:text "담쟁이 무성한 언덕들과 푸른 해안이,"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_KO a :TranslationVariant ;
+:text "포도가 풍성한 곳이, 보낸다,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_KO a :TranslationVariant ;
+:text "불멸의 노래들이"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_KO a :TranslationVariant ;
+:text "에우아 소리치며 테바이의 거리를 지켜볼 때."^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in Antigone
+
+:TV_Line_1137_KO a :TranslationVariant ;
+:text "너는 모든 도시들 가운데 그 도시를 가장 높이 존중한다,"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_KO a :TranslationVariant ;
+:text "벼락 맞은 네 어머니와 함께."^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in Antigone
+
+:TV_Line_1140_KO a :TranslationVariant ;
+:text "그리고 이제, 난폭한"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_KO a :TranslationVariant ;
+:text "질병에 온 도시의 백성이 붙잡혀 있으니,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_KO a :TranslationVariant ;
+:text "정화하는 발로 파르나소스의 비탈을 넘어 오라,"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Lines 1143 and 1144 do not exist in Antigone
+
+:TV_Line_1145_KO a :TranslationVariant ;
+:text "또는 신음하는 해협을 넘어."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_KO a :TranslationVariant ;
+:text "이오, 불을 내뿜는 별들의 합창을 이끄는 자여, 밤의"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_KO a :TranslationVariant ;
+:text "소리들을 지켜보는 이여,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_KO a :TranslationVariant ;
+:text "제우스에게서 태어난 자식이여,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in Antigone
+
+:TV_Line_1150_KO a :TranslationVariant ;
+:text "왕이여, 너의 수행자들인"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_KO a :TranslationVariant ;
+:text "튀이아데스들과 함께, 그들은 미쳐 날뛰며 너를"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_KO a :TranslationVariant ;
+:text "밤새 춤춘다, 그 주재자인 이아코스를 위해."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Lines 1153 and 1154 do not exist in Antigone

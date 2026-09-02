@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-bengali a owl:Ontology .
+# Bengali translation variants for 63_to_89.ttl
+
+:TV_Line_063_BN a :TranslationVariant ;
+:text "তারপর, যেহেতু আমরা শক্তিশালীদের দ্বারা শাসিত,"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_BN a :TranslationVariant ;
+:text "এই কথাগুলিও, আর এর চেয়েও বেদনাদায়ক কথাও, মানতে হবে।"^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_BN a :TranslationVariant ;
+:text "আমি তাই মাটির নিচের দেবতাদের কাছে"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_BN a :TranslationVariant ;
+:text "ক্ষমা চাইব, যেহেতু এই কাজে আমাকে বাধ্য করা হচ্ছে,"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_BN a :TranslationVariant ;
+:text "আর যারা ক্ষমতায় প্রতিষ্ঠিত তাদের মান্য করব; কারণ"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_BN a :TranslationVariant ;
+:text "অতিরিক্ত কাজ করায় কোনো বুদ্ধি নেই।"^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_BN a :TranslationVariant ;
+:text "আমি তোমাকে আদেশ করব না; এমনকি তুমি যদি এখনও"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_BN a :TranslationVariant ;
+:text "কাজ করতে চাও, আমার সঙ্গে তা সানন্দে করবে না।"^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_BN a :TranslationVariant ;
+:text "তোমার যেমন মনে হয়, তেমনই থাকো; কিন্তু আমি তাকে"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_BN a :TranslationVariant ;
+:text "কবর দেব; এ কাজ করে মরাই আমার কাছে সুন্দর।"^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_BN a :TranslationVariant ;
+:text "প্রিয়ের পাশে, প্রিয় হয়ে, তার সঙ্গে শুয়ে থাকব,"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_BN a :TranslationVariant ;
+:text "পবিত্র অপরাধ করে; কারণ অধিক দীর্ঘ সময়"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_BN a :TranslationVariant ;
+:text "আমাকে এখানে থাকা লোকদের চেয়ে নিচের লোকদের সন্তুষ্ট করতে হবে।"^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_BN a :TranslationVariant ;
+:text "কারণ সেখানে আমি চিরকাল শুয়ে থাকব; আর তুমি, যদি তোমার মনে হয়,"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_BN a :TranslationVariant ;
+:text "দেবতাদের সম্মানিত বিষয়কে অসম্মান করেই রাখো।"^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_BN a :TranslationVariant ;
+:text "আমি তো সেগুলোকে অসম্মান করি না; কিন্তু"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_BN a :TranslationVariant ;
+:text "নগরবাসীর জোরের বিরুদ্ধে কাজ করতে আমি স্বভাবতই অক্ষম।"^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_BN a :TranslationVariant ;
+:text "তুমি এই অজুহাত দেখাতে পারো; কিন্তু আমি"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_BN a :TranslationVariant ;
+:text "আমার প্রিয়তম ভাইয়ের জন্য কবরের মাটি তুলতে যাব।"^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_BN a :TranslationVariant ;
+:text "হায়, দুর্ভাগিনী, তোমার জন্য আমি কত ভয় পাচ্ছি।"^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_BN a :TranslationVariant ;
+:text "আমার জন্য আগে ভয় পেও না; তোমার নিজের ভাগ্য সোজা করো।"^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_BN a :TranslationVariant ;
+:text "তবু এই কাজটি কাউকে আগে বলে দিও না,"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_BN a :TranslationVariant ;
+:text "গোপনে লুকিয়ে রেখো; আমিও তোমার সঙ্গে তেমনই করব।"^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_BN a :TranslationVariant ;
+:text "হায়, বলে দাও; তুমি আরও বেশি ঘৃণিত হবে"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_BN a :TranslationVariant ;
+:text "নীরব থাকলে, যদি সবার কাছে এই কথা ঘোষণা না করো।"^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_BN a :TranslationVariant ;
+:text "ঠান্ডা বিষয়ের ওপর তোমার হৃদয় উত্তপ্ত।"^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_BN a :TranslationVariant ;
+:text "কিন্তু আমি জানি, যাদের সবচেয়ে বেশি সন্তুষ্ট করা চাই, তাদেরই সন্তুষ্ট করছি।"^^xsd:string ;
+:relatedTo :Line_089 .

@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-indonesian a owl:Ontology .
+# Indonesian translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_ID a :TranslationVariant ;
+:text "Wahai semua warga, aku mendengar kata-kata itu"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_ID a :TranslationVariant ;
+:text "ketika berjalan menuju keluar, agar kepada dewi Pallas"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_ID a :TranslationVariant ;
+:text "aku datang sebagai pembawa doa-doa permohonan."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_ID a :TranslationVariant ;
+:text "Dan kebetulan aku sedang melepaskan palang-palang"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_ID a :TranslationVariant ;
+:text "pintu gerbang yang ditarik balik, lalu suara duka rumah sendiri"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_ID a :TranslationVariant ;
+:text "memukulku melalui telinga; aku pun condong rebah ke belakang"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_ID a :TranslationVariant ;
+:text "karena takut di antara para pelayan perempuan, dan aku terpukul pingsan."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_ID a :TranslationVariant ;
+:text "Tetapi apa pun cerita itu, katakan lagi;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_ID a :TranslationVariant ;
+:text "sebab karena tidak asing dengan penderitaan, aku akan mendengarnya."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_ID a :TranslationVariant ;
+:text "Aku, nyonya tercinta, akan berbicara karena aku hadir sendiri,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_ID a :TranslationVariant ;
+:text "dan tidak akan kulewatkan satu kata pun dari kebenaran;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_ID a :TranslationVariant ;
+:text "sebab mengapa aku harus melunakkan bagimu hal-hal yang kemudian"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_ID a :TranslationVariant ;
+:text "akan membuat kami tampak pendusta? Kebenaran selalu lurus."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_ID a :TranslationVariant ;
+:text "Aku mengikuti suamimu sebagai penuntun jalan"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_ID a :TranslationVariant ;
+:text "ke ujung dataran, tempat masih terbaring"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_ID a :TranslationVariant ;
+:text "tubuh Polyneikes yang kejam dicabik anjing;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_ID a :TranslationVariant ;
+:text "dan untuk dia, setelah memohon kepada dewi jalan"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_ID a :TranslationVariant ;
+:text "dan Plouton agar menahan murka mereka dengan ramah,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_ID a :TranslationVariant ;
+:text "setelah mencucinya dengan cucian suci, dengan ranting-ranting baru dipatahkan"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_ID a :TranslationVariant ;
+:text "kami membakar bersama apa yang memang tersisa,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_ID a :TranslationVariant ;
+:text "dan setelah menimbunkan makam berkepala tegak dari tanah miliknya sendiri,"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_ID a :TranslationVariant ;
+:text "sekali lagi menuju kamar pengantin berbatu milik gadis itu,"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_ID a :TranslationVariant ;
+:text "ruang Hades yang berlubang, kami masuk."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_ID a :TranslationVariant ;
+:text "Dan dari jauh, seseorang mendengar suara ratapan nyaring"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_ID a :TranslationVariant ;
+:text "di sekitar kamar tanpa upacara pemakaman,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_ID a :TranslationVariant ;
+:text "lalu datang dan memberi tanda kepada tuan Kreon;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_ID a :TranslationVariant ;
+:text "dan baginya, ketika merayap makin dekat,"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_ID a :TranslationVariant ;
+:text "suara malang yang tak jelas mengelilinginya, lalu sambil mengerang ia melepas kata"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_ID a :TranslationVariant ;
+:text "yang patut diratapi: Wahai aku yang malang,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_ID a :TranslationVariant ;
+:text "apakah aku seorang peramal? Apakah aku sedang menempuh"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_ID a :TranslationVariant ;
+:text "jalan paling celaka dari segala jalan yang telah kulalui?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_ID a :TranslationVariant ;
+:text "Suara anakku membelaiku. Tetapi, para pelayan,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_ID a :TranslationVariant ;
+:text "pergilah cepat lebih dekat, dan setelah berdiri di samping makam,"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_ID a :TranslationVariant ;
+:text "periksalah celah timbunan tanah yang batunya telah dicabut,"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_ID a :TranslationVariant ;
+:text "masuklah ke mulutnya sendiri, apakah suara Haimon"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_ID a :TranslationVariant ;
+:text "yang kudengar, atau aku ditipu oleh para dewa."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_ID a :TranslationVariant ;
+:text "Atas perintah-perintah dari tuan yang kehilangan semangat itu,"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_ID a :TranslationVariant ;
+:text "kami memandang; dan di bagian terdalam makam"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_ID a :TranslationVariant ;
+:text "kami melihat perempuan itu tergantung pada lehernya,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_ID a :TranslationVariant ;
+:text "terikat oleh jerat benang dari kain lenan halus,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_ID a :TranslationVariant ;
+:text "dan lelaki itu melekat padanya, memeluk pinggangnya,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_ID a :TranslationVariant ;
+:text "meratapi kehancuran ranjang pengantin di bawah,"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_ID a :TranslationVariant ;
+:text "dan perbuatan ayahnya serta ranjang yang malang itu."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_ID a :TranslationVariant ;
+:text "Dan ketika ia melihatnya, dengan erangan mengerikan ia masuk"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_ID a :TranslationVariant ;
+:text "menuju dia, lalu sambil meratap keras ia memanggil:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_ID a :TranslationVariant ;
+:text "Wahai yang menderita, perbuatan macam apa yang telah kaulakukan? Pikiran apa"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_ID a :TranslationVariant ;
+:text "yang kaumiliki? Dalam bencana apa engkau binasa?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_ID a :TranslationVariant ;
+:text "Keluarlah, anakku; aku memohon kepadamu sebagai pemohon."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_ID a :TranslationVariant ;
+:text "Tetapi anak itu, setelah menatapnya dengan mata liar,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_ID a :TranslationVariant ;
+:text "meludah ke wajahnya dan tanpa menjawab apa pun,"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_ID a :TranslationVariant ;
+:text "menarik gigi-gigi ganda pedangnya; dan ketika ayahnya menyerbu,"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_ID a :TranslationVariant ;
+:text "ia meleset karena ayahnya lari; lalu anak yang malang itu,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_ID a :TranslationVariant ;
+:text "marah kepada dirinya sendiri, sebagaimana ia adanya, menegangkan diri"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_ID a :TranslationVariant ;
+:text "dan menancapkan pedang ke tengah lambungnya;"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_ID a :TranslationVariant ;
+:text "dan masih sadar, dengan lengan basah, ia memeluk sang gadis;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_ID a :TranslationVariant ;
+:text "dan sambil terengah, ia memancarkan aliran tajam"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_ID a :TranslationVariant ;
+:text "tetesan berdarah ke pipi putihnya."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_ID a :TranslationVariant ;
+:text "Ia terbaring mati di samping yang mati, upacara pengantin"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_ID a :TranslationVariant ;
+:text "akhirnya diperoleh si malang di rumah-rumah Hades,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_ID a :TranslationVariant ;
+:text "menunjukkan di antara manusia bahwa tidak berakal"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_ID a :TranslationVariant ;
+:text "adalah kejahatan terbesar yang melekat pada seorang pria."^^xsd:string ;
+:relatedTo :Line_1243 .

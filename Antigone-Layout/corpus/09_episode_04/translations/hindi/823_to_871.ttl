@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-hindi a owl:Ontology .
+# Hindi translation variants for 823_to_871.ttl
+
+:TV_Line_823_HI a :TranslationVariant ;
+:text "मैंने सुना है कि फ्रिगिया की अतिथि स्त्री अत्यंत दयनीय मृत्यु से मरी,"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in Antigone
+
+:TV_Line_825_HI a :TranslationVariant ;
+:text "तांतलुस की पुत्री, सिपिलुस की ऊँची चोटी के पास, जिसे लिपटी हुई आइवी जैसी"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_HI a :TranslationVariant ;
+:text "पथरीली वृद्धि ने वश में कर लिया; और पिघलती हुई उसे वर्षाएँ,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_HI a :TranslationVariant ;
+:text "जैसा लोगों की कथा है,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Line 828 and 829 do not exist in Antigone
+
+:TV_Line_830_HI a :TranslationVariant ;
+:text "और हिम कभी नहीं छोड़ते; उसकी सर्वथा रोती भौंहों के नीचे वे भिगोते हैं"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_HI a :TranslationVariant ;
+:text "उसकी गरदनें; उसी के समान देवता मुझे भी सुला रहा है।"^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Line 832 and 833 do not exist in Antigone
+
+:TV_Line_834_HI a :TranslationVariant ;
+:text "पर वह तो देवी थी और देववंशजा भी,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_HI a :TranslationVariant ;
+:text "जबकि हम नश्वर हैं और नश्वर-जन्मे।"^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_HI a :TranslationVariant ;
+:text "फिर भी मरती हुई के लिए यह सुनना भी महान है"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_HI a :TranslationVariant ;
+:text "कि उसने देवताओं के समान भाग्य पाया है,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_HI a :TranslationVariant ;
+:text "जीवित रहते हुए और फिर मरकर भी।"^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_HI a :TranslationVariant ;
+:text "हाय, मेरा उपहास हो रहा है। क्यों, पितरों के देवताओं की शपथ,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_HI a :TranslationVariant ;
+:text "मेरे चले जाने पर नहीं, बल्कि मेरे सामने ही मेरा अपमान करते हो?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_HI a :TranslationVariant ;
+:text "हे नगर, हे नगर के धनी पुरुषो;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_HI a :TranslationVariant ;
+:text "हाय, दिर्के के स्रोतों,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Line 843 and 844 do not exist in Antigone
+
+:TV_Line_845_HI a :TranslationVariant ;
+:text "और अनेक रथों वाली थीब्स के उपवन, कम-से-कम तुम्हें मैं सह-साक्षी बनाती हूँ,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_HI a :TranslationVariant ;
+:text "कैसी मैं अपनों से अनरोई, किन नियमों से"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_HI a :TranslationVariant ;
+:text "मिट्टी से ढके पत्थरीले कारागार, उस विचित्र समाधि की ओर जा रही हूँ;"^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Line 848 and 849 do not exist in Antigone
+
+:TV_Line_850_HI a :TranslationVariant ;
+:text "न मृतकों में मृतक,"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_HI a :TranslationVariant ;
+:text "न जीवितों में वासी, न मृतों में।"^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in Antigone
+
+:TV_Line_853_HI a :TranslationVariant ;
+:text "तू दुस्साहस की अंतिम सीमा तक बढ़कर"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_HI a :TranslationVariant ;
+:text "दिके के ऊँचे आसन पर"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_HI a :TranslationVariant ;
+:text "आ गिरी, हे बालिका, बहुत दूर;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_HI a :TranslationVariant ;
+:text "और तू पिता से मिला कोई दंड चुका रही है।"^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in Antigone
+
+:TV_Line_858_HI a :TranslationVariant ;
+:text "तुमने मेरी सबसे पीड़ादायक चिंता को छू दिया,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_HI a :TranslationVariant ;
+:text "मेरे पिता के बार-बार रोए गए शोक और पूरे"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_HI a :TranslationVariant ;
+:text "हमारे भाग्य को, प्रसिद्ध लब्दाकिदों के भाग्य को।"^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_HI a :TranslationVariant ;
+:text "हाय, माँ की शय्याओं की"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Line 862, 863 and 864 do not exist in Antigone
+
+:TV_Line_865_HI a :TranslationVariant ;
+:text "विपत्तियाँ, और मेरे पिता के लिए उसकी अभागी माँ के आत्मजन्मे सहवास!"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_HI a :TranslationVariant ;
+:text "कैसे लोगों से मैं अभागी जन्मी!"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_HI a :TranslationVariant ;
+:text "उन्हीं के पास मैं शापग्रस्त, अविवाहित, यह प्रवासी होकर जा रही हूँ।"^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Line 868 and 869 do not exist in Antigone
+
+:TV_Line_870_HI a :TranslationVariant ;
+:text "हे अभागे विवाह को प्राप्त करने वाले भाई,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_HI a :TranslationVariant ;
+:text "मरकर तूने मुझे, जो अभी जीवित थी, मार डाला।"^^xsd:string ;
+:relatedTo :Line_871 .

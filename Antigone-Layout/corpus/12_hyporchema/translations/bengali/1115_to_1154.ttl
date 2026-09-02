@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-bengali a owl:Ontology .
+# Bengali translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_BN a :TranslationVariant ;
+:text "হে বহু-নামধারী, কাদমোসের বধূর গৌরব,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_BN a :TranslationVariant ;
+:text "আর গভীর-গর্জনকারী জিউসের"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_BN a :TranslationVariant ;
+:text "সন্তান, তুমি যে খ্যাতিমান"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_BN a :TranslationVariant ;
+:text "ইতালিয়াকে রক্ষা করো, আর শাসন করো"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_BN a :TranslationVariant ;
+:text "সবার-সাধারণ এলেউসিনীয়"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_BN a :TranslationVariant ;
+:text "দেওর কোলে, হে বাক্খেউস, বাক্খাদের নেতা,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_BN a :TranslationVariant ;
+:text "তুমি যে মাতৃনগর থিব্‌সে"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_BN a :TranslationVariant ;
+:text "আর্দ্র প্রবাহের পাশে বাস করো,"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Line 1123 and 1124 do not exist in Antigone
+
+:TV_Line_1125_BN a :TranslationVariant ;
+:text "ইসমেনোসের স্রোত আর বন্য ড্রাগনের বপনক্ষেত্রের উপর।"^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_BN a :TranslationVariant ;
+:text "দ্বিশিখর শিলার ওপরে ধোঁয়ার ঝলক তোমাকে দেখেছে,"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_BN a :TranslationVariant ;
+:text "যেখানে কোরিকীয়"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_BN a :TranslationVariant ;
+:text "বাক্খীয় নিম্ফেরা অগ্রসর হয়,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in Antigone
+
+:TV_Line_1130_BN a :TranslationVariant ;
+:text "আর কাস্তালিয়ার ঝরনাধারা।"^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_BN a :TranslationVariant ;
+:text "আর নিসার পর্বতগুলির"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_BN a :TranslationVariant ;
+:text "আইভি-ঢাকা ঢাল ও সবুজ তীর"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_BN a :TranslationVariant ;
+:text "আঙুরে-প্রচুর হয়ে তোমাকে পাঠায়,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_BN a :TranslationVariant ;
+:text "অমর বাক্যগুলির"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_BN a :TranslationVariant ;
+:text "উল্লাসধ্বনি তুলতে তুলতে, থিব্‌সের পথগুলির উপর নজর রেখে;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in Antigone
+
+:TV_Line_1137_BN a :TranslationVariant ;
+:text "সব নগরের মধ্যে যাকে তুমি সর্বোচ্চ সম্মান দাও,"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_BN a :TranslationVariant ;
+:text "তোমার বজ্রাহত মায়ের সঙ্গে;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in Antigone
+
+:TV_Line_1140_BN a :TranslationVariant ;
+:text "আর এখন, যখন সমগ্র-জনতার নগর"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_BN a :TranslationVariant ;
+:text "হিংস্র রোগে আক্রান্ত,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_BN a :TranslationVariant ;
+:text "শুদ্ধিকর পদক্ষেপে পার্নাসোসের ঢালের ওপর দিয়ে এসো,"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Line 1143 and 1144 do not exist in Antigone
+
+:TV_Line_1145_BN a :TranslationVariant ;
+:text "অথবা বিলাপময় প্রণালী পেরিয়ে।"^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_BN a :TranslationVariant ;
+:text "হে আগুন-নিঃশ্বাসী নক্ষত্রদের কোরাসনেতা,"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_BN a :TranslationVariant ;
+:text "রাত্রিকালীন ধ্বনির রক্ষক,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_BN a :TranslationVariant ;
+:text "হে জিউসের পুত্র, তার সন্তান,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in Antigone
+
+:TV_Line_1150_BN a :TranslationVariant ;
+:text "হে প্রভু, তোমার সহচরিণীদের সঙ্গে,"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_BN a :TranslationVariant ;
+:text "থুইয়াদদের সঙ্গে, যারা উন্মত্ত হয়ে"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_BN a :TranslationVariant ;
+:text "রাত্রিভর তোমার জন্য নৃত্য করে, হে তাদের অধিপতি ইয়াক্কোস।"^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Line 1153 and 1154 do not exist in Antigone

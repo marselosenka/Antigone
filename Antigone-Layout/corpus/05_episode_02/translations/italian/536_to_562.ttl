@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-italian a owl:Ontology .
+# Italian translation variants for 536_to_562.ttl
+
+:TV_Line_536_IT a :TranslationVariant ;
+:text "Ho compiuto l'opera, se questa qui concorda,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_IT a :TranslationVariant ;
+:text "e partecipo e porto la responsabilità."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_IT a :TranslationVariant ;
+:text "Ma la giustizia non ti permetterà questo, poiché"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_IT a :TranslationVariant ;
+:text "né tu lo volesti né io ti presi come compagna."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_IT a :TranslationVariant ;
+:text "Ma nei tuoi mali non mi vergogno"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_IT a :TranslationVariant ;
+:text "di fare me stessa compagna di navigazione del dolore."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_IT a :TranslationVariant ;
+:text "Di chi è l'opera, Hades e quelli di sotto lo sanno insieme;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_IT a :TranslationVariant ;
+:text "ma io non amo come amica chi ama solo con parole."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_IT a :TranslationVariant ;
+:text "Non disonorarmi, sorella, nel non permettermi"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_IT a :TranslationVariant ;
+:text "di morire con te e di purificare il morto."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_IT a :TranslationVariant ;
+:text "Non morire insieme a me, né le cose che non toccasti"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_IT a :TranslationVariant ;
+:text "farle tue. Io, morendo, basterò."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_IT a :TranslationVariant ;
+:text "E quale vita mi sarebbe cara, se sono lasciata senza te?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_IT a :TranslationVariant ;
+:text "Chiedilo a Creonte; di lui infatti sei custode."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_IT a :TranslationVariant ;
+:text "Perché mi addolori con queste parole, senza giovare a nulla?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_IT a :TranslationVariant ;
+:text "Con dolore certo rido, se rido di te."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_IT a :TranslationVariant ;
+:text "Che altro dunque potrei ora ancora fare per aiutarti?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_IT a :TranslationVariant ;
+:text "Salva te stessa; non ti invidio il fuggire via."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_IT a :TranslationVariant ;
+:text "Ahimè, infelice, sarò privata anche del tuo destino?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_IT a :TranslationVariant ;
+:text "Tu infatti scegliesti di vivere, io invece di morire."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_IT a :TranslationVariant ;
+:text "Ma non senza che le mie parole fossero dette."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_IT a :TranslationVariant ;
+:text "Tu sembravi pensare bene ad alcuni, io ad altri."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_IT a :TranslationVariant ;
+:text "Eppure uguale per noi due è l'errore."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_IT a :TranslationVariant ;
+:text "Coraggio; tu vivi, ma la mia anima da tempo"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_IT a :TranslationVariant ;
+:text "è morta, così da giovare ai morti."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_IT a :TranslationVariant ;
+:text "Dico che queste due figlie: l'una proprio ora"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_IT a :TranslationVariant ;
+:text "si è mostrata senza senno, l'altra da quando nacque."^^xsd:string ;
+:relatedTo :Line_562 .

@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-arabic a owl:Ontology .
+# Arabic translation variants for 988_to_1032.ttl
+
+:TV_Line_988_AR a :TranslationVariant ;
+:text "يا حكام طيبة، لقد جئنا في طريق مشتركة،"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_AR a :TranslationVariant ;
+:text "اثنان ينظران بعيني واحد؛ فإن العميان"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_AR a :TranslationVariant ;
+:text "لهم هذا المسلك بواسطة قائد."^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_AR a :TranslationVariant ;
+:text "وما الأمر الجديد، أيها الشيخ تيريسياس؟"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_AR a :TranslationVariant ;
+:text "أنا سأعلّمك، وأنت أطع العرّاف."^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_AR a :TranslationVariant ;
+:text "حقًا، لم أكن من قبل أبتعد عن رأيك."^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_AR a :TranslationVariant ;
+:text "لذلك فأنت تقود هذه المدينة في طريق مستقيم."^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_AR a :TranslationVariant ;
+:text "لي أن أشهد، بما اختبرت، أنها أمور نافعة."^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_AR a :TranslationVariant ;
+:text "فكّر، وأنت واقف الآن مرة أخرى على حدّ شفرة الحظ."^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_AR a :TranslationVariant ;
+:text "وما الأمر؟ إنني أرتعد من فمك."^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_AR a :TranslationVariant ;
+:text "ستعرف، حين تسمع علامات فني."^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_AR a :TranslationVariant ;
+:text "فإني جلست على مقعدي القديم لرصد الطيور،"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_AR a :TranslationVariant ;
+:text "حيث كان لي مرفأ لكل طائر نذير،"^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_AR a :TranslationVariant ;
+:text "فسمعت صوتًا غريبًا من الطيور،"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_AR a :TranslationVariant ;
+:text "تصرخ بهيجان شرير، وقد صار صوتها أعجميًا؛"^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_AR a :TranslationVariant ;
+:text "وعرفت أنها تمزق بعضها بعضًا بمخالب قاتلة؛"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_AR a :TranslationVariant ;
+:text "فإن خفقان الأجنحة لم يكن بلا علامة واضحة."^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_AR a :TranslationVariant ;
+:text "وعلى الفور، إذ خفت، أخذت أختبر القرابين المحترقة"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_AR a :TranslationVariant ;
+:text "على مذابح ملتهبة من كل جانب؛ ومن الذبائح"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_AR a :TranslationVariant ;
+:text "لم يكن هيفايستوس يلمع، بل على الرماد"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_AR a :TranslationVariant ;
+:text "كان رطوب الدهن من الفخذين يذوب وهو متعفن،"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_AR a :TranslationVariant ;
+:text "وكان يدخن ويبصق، والمرارات العالية"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_AR a :TranslationVariant ;
+:text "كانت تتناثر، والفخذان المنهاران"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_AR a :TranslationVariant ;
+:text "كانا مكشوفين من شحمهما المغطي."^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_AR a :TranslationVariant ;
+:text "مثل هذه الأمور علمتها من هذا الفتى هنا،"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_AR a :TranslationVariant ;
+:text "إذ كانت نبوءات الطقوس الغامضة تخبو بلا علامات؛"^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_AR a :TranslationVariant ;
+:text "فهو قائدي، وأنا قائد لغيره."^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_AR a :TranslationVariant ;
+:text "وهذه المدينة مريضة من جراء رأيك؛"^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_AR a :TranslationVariant ;
+:text "فإن مذابحنا ومواقدنا كلها"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_AR a :TranslationVariant ;
+:text "ممتلئة، بفعل الطيور والكلاب، من طعام"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_AR a :TranslationVariant ;
+:text "نسل أوديب التعيس الساقط."^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_AR a :TranslationVariant ;
+:text "ومن ثم لم تعد الآلهة تقبل منا"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_AR a :TranslationVariant ;
+:text "صلوات الذبائح، ولا لهب الفخذين،"^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_AR a :TranslationVariant ;
+:text "ولا يطلق طائر أصواتًا ذات علامات حسنة،"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_AR a :TranslationVariant ;
+:text "لأنها أكلت دسم دم قاتل للإنسان."^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_AR a :TranslationVariant ;
+:text "ففكّر إذن في هذه الأمور، يا بني؛ فإن البشر"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_AR a :TranslationVariant ;
+:text "كلهم يشتركون في الوقوع في الخطأ؛"^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_AR a :TranslationVariant ;
+:text "ولكن متى أخطأ، فليس ذلك الرجل بعدُ"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_AR a :TranslationVariant ;
+:text "عديم الرأي ولا تعيسًا، إذا وقع في الشر"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_AR a :TranslationVariant ;
+:text "ثم داواه، ولم يبقَ جامدًا؛"^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_AR a :TranslationVariant ;
+:text "فالعناد، حقًا، يستوجب تهمة الحمق."^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_AR a :TranslationVariant ;
+:text "بل اخضع للميت، ولا تطعن الهالك؛"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_AR a :TranslationVariant ;
+:text "أي قوة في أن تقتل الميت مرة أخرى؟"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_AR a :TranslationVariant ;
+:text "إذ أفكر لك حسنًا أقول حسنًا؛ والتعلّم"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_AR a :TranslationVariant ;
+:text "من قائل حسن القول ألذّ ما يكون، إن كان يحمل نفعًا."^^xsd:string ;
+:relatedTo :Line_1032 .

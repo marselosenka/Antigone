@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-portuguese a owl:Ontology .
+# Portuguese translation variants for 384_to_440.ttl
+
+:TV_Line_384_PT a :TranslationVariant ;
+:text "Esta é aquela que realizou o feito;"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_PT a :TranslationVariant ;
+:text "apanhamo-la sepultando. Mas onde está Creonte?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_PT a :TranslationVariant ;
+:text "Eis que ele retorna da casa, passando no momento oportuno."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_PT a :TranslationVariant ;
+:text "Que há? Com que fortuna correspondente avancei?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_PT a :TranslationVariant ;
+:text "Senhor, para os mortais nada há que se possa negar com juramento."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_PT a :TranslationVariant ;
+:text "Pois o pensamento posterior falseia a decisão; visto que"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_PT a :TranslationVariant ;
+:text "eu jurava que dificilmente viria aqui algum dia"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_PT a :TranslationVariant ;
+:text "por causa de tuas ameaças, com as quais então fui tempestadeado;"^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_PT a :TranslationVariant ;
+:text "mas a alegria fora e além da esperança"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_PT a :TranslationVariant ;
+:text "não parece ter igual em extensão a nenhum outro prazer;"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_PT a :TranslationVariant ;
+:text "venho, embora por juramentos estivesse jurado a não vir,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_PT a :TranslationVariant ;
+:text "trazendo esta jovem, que foi apanhada"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_PT a :TranslationVariant ;
+:text "ornando o túmulo. Aqui a sorte não foi lançada;"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_PT a :TranslationVariant ;
+:text "mas isto é meu achado, não de outro."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_PT a :TranslationVariant ;
+:text "E agora, senhor, toma-a tu mesmo, como queres,"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_PT a :TranslationVariant ;
+:text "julga-a e interroga-a; eu, livre,"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_PT a :TranslationVariant ;
+:text "tenho direito de estar separado destes males."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_PT a :TranslationVariant ;
+:text "Trazes esta de que modo, tendo-a tomado de onde?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_PT a :TranslationVariant ;
+:text "Ela sepultava o homem; sabes tudo."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_PT a :TranslationVariant ;
+:text "Entendes também e dizes corretamente o que afirmas?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_PT a :TranslationVariant ;
+:text "Vi esta sepultando aquele morto"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_PT a :TranslationVariant ;
+:text "que tu proibiste. Falo coisas claras e evidentes?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_PT a :TranslationVariant ;
+:text "E como foi vista e apanhada em flagrante?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_PT a :TranslationVariant ;
+:text "O fato era assim. Pois quando chegamos,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_PT a :TranslationVariant ;
+:text "ameaçados por ti com aquelas coisas terríveis,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_PT a :TranslationVariant ;
+:text "varrendo todo o pó que cobria"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_PT a :TranslationVariant ;
+:text "o morto, e descobrindo bem o corpo que apodrecia,"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_PT a :TranslationVariant ;
+:text "sentamo-nos no alto dos rochedos, protegidos do vento,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_PT a :TranslationVariant ;
+:text "fugindo para que o cheiro dele não nos atingisse,"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_PT a :TranslationVariant ;
+:text "cada homem incitando outro, desperto, com maus"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_PT a :TranslationVariant ;
+:text "insultos, se alguém descuidasse deste trabalho."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_PT a :TranslationVariant ;
+:text "Por tanto tempo isto durava, até que no meio"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_PT a :TranslationVariant ;
+:text "do éter se pôs o círculo brilhante do sol"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_PT a :TranslationVariant ;
+:text "e o calor aquecia; então, de repente, da terra"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_PT a :TranslationVariant ;
+:text "um tufão ergueu uma dor celeste como raio,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_PT a :TranslationVariant ;
+:text "encheu a planície, ultrajando toda a folhagem"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_PT a :TranslationVariant ;
+:text "da mata da planície, e o vasto"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_PT a :TranslationVariant ;
+:text "éter ficou cheio; fechando os olhos, suportávamos a doença divina."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_PT a :TranslationVariant ;
+:text "Quando isso cessou depois de longo tempo,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_PT a :TranslationVariant ;
+:text "a jovem é vista, e grita alto com voz aguda"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_PT a :TranslationVariant ;
+:text "de ave amarga, como quando vê vazio"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_PT a :TranslationVariant ;
+:text "o leito órfão de filhotes no ninho."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_PT a :TranslationVariant ;
+:text "Assim também ela, quando vê o morto nu,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_PT a :TranslationVariant ;
+:text "gemeu com lamentos, e lançou más maldições"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_PT a :TranslationVariant ;
+:text "contra aqueles que tinham realizado o feito."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_PT a :TranslationVariant ;
+:text "E logo com as mãos leva pó seco,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_PT a :TranslationVariant ;
+:text "e de uma jarra de bronze bem batido, erguida inteira,"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_PT a :TranslationVariant ;
+:text "com libações tríplices coroa o morto."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_PT a :TranslationVariant ;
+:text "E nós, vendo, lançamo-nos, e juntos a ela"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_PT a :TranslationVariant ;
+:text "caçamos imediatamente, em nada aterrorizada,"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_PT a :TranslationVariant ;
+:text "e interrogávamos as ações anteriores e as de agora;"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_PT a :TranslationVariant ;
+:text "ela não se tornou negadora de nenhuma,"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_PT a :TranslationVariant ;
+:text "ao mesmo tempo com prazer para mim e com dor ao mesmo tempo."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_PT a :TranslationVariant ;
+:text "Pois escapar eu mesmo dos males"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_PT a :TranslationVariant ;
+:text "é dulcíssimo; mas levar amigos ao mal"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_PT a :TranslationVariant ;
+:text "é doloroso; contudo, tomar tudo isto como inferior"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_PT a :TranslationVariant ;
+:text "à minha salvação é natural para mim."^^xsd:string ;
+:relatedTo :Line_440 .

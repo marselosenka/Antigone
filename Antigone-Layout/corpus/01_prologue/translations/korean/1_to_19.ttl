@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-korean a owl:Ontology .
+# Korean translation variants for 1_to_19.ttl
+
+:TV_Line_001_KO a :TranslationVariant ;
+:text "오, 이스메네, 같은 태에서 난 친자매의 머리여,"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_KO a :TranslationVariant ;
+:text "오이디푸스에게서 온 재앙들 가운데 제우스가"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_KO a :TranslationVariant ;
+:text "우리 둘이 아직 살아 있는 동안 이루지 않을 것이 무엇인지 아느냐?"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_KO a :TranslationVariant ;
+:text "고통스러운 것도, 파멸을 벗어난 것도,"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_KO a :TranslationVariant ;
+:text "수치스러운 것도, 불명예스러운 것도, 그런 것은 없다,"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_KO a :TranslationVariant ;
+:text "네 것과 내 재앙들 가운데 내가 아직 보지 못한 것은."^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_KO a :TranslationVariant ;
+:text "그리고 이제 또, 장군이 온 시민의 도시에"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_KO a :TranslationVariant ;
+:text "방금 내렸다고들 하는 이 포고는 무엇인가?"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_KO a :TranslationVariant ;
+:text "너는 무엇을 알고 들었느냐? 아니면 네가 모르는 사이에"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_KO a :TranslationVariant ;
+:text "적들의 재앙이 사랑하는 이들에게 다가오고 있는가?"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_KO a :TranslationVariant ;
+:text "나에게는, 안티고네야, 사랑하는 이들에 관한 아무 말도"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_KO a :TranslationVariant ;
+:text "기쁜 것도 고통스러운 것도 오지 않았다, 그때 이후로,"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_KO a :TranslationVariant ;
+:text "우리 두 자매가 두 형제를 빼앗긴 뒤로,"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_KO a :TranslationVariant ;
+:text "한 날에, 서로의 두 손으로 죽은 그들을."^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_KO a :TranslationVariant ;
+:text "그리고 아르고스 군대가 달아난 뒤로,"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_KO a :TranslationVariant ;
+:text "바로 이 밤에, 나는 그보다 더한 것을 아무것도 모른다,"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_KO a :TranslationVariant ;
+:text "더 운이 좋아진 것도, 더 파멸한 것도 아니다."^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_KO a :TranslationVariant ;
+:text "나는 잘 알고 있었다. 그래서 너를 궁문의"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_KO a :TranslationVariant ;
+:text "바깥으로 불러냈다, 너 혼자 듣게 하려고."^^xsd:string ;
+:relatedTo :Line_019 .

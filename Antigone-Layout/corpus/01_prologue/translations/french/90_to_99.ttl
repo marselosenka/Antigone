@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-french a owl:Ontology .
+# French translation variants for 90_to_99.ttl
+
+:TV_Line_090_FR a :TranslationVariant ;
+:text "Si du moins tu le peux; mais tu désires l’impossible."^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_FR a :TranslationVariant ;
+:text "Eh bien, lorsque je n’aurai plus de force, je m’arrêterai."^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_FR a :TranslationVariant ;
+:text "Il ne convient pas de commencer par poursuivre l’impossible."^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_FR a :TranslationVariant ;
+:text "Si tu dis cela, tu seras haïe de moi,"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_FR a :TranslationVariant ;
+:text "et justement tu resteras ennemie du mort."^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_FR a :TranslationVariant ;
+:text "Mais laisse-moi, moi et mon mauvais conseil,"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_FR a :TranslationVariant ;
+:text "subir cette chose terrible; car je ne subirai rien"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_FR a :TranslationVariant ;
+:text "d’assez terrible pour ne pas mourir noblement."^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_FR a :TranslationVariant ;
+:text "Mais si cela te semble bon, va; sache seulement ceci:"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_FR a :TranslationVariant ;
+:text "tu pars sans raison, mais justement chère à tes proches."^^xsd:string ;
+:relatedTo :Line_099 .

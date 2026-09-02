@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-indonesian a owl:Ontology .
+# Indonesian translation variants for 872_to_928.ttl
+
+:TV_Line_872_ID a :TranslationVariant ;
+:text "Menghormati memang suatu kesalehan,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_ID a :TranslationVariant ;
+:text "tetapi kekuasaan, bagi siapa yang memegang kekuasaan,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_ID a :TranslationVariant ;
+:text "tidak dapat dilanggar dengan cara apa pun,"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_ID a :TranslationVariant ;
+:text "dan kemarahanmu yang mengenal dirinya sendiri telah membinasakanmu."^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_ID a :TranslationVariant ;
+:text "Tak ditangisi, tanpa sahabat, tanpa nyanyian kawin, malang, aku dibawa"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_ID a :TranslationVariant ;
+:text "di jalan terakhir ini. Tidak lagi bagiku ini"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_ID a :TranslationVariant ;
+:text "mata suci obor cahaya"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in Antigone
+
+:TV_Line_880_ID a :TranslationVariant ;
+:text "boleh kulihat, bagi aku yang malang;"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_ID a :TranslationVariant ;
+:text "dan nasibku yang tanpa air mata"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_ID a :TranslationVariant ;
+:text "tidak ada seorang pun dari sahabat yang meratapinya."^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_ID a :TranslationVariant ;
+:text "Tahukah kalian bahwa nyanyian dan ratapan sebelum mati"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_ID a :TranslationVariant ;
+:text "tidak akan pernah dihentikan siapa pun, jika mengucapkannya berguna?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_ID a :TranslationVariant ;
+:text "Tidakkah kalian akan membawanya secepat mungkin, dan dalam makam"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_ID a :TranslationVariant ;
+:text "beratap mengurungnya, seperti telah kukatakan,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_ID a :TranslationVariant ;
+:text "dan tinggalkan dia sendiri, sepi, entah ia harus mati,"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_ID a :TranslationVariant ;
+:text "atau hidup terkubur dalam hunian semacam itu."^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_ID a :TranslationVariant ;
+:text "Sebab kami suci sejauh menyangkut gadis ini;"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_ID a :TranslationVariant ;
+:text "tetapi ia akan kehilangan tempat tinggal di atas."^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_ID a :TranslationVariant ;
+:text "Wahai makam, wahai kamar pengantin, wahai tempat tinggal"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_ID a :TranslationVariant ;
+:text "tergali yang berjaga abadi, ke sanalah aku pergi,"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_ID a :TranslationVariant ;
+:text "kepada orang-orangku sendiri, yang jumlahnya di antara orang mati"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_ID a :TranslationVariant ;
+:text "paling banyak telah diterima Fersefassa dari yang binasa;"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_ID a :TranslationVariant ;
+:text "dari mereka, aku yang terakhir dan paling buruk secara jauh"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_ID a :TranslationVariant ;
+:text "turun, sebelum bagian hidupku sampai pada akhirnya."^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_ID a :TranslationVariant ;
+:text "Namun saat datang, aku sangat memelihara diri dalam harapan"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_ID a :TranslationVariant ;
+:text "bahwa aku akan datang tercinta bagi ayah, dan sangat tercinta bagimu,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_ID a :TranslationVariant ;
+:text "ibu, dan tercinta bagimu, wahai kepala saudara;"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_ID a :TranslationVariant ;
+:text "sebab ketika kalian mati, dengan tanganku sendiri aku"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_ID a :TranslationVariant ;
+:text "memandikan dan menghias kalian, dan persembahan di atas makam"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_ID a :TranslationVariant ;
+:text "kuberikan; tetapi sekarang, Polineikes, tubuhmu"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_ID a :TranslationVariant ;
+:text "saat kututup, imbalan seperti inilah yang kudapat."^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_ID a :TranslationVariant ;
+:text "Namun bagimu aku memberi hormat baik dalam pandangan orang bijaksana."^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_ID a :TranslationVariant ;
+:text "Sebab tidak pernah, sekalipun aku menjadi ibu anak-anak,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_ID a :TranslationVariant ;
+:text "atau jika suamiku mati dan membusuk,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_ID a :TranslationVariant ;
+:text "aku akan mengangkat beban ini melawan kekuatan warga."^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_ID a :TranslationVariant ;
+:text "Demi hukum apa aku mengatakan hal-hal ini?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_ID a :TranslationVariant ;
+:text "Jika suami mati, suami lain dapat kumiliki,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_ID a :TranslationVariant ;
+:text "dan anak dari lelaki lain, jika aku kehilangan yang ini;"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_ID a :TranslationVariant ;
+:text "tetapi ketika ibu dan ayah tersembunyi di Hades,"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_ID a :TranslationVariant ;
+:text "tidak ada saudara yang mungkin pernah tumbuh lagi."^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_ID a :TranslationVariant ;
+:text "Dengan hukum semacam itu aku terlebih menghormatimu,"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_ID a :TranslationVariant ;
+:text "tetapi bagi Kreon hal-hal ini tampak sebagai kesalahan"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_ID a :TranslationVariant ;
+:text "dan keberanian mengerikan, wahai kepala saudara."^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_ID a :TranslationVariant ;
+:text "Dan sekarang ia menuntunku demikian, memegang dengan tangan,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_ID a :TranslationVariant ;
+:text "tanpa ranjang, tanpa nyanyian kawin, tanpa memperoleh bagian"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_ID a :TranslationVariant ;
+:text "dari perkawinan ataupun pengasuhan anak,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_ID a :TranslationVariant ;
+:text "melainkan demikian, ditinggalkan oleh sahabat-sahabat, aku yang malang"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_ID a :TranslationVariant ;
+:text "hidup-hidup pergi ke galian orang-orang mati;"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_ID a :TranslationVariant ;
+:text "hukum ilahi mana yang kulanggar?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_ID a :TranslationVariant ;
+:text "Mengapa aku yang malang masih harus"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_ID a :TranslationVariant ;
+:text "memandang kepada para dewa? Sekutu mana yang harus kupanggil? Sebab sungguh,"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_ID a :TranslationVariant ;
+:text "dengan berbakti aku memperoleh tuduhan kefasikan."^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_ID a :TranslationVariant ;
+:text "Tetapi jika hal-hal ini memang baik di antara para dewa,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_ID a :TranslationVariant ;
+:text "setelah menderita, kami akan mengakui bahwa kami bersalah;"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_ID a :TranslationVariant ;
+:text "tetapi jika orang-orang ini bersalah, semoga mereka tidak menderita lebih banyak kejahatan"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_ID a :TranslationVariant ;
+:text "daripada yang mereka lakukan kepadaku secara tidak adil."^^xsd:string ;
+:relatedTo :Line_928 .

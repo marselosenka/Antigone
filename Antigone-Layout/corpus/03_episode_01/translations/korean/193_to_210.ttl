@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-korean a owl:Ontology .
+# Korean translation variants for 193_to_210.ttl
+
+:TV_Line_193_KO a :TranslationVariant ;
+:text "오이디푸스에게서 난 자식들에 관하여 시민들에게."^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_KO a :TranslationVariant ;
+:text "에테오클레스는, 이 도시를 위해 싸우다가"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_KO a :TranslationVariant ;
+:text "죽은 자로, 창으로 모든 면에서 뛰어났으므로,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_KO a :TranslationVariant ;
+:text "무덤에 감추고 모든 정화 의식을 행하라고,"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_KO a :TranslationVariant ;
+:text "아래로 가는 가장 훌륭한 죽은 자들에게 주어지는 것들을."^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_KO a :TranslationVariant ;
+:text "그러나 그의 같은 피붙이, 폴뤼네이케스를 말하건대,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_KO a :TranslationVariant ;
+:text "그는 추방자로 돌아와 아버지의 땅과"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_KO a :TranslationVariant ;
+:text "혈족의 신들을 불로"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_KO a :TranslationVariant ;
+:text "꼭대기까지 태우려 했고, 공동의 피를"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_KO a :TranslationVariant ;
+:text "맛보려 했으며, 나머지를 노예로 끌고 가려 했다."^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_KO a :TranslationVariant ;
+:text "이 자에 대해서는 이 도시에 선포되어 있다, 무덤으로"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_KO a :TranslationVariant ;
+:text "장례를 치르지도, 누구도 곡하지도 말라고,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_KO a :TranslationVariant ;
+:text "장사 없이 두어, 새들에게 그 몸이"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_KO a :TranslationVariant ;
+:text "그리고 개들에게 먹히고 훼손된 채 보이게 하라고."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_KO a :TranslationVariant ;
+:text "이런 것이 내 생각이다. 결코 나로부터"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_KO a :TranslationVariant ;
+:text "나쁜 자들이 정의로운 자들보다 더한 명예를 차지하지 못할 것이다."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_KO a :TranslationVariant ;
+:text "그러나 누구든 이 도시에 호의적인 자는, 죽어서도"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_KO a :TranslationVariant ;
+:text "살아서도 똑같이 나에게서 존중받을 것이다."^^xsd:string ;
+:relatedTo :Line_210 .

@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-hindi a owl:Ontology .
+# Hindi translation variants for 63_to_89.ttl
+
+:TV_Line_063_HI a :TranslationVariant ;
+:text "फिर यह कि हम अधिक शक्तिशाली लोगों द्वारा शासित हैं,"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_HI a :TranslationVariant ;
+:text "और ये बातें, तथा इनसे भी अधिक पीड़ादायक बातें, सुननी होंगी।"^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_HI a :TranslationVariant ;
+:text "इसलिए मैं धरती के नीचे वालों से"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_HI a :TranslationVariant ;
+:text "क्षमा माँगकर, क्योंकि मुझ पर इन बातों का बल है,"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_HI a :TranslationVariant ;
+:text "सत्ता पर बैठे लोगों की मानूँगी; क्योंकि"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_HI a :TranslationVariant ;
+:text "सीमा से बढ़कर काम करना किसी बुद्धि का नहीं।"^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_HI a :TranslationVariant ;
+:text "न मैं तुझे कहूँगी, न यदि तू अब भी"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_HI a :TranslationVariant ;
+:text "करना चाहे, तो तू मेरे साथ प्रसन्नता से कर सकेगी।"^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_HI a :TranslationVariant ;
+:text "पर जान, जैसा तुझे उचित लगे; उसे मैं"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_HI a :TranslationVariant ;
+:text "दफ़नाऊँगी; ऐसा करते हुए मरना मेरे लिए सुंदर है।"^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_HI a :TranslationVariant ;
+:text "प्रिय के साथ, प्रिय होकर, मैं उसके साथ लेटी रहूँगी,"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_HI a :TranslationVariant ;
+:text "पवित्र अपराध करके; क्योंकि अधिक लंबा समय है"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_HI a :TranslationVariant ;
+:text "जब मुझे यहाँ वालों से अधिक नीचे वालों को प्रसन्न करना होगा।"^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_HI a :TranslationVariant ;
+:text "क्योंकि वहाँ मैं सदा लेटी रहूँगी; और तू, यदि तुझे उचित लगे,"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_HI a :TranslationVariant ;
+:text "देवताओं की सम्मानित बातों का अपमान कर।"^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_HI a :TranslationVariant ;
+:text "मैं उन्हें अपमानित नहीं मानती, पर"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_HI a :TranslationVariant ;
+:text "नागरिकों के बल के विरुद्ध काम करने में मैं असमर्थ जन्मी हूँ।"^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_HI a :TranslationVariant ;
+:text "तू इन बहानों को आगे रख सकती है; पर मैं तो"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_HI a :TranslationVariant ;
+:text "अपने अति प्रिय भाई के लिए कब्र का ढेर बनाने जाऊँगी।"^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_HI a :TranslationVariant ;
+:text "हाय, दुखिया मैं, तेरे लिए कितना अधिक डरती हूँ।"^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_HI a :TranslationVariant ;
+:text "मेरे लिए पहले से मत डर; अपने भाग्य को सीधा कर।"^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_HI a :TranslationVariant ;
+:text "पर यह काम किसी से पहले न बता देना,"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_HI a :TranslationVariant ;
+:text "गुप्त रख; और मैं भी वैसा ही करूँगी।"^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_HI a :TranslationVariant ;
+:text "हाय, बता दे; यदि तू चुप रहेगी तो बहुत अधिक शत्रु होगी,"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_HI a :TranslationVariant ;
+:text "यदि तू सबके सामने इन बातों की घोषणा नहीं करेगी।"^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_HI a :TranslationVariant ;
+:text "ठंडी बातों पर तेरा हृदय गर्म है।"^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_HI a :TranslationVariant ;
+:text "पर मैं जानती हूँ कि जिन्हें सबसे अधिक प्रसन्न करना चाहिए, उन्हें प्रसन्न कर रही हूँ।"^^xsd:string ;
+:relatedTo :Line_089 .

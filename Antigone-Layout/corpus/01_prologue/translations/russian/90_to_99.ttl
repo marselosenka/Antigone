@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-russian a owl:Ontology .
+# Russian translation variants for 90_to_99.ttl
+
+:TV_Line_090_RU a :TranslationVariant ;
+:text "Если только сможешь; но ты любишь невозможное."^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_RU a :TranslationVariant ;
+:text "Итак, когда уже не будет у меня силы, я прекращу."^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_RU a :TranslationVariant ;
+:text "Но с самого начала не подобает охотиться за невозможным."^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_RU a :TranslationVariant ;
+:text "Если ты скажешь это, ты станешь ненавистной мне,"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_RU a :TranslationVariant ;
+:text "и по справедливости будешь лежать ненавистной умершему."^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_RU a :TranslationVariant ;
+:text "Но оставь меня и мое безрассудство"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_RU a :TranslationVariant ;
+:text "претерпеть это страшное; ведь я не потерплю"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_RU a :TranslationVariant ;
+:text "ничего столь великого, чтобы не умереть прекрасно."^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_RU a :TranslationVariant ;
+:text "Но если тебе угодно, иди; и знай вот что:"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_RU a :TranslationVariant ;
+:text "ты идешь безрассудной, но для друзей по праву дорогой."^^xsd:string ;
+:relatedTo :Line_099 .

@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-portuguese a owl:Ontology .
+# Portuguese translation variants for 631_to_634.ttl
+
+:TV_Line_631_PT a :TranslationVariant ;
+:text "Logo saberemos melhor que os videntes."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_PT a :TranslationVariant ;
+:text "Ó filho, talvez ouvindo o voto final"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_PT a :TranslationVariant ;
+:text "sobre tua futura esposa vieste furioso contra teu pai?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_PT a :TranslationVariant ;
+:text "Ou nós, em tudo que fazemos, somos queridos para ti?"^^xsd:string ;
+:relatedTo :Line_634 .

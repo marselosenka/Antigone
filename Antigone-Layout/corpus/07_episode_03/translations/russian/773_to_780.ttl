@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-russian a owl:Ontology .
+# Russian translation variants for 773_to_780.ttl
+
+:TV_Line_773_RU a :TranslationVariant ;
+:text "Уведя ее в пустынное место, где нет следа смертных,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_RU a :TranslationVariant ;
+:text "я спрячу живой в каменном подземелье,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_RU a :TranslationVariant ;
+:text "положив пищи столько, сколько нужно лишь против скверны,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_RU a :TranslationVariant ;
+:text "чтобы весь город избежал осквернения."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_RU a :TranslationVariant ;
+:text "И там, молясь Аиду, единственному из богов,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_RU a :TranslationVariant ;
+:text "которого она чтит, она, быть может, добьется не умереть,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_RU a :TranslationVariant ;
+:text "или уж тогда узнает по крайней мере,"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_RU a :TranslationVariant ;
+:text "что лишний труд — чтить тех, кто в Аиде."^^xsd:string ;
+:relatedTo :Line_780 .

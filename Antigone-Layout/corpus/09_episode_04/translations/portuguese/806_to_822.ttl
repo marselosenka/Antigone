@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-portuguese a owl:Ontology .
+# Portuguese translation variants for 806_to_822.ttl
+
+:TV_Line_806_PT a :TranslationVariant ;
+:text "Vede-me, ó cidadãos da terra paterna, caminhando pela última estrada"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_PT a :TranslationVariant ;
+:text "e contemplando a última luz do sol,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Lines 808 and 809 do not exist in canonical.
+
+:TV_Line_810_PT a :TranslationVariant ;
+:text "e nunca mais; mas Hades, que a todos deita, leva-me viva"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_PT a :TranslationVariant ;
+:text "à margem"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_PT a :TranslationVariant ;
+:text "do Aqueronte, sem parte nos hinos nupciais nem junto aos ritos de noiva"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Lines 813 and 814 do not exist in canonical.
+
+:TV_Line_815_PT a :TranslationVariant ;
+:text "jamais algum canto me cantou; antes, serei desposada pelo Aqueronte."^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in canonical.
+
+:TV_Line_817_PT a :TranslationVariant ;
+:text "Então, ilustre e possuidora de louvor,"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_PT a :TranslationVariant ;
+:text "partes para este esconderijo dos mortos,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_PT a :TranslationVariant ;
+:text "nem atingida por doenças consumptivas,"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_PT a :TranslationVariant ;
+:text "nem tendo recebido sorteio das espadas,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_PT a :TranslationVariant ;
+:text "mas autônoma, viva, sozinha entre"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_PT a :TranslationVariant ;
+:text "os mortais, descerás ao Hades."^^xsd:string ;
+:relatedTo :Line_822 .

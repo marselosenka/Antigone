@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-bengali a owl:Ontology .
+# Bengali translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_BN a :TranslationVariant ;
+:text "তেইরেসিয়াস: তবে ভালো করে জেনে রাখো, আর বেশি নয়,"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_BN a :TranslationVariant ;
+:text "সূর্যের প্রতিযোগী চক্রের বহু পরিক্রমা শেষ হওয়ার আগেই,"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_BN a :TranslationVariant ;
+:text "তোমার নিজের অঙ্গের ভেতর থেকে একজনকে"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_BN a :TranslationVariant ;
+:text "মৃতদের বিনিময়ে মৃতদেহ হিসেবে তুমি নিজেই দেবে,"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_BN a :TranslationVariant ;
+:text "কারণ তুমি ওপরের জীবিতদের একজনকে নিচে নিক্ষেপ করে রেখেছ,"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_BN a :TranslationVariant ;
+:text "আর এক প্রাণকে অসম্মানে সমাধিতে বসিয়েছ,"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_BN a :TranslationVariant ;
+:text "আর নিচের দেবতাদের একজনকে আবার এখানে ধরে রেখেছ,"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_BN a :TranslationVariant ;
+:text "অংশহীন, অন্ত্যেষ্টিহীন, অপবিত্র মৃতদেহ হিসেবে।"^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_BN a :TranslationVariant ;
+:text "এসবের অংশ না তোমার, না ওপরের"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_BN a :TranslationVariant ;
+:text "দেবতাদের; কিন্তু তোমার দ্বারাই এগুলো বলপূর্বক লঙ্ঘিত হচ্ছে।"^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_BN a :TranslationVariant ;
+:text "এই কারণে তোমার জন্য ধ্বংসকারীরা, দেরিতে এলেও শেষঘাতী,"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_BN a :TranslationVariant ;
+:text "হেডিসের ও দেবতাদের এরিনিসেরা ওত পেতে আছে,"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_BN a :TranslationVariant ;
+:text "যাতে তুমি এই একই অমঙ্গলগুলিতে ধরা পড়ো।"^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_BN a :TranslationVariant ;
+:text "আর দেখো, আমি রূপায় কেনা হয়ে এসব বলছি কি না;"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_BN a :TranslationVariant ;
+:text "কারণ দীর্ঘ সময়ের বিলম্ব হবে না, প্রকাশ পাবে"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_BN a :TranslationVariant ;
+:text "তোমার ঘরে পুরুষ ও নারীদের আর্তনাদে।"^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_BN a :TranslationVariant ;
+:text "আর সব নগর শত্রুতায় আলোড়িত হচ্ছে,"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_BN a :TranslationVariant ;
+:text "যাদের ছিন্ন অঙ্গ কুকুরেরা শুদ্ধ করেছে,"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_BN a :TranslationVariant ;
+:text "অথবা পশুরা, অথবা কোনো পাখাওয়ালা পাখি বহন করে"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_BN a :TranslationVariant ;
+:text "অপবিত্র দুর্গন্ধ নগরের গৃহাগ্নির কাছে নিয়ে গেছে।"^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_BN a :TranslationVariant ;
+:text "এমন তীর তোমার দিকে, কারণ তুমি কষ্ট দাও, তীরন্দাজের মতো"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_BN a :TranslationVariant ;
+:text "আমি ক্রোধে হৃদয় থেকে ছেড়ে দিয়েছি,"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_BN a :TranslationVariant ;
+:text "নিশ্চিত তীর, যার উত্তাপ থেকে তুমি পালাতে পারবে না।"^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_BN a :TranslationVariant ;
+:text "হে ছেলে, তুমি আমাদের ঘরে নিয়ে চলো, যাতে"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_BN a :TranslationVariant ;
+:text "এই মানুষটি তার ক্রোধ তরুণদের উপর ছাড়ে,"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_BN a :TranslationVariant ;
+:text "আর আরও শান্ত জিহ্বা পোষণ করতে শেখে"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_BN a :TranslationVariant ;
+:text "এবং এখন যে মন বহন করে তার চেয়ে ভালো মন।"^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_BN a :TranslationVariant ;
+:text "কোরাস: প্রভু, মানুষটি ভয়ংকর ভবিষ্যদ্বাণী করে চলে গেছে;"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_BN a :TranslationVariant ;
+:text "আর আমরা জানি, যখন থেকে আমি এই"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_BN a :TranslationVariant ;
+:text "চুল কালো থেকে সাদা করে ধারণ করছি,"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_BN a :TranslationVariant ;
+:text "সে কখনও নগরের কাছে মিথ্যা বলেনি।"^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_BN a :TranslationVariant ;
+:text "আমি নিজেও জানি, আর মনে আলোড়িত হচ্ছি।"^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_BN a :TranslationVariant ;
+:text "কারণ নতি স্বীকার করা ভয়ংকর; কিন্তু প্রতিরোধ করে"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_BN a :TranslationVariant ;
+:text "অন্ধবিপর্যয়ে প্রাণকে আঘাত করাও ভয়ংকর অবস্থায় পড়ে।"^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_BN a :TranslationVariant ;
+:text "মেনোইকেউসের পুত্র, সুবিবেচনা গ্রহণ করা দরকার।"^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_BN a :TranslationVariant ;
+:text "তবে কী করা উচিত? বলো। আমি মানব।"^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_BN a :TranslationVariant ;
+:text "গিয়ে কন্যাকে ভূগর্ভস্থ গৃহ থেকে ছেড়ে দাও,"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_BN a :TranslationVariant ;
+:text "আর সামনে পড়ে থাকা মৃতের জন্য সমাধি নির্মাণ করো।"^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_BN a :TranslationVariant ;
+:text "তুমি কি এ কথা প্রশংসা করছ, আর মনে করছ আমাকে নতি স্বীকার করতে হবে?"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_BN a :TranslationVariant ;
+:text "যত দ্রুত সম্ভব, প্রভু; কারণ দেবতাদের দ্রুতপদ"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_BN a :TranslationVariant ;
+:text "আঘাত দুষ্টবুদ্ধি লোকদের ছোট করে ফেলে।"^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_BN a :TranslationVariant ;
+:text "হায়; কঠিন বটে, তবু হৃদয় থেকে সরে যাচ্ছি"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_BN a :TranslationVariant ;
+:text "এ কাজের দিকে; প্রয়োজনের সঙ্গে লড়াই করা উচিত নয়।"^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_BN a :TranslationVariant ;
+:text "তবে যাও, এসব করো, অন্যদের দিকে ঘুরো না।"^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_BN a :TranslationVariant ;
+:text "আমি যেমন আছি তেমনই যাব। যাও, যাও, সঙ্গীরা,"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_BN a :TranslationVariant ;
+:text "যারা উপস্থিত আর যারা অনুপস্থিত, হাতে কুঠার"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_BN a :TranslationVariant ;
+:text "নিয়ে দৃশ্যমান স্থানের দিকে দ্রুত চল।"^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_BN a :TranslationVariant ;
+:text "আর আমি, যেহেতু সিদ্ধান্ত এদিকে ফিরে গেছে,"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_BN a :TranslationVariant ;
+:text "নিজে যেমন বেঁধেছিলাম, উপস্থিত হয়ে নিজেই মুক্ত করব।"^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_BN a :TranslationVariant ;
+:text "কারণ আমি ভয় করি, প্রতিষ্ঠিত আইনগুলিকে"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_BN a :TranslationVariant ;
+:text "রক্ষা করে জীবন শেষ করাই শ্রেষ্ঠ।"^^xsd:string ;
+:relatedTo :Line_1114 .

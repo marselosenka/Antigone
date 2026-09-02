@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-portuguese a owl:Ontology .
+# Portuguese translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in canonical.
+
+:TV_Line_1278_PT a :TranslationVariant ;
+:text "Ó senhor, como alguém que traz e possui,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_PT a :TranslationVariant ;
+:text "pareces trazer estes males diante das mãos, e os de casa,"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_PT a :TranslationVariant ;
+:text "tendo chegado, logo verás."^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_PT a :TranslationVariant ;
+:text "Que há? Há ainda algo pior entre os males?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_PT a :TranslationVariant ;
+:text "A esposa morreu, a mãe total deste morto,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_PT a :TranslationVariant ;
+:text "desditosa, agora mesmo por golpes recém-cortantes."^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_PT a :TranslationVariant ;
+:text "Ai, ai, porto de Hades difícil de purificar,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_PT a :TranslationVariant ;
+:text "por que, por que me destróis?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_PT a :TranslationVariant ;
+:text "Ó tu que me enviaste à frente"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_PT a :TranslationVariant ;
+:text "dores de más notícias, que palavra gritas?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_PT a :TranslationVariant ;
+:text "Ai, acabaste de destruir um homem já perdido."^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_PT a :TranslationVariant ;
+:text "Que dizes, ó rapaz? Que novo relato me dizes,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_PT a :TranslationVariant ;
+:text "ai, ai,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_PT a :TranslationVariant ;
+:text "que, vítima sobre ruína,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_PT a :TranslationVariant ;
+:text "uma morte de mulher me cerca?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_PT a :TranslationVariant ;
+:text "É possível vê-la; pois já não está no interior."^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_PT a :TranslationVariant ;
+:text "Ai de mim,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_PT a :TranslationVariant ;
+:text "vejo este outro segundo mal, infeliz."^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_PT a :TranslationVariant ;
+:text "Que destino, que destino ainda me espera?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_PT a :TranslationVariant ;
+:text "Tenho nas mãos agora mesmo meu filho,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_PT a :TranslationVariant ;
+:text "infeliz, e vejo diante de mim outro morto."^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in canonical.
+
+:TV_Line_1300_PT a :TranslationVariant ;
+:text "Ai, ai, mãe infeliz, ai, filho."^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_PT a :TranslationVariant ;
+:text "E ela, atingida por golpe agudo, sentada junto ao altar,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_PT a :TranslationVariant ;
+:text "fecha as pálpebras negras, tendo gritado primeiro"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_PT a :TranslationVariant ;
+:text "pelo leito vazio de Megareu, morto antes,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_PT a :TranslationVariant ;
+:text "e de novo por este; e por último, contra ti,"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_PT a :TranslationVariant ;
+:text "cantou más ações sobre o matador de filhos."^^xsd:string ;
+:relatedTo :Line_1305 .

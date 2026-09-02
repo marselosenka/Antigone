@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-italian a owl:Ontology .
+# Italian translation variants for 781_to_805.ttl
+
+:TV_Line_781_IT a :TranslationVariant ;
+:text "Eros invincibile in battaglia, Eros, che piombi sui beni,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_IT a :TranslationVariant ;
+:text "che pernotti sulle morbide guance di una giovane,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Lines 783 and 784 do not exist in canonical.
+
+:TV_Line_785_IT a :TranslationVariant ;
+:text "vaghi oltre il mare e nelle dimore campestri;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_IT a :TranslationVariant ;
+:text "e da te nessuno degli immortali può fuggire,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Lines 787, 788, and 789 do not exist in canonical.
+
+:TV_Line_790_IT a :TranslationVariant ;
+:text "né alcuno degli uomini effimeri; e chi ti possiede delira."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_IT a :TranslationVariant ;
+:text "Tu trascini anche le menti dei giusti verso pensieri ingiusti, a rovina,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_IT a :TranslationVariant ;
+:text "tu hai turbato anche questa contesa di uomini dello stesso sangue;"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Lines 793 and 794 do not exist in canonical.
+
+:TV_Line_795_IT a :TranslationVariant ;
+:text "vince il desiderio manifesto degli occhi della sposa dal bel letto,"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_IT a :TranslationVariant ;
+:text "assiso accanto alle grandi origini"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Lines 797, 798, and 799 do not exist in canonical.
+
+:TV_Line_800_IT a :TranslationVariant ;
+:text "delle leggi; infatti invincibile gioca la dea Afrodite."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_IT a :TranslationVariant ;
+:text "Ma ora già anch’io sono portato fuori"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_IT a :TranslationVariant ;
+:text "dalle leggi, vedendo queste cose, e trattenere"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_IT a :TranslationVariant ;
+:text "non posso più le sorgenti delle lacrime,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_IT a :TranslationVariant ;
+:text "quando vedo il talamo che accoglie tutti"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_IT a :TranslationVariant ;
+:text "questa Antigone raggiungere."^^xsd:string ;
+:relatedTo :Line_805 .

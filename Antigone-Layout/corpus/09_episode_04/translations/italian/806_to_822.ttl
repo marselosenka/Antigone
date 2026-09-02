@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-italian a owl:Ontology .
+# Italian translation variants for 806_to_822.ttl
+
+:TV_Line_806_IT a :TranslationVariant ;
+:text "Guardatemi, cittadini della terra patria, mentre percorro l’ultima via"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_IT a :TranslationVariant ;
+:text "e guardo l’ultima luce del sole,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Lines 808 and 809 do not exist in canonical.
+
+:TV_Line_810_IT a :TranslationVariant ;
+:text "e mai più; ma Ade, che dà giaciglio a tutti, mi conduce viva"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_IT a :TranslationVariant ;
+:text "alla riva"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_IT a :TranslationVariant ;
+:text "dell’Acheronte, senza parte nei canti nuziali, né presso nozze"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Lines 813 and 814 do not exist in canonical.
+
+:TV_Line_815_IT a :TranslationVariant ;
+:text "mai un inno mi cantò; ma sposerò l’Acheronte."^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in canonical.
+
+:TV_Line_817_IT a :TranslationVariant ;
+:text "Dunque, gloriosa e avendo lode,"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_IT a :TranslationVariant ;
+:text "te ne vai verso questo nascondiglio dei morti,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_IT a :TranslationVariant ;
+:text "non colpita da malattie consumatrici"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_IT a :TranslationVariant ;
+:text "né avendo ottenuto il compenso delle spade,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_IT a :TranslationVariant ;
+:text "ma autonoma, viva, sola davvero"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_IT a :TranslationVariant ;
+:text "fra i mortali scenderai all’Ade."^^xsd:string ;
+:relatedTo :Line_822 .

@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-929-943-russian a owl:Ontology .
+# Russian translation variants for 929_to_943.ttl
+
+:TV_Line_929_RU a :TranslationVariant ;
+:text "Еще тех же самых ветров эти"^^xsd:string ;
+:relatedTo :Line_929 .
+
+:TV_Line_930_RU a :TranslationVariant ;
+:text "порывы души держат ее."^^xsd:string ;
+:relatedTo :Line_930 .
+
+:TV_Line_931_RU a :TranslationVariant ;
+:text "Поэтому тем, кто ведет ее,"^^xsd:string ;
+:relatedTo :Line_931 .
+
+:TV_Line_932_RU a :TranslationVariant ;
+:text "будут плачи из-за промедления."^^xsd:string ;
+:relatedTo :Line_932 .
+
+:TV_Line_933_RU a :TranslationVariant ;
+:text "Увы мне, это слово пришло"^^xsd:string ;
+:relatedTo :Line_933 .
+
+:TV_Line_934_RU a :TranslationVariant ;
+:text "совсем близко к смерти."^^xsd:string ;
+:relatedTo :Line_934 .
+
+:TV_Line_935_RU a :TranslationVariant ;
+:text "Ободрять тебя я совсем не стану,"^^xsd:string ;
+:relatedTo :Line_935 .
+
+:TV_Line_936_RU a :TranslationVariant ;
+:text "что это не будет исполнено именно так."^^xsd:string ;
+:relatedTo :Line_936 .
+
+:TV_Line_937_RU a :TranslationVariant ;
+:text "О город отцовской земли Фив"^^xsd:string ;
+:relatedTo :Line_937 .
+
+:TV_Line_938_RU a :TranslationVariant ;
+:text "и боги предков,"^^xsd:string ;
+:relatedTo :Line_938 .
+
+:TV_Line_939_RU a :TranslationVariant ;
+:text "меня уже ведут, и я больше не медлю."^^xsd:string ;
+:relatedTo :Line_939 .
+
+:TV_Line_940_RU a :TranslationVariant ;
+:text "Смотрите, властители Фив,"^^xsd:string ;
+:relatedTo :Line_940 .
+
+:TV_Line_941_RU a :TranslationVariant ;
+:text "на единственную оставшуюся из царского рода,"^^xsd:string ;
+:relatedTo :Line_941 .
+
+:TV_Line_942_RU a :TranslationVariant ;
+:text "какое от каких мужей я терплю,"^^xsd:string ;
+:relatedTo :Line_942 .
+
+:TV_Line_943_RU a :TranslationVariant ;
+:text "за то, что почтила благочестие."^^xsd:string ;
+:relatedTo :Line_943 .

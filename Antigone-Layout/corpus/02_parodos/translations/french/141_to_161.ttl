@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-french a owl:Ontology .
+# French translation variants for 141_to_161.ttl
+
+:TV_Line_141_FR a :TranslationVariant ;
+:text "Car sept chefs de troupes, devant sept portes,"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_FR a :TranslationVariant ;
+:text "rangés égaux contre égaux, laissèrent"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_FR a :TranslationVariant ;
+:text "à Zeus Tropaïos des offrandes tout en bronze,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_FR a :TranslationVariant ;
+:text "sauf les deux haïssables, qui, d’un seul père"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_FR a :TranslationVariant ;
+:text "et d’une seule mère étant nés, l’un contre l’autre"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_FR a :TranslationVariant ;
+:text "ayant dressé leurs lances doublement victorieuses,"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_FR a :TranslationVariant ;
+:text "obtinrent tous deux une part de mort commune."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_FR a :TranslationVariant ;
+:text "Mais voici qu’est venue la Victoire au grand nom,"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_FR a :TranslationVariant ;
+:text "se réjouissant avec Thèbes aux nombreux chars;"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_FR a :TranslationVariant ;
+:text "désormais, des guerres"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_FR a :TranslationVariant ;
+:text "présentes, établissons l’oubli,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_FR a :TranslationVariant ;
+:text "et vers les temples des dieux, avec des chœurs"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_FR a :TranslationVariant ;
+:text "qui durent toute la nuit, allons tous;"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_FR a :TranslationVariant ;
+:text "et que celui qui ébranle Thèbes,"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_FR a :TranslationVariant ;
+:text "le Bacchique, commence."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_FR a :TranslationVariant ;
+:text "Mais voici justement le roi du pays,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_FR a :TranslationVariant ;
+:text "Créon, fils de Ménécée, nouveau venu"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_FR a :TranslationVariant ;
+:text "par suite des récentes conjonctures des dieux,"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_FR a :TranslationVariant ;
+:text "il avance, remuant quelle pensée donc ?"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_FR a :TranslationVariant ;
+:text "Puisqu’il a proposé cette assemblée convoquée"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_FR a :TranslationVariant ;
+:text "des anciens, en envoyant une proclamation commune."^^xsd:string ;
+:relatedTo :Line_161 .

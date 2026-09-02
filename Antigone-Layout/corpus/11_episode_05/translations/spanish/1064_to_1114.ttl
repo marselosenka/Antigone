@@ -1,0 +1,58 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-spanish a owl:Ontology .
+# Spanish translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1064 ; :text "Pero sábelo bien: no completarás todavía muchos"^^xsd:string .
+:TV_Line_1065_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1065 ; :text "giros competidores del sol"^^xsd:string .
+:TV_Line_1066_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1066 ; :text "antes de que tú mismo, de tus propias entrañas, a uno"^^xsd:string .
+:TV_Line_1067_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1067 ; :text "entregues como cadáver en pago por cadáveres,"^^xsd:string .
+:TV_Line_1068_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1068 ; :text "porque tienes a una de los de arriba arrojada abajo,"^^xsd:string .
+:TV_Line_1069_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1069 ; :text "y has alojado indignamente un alma viva en una tumba,"^^xsd:string .
+:TV_Line_1070_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1070 ; :text "y tienes aquí, de los dioses de abajo,"^^xsd:string .
+:TV_Line_1071_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1071 ; :text "un cadáver sin parte, sin ritos fúnebres, impío."^^xsd:string .
+:TV_Line_1072_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1072 ; :text "En estas cosas ni tú tienes participación ni los dioses"^^xsd:string .
+:TV_Line_1073_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1073 ; :text "de arriba, sino que por ti se violentan."^^xsd:string .
+:TV_Line_1074_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1074 ; :text "Por esto, vengadoras que destruyen tarde"^^xsd:string .
+:TV_Line_1075_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1075 ; :text "te acechan, Erinias de Hades y de los dioses,"^^xsd:string .
+:TV_Line_1076_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1076 ; :text "para que seas atrapado en estos mismos males."^^xsd:string .
+:TV_Line_1077_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1077 ; :text "Y observa si digo estas cosas comprado con plata;"^^xsd:string .
+:TV_Line_1078_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1078 ; :text "pues no pasará mucho tiempo"^^xsd:string .
+:TV_Line_1079_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1079 ; :text "antes de que se muestren lamentos de hombres y mujeres en tu casa."^^xsd:string .
+:TV_Line_1080_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1080 ; :text "Y todas las ciudades se agitan en enemistad,"^^xsd:string .
+:TV_Line_1081_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1081 ; :text "de cuantos despojos purificaron perros"^^xsd:string .
+:TV_Line_1082_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1082 ; :text "o fieras, o alguna ave alada, llevando"^^xsd:string .
+:TV_Line_1083_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1083 ; :text "un olor impío hasta la ciudad que guarda sus hogares."^^xsd:string .
+:TV_Line_1084_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1084 ; :text "Tales flechas contra ti, pues me irritas, como arquero"^^xsd:string .
+:TV_Line_1085_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1085 ; :text "he soltado desde mi ánimo, disparos del corazón,"^^xsd:string .
+:TV_Line_1086_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1086 ; :text "firmes, cuyo ardor no podrás esquivar."^^xsd:string .
+:TV_Line_1087_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1087 ; :text "Muchacho, llévanos a casa, para que este hombre"^^xsd:string .
+:TV_Line_1088_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1088 ; :text "descargue su ira contra otros más jóvenes,"^^xsd:string .
+:TV_Line_1089_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1089 ; :text "y aprenda a criar una lengua más tranquila"^^xsd:string .
+:TV_Line_1090_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1090 ; :text "y una mente mejor que la que ahora lleva en su pecho."^^xsd:string .
+:TV_Line_1091_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1091 ; :text "El hombre, señor, se ha ido después de profetizar cosas terribles;"^^xsd:string .
+:TV_Line_1092_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1092 ; :text "y sabemos, desde que yo"^^xsd:string .
+:TV_Line_1093_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1093 ; :text "cubro de blanco este cabello antes negro,"^^xsd:string .
+:TV_Line_1094_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1094 ; :text "que jamás ha gritado mentira alguna a la ciudad."^^xsd:string .
+:TV_Line_1095_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1095 ; :text "También yo lo he comprendido, y se me turba la mente."^^xsd:string .
+:TV_Line_1096_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1096 ; :text "Ceder es terrible; pero resistir"^^xsd:string .
+:TV_Line_1097_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1097 ; :text "y golpear el ánimo con la ruina está entre lo terrible."^^xsd:string .
+:TV_Line_1098_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1098 ; :text "Hijo de Meneceo, es necesario tomar buen consejo."^^xsd:string .
+:TV_Line_1099_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1099 ; :text "¿Qué hay que hacer entonces? Habla. Yo obedeceré."^^xsd:string .
+:TV_Line_1100_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1100 ; :text "Ve y libera a la muchacha de la morada excavada,"^^xsd:string .
+:TV_Line_1101_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1101 ; :text "y levanta una tumba para el que yace expuesto."^^xsd:string .
+:TV_Line_1102_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1102 ; :text "¿Y aconsejas esto, y te parece que debo ceder?"^^xsd:string .
+:TV_Line_1103_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1103 ; :text "Sí, señor, lo más rápido posible; pues cortan pronto"^^xsd:string .
+:TV_Line_1104_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1104 ; :text "los daños de los dioses, veloces contra los insensatos."^^xsd:string .
+:TV_Line_1105_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1105 ; :text "Ay de mí; con dificultad, pero aparto mi voluntad"^^xsd:string .
+:TV_Line_1106_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1106 ; :text "para actuar; contra la necesidad no hay que combatir."^^xsd:string .
+:TV_Line_1107_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1107 ; :text "Haz ahora esto: ve y no lo dejes a otros."^^xsd:string .
+:TV_Line_1108_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1108 ; :text "Así, tal como estoy, marcharé. Id, id, servidores,"^^xsd:string .
+:TV_Line_1109_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1109 ; :text "los presentes y los ausentes, con hachas en las manos"^^xsd:string .
+:TV_Line_1110_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1110 ; :text "apresuraos hacia el lugar visible."^^xsd:string .
+:TV_Line_1111_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1111 ; :text "Y yo, puesto que mi opinión se ha vuelto hacia esto,"^^xsd:string .
+:TV_Line_1112_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1112 ; :text "yo mismo la até y presente la soltaré."^^xsd:string .
+:TV_Line_1113_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1113 ; :text "Pues temo que lo mejor sea cumplir la vida"^^xsd:string .
+:TV_Line_1114_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_1114 ; :text "conservando las leyes establecidas."^^xsd:string .

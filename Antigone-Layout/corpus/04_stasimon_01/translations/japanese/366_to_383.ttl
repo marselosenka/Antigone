@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-japanese a owl:Ontology .
+# Japanese translation variants for 366_to_383.ttl
+
+:TV_Line_366_JA a :TranslationVariant ;
+:text "ある時は悪へ、また別の時は善へと進む、"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_JA a :TranslationVariant ;
+:text "大地の法と、神々の誓われた正義を尊びながら。"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Lines 368 and 369 do not exist in Antigone
+
+:TV_Line_370_JA a :TranslationVariant ;
+:text "町高き者である。だが町なき者である、不美なものが"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_JA a :TranslationVariant ;
+:text "大胆さのために共にある者は。私の炉辺に"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Lines 372, 373 and 374 do not exist in Antigone
+
+:TV_Line_375_JA a :TranslationVariant ;
+:text "そのようなことを行う者が来ることも、私と同じ考えであることもないように。"^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_JA a :TranslationVariant ;
+:text "この神的な怪異について、私は両方に思い迷う。"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_JA a :TranslationVariant ;
+:text "これを知っていながら、どうして反論できようか、"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_JA a :TranslationVariant ;
+:text "この娘がアンティゴネではないと。"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_JA a :TranslationVariant ;
+:text "おお、不幸な娘よ、"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_JA a :TranslationVariant ;
+:text "不幸な父オイディプスの子よ、"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_JA a :TranslationVariant ;
+:text "これはいったい何か。まさかお前が王の"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_JA a :TranslationVariant ;
+:text "法に従わぬ者として連れて来られているのではあるまいな、"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_JA a :TranslationVariant ;
+:text "そして愚かさの中で捕らえられて。"^^xsd:string ;
+:relatedTo :Line_383 .

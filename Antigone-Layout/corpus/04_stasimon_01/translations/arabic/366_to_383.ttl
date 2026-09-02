@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-arabic a owl:Ontology .
+# Arabic translation variants for 366_to_383.ttl
+
+:TV_Line_366_AR a :TranslationVariant ;
+:text "تارةً إلى الشر، وتارةً أخرى إلى الخير يزحف،"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_AR a :TranslationVariant ;
+:text "مكرمًا قوانين الأرض وعدل الآلهة المحلوف،"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Lines 368 and 369 do not exist in canonical.
+
+:TV_Line_370_AR a :TranslationVariant ;
+:text "عالٍ في المدينة؛ وبلا مدينة من كان غير الجميل"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_AR a :TranslationVariant ;
+:text "يسكن معه من أجل الجرأة. فلا يكن شريك موقدي"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Lines 372, 373, and 374 do not exist in canonical.
+
+:TV_Line_375_AR a :TranslationVariant ;
+:text "ولا مساويًا لي في الفكر من يفعل هذه الأمور."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_AR a :TranslationVariant ;
+:text "إلى عجيبة إلهية أتردد في الرأي"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_AR a :TranslationVariant ;
+:text "بشأن هذه؛ كيف، وأنا أعرف، أجادل"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_AR a :TranslationVariant ;
+:text "أن هذه ليست الفتاة أنتيغوني؟"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_AR a :TranslationVariant ;
+:text "أيتها التعيسة،"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_AR a :TranslationVariant ;
+:text "وابنة الأب التعيس أوديب،"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_AR a :TranslationVariant ;
+:text "ما الأمر؟ ألعلهم لا يسوقونك لأنك"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_AR a :TranslationVariant ;
+:text "خالفتِ القوانين الملكية"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_AR a :TranslationVariant ;
+:text "وقد أمسكوا بك في حماقة؟"^^xsd:string ;
+:relatedTo :Line_383 .

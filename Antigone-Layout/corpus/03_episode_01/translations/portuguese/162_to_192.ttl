@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-portuguese a owl:Ontology .
+# Portuguese translation variants for 162_to_192.ttl
+
+:TV_Line_162_PT a :TranslationVariant ;
+:text "Homens, quanto aos assuntos da cidade, com segurança os deuses,"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_PT a :TranslationVariant ;
+:text "após sacudi-la com grande agitação, ergueram-na de novo;"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_PT a :TranslationVariant ;
+:text "e a vós eu, por mensageiros, dentre todos separadamente,"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_PT a :TranslationVariant ;
+:text "mandei vir, sabendo primeiro que os poderes"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_PT a :TranslationVariant ;
+:text "dos tronos de Laio sempre honrastes bem,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_PT a :TranslationVariant ;
+:text "e depois, quando Édipo endireitava a cidade,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_PT a :TranslationVariant ;
+:text "e quando pereceu, ainda junto aos filhos deles"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_PT a :TranslationVariant ;
+:text "permanecestes com pensamentos firmes."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_PT a :TranslationVariant ;
+:text "Quando, então, aqueles, por dupla sorte, num só"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_PT a :TranslationVariant ;
+:text "dia morreram, golpeando e"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_PT a :TranslationVariant ;
+:text "sendo golpeados com contaminação de mãos próprias,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_PT a :TranslationVariant ;
+:text "eu tenho agora todo o poder e os tronos"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_PT a :TranslationVariant ;
+:text "pelo parentesco mais próximo da linhagem dos mortos."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_PT a :TranslationVariant ;
+:text "É impossível aprender de todo homem"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_PT a :TranslationVariant ;
+:text "a alma, o pensamento e o juízo, antes que"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_PT a :TranslationVariant ;
+:text "se mostre exercitado em governos e leis."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_PT a :TranslationVariant ;
+:text "Pois para mim, quem, dirigindo toda a cidade,"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_PT a :TranslationVariant ;
+:text "não se prende aos melhores conselhos,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_PT a :TranslationVariant ;
+:text "mas por algum medo mantém a língua fechada,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_PT a :TranslationVariant ;
+:text "parece ser o pior, agora e desde há muito;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_PT a :TranslationVariant ;
+:text "e quem considera maior amigo que sua própria pátria,"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_PT a :TranslationVariant ;
+:text "esse eu digo que não vale nada."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_PT a :TranslationVariant ;
+:text "Eu, pois — saiba Zeus, que sempre vê tudo —,"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_PT a :TranslationVariant ;
+:text "jamais me calaria vendo a ruína"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_PT a :TranslationVariant ;
+:text "avançar contra os cidadãos em vez da salvação,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_PT a :TranslationVariant ;
+:text "nem jamais faria amigo para mim homem hostil à terra,"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_PT a :TranslationVariant ;
+:text "sabendo isto:"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_PT a :TranslationVariant ;
+:text "esta é a que salva, e sobre ela,"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_PT a :TranslationVariant ;
+:text "quando navegamos direita, fazemos os amigos."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_PT a :TranslationVariant ;
+:text "Com tais leis eu farei crescer esta cidade."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_PT a :TranslationVariant ;
+:text "E agora, em acordo com isso, proclamei"^^xsd:string ;
+:relatedTo :Line_192 .

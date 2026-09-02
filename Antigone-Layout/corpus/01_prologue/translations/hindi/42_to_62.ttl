@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-hindi a owl:Ontology .
+# Hindi translation variants for 42_to_62.ttl
+
+:TV_Line_042_HI a :TranslationVariant ;
+:text "किस तरह का जोखिम? तू किस विचार की ओर है?"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_HI a :TranslationVariant ;
+:text "क्या तू इस हाथ के साथ उस मृतक को उठाएगी?"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_HI a :TranslationVariant ;
+:text "क्या सचमुच तू उसे दफ़नाने का सोचती है, जिसे नगर ने निषिद्ध किया है?"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_HI a :TranslationVariant ;
+:text "हाँ, मेरा और तेरा भाई, चाहे तू न चाहे,"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_HI a :TranslationVariant ;
+:text "भाई ही है; मैं विश्वासघातिनी पकड़ी नहीं जाऊँगी।"^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_HI a :TranslationVariant ;
+:text "हे कठोर, जबकि क्रेयोन ने मना कर दिया है?"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_HI a :TranslationVariant ;
+:text "पर उसे मेरी वस्तुओं से मुझे रोकने का कोई अधिकार नहीं।"^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_HI a :TranslationVariant ;
+:text "हाय, सोच, हे बहन, हमारे पिता"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_HI a :TranslationVariant ;
+:text "हम दोनों के लिए कैसे घृणित और कुख्यात होकर नष्ट हुए,"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_HI a :TranslationVariant ;
+:text "अपने ही पकड़े गए अपराधों के कारण, दोनों"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_HI a :TranslationVariant ;
+:text "आँखें स्वयं अपने हाथ से फोड़कर;"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_HI a :TranslationVariant ;
+:text "फिर माता और पत्नी—दोहरा नाम—"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_HI a :TranslationVariant ;
+:text "बुनी हुई फंदियों से अपने जीवन का अपमान करती है;"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_HI a :TranslationVariant ;
+:text "तीसरे, दो भाई एक ही दिन"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_HI a :TranslationVariant ;
+:text "एक-दूसरे को मारते हुए, वे दो दुखी"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_HI a :TranslationVariant ;
+:text "आपसी हाथों से साझा मृत्यु पूरी कर गए।"^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_HI a :TranslationVariant ;
+:text "और अब देख, हम दोनों अकेली बची हैं;"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_HI a :TranslationVariant ;
+:text "हम कितनी बुरी तरह नष्ट होंगी, यदि विधान के विरुद्ध बल से"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_HI a :TranslationVariant ;
+:text "हम शासकों के निर्णय या शक्ति का उल्लंघन करें।"^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_HI a :TranslationVariant ;
+:text "पर पहले यह समझना चाहिए कि हम स्त्रियाँ"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_HI a :TranslationVariant ;
+:text "जन्मी हैं, पुरुषों से युद्ध करने के लिए नहीं।"^^xsd:string ;
+:relatedTo :Line_062 .

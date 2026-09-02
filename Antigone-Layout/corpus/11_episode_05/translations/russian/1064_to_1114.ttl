@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-russian a owl:Ontology .
+# Russian translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_RU a :TranslationVariant ;
+:text "Но хорошо знай: уже не много"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_RU a :TranslationVariant ;
+:text "состязательных кругов солнца завершишь,"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_RU a :TranslationVariant ;
+:text "в течение которых ты сам из собственных чресл одного"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_RU a :TranslationVariant ;
+:text "мертвеца отдашь взамен мертвецов,"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_RU a :TranslationVariant ;
+:text "за то, что одного из верхних, низвергнув, держишь внизу,"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_RU a :TranslationVariant ;
+:text "и душу бесчестно поселил в могиле,"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_RU a :TranslationVariant ;
+:text "а из принадлежащих нижним богам держишь здесь, напротив,"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_RU a :TranslationVariant ;
+:text "мертвеца без доли, без погребальных даров, нечестивого."^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_RU a :TranslationVariant ;
+:text "В этом нет ни твоей доли, ни доли верхних"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_RU a :TranslationVariant ;
+:text "богов, но от тебя это насильственно нарушается."^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_RU a :TranslationVariant ;
+:text "За это тебя губители, поздно карающие,"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_RU a :TranslationVariant ;
+:text "Эринии Аида и богов, подстерегают,"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_RU a :TranslationVariant ;
+:text "чтобы ты был схвачен в этих самых бедах."^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_RU a :TranslationVariant ;
+:text "И теперь смотри, говорю ли я это, будучи подкуплен серебром;"^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_RU a :TranslationVariant ;
+:text "ведь явится, без долгого промедления времени,"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_RU a :TranslationVariant ;
+:text "плач мужчин и женщин в твоем доме."^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_RU a :TranslationVariant ;
+:text "И все города смущаются враждой,"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_RU a :TranslationVariant ;
+:text "чьи растерзанные останки очистили собаки,"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_RU a :TranslationVariant ;
+:text "или звери, или какая-нибудь крылатая птица, неся"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_RU a :TranslationVariant ;
+:text "нечестивый запах в город с очагами."^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_RU a :TranslationVariant ;
+:text "Такие стрелы, ибо ты причиняешь боль, как лучник,"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_RU a :TranslationVariant ;
+:text "я выпустил в гневе — стрелы сердца,"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_RU a :TranslationVariant ;
+:text "верные, от жара которых ты не убежишь."^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_RU a :TranslationVariant ;
+:text "О мальчик, ты уведи нас к дому, чтобы"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_RU a :TranslationVariant ;
+:text "этот человек излил гнев на более молодых,"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_RU a :TranslationVariant ;
+:text "и научился питать язык более спокойным"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_RU a :TranslationVariant ;
+:text "и ум лучший в мыслях, чем теперь несет."^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_RU a :TranslationVariant ;
+:text "Государь, этот человек ушел, изрекши страшное;"^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_RU a :TranslationVariant ;
+:text "а мы знаем, с тех пор как я белый"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_RU a :TranslationVariant ;
+:text "этот волос вместо черного ношу,"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_RU a :TranslationVariant ;
+:text "что он еще никогда не выкрикнул лжи городу."^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_RU a :TranslationVariant ;
+:text "Я и сам понял это и смущаюсь умом."^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_RU a :TranslationVariant ;
+:text "Ведь уступить страшно, но, противостав,"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_RU a :TranslationVariant ;
+:text "ударить дух бедой — страшная участь."^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_RU a :TranslationVariant ;
+:text "Нужно принять благоразумный совет, сын Менекея."^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_RU a :TranslationVariant ;
+:text "Что же тогда нужно делать? Скажи. Я повинуюсь."^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_RU a :TranslationVariant ;
+:text "Пойдя, освободи девушку из подземного жилища,"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_RU a :TranslationVariant ;
+:text "а лежащему перед нами устрой могилу."^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_RU a :TranslationVariant ;
+:text "И это ты одобряешь, и считаешь, что нужно уступить?"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_RU a :TranslationVariant ;
+:text "Да, государь, как можно скорее; ибо быстрые"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_RU a :TranslationVariant ;
+:text "кары богов сокращают злонамеренных."^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_RU a :TranslationVariant ;
+:text "О горе; с трудом, но я отступаю сердцем"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_RU a :TranslationVariant ;
+:text "от действия; с необходимостью не следует плохо сражаться."^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_RU a :TranslationVariant ;
+:text "Иди же теперь и сделай это, не обращайся к другим."^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_RU a :TranslationVariant ;
+:text "Так, как я есть, я пошел бы; идите, идите, спутники,"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_RU a :TranslationVariant ;
+:text "и присутствующие, и отсутствующие, с топорами в руках"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_RU a :TranslationVariant ;
+:text "устремляйтесь, взяв их, к видимому месту."^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_RU a :TranslationVariant ;
+:text "А я, поскольку это мнение изменилось,"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_RU a :TranslationVariant ;
+:text "сам связал и, присутствуя сам, освобожу."^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_RU a :TranslationVariant ;
+:text "Ведь я боюсь, как бы установленные законы"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_RU a :TranslationVariant ;
+:text "лучше всего было сохранять, завершая жизнь."^^xsd:string ;
+:relatedTo :Line_1114 .

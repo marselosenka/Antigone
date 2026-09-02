@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-hindi a owl:Ontology .
+# Hindi translation variants for 631_to_634.ttl
+
+:TV_Line_631_HI a :TranslationVariant ;
+:text "शीघ्र ही हम भविष्यद्वक्ताओं से भी बढ़कर जान लेंगे।"^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_HI a :TranslationVariant ;
+:text "हे पुत्र, क्या तू अंतिम निर्णय सुनकर भी नहीं,"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_HI a :TranslationVariant ;
+:text "अपनी होने वाली वधू के लिए पिता के पास पागल होकर आया है?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_HI a :TranslationVariant ;
+:text "या हम तेरे लिए हर ओर, अपने कामों में, मित्र हैं?"^^xsd:string ;
+:relatedTo :Line_634 .

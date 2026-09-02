@@ -1,0 +1,66 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-french a owl:Ontology .
+# French translation variants for 366_to_383.ttl
+
+:TV_Line_366_FR a :TranslationVariant ;
+:text "tantôt vers le mal, tantôt vers le bien il rampe,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_FR a :TranslationVariant ;
+:text "honorant les lois de la terre et la justice jurée des dieux,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+:TV_Line_368_FR a :TranslationVariant ;
+:text "ceci ; comment, le sachant, contredirai-je"^^xsd:string ;
+:relatedTo :Line_368 .
+
+# Line 369 does not exist in canonical.
+
+:TV_Line_370_FR a :TranslationVariant ;
+:text "haut dans la cité ; sans cité est celui avec qui ce qui n’est pas beau"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_FR a :TranslationVariant ;
+:text "habite, par faveur de l’audace. Qu’il ne soit pas auprès de mon foyer,"^^xsd:string ;
+:relatedTo :Line_371 .
+
+:TV_Line_372_FR a :TranslationVariant ;
+:text "ni ne pense comme moi, celui qui fait ces choses."^^xsd:string ;
+:relatedTo :Line_372 .
+
+# Lines 373, 374 and 375 do not exist in canonical.
+
+:TV_Line_376_FR a :TranslationVariant ;
+:text "devant ce prodige divin je doute des deux côtés,"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_FR a :TranslationVariant ;
+:text "ceci ; comment, le sachant, contredirai-je"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_FR a :TranslationVariant ;
+:text "que celle-ci ne soit pas l’enfant Antigone ?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_FR a :TranslationVariant ;
+:text "Ô malheureuse"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_FR a :TranslationVariant ;
+:text "et fille du malheureux père Œdipe,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_FR a :TranslationVariant ;
+:text "qu’est-ce donc ? Ce n’est certes pas toi, désobéissante"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_FR a :TranslationVariant ;
+:text "aux lois royales, qu’ils emmènent"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_FR a :TranslationVariant ;
+:text "et qu’ils ont prise dans la folie ?"^^xsd:string ;
+:relatedTo :Line_383 .

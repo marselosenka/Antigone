@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-russian a owl:Ontology .
+# Russian translation variants for 1_to_19.ttl
+
+:TV_Line_001_RU a :TranslationVariant ;
+:text "О общее родное сестринское лицо Исмены,"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_RU a :TranslationVariant ;
+:text "знаешь ли ты, какое из бед от Эдипа Зевс"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_RU a :TranslationVariant ;
+:text "еще не исполняет над нами обеими, пока мы живы?"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_RU a :TranslationVariant ;
+:text "Ведь нет ничего ни мучительного, ни без гибели,"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_RU a :TranslationVariant ;
+:text "ни постыдного, ни бесчестного, чего бы"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_RU a :TranslationVariant ;
+:text "я не видела среди твоих и моих бед."^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_RU a :TranslationVariant ;
+:text "И теперь что это за новое, говорят, всенародному городу"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_RU a :TranslationVariant ;
+:text "воззвание только что издал стратег?"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_RU a :TranslationVariant ;
+:text "Есть ли у тебя что-нибудь, слышала ли ты? Или от тебя скрыто,"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_RU a :TranslationVariant ;
+:text "что беды от врагов идут к друзьям?"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_RU a :TranslationVariant ;
+:text "Ко мне, Антигона, никакая весть о друзьях,"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_RU a :TranslationVariant ;
+:text "ни сладкая, ни мучительная, не приходила с тех пор,"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_RU a :TranslationVariant ;
+:text "как мы были лишены двух братьев,"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_RU a :TranslationVariant ;
+:text "двух, умерших в один день от двойной руки;"^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_RU a :TranslationVariant ;
+:text "а с тех пор как войско аргивян исчезло"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_RU a :TranslationVariant ;
+:text "в нынешней ночи, я не знаю ничего большего,"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_RU a :TranslationVariant ;
+:text "ни чтобы быть более счастливой, ни более несчастной."^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_RU a :TranslationVariant ;
+:text "Я знала хорошо, и потому вывела тебя за ворота двора,"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_RU a :TranslationVariant ;
+:text "чтобы ты одна услышала."^^xsd:string ;
+:relatedTo :Line_019 .

@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-russian a owl:Ontology .
+# Russian translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_RU a :TranslationVariant ;
+:text "Соседи Кадма и домов Амфиона,"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_RU a :TranslationVariant ;
+:text "нет такого положения в человеческой жизни,"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_RU a :TranslationVariant ;
+:text "которое я когда-либо мог бы ни хвалить, ни порицать."^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_RU a :TranslationVariant ;
+:text "Ведь судьба выпрямляет, и судьба низвергает"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_RU a :TranslationVariant ;
+:text "и счастливого, и несчастного всегда;"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_RU a :TranslationVariant ;
+:text "и нет прорицателя того, что установлено для смертных."^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_RU a :TranslationVariant ;
+:text "Ведь Креонт был некогда завиден, как мне кажется,"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_RU a :TranslationVariant ;
+:text "спасши эту кадмейскую землю от врагов"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_RU a :TranslationVariant ;
+:text "и, получив полное единовластие страны,"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_RU a :TranslationVariant ;
+:text "правил ею, цветя благородным семенем детей;"^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_RU a :TranslationVariant ;
+:text "а теперь все у него отнято. Ведь когда люди"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_RU a :TranslationVariant ;
+:text "предают радости, я не полагаю,"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_RU a :TranslationVariant ;
+:text "что такой живет, но считаю его одушевленным мертвецом."^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_RU a :TranslationVariant ;
+:text "Пусть он богатеет в доме, если хочешь, великим богатством"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_RU a :TranslationVariant ;
+:text "и живет, имея облик тирана; но если отсутствует"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_RU a :TranslationVariant ;
+:text "радость от этого, всего прочего я и за тень дыма"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_RU a :TranslationVariant ;
+:text "не купил бы человеку вместо наслаждения."^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_RU a :TranslationVariant ;
+:text "Что же за это бремя царей ты пришел неся?"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_RU a :TranslationVariant ;
+:text "Они умерли; а живые виновны в смерти."^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_RU a :TranslationVariant ;
+:text "И кто убивает? И кто лежащий? Говори."^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_RU a :TranslationVariant ;
+:text "Гемон погиб; собственной рукой он окровавлен."^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_RU a :TranslationVariant ;
+:text "От отцовской руки или от своей собственной?"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_RU a :TranslationVariant ;
+:text "Сам от себя, разгневавшись на отца из-за убийства."^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_RU a :TranslationVariant ;
+:text "О прорицатель, как верно ты исполнил слово."^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_RU a :TranslationVariant ;
+:text "Раз это так, остается обдумывать прочее."^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_RU a :TranslationVariant ;
+:text "И вот я вижу вместе с тем несчастную Эвридику,"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_RU a :TranslationVariant ;
+:text "жену Креонта; из дома она выходит,"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_RU a :TranslationVariant ;
+:text "то ли услышав о сыне, то ли случайно."^^xsd:string ;
+:relatedTo :Line_1182 .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-portuguese a owl:Ontology .
+# Portuguese translation variants for 563_to_581.ttl
+
+:TV_Line_563_PT a :TranslationVariant ;
+:text "Pois nunca, senhor, nem mesmo em quem nasce permanece"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_PT a :TranslationVariant ;
+:text "o juízo nos que agem mal, mas se retira."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_PT a :TranslationVariant ;
+:text "Em ti ao menos, quando escolheste, em meio aos males, fazer males."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_PT a :TranslationVariant ;
+:text "Pois que vida haveria para mim, só, sem esta?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_PT a :TranslationVariant ;
+:text "Mas não digas esta; pois ela já não existe."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_PT a :TranslationVariant ;
+:text "Mas matarás a noiva de teu próprio filho?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_PT a :TranslationVariant ;
+:text "Pois há campos aráveis também de outras mulheres."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_PT a :TranslationVariant ;
+:text "Não como para ele e esta estavam harmonizados."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_PT a :TranslationVariant ;
+:text "Odeio mulheres más para meus filhos."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_PT a :TranslationVariant ;
+:text "Ó queridíssimo Hêmon, como teu pai te desonra."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_PT a :TranslationVariant ;
+:text "Demais me afliges, tu e teu leito."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_PT a :TranslationVariant ;
+:text "Privarás então desta o teu próprio filho?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_PT a :TranslationVariant ;
+:text "Hades nasceu para pôr fim a estas núpcias."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_PT a :TranslationVariant ;
+:text "Está decidido, ao que parece, que ela morra."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_PT a :TranslationVariant ;
+:text "Para ti e para mim. Sem mais demora; mas levai-a"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_PT a :TranslationVariant ;
+:text "para dentro, servos; daqui em diante é preciso"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_PT a :TranslationVariant ;
+:text "que estas mulheres sejam mulheres, e não soltas."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_PT a :TranslationVariant ;
+:text "Pois também os audazes fogem quando perto"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_PT a :TranslationVariant ;
+:text "já veem Hades da vida."^^xsd:string ;
+:relatedTo :Line_581 .

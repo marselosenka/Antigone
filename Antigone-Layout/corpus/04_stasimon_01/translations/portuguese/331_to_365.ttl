@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-portuguese a owl:Ontology .
+# Portuguese translation variants for 331_to_365.ttl
+
+:TV_Line_331_PT a :TranslationVariant ;
+:text "Salvo, devo muita graça aos deuses."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_PT a :TranslationVariant ;
+:text "Muitas são as coisas terríveis, e nada"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_PT a :TranslationVariant ;
+:text "mais terrível que o homem existe;"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_PT a :TranslationVariant ;
+:text "este também para além do cinzento"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_PT a :TranslationVariant ;
+:text "mar, com o Noto invernal,"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_PT a :TranslationVariant ;
+:text "avança, por entre rugidores"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_PT a :TranslationVariant ;
+:text "vagalhões, passando sob as ondas; e dos deuses"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_PT a :TranslationVariant ;
+:text "a suprema, a Terra,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_PT a :TranslationVariant ;
+:text "imortal, incansável, ele desgasta,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_PT a :TranslationVariant ;
+:text "com arados que se revolvem ano após ano,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_PT a :TranslationVariant ;
+:text "trabalhando-a com a raça dos cavalos."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_PT a :TranslationVariant ;
+:text "E a tribo de ligeiro pensamento dos pás-"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_PT a :TranslationVariant ;
+:text "saros, envolvendo-a, captura,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_PT a :TranslationVariant ;
+:text "e as raças das feras selvagens,"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_PT a :TranslationVariant ;
+:text "e a natureza marinha do mar,"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_PT a :TranslationVariant ;
+:text "com laços de redes entretecidas,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_PT a :TranslationVariant ;
+:text "o homem engenhoso; domina"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_PT a :TranslationVariant ;
+:text "com artifícios a fera agreste,"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 is commented out in canonical.
+
+:TV_Line_350_PT a :TranslationVariant ;
+:text "a fera que anda pelos montes, e o cavalo de pescoço peludo"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_PT a :TranslationVariant ;
+:text "faz passar sob o jugo que cerca a crina,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_PT a :TranslationVariant ;
+:text "e o touro montês incansável."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Lines 353 and 354 are commented out in canonical.
+
+:TV_Line_355_PT a :TranslationVariant ;
+:text "E a fala, e o pensamento alado pelo vento, e os impulsos"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_PT a :TranslationVariant ;
+:text "ordenadores da cidade ele ensinou a si mesmo, e dos gelos"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_PT a :TranslationVariant ;
+:text "inóspitos ao ar livre e das flechas da chuva difícil fugir,"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_PT a :TranslationVariant ;
+:text "com caminho para tudo; sem recurso para nada ele avança"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 is commented out in canonical.
+
+:TV_Line_360_PT a :TranslationVariant ;
+:text "do que está por vir; somente de Hades não conseguirá fuga;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_PT a :TranslationVariant ;
+:text "mas de doenças sem recurso concebeu fugas."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364, and 365 do not exist in canonical.

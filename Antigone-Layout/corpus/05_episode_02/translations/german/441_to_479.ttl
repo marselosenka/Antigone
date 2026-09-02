@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-german a owl:Ontology .
+# German translation variants for 441_to_479.ttl
+
+:TV_Line_441_DE a :TranslationVariant ;
+:text "Dich also, dich, die den Kopf zur Erde neigt,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_DE a :TranslationVariant ;
+:text "sagst du es oder leugnest du, dies getan zu haben?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_DE a :TranslationVariant ;
+:text "Ich sage, es getan zu haben, und leugne es nicht."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_DE a :TranslationVariant ;
+:text "Du kannst dich selbst dorthin wegbringen, wohin du willst,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_DE a :TranslationVariant ;
+:text "frei, außerhalb schwerer Schuld."^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_DE a :TranslationVariant ;
+:text "Du aber sag mir, nicht lang, sondern kurz:"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_DE a :TranslationVariant ;
+:text "Wusstest du, dass verkündet war, dies nicht zu tun?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_DE a :TranslationVariant ;
+:text "Ich wusste es; wie hätte ich nicht sollen? Denn es war offenkundig."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_DE a :TranslationVariant ;
+:text "Und dennoch wagtest du, diese Gesetze zu überschreiten?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_DE a :TranslationVariant ;
+:text "Denn nicht Zeus war es mir, der dies verkündete,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_DE a :TranslationVariant ;
+:text "noch die bei den unteren Göttern wohnende Dike"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_DE a :TranslationVariant ;
+:text "bestimmte solche Gesetze unter den Menschen."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_DE a :TranslationVariant ;
+:text "Auch glaubte ich nicht, dass deine Verkündigungen"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_DE a :TranslationVariant ;
+:text "so viel Kraft hätten, dass die ungeschriebenen und sicheren göttlichen"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_DE a :TranslationVariant ;
+:text "Satzungen ein Sterblicher überschreiten könnte."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_DE a :TranslationVariant ;
+:text "Denn nicht jetzt erst und gestern, sondern immerfort"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_DE a :TranslationVariant ;
+:text "leben diese, und niemand weiß, seit wann sie erschienen."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_DE a :TranslationVariant ;
+:text "Für diese wollte ich nicht, aus Furcht vor keines Mannes"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_DE a :TranslationVariant ;
+:text "Gesinnung, unter den Göttern Strafe"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_DE a :TranslationVariant ;
+:text "zahlen; denn dass ich sterben werde, wusste ich wohl, wie nicht?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_DE a :TranslationVariant ;
+:text "auch wenn du es nicht vorher verkündet hättest. Wenn ich aber vor der Zeit"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_DE a :TranslationVariant ;
+:text "sterbe, nenne ich das für mich Gewinn."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_DE a :TranslationVariant ;
+:text "Denn wer in vielen Übeln, wie ich,"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_DE a :TranslationVariant ;
+:text "lebt, wie trägt dieser nicht Gewinn davon, wenn er stirbt?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_DE a :TranslationVariant ;
+:text "So ist es für mich, dieses Schicksal zu erlangen,"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_DE a :TranslationVariant ;
+:text "ein Schmerz von keinem Gewicht; wenn ich aber den aus meiner"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_DE a :TranslationVariant ;
+:text "Mutter Gestorbenen als unbegrabenen Leichnam ertragen hätte,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_DE a :TranslationVariant ;
+:text "daran hätte ich gelitten; an diesem aber leide ich nicht."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_DE a :TranslationVariant ;
+:text "Wenn ich dir aber jetzt töricht handelnd zu sein scheine,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_DE a :TranslationVariant ;
+:text "ziehe ich wohl bei einem Toren den Vorwurf der Torheit auf mich."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_DE a :TranslationVariant ;
+:text "Das rohe Geschlecht des Mädchens zeigt sich von rohem Vater"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_DE a :TranslationVariant ;
+:text "her; vor Übeln zu weichen versteht sie nicht."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_DE a :TranslationVariant ;
+:text "Doch wisse: die allzu harten Gesinnungen"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_DE a :TranslationVariant ;
+:text "fallen am meisten, und das stärkste"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_DE a :TranslationVariant ;
+:text "Eisen, aus Feuer gehärtet und steif,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_DE a :TranslationVariant ;
+:text "kannst du am häufigsten gebrochen und zersprungen sehen;"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_DE a :TranslationVariant ;
+:text "mit kleinem Zügel, weiß ich, werden die erzürnten"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_DE a :TranslationVariant ;
+:text "Pferde gebändigt; denn es steht nicht zu,"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_DE a :TranslationVariant ;
+:text "groß zu denken, wer Sklave der Nächsten ist."^^xsd:string ;
+:relatedTo :Line_479 .

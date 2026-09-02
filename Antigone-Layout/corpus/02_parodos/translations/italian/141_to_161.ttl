@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-141-161-italian a owl:Ontology .
+# Italian translation variants for 141_to_161.ttl
+
+:TV_Line_141_IT a :TranslationVariant ;
+:text "Sette capitani infatti, contro sette porte,"^^xsd:string ;
+:relatedTo :Line_141 .
+
+:TV_Line_142_IT a :TranslationVariant ;
+:text "schierati uguali contro uguali, lasciarono"^^xsd:string ;
+:relatedTo :Line_142 .
+
+:TV_Line_143_IT a :TranslationVariant ;
+:text "a Zeus trofeo tributi tutti di bronzo,"^^xsd:string ;
+:relatedTo :Line_143 .
+
+:TV_Line_144_IT a :TranslationVariant ;
+:text "tranne quei due odiosi che, da un solo padre"^^xsd:string ;
+:relatedTo :Line_144 .
+
+:TV_Line_145_IT a :TranslationVariant ;
+:text "e da una sola madre nati, contro se stessi"^^xsd:string ;
+:relatedTo :Line_145 .
+
+:TV_Line_146_IT a :TranslationVariant ;
+:text "le lance due volte vittoriose avendo levato,"^^xsd:string ;
+:relatedTo :Line_146 .
+
+:TV_Line_147_IT a :TranslationVariant ;
+:text "entrambi ebbero parte di morte comune."^^xsd:string ;
+:relatedTo :Line_147 .
+
+:TV_Line_148_IT a :TranslationVariant ;
+:text "Ma infatti la Vittoria dal grande nome è venuta,"^^xsd:string ;
+:relatedTo :Line_148 .
+
+:TV_Line_149_IT a :TranslationVariant ;
+:text "rispondendo con gioia a Tebe dai molti carri;"^^xsd:string ;
+:relatedTo :Line_149 .
+
+:TV_Line_150_IT a :TranslationVariant ;
+:text "dalle guerre dunque"^^xsd:string ;
+:relatedTo :Line_150 .
+
+:TV_Line_151_IT a :TranslationVariant ;
+:text "presenti poniamo oblio,"^^xsd:string ;
+:relatedTo :Line_151 .
+
+:TV_Line_152_IT a :TranslationVariant ;
+:text "e ai templi degli dèi con danze"^^xsd:string ;
+:relatedTo :Line_152 .
+
+:TV_Line_153_IT a :TranslationVariant ;
+:text "di tutta la notte andiamo tutti;"^^xsd:string ;
+:relatedTo :Line_153 .
+
+:TV_Line_154_IT a :TranslationVariant ;
+:text "e colui che scuote Tebe,"^^xsd:string ;
+:relatedTo :Line_154 .
+
+:TV_Line_155_IT a :TranslationVariant ;
+:text "il dio bacchico, guidi."^^xsd:string ;
+:relatedTo :Line_155 .
+
+:TV_Line_156_IT a :TranslationVariant ;
+:text "Ma ecco infatti il re del paese,"^^xsd:string ;
+:relatedTo :Line_156 .
+
+:TV_Line_157_IT a :TranslationVariant ;
+:text "Creonte figlio di Menoiceo, nuovo al potere"^^xsd:string ;
+:relatedTo :Line_157 .
+
+:TV_Line_158_IT a :TranslationVariant ;
+:text "per i recenti eventi degli dèi,"^^xsd:string ;
+:relatedTo :Line_158 .
+
+:TV_Line_159_IT a :TranslationVariant ;
+:text "avanza, remando quale pensiero mai,"^^xsd:string ;
+:relatedTo :Line_159 .
+
+:TV_Line_160_IT a :TranslationVariant ;
+:text "poiché questa assemblea convocata di anziani"^^xsd:string ;
+:relatedTo :Line_160 .
+
+:TV_Line_161_IT a :TranslationVariant ;
+:text "ha disposto, mandando con proclama comune."^^xsd:string ;
+:relatedTo :Line_161 .

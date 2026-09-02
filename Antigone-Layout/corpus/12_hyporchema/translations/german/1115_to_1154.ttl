@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-german a owl:Ontology .
+# German translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_DE a :TranslationVariant ;
+:text "O Vielnamiger, Schmuck der kadmeischen Braut,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_DE a :TranslationVariant ;
+:text "und Geschlecht des schwer donnernden Zeus,"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_DE a :TranslationVariant ;
+:text "du, der du das berühmte"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_DE a :TranslationVariant ;
+:text "Italien umhegst und herrschst"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_DE a :TranslationVariant ;
+:text "in den allgemeinsamen Schoßen der eleusinischen"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_DE a :TranslationVariant ;
+:text "Deo, Baccheus der Bacchantinnen,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_DE a :TranslationVariant ;
+:text "du, der du Theben, die Mutterstadt,"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_DE a :TranslationVariant ;
+:text "bewohnst bei den feuchten"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Lines 1123 and 1124 do not exist in canonical.
+
+:TV_Line_1125_DE a :TranslationVariant ;
+:text "Strömungen des Ismenos und auf der Saat des wilden Drachen."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_DE a :TranslationVariant ;
+:text "Dich hat über dem zweigipfligen Felsen der blitzende"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_DE a :TranslationVariant ;
+:text "Rauch gesehen, wo die korykischen"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_DE a :TranslationVariant ;
+:text "bacchischen Nymphen schreiten,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in canonical.
+
+:TV_Line_1130_DE a :TranslationVariant ;
+:text "und der Strom der Kastalia."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_DE a :TranslationVariant ;
+:text "Und dich senden von den nysäischen Bergen"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_DE a :TranslationVariant ;
+:text "die efeubewachsenen Hänge und das grüne Ufer,"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_DE a :TranslationVariant ;
+:text "reich an Trauben,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_DE a :TranslationVariant ;
+:text "während unsterbliche Worte"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_DE a :TranslationVariant ;
+:text "euoi rufend die Straßen Thebens überschauen;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in canonical.
+
+:TV_Line_1137_DE a :TranslationVariant ;
+:text "sie, die du aus allen Städten als höchste ehrst,"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_DE a :TranslationVariant ;
+:text "zusammen mit deiner vom Blitz getroffenen Mutter;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in canonical.
+
+:TV_Line_1140_DE a :TranslationVariant ;
+:text "und nun, da die ganze Stadt des Volkes"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_DE a :TranslationVariant ;
+:text "von gewaltsamer Krankheit gehalten wird,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_DE a :TranslationVariant ;
+:text "komm mit reinigendem Fuß über den parnassischen Hang"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Lines 1143 and 1144 do not exist in canonical.
+
+:TV_Line_1145_DE a :TranslationVariant ;
+:text "oder über die stöhnende Meerenge."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_DE a :TranslationVariant ;
+:text "Io, Chorreigenführer der feuerhauchenden Sterne, der nächtlichen"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_DE a :TranslationVariant ;
+:text "Stimmen Aufseher,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_DE a :TranslationVariant ;
+:text "Kind, von Zeus gezeugt,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in canonical.
+
+:TV_Line_1150_DE a :TranslationVariant ;
+:text "o Herr, zugleich mit deinen Dienerinnen,"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_DE a :TranslationVariant ;
+:text "den Thyiaden, die dich rasend"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_DE a :TranslationVariant ;
+:text "durchnachts durchtanzen, Iakchos, ihren Gebieter."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Lines 1153 and 1154 do not exist in canonical.

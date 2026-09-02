@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-korean a owl:Ontology .
+# Korean translation variants for 681_to_723.ttl
+
+:TV_Line_681_KO a :TranslationVariant ;
+:text "우리가 시간에 속은 것이 아니라면,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_KO a :TranslationVariant ;
+:text "당신은 말씀하신 것들에 대해 사려 깊게 말하는 듯합니다."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_KO a :TranslationVariant ;
+:text "아버지, 신들은 인간들에게 지성을 나게 하셨습니다,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_KO a :TranslationVariant ;
+:text "존재하는 모든 소유물 가운데 가장 높은 것을."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_KO a :TranslationVariant ;
+:text "그러나 저는 당신께서 이것들을 바르게 말하지 않는다고"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_KO a :TranslationVariant ;
+:text "말할 수도 없고, 말할 줄도 모릅니다."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_KO a :TranslationVariant ;
+:text "그러나 다른 이에게도 훌륭하게 옳은 말이 있을 수 있습니다."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_KO a :TranslationVariant ;
+:text "저는 본래 아버지를 위해 모든 것을 살피도록 되어 있습니다,"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_KO a :TranslationVariant ;
+:text "누군가 말하거나, 누군가 행하거나, 비난할 것을 가진 모든 것을."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_KO a :TranslationVariant ;
+:text "아버지의 눈은 평민에게 두려운 것입니다,"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_KO a :TranslationVariant ;
+:text "당신이 들으면 기뻐하지 않을 그런 말들에는."^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_KO a :TranslationVariant ;
+:text "그러나 저는 어둠 속에서 이것들을 들을 수 있습니다,"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_KO a :TranslationVariant ;
+:text "도시가 이 소녀 때문에 얼마나 탄식하는지를,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_KO a :TranslationVariant ;
+:text "모든 여자 가운데 가장 부당하게"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_KO a :TranslationVariant ;
+:text "가장 영광스러운 일들에서 가장 비참하게 죽어 간다고."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_KO a :TranslationVariant ;
+:text "그녀는 자기 친형제가 살육 속에"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_KO a :TranslationVariant ;
+:text "쓰러져 장사 없이, 날것을 먹는 개들에게도"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_KO a :TranslationVariant ;
+:text "어떤 새들에게도 멸망하게 두지 않았습니다."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_KO a :TranslationVariant ;
+:text "이 여자가 황금의 명예를 얻을 만하지 않습니까?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_KO a :TranslationVariant ;
+:text "이런 어두운 소문이 조용히 퍼져 갑니다."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_KO a :TranslationVariant ;
+:text "아버지, 아버지께서 잘되시는 것보다"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_KO a :TranslationVariant ;
+:text "제게 더 귀한 소유는 없습니다."^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_KO a :TranslationVariant ;
+:text "아버지가 번영하는 영광보다 자식들에게"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_KO a :TranslationVariant ;
+:text "더 큰 기쁨이 무엇이며, 자식들에게서 아버지에게 무엇이 더 크겠습니까?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_KO a :TranslationVariant ;
+:text "그러니 한 가지 성품만 네 안에 지니지 마십시오,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_KO a :TranslationVariant ;
+:text "당신이 말하는 것, 그것만이 바르고 다른 것은 없다고."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_KO a :TranslationVariant ;
+:text "스스로 혼자만 생각한다고 여기는 자,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_KO a :TranslationVariant ;
+:text "또는 다른 이에게 없는 혀나 영혼을 가졌다고 여기는 자들은,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_KO a :TranslationVariant ;
+:text "펼쳐졌을 때 텅 빈 자들로 드러났습니다."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_KO a :TranslationVariant ;
+:text "그러나 어떤 사람이 지혜롭다 해도, 많이 배우는 것은"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_KO a :TranslationVariant ;
+:text "전혀 부끄러운 일이 아니며, 지나치게 뻗지 않는 것도 그렇습니다."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_KO a :TranslationVariant ;
+:text "겨울 급류의 흐름 곁에서 보십시오,"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_KO a :TranslationVariant ;
+:text "나무들 가운데 굽히는 것들은 가지들을 어떻게 보전하는지,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_KO a :TranslationVariant ;
+:text "그러나 맞서 뻗는 것들은 뿌리째 망합니다."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_KO a :TranslationVariant ;
+:text "마찬가지로 배의 밧줄을 팽팽하게 잡고"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_KO a :TranslationVariant ;
+:text "아무것도 양보하지 않는 자는, 배를 뒤집어 아래로"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_KO a :TranslationVariant ;
+:text "돌린 뒤, 남은 항해를 뒤엎인 노걸상으로 하게 됩니다."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_KO a :TranslationVariant ;
+:text "그러니 양보하고, 마음에 변화를 허락하십시오."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_KO a :TranslationVariant ;
+:text "저처럼 더 젊은 사람에게도 어떤 판단이"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_KO a :TranslationVariant ;
+:text "있다면, 저는 이렇게 말합니다. 사람이 모든 지식으로 가득 차"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_KO a :TranslationVariant ;
+:text "태어나는 것이 훨씬 가장 좋다고."^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_KO a :TranslationVariant ;
+:text "그러나 그렇지 않다면, 이는 흔히 그렇게 기울지 않으므로,"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_KO a :TranslationVariant ;
+:text "잘 말하는 자들에게서 배우는 것도 아름답습니다."^^xsd:string ;
+:relatedTo :Line_723 .

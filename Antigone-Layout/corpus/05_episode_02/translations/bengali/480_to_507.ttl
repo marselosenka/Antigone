@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-bengali a owl:Ontology .
+# Bengali translation variants for 480_to_507.ttl
+
+:TV_Line_480_BN a :TranslationVariant ;
+:text "আর এই মেয়েটি তখন ঔদ্ধত্য করতে জানত,"^^xsd:string ;
+:relatedTo :Line_480 .
+
+:TV_Line_481_BN a :TranslationVariant ;
+:text "সামনে রাখা আইন অতিক্রম করে;"^^xsd:string ;
+:relatedTo :Line_481 .
+
+:TV_Line_482_BN a :TranslationVariant ;
+:text "আর কাজ করার পরে এই দ্বিতীয় ঔদ্ধত্য,"^^xsd:string ;
+:relatedTo :Line_482 .
+
+:TV_Line_483_BN a :TranslationVariant ;
+:text "এসব নিয়ে গর্ব করা এবং করে ফেলে হাসা।"^^xsd:string ;
+:relatedTo :Line_483 .
+
+:TV_Line_484_BN a :TranslationVariant ;
+:text "নিশ্চয় এখন আমি পুরুষ নই, এই মেয়েই পুরুষ,"^^xsd:string ;
+:relatedTo :Line_484 .
+
+:TV_Line_485_BN a :TranslationVariant ;
+:text "যদি এই ক্ষমতাগুলো তার কাছে শাস্তিহীন পড়ে থাকে।"^^xsd:string ;
+:relatedTo :Line_485 .
+
+:TV_Line_486_BN a :TranslationVariant ;
+:text "কিন্তু সে আমার বোনের সন্তান হোক বা রক্তে আরও নিকটতর"^^xsd:string ;
+:relatedTo :Line_486 .
+
+:TV_Line_487_BN a :TranslationVariant ;
+:text "আমাদের সমস্ত গৃহ-জিউসের কাছেও যদি সে হয়,"^^xsd:string ;
+:relatedTo :Line_487 .
+
+:TV_Line_488_BN a :TranslationVariant ;
+:text "সে নিজে এবং তার রক্তবোন পালাবে না"^^xsd:string ;
+:relatedTo :Line_488 .
+
+:TV_Line_489_BN a :TranslationVariant ;
+:text "নিকৃষ্টতম মৃত্যুভাগ্য থেকে; কারণ তাকেও আমি সমানভাবে"^^xsd:string ;
+:relatedTo :Line_489 .
+
+:TV_Line_490_BN a :TranslationVariant ;
+:text "এই কবরের পরিকল্পনায় অভিযুক্ত করি।"^^xsd:string ;
+:relatedTo :Line_490 .
+
+:TV_Line_491_BN a :TranslationVariant ;
+:text "তাকেও ডাকো; কারণ ভেতরে সদ্য দেখেছি"^^xsd:string ;
+:relatedTo :Line_491 .
+
+:TV_Line_492_BN a :TranslationVariant ;
+:text "সে নিজে উন্মত্ত, মনের উপর নিয়ন্ত্রণ নেই।"^^xsd:string ;
+:relatedTo :Line_492 .
+
+:TV_Line_493_BN a :TranslationVariant ;
+:text "চোরের মন আগেই ধরা পড়তে ভালোবাসে,"^^xsd:string ;
+:relatedTo :Line_493 .
+
+:TV_Line_494_BN a :TranslationVariant ;
+:text "যারা অন্ধকারে কিছুই ঠিকভাবে কৌশল করে না।"^^xsd:string ;
+:relatedTo :Line_494 .
+
+:TV_Line_495_BN a :TranslationVariant ;
+:text "তবে আমি ঘৃণা করি যখন কেউ অনিষ্টে"^^xsd:string ;
+:relatedTo :Line_495 .
+
+:TV_Line_496_BN a :TranslationVariant ;
+:text "ধরা পড়ে তারপর সেটাকেই সুন্দর করতে চায়।"^^xsd:string ;
+:relatedTo :Line_496 .
+
+:TV_Line_497_BN a :TranslationVariant ;
+:text "আমাকে ধরে মেরে ফেলার চেয়ে বড় কিছু কি তুমি চাও?"^^xsd:string ;
+:relatedTo :Line_497 .
+
+:TV_Line_498_BN a :TranslationVariant ;
+:text "আমি আর কিছু চাই না; এটি পেলে সবই পাই।"^^xsd:string ;
+:relatedTo :Line_498 .
+
+:TV_Line_499_BN a :TranslationVariant ;
+:text "তবে দেরি করছ কেন? কারণ তোমার কথাগুলির মধ্যে"^^xsd:string ;
+:relatedTo :Line_499 .
+
+:TV_Line_500_BN a :TranslationVariant ;
+:text "আমার কাছে কোনোটি প্রিয় নয়, কখনও প্রিয় না হোক;"^^xsd:string ;
+:relatedTo :Line_500 .
+
+:TV_Line_501_BN a :TranslationVariant ;
+:text "তেমনই আমার কথাগুলোও তোমার কাছে অপছন্দনীয় জন্মেছে।"^^xsd:string ;
+:relatedTo :Line_501 .
+
+:TV_Line_502_BN a :TranslationVariant ;
+:text "তবু কোথা থেকে আমি আরও গৌরবময় গৌরব"^^xsd:string ;
+:relatedTo :Line_502 .
+
+:TV_Line_503_BN a :TranslationVariant ;
+:text "পেতাম, নিজের সহোদরকে কবরে"^^xsd:string ;
+:relatedTo :Line_503 .
+
+:TV_Line_504_BN a :TranslationVariant ;
+:text "স্থাপন করার চেয়ে? এ কথা সবার কাছে প্রিয়"^^xsd:string ;
+:relatedTo :Line_504 .
+
+:TV_Line_505_BN a :TranslationVariant ;
+:text "বলা যেত, যদি ভয় তাদের জিহ্বা বন্ধ না করত।"^^xsd:string ;
+:relatedTo :Line_505 .
+
+:TV_Line_506_BN a :TranslationVariant ;
+:text "কিন্তু স্বৈরশাসন অনেক অন্য বিষয়ে সুখী,"^^xsd:string ;
+:relatedTo :Line_506 .
+
+:TV_Line_507_BN a :TranslationVariant ;
+:text "আর তার ইচ্ছামতো করা ও বলা তার পক্ষে সম্ভব।"^^xsd:string ;
+:relatedTo :Line_507 .

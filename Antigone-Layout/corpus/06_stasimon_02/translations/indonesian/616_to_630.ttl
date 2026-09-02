@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-indonesian a owl:Ontology .
+# Indonesian translation variants for 616_to_630.ttl
+
+:TV_Line_616_ID a :TranslationVariant ;
+:text "tetapi bagi banyak orang lain menjadi tipu daya dari hasrat yang ringan pikiran;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_ID a :TranslationVariant ;
+:text "ia menangkap orang yang tidak tahu apa-apa, sebelum seseorang menyentuhkan kaki pada api panas."^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Line 618 and 619 do not exist in Antigone
+
+:TV_Line_620_ID a :TranslationVariant ;
+:text "Sebab dengan kebijaksanaan suatu perkataan dari yang terkenal telah tampak:"^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_ID a :TranslationVariant ;
+:text "bahwa yang buruk kadang tampak sebagai yang baik"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_ID a :TranslationVariant ;
+:text "bagi orang yang pikirannya"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_ID a :TranslationVariant ;
+:text "dibawa dewa menuju kehancuran;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 does not exist in Antigone
+
+:TV_Line_625_ID a :TranslationVariant ;
+:text "dan ia bertindak hanya dalam waktu yang paling singkat di luar kehancuran."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_ID a :TranslationVariant ;
+:text "Lihatlah, Haimon, yang termuda dari anak-anakmu,"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_ID a :TranslationVariant ;
+:text "apakah ia datang dengan berduka"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_ID a :TranslationVariant ;
+:text "atas nasib mempelai tunangannya, Antigone,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 does not exist in Antigone
+
+:TV_Line_630_ID a :TranslationVariant ;
+:text "sangat tersakiti oleh tipu daya ranjang perkawinannya?"^^xsd:string ;
+:relatedTo :Line_630 .

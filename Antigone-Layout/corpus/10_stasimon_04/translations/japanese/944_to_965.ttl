@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-japanese a owl:Ontology .
+# Japanese translation variants for 944_to_965.ttl
+
+:TV_Line_944_JA a :TranslationVariant ;
+:text "ダナエもまた、天の光を"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_JA a :TranslationVariant ;
+:text "青銅で縛られた部屋の中で、その身と引き換えることに耐えた。"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_JA a :TranslationVariant ;
+:text "墓のような寝室に隠され、彼女はつながれた。"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_JA a :TranslationVariant ;
+:text "それでも血筋において尊い者であった、子よ、子よ、"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Lines 948 and 949 do not exist in Antigone
+
+:TV_Line_950_JA a :TranslationVariant ;
+:text "そしてゼウスの黄金に流れる種を守っていた。"^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_JA a :TranslationVariant ;
+:text "だが、ある運命の力は恐ろしい。"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_JA a :TranslationVariant ;
+:text "富も、アレスも、塔も、海に打たれる"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_JA a :TranslationVariant ;
+:text "黒い船も、それから逃れることはできないだろう。"^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in Antigone
+
+:TV_Line_955_JA a :TranslationVariant ;
+:text "また、怒り激しいドリュアスの子がつながれた、"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_JA a :TranslationVariant ;
+:text "エドニア人の王が、嘲りの怒りのために、"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_JA a :TranslationVariant ;
+:text "ディオニュソスによって、岩の牢に閉じ込められて。"^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_JA a :TranslationVariant ;
+:text "このように、狂気の恐ろしいものが滴り落ち、"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in Antigone
+
+:TV_Line_960_JA a :TranslationVariant ;
+:text "花盛りの力も滴り落ちた。彼は狂気の中で知った、"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_JA a :TranslationVariant ;
+:text "嘲りの舌で神に触れていたことを。"^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_JA a :TranslationVariant ;
+:text "というのも彼は、神がかった女たちとエウイオスの火を止めていたからだ。"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Lines 963 and 964 do not exist in Antigone
+
+:TV_Line_965_JA a :TranslationVariant ;
+:text "また笛を愛するムーサたちを苛立たせていた。"^^xsd:string ;
+:relatedTo :Line_965 .

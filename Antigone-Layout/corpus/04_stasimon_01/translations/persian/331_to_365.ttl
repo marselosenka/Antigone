@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-persian a owl:Ontology .
+# Persian translation variants for 331_to_365.ttl
+
+:TV_Line_331_FA a :TranslationVariant ;
+:text "چون رهایی یافته‌ام، به خدایان سپاس بسیار بدهکارم."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_FA a :TranslationVariant ;
+:text "بسیارند چیزهای شگفت و هولناک، و هیچ چیز"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_FA a :TranslationVariant ;
+:text "هولناک‌تر و شگفت‌تر از انسان پدید نمی‌آید؛"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_FA a :TranslationVariant ;
+:text "این یکی، حتی آن سوی دریای"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_FA a :TranslationVariant ;
+:text "خاکستری، با باد جنوب زمستانی،"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_FA a :TranslationVariant ;
+:text "پیش می‌رود، از میان خروش‌هایی"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_FA a :TranslationVariant ;
+:text "که در گرداب‌ها احاطه‌اش کرده‌اند می‌گذرد؛ و از میان خدایان،"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_FA a :TranslationVariant ;
+:text "برترینشان، زمین را،"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_FA a :TranslationVariant ;
+:text "نامیرا و خستگی‌ناپذیر، فرسوده می‌کند،"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_FA a :TranslationVariant ;
+:text "با گاوآهن‌هایی که سال به سال می‌گردند،"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_FA a :TranslationVariant ;
+:text "در حالی که با نژاد اسبان آن را شخم می‌زند."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_FA a :TranslationVariant ;
+:text "و تبار سبک‌اندیش پرندگان را،"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_FA a :TranslationVariant ;
+:text "در دام انداخته، شکار می‌کند،"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_FA a :TranslationVariant ;
+:text "و قوم‌های جانوران وحشی را،"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_FA a :TranslationVariant ;
+:text "و طبیعت دریانشینِ دریا را،"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_FA a :TranslationVariant ;
+:text "با حلقه‌های تورهای بافته،"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_FA a :TranslationVariant ;
+:text "مرد بس‌زیرک؛ و چیره می‌شود"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_FA a :TranslationVariant ;
+:text "با تدبیرها بر جانور"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in Antigone
+
+:TV_Line_350_FA a :TranslationVariant ;
+:text "کوه‌گردِ دشت‌زی، و بر اسبِ گردن‌پشمین،"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_FA a :TranslationVariant ;
+:text "که آن را زیر یوغ دوگردنه می‌برد،"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_FA a :TranslationVariant ;
+:text "و بر گاو کوهیِ خستگی‌ناپذیر."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Lines 353 and 354 do not exist in Antigone
+
+:TV_Line_355_FA a :TranslationVariant ;
+:text "و سخن و اندیشه بادآسا و خوی‌های شهرساز"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_FA a :TranslationVariant ;
+:text "را به خود آموخت، و از گذرگاه‌های بدزیست"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_FA a :TranslationVariant ;
+:text "یخبندان‌های روباز و تیرهای باران‌آزار گریختن را."^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_FA a :TranslationVariant ;
+:text "همه‌راه‌یاب است؛ بی‌راه‌یاب به هیچ چیزِ"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in Antigone
+
+:TV_Line_360_FA a :TranslationVariant ;
+:text "آینده نمی‌رسد؛ تنها از هادس گریزی برای خود فراهم نخواهد کرد؛"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_FA a :TranslationVariant ;
+:text "اما گریزهایی از بیماری‌های بی‌چاره را نیز اندیشیده است."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364 and 365 do not exist in Antigone

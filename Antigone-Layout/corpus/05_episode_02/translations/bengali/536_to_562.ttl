@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-bengali a owl:Ontology .
+# Bengali translation variants for 536_to_562.ttl
+
+:TV_Line_536_BN a :TranslationVariant ;
+:text "আমি কাজটি করেছি, যদি এই মেয়েও সম্মতি দেয়,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_BN a :TranslationVariant ;
+:text "আর আমি অংশ নিই এবং অভিযোগ বহন করি।"^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_BN a :TranslationVariant ;
+:text "কিন্তু ন্যায় তোমাকে তা করতে দেবে না, যেহেতু"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_BN a :TranslationVariant ;
+:text "তুমি চাওনি, আর আমিও তোমাকে অংশীদার করিনি।"^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_BN a :TranslationVariant ;
+:text "কিন্তু তোমার দুঃখে নিজেকে"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_BN a :TranslationVariant ;
+:text "এই ভাগ্যের সহযাত্রী করতে আমি লজ্জা পাই না।"^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_BN a :TranslationVariant ;
+:text "কার কাজ, হেডিস আর নিচের দেবতারাই সহসাক্ষী;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_BN a :TranslationVariant ;
+:text "কথায় ভালোবাসা বানানো বন্ধুকে আমি ভালোবাসি না।"^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_BN a :TranslationVariant ;
+:text "না, বোন, আমাকে অসম্মান কোরো না,"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_BN a :TranslationVariant ;
+:text "তোমার সঙ্গে মরতে এবং মৃতকে পবিত্র করতে না দেওয়ার দ্বারা।"^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_BN a :TranslationVariant ;
+:text "আমার সঙ্গে যৌথ মৃত্যু মরো না, আর যা স্পর্শ করোনি"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_BN a :TranslationVariant ;
+:text "তাকে নিজের করো না। আমি মরে যথেষ্ট হব।"^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_BN a :TranslationVariant ;
+:text "তোমাকে ছাড়া আমার জীবনে আর কী প্রিয় থাকবে?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_BN a :TranslationVariant ;
+:text "ক্রেয়নকে জিজ্ঞেস করো; তুমি তো তারই পরিচর্যাকারী।"^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_BN a :TranslationVariant ;
+:text "কেন এসব বলে আমাকে কষ্ট দাও, কোনো লাভ না পেয়ে?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_BN a :TranslationVariant ;
+:text "যদি তোমাকে নিয়ে হাসি, তবে নিশ্চয়ই ব্যথা পেয়েই হাসি।"^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_BN a :TranslationVariant ;
+:text "তাহলে এখন আর কীভাবে তোমার উপকার করতে পারি?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_BN a :TranslationVariant ;
+:text "নিজেকে বাঁচাও; তুমি পালিয়ে বাঁচলে আমি ঈর্ষা করি না।"^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_BN a :TranslationVariant ;
+:text "হায় দুর্ভাগিনী আমি, তোমার মৃত্যুভাগ থেকে কি বাদ পড়ছি?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_BN a :TranslationVariant ;
+:text "কারণ তুমি বাঁচতে বেছে নিয়েছ, আর আমি মরতে।"^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_BN a :TranslationVariant ;
+:text "কিন্তু আমার কথা তো না-বলা ছিল না।"^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_BN a :TranslationVariant ;
+:text "তোমার কাছে সেগুলো ভালো মনে হয়েছিল, আর আমার কাছে এগুলো।"^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_BN a :TranslationVariant ;
+:text "তবু আমাদের দুজনের ভুল সমান।"^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_BN a :TranslationVariant ;
+:text "সাহস রাখো; তুমি বেঁচে আছ, কিন্তু আমার প্রাণ বহু আগে"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_BN a :TranslationVariant ;
+:text "মরে গেছে, যাতে মৃতদের উপকার করতে পারে।"^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_BN a :TranslationVariant ;
+:text "এই দুই মেয়ের মধ্যে একজন এখনই"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_BN a :TranslationVariant ;
+:text "নির্বোধ বলে প্রকাশ পেয়েছে, আর অন্যজন জন্ম থেকেই।"^^xsd:string ;
+:relatedTo :Line_562 .

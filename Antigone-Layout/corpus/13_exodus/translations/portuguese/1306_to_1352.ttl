@@ -1,0 +1,176 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1306-1352-portuguese a owl:Ontology .
+# Portuguese translation variants for 1306_to_1352.ttl
+
+:TV_Line_1306_PT a :TranslationVariant ;
+:text "Ai, ai,"^^xsd:string ;
+:relatedTo :Line_1306 .
+
+:TV_Line_1307_PT a :TranslationVariant ;
+:text "estou transtornado pelo medo. Por que ninguém, de frente,"^^xsd:string ;
+:relatedTo :Line_1307 .
+
+:TV_Line_1308_PT a :TranslationVariant ;
+:text "me golpeou com espada de dois gumes?"^^xsd:string ;
+:relatedTo :Line_1308 .
+
+# Line 1309 does not exist in canonical.
+
+:TV_Line_1310_PT a :TranslationVariant ;
+:text "miserável eu, ai,"^^xsd:string ;
+:relatedTo :Line_1310 .
+
+:TV_Line_1311_PT a :TranslationVariant ;
+:text "estou misturado a miserável dor."^^xsd:string ;
+:relatedTo :Line_1311 .
+
+:TV_Line_1312_PT a :TranslationVariant ;
+:text "Como tendo a culpa destes males e daqueles,"^^xsd:string ;
+:relatedTo :Line_1312 .
+
+:TV_Line_1313_PT a :TranslationVariant ;
+:text "foste acusado pela morta destes destinos."^^xsd:string ;
+:relatedTo :Line_1313 .
+
+:TV_Line_1314_PT a :TranslationVariant ;
+:text "E de que modo ela se soltou em sangue?"^^xsd:string ;
+:relatedTo :Line_1314 .
+
+:TV_Line_1315_PT a :TranslationVariant ;
+:text "Golpeando-se sob o fígado, por sua própria mão,"^^xsd:string ;
+:relatedTo :Line_1315 .
+
+:TV_Line_1316_PT a :TranslationVariant ;
+:text "quando percebeu esta dor de seu filho, de agudo lamento."^^xsd:string ;
+:relatedTo :Line_1316 .
+
+:TV_Line_1317_PT a :TranslationVariant ;
+:text "Ai de mim, estas coisas nunca se ajustarão a outro mortal"^^xsd:string ;
+:relatedTo :Line_1317 .
+
+:TV_Line_1318_PT a :TranslationVariant ;
+:text "por causa de minha culpa."^^xsd:string ;
+:relatedTo :Line_1318 .
+
+:TV_Line_1319_PT a :TranslationVariant ;
+:text "Pois eu, eu te matei, ó miserável,"^^xsd:string ;
+:relatedTo :Line_1319 .
+
+:TV_Line_1320_PT a :TranslationVariant ;
+:text "eu, digo a verdade. Ai, servos,"^^xsd:string ;
+:relatedTo :Line_1320 .
+
+:TV_Line_1321_PT a :TranslationVariant ;
+:text "levai-me o mais depressa possível, levai-me para longe,"^^xsd:string ;
+:relatedTo :Line_1321 .
+
+# Lines 1322, 1323, and 1324 do not exist in canonical.
+
+:TV_Line_1325_PT a :TranslationVariant ;
+:text "a mim, que sou mais um não-ser do que ninguém."^^xsd:string ;
+:relatedTo :Line_1325 .
+
+:TV_Line_1326_PT a :TranslationVariant ;
+:text "Aconselhas ganhos, se há algum ganho nos males;"^^xsd:string ;
+:relatedTo :Line_1326 .
+
+:TV_Line_1327_PT a :TranslationVariant ;
+:text "pois os males mais breves aos pés são os melhores."^^xsd:string ;
+:relatedTo :Line_1327 .
+
+:TV_Line_1328_PT a :TranslationVariant ;
+:text "Venha, venha,"^^xsd:string ;
+:relatedTo :Line_1328 .
+
+:TV_Line_1329_PT a :TranslationVariant ;
+:text "apareça para mim o mais belo dos meus destinos,"^^xsd:string ;
+:relatedTo :Line_1329 .
+
+:TV_Line_1330_PT a :TranslationVariant ;
+:text "trazendo o dia final para mim,"^^xsd:string ;
+:relatedTo :Line_1330 .
+
+:TV_Line_1331_PT a :TranslationVariant ;
+:text "o último; venha, venha,"^^xsd:string ;
+:relatedTo :Line_1331 .
+
+:TV_Line_1332_PT a :TranslationVariant ;
+:text "para que eu não veja mais outro dia."^^xsd:string ;
+:relatedTo :Line_1332 .
+
+# Line 1333 does not exist in canonical.
+
+:TV_Line_1334_PT a :TranslationVariant ;
+:text "Estas coisas são futuras. Das que estão diante, algo é preciso"^^xsd:string ;
+:relatedTo :Line_1334 .
+
+:TV_Line_1335_PT a :TranslationVariant ;
+:text "fazer; pois delas cuidam aqueles a quem cabe cuidar."^^xsd:string ;
+:relatedTo :Line_1335 .
+
+:TV_Line_1336_PT a :TranslationVariant ;
+:text "Mas estas coisas que desejo eu também pedi em oração."^^xsd:string ;
+:relatedTo :Line_1336 .
+
+:TV_Line_1337_PT a :TranslationVariant ;
+:text "Então nada mais rezes; pois de uma desgraça destinada"^^xsd:string ;
+:relatedTo :Line_1337 .
+
+:TV_Line_1338_PT a :TranslationVariant ;
+:text "não há libertação para os mortais."^^xsd:string ;
+:relatedTo :Line_1338 .
+
+:TV_Line_1339_PT a :TranslationVariant ;
+:text "Levai para longe este homem vão,"^^xsd:string ;
+:relatedTo :Line_1339 .
+
+:TV_Line_1340_PT a :TranslationVariant ;
+:text "que, ó filho, a ti, não voluntariamente, matei,"^^xsd:string ;
+:relatedTo :Line_1340 .
+
+:TV_Line_1341_PT a :TranslationVariant ;
+:text "e a ti também, esta aqui; ai de mim, miserável, não tenho"^^xsd:string ;
+:relatedTo :Line_1341 .
+
+:TV_Line_1342_PT a :TranslationVariant ;
+:text "para qual dos dois olhar, para onde me inclinar; pois tudo"^^xsd:string ;
+:relatedTo :Line_1342 .
+
+# Lines 1343 and 1344 do not exist in canonical.
+
+:TV_Line_1345_PT a :TranslationVariant ;
+:text "nas mãos está torto, e sobre minha cabeça"^^xsd:string ;
+:relatedTo :Line_1345 .
+
+:TV_Line_1346_PT a :TranslationVariant ;
+:text "irrompeu um destino difícil de suportar."^^xsd:string ;
+:relatedTo :Line_1346 .
+
+:TV_Line_1347_PT a :TranslationVariant ;
+:text "Em muito, o pensar sensatamente é da felicidade"^^xsd:string ;
+:relatedTo :Line_1347 .
+
+:TV_Line_1348_PT a :TranslationVariant ;
+:text "a primeira condição; e é preciso, quanto aos deuses,"^^xsd:string ;
+:relatedTo :Line_1348 .
+
+# Line 1349 does not exist in canonical.
+
+:TV_Line_1350_PT a :TranslationVariant ;
+:text "em nada agir impiamente; e grandes palavras,"^^xsd:string ;
+:relatedTo :Line_1350 .
+
+:TV_Line_1351_PT a :TranslationVariant ;
+:text "pagando grandes golpes dos soberbos,"^^xsd:string ;
+:relatedTo :Line_1351 .
+
+:TV_Line_1352_PT a :TranslationVariant ;
+:text "ensinaram,"^^xsd:string ;
+:relatedTo :Line_1352 .
+
+:TV_Line_1353_PT a :TranslationVariant ;
+:text "na velhice, a pensar sensatamente."^^xsd:string ;
+:relatedTo :Line_1353 .

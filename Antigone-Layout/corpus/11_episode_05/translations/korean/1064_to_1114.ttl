@@ -1,0 +1,210 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1064-1114-korean a owl:Ontology .
+# Korean translation variants for 1064_to_1114.ttl
+
+:TV_Line_1064_KO a :TranslationVariant ;
+:text "그러나 이것을 잘 알아두어라. 이제 더 이상 많지 않은"^^xsd:string ;
+:relatedTo :Line_1064 .
+
+:TV_Line_1065_KO a :TranslationVariant ;
+:text "태양의 경쟁하는 바퀴들이 끝나기 전에,"^^xsd:string ;
+:relatedTo :Line_1065 .
+
+:TV_Line_1066_KO a :TranslationVariant ;
+:text "그 안에서 너는 네 자신의 배 속에서 난 자 하나를"^^xsd:string ;
+:relatedTo :Line_1066 .
+
+:TV_Line_1067_KO a :TranslationVariant ;
+:text "죽은 자들의 대가로, 시신에 시신으로 내어주게 될 것이다,"^^xsd:string ;
+:relatedTo :Line_1067 .
+
+:TV_Line_1068_KO a :TranslationVariant ;
+:text "네가 위의 것들 중 하나를 아래로 던져 두었고,"^^xsd:string ;
+:relatedTo :Line_1068 .
+
+:TV_Line_1069_KO a :TranslationVariant ;
+:text "한 영혼을 무덤 안에 명예 없이 살게 했으며,"^^xsd:string ;
+:relatedTo :Line_1069 .
+
+:TV_Line_1070_KO a :TranslationVariant ;
+:text "또 아래의 신들에게 속한 자를 여기 위에"^^xsd:string ;
+:relatedTo :Line_1070 .
+
+:TV_Line_1071_KO a :TranslationVariant ;
+:text "몫도 없이, 장례도 없이, 불경한 시신으로 두었기 때문이다."^^xsd:string ;
+:relatedTo :Line_1071 .
+
+:TV_Line_1072_KO a :TranslationVariant ;
+:text "그 일들은 너에게도 위의"^^xsd:string ;
+:relatedTo :Line_1072 .
+
+:TV_Line_1073_KO a :TranslationVariant ;
+:text "신들에게도 몫이 없지만, 너 때문에 강제로 행해지고 있다."^^xsd:string ;
+:relatedTo :Line_1073 .
+
+:TV_Line_1074_KO a :TranslationVariant ;
+:text "이 때문에 뒤늦게 파멸시키는 복수자들이 너를,"^^xsd:string ;
+:relatedTo :Line_1074 .
+
+:TV_Line_1075_KO a :TranslationVariant ;
+:text "하데스와 신들의 에리뉘에스들이, 숨어 기다린다,"^^xsd:string ;
+:relatedTo :Line_1075 .
+
+:TV_Line_1076_KO a :TranslationVariant ;
+:text "바로 이 같은 재앙들 속에 붙잡히게 하려고."^^xsd:string ;
+:relatedTo :Line_1076 .
+
+:TV_Line_1077_KO a :TranslationVariant ;
+:text "그리고 내가 은을 받고 말하는지 이것들을 살펴보아라."^^xsd:string ;
+:relatedTo :Line_1077 .
+
+:TV_Line_1078_KO a :TranslationVariant ;
+:text "길지 않은 시간이 지나면 드러날 것이기 때문이다,"^^xsd:string ;
+:relatedTo :Line_1078 .
+
+:TV_Line_1079_KO a :TranslationVariant ;
+:text "네 집 안에서 남자들과 여자들의 통곡이."^^xsd:string ;
+:relatedTo :Line_1079 .
+
+:TV_Line_1080_KO a :TranslationVariant ;
+:text "또 모든 도시들이 적의로 함께 흔들리고 있다,"^^xsd:string ;
+:relatedTo :Line_1080 .
+
+:TV_Line_1081_KO a :TranslationVariant ;
+:text "그들의 찢긴 조각들을 개들이 정결하게 했거나,"^^xsd:string ;
+:relatedTo :Line_1081 .
+
+:TV_Line_1082_KO a :TranslationVariant ;
+:text "짐승들이나 어떤 날개 달린 새가, 불경한"^^xsd:string ;
+:relatedTo :Line_1082 .
+
+:TV_Line_1083_KO a :TranslationVariant ;
+:text "냄새를 제단 있는 도시로 가져갔기 때문이다."^^xsd:string ;
+:relatedTo :Line_1083 .
+
+:TV_Line_1084_KO a :TranslationVariant ;
+:text "네가 나를 괴롭히므로, 이런 것들을 궁수처럼"^^xsd:string ;
+:relatedTo :Line_1084 .
+
+:TV_Line_1085_KO a :TranslationVariant ;
+:text "분노로 내 마음의 화살들로 쏘아 보냈다,"^^xsd:string ;
+:relatedTo :Line_1085 .
+
+:TV_Line_1086_KO a :TranslationVariant ;
+:text "확실한 화살들을. 너는 그 열기를 피하지 못할 것이다."^^xsd:string ;
+:relatedTo :Line_1086 .
+
+:TV_Line_1087_KO a :TranslationVariant ;
+:text "아이야, 너는 우리를 집으로 데려가라, 이 사람이"^^xsd:string ;
+:relatedTo :Line_1087 .
+
+:TV_Line_1088_KO a :TranslationVariant ;
+:text "분노를 더 젊은 자들에게 쏟아 내게 하고,"^^xsd:string ;
+:relatedTo :Line_1088 .
+
+:TV_Line_1089_KO a :TranslationVariant ;
+:text "혀를 더 조용하게 기르는 법과"^^xsd:string ;
+:relatedTo :Line_1089 .
+
+:TV_Line_1090_KO a :TranslationVariant ;
+:text "지금 지닌 마음보다 더 나은 정신을 알게 하도록."^^xsd:string ;
+:relatedTo :Line_1090 .
+
+:TV_Line_1091_KO a :TranslationVariant ;
+:text "왕이여, 그 사람은 두려운 것들을 예언하고 떠났습니다."^^xsd:string ;
+:relatedTo :Line_1091 .
+
+:TV_Line_1092_KO a :TranslationVariant ;
+:text "우리는 압니다, 제가 검은 머리에서"^^xsd:string ;
+:relatedTo :Line_1092 .
+
+:TV_Line_1093_KO a :TranslationVariant ;
+:text "이 흰 머리카락을 두르게 된 때부터,"^^xsd:string ;
+:relatedTo :Line_1093 .
+
+:TV_Line_1094_KO a :TranslationVariant ;
+:text "그가 아직 한 번도 도시에 거짓을 외친 적이 없다는 것을."^^xsd:string ;
+:relatedTo :Line_1094 .
+
+:TV_Line_1095_KO a :TranslationVariant ;
+:text "나도 알고 있으며, 마음이 흔들린다."^^xsd:string ;
+:relatedTo :Line_1095 .
+
+:TV_Line_1096_KO a :TranslationVariant ;
+:text "양보하는 것도 두렵고, 맞서서"^^xsd:string ;
+:relatedTo :Line_1096 .
+
+:TV_Line_1097_KO a :TranslationVariant ;
+:text "파멸로 마음을 치는 것도 두려운 일이다."^^xsd:string ;
+:relatedTo :Line_1097 .
+
+:TV_Line_1098_KO a :TranslationVariant ;
+:text "좋은 판단을 붙잡아야 합니다, 메노이케우스의 아들이여."^^xsd:string ;
+:relatedTo :Line_1098 .
+
+:TV_Line_1099_KO a :TranslationVariant ;
+:text "그렇다면 무엇을 해야 하는가? 말하라. 나는 따르겠다."^^xsd:string ;
+:relatedTo :Line_1099 .
+
+:TV_Line_1100_KO a :TranslationVariant ;
+:text "가서 소녀는 지하의 집에서"^^xsd:string ;
+:relatedTo :Line_1100 .
+
+:TV_Line_1101_KO a :TranslationVariant ;
+:text "풀어 주고, 앞에 놓인 자에게는 무덤을 세우십시오."^^xsd:string ;
+:relatedTo :Line_1101 .
+
+:TV_Line_1102_KO a :TranslationVariant ;
+:text "너는 이것들을 찬성하고, 양보해야 한다고 생각하느냐?"^^xsd:string ;
+:relatedTo :Line_1102 .
+
+:TV_Line_1103_KO a :TranslationVariant ;
+:text "그렇습니다, 왕이여, 가능한 한 가장 빨리. 신들의"^^xsd:string ;
+:relatedTo :Line_1103 .
+
+:TV_Line_1104_KO a :TranslationVariant ;
+:text "발 빠른 벌들이 나쁜 마음의 자들을 짧게 잘라 내기 때문입니다."^^xsd:string ;
+:relatedTo :Line_1104 .
+
+:TV_Line_1105_KO a :TranslationVariant ;
+:text "아아, 어렵지만, 마음에서 물러나"^^xsd:string ;
+:relatedTo :Line_1105 .
+
+:TV_Line_1106_KO a :TranslationVariant ;
+:text "그 일을 하겠다. 필요와 싸워서는 안 된다."^^xsd:string ;
+:relatedTo :Line_1106 .
+
+:TV_Line_1107_KO a :TranslationVariant ;
+:text "이제 가서 이것들을 행하고, 다른 사람들에게 돌리지 마십시오."^^xsd:string ;
+:relatedTo :Line_1107 .
+
+:TV_Line_1108_KO a :TranslationVariant ;
+:text "지금 이 상태 그대로 가겠다. 가라, 가라, 시종들아,"^^xsd:string ;
+:relatedTo :Line_1108 .
+
+:TV_Line_1109_KO a :TranslationVariant ;
+:text "여기 있는 자들이든 없는 자들이든, 도끼를 손에"^^xsd:string ;
+:relatedTo :Line_1109 .
+
+:TV_Line_1110_KO a :TranslationVariant ;
+:text "잡고 보이는 곳으로 서둘러라."^^xsd:string ;
+:relatedTo :Line_1110 .
+
+:TV_Line_1111_KO a :TranslationVariant ;
+:text "나는 이 의견으로 마음이 돌려졌으니,"^^xsd:string ;
+:relatedTo :Line_1111 .
+
+:TV_Line_1112_KO a :TranslationVariant ;
+:text "내가 직접 묶었고, 직접 가서 풀어 주겠다."^^xsd:string ;
+:relatedTo :Line_1112 .
+
+:TV_Line_1113_KO a :TranslationVariant ;
+:text "정해진 법들을 지키며"^^xsd:string ;
+:relatedTo :Line_1113 .
+
+:TV_Line_1114_KO a :TranslationVariant ;
+:text "삶을 마치는 것이 가장 좋은 일일까 두렵기 때문이다."^^xsd:string ;
+:relatedTo :Line_1114 .

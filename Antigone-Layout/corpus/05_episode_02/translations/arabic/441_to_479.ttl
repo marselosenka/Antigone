@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-arabic a owl:Ontology .
+# Arabic translation variants for 441_to_479.ttl
+
+:TV_Line_441_AR a :TranslationVariant ;
+:text "أنت، نعم أنت، يا من تطأطئين رأسك إلى الأرض،"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_AR a :TranslationVariant ;
+:text "أتقرين بأنك فعلتِ هذه الأمور، أم تنكرين؟"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_AR a :TranslationVariant ;
+:text "أقول إنني فعلت، ولا أنكر أنني فعلت."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_AR a :TranslationVariant ;
+:text "أما أنت فخذ نفسك إلى حيث تشاء،"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_AR a :TranslationVariant ;
+:text "حرًّا خارج تهمة ثقيلة؛"^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_AR a :TranslationVariant ;
+:text "وأنت قولي لي، لا بإطالة بل باختصار،"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_AR a :TranslationVariant ;
+:text "أكنت تعلمين أنه أُعلن ألا تُفعل هذه الأمور؟"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_AR a :TranslationVariant ;
+:text "كنت أعلم؛ وكيف لم أكن أعلم؟ فقد كان واضحًا."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_AR a :TranslationVariant ;
+:text "ثم تجرأتِ على تجاوز هذه القوانين؟"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_AR a :TranslationVariant ;
+:text "فليس زيوس هو الذي أعلن لي هذه الأمور،"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_AR a :TranslationVariant ;
+:text "ولا العدالة الساكنة مع آلهة الأسفل"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_AR a :TranslationVariant ;
+:text "حددت مثل هذه القوانين بين البشر."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_AR a :TranslationVariant ;
+:text "ولم أظن أن إعلاناتك تملك قوة"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_AR a :TranslationVariant ;
+:text "بهذا القدر، حتى يستطيع إنسان فانٍ"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_AR a :TranslationVariant ;
+:text "أن يتجاوز شرائع الآلهة غير المكتوبة والثابتة."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_AR a :TranslationVariant ;
+:text "فليست حية الآن وأمس فقط، بل دائمًا"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_AR a :TranslationVariant ;
+:text "تحيا هذه، ولا أحد يعلم منذ متى ظهرت."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_AR a :TranslationVariant ;
+:text "ولهذه لم أكن مزمعًا، خوفًا من رأي أي رجل،"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_AR a :TranslationVariant ;
+:text "أن أدفع العقوبة أمام الآلهة؛"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_AR a :TranslationVariant ;
+:text "فقد كنت أعلم أنني سأموت، وكيف لا؟"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_AR a :TranslationVariant ;
+:text "حتى لو لم تعلن أنت من قبل. وإن مت"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_AR a :TranslationVariant ;
+:text "قبل الوقت، فأنا أقول إن هذا ربح."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_AR a :TranslationVariant ;
+:text "فمن يعيش، مثلي، في شرور كثيرة،"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_AR a :TranslationVariant ;
+:text "كيف لا يحمل ربحًا إذا مات؟"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_AR a :TranslationVariant ;
+:text "وهكذا فأن أنال هذا المصير"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_AR a :TranslationVariant ;
+:text "ليس ألمًا عندي؛ لكن لو أنني احتملت"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_AR a :TranslationVariant ;
+:text "جثة ابن أمي ميتة غير مدفونة،"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_AR a :TranslationVariant ;
+:text "لآلمني ذلك؛ أما هذه فلا أتألم لها."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_AR a :TranslationVariant ;
+:text "وإن بدا لك الآن أنني أفعل حماقات،"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_AR a :TranslationVariant ;
+:text "فلعلي أُدان بالحماقة عند أحمق."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_AR a :TranslationVariant ;
+:text "تُظهر ولادة الفتاة قسوتها من أب قاسٍ،"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_AR a :TranslationVariant ;
+:text "فهي لا تعرف أن تخضع للشرور."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_AR a :TranslationVariant ;
+:text "لكن اعلمي أن الأفكار الصلبة جدًا"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_AR a :TranslationVariant ;
+:text "تسقط أكثر ما تسقط، وأن أصلب"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_AR a :TranslationVariant ;
+:text "حديد، محمى من النار وقاسيًا،"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_AR a :TranslationVariant ;
+:text "ترينه غالبًا مكسورًا ومتشققًا؛"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_AR a :TranslationVariant ;
+:text "وبلجام صغير أعرف الخيل الغاضبة"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_AR a :TranslationVariant ;
+:text "وقد أُخضعت؛ فلا يجوز"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_AR a :TranslationVariant ;
+:text "أن يفكر عظيمًا من هو عبد لمن حوله."^^xsd:string ;
+:relatedTo :Line_479 .

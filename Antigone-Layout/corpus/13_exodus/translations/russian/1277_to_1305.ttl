@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-russian a owl:Ontology .
+# Russian translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone
+
+:TV_Line_1278_RU a :TranslationVariant ;
+:text "О владыка, как стоишь и как имеешь,"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_RU a :TranslationVariant ;
+:text "то, что перед руками, несешь, а дома"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_RU a :TranslationVariant ;
+:text "ты, придя, кажется, скоро увидишь другие беды."^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_RU a :TranslationVariant ;
+:text "Что? Есть ли еще что-то худшее из бед?"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_RU a :TranslationVariant ;
+:text "Жена умерла, всематерь этого мертвеца,"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_RU a :TranslationVariant ;
+:text "несчастная, только что от свежеразящих ударов."^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_RU a :TranslationVariant ;
+:text "Ио, ио, неочистимая гавань Аида,"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_RU a :TranslationVariant ;
+:text "зачем, зачем ты меня губишь?"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_RU a :TranslationVariant ;
+:text "О вестник злого для меня,"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_RU a :TranslationVariant ;
+:text "предваривший скорби, какое слово ты кричишь?"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_RU a :TranslationVariant ;
+:text "Ай-ай, погибшего человека ты погубил окончательно."^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_RU a :TranslationVariant ;
+:text "Что говоришь, о мальчик? Какую новую весть мне говоришь,"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_RU a :TranslationVariant ;
+:text "ай-ай, ай-ай,"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_RU a :TranslationVariant ;
+:text "что жертва поверх гибели,"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_RU a :TranslationVariant ;
+:text "женская смерть, возложена на меня?"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_RU a :TranslationVariant ;
+:text "Можно видеть; ведь она уже не внутри."^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_RU a :TranslationVariant ;
+:text "О горе мне,"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_RU a :TranslationVariant ;
+:text "я, несчастный, вижу это другое, второе зло."^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_RU a :TranslationVariant ;
+:text "Какая же, какая судьба еще меня ожидает?"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_RU a :TranslationVariant ;
+:text "Сейчас я держу в руках дитя,"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_RU a :TranslationVariant ;
+:text "несчастный, а перед собой вижу другого мертвеца."^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in Antigone
+
+:TV_Line_1300_RU a :TranslationVariant ;
+:text "Фу, фу, несчастная мать, фу, дитя."^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_RU a :TranslationVariant ;
+:text "А она, резко пораженная, сидя у алтаря,"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_RU a :TranslationVariant ;
+:text "освобождает темные веки, оплакав сначала"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_RU a :TranslationVariant ;
+:text "пустое ложе прежде умершего Мегарея,"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_RU a :TranslationVariant ;
+:text "затем этого, а напоследок на тебя"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_RU a :TranslationVariant ;
+:text "злые деяния воспела, называя тебя детоубийцей."^^xsd:string ;
+:relatedTo :Line_1305 .

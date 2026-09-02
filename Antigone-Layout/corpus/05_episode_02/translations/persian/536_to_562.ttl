@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-persian a owl:Ontology .
+# Persian translation variants for 536_to_562.ttl
+
+:TV_Line_536_FA a :TranslationVariant ;
+:text "من این کار را کرده‌ام، اگر این زن هم‌گواهی دهد،"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_FA a :TranslationVariant ;
+:text "و در آن شریکم و بار اتهام را بر دوش می‌گیرم."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_FA a :TranslationVariant ;
+:text "اما عدالت تو را به این کار وا نخواهد گذاشت، زیرا"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_FA a :TranslationVariant ;
+:text "نه خواستی و نه من تو را شریک خود کردم."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_FA a :TranslationVariant ;
+:text "اما در بدی‌های تو شرم ندارم که"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_FA a :TranslationVariant ;
+:text "خود را همسفر رنجت کنم."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_FA a :TranslationVariant ;
+:text "هادس و آنان که در زیرند می‌دانند کار از آنِ کیست؛"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_FA a :TranslationVariant ;
+:text "اما من دوستی را که تنها در سخن دوست دارد، دوست نمی‌دارم."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_FA a :TranslationVariant ;
+:text "نه، خواهر، مرا بی‌حرمت مکن که"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_FA a :TranslationVariant ;
+:text "با تو نمیرم و مرده را پاک و مقدس نگردانم."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_FA a :TranslationVariant ;
+:text "برای من مرگ مشترک مخواه، و آنچه را لمس نکرده‌ای"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_FA a :TranslationVariant ;
+:text "از آنِ خود مکن. من که می‌میرم بس خواهم بود."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_FA a :TranslationVariant ;
+:text "و چه زندگی‌ای برای من عزیز خواهد بود، اگر از تو بازمانده باشم؟"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_FA a :TranslationVariant ;
+:text "از کرئون بپرس؛ زیرا تو نگهبان اویی."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_FA a :TranslationVariant ;
+:text "چرا با این سخنان مرا می‌آزاری، بی‌آن‌که سودی ببری؟"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_FA a :TranslationVariant ;
+:text "بی‌گمان با درد می‌خندم، اگر بر تو می‌خندم."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_FA a :TranslationVariant ;
+:text "پس اکنون دیگر چگونه می‌توانم به تو سودی برسانم؟"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_FA a :TranslationVariant ;
+:text "خودت را نجات بده؛ به گریختنت حسد نمی‌برم."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_FA a :TranslationVariant ;
+:text "آه منِ تیره‌بخت، آیا از سرنوشت تو محروم و خطاکار مانده‌ام؟"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_FA a :TranslationVariant ;
+:text "زیرا تو زندگی را برگزیدی، و من مردن را."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_FA a :TranslationVariant ;
+:text "اما نه بی‌آن‌که سخنان من ناگفته مانده باشد."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_FA a :TranslationVariant ;
+:text "تو نزد اینان درست‌اندیش می‌نمودی، و من نزد آنان."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_FA a :TranslationVariant ;
+:text "و با این همه، خطای ما دو تن برابر است."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_FA a :TranslationVariant ;
+:text "دلیر باش؛ تو زنده‌ای، اما جان من دیرزمانی است"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_FA a :TranslationVariant ;
+:text "مرده است، تا به مردگان سود برساند."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_FA a :TranslationVariant ;
+:text "می‌گویم از این دو دختر، یکی همین اکنون"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_FA a :TranslationVariant ;
+:text "بی‌خرد آشکار شده، و دیگری از نخستین روزی که زاده شد."^^xsd:string ;
+:relatedTo :Line_562 .

@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-korean a owl:Ontology .
+# Korean translation variants for 441_to_479.ttl
+
+:TV_Line_441_KO a :TranslationVariant ;
+:text "너에게, 머리를 땅으로 숙이고 있는 너에게 묻는다."^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_KO a :TranslationVariant ;
+:text "네가 이것들을 했다고 말하느냐, 아니면 하지 않았다고 부인하느냐?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_KO a :TranslationVariant ;
+:text "제가 했다고 말합니다. 그리고 하지 않았다고 부인하지 않습니다."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_KO a :TranslationVariant ;
+:text "너는 네가 원하는 곳으로 너 자신을 데려가도 좋다,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_KO a :TranslationVariant ;
+:text "무거운 혐의 밖으로, 자유롭게."^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_KO a :TranslationVariant ;
+:text "그러나 너는 내게 말하라, 길게 말하지 말고 짧게,"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_KO a :TranslationVariant ;
+:text "이 일을 하지 말라는 포고가 내려졌음을 알고 있었느냐?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_KO a :TranslationVariant ;
+:text "알고 있었습니다. 어찌 모를 수 있었겠습니까? 분명했으니까요."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_KO a :TranslationVariant ;
+:text "그런데도 감히 이 법들을 넘어섰느냐?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_KO a :TranslationVariant ;
+:text "그것들을 제게 선포한 이는 제우스가 아니었고,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_KO a :TranslationVariant ;
+:text "아래 신들과 함께 사는 정의도"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_KO a :TranslationVariant ;
+:text "인간들 사이에 그런 법들을 정하지 않았습니다."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_KO a :TranslationVariant ;
+:text "저는 당신의 포고들이 그렇게 강하다고 생각하지 않았습니다,"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_KO a :TranslationVariant ;
+:text "죽을 인간인 당신이 신들의 기록되지 않고 흔들리지 않는"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_KO a :TranslationVariant ;
+:text "법도를 넘어 달릴 수 있을 만큼."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_KO a :TranslationVariant ;
+:text "그것들은 지금이나 어제의 것이 아니라, 언제나"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_KO a :TranslationVariant ;
+:text "살아 있으며, 그것들이 언제 나타났는지 아무도 모릅니다."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_KO a :TranslationVariant ;
+:text "저는 그 일들 때문에, 어떤 사람의"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_KO a :TranslationVariant ;
+:text "생각을 두려워하여 신들 앞에서 벌을"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_KO a :TranslationVariant ;
+:text "받을 생각은 없었습니다. 저는 죽을 것을 알고 있었으니까요. 어찌 모르겠습니까?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_KO a :TranslationVariant ;
+:text "당신이 미리 선포하지 않았더라도 그렇습니다. 만일 정해진 때보다"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_KO a :TranslationVariant ;
+:text "앞서 죽는다면, 저는 그것을 이익이라 말합니다."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_KO a :TranslationVariant ;
+:text "저처럼 많은 재앙들 속에서"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_KO a :TranslationVariant ;
+:text "사는 자에게, 죽음이 어찌 이익을 가져오지 않겠습니까?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_KO a :TranslationVariant ;
+:text "그러므로 제가 이 죽음에 이르는 것은"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_KO a :TranslationVariant ;
+:text "제게 아무 고통도 아닙니다. 그러나 만일 제"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_KO a :TranslationVariant ;
+:text "어머니에게서 난 자의 죽은 시신을 장사 없이 참았다면,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_KO a :TranslationVariant ;
+:text "그 일들 때문에 저는 고통받았을 것입니다. 그러나 이것들에는 고통받지 않습니다."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_KO a :TranslationVariant ;
+:text "당신에게 제가 지금 어리석은 일을 하는 것처럼 보인다면,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_KO a :TranslationVariant ;
+:text "거의 어리석은 자에게 어리석음의 빚을 지는 것입니다."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_KO a :TranslationVariant ;
+:text "잔인한 아버지에게서 난 이 아이의"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_KO a :TranslationVariant ;
+:text "잔인한 혈통이 드러난다. 재앙들에 굽힐 줄 모르는구나."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_KO a :TranslationVariant ;
+:text "그러나 알아두어라, 지나치게 완고한 생각들은"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_KO a :TranslationVariant ;
+:text "가장 잘 무너진다. 불에서 달군 가장 강한"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_KO a :TranslationVariant ;
+:text "쇠도 매우 단단할 때"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_KO a :TranslationVariant ;
+:text "부서지고 갈라지는 것을 아주 많이 볼 수 있다."^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_KO a :TranslationVariant ;
+:text "작은 재갈로도 나는 성난"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_KO a :TranslationVariant ;
+:text "말들이 길들여지는 것을 안다. 곁의 자들에게"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_KO a :TranslationVariant ;
+:text "종인 자가 크게 생각하는 것은 허락되지 않기 때문이다."^^xsd:string ;
+:relatedTo :Line_479 .

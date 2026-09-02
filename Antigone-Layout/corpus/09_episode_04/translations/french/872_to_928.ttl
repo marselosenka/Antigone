@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-french a owl:Ontology .
+# French translation variants for 872_to_928.ttl
+
+:TV_Line_872_FR a :TranslationVariant ;
+:text "Honorer est bien quelque piété,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_FR a :TranslationVariant ;
+:text "mais le pouvoir, pour qui le pouvoir importe,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_FR a :TranslationVariant ;
+:text "ne peut d’aucune manière être transgressé ;"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_FR a :TranslationVariant ;
+:text "et toi, ton humeur autonome t’a perdue."^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_FR a :TranslationVariant ;
+:text "Non pleurée, sans ami, sans hymen, malheureuse, je suis menée"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_FR a :TranslationVariant ;
+:text "sur le dernier chemin. Il ne m’est plus permis"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_FR a :TranslationVariant ;
+:text "de voir l’œil sacré"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in canonical.
+
+:TV_Line_880_FR a :TranslationVariant ;
+:text "de cette torche, pour moi, malheureuse ;"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_FR a :TranslationVariant ;
+:text "et mon destin sans larmes,"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_FR a :TranslationVariant ;
+:text "aucun de mes amis ne le gémit."^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_FR a :TranslationVariant ;
+:text "Savez-vous que des chants et des plaintes avant la mort,"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_FR a :TranslationVariant ;
+:text "pas même un seul ne cesserait, s’il le fallait, de les dire ?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_FR a :TranslationVariant ;
+:text "Ne l’emmènerez-vous pas au plus vite, et, l’enveloppant"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_FR a :TranslationVariant ;
+:text "dans un tombeau couvert, comme je l’ai dit,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_FR a :TranslationVariant ;
+:text "laisserez-la seule, abandonnée, soit qu’il lui faille mourir,"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_FR a :TranslationVariant ;
+:text "soit vivre ensevelie dans une telle demeure ?"^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_FR a :TranslationVariant ;
+:text "Car nous sommes purs en ce qui touche à cette jeune fille ;"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_FR a :TranslationVariant ;
+:text "mais elle sera privée de sa résidence d’en haut."^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_FR a :TranslationVariant ;
+:text "Ô tombeau, ô chambre nuptiale, ô demeure creusée"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_FR a :TranslationVariant ;
+:text "qui garde toujours, où je vais"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_FR a :TranslationVariant ;
+:text "vers les miens, dont Perséphone a reçu"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_FR a :TranslationVariant ;
+:text "le plus grand nombre parmi les morts disparus ;"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_FR a :TranslationVariant ;
+:text "d’eux, moi la dernière et de beaucoup la plus malheureuse,"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_FR a :TranslationVariant ;
+:text "je descends, avant que la part de ma vie ne soit arrivée à son terme."^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_FR a :TranslationVariant ;
+:text "Mais en arrivant, je nourris fortement l’espoir"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_FR a :TranslationVariant ;
+:text "que je viendrai chère à mon père, et très chère à toi,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_FR a :TranslationVariant ;
+:text "mère, et chère à toi, tête fraternelle ;"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_FR a :TranslationVariant ;
+:text "puisque, morts, de mes propres mains, moi,"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_FR a :TranslationVariant ;
+:text "je vous ai lavés, parés, et donné"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_FR a :TranslationVariant ;
+:text "les libations sur la tombe ; mais maintenant, Polynice, ton"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_FR a :TranslationVariant ;
+:text "corps, en le couvrant, je gagne de telles récompenses."^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_FR a :TranslationVariant ;
+:text "Et pourtant, moi, je t’ai honoré aux yeux de ceux qui pensent bien."^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_FR a :TranslationVariant ;
+:text "Car jamais, ni si j’avais été mère d’enfants,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_FR a :TranslationVariant ;
+:text "ni si un mari mort se consumait pour moi,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_FR a :TranslationVariant ;
+:text "contre la force des citoyens je n’aurais assumé cette peine."^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_FR a :TranslationVariant ;
+:text "En faveur de quelle loi donc dis-je ces choses ?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_FR a :TranslationVariant ;
+:text "Si un mari mourait, il y en aurait un autre pour moi,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_FR a :TranslationVariant ;
+:text "et un enfant d’un autre homme, si je perdais celui-ci ;"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_FR a :TranslationVariant ;
+:text "mais ma mère et mon père étant cachés dans l’Hadès,"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_FR a :TranslationVariant ;
+:text "il n’est aucun frère qui puisse jamais pousser."^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_FR a :TranslationVariant ;
+:text "Par une telle loi, pourtant, t’ayant préféré,"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_FR a :TranslationVariant ;
+:text "moi, à Créon cela a semblé fauter"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_FR a :TranslationVariant ;
+:text "et oser des choses terribles, ô tête fraternelle."^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_FR a :TranslationVariant ;
+:text "Et maintenant il m’emmène, m’ayant ainsi prise par les mains,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_FR a :TranslationVariant ;
+:text "sans lit, sans hymen, n’ayant reçu aucune part"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_FR a :TranslationVariant ;
+:text "du mariage ni d’une nourriture d’enfant,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_FR a :TranslationVariant ;
+:text "mais ainsi abandonnée par mes amis, moi la malheureuse,"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_FR a :TranslationVariant ;
+:text "vivante, je vais vers les excavations des morts ;"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_FR a :TranslationVariant ;
+:text "quelle justice des divinités ai-je transgressée ?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_FR a :TranslationVariant ;
+:text "Pourquoi faut-il que moi, l’infortunée, vers les dieux encore"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_FR a :TranslationVariant ;
+:text "je regarde ? Quel allié appeler ? Puisque, certes,"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_FR a :TranslationVariant ;
+:text "en étant pieuse, j’ai acquis l’impiété."^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_FR a :TranslationVariant ;
+:text "Mais si donc ces choses sont belles parmi les dieux,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_FR a :TranslationVariant ;
+:text "après avoir souffert, nous reconnaîtrions que nous avons fauté ;"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_FR a :TranslationVariant ;
+:text "mais si ceux-ci fautent, qu’ils ne souffrent pas plus de maux"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_FR a :TranslationVariant ;
+:text "qu’ils ne m’en font injustement."^^xsd:string ;
+:relatedTo :Line_928 .

@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-indonesian a owl:Ontology .
+# Indonesian translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_ID a :TranslationVariant ;
+:text "Orang tua, kalian semua seperti pemanah pada sasaran"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_ID a :TranslationVariant ;
+:text "memanah orang ini, dan bahkan dari seni ramal"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_ID a :TranslationVariant ;
+:text "aku tidak bebas dari ulah kalian; oleh kaum kalian"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_ID a :TranslationVariant ;
+:text "aku telah lama dijual dan dimuat sebagai barang dagangan."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_ID a :TranslationVariant ;
+:text "Beruntunglah, dagangkanlah elektrum dari Sardis"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_ID a :TranslationVariant ;
+:text "jika kalian mau, dan emas India,"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_ID a :TranslationVariant ;
+:text "tetapi orang itu tidak akan kalian sembunyikan dalam makam,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_ID a :TranslationVariant ;
+:text "bahkan tidak jika rajawali-rajawali Zeus hendak sebagai makanan"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_ID a :TranslationVariant ;
+:text "membawanya, merenggutnya ke takhta Zeus,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_ID a :TranslationVariant ;
+:text "bahkan demikian pun, karena tidak gentar pada pencemaran ini, aku"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_ID a :TranslationVariant ;
+:text "tidak akan mengizinkan orang itu dikuburkan; sebab aku tahu benar bahwa"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_ID a :TranslationVariant ;
+:text "tidak seorang manusia pun mampu mencemari para dewa."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_ID a :TranslationVariant ;
+:text "Tetapi jatuhlah, Teiresias tua, di antara manusia"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_ID a :TranslationVariant ;
+:text "bahkan mereka yang sangat cerdik ke dalam kejatuhan-kejatuhan memalukan, ketika perkataan"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_ID a :TranslationVariant ;
+:text "buruk mereka ucapkan dengan indah demi keuntungan."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_ID a :TranslationVariant ;
+:text "Aduh; adakah manusia yang tahu, adakah yang memahami,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_ID a :TranslationVariant ;
+:text "Hal apa? Perkataan umum apakah ini yang kauucapkan?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_ID a :TranslationVariant ;
+:text "betapa pertimbangan baik adalah yang terbaik di antara harta?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_ID a :TranslationVariant ;
+:text "Sebesar itu pula, menurutku, tidak berpikir adalah bahaya terbesar."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_ID a :TranslationVariant ;
+:text "Namun engkau memang penuh dengan penyakit ini."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_ID a :TranslationVariant ;
+:text "Aku tidak ingin membalas sang peramal dengan kata-kata buruk."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_ID a :TranslationVariant ;
+:text "Namun engkau melakukannya, ketika mengatakan bahwa aku bernubuat dusta."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_ID a :TranslationVariant ;
+:text "Sebab seluruh kaum peramal mencintai perak."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_ID a :TranslationVariant ;
+:text "Dan kaum tiran mencintai keuntungan memalukan."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_ID a :TranslationVariant ;
+:text "Tahukah engkau bahwa yang kauucapkan kauucapkan kepada penguasa?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_ID a :TranslationVariant ;
+:text "Aku tahu; sebab melalui aku engkau memiliki kota ini terselamatkan."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_ID a :TranslationVariant ;
+:text "Engkau peramal bijak, tetapi mencintai ketidakadilan."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_ID a :TranslationVariant ;
+:text "Engkau akan membangkitkanku untuk mengucapkan hal-hal tak tergoyahkan dalam pikiranku."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_ID a :TranslationVariant ;
+:text "Gerakkanlah, hanya jangan berbicara demi keuntungan."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_ID a :TranslationVariant ;
+:text "Sebab begitulah tampaknya aku sudah bagimu, setidaknya di pihakmu."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_ID a :TranslationVariant ;
+:text "Ketahuilah bahwa engkau tidak akan membeli pikiranku."^^xsd:string ;
+:relatedTo :Line_1063 .

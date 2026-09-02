@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-french a owl:Ontology .
+# French translation variants for 635_to_680.ttl
+
+# Lines 635 and 636 do not exist in canonical.
+
+:TV_Line_637_FR a :TranslationVariant ;
+:text "Car pour moi, aucun mariage ne sera jugé digne"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_FR a :TranslationVariant ;
+:text "d’être porté plus haut que ta bonne direction."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_FR a :TranslationVariant ;
+:text "C’est ainsi, mon enfant, qu’il faut tenir cela dans la poitrine :"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_FR a :TranslationVariant ;
+:text "car c’est pour cela que les hommes souhaitent engendrer"^^xsd:string ;
+:relatedTo :Line_640 .
+
+# Line 641 does not exist in canonical.
+
+:TV_Line_642_FR a :TranslationVariant ;
+:text "et avoir dans leurs maisons des enfants obéissants,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_FR a :TranslationVariant ;
+:text "afin qu’ils rendent aussi le mal à l’ennemi par des maux"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_FR a :TranslationVariant ;
+:text "et qu’ils honorent l’ami à l’égal de leur père."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_FR a :TranslationVariant ;
+:text "Que dirais-tu d’un tel homme, sinon qu’il engendre pour lui-même"^^xsd:string ;
+:relatedTo :Line_645 .
+
+# Line 646 does not exist in canonical.
+
+:TV_Line_647_FR a :TranslationVariant ;
+:text "cela devient une froide étreinte dans ses bras,"^^xsd:string ;
+:relatedTo :Line_647 .
+
+# Lines 648, 649 and 650 do not exist in canonical.
+
+:TV_Line_651_FR a :TranslationVariant ;
+:text "pourrait-il naître une plaie plus grande qu’un mauvais ami ?"^^xsd:string ;
+:relatedTo :Line_651 .
+
+# Line 652 does not exist in canonical.
+
+:TV_Line_653_FR a :TranslationVariant ;
+:text "que cette fille épouse dans l’Hadès quelque mort."^^xsd:string ;
+:relatedTo :Line_653 .
+
+# Line 654 does not exist in canonical.
+
+:TV_Line_655_FR a :TranslationVariant ;
+:text "elle seule, de toute la cité, ayant refusé d’obéir,"^^xsd:string ;
+:relatedTo :Line_655 .
+
+# Line 656 does not exist in canonical.
+
+:TV_Line_657_FR a :TranslationVariant ;
+:text "je ne me rendrai pas moi-même menteur devant la cité,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_FR a :TranslationVariant ;
+:text "car quiconque est homme dans ses affaires domestiques"^^xsd:string ;
+:relatedTo :Line_658 .
+
+# Lines 659, 660 and 661 do not exist in canonical.
+
+:TV_Line_662_FR a :TranslationVariant ;
+:text "mais quiconque, ayant transgressé, fait violence aux lois"^^xsd:string ;
+:relatedTo :Line_662 .
+
+# Line 663 does not exist in canonical.
+
+:TV_Line_664_FR a :TranslationVariant ;
+:text "ou pense commander à ceux qui gouvernent,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_FR a :TranslationVariant ;
+:text "celui-là n’obtiendra pas d’éloge de moi."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_FR a :TranslationVariant ;
+:text "dans les petites choses, les justes, et leurs contraires."^^xsd:string ;
+:relatedTo :Line_666 .
+
+# Line 667 does not exist in canonical.
+
+:TV_Line_668_FR a :TranslationVariant ;
+:text "et en cet homme-là j’aurais confiance, moi,"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_FR a :TranslationVariant ;
+:text "pour bien commander et vouloir être bien commandé,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_FR a :TranslationVariant ;
+:text "et, dans la tempête de la lance, placé à son poste,"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_FR a :TranslationVariant ;
+:text "pour demeurer un compagnon juste et brave."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_FR a :TranslationVariant ;
+:text "Elle établit les maisons ; celle-ci, de la lance alliée,"^^xsd:string ;
+:relatedTo :Line_672 .
+
+# Lines 673 and 674 do not exist in canonical.
+
+:TV_Line_675_FR a :TranslationVariant ;
+:text "elle rompt les lignes ; mais de ceux qui sont droits,"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_FR a :TranslationVariant ;
+:text "ainsi il faut défendre ceux qui sont ordonnés,"^^xsd:string ;
+:relatedTo :Line_676 .
+
+# Line 677 does not exist in canonical.
+
+:TV_Line_678_FR a :TranslationVariant ;
+:text "car il vaut mieux, s’il le faut, tomber du fait d’un homme,"^^xsd:string ;
+:relatedTo :Line_678 .
+
+# Line 679 does not exist in canonical.
+
+:TV_Line_680_FR a :TranslationVariant ;
+:text "Pour nous, si nous ne sommes pas volés par le temps,"^^xsd:string ;
+:relatedTo :Line_680 .

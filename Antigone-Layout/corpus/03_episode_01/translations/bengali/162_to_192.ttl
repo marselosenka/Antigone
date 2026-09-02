@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-bengali a owl:Ontology .
+# Bengali translation variants for 162_to_192.ttl
+
+:TV_Line_162_BN a :TranslationVariant ;
+:text "হে পুরুষেরা, নগরের বিষয়গুলি দেবতারা নিরাপদে,"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_BN a :TranslationVariant ;
+:text "বড় আলোড়নে কাঁপিয়ে, আবার সোজা করে দাঁড় করিয়েছেন;"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_BN a :TranslationVariant ;
+:text "আর তোমাদের আমি দূতদের দ্বারা সবার থেকে পৃথক করে"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_BN a :TranslationVariant ;
+:text "এখানে আসতে পাঠিয়েছি, এই কারণে যে লায়োসের"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_BN a :TranslationVariant ;
+:text "সিংহাসনের ক্ষমতাকে তোমরা সবসময় ভালোভাবে সম্মান করেছ, তা জানি,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_BN a :TranslationVariant ;
+:text "আর আবার, যখন ঐদিপাস নগরকে সোজা করছিলেন,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_BN a :TranslationVariant ;
+:text "এবং তিনি ধ্বংস হওয়ার পরেও, তাদের সন্তানদের পাশে"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_BN a :TranslationVariant ;
+:text "দৃঢ় মনোভাব নিয়ে স্থির থেকেছ।"^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_BN a :TranslationVariant ;
+:text "যেহেতু তারা দুজন দ্বিগুণ ভাগ্যের দ্বারা একদিনেই"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_BN a :TranslationVariant ;
+:text "মারা গেল, আঘাত করে এবং"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_BN a :TranslationVariant ;
+:text "নিজ হাতে কলুষসহ আঘাতপ্রাপ্ত হয়ে,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_BN a :TranslationVariant ;
+:text "এখন আমি সমস্ত ক্ষমতা ও সিংহাসন ধারণ করছি,"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_BN a :TranslationVariant ;
+:text "মৃতদের বংশের নিকটতম আত্মীয়তার অধিকারে।"^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_BN a :TranslationVariant ;
+:text "কিন্তু কোনো মানুষের আত্মা"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_BN a :TranslationVariant ;
+:text "ও মনোভাব ও বিচার পুরোপুরি জানা অসম্ভব, যতক্ষণ না"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_BN a :TranslationVariant ;
+:text "সে শাসন ও আইনের মধ্যে পরীক্ষিত হয়ে প্রকাশ পায়।"^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_BN a :TranslationVariant ;
+:text "কারণ আমার কাছে, যে কেউ সমগ্র নগর পরিচালনা করে"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_BN a :TranslationVariant ;
+:text "সর্বোত্তম পরামর্শগুলিতে হাত দেয় না,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_BN a :TranslationVariant ;
+:text "বরং কোনো ভয়ে জিহ্বা বন্ধ করে রাখে,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_BN a :TranslationVariant ;
+:text "সে এখন এবং আগেও নিকৃষ্টতম বলে মনে হয়;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_BN a :TranslationVariant ;
+:text "আর যে নিজের পিতৃভূমির বদলে বড় করে"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_BN a :TranslationVariant ;
+:text "বন্ধুকে গণ্য করে, তাকে আমি কোথাও মূল্য দিই না।"^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_BN a :TranslationVariant ;
+:text "কারণ আমি—জিউস জানুন, যিনি সবসময় সব দেখেন—"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_BN a :TranslationVariant ;
+:text "নাগরিকদের দিকে উদ্ধারের বদলে ধ্বংস"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_BN a :TranslationVariant ;
+:text "এগিয়ে আসতে দেখলে কখনও নীরব থাকতাম না,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_BN a :TranslationVariant ;
+:text "আর দেশের শত্রু কোনো মানুষকে কখনও"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_BN a :TranslationVariant ;
+:text "নিজের বন্ধু করতাম না, এ কথা জেনে যে"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_BN a :TranslationVariant ;
+:text "এই নগরই রক্ষা করে, আর এর উপর"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_BN a :TranslationVariant ;
+:text "সোজাভাবে নৌযাত্রা করেই আমরা বন্ধু লাভ করি।"^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_BN a :TranslationVariant ;
+:text "এমন আইন দিয়েই আমি এই নগরকে বড় করব।"^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_BN a :TranslationVariant ;
+:text "আর এখন এদের সঙ্গে সঙ্গতিপূর্ণ ঘোষণা করেছি"^^xsd:string ;
+:relatedTo :Line_192 .

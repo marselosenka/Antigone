@@ -1,0 +1,95 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-spanish a owl:Ontology .
+# Spanish translation variants for 280_to_301.ttl
+
+:TV_Line_280_ES a :TranslationVariant ;
+    :text "Cesa de hablar antes de llenarme también a mí de ira,"^^xsd:string ;
+    :relatedTo :Line_280 .
+
+:TV_Line_281_ES a :TranslationVariant ;
+    :text "no sea que se descubra que eres insensato y viejo a la vez."^^xsd:string ;
+    :relatedTo :Line_281 .
+
+:TV_Line_282_ES a :TranslationVariant ;
+    :text "Dices cosas insoportables al decir que los dioses"^^xsd:string ;
+    :relatedTo :Line_282 .
+
+:TV_Line_283_ES a :TranslationVariant ;
+    :text "tienen providencia por este cadáver."^^xsd:string ;
+    :relatedTo :Line_283 .
+
+:TV_Line_284_ES a :TranslationVariant ;
+    :text "¿Acaso, honrándolo sobremanera como benefactor,"^^xsd:string ;
+    :relatedTo :Line_284 .
+
+:TV_Line_285_ES a :TranslationVariant ;
+    :text "lo ocultaban ellos, a quien vino a quemar"^^xsd:string ;
+    :relatedTo :Line_285 .
+
+:TV_Line_286_ES a :TranslationVariant ;
+    :text "sus templos rodeados de columnas y sus ofrendas,"^^xsd:string ;
+    :relatedTo :Line_286 .
+
+:TV_Line_287_ES a :TranslationVariant ;
+    :text "y a dispersar la tierra y las leyes de aquellos?"^^xsd:string ;
+    :relatedTo :Line_287 .
+
+:TV_Line_288_ES a :TranslationVariant ;
+    :text "¿O ves a los dioses honrando a los malvados?"^^xsd:string ;
+    :relatedTo :Line_288 .
+
+:TV_Line_289_ES a :TranslationVariant ;
+    :text "No es así; pero ya desde hace tiempo algunos hombres"^^xsd:string ;
+    :relatedTo :Line_289 .
+
+:TV_Line_290_ES a :TranslationVariant ;
+    :text "de la ciudad, soportándome apenas, murmuraban contra mí"^^xsd:string ;
+    :relatedTo :Line_290 .
+
+:TV_Line_291_ES a :TranslationVariant ;
+    :text "en secreto, sacudiendo la cabeza, y bajo el yugo"^^xsd:string ;
+    :relatedTo :Line_291 .
+
+:TV_Line_292_ES a :TranslationVariant ;
+    :text "no mantenían justamente la cerviz para aceptarme."^^xsd:string ;
+    :relatedTo :Line_292 .
+
+:TV_Line_293_ES a :TranslationVariant ;
+    :text "Por eso sé bien que estos hombres"^^xsd:string ;
+    :relatedTo :Line_293 .
+
+:TV_Line_294_ES a :TranslationVariant ;
+    :text "fueron inducidos por sobornos a hacer esto."^^xsd:string ;
+    :relatedTo :Line_294 .
+
+:TV_Line_295_ES a :TranslationVariant ;
+    :text "Pues nada ha brotado entre los hombres"^^xsd:string ;
+    :relatedTo :Line_295 .
+
+:TV_Line_296_ES a :TranslationVariant ;
+    :text "tan malo como la plata: ella destruye ciudades,"^^xsd:string ;
+    :relatedTo :Line_296 .
+
+:TV_Line_297_ES a :TranslationVariant ;
+    :text "ella arranca a los hombres de sus casas,"^^xsd:string ;
+    :relatedTo :Line_297 .
+
+:TV_Line_298_ES a :TranslationVariant ;
+    :text "ella enseña y cambia las mentes nobles"^^xsd:string ;
+    :relatedTo :Line_298 .
+
+:TV_Line_299_ES a :TranslationVariant ;
+    :text "de los mortales para ponerse al servicio de hechos vergonzosos;"^^xsd:string ;
+    :relatedTo :Line_299 .
+
+:TV_Line_300_ES a :TranslationVariant ;
+    :text "mostró a los hombres cómo tener toda clase de vilezas"^^xsd:string ;
+    :relatedTo :Line_300 .
+
+:TV_Line_301_ES a :TranslationVariant ;
+    :text "y cómo conocer la impiedad de toda acción."^^xsd:string ;
+    :relatedTo :Line_301 .

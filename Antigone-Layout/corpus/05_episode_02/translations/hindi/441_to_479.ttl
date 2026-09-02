@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-hindi a owl:Ontology .
+# Hindi translation variants for 441_to_479.ttl
+
+:TV_Line_441_HI a :TranslationVariant ;
+:text "तुझसे कहता हूँ, तुझसे, जो सिर भूमि की ओर झुका रही है,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_HI a :TranslationVariant ;
+:text "क्या तू कहती है या नकारती है कि तूने ये काम नहीं किए?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_HI a :TranslationVariant ;
+:text "मैं कहती हूँ कि मैंने किया, और नहीं कहकर इनकार नहीं करती।"^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_HI a :TranslationVariant ;
+:text "तू अपने को जहाँ चाहे ले जा सकता है,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_HI a :TranslationVariant ;
+:text "भारी आरोप से बाहर, मुक्त होकर;"^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_HI a :TranslationVariant ;
+:text "और तू मुझे लंबा नहीं, संक्षेप में बता,"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_HI a :TranslationVariant ;
+:text "क्या तुझे पता था कि यह काम न करने की घोषणा हुई थी?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_HI a :TranslationVariant ;
+:text "पता था; क्यों न पता होता? वह स्पष्ट था।"^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_HI a :TranslationVariant ;
+:text "और फिर भी तूने इन नियमों को लाँघने का साहस किया?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_HI a :TranslationVariant ;
+:text "क्योंकि मेरे लिए ज़ीउस ने ये बातें घोषित नहीं की थीं,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_HI a :TranslationVariant ;
+:text "न नीचे के देवताओं के साथ रहने वाली दीके ने"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_HI a :TranslationVariant ;
+:text "मनुष्यों में ऐसे नियम ठहराए थे।"^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_HI a :TranslationVariant ;
+:text "और मैंने न सोचा कि तेरी घोषणाओं में इतनी शक्ति है"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_HI a :TranslationVariant ;
+:text "कि कोई मर्त्य होकर देवताओं के अलिखित और अटल"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_HI a :TranslationVariant ;
+:text "नियमों से आगे दौड़ सके।"^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_HI a :TranslationVariant ;
+:text "क्योंकि वे आज या कल के नहीं, बल्कि सदैव"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_HI a :TranslationVariant ;
+:text "जीवित हैं, और कोई नहीं जानता वे कब से प्रकट हुए।"^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_HI a :TranslationVariant ;
+:text "इनके लिए मैं किसी भी पुरुष के"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_HI a :TranslationVariant ;
+:text "विचार से डरकर देवताओं के सामने दंड"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_HI a :TranslationVariant ;
+:text "देने वाली न थी; क्योंकि मुझे पता था कि मरना है, क्यों नहीं?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_HI a :TranslationVariant ;
+:text "भले ही तूने पहले घोषणा न की होती। यदि समय से"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_HI a :TranslationVariant ;
+:text "पहले मरूँगी, तो मैं उसे लाभ ही कहती हूँ।"^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_HI a :TranslationVariant ;
+:text "क्योंकि जो, मेरी तरह, अनेक बुराइयों में"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_HI a :TranslationVariant ;
+:text "जीता है, वह मरकर लाभ कैसे न पाएगा?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_HI a :TranslationVariant ;
+:text "इसलिए मेरे लिए इस मृत्यु को पाना"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_HI a :TranslationVariant ;
+:text "कोई पीड़ा नहीं; पर यदि अपनी"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_HI a :TranslationVariant ;
+:text "माता से जन्मे मृत को बिना दफ़न शव सहती,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_HI a :TranslationVariant ;
+:text "तब उनसे मुझे पीड़ा होती; इनसे मैं दुखी नहीं हूँ।"^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_HI a :TranslationVariant ;
+:text "और यदि तुझे अभी लगता है कि मैं मूर्खता कर रही हूँ,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_HI a :TranslationVariant ;
+:text "तो शायद मैं किसी मूर्ख के सामने मूर्खता की दोषी हूँ।"^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_HI a :TranslationVariant ;
+:text "यह कन्या का कठोर जन्म कठोर पिता से स्पष्ट करता है।"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_HI a :TranslationVariant ;
+:text "वह बुराइयों के सामने झुकना नहीं जानती।"^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_HI a :TranslationVariant ;
+:text "पर यह जान ले कि अत्यधिक कठोर विचार"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_HI a :TranslationVariant ;
+:text "सबसे अधिक गिरते हैं; और सबसे शक्तिशाली"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_HI a :TranslationVariant ;
+:text "लोहे को, आग में तपकर अत्यंत कठोर हुआ,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_HI a :TranslationVariant ;
+:text "अक्सर टूटा और फटा हुआ देखा जा सकता है;"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_HI a :TranslationVariant ;
+:text "और छोटे लगाम से मैं जानता हूँ कि क्रुद्ध"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_HI a :TranslationVariant ;
+:text "घोड़े वश में किए जाते हैं; क्योंकि वह नहीं रह सकता"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_HI a :TranslationVariant ;
+:text "बड़ा सोचने वाला, जो पड़ोसियों का दास है।"^^xsd:string ;
+:relatedTo :Line_479 .

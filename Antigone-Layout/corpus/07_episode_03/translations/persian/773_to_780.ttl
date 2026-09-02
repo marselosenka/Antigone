@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-persian a owl:Ontology .
+# Persian translation variants for 773_to_780.ttl
+
+:TV_Line_773_FA a :TranslationVariant ;
+:text "او را به جایی بی‌کس خواهم برد، آنجا که گذر مردمان باشد،"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_FA a :TranslationVariant ;
+:text "و زنده در گوری سنگیِ زیرزمینی پنهان خواهم کرد،"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_FA a :TranslationVariant ;
+:text "تنها آن اندازه خوراک پیش می‌نهم که برای پرهیز از آلودگی باشد،"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_FA a :TranslationVariant ;
+:text "تا سراسر شهر از این ناپاکی بگریزد."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_FA a :TranslationVariant ;
+:text "و آنجا، هادس را، که از میان خدایان تنها او را گرامی می‌دارد،"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_FA a :TranslationVariant ;
+:text "خواهد خواند، و شاید به این دست یابد که نمیرد،"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_FA a :TranslationVariant ;
+:text "یا دست‌کم آن‌گاه خواهد دانست که"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_FA a :TranslationVariant ;
+:text "رنجی افزون است گرامی داشتن امور هادس."^^xsd:string ;
+:relatedTo :Line_780 .

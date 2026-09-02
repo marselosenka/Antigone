@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-japanese a owl:Ontology .
+# Japanese translation variants for 966_to_987.ttl
+
+:TV_Line_966_JA a :TranslationVariant ;
+:text "そして二つの海の青黒い岩のそばに、"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_JA a :TranslationVariant ;
+:text "ボスポロスの岸とトラキア人の岸辺がある。"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Lines 968 and 969 do not exist in Antigone
+
+:TV_Line_970_JA a :TranslationVariant ;
+:text "サルミュデッソス、そこでは町近くのアレスが"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_JA a :TranslationVariant ;
+:text "二人のピネウスの子らに対して"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_JA a :TranslationVariant ;
+:text "呪われた傷を見た、"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_JA a :TranslationVariant ;
+:text "荒々しい妻によって盲目にされた傷を、"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_JA a :TranslationVariant ;
+:text "復讐をもたらす目の輪の中で見えぬものとなり、"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_JA a :TranslationVariant ;
+:text "血まみれの"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_JA a :TranslationVariant ;
+:text "手と織り杼の先端によって打ち砕かれたものを。"^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_JA a :TranslationVariant ;
+:text "そして溶け衰えながら、哀れな者たちは哀れな苦しみを"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Lines 978 and 979 do not exist in Antigone
+
+:TV_Line_980_JA a :TranslationVariant ;
+:text "泣いていた、母の婚なき出生を持ちながら。"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_JA a :TranslationVariant ;
+:text "その母は古く生まれた者たちの"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_JA a :TranslationVariant ;
+:text "エレクテウス家の種であり、"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_JA a :TranslationVariant ;
+:text "遠い洞窟の中で"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_JA a :TranslationVariant ;
+:text "父の嵐の中に育てられた。"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_JA a :TranslationVariant ;
+:text "ボレアス、馬と共に走る者、険しい崖の上を正しい足で越える者の"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_JA a :TranslationVariant ;
+:text "神々の子であった。だが彼女にもまた、"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_JA a :TranslationVariant ;
+:text "長命のモイライが及んだ、子よ。"^^xsd:string ;
+:relatedTo :Line_987 .

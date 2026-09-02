@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-japanese a owl:Ontology .
+# Japanese translation variants for 635_to_680.ttl
+
+:TV_Line_635_JA a :TranslationVariant ;
+:text "父よ、私はあなたのものです。そしてあなたは私のために"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_JA a :TranslationVariant ;
+:text "善い判断を持って私をまっすぐ導き、私はそれに従います。"^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_JA a :TranslationVariant ;
+:text "というのも、私にはどんな結婚も"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_JA a :TranslationVariant ;
+:text "あなたがよく導くことより大きく持ち上げられる価値はありません。"^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_JA a :TranslationVariant ;
+:text "そのように、息子よ、胸の中に持たねばならない、"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_JA a :TranslationVariant ;
+:text "父の判断の後ろにすべて立つべきだと。"^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_JA a :TranslationVariant ;
+:text "このためにこそ、男たちは祈るのだ、家の中に"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_JA a :TranslationVariant ;
+:text "従順な子らを生み持つことを。"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_JA a :TranslationVariant ;
+:text "敵には悪をもって報い、"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_JA a :TranslationVariant ;
+:text "友を父と等しく尊ぶために。"^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_JA a :TranslationVariant ;
+:text "だが役に立たぬ子を生む者を、"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_JA a :TranslationVariant ;
+:text "その者について何と言えるだろう、自分自身に苦労を"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_JA a :TranslationVariant ;
+:text "生み、敵たちに大きな笑いを生む以外に。"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_JA a :TranslationVariant ;
+:text "だから決して、息子よ、快楽によって心を"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_JA a :TranslationVariant ;
+:text "女のために投げ捨てるな、知っているがよい、"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_JA a :TranslationVariant ;
+:text "これは冷たい抱擁になるのだと、"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_JA a :TranslationVariant ;
+:text "悪い女が家で同じ寝床にいることは。というのも"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_JA a :TranslationVariant ;
+:text "悪い友より大きな傷が、何かあり得ようか。"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_JA a :TranslationVariant ;
+:text "むしろ唾を吐くように、敵として放っておけ、"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_JA a :TranslationVariant ;
+:text "この娘を、ハデスで誰かと結婚させるために。"^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_JA a :TranslationVariant ;
+:text "というのも、私は彼女を明白に捕らえたのだから、"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_JA a :TranslationVariant ;
+:text "町全体の中でただ一人、町に不信を働いた者として。"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_JA a :TranslationVariant ;
+:text "私は自分自身を町に対して偽りの者とはしない、"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_JA a :TranslationVariant ;
+:text "むしろ殺す。そのことについて、同血のゼウスへ歌わせておけ。"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_JA a :TranslationVariant ;
+:text "なぜなら、もし生まれながらの身内のことを"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_JA a :TranslationVariant ;
+:text "秩序なく育てるなら、なおさら血族の外の者たちをそうするだろう。"^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_JA a :TranslationVariant ;
+:text "というのも、自分の家の事柄において"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_JA a :TranslationVariant ;
+:text "善い男である者は、町においても正しい者として現れるだろう。"^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_JA a :TranslationVariant ;
+:text "だが、踏み越えて法を力ずくで犯す者、"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_JA a :TranslationVariant ;
+:text "あるいは支配する者たちに命令することを考える者、"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_JA a :TranslationVariant ;
+:text "その者が私から称賛を得ることはない。"^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_JA a :TranslationVariant ;
+:text "むしろ、町が立てた者には従わねばならない、"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_JA a :TranslationVariant ;
+:text "小さなことにも、正しいことにも、その反対のことにも。"^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_JA a :TranslationVariant ;
+:text "そしてそのような男ならば、私は信頼するだろう、"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_JA a :TranslationVariant ;
+:text "よく支配し、またよく支配されることを望む者として、"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_JA a :TranslationVariant ;
+:text "槍の嵐の中で任じられても、"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_JA a :TranslationVariant ;
+:text "正しく善い傍らの戦士として留まる者として。"^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_JA a :TranslationVariant ;
+:text "無秩序より大きな悪は存在しない。"^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_JA a :TranslationVariant ;
+:text "これが町々を滅ぼし、これが家々を"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_JA a :TranslationVariant ;
+:text "根こそぎにし、これが同盟の槍の"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_JA a :TranslationVariant ;
+:text "敗走を引き裂く。だが正しく立つ者たちの"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_JA a :TranslationVariant ;
+:text "多くの身体を救うのは服従である。"^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_JA a :TranslationVariant ;
+:text "このように秩序づけられた者たちを守らねばならず、"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_JA a :TranslationVariant ;
+:text "決して女に負けてはならない。"^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_JA a :TranslationVariant ;
+:text "もしどうしてもなら、男によって倒れる方がよい、"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_JA a :TranslationVariant ;
+:text "女たちに劣る者と呼ばれることはないだろうから。"^^xsd:string ;
+:relatedTo :Line_680 .

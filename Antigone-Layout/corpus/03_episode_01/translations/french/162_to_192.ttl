@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-french a owl:Ontology .
+# French translation variants for 162_to_192.ttl
+
+:TV_Line_162_FR a :TranslationVariant ;
+:text "Hommes, certes les affaires de la cité, en sûreté, les dieux"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_FR a :TranslationVariant ;
+:text "après les avoir secouées d’un grand roulis, les ont redressées de nouveau."^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_FR a :TranslationVariant ;
+:text "Quant à vous, moi, par des messagers, à part de tous les autres,"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_FR a :TranslationVariant ;
+:text "je vous ai fait venir, sachant d’abord que vous avez toujours"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_FR a :TranslationVariant ;
+:text "bien respecté les pouvoirs des trônes de Laïos,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_FR a :TranslationVariant ;
+:text "puis encore, lorsque Œdipe relevait la cité,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_FR a :TranslationVariant ;
+:text "et après qu’il eut péri, que vous demeuriez encore auprès de leurs enfants"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_FR a :TranslationVariant ;
+:text "avec des pensées fermes."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_FR a :TranslationVariant ;
+:text "Puisque donc ceux-là, par un double destin, en un seul"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_FR a :TranslationVariant ;
+:text "jour périrent, ayant frappé et"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_FR a :TranslationVariant ;
+:text "ayant été frappés, avec souillure de leurs propres mains,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_FR a :TranslationVariant ;
+:text "moi, désormais, je possède tous les pouvoirs et les trônes"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_FR a :TranslationVariant ;
+:text "par proximité de parenté avec les morts."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_FR a :TranslationVariant ;
+:text "Il est impossible d’apprendre entièrement, de tout homme,"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_FR a :TranslationVariant ;
+:text "son âme, son esprit et son jugement, avant qu’il"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_FR a :TranslationVariant ;
+:text "ne se montre éprouvé dans les charges et dans les lois."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_FR a :TranslationVariant ;
+:text "Car pour moi, quiconque, dirigeant toute une cité,"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_FR a :TranslationVariant ;
+:text "ne saisit pas les meilleurs conseils,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_FR a :TranslationVariant ;
+:text "mais, par quelque crainte, tient sa langue enfermée,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_FR a :TranslationVariant ;
+:text "celui-là me paraît le pire, maintenant comme jadis ;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_FR a :TranslationVariant ;
+:text "et celui qui tient pour plus grand qu’à sa propre patrie"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_FR a :TranslationVariant ;
+:text "un ami, celui-là, je dis qu’il ne compte nulle part."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_FR a :TranslationVariant ;
+:text "Car moi, que le sache Zeus qui voit toujours toute chose,"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_FR a :TranslationVariant ;
+:text "je ne pourrais ni me taire en voyant le malheur"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_FR a :TranslationVariant ;
+:text "marcher vers les citoyens au lieu du salut,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_FR a :TranslationVariant ;
+:text "ni jamais établir comme ami pour moi un homme ennemi"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_FR a :TranslationVariant ;
+:text "du pays, sachant ceci :"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_FR a :TranslationVariant ;
+:text "c’est elle qui sauve, et sur elle"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_FR a :TranslationVariant ;
+:text "naviguant droite, nous nous faisons des amis."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_FR a :TranslationVariant ;
+:text "Par de telles lois, moi, j’accroîtrai cette cité."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_FR a :TranslationVariant ;
+:text "Et maintenant j’ai proclamé aux citoyens des choses parentes de celles-ci"^^xsd:string ;
+:relatedTo :Line_192 .

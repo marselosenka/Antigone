@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-536-562-portuguese a owl:Ontology .
+# Portuguese translation variants for 536_to_562.ttl
+
+:TV_Line_536_PT a :TranslationVariant ;
+:text "Fiz o feito, se esta concorda,"^^xsd:string ;
+:relatedTo :Line_536 .
+
+:TV_Line_537_PT a :TranslationVariant ;
+:text "e participo junto e carrego a culpa."^^xsd:string ;
+:relatedTo :Line_537 .
+
+:TV_Line_538_PT a :TranslationVariant ;
+:text "Mas a justiça não te permitirá isto, pois"^^xsd:string ;
+:relatedTo :Line_538 .
+
+:TV_Line_539_PT a :TranslationVariant ;
+:text "nem quiseste nem eu te fiz parceira."^^xsd:string ;
+:relatedTo :Line_539 .
+
+:TV_Line_540_PT a :TranslationVariant ;
+:text "Mas em teus males não me envergonho"^^xsd:string ;
+:relatedTo :Line_540 .
+
+:TV_Line_541_PT a :TranslationVariant ;
+:text "de fazer-me companheira de navegação da dor."^^xsd:string ;
+:relatedTo :Line_541 .
+
+:TV_Line_542_PT a :TranslationVariant ;
+:text "De quem foi o feito, Hades e os de baixo são testemunhas;"^^xsd:string ;
+:relatedTo :Line_542 .
+
+:TV_Line_543_PT a :TranslationVariant ;
+:text "mas eu não amo amiga que ama em palavras."^^xsd:string ;
+:relatedTo :Line_543 .
+
+:TV_Line_544_PT a :TranslationVariant ;
+:text "Não, irmã, não me desonres, impedindo-me"^^xsd:string ;
+:relatedTo :Line_544 .
+
+:TV_Line_545_PT a :TranslationVariant ;
+:text "de morrer contigo e purificar o morto."^^xsd:string ;
+:relatedTo :Line_545 .
+
+:TV_Line_546_PT a :TranslationVariant ;
+:text "Não morras comigo, nem faças teu"^^xsd:string ;
+:relatedTo :Line_546 .
+
+:TV_Line_547_PT a :TranslationVariant ;
+:text "aquilo que não tocaste. Bastarei eu morrendo."^^xsd:string ;
+:relatedTo :Line_547 .
+
+:TV_Line_548_PT a :TranslationVariant ;
+:text "E que vida me será querida, restando sem ti?"^^xsd:string ;
+:relatedTo :Line_548 .
+
+:TV_Line_549_PT a :TranslationVariant ;
+:text "Pergunta a Creonte; pois tu cuidas dele."^^xsd:string ;
+:relatedTo :Line_549 .
+
+:TV_Line_550_PT a :TranslationVariant ;
+:text "Por que me afliges com isto, sem proveito algum?"^^xsd:string ;
+:relatedTo :Line_550 .
+
+:TV_Line_551_PT a :TranslationVariant ;
+:text "Com dor, sim, se rio de ti, rio com dor."^^xsd:string ;
+:relatedTo :Line_551 .
+
+:TV_Line_552_PT a :TranslationVariant ;
+:text "Como então ainda poderia eu te ajudar agora?"^^xsd:string ;
+:relatedTo :Line_552 .
+
+:TV_Line_553_PT a :TranslationVariant ;
+:text "Salva-te a ti mesma; não te invejo escapar."^^xsd:string ;
+:relatedTo :Line_553 .
+
+:TV_Line_554_PT a :TranslationVariant ;
+:text "Ai de mim, infeliz, e falharei em tua sorte?"^^xsd:string ;
+:relatedTo :Line_554 .
+
+:TV_Line_555_PT a :TranslationVariant ;
+:text "Pois tu escolheste viver, eu morrer."^^xsd:string ;
+:relatedTo :Line_555 .
+
+:TV_Line_556_PT a :TranslationVariant ;
+:text "Mas não foi por palavras minhas não ditas."^^xsd:string ;
+:relatedTo :Line_556 .
+
+:TV_Line_557_PT a :TranslationVariant ;
+:text "Tu parecias pensar bem a uns, eu a outros."^^xsd:string ;
+:relatedTo :Line_557 .
+
+:TV_Line_558_PT a :TranslationVariant ;
+:text "E contudo igual é o erro de nós duas."^^xsd:string ;
+:relatedTo :Line_558 .
+
+:TV_Line_559_PT a :TranslationVariant ;
+:text "Tem coragem; tu vives, mas minha alma há muito"^^xsd:string ;
+:relatedTo :Line_559 .
+
+:TV_Line_560_PT a :TranslationVariant ;
+:text "morreu, para ajudar os mortos."^^xsd:string ;
+:relatedTo :Line_560 .
+
+:TV_Line_561_PT a :TranslationVariant ;
+:text "Digo que destas duas meninas uma agora"^^xsd:string ;
+:relatedTo :Line_561 .
+
+:TV_Line_562_PT a :TranslationVariant ;
+:text "se mostrou sem juízo, a outra desde que primeiro nasceu."^^xsd:string ;
+:relatedTo :Line_562 .

@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-indonesian a owl:Ontology .
+# Indonesian translation variants for 331_to_365.ttl
+
+:TV_Line_331_ID a :TranslationVariant ;
+:text "Setelah selamat, aku berutang banyak syukur kepada para dewa."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_ID a :TranslationVariant ;
+:text "Banyaklah hal yang mengagumkan, dan tidak ada"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_ID a :TranslationVariant ;
+:text "yang lebih mengagumkan daripada manusia."^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_ID a :TranslationVariant ;
+:text "Ia juga menyeberangi"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_ID a :TranslationVariant ;
+:text "laut kelabu dengan angin selatan musim dingin,"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_ID a :TranslationVariant ;
+:text "maju, melewati bawah"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_ID a :TranslationVariant ;
+:text "gelombang-gelombang yang bergemuruh; dan dari para dewa,"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_ID a :TranslationVariant ;
+:text "Bumi yang tertinggi,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_ID a :TranslationVariant ;
+:text "yang tak binasa dan tak lelah, ia auskan,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_ID a :TranslationVariant ;
+:text "ketika bajak-bajak berputar tahun demi tahun,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_ID a :TranslationVariant ;
+:text "mengerjakannya dengan keturunan kuda."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_ID a :TranslationVariant ;
+:text "Dan bangsa burung yang berpikiran ringan,"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_ID a :TranslationVariant ;
+:text "dengan mengepungnya, ia tangkap,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_ID a :TranslationVariant ;
+:text "juga suku-suku binatang liar"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_ID a :TranslationVariant ;
+:text "dan kodrat yang hidup di laut,"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_ID a :TranslationVariant ;
+:text "dengan jerat-jerat jaring teranyam,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_ID a :TranslationVariant ;
+:text "manusia yang sangat cerdik; ia menguasai"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_ID a :TranslationVariant ;
+:text "dengan alat-alatnya binatang liar yang hidup di padang,"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in Antigone
+
+:TV_Line_350_ID a :TranslationVariant ;
+:text "binatang gunung yang melintasi pegunungan, dan kuda berleher berbulu"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_ID a :TranslationVariant ;
+:text "ia bawa di bawah kuk yang melingkari tengkuk,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_ID a :TranslationVariant ;
+:text "dan banteng gunung yang tak kenal lelah."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Line 353 and 354 do not exist in Antigone
+
+:TV_Line_355_ID a :TranslationVariant ;
+:text "Dan bahasa, dan pikiran seperti angin, dan watak"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_ID a :TranslationVariant ;
+:text "yang mengatur kota telah ia ajarkan kepada dirinya, serta cara menghindari"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_ID a :TranslationVariant ;
+:text "beku tempat terbuka yang sulit didiami dan panah hujan yang buruk;"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_ID a :TranslationVariant ;
+:text "mahir menempuh segala jalan; tanpa jalan menuju apa pun ia tidak datang"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in Antigone
+
+:TV_Line_360_ID a :TranslationVariant ;
+:text "di masa depan; hanya dari Hades ia tidak akan memperoleh pelarian;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_ID a :TranslationVariant ;
+:text "tetapi dari penyakit yang tak berdaya ia telah merancang jalan lari."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Line 362, 363, 364 and 365 do not exist in Antigone

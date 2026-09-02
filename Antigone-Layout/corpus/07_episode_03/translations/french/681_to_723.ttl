@@ -1,0 +1,136 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-french a owl:Ontology .
+# French translation variants for 681_to_723.ttl
+
+# Line 681 does not exist in canonical.
+
+:TV_Line_682_FR a :TranslationVariant ;
+:text "tu sembles parler avec bon sens au sujet de ce que tu dis."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_FR a :TranslationVariant ;
+:text "la plus haute de toutes les possessions qui existent."^^xsd:string ;
+:relatedTo :Line_683 .
+
+# Line 684 does not exist in canonical.
+
+:TV_Line_685_FR a :TranslationVariant ;
+:text "Mais moi, que toi tu ne dises pas correctement ces choses,"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_FR a :TranslationVariant ;
+:text "je ne pourrais ni ne saurais le dire."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_FR a :TranslationVariant ;
+:text "Pourtant il pourrait arriver qu’un autre voie bien."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_FR a :TranslationVariant ;
+:text "si quelqu’un parle, ou agit, ou a quelque blâme à faire."^^xsd:string ;
+:relatedTo :Line_688 .
+
+# Line 689 does not exist in canonical.
+
+:TV_Line_690_FR a :TranslationVariant ;
+:text "Il m’est possible d’entendre ces choses dans l’ombre,"^^xsd:string ;
+:relatedTo :Line_690 .
+
+# Lines 691 and 692 do not exist in canonical.
+
+:TV_Line_693_FR a :TranslationVariant ;
+:text "comme la plus indigne de toutes les femmes,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+# Line 694 does not exist in canonical.
+
+:TV_Line_695_FR a :TranslationVariant ;
+:text "elle périt de la pire manière pour les plus glorieux des actes."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_FR a :TranslationVariant ;
+:text "Celui qui était tombé sans sépulture, ni par les chiens mangeurs de chair crue"^^xsd:string ;
+:relatedTo :Line_696 .
+
+# Line 697 does not exist in canonical.
+
+:TV_Line_698_FR a :TranslationVariant ;
+:text "elle ne l’a pas laissé périr, ni par aucun des oiseaux."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_FR a :TranslationVariant ;
+:text "Pour moi, quand toi, père, tu agis heureusement,"^^xsd:string ;
+:relatedTo :Line_699 .
+
+# Lines 700 and 701 do not exist in canonical.
+
+:TV_Line_702_FR a :TranslationVariant ;
+:text "il n’existe aucun bien plus précieux,"^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_FR a :TranslationVariant ;
+:text "car pour les enfants, quelle parure plus grande que la gloire florissante d’un père,"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_FR a :TranslationVariant ;
+:text "ou quelle parure plus grande pour un père venant de ses enfants ?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_FR a :TranslationVariant ;
+:text "que ce que tu dis, toi, et rien d’autre, soit bien."^^xsd:string ;
+:relatedTo :Line_705 .
+
+# Line 706 does not exist in canonical.
+
+:TV_Line_707_FR a :TranslationVariant ;
+:text "Car quiconque croit, lui seul, penser,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_FR a :TranslationVariant ;
+:text "ou posséder une langue que nul autre n’a, ou une âme,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_FR a :TranslationVariant ;
+:text "ceux-là, une fois ouverts, se sont montrés vides."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_FR a :TranslationVariant ;
+:text "beaucoup de choses ; il n’est en rien honteux aussi de ne pas trop tendre."^^xsd:string ;
+:relatedTo :Line_710 .
+
+# Line 711 does not exist in canonical.
+
+:TV_Line_712_FR a :TranslationVariant ;
+:text "De même, celui qui, d’un navire, tient ferme le pied"^^xsd:string ;
+:relatedTo :Line_712 .
+
+# Lines 713, 714 and 715 do not exist in canonical.
+
+:TV_Line_716_FR a :TranslationVariant ;
+:text "tendu, ne cède en rien, renversé en bas,"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_FR a :TranslationVariant ;
+:text "Car si quelque jugement vient aussi de moi, plus jeune,"^^xsd:string ;
+:relatedTo :Line_717 .
+
+# Lines 718 and 719 do not exist in canonical.
+
+:TV_Line_720_FR a :TranslationVariant ;
+:text "je dis, moi, qu’il est de beaucoup préférable"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_FR a :TranslationVariant ;
+:text "qu’un homme soit né plein de toute connaissance ;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_FR a :TranslationVariant ;
+:text "mais sinon, car cela n’a pas coutume de pencher ainsi,"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_FR a :TranslationVariant ;
+:text "apprendre de toi aussi ceci ; car c’est bien dit des deux côtés."^^xsd:string ;
+:relatedTo :Line_723 .

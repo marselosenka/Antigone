@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-indonesian a owl:Ontology .
+# Indonesian translation variants for 162_to_192.ttl
+
+:TV_Line_162_ID a :TranslationVariant ;
+:text "Para lelaki, perkara-perkara kota ini dengan aman telah para dewa"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_ID a :TranslationVariant ;
+:text "tegakkan kembali, setelah mengguncangnya dengan gelombang besar;"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_ID a :TranslationVariant ;
+:text "dan dari semua orang, kalianlah yang secara terpisah dengan utusan"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_ID a :TranslationVariant ;
+:text "kupanggil untuk datang, pertama karena aku tahu kalian selalu"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_ID a :TranslationVariant ;
+:text "menghormati dengan baik kuasa takhta Laios,"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_ID a :TranslationVariant ;
+:text "dan lagi, ketika Oidipus menegakkan kota,"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_ID a :TranslationVariant ;
+:text "dan setelah ia binasa, kalian tetap berada di sekitar anak-anak mereka"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_ID a :TranslationVariant ;
+:text "dengan pikiran yang teguh."^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_ID a :TranslationVariant ;
+:text "Maka ketika mereka, oleh nasib ganda, dalam satu"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_ID a :TranslationVariant ;
+:text "hari binasa, memukul dan"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_ID a :TranslationVariant ;
+:text "dipukul dengan pencemaran oleh tangan sendiri,"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_ID a :TranslationVariant ;
+:text "aku kini memegang semua kuasa dan takhta"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_ID a :TranslationVariant ;
+:text "menurut kedekatan kekerabatan dengan mereka yang binasa."^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_ID a :TranslationVariant ;
+:text "Namun mustahil mempelajari sepenuhnya jiwa"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_ID a :TranslationVariant ;
+:text "dan pikiran dan pendapat setiap lelaki, sebelum"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_ID a :TranslationVariant ;
+:text "ia tampak teruji dalam jabatan dan hukum."^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_ID a :TranslationVariant ;
+:text "Sebab bagiku, siapa pun yang mengarahkan seluruh kota"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_ID a :TranslationVariant ;
+:text "tetapi tidak berpegang pada nasihat-nasihat terbaik,"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_ID a :TranslationVariant ;
+:text "melainkan karena suatu takut mengunci lidahnya,"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_ID a :TranslationVariant ;
+:text "tampak sebagai yang terburuk, sekarang maupun sejak dahulu;"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_ID a :TranslationVariant ;
+:text "dan siapa pun yang menganggap sahabat lebih besar daripada tanah airnya sendiri,"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_ID a :TranslationVariant ;
+:text "orang itu kuanggap tidak bernilai sama sekali."^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_ID a :TranslationVariant ;
+:text "Sebab aku, biarlah Zeus yang selalu melihat segala hal tahu,"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_ID a :TranslationVariant ;
+:text "tidak akan pernah diam bila melihat kehancuran"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_ID a :TranslationVariant ;
+:text "mendatangi warga sebagai ganti keselamatan,"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_ID a :TranslationVariant ;
+:text "dan tidak akan pernah menjadikan lelaki yang memusuhi negeri"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_ID a :TranslationVariant ;
+:text "sebagai sahabat bagiku, karena mengetahui ini:"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_ID a :TranslationVariant ;
+:text "negeri inilah yang menyelamatkan, dan di atasnya"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_ID a :TranslationVariant ;
+:text "saat berlayar lurus kita menjadikan sahabat-sahabat kita."^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_ID a :TranslationVariant ;
+:text "Dengan hukum-hukum seperti inilah aku akan membesarkan kota ini."^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_ID a :TranslationVariant ;
+:text "Dan sekarang, sejalan dengan hal-hal ini, telah kuumumkan"^^xsd:string ;
+:relatedTo :Line_192 .

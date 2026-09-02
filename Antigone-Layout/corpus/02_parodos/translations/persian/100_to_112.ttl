@@ -1,0 +1,58 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-100-112-persian a owl:Ontology .
+# Persian translation variants for 100_to_112.ttl
+
+:TV_Line_100_FA a :TranslationVariant ;
+:text "ای پرتو خورشید، زیباترین"^^xsd:string ;
+:relatedTo :Line_100 .
+
+:TV_Line_101_FA a :TranslationVariant ;
+:text "نوری که بر تبای هفت‌دروازه آشکار شد،"^^xsd:string ;
+:relatedTo :Line_101 .
+
+:TV_Line_102_FA a :TranslationVariant ;
+:text "روشنایی‌ای برتر از روشنایی‌های پیشین،"^^xsd:string ;
+:relatedTo :Line_102 .
+
+:TV_Line_103_FA a :TranslationVariant ;
+:text "سرانجام پدیدار شدی، ای چشم"^^xsd:string ;
+:relatedTo :Line_103 .
+
+:TV_Line_104_FA a :TranslationVariant ;
+:text "روز زرین، بر فراز جریان‌های"^^xsd:string ;
+:relatedTo :Line_104 .
+
+:TV_Line_105_FA a :TranslationVariant ;
+:text "دیرکه آمدی،"^^xsd:string ;
+:relatedTo :Line_105 .
+
+:TV_Line_106_FA a :TranslationVariant ;
+:text "و مرد سپرسفید را از آرگوس،"^^xsd:string ;
+:relatedTo :Line_106 .
+
+:TV_Line_107_FA a :TranslationVariant ;
+:text "که با سازوبرگ کامل آمده بود،"^^xsd:string ;
+:relatedTo :Line_107 .
+
+:TV_Line_108_FA a :TranslationVariant ;
+:text "به گریز پیشتازانه واداشتی، با لگامی"^^xsd:string ;
+:relatedTo :Line_108 .
+
+:TV_Line_109_FA a :TranslationVariant ;
+:text "تیزتر برانگیخته."^^xsd:string ;
+:relatedTo :Line_109 .
+
+:TV_Line_110_FA a :TranslationVariant ;
+:text "او را پولونیکِس بر ضد سرزمین ما،"^^xsd:string ;
+:relatedTo :Line_110 .
+
+:TV_Line_111_FA a :TranslationVariant ;
+:text "برخاسته از ستیزه‌های دوپهلو،"^^xsd:string ;
+:relatedTo :Line_111 .
+
+:TV_Line_112_FA a :TranslationVariant ;
+:text "به دشمنی آورد؛ و او، تیز فریادکنان،"^^xsd:string ;
+:relatedTo :Line_112 .

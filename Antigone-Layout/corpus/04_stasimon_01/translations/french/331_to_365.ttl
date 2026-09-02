@@ -1,0 +1,132 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-french a owl:Ontology .
+# French translation variants for 331_to_365.ttl
+
+:TV_Line_331_FR a :TranslationVariant ;
+:text "Sauvé, je dois aux dieux une grande reconnaissance."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_FR a :TranslationVariant ;
+:text "Nombreuses sont les choses terribles, et rien"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_FR a :TranslationVariant ;
+:text "n’est plus terrible que l’homme."^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_FR a :TranslationVariant ;
+:text "Lui aussi, au-delà de la mer grise,"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_FR a :TranslationVariant ;
+:text "par le vent du sud hivernal,"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_FR a :TranslationVariant ;
+:text "avance, passant"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_FR a :TranslationVariant ;
+:text "sous les flots mugissants ; et, des dieux,"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_FR a :TranslationVariant ;
+:text "la plus haute, la Terre,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_FR a :TranslationVariant ;
+:text "impérissable, infatigable, il l’épuise,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_FR a :TranslationVariant ;
+:text "les charrues tournant d’année en année,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_FR a :TranslationVariant ;
+:text "la travaillant avec la race chevaline."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_FR a :TranslationVariant ;
+:text "Et la race légère d’esprit des"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_FR a :TranslationVariant ;
+:text "oiseaux, l’ayant enveloppée, il la chasse,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_FR a :TranslationVariant ;
+:text "ainsi que les peuples des bêtes sauvages"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_FR a :TranslationVariant ;
+:text "et la nature marine de la mer"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_FR a :TranslationVariant ;
+:text "dans les replis de filets tissés,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_FR a :TranslationVariant ;
+:text "l’homme très ingénieux ; il domine"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_FR a :TranslationVariant ;
+:text "par ses artifices la bête sauvage"^^xsd:string ;
+:relatedTo :Line_348 .
+
+:TV_Line_349_FR a :TranslationVariant ;
+:text "qui parcourt les montagnes, et celle au cou velu"^^xsd:string ;
+:relatedTo :Line_349 .
+
+:TV_Line_350_FR a :TranslationVariant ;
+:text "la bête qui parcourt les montagnes, et celle au cou velu"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_FR a :TranslationVariant ;
+:text "le cheval, il le fait passer sous le joug qui entoure la crinière,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_FR a :TranslationVariant ;
+:text "et le taureau montagnard infatigable."^^xsd:string ;
+:relatedTo :Line_352 .
+
+:TV_Line_353_FR a :TranslationVariant ;
+:text "La pensée et les dispositions"^^xsd:string ;
+:relatedTo :Line_353 .
+
+:TV_Line_354_FR a :TranslationVariant ;
+:text "qui ordonnent les cités, il se les est enseignées, et des demeures pénibles"^^xsd:string ;
+:relatedTo :Line_354 .
+
+:TV_Line_355_FR a :TranslationVariant ;
+:text "et la parole, et la pensée venteuse, et les dispositions qui ordonnent les cités,"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_FR a :TranslationVariant ;
+:text "il se les est enseignées, et des demeures pénibles"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_FR a :TranslationVariant ;
+:text "à fuir les traits à ciel ouvert, glacés et pluvieux,"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_FR a :TranslationVariant ;
+:text "riche en ressources pour tout ; sans ressource, vers rien il ne marche"^^xsd:string ;
+:relatedTo :Line_358 .
+
+:TV_Line_359_FR a :TranslationVariant ;
+:text "il ne se procurera pas d’échappatoire ;"^^xsd:string ;
+:relatedTo :Line_359 .
+
+:TV_Line_360_FR a :TranslationVariant ;
+:text "l’avenir ; à Hadès seul il ne se procurera pas d’échappatoire ;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_FR a :TranslationVariant ;
+:text "mais contre les maladies sans remède, il a imaginé des fuites."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364 and 365 do not exist in canonical.

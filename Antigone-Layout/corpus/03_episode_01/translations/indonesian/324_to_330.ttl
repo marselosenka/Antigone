@@ -1,0 +1,34 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-324-330-indonesian a owl:Ontology .
+# Indonesian translation variants for 324_to_330.ttl
+
+:TV_Line_324_ID a :TranslationVariant ;
+:text "Sekarang perindahlah pendapatmu; tetapi jika kalian tidak"^^xsd:string ;
+:relatedTo :Line_324 .
+
+:TV_Line_325_ID a :TranslationVariant ;
+:text "menampakkan kepadaku para pelakunya, kalian akan menyatakan"^^xsd:string ;
+:relatedTo :Line_325 .
+
+:TV_Line_326_ID a :TranslationVariant ;
+:text "bahwa keuntungan-keuntungan hina menghasilkan malapetaka."^^xsd:string ;
+:relatedTo :Line_326 .
+
+:TV_Line_327_ID a :TranslationVariant ;
+:text "Semoga ia ditemukan, terutama; tetapi jika memang"^^xsd:string ;
+:relatedTo :Line_327 .
+
+:TV_Line_328_ID a :TranslationVariant ;
+:text "ia tertangkap atau tidak, sebab nasib akan memutuskan hal ini,"^^xsd:string ;
+:relatedTo :Line_328 .
+
+:TV_Line_329_ID a :TranslationVariant ;
+:text "tidak mungkin engkau akan melihat aku datang kemari lagi."^^xsd:string ;
+:relatedTo :Line_329 .
+
+:TV_Line_330_ID a :TranslationVariant ;
+:text "Sebab sekarang pun, di luar harapan dan pendapatku,"^^xsd:string ;
+:relatedTo :Line_330 .

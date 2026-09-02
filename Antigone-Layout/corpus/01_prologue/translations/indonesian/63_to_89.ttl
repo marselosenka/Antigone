@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-indonesian a owl:Ontology .
+# Indonesian translation variants for 63_to_89.ttl
+
+:TV_Line_063_ID a :TranslationVariant ;
+:text "lalu juga karena kita diperintah oleh yang lebih kuat"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_ID a :TranslationVariant ;
+:text "dan harus mendengar hal-hal ini, bahkan yang lebih menyakitkan lagi."^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_ID a :TranslationVariant ;
+:text "Maka aku, dengan memohon kepada mereka yang di bawah tanah"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_ID a :TranslationVariant ;
+:text "agar memberi pengampunan, karena aku dipaksa dalam hal ini,"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_ID a :TranslationVariant ;
+:text "akan patuh kepada mereka yang berdiri dalam kekuasaan; sebab"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_ID a :TranslationVariant ;
+:text "melakukan hal berlebihan tidak memiliki akal sama sekali."^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_ID a :TranslationVariant ;
+:text "Aku tidak akan menyuruhmu, dan tidak pula, jika engkau masih mau"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_ID a :TranslationVariant ;
+:text "bertindak, engkau akan melakukannya dengan senang bersama diriku."^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_ID a :TranslationVariant ;
+:text "Tetapi ketahuilah apa yang tampak baik bagimu; aku akan"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_ID a :TranslationVariant ;
+:text "menguburnya. Indah bagiku mati ketika melakukan ini."^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_ID a :TranslationVariant ;
+:text "Tercinta bersama dia aku akan berbaring, bersama yang tercinta,"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_ID a :TranslationVariant ;
+:text "setelah melakukan kejahatan yang suci; sebab lebih panjanglah waktu"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_ID a :TranslationVariant ;
+:text "aku harus menyenangkan mereka di bawah daripada mereka di sini."^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_ID a :TranslationVariant ;
+:text "Sebab di sana aku akan berbaring selamanya; tetapi engkau, jika mau,"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_ID a :TranslationVariant ;
+:text "hinakanlah hal-hal para dewa yang terhormat."^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_ID a :TranslationVariant ;
+:text "Aku sendiri tidak menjadikannya tidak terhormat, tetapi"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_ID a :TranslationVariant ;
+:text "aku lahir tak berdaya untuk bertindak dengan kekuatan melawan warga."^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_ID a :TranslationVariant ;
+:text "Engkau boleh mengemukakan hal-hal itu; tetapi aku akan pergi"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_ID a :TranslationVariant ;
+:text "untuk menimbunkan makam bagi saudaraku yang paling tercinta."^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_ID a :TranslationVariant ;
+:text "Aduhai, betapa aku sangat takut bagimu, wahai yang malang."^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_ID a :TranslationVariant ;
+:text "Jangan takut lebih dulu untukku; luruskanlah nasibmu sendiri."^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_ID a :TranslationVariant ;
+:text "Namun setidaknya jangan lebih dulu memberitahukan perbuatan ini"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_ID a :TranslationVariant ;
+:text "kepada siapa pun, tetapi sembunyikanlah diam-diam; aku pun demikian."^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_ID a :TranslationVariant ;
+:text "Aduhai, umumkanlah; engkau akan jauh lebih kubenci"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_ID a :TranslationVariant ;
+:text "jika diam, kecuali kau maklumkan hal ini kepada semua orang."^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_ID a :TranslationVariant ;
+:text "Engkau mempunyai hati panas atas perkara-perkara dingin."^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_ID a :TranslationVariant ;
+:text "Tetapi aku tahu aku menyenangkan mereka yang paling perlu kusenangkan."^^xsd:string ;
+:relatedTo :Line_089 .

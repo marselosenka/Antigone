@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-german a owl:Ontology .
+# German translation variants for 223_to_252.ttl
+
+:TV_Line_223_DE a :TranslationVariant ;
+:text "Herr, ich werde nicht sagen, dass ich unter Eile"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_DE a :TranslationVariant ;
+:text "atemlos ankomme und einen leichten Fuß erhoben habe."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_DE a :TranslationVariant ;
+:text "Denn ich hatte viele Aufenthalte der Gedanken,"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_DE a :TranslationVariant ;
+:text "mich auf den Wegen zur Umkehr im Kreis drehend;"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_DE a :TranslationVariant ;
+:text "denn meine Seele sprach viel zu mir, erzählend:"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_DE a :TranslationVariant ;
+:text "Unglücklicher, warum gehst du dorthin, wo du angekommen Strafe zahlen wirst?"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_DE a :TranslationVariant ;
+:text "Armer, bleibst du wieder? Und wenn Kreon dies"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_DE a :TranslationVariant ;
+:text "von einem anderen Mann erfährt, wie wirst du dann nicht leiden?"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_DE a :TranslationVariant ;
+:text "Solches wälzend kam ich langsam und mit Muße voran,"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_DE a :TranslationVariant ;
+:text "und so wird ein kurzer Weg lang."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_DE a :TranslationVariant ;
+:text "Am Ende jedoch siegte es, hierher zu kommen,"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_DE a :TranslationVariant ;
+:text "zu dir; und wenn ich auch nichts sagen werde, werde ich dennoch sprechen."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_DE a :TranslationVariant ;
+:text "Denn ich komme, an der Hoffnung festgeklammert,"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_DE a :TranslationVariant ;
+:text "nichts anderes zu erleiden als das Schicksalsmäßige."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_DE a :TranslationVariant ;
+:text "Was ist es denn, weswegen du diese Mutlosigkeit hast?"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_DE a :TranslationVariant ;
+:text "Zuerst will ich dir sagen, was mich betrifft; denn die Sache,"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_DE a :TranslationVariant ;
+:text "ich tat sie nicht und sah auch nicht, wer der Täter war,"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_DE a :TranslationVariant ;
+:text "und mit Recht dürfte ich in kein Übel fallen."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_DE a :TranslationVariant ;
+:text "Gut zielst du und verriegelst ringsum"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_DE a :TranslationVariant ;
+:text "die Sache; du zeigst, dass du etwas Neues melden wirst."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_DE a :TranslationVariant ;
+:text "Denn die schrecklichen Dinge legen viel Zögern hinzu."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_DE a :TranslationVariant ;
+:text "Wirst du denn niemals sprechen und dann, befreit, fortgehen?"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_DE a :TranslationVariant ;
+:text "Und nun sage ich es dir: Den Toten hat jemand gerade eben"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_DE a :TranslationVariant ;
+:text "bestattet und ist fortgegangen, nachdem er auf die Haut trockenen"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_DE a :TranslationVariant ;
+:text "Staub gestreut und die nötigen heiligen Riten vollzogen hatte."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_DE a :TranslationVariant ;
+:text "Was sagst du? Welcher Mann war es, der dies wagte?"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_DE a :TranslationVariant ;
+:text "Ich weiß es nicht; dort war nämlich weder irgendeines Pickels"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_DE a :TranslationVariant ;
+:text "Schlag noch der Auswurf einer Hacke; hart war die Erde"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_DE a :TranslationVariant ;
+:text "und trocken, nicht aufgerissen und nicht überfahren"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_DE a :TranslationVariant ;
+:text "von Rädern; sondern spurlos war der Täter irgendeiner."^^xsd:string ;
+:relatedTo :Line_252 .

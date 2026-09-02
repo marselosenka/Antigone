@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-persian a owl:Ontology .
+# Persian translation variants for 724_to_761.ttl
+
+:TV_Line_724_FA a :TranslationVariant ;
+:text "ای شاه، شایسته است تو نیز، اگر او چیزی به‌جا می‌گوید،"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_FA a :TranslationVariant ;
+:text "بیاموزی، و او نیز از تو؛ زیرا از هر دو سو نیک گفته شده است."^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_FA a :TranslationVariant ;
+:text "آیا ما در این سن و سال نیز باید آموخته شویم،"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_FA a :TranslationVariant ;
+:text "تا ذاتِ خرد را از مردی به این جوانی بیاموزیم؟"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_FA a :TranslationVariant ;
+:text "هیچ چیز ناعادلانه را نه؛ و اگر من جوانم،"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_FA a :TranslationVariant ;
+:text "نباید زمان را بیشتر از کارها سنجید."^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_FA a :TranslationVariant ;
+:text "آیا گرامی داشتن بی‌نظمان کاری درست است؟"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_FA a :TranslationVariant ;
+:text "من هرگز فرمان نمی‌دادم که نسبت به بدان پارسایی کنند."^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_FA a :TranslationVariant ;
+:text "آیا این زن به چنین بیماری‌ای گرفتار نشده است؟"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_FA a :TranslationVariant ;
+:text "مردم هم‌شهرِ این تبای چنین نمی‌گویند."^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_FA a :TranslationVariant ;
+:text "پس شهر به ما خواهد گفت چه باید فرمان دهیم؟"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_FA a :TranslationVariant ;
+:text "می‌بینی این را چگونه گفته‌ای، چنان‌که بسیار جوانی؟"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_FA a :TranslationVariant ;
+:text "آیا باید برای دیگری جز خودم بر این خاک فرمان برانم؟"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_FA a :TranslationVariant ;
+:text "شهری وجود ندارد که از آنِ یک مرد باشد."^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_FA a :TranslationVariant ;
+:text "آیا شهر از آنِ کسی که قدرت دارد شمرده نمی‌شود؟"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_FA a :TranslationVariant ;
+:text "به‌راستی تو تنها بر سرزمینی تهی خوب فرمان خواهی راند."^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_FA a :TranslationVariant ;
+:text "این مرد، چنان‌که پیداست، با زن هم‌پیمان است."^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_FA a :TranslationVariant ;
+:text "اگر تو زن باشی؛ زیرا به‌هرحال من پیشاپیش غم تو را دارم."^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_FA a :TranslationVariant ;
+:text "ای سراپا بدترین، آیا با پدرت به داوری می‌آیی؟"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_FA a :TranslationVariant ;
+:text "زیرا می‌بینم که تو در چیزهای ناعادلانه خطا می‌کنی."^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_FA a :TranslationVariant ;
+:text "آیا خطا می‌کنم چون فرمانروایی‌های خودم را گرامی می‌دارم؟"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_FA a :TranslationVariant ;
+:text "زیرا گرامی نمی‌داری، بلکه حرمت‌های خدایان را لگدمال می‌کنی."^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_FA a :TranslationVariant ;
+:text "ای خوی آلوده و پست‌تر از زن."^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_FA a :TranslationVariant ;
+:text "اما مرا فرودست چیزهای شرم‌آور نخواهی گرفت."^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_FA a :TranslationVariant ;
+:text "دست‌کم همه سخن تو به سود آن زن است."^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_FA a :TranslationVariant ;
+:text "و به سود تو و من نیز، و خدایان زیرین."^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_FA a :TranslationVariant ;
+:text "هرگز چنین نیست که او را، تا زنده است، به زنی بگیری."^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_FA a :TranslationVariant ;
+:text "پس او خواهد مرد، و با مردنش کسی را نابود خواهد کرد."^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_FA a :TranslationVariant ;
+:text "آیا با تهدید کردن چنین گستاخانه به پیش می‌آیی؟"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_FA a :TranslationVariant ;
+:text "چه تهدیدی است سخن گفتن در برابر رأی‌های تهی؟"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_FA a :TranslationVariant ;
+:text "با گریه خرد خواهی آموخت، خود تهی از خرد."^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_FA a :TranslationVariant ;
+:text "اگر پدرم نبودی، می‌گفتم که نیک نمی‌اندیشی."^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_FA a :TranslationVariant ;
+:text "ای برده زن، مرا چاپلوسانه به سخن مگیر."^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_FA a :TranslationVariant ;
+:text "می‌خواهی چیزی بگویی و هنگام گفتن هیچ نشنوی؟"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_FA a :TranslationVariant ;
+:text "راست است؟ اما نه به این المپ، بدان که"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_FA a :TranslationVariant ;
+:text "با شادی و سرزنش‌ها مرا آزار نخواهی داد."^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_FA a :TranslationVariant ;
+:text "آن منفور را بیاورید، تا همین دم پیش چشم"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_FA a :TranslationVariant ;
+:text "در حضور او، نزدیک دامادش بمیرد."^^xsd:string ;
+:relatedTo :Line_761 .

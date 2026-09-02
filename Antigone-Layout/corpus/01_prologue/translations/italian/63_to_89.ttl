@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-italian a owl:Ontology .
+# Italian translation variants for 63_to_89.ttl
+
+:TV_Line_63_IT a :TranslationVariant ;
+:text "Poi, poiché siamo governate da più forti,"^^xsd:string ;
+:relatedTo :Line_63 .
+
+:TV_Line_64_IT a :TranslationVariant ;
+:text "bisogna ascoltare queste cose e anche più dolorose di queste."^^xsd:string ;
+:relatedTo :Line_64 .
+
+:TV_Line_65_IT a :TranslationVariant ;
+:text "Io dunque, chiedendo a quelli sotto terra"^^xsd:string ;
+:relatedTo :Line_65 .
+
+:TV_Line_66_IT a :TranslationVariant ;
+:text "di avere perdono, poiché sono costretta a queste cose,"^^xsd:string ;
+:relatedTo :Line_66 .
+
+:TV_Line_67_IT a :TranslationVariant ;
+:text "obbedirò a quelli che stanno nel potere; infatti"^^xsd:string ;
+:relatedTo :Line_67 .
+
+:TV_Line_68_IT a :TranslationVariant ;
+:text "fare cose eccessive non ha alcun senso."^^xsd:string ;
+:relatedTo :Line_68 .
+
+:TV_Line_69_IT a :TranslationVariant ;
+:text "Non te lo ordinerei, né, se tu volessi ancora"^^xsd:string ;
+:relatedTo :Line_69 .
+
+:TV_Line_70_IT a :TranslationVariant ;
+:text "agire, lo faresti con me con mio piacere."^^xsd:string ;
+:relatedTo :Line_70 .
+
+:TV_Line_71_IT a :TranslationVariant ;
+:text "Ma sappi come ti sembra; io quello"^^xsd:string ;
+:relatedTo :Line_71 .
+
+:TV_Line_72_IT a :TranslationVariant ;
+:text "lo seppellirò; per me è bello morire facendo questo."^^xsd:string ;
+:relatedTo :Line_72 .
+
+:TV_Line_73_IT a :TranslationVariant ;
+:text "Amata con lui giacerò, con chi è amato,"^^xsd:string ;
+:relatedTo :Line_73 .
+
+:TV_Line_74_IT a :TranslationVariant ;
+:text "avendo compiuto un santo crimine; poiché più lungo è il tempo"^^xsd:string ;
+:relatedTo :Line_74 .
+
+:TV_Line_75_IT a :TranslationVariant ;
+:text "in cui devo piacere a quelli di sotto che a quelli di qui."^^xsd:string ;
+:relatedTo :Line_75 .
+
+:TV_Line_76_IT a :TranslationVariant ;
+:text "Là infatti giacerò per sempre; tu, se ti sembra,"^^xsd:string ;
+:relatedTo :Line_76 .
+
+:TV_Line_77_IT a :TranslationVariant ;
+:text "continua a disonorare le cose onorate dagli dèi."^^xsd:string ;
+:relatedTo :Line_77 .
+
+:TV_Line_78_IT a :TranslationVariant ;
+:text "Io non le considero disonorate, ma"^^xsd:string ;
+:relatedTo :Line_78 .
+
+:TV_Line_79_IT a :TranslationVariant ;
+:text "sono per natura incapace di agire con violenza contro i cittadini."^^xsd:string ;
+:relatedTo :Line_79 .
+
+:TV_Line_80_IT a :TranslationVariant ;
+:text "Tu potresti addurre queste cose; io invece, per innalzare una tomba"^^xsd:string ;
+:relatedTo :Line_80 .
+
+:TV_Line_81_IT a :TranslationVariant ;
+:text "al fratello carissimo, andrò."^^xsd:string ;
+:relatedTo :Line_81 .
+
+:TV_Line_82_IT a :TranslationVariant ;
+:text "Ahimè, infelice, quanto temo per te."^^xsd:string ;
+:relatedTo :Line_82 .
+
+:TV_Line_83_IT a :TranslationVariant ;
+:text "Non temere prima per me; raddrizza il tuo destino."^^xsd:string ;
+:relatedTo :Line_83 .
+
+:TV_Line_84_IT a :TranslationVariant ;
+:text "Ma dunque non preannunciare questa opera a nessuno;"^^xsd:string ;
+:relatedTo :Line_84 .
+
+:TV_Line_85_IT a :TranslationVariant ;
+:text "nascondila in segreto, e anch'io farò allo stesso modo."^^xsd:string ;
+:relatedTo :Line_85 .
+
+:TV_Line_86_IT a :TranslationVariant ;
+:text "Ahimè, gridalo; sarai molto più odiosa"^^xsd:string ;
+:relatedTo :Line_86 .
+
+:TV_Line_87_IT a :TranslationVariant ;
+:text "tacendo, se non proclamerai queste cose a tutti."^^xsd:string ;
+:relatedTo :Line_87 .
+
+:TV_Line_88_IT a :TranslationVariant ;
+:text "Hai un cuore caldo per cose fredde."^^xsd:string ;
+:relatedTo :Line_88 .
+
+:TV_Line_89_IT a :TranslationVariant ;
+:text "Ma so di piacere a quelli cui soprattutto devo piacere."^^xsd:string ;
+:relatedTo :Line_89 .

@@ -1,0 +1,138 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1244-1276-hindi a owl:Ontology .
+# Hindi translation variants for 1244_to_1276.ttl
+
+:TV_Line_1244_HI a :TranslationVariant ;
+:text "तुम इसका क्या अनुमान लगाओगे? वह स्त्री फिर"^^xsd:string ;
+:relatedTo :Line_1244 .
+
+:TV_Line_1245_HI a :TranslationVariant ;
+:text "चली गई, कोई अच्छा या बुरा वचन कहने से पहले।"^^xsd:string ;
+:relatedTo :Line_1245 .
+
+:TV_Line_1246_HI a :TranslationVariant ;
+:text "मैं स्वयं भी चकित हूँ; पर आशा से अपने को पालता हूँ"^^xsd:string ;
+:relatedTo :Line_1246 .
+
+:TV_Line_1247_HI a :TranslationVariant ;
+:text "कि पुत्र का दुःख सुनकर वह नगर में रोने को"^^xsd:string ;
+:relatedTo :Line_1247 .
+
+:TV_Line_1248_HI a :TranslationVariant ;
+:text "उचित नहीं समझेगी, बल्कि घर की छत के भीतर"^^xsd:string ;
+:relatedTo :Line_1248 .
+
+:TV_Line_1249_HI a :TranslationVariant ;
+:text "दासियों को पारिवारिक शोक विलाप करने को सौंपेगी।"^^xsd:string ;
+:relatedTo :Line_1249 .
+
+:TV_Line_1250_HI a :TranslationVariant ;
+:text "क्योंकि वह बुद्धि से ऐसी अनभिज्ञ नहीं कि भूल करे।"^^xsd:string ;
+:relatedTo :Line_1250 .
+
+:TV_Line_1251_HI a :TranslationVariant ;
+:text "मैं नहीं जानता; पर मुझे तो अति मौन भी भारी"^^xsd:string ;
+:relatedTo :Line_1251 .
+
+:TV_Line_1252_HI a :TranslationVariant ;
+:text "लगता है, और व्यर्थ की बहुत पुकार भी।"^^xsd:string ;
+:relatedTo :Line_1252 .
+
+:TV_Line_1253_HI a :TranslationVariant ;
+:text "तो हम जान लेंगे कि कहीं वह कोई असंयमित बात"^^xsd:string ;
+:relatedTo :Line_1253 .
+
+:TV_Line_1254_HI a :TranslationVariant ;
+:text "गुप्त, क्रोधित हृदय में छिपाकर तो नहीं रखती,"^^xsd:string ;
+:relatedTo :Line_1254 .
+
+:TV_Line_1255_HI a :TranslationVariant ;
+:text "घर की ओर जाते हुए; क्योंकि तू सचमुच अच्छा कहता है:"^^xsd:string ;
+:relatedTo :Line_1255 .
+
+:TV_Line_1256_HI a :TranslationVariant ;
+:text "अति मौन में भी कहीं भार होता है।"^^xsd:string ;
+:relatedTo :Line_1256 .
+
+:TV_Line_1257_HI a :TranslationVariant ;
+:text "और सचमुच यह स्वयं राजा आ रहा है,"^^xsd:string ;
+:relatedTo :Line_1257 .
+
+:TV_Line_1258_HI a :TranslationVariant ;
+:text "हाथ में स्पष्ट स्मृति-चिह्न लिए हुए,"^^xsd:string ;
+:relatedTo :Line_1258 .
+
+:TV_Line_1259_HI a :TranslationVariant ;
+:text "यदि कहना उचित हो, तो पराई नहीं"^^xsd:string ;
+:relatedTo :Line_1259 .
+
+:TV_Line_1260_HI a :TranslationVariant ;
+:text "बल्कि अपने ही अपराध से लाई हुई विपत्ति।"^^xsd:string ;
+:relatedTo :Line_1260 .
+
+:TV_Line_1261_HI a :TranslationVariant ;
+:text "हाय, दुर्बुद्धि मन की भूलें,"^^xsd:string ;
+:relatedTo :Line_1261 .
+
+:TV_Line_1262_HI a :TranslationVariant ;
+:text "कठोर और मृत्यु-दायक,"^^xsd:string ;
+:relatedTo :Line_1262 .
+
+:TV_Line_1263_HI a :TranslationVariant ;
+:text "हे देखने वालो, अपने ही रक्त में"^^xsd:string ;
+:relatedTo :Line_1263 .
+
+:TV_Line_1264_HI a :TranslationVariant ;
+:text "मारने वालों और मरने वालों को।"^^xsd:string ;
+:relatedTo :Line_1264 .
+
+:TV_Line_1265_HI a :TranslationVariant ;
+:text "हाय मेरे अभागे निर्णयों पर।"^^xsd:string ;
+:relatedTo :Line_1265 .
+
+:TV_Line_1266_HI a :TranslationVariant ;
+:text "हाय पुत्र, युवा, युवा मृत्यु के साथ,"^^xsd:string ;
+:relatedTo :Line_1266 .
+
+:TV_Line_1267_HI a :TranslationVariant ;
+:text "हाय हाय,"^^xsd:string ;
+:relatedTo :Line_1267 .
+
+:TV_Line_1268_HI a :TranslationVariant ;
+:text "तू मर गया, मुक्त हो गया,"^^xsd:string ;
+:relatedTo :Line_1268 .
+
+:TV_Line_1269_HI a :TranslationVariant ;
+:text "मेरी दुर्बुद्धियों से, तेरी नहीं।"^^xsd:string ;
+:relatedTo :Line_1269 .
+
+:TV_Line_1270_HI a :TranslationVariant ;
+:text "हाय, लगता है तूने न्याय बहुत देर से देखा।"^^xsd:string ;
+:relatedTo :Line_1270 .
+
+:TV_Line_1271_HI a :TranslationVariant ;
+:text "हाय,"^^xsd:string ;
+:relatedTo :Line_1271 .
+
+:TV_Line_1272_HI a :TranslationVariant ;
+:text "मैं अभागा सीख चुका हूँ; और मेरे सिर पर"^^xsd:string ;
+:relatedTo :Line_1272 .
+
+:TV_Line_1273_HI a :TranslationVariant ;
+:text "तब किसी देवता ने भारी भार रखकर"^^xsd:string ;
+:relatedTo :Line_1273 .
+
+:TV_Line_1274_HI a :TranslationVariant ;
+:text "मुझे मारा, और मुझे जंगली मार्गों में झकझोर दिया,"^^xsd:string ;
+:relatedTo :Line_1274 .
+
+:TV_Line_1275_HI a :TranslationVariant ;
+:text "हाय, रौंदी हुई प्रसन्नता को उलटते हुए।"^^xsd:string ;
+:relatedTo :Line_1275 .
+
+:TV_Line_1276_HI a :TranslationVariant ;
+:text "हाय हाय, नश्वर जनों के कठिन-सह्य दुःख-कर्म।"^^xsd:string ;
+:relatedTo :Line_1276 .

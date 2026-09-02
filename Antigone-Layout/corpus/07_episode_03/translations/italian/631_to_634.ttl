@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-italian a owl:Ontology .
+# Italian translation variants for 631_to_634.ttl
+
+:TV_Line_631_IT a :TranslationVariant ;
+:text "Presto lo sapremo, meglio dei veggenti."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_IT a :TranslationVariant ;
+:text "Figlio, forse udendo il voto definitivo"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_IT a :TranslationVariant ;
+:text "sulla tua futura sposa sei venuto furente contro tuo padre?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_IT a :TranslationVariant ;
+:text "Oppure noi, in ogni cosa che facciamo, siamo cari a te?"^^xsd:string ;
+:relatedTo :Line_634 .

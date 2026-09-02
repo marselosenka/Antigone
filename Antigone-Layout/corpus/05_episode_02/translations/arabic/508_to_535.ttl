@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-arabic a owl:Ontology .
+# Arabic translation variants for 508_to_535.ttl
+
+:TV_Line_508_AR a :TranslationVariant ;
+:text "أنت وحدك ترين هذا من بين هؤلاء الكادميين."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_AR a :TranslationVariant ;
+:text "هم يرونه أيضًا، لكنهم يغلقون أفواههم من أجلك."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_AR a :TranslationVariant ;
+:text "وأنت ألا تخجلين إن كنت تفكرين خلاف هؤلاء؟"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_AR a :TranslationVariant ;
+:text "فليس شيئًا قبيحًا أن يوقر المرء من خرجوا من الرحم نفسه."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_AR a :TranslationVariant ;
+:text "ألم يكن من الدم نفسه أيضًا ذاك الذي مات مقابله؟"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_AR a :TranslationVariant ;
+:text "من الدم نفسه، من أم واحدة ومن الأب نفسه."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_AR a :TranslationVariant ;
+:text "فكيف إذن تكرمينه بنعمة غير تقية؟"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_AR a :TranslationVariant ;
+:text "الميت الراحل لن يشهد بهذه الأمور."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_AR a :TranslationVariant ;
+:text "إن كنت تكرمينه بالتساوي مع غير التقي."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_AR a :TranslationVariant ;
+:text "فلم يمت عبدًا، بل أخًا."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_AR a :TranslationVariant ;
+:text "لكنه كان يخرب هذه الأرض؛ والآخر وقف مدافعًا عنها."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_AR a :TranslationVariant ;
+:text "ومع ذلك فهاديس يطلب هذه القوانين."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_AR a :TranslationVariant ;
+:text "لكن الصالح لا ينال نصيبًا مساويًا للشرير."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_AR a :TranslationVariant ;
+:text "ومن يعلم إن كانت هذه الأمور في الأسفل طاهرة؟"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_AR a :TranslationVariant ;
+:text "إن العدو ليس أبدًا صديقًا، ولا حتى إذا مات."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_AR a :TranslationVariant ;
+:text "لم أُخلق لأشارك في البغض، بل لأشارك في المحبة."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_AR a :TranslationVariant ;
+:text "فانزلي إذن إلى أسفل، إن كان لا بد من الحب، وأحبي"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_AR a :TranslationVariant ;
+:text "أولئك؛ أما وأنا حي فلن تحكم امرأة."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_AR a :TranslationVariant ;
+:text "وها هي إسميني أمام الأبواب،"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_AR a :TranslationVariant ;
+:text "تذرف دموعًا أخوية إلى أسفل؛"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_AR a :TranslationVariant ;
+:text "وسحابة فوق الحاجبين تشوه وجهها"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_AR a :TranslationVariant ;
+:text "الدامي اللون،"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_AR a :TranslationVariant ;
+:text "مرطبة خدها الجميل."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_AR a :TranslationVariant ;
+:text "وأنت، التي في البيوت كأفعى متسللة"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_AR a :TranslationVariant ;
+:text "كنت تمتصينني خفية، ولم أكن أعلم"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_AR a :TranslationVariant ;
+:text "أنني أربي بليتين وثورتين على العروش،"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_AR a :TranslationVariant ;
+:text "هيا، قولي لي أنت أيضًا، هل ستقولين إنك شاركت"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_AR a :TranslationVariant ;
+:text "في هذا الدفن، أم ستنكرين معرفته؟"^^xsd:string ;
+:relatedTo :Line_535 .

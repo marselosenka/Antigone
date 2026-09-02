@@ -1,0 +1,102 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-french a owl:Ontology .
+# French translation variants for 724_to_761.ttl
+
+# Lines 724 and 725 do not exist in canonical.
+
+:TV_Line_726_FR a :TranslationVariant ;
+:text "rien qui ne soit pas juste ; mais si moi je suis jeune,"^^xsd:string ;
+:relatedTo :Line_726 .
+
+# Lines 727 and 728 do not exist in canonical.
+
+:TV_Line_729_FR a :TranslationVariant ;
+:text "Car est-ce une œuvre que d’honorer ceux qui troublent l’ordre ?"^^xsd:string ;
+:relatedTo :Line_729 .
+
+# Line 730 does not exist in canonical.
+
+:TV_Line_731_FR a :TranslationVariant ;
+:text "Moi non plus je ne commanderais pas d’être pieux envers les mauvais."^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_FR a :TranslationVariant ;
+:text "N’est-ce pas elle qui a été prise avec une telle maladie ?"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_FR a :TranslationVariant ;
+:text "Le peuple habitant avec elle cette Thèbes ne le dit pas."^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_FR a :TranslationVariant ;
+:text "La cité nous dira-t-elle ce qu’il me faut ordonner ?"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_FR a :TranslationVariant ;
+:text "Vois-tu cela, comme tu as parlé, comme un homme trop jeune ?"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_FR a :TranslationVariant ;
+:text "Est-ce donc pour un autre que moi qu’il faut que je gouverne cette terre ?"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_FR a :TranslationVariant ;
+:text "Ô le pire de tous, allant en justice contre ton père ?"^^xsd:string ;
+:relatedTo :Line_737 .
+
+# Lines 738, 739, 740, 741 and 742 do not exist in canonical.
+
+:TV_Line_743_FR a :TranslationVariant ;
+:text "Car je vois que tu commets des fautes injustes."^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_FR a :TranslationVariant ;
+:text "Tu ne me prendrais certes pas comme inférieur aux honteux."^^xsd:string ;
+:relatedTo :Line_744 .
+
+# Lines 745, 746 and 747 do not exist in canonical.
+
+:TV_Line_748_FR a :TranslationVariant ;
+:text "Du moins, tout ton discours est ici en faveur de celle-là."^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_FR a :TranslationVariant ;
+:text "Oui, en faveur de toi, de moi, et des dieux d’en bas."^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_FR a :TranslationVariant ;
+:text "Vraiment, menaçant ainsi, tu attaques avec audace ?"^^xsd:string ;
+:relatedTo :Line_750 .
+
+# Lines 751 and 752 do not exist in canonical.
+
+:TV_Line_753_FR a :TranslationVariant ;
+:text "En pleurant, tu deviendras sage, toi-même vide de sens."^^xsd:string ;
+:relatedTo :Line_753 .
+
+# Line 754 does not exist in canonical.
+
+:TV_Line_755_FR a :TranslationVariant ;
+:text "Si tu n’étais pas mon père, je dirais que tu ne penses pas bien."^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_FR a :TranslationVariant ;
+:text "Veux-tu dire quelque chose et, en parlant, ne rien entendre ?"^^xsd:string ;
+:relatedTo :Line_756 .
+
+# Line 757 does not exist in canonical.
+
+:TV_Line_758_FR a :TranslationVariant ;
+:text "Te réjouissant dans les blâmes, tu m’injurieras ?"^^xsd:string ;
+:relatedTo :Line_758 .
+
+# Line 759 does not exist in canonical.
+
+:TV_Line_760_FR a :TranslationVariant ;
+:text "elle mourra en ta présence, tout près de son fiancé."^^xsd:string ;
+:relatedTo :Line_760 .
+
+# Line 761 does not exist in canonical.

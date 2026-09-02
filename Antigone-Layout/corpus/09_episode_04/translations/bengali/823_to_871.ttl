@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-bengali a owl:Ontology .
+# Bengali translation variants for 823_to_871.ttl
+
+:TV_Line_823_BN a :TranslationVariant ;
+:text "আমি শুনেছি ফ্রাইজীয় অতিথিনী সবচেয়ে শোচনীয়ভাবে বিনষ্ট হয়েছিলেন,"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in Antigone
+
+:TV_Line_825_BN a :TranslationVariant ;
+:text "সিপিলোসের শিখরে তান্তালোসের কন্যা; তাকে আইভির মতো দৃঢ়"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_BN a :TranslationVariant ;
+:text "শিলাজাত অঙ্কুর বশ করেছিল; আর গলতে থাকা তাকে বৃষ্টিধারা,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_BN a :TranslationVariant ;
+:text "মানুষের কথায় যেমন প্রচার আছে,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Line 828 and 829 do not exist in Antigone
+
+:TV_Line_830_BN a :TranslationVariant ;
+:text "আর তুষার কখনও ছাড়ে না; সর্ববিলাপী ভ্রুর নিচে সে ভিজিয়ে রাখে"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_BN a :TranslationVariant ;
+:text "তার গিরিশিরা; দেবতা আমাকেও তারই সবচেয়ে সদৃশ করে শুইয়ে দিচ্ছেন।"^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Line 832 and 833 do not exist in Antigone
+
+:TV_Line_834_BN a :TranslationVariant ;
+:text "কিন্তু সে তো দেবী, দেবজাতও বটে,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_BN a :TranslationVariant ;
+:text "আর আমরা মর্ত্য, মর্ত্যজাত।"^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_BN a :TranslationVariant ;
+:text "তবু মরণশীলা হয়েও শুনতে পাওয়া বড় কথা"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_BN a :TranslationVariant ;
+:text "যে দেবতুল্যদের সঙ্গে একই ভাগ্য পেয়েছ,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_BN a :TranslationVariant ;
+:text "জীবিত অবস্থায়ও, পরে মৃত অবস্থায়ও।"^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_BN a :TranslationVariant ;
+:text "হায়, আমাকে উপহাস করা হচ্ছে। পিতৃপুরুষের দেবতাদের নামে বলো,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_BN a :TranslationVariant ;
+:text "আমি চলে যাওয়ার পর নয়, প্রকাশ্যেই কেন আমাকে অপমান করছ?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_BN a :TranslationVariant ;
+:text "হে নগর, হে নগরের বহুসম্পদশালী পুরুষেরা;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_BN a :TranslationVariant ;
+:text "হে দির্কের ঝরনাধারা,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Line 843 and 844 do not exist in Antigone
+
+:TV_Line_845_BN a :TranslationVariant ;
+:text "আর সুন্দর রথের থিব্‌সের বনভূমি—অন্তত তোমাদের সাক্ষী করে নিচ্ছি,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_BN a :TranslationVariant ;
+:text "বন্ধুদের অশ্রুহীন হয়ে, কী ধরনের বিধানে"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_BN a :TranslationVariant ;
+:text "আমি পাথরঢাকা সমাধি-বন্দী, অদ্ভুত কবরের দিকে যাচ্ছি।"^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Line 848 and 849 do not exist in Antigone
+
+:TV_Line_850_BN a :TranslationVariant ;
+:text "মৃতদের মধ্যে মৃতের সহবাসী নই,"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_BN a :TranslationVariant ;
+:text "না জীবিতদের সঙ্গে, না মৃতদের সঙ্গে।"^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in Antigone
+
+:TV_Line_853_BN a :TranslationVariant ;
+:text "সাহসের শেষ সীমায় এগিয়ে গিয়ে"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_BN a :TranslationVariant ;
+:text "ন্যায়ের উচ্চ আসনের দিকে"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_BN a :TranslationVariant ;
+:text "তুমি পতিত হয়েছ, হে সন্তান, অনেক দূর;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_BN a :TranslationVariant ;
+:text "আর তুমি পিতৃ-সম্পর্কিত কোনো দণ্ড শোধ করছ।"^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in Antigone
+
+:TV_Line_858_BN a :TranslationVariant ;
+:text "তুমি আমার সবচেয়ে যন্ত্রণাদায়ক চিন্তাকে স্পর্শ করেছ,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_BN a :TranslationVariant ;
+:text "আমার পিতার তিনগুণ নগরজুড়ে বিলাপ, এবং সমগ্র"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_BN a :TranslationVariant ;
+:text "আমাদের ভাগ্য, খ্যাতিমান লাবদাকিদদের ভাগ্য।"^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_BN a :TranslationVariant ;
+:text "হায়, মাতৃশয্যার"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Line 862, 863 and 864 do not exist in Antigone
+
+:TV_Line_865_BN a :TranslationVariant ;
+:text "ভ্রান্তি, আর আমার দুর্ভাগা মায়ের সঙ্গে পিতার আত্মজাত শয়ন!"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_BN a :TranslationVariant ;
+:text "এমনদের থেকেই আমি, হতভাগিনী, একদিন জন্মেছিলাম;"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_BN a :TranslationVariant ;
+:text "তাদের কাছেই অভিশপ্ত, অবিবাহিতা, এই আমি সহবাসী হয়ে যাচ্ছি।"^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Line 868 and 869 do not exist in Antigone
+
+:TV_Line_870_BN a :TranslationVariant ;
+:text "হে দুর্ভাগা বিবাহের অধিকারী ভাই,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_BN a :TranslationVariant ;
+:text "মরে গিয়েও তুমি আমাকে, এখনও জীবিত, হত্যা করেছ।"^^xsd:string ;
+:relatedTo :Line_871 .

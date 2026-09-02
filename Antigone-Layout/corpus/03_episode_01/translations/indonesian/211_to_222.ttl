@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-indonesian a owl:Ontology .
+# Indonesian translation variants for 211_to_222.ttl
+
+:TV_Line_211_ID a :TranslationVariant ;
+:text "Hal-hal ini menyenangkan bagimu, putra Menoikeus, untuk dilakukan"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_ID a :TranslationVariant ;
+:text "terhadap yang memusuhi kota ini dan yang berbaik hati kepada kota;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_ID a :TranslationVariant ;
+:text "dan menggunakan hukum apa pun, itu ada padamu"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_ID a :TranslationVariant ;
+:text "atas orang-orang mati dan atas semua kami yang hidup."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_ID a :TranslationVariant ;
+:text "Maka sekarang jadilah penjaga atas hal-hal yang telah dikatakan."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_ID a :TranslationVariant ;
+:text "Tugaskanlah hal ini untuk dipikul oleh orang yang lebih muda."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_ID a :TranslationVariant ;
+:text "Namun sudah ada para pengawas mayat itu yang siap."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_ID a :TranslationVariant ;
+:text "Lalu hal lain apa lagi yang hendak kauperintahkan tentang ini?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_ID a :TranslationVariant ;
+:text "Jangan mengalah kepada mereka yang tidak menaati hal-hal ini."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_ID a :TranslationVariant ;
+:text "Tidak ada orang begitu bodoh yang mencintai kematian."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_ID a :TranslationVariant ;
+:text "Namun upahnya memang itu; tetapi oleh harapan-harapan"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_ID a :TranslationVariant ;
+:text "keuntungan sering kali membinasakan manusia."^^xsd:string ;
+:relatedTo :Line_222 .

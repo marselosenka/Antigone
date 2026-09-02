@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-french a owl:Ontology .
+# French translation variants for 508_to_535.ttl
+
+:TV_Line_508_FR a :TranslationVariant ;
+:text "Toi seule, parmi ces Cadméens, tu vois cela."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_FR a :TranslationVariant ;
+:text "Eux aussi le voient, mais pour toi ils serrent la bouche."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_FR a :TranslationVariant ;
+:text "Et toi, n’as-tu pas honte, si tu penses à part de ceux-ci ?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_FR a :TranslationVariant ;
+:text "Car il n’est en rien honteux d’honorer ceux du même ventre."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_FR a :TranslationVariant ;
+:text "Donc celui qui est mort en face n’était-il pas aussi du même sang ?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_FR a :TranslationVariant ;
+:text "Du même sang, d’une seule mère et du même père."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_FR a :TranslationVariant ;
+:text "Comment donc honores-tu celui-là d’une grâce impie envers l’autre ?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_FR a :TranslationVariant ;
+:text "Le cadavre mort ne témoignera pas cela."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_FR a :TranslationVariant ;
+:text "Si pourtant tu l’honores également avec l’impie."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_FR a :TranslationVariant ;
+:text "Car ce n’est pas un esclave, mais un frère qui est mort."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_FR a :TranslationVariant ;
+:text "Ravageant cette terre ; l’autre se tenant en face pour elle."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_FR a :TranslationVariant ;
+:text "Pourtant Hadès désire ces lois également."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_FR a :TranslationVariant ;
+:text "Mais le bon n’a pas reçu en partage l’égal du mauvais."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_FR a :TranslationVariant ;
+:text "Qui sait si, en bas, ces choses sont saintes ?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_FR a :TranslationVariant ;
+:text "L’ennemi, certes, jamais, pas même lorsqu’il meurt, n’est ami."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_FR a :TranslationVariant ;
+:text "Je ne suis pas née pour haïr avec, mais pour aimer avec."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_FR a :TranslationVariant ;
+:text "Descends donc en bas, et s’il faut aimer, aime"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_FR a :TranslationVariant ;
+:text "ceux-là ; mais moi vivant, une femme ne commandera pas."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_FR a :TranslationVariant ;
+:text "Et pourtant, devant les portes, voici Ismène,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_FR a :TranslationVariant ;
+:text "versant sous ses sourcils des larmes d’amour fraternel ;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_FR a :TranslationVariant ;
+:text "et un nuage, au-dessus de ses sourcils, son visage"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_FR a :TranslationVariant ;
+:text "sanglant défigure,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_FR a :TranslationVariant ;
+:text "mouillant sa joue au beau regard."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_FR a :TranslationVariant ;
+:text "Et toi, qui dans la maison, comme une vipère, tapie"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_FR a :TranslationVariant ;
+:text "en secret, me buvais, et je ne comprenais pas"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_FR a :TranslationVariant ;
+:text "que je nourrissais deux ruines et soulèvements contre mes trônes,"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_FR a :TranslationVariant ;
+:text "allons, dis-moi donc, toi aussi, de cette sépulture"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_FR a :TranslationVariant ;
+:text "diras-tu y avoir pris part, ou jureras-tu ne pas savoir ?"^^xsd:string ;
+:relatedTo :Line_535 .

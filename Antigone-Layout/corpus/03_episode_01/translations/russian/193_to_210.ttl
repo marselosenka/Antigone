@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-russian a owl:Ontology .
+# Russian translation variants for 193_to_210.ttl
+
+:TV_Line_193_RU a :TranslationVariant ;
+:text "гражданам о детях Эдипа:"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_RU a :TranslationVariant ;
+:text "Этеокла, который, сражаясь за этот город,"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_RU a :TranslationVariant ;
+:text "погиб, во всем отличившись копьем,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_RU a :TranslationVariant ;
+:text "скрыть могилой и совершить все очищения,"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_RU a :TranslationVariant ;
+:text "какие идут вниз лучшим мертвецам;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_RU a :TranslationVariant ;
+:text "а его единокровного, Полиника, я говорю,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_RU a :TranslationVariant ;
+:text "который отеческую землю и родных богов,"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_RU a :TranslationVariant ;
+:text "вернувшись изгнанником, хотел огнем"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_RU a :TranslationVariant ;
+:text "сжечь до основания, хотел крови"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_RU a :TranslationVariant ;
+:text "общей насытиться, а остальных увести поработив,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_RU a :TranslationVariant ;
+:text "о нем этому городу объявлено указом:"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_RU a :TranslationVariant ;
+:text "никому ни погребальных даров не совершать, ни оплакивать,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_RU a :TranslationVariant ;
+:text "но оставить непогребенным, чтобы тело птицам"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_RU a :TranslationVariant ;
+:text "и псам было пищей и видимым поруганием."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_RU a :TranslationVariant ;
+:text "Таково мое намерение, и никогда от меня"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_RU a :TranslationVariant ;
+:text "дурные не получат почести прежде справедливых."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_RU a :TranslationVariant ;
+:text "Но всякий, кто благосклонен к этому городу, умерший"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_RU a :TranslationVariant ;
+:text "и живой одинаково будет мною почтен."^^xsd:string ;
+:relatedTo :Line_210 .

@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-japanese a owl:Ontology .
+# Japanese translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_JA a :TranslationVariant ;
+:text "老人よ、あなた方は皆、標的を狙う射手のように"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_JA a :TranslationVariant ;
+:text "この男を射ている。そして予言術においてさえ"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_JA a :TranslationVariant ;
+:text "私はあなた方に対して無傷ではない。あなた方の種族によって"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_JA a :TranslationVariant ;
+:text "私はとうに売り払われ、荷を負わされている。"^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_JA a :TranslationVariant ;
+:text "利益を得よ、サルディスからの"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_JA a :TranslationVariant ;
+:text "琥珀金を売買せよ、望むならば、またインドの"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_JA a :TranslationVariant ;
+:text "金も。だがあの者を墓で隠すことはない。"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_JA a :TranslationVariant ;
+:text "たとえゼウスの鷲たちが、その餌を"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_JA a :TranslationVariant ;
+:text "奪い取ってゼウスの玉座へ運ぼうとしても、"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_JA a :TranslationVariant ;
+:text "それでも私はこの汚れを恐れて"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_JA a :TranslationVariant ;
+:text "あの者を葬ることを許しはしない。私はよく知っているからだ、"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_JA a :TranslationVariant ;
+:text "神々を汚す力を持つ人間は一人もいないと。"^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_JA a :TranslationVariant ;
+:text "だが倒れるのだ、老いたティレシアスよ、死すべき者たちのうち"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_JA a :TranslationVariant ;
+:text "多くに巧みな者たちも、醜い倒れ方で、言葉を"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_JA a :TranslationVariant ;
+:text "利益のために、美しく醜く語る時には。"^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_JA a :TranslationVariant ;
+:text "ああ、人間の誰かは知っているのか、理解しているのか、"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_JA a :TranslationVariant ;
+:text "何のことだ。どのような、すべてに共通することを言うのか。"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_JA a :TranslationVariant ;
+:text "よい判断が所有物のうちでどれほど最上であるかを。"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_JA a :TranslationVariant ;
+:text "同じほどに、私は思う、考えないことは最大の害だ。"^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_JA a :TranslationVariant ;
+:text "しかしあなたは、その病に満ちて生まれている。"^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_JA a :TranslationVariant ;
+:text "私は予言者に悪く言い返したくない。"^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_JA a :TranslationVariant ;
+:text "いや、あなたは言っている、私が偽りを予言すると言って。"^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_JA a :TranslationVariant ;
+:text "予言者の種族はみな銀を愛するからだ。"^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_JA a :TranslationVariant ;
+:text "だが僭主たちの種族は、恥ずべき利益を愛する。"^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_JA a :TranslationVariant ;
+:text "お前は支配者に向かって言っていることを知っているのか。"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_JA a :TranslationVariant ;
+:text "知っている。あなたは私によってこの町を救われて持っているからだ。"^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_JA a :TranslationVariant ;
+:text "お前は賢い予言者だが、不正を愛する者だ。"^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_JA a :TranslationVariant ;
+:text "あなたは私に、心の中の動かぬことを語らせるだろう。"^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_JA a :TranslationVariant ;
+:text "動かせ。ただし利益のために語るな。"^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_JA a :TranslationVariant ;
+:text "そのように、すでに私はあなたの側では思われている。"^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_JA a :TranslationVariant ;
+:text "私の心を買い取ることはできないと知れ。"^^xsd:string ;
+:relatedTo :Line_1063 .

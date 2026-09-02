@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-hindi a owl:Ontology .
+# Hindi translation variants for 944_to_965.ttl
+
+:TV_Line_944_HI a :TranslationVariant ;
+:text "दानाए ने भी स्वर्गीय प्रकाश को"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_HI a :TranslationVariant ;
+:text "कांस्य-बँधे कक्षों में शरीर बदलकर सहा;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_HI a :TranslationVariant ;
+:text "समाधि-समान कक्ष में छिपाई हुई वह जकड़ दी गई;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_HI a :TranslationVariant ;
+:text "और फिर भी जन्म से सम्मानित थी, हे बालिका, बालिका,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Line 948 and 949 do not exist in Antigone
+
+:TV_Line_950_HI a :TranslationVariant ;
+:text "और ज़्यूस की स्वर्ण-धारा-सी संतान को धारण रखती थी।"^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_HI a :TranslationVariant ;
+:text "पर भाग्य की कोई शक्ति भयानक है;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_HI a :TranslationVariant ;
+:text "न संपत्ति, न एरेस, न दुर्ग, न समुद्र-ध्वनि से गूँजती"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_HI a :TranslationVariant ;
+:text "काली नौकाएँ उससे बच निकल सकती हैं।"^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in Antigone
+
+:TV_Line_955_HI a :TranslationVariant ;
+:text "और तीक्ष्ण-क्रोधी द्र्यास का पुत्र जकड़ दिया गया,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_HI a :TranslationVariant ;
+:text "एदोनीयों का राजा, अपने उपहासपूर्ण क्रोधों के कारण,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_HI a :TranslationVariant ;
+:text "दियोनिसोस द्वारा पथरीले बंदी-बन्धन में।"^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_HI a :TranslationVariant ;
+:text "इस प्रकार उस उन्माद की भयानक शक्ति टपककर बहती गई"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in Antigone
+
+:TV_Line_960_HI a :TranslationVariant ;
+:text "और उसका पुष्पित वेग भी। उसने अपने उन्मादों में जाना"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_HI a :TranslationVariant ;
+:text "कि उसने उपहासपूर्ण भाषाओं से देवता को छुआ था।"^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_HI a :TranslationVariant ;
+:text "क्योंकि वह देव-आविष्ट स्त्रियों और यूइओस अग्नि को रोकता था,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Line 963 and 964 do not exist in Antigone
+
+:TV_Line_965_HI a :TranslationVariant ;
+:text "और बाँसुरी-प्रेमी म्यूज़ाओं को भड़काता था।"^^xsd:string ;
+:relatedTo :Line_965 .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-hindi a owl:Ontology .
+# Hindi translation variants for 563_to_581.ttl
+
+:TV_Line_563_HI a :TranslationVariant ;
+:text "क्योंकि, स्वामी, कोई मन, चाहे जो भी उगे,"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_HI a :TranslationVariant ;
+:text "बुरा भोगने वालों में स्थिर नहीं रहता, बल्कि हट जाता है।"^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_HI a :TranslationVariant ;
+:text "तेरे लिए तो तब, जब तूने बुरों के साथ बुराई करना चुना।"^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_HI a :TranslationVariant ;
+:text "क्योंकि इसके बिना अकेली मेरे लिए कौन-सा जीवन जीने योग्य है?"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_HI a :TranslationVariant ;
+:text "पर उसके विषय में मत बोल; क्योंकि वह अब रही नहीं।"^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_HI a :TranslationVariant ;
+:text "पर क्या तू अपने ही पुत्र की वधू को मार देगा?"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_HI a :TranslationVariant ;
+:text "दूसरों की जोतने योग्य खेतियाँ भी हैं।"^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_HI a :TranslationVariant ;
+:text "पर जैसी वह उसके साथ और इसके साथ जुड़ी थी, वैसी नहीं।"^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_HI a :TranslationVariant ;
+:text "मैं पुत्रों के लिए दुष्ट स्त्रियों से घृणा करता हूँ।"^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_HI a :TranslationVariant ;
+:text "हे प्रियतम हाइमन, पिता तेरा कितना अपमान करता है।"^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_HI a :TranslationVariant ;
+:text "तू और तेरा विवाह-शय्या मुझे अत्यधिक दुख देते हैं।"^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_HI a :TranslationVariant ;
+:text "क्या सचमुच तू अपने पुत्र को इससे वंचित करेगा?"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_HI a :TranslationVariant ;
+:text "हेडिस ही इन विवाहों को रोकने वाला जन्मा है।"^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_HI a :TranslationVariant ;
+:text "जैसा लगता है, इसका मरना तय हो चुका है।"^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_HI a :TranslationVariant ;
+:text "तेरे लिए भी और मेरे लिए भी। अब विलंब नहीं; बल्कि इसे"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_HI a :TranslationVariant ;
+:text "भीतर ले जाओ, दासो; और अब से आवश्यक है"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_HI a :TranslationVariant ;
+:text "कि ये स्त्रियाँ स्त्रियाँ ही रहें, खुली न छोड़ी जाएँ।"^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_HI a :TranslationVariant ;
+:text "क्योंकि साहसी लोग भी भागते हैं, जब निकट"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_HI a :TranslationVariant ;
+:text "जीवन के सामने हेडिस को देखने लगते हैं।"^^xsd:string ;
+:relatedTo :Line_581 .

@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-indonesian a owl:Ontology .
+# Indonesian translation variants for 302_to_323.ttl
+
+:TV_Line_302_ID a :TranslationVariant ;
+:text "Dan semua yang dengan upah menyelesaikan hal-hal ini,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_ID a :TranslationVariant ;
+:text "pada waktunya nanti telah bertindak sampai harus membayar hukuman."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_ID a :TranslationVariant ;
+:text "Tetapi jika Zeus masih menerima hormat dariku,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_ID a :TranslationVariant ;
+:text "ketahuilah ini baik-baik, dan dengan sumpah kukatakan kepadamu,"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_ID a :TranslationVariant ;
+:text "jika kalian tidak menemukan pelaku dengan tangannya sendiri atas penguburan ini"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_ID a :TranslationVariant ;
+:text "dan memperlihatkannya jelas di depan mataku,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_ID a :TranslationVariant ;
+:text "Hades saja tidak akan cukup bagi kalian, sebelum"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_ID a :TranslationVariant ;
+:text "dengan hidup tergantung kalian menyatakan kekurangajaran ini,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_ID a :TranslationVariant ;
+:text "agar, setelah mengetahui dari mana keuntungan harus dibawa,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_ID a :TranslationVariant ;
+:text "selanjutnya kalian merampas, dan belajar bahwa"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_ID a :TranslationVariant ;
+:text "mencintai keuntungan dari segala hal tidak semestinya."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_ID a :TranslationVariant ;
+:text "Sebab dari perolehan-perolehan memalukan, engkau akan melihat lebih banyak orang"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_ID a :TranslationVariant ;
+:text "hancur daripada terselamatkan."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_ID a :TranslationVariant ;
+:text "Apakah engkau mengizinkan aku berbicara, atau harus aku berbalik pergi begitu saja?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_ID a :TranslationVariant ;
+:text "Tidakkah kau tahu bahkan sekarang betapa menyakitkannya perkataanmu?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_ID a :TranslationVariant ;
+:text "Apakah aku menggigit di telinga atau pada jiwamu?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_ID a :TranslationVariant ;
+:text "Mengapa engkau mengatur di mana rasa sakitku berada?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_ID a :TranslationVariant ;
+:text "Pelakunya menyakiti pikiranmu; telingamu, aku."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_ID a :TranslationVariant ;
+:text "Aduh, betapa jelas engkau lahir sebagai banyak bicara."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_ID a :TranslationVariant ;
+:text "Tetapi sama sekali bukan sebagai orang yang melakukan perbuatan itu."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_ID a :TranslationVariant ;
+:text "Dan itu pun karena perak, setelah menjual jiwamu."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_ID a :TranslationVariant ;
+:text "Ah, sungguh mengerikan bila bagi seseorang yang hanya menyangka, yang palsu pun tampak benar."^^xsd:string ;
+:relatedTo :Line_323 .

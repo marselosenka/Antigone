@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-japanese a owl:Ontology .
+# Japanese translation variants for 42_to_62.ttl
+
+:TV_Line_042_JA a :TranslationVariant ;
+:text "どのような危険なのか。いったいあなたの考えはどこにあるのか。"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_JA a :TranslationVariant ;
+:text "この手と共に、あの死者を持ち上げるならば、ということだ。"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_JA a :TranslationVariant ;
+:text "本当に彼を葬るつもりなのか、町に禁じられているのに。"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_JA a :TranslationVariant ;
+:text "少なくとも私の兄弟を、そしてあなたの兄弟を、たとえあなたが望まなくとも、"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_JA a :TranslationVariant ;
+:text "兄弟を。私は裏切った者として捕らえられはしないから。"^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_JA a :TranslationVariant ;
+:text "ああ、無謀な人、クレオンが禁じているのに。"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_JA a :TranslationVariant ;
+:text "しかし彼には、私のものから私を遠ざける権利は何もない。"^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_JA a :TranslationVariant ;
+:text "ああ、考えて、妹よ、父が"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_JA a :TranslationVariant ;
+:text "私たち二人にとってどれほど憎まれ、不名誉に滅びたかを、"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_JA a :TranslationVariant ;
+:text "自ら明るみに出した罪過によって、二つの"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_JA a :TranslationVariant ;
+:text "目を、自分自身の手で打ち砕いて。"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_JA a :TranslationVariant ;
+:text "ついで母であり妻である人、二重の名だが、"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_JA a :TranslationVariant ;
+:text "編まれた吊り縄で命を辱めて滅ぼした。"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_JA a :TranslationVariant ;
+:text "第三に、二人の兄弟が、一日のうちに、"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_JA a :TranslationVariant ;
+:text "二人とも自らを殺し、哀れな運命を"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_JA a :TranslationVariant ;
+:text "互いの手によって共通のものとして成し遂げた。"^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_JA a :TranslationVariant ;
+:text "そして今また、私たち二人だけが残されていることを考えなさい、"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_JA a :TranslationVariant ;
+:text "もし法の力に逆らって、どれほど最悪に滅びるかを、"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_JA a :TranslationVariant ;
+:text "僭主たちの決定、あるいは権力を踏み越えるならば。"^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_JA a :TranslationVariant ;
+:text "まずこのことを心に入れねばならない、私たちは女として"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_JA a :TranslationVariant ;
+:text "生まれ、男たちに対して戦うものではないということを。"^^xsd:string ;
+:relatedTo :Line_062 .

@@ -1,0 +1,95 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-spanish a owl:Ontology .
+# Spanish translation variants for 302_to_323.ttl
+
+:TV_Line_302_ES a :TranslationVariant ;
+    :text "Y cuantos, alquilados por paga, llevaron a cabo esto,"^^xsd:string ;
+    :relatedTo :Line_302 .
+
+:TV_Line_303_ES a :TranslationVariant ;
+    :text "con el tiempo lograron pagar su culpa."^^xsd:string ;
+    :relatedTo :Line_303 .
+
+:TV_Line_304_ES a :TranslationVariant ;
+    :text "Pero si Zeus aún recibe veneración de mí,"^^xsd:string ;
+    :relatedTo :Line_304 .
+
+:TV_Line_305_ES a :TranslationVariant ;
+    :text "sábelo bien, y te lo digo bajo juramento:"^^xsd:string ;
+    :relatedTo :Line_305 .
+
+:TV_Line_306_ES a :TranslationVariant ;
+    :text "si no encontráis al autor mismo de esta sepultura"^^xsd:string ;
+    :relatedTo :Line_306 .
+
+:TV_Line_307_ES a :TranslationVariant ;
+    :text "y no lo mostráis ante mis ojos,"^^xsd:string ;
+    :relatedTo :Line_307 .
+
+:TV_Line_308_ES a :TranslationVariant ;
+    :text "no os bastará Hades solo, antes de que"^^xsd:string ;
+    :relatedTo :Line_308 .
+
+:TV_Line_309_ES a :TranslationVariant ;
+    :text "colgados vivos manifestéis esta insolencia,"^^xsd:string ;
+    :relatedTo :Line_309 .
+
+:TV_Line_310_ES a :TranslationVariant ;
+    :text "para que, sabiendo de dónde debe obtenerse el lucro,"^^xsd:string ;
+    :relatedTo :Line_310 .
+
+:TV_Line_311_ES a :TranslationVariant ;
+    :text "en adelante lo arrebatéis, y aprendáis que"^^xsd:string ;
+    :relatedTo :Line_311 .
+
+:TV_Line_312_ES a :TranslationVariant ;
+    :text "no se debe amar el ganar desde cualquier parte."^^xsd:string ;
+    :relatedTo :Line_312 .
+
+:TV_Line_313_ES a :TranslationVariant ;
+    :text "Pues de las ganancias vergonzosas verías a la mayoría"^^xsd:string ;
+    :relatedTo :Line_313 .
+
+:TV_Line_314_ES a :TranslationVariant ;
+    :text "arruinados más que salvados."^^xsd:string ;
+    :relatedTo :Line_314 .
+
+:TV_Line_315_ES a :TranslationVariant ;
+    :text "¿Me permitirás hablar, o me voy dándome la vuelta?"^^xsd:string ;
+    :relatedTo :Line_315 .
+
+:TV_Line_316_ES a :TranslationVariant ;
+    :text "¿No sabes también ahora cuán molesto hablas?"^^xsd:string ;
+    :relatedTo :Line_316 .
+
+:TV_Line_317_ES a :TranslationVariant ;
+    :text "¿Te muerdo en los oídos o en el alma?"^^xsd:string ;
+    :relatedTo :Line_317 .
+
+:TV_Line_318_ES a :TranslationVariant ;
+    :text "¿Y por qué mides dónde está mi dolor?"^^xsd:string ;
+    :relatedTo :Line_318 .
+
+:TV_Line_319_ES a :TranslationVariant ;
+    :text "El autor te aflige la mente; yo, los oídos."^^xsd:string ;
+    :relatedTo :Line_319 .
+
+:TV_Line_320_ES a :TranslationVariant ;
+    :text "Ay, qué claro charlatán has nacido."^^xsd:string ;
+    :relatedTo :Line_320 .
+
+:TV_Line_321_ES a :TranslationVariant ;
+    :text "Pero nunca fui quien hizo este hecho."^^xsd:string ;
+    :relatedTo :Line_321 .
+
+:TV_Line_322_ES a :TranslationVariant ;
+    :text "Y eso, después de vender tu alma por plata."^^xsd:string ;
+    :relatedTo :Line_322 .
+
+:TV_Line_323_ES a :TranslationVariant ;
+    :text "Ay, terrible es que quien opina, opine también falsedades."^^xsd:string ;
+    :relatedTo :Line_323 .

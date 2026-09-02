@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-arabic a owl:Ontology .
+# Arabic translation variants for 823_to_871.ttl
+
+:TV_Line_823_AR a :TranslationVariant ;
+:text "لقد سمعتُ حقًا أن الضيفة الفريجية هلكت هلاكًا بالغ الشقاء،"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in Antigone
+
+:TV_Line_825_AR a :TranslationVariant ;
+:text "ابنة تانتالوس، عند قمة سيبيلوس، وقد أخضعها كالنبات اللبلابي المتشبث"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_AR a :TranslationVariant ;
+:text "نموٌّ صخري؛ والمطر، وهي تذوب،"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_AR a :TranslationVariant ;
+:text "كما تقول رواية الناس،"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Line 828 and 829 do not exist in Antigone
+
+:TV_Line_830_AR a :TranslationVariant ;
+:text "والثلج لا يفارقانها أبدًا، وتبلل تحت حواجب كثيرة البكاء"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_AR a :TranslationVariant ;
+:text "عنقها؛ وبمثلها تمامًا يضجعني الإله."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Line 832 and 833 do not exist in Antigone
+
+:TV_Line_834_AR a :TranslationVariant ;
+:text "لكنها، على كل حال، إلهة ومن نسل الآلهة،"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_AR a :TranslationVariant ;
+:text "أما نحن فبشر ومن مواليد الفانين."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_AR a :TranslationVariant ;
+:text "ومع ذلك، فالأمر عظيم لمن ماتت أن تسمع"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_AR a :TranslationVariant ;
+:text "أنها نالت نصيبًا مشتركًا مع أمثال الآلهة."^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_AR a :TranslationVariant ;
+:text "حيةً ثم ميتةً."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_AR a :TranslationVariant ;
+:text "وا حسرتاه، إنني موضع سخرية. لماذا، بحق آلهة آبائي،"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_AR a :TranslationVariant ;
+:text "تهينني وأنا لم أذهب بعد، بل وأنا ظاهرة أمام العيون؟"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_AR a :TranslationVariant ;
+:text "يا مدينة، ويا رجال المدينة ذوي الأملاك الكثيرة؛"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_AR a :TranslationVariant ;
+:text "آه يا ينابيع ديركي،"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Line 843 and 844 do not exist in Antigone
+
+:TV_Line_845_AR a :TranslationVariant ;
+:text "ويا حرش طيبة ذات المركبات الحسنة، إياكم على الأقل أكتسب شهودًا معي،"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_AR a :TranslationVariant ;
+:text "كيف أمضي، غير مبكيّة من الأحبة، وبأي شرائع"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_AR a :TranslationVariant ;
+:text "إلى حبس القبر المتراكم بالحجارة، إلى قبر غريب."^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Line 848 and 849 do not exist in Antigone
+
+:TV_Line_850_AR a :TranslationVariant ;
+:text "لا ميتةً بين الموتى،"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_AR a :TranslationVariant ;
+:text "ولا مقيمةً مع الأحياء، ولا مع الأموات."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in Antigone
+
+:TV_Line_853_AR a :TranslationVariant ;
+:text "وقد تقدمتِ إلى أقصى حدّ من الجرأة،"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_AR a :TranslationVariant ;
+:text "إلى عرش العدالة العالي،"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_AR a :TranslationVariant ;
+:text "فسقطتِ عليه سقوطًا بعيدًا، أيتها الطفلة؛"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_AR a :TranslationVariant ;
+:text "وأنتِ تؤدين عقوبةً ما من ميراث أبيك."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in Antigone
+
+:TV_Line_858_AR a :TranslationVariant ;
+:text "لقد لمستَ أشد همومي إيلامًا لي،"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_AR a :TranslationVariant ;
+:text "رثاء أبي الثلاثيّ الذكر، ورثاء كل"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_AR a :TranslationVariant ;
+:text "قدرنا، قدر اللابدكيين المشهورين."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_AR a :TranslationVariant ;
+:text "آه، مضاجع أمي"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Line 862, 863 and 864 do not exist in Antigone
+
+:TV_Line_865_AR a :TranslationVariant ;
+:text "الكارثية، ومضاجع أمي الشقية التي ولدت نفسها لأبي،"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_AR a :TranslationVariant ;
+:text "ومن أمثال هؤلاء وُلدتُ أنا التعيسة؛"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_AR a :TranslationVariant ;
+:text "وإليهم أمضي أنا هذه، ملعونةً، بلا زواج، مقيمةً بينهم."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Line 868 and 869 do not exist in Antigone
+
+:TV_Line_870_AR a :TranslationVariant ;
+:text "وأنت يا أخي، وقد أصبتَ زواجًا سيئ الحظ،"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_AR a :TranslationVariant ;
+:text "بموتك قتلتني وأنا ما زلت حية."^^xsd:string ;
+:relatedTo :Line_871 .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-arabic a owl:Ontology .
+# Arabic translation variants for 1_to_19.ttl
+
+:TV_Line_001_AR a :TranslationVariant ;
+:text "يا إسميني، يا أختي الشقيقة المشتركة،"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_AR a :TranslationVariant ;
+:text "أتعلمين أيَّ شرٍّ من شرور أوديب"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_AR a :TranslationVariant ;
+:text "لا يزال زيوس ينجزه علينا نحن الاثنتين ونحن حيّتان؟"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_AR a :TranslationVariant ;
+:text "فما من شيء مؤلم، ولا خالٍ من البلاء،"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_AR a :TranslationVariant ;
+:text "ولا قبيح، ولا مهين، أيًّا كان،"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_AR a :TranslationVariant ;
+:text "إلا وقد رأيته أنا بين شرورك وشروري."^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_AR a :TranslationVariant ;
+:text "والآن، ما هذا الأمر الذي يقولون إن القائد"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_AR a :TranslationVariant ;
+:text "أعلنه لتوّه مرسومًا على المدينة كلها؟"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_AR a :TranslationVariant ;
+:text "أعندك شيء، وهل سمعتِ؟ أم يخفى عليك"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_AR a :TranslationVariant ;
+:text "أن شرور الأعداء تمضي نحو الأحبة؟"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_AR a :TranslationVariant ;
+:text "أما إليّ، يا أنتيغوني، فلم يبلغني خبر من الأحبة،"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_AR a :TranslationVariant ;
+:text "لا حلو ولا مؤلم، منذ"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_AR a :TranslationVariant ;
+:text "حُرمنا، نحن الأختين، من أخوينا الاثنين"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_AR a :TranslationVariant ;
+:text "إذ ماتا في يوم واحد بيدين متبادلتين؛"^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_AR a :TranslationVariant ;
+:text "ومنذ انصرف جيش الأرغوسيين"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_AR a :TranslationVariant ;
+:text "في هذه الليلة، لا أعلم شيئًا أكثر،"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_AR a :TranslationVariant ;
+:text "لا أنني أسعد أكثر، ولا أنني أشقى."^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_AR a :TranslationVariant ;
+:text "كنت أعلم ذلك حسنًا، ولهذا أرسلت في طلبك خارج أبواب الدار،"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_AR a :TranslationVariant ;
+:text "لكي تسمعي وحدك."^^xsd:string ;
+:relatedTo :Line_019 .

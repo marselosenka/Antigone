@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-portuguese a owl:Ontology .
+# Portuguese translation variants for 781_to_805.ttl
+
+:TV_Line_781_PT a :TranslationVariant ;
+:text "Eros, invencível na batalha; Eros, que caís sobre os bens,"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_PT a :TranslationVariant ;
+:text "que pernoitas nas faces macias de uma jovem,"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Lines 783 and 784 do not exist in canonical.
+
+:TV_Line_785_PT a :TranslationVariant ;
+:text "vagueias além-mar e entre moradas campestres;"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_PT a :TranslationVariant ;
+:text "e de ti nenhum dos imortais pode fugir,"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Lines 787, 788, and 789 do not exist in canonical.
+
+:TV_Line_790_PT a :TranslationVariant ;
+:text "nem dos homens de um dia; e quem te possui enlouquece."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_PT a :TranslationVariant ;
+:text "Tu arrastas até as mentes dos justos para pensamentos injustos, para ruína,"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_PT a :TranslationVariant ;
+:text "tu também perturbaste esta contenda de homens do mesmo sangue;"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Lines 793 and 794 do not exist in canonical.
+
+:TV_Line_795_PT a :TranslationVariant ;
+:text "vence o desejo manifesto dos olhos da noiva de belo leito,"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_PT a :TranslationVariant ;
+:text "sentado junto aos grandes princípios"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Lines 797, 798, and 799 do not exist in canonical.
+
+:TV_Line_800_PT a :TranslationVariant ;
+:text "das leis; pois invencível brinca a deusa Afrodite."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_PT a :TranslationVariant ;
+:text "Mas agora eu mesmo já sou levado para fora"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_PT a :TranslationVariant ;
+:text "das leis, vendo estas coisas, e conter"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_PT a :TranslationVariant ;
+:text "já não posso as fontes das lágrimas,"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_PT a :TranslationVariant ;
+:text "quando vejo o tálamo que a todos acolhe"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_PT a :TranslationVariant ;
+:text "esta Antígona alcançar."^^xsd:string ;
+:relatedTo :Line_805 .

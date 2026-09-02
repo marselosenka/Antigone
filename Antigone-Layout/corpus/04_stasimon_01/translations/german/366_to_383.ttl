@@ -1,0 +1,62 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-366-383-german a owl:Ontology .
+# German translation variants for 366_to_383.ttl
+
+:TV_Line_366_DE a :TranslationVariant ;
+:text "bald zum Schlechten, bald zum Guten kriecht er,"^^xsd:string ;
+:relatedTo :Line_366 .
+
+:TV_Line_367_DE a :TranslationVariant ;
+:text "die Gesetze des Landes und die beschworene Gerechtigkeit der Götter ehrend,"^^xsd:string ;
+:relatedTo :Line_367 .
+
+# Lines 368 and 369 are commented out in canonical.
+
+:TV_Line_370_DE a :TranslationVariant ;
+:text "hoch in der Stadt; stadtlos ist, wem das Nichtschöne"^^xsd:string ;
+:relatedTo :Line_370 .
+
+:TV_Line_371_DE a :TranslationVariant ;
+:text "um der Kühnheit willen beiwohnt. Weder an meinem Herd"^^xsd:string ;
+:relatedTo :Line_371 .
+
+# Lines 372, 373 and 374 are commented out in canonical.
+
+:TV_Line_375_DE a :TranslationVariant ;
+:text "möge er sein noch gleichgesinnt mit mir, der solches tut."^^xsd:string ;
+:relatedTo :Line_375 .
+
+:TV_Line_376_DE a :TranslationVariant ;
+:text "Über ein göttliches Wunder bin ich im Zweifel"^^xsd:string ;
+:relatedTo :Line_376 .
+
+:TV_Line_377_DE a :TranslationVariant ;
+:text "hierüber: wie werde ich, wenn ich es weiß, widersprechen,"^^xsd:string ;
+:relatedTo :Line_377 .
+
+:TV_Line_378_DE a :TranslationVariant ;
+:text "dass diese nicht das Kind Antigone ist?"^^xsd:string ;
+:relatedTo :Line_378 .
+
+:TV_Line_379_DE a :TranslationVariant ;
+:text "O Unglückliche"^^xsd:string ;
+:relatedTo :Line_379 .
+
+:TV_Line_380_DE a :TranslationVariant ;
+:text "und Tochter eines unglücklichen Vaters, Ödipus,"^^xsd:string ;
+:relatedTo :Line_380 .
+
+:TV_Line_381_DE a :TranslationVariant ;
+:text "was ist das? Führen sie dich etwa nicht als eine weg,"^^xsd:string ;
+:relatedTo :Line_381 .
+
+:TV_Line_382_DE a :TranslationVariant ;
+:text "die den königlichen Gesetzen ungehorsam war,"^^xsd:string ;
+:relatedTo :Line_382 .
+
+:TV_Line_383_DE a :TranslationVariant ;
+:text "und haben sie dich in Torheit ergriffen?"^^xsd:string ;
+:relatedTo :Line_383 .

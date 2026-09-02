@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-russian a owl:Ontology .
+# Russian translation variants for 806_to_822.ttl
+
+:TV_Line_806_RU a :TranslationVariant ;
+:text "Смотрите на меня, граждане отеческой земли, идущую последним путем"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_RU a :TranslationVariant ;
+:text "и глядящую на последний свет солнца,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Line 808 and 809 do not exist in Antigone
+
+:TV_Line_810_RU a :TranslationVariant ;
+:text "и никогда больше; но всеспящий Аид ведет меня живой"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_RU a :TranslationVariant ;
+:text "к берегу Ахеронта,"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_RU a :TranslationVariant ;
+:text "не получившую доли в брачных песнях и не на свадебных обрядах,"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Line 813 and 814 do not exist in Antigone
+
+:TV_Line_815_RU a :TranslationVariant ;
+:text "никакой гимн еще меня не воспел, но я буду обручена Ахеронту."^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in Antigone
+
+:TV_Line_817_RU a :TranslationVariant ;
+:text "Так вот славная и имеющая хвалу"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_RU a :TranslationVariant ;
+:text "ты уходишь в это скрытое место мертвых,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_RU a :TranslationVariant ;
+:text "не пораженная истощающими болезнями,"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_RU a :TranslationVariant ;
+:text "и не получившая платы мечей,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_RU a :TranslationVariant ;
+:text "но по собственному закону, живая, одна только"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_RU a :TranslationVariant ;
+:text "из смертных ты сойдешь к Аиду."^^xsd:string ;
+:relatedTo :Line_822 .

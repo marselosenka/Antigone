@@ -1,0 +1,87 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-spanish a owl:Ontology .
+# Spanish translation variants for 331_to_365.ttl
+
+:TV_Line_331_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_331 ;
+  :text "Salvado, debo a los dioses mucha gratitud."^^xsd:string .
+
+:TV_Line_332_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_332 ;
+  :text "Muchas son las cosas formidables, y nada"^^xsd:string .
+
+:TV_Line_333_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_333 ;
+  :text "más formidable que el hombre existe."^^xsd:string .
+
+:TV_Line_334_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_334 ;
+  :text "Este cruza también más allá"^^xsd:string .
+
+:TV_Line_335_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_335 ;
+  :text "del mar gris, con el Noto invernal,"^^xsd:string .
+
+:TV_Line_336_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_336 ;
+  :text "avanza, atravesando"^^xsd:string .
+
+:TV_Line_337_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_337 ;
+  :text "bajo olas que rugen alrededor; y a la más alta"^^xsd:string .
+
+:TV_Line_338_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_338 ;
+  :text "de los dioses, la Tierra,"^^xsd:string .
+
+:TV_Line_339_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_339 ;
+  :text "imperecedera, incansable, la fatiga,"^^xsd:string .
+
+:TV_Line_340_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_340 ;
+  :text "mientras los arados van y vienen año tras año,"^^xsd:string .
+
+:TV_Line_341_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_341 ;
+  :text "trabajándola con la raza de los caballos."^^xsd:string .
+
+:TV_Line_342_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_342 ;
+  :text "Y al linaje ligero de mente de las"^^xsd:string .
+
+:TV_Line_343_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_343 ;
+  :text "aves lo captura, envolviéndolo,"^^xsd:string .
+
+:TV_Line_344_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_344 ;
+  :text "y a las tribus de fieras salvajes,"^^xsd:string .
+
+:TV_Line_345_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_345 ;
+  :text "y a la naturaleza marina del ponto,"^^xsd:string .
+
+:TV_Line_346_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_346 ;
+  :text "con lazos de redes tejidas,"^^xsd:string .
+
+:TV_Line_347_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_347 ;
+  :text "el hombre hábil en recursos; domina"^^xsd:string .
+
+:TV_Line_348_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_348 ;
+  :text "con sus artificios a la fiera"^^xsd:string .
+
+:TV_Line_350_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_350 ;
+  :text "montaraz de los montes, y al caballo de cuello hirsuto"^^xsd:string .
+
+:TV_Line_351_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_351 ;
+  :text "lo somete al yugo que rodea la cerviz,"^^xsd:string .
+
+:TV_Line_352_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_352 ;
+  :text "y al toro montaraz, incansable en su fuerza."^^xsd:string .
+
+:TV_Line_355_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_355 ;
+  :text "Y el habla, y el pensamiento veloz como el viento, y las normas"^^xsd:string .
+
+:TV_Line_356_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_356 ;
+  :text "de la vida ciudadana se enseñó, y también a huir"^^xsd:string .
+
+:TV_Line_357_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_357 ;
+  :text "de los hielos al aire libre y de los dardos de la lluvia penosa."^^xsd:string .
+
+:TV_Line_358_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_358 ;
+  :text "Con recursos para todo, sin recursos ante nada llega"^^xsd:string .
+
+:TV_Line_360_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_360 ;
+  :text "a lo futuro; solo del Hades no conseguirá fuga."^^xsd:string .
+
+:TV_Line_361_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_361 ;
+  :text "Pero ha ideado escapes de enfermedades intratables."^^xsd:string .

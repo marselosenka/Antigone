@@ -1,0 +1,34 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-324-330-persian a owl:Ontology .
+# Persian translation variants for 324_to_330.ttl
+
+:TV_Line_324_FA a :TranslationVariant ;
+:text "اکنون رأی خود را با ظرافت بیارای؛ اما اگر اینها را"^^xsd:string ;
+:relatedTo :Line_324 .
+
+:TV_Line_325_FA a :TranslationVariant ;
+:text "برای من آشکار نکنید، یعنی کسانی را که انجام داده‌اند، خواهید گفت که"^^xsd:string ;
+:relatedTo :Line_325 .
+
+:TV_Line_326_FA a :TranslationVariant ;
+:text "سودهای پست، آسیب‌ها پدید می‌آورند."^^xsd:string ;
+:relatedTo :Line_326 .
+
+:TV_Line_327_FA a :TranslationVariant ;
+:text "اما کاش او بیش از همه یافت شود؛ و اگر،"^^xsd:string ;
+:relatedTo :Line_327 .
+
+:TV_Line_328_FA a :TranslationVariant ;
+:text "خواه گرفته شود خواه نه، زیرا بخت این را داوری خواهد کرد،"^^xsd:string ;
+:relatedTo :Line_328 .
+
+:TV_Line_329_FA a :TranslationVariant ;
+:text "هیچ راهی نیست که تو مرا بار دیگر آمده به اینجا ببینی."^^xsd:string ;
+:relatedTo :Line_329 .
+
+:TV_Line_330_FA a :TranslationVariant ;
+:text "زیرا اکنون نیز بیرون از امید و رأی من"^^xsd:string ;
+:relatedTo :Line_330 .

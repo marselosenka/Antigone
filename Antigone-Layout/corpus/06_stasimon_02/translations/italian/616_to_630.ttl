@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-italian a owl:Ontology .
+# Italian translation variants for 616_to_630.ttl
+
+:TV_Line_616_IT a :TranslationVariant ;
+:text "ma per molti è inganno di desideri dalla mente leggera;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_IT a :TranslationVariant ;
+:text "e striscia verso chi non sa nulla, prima che qualcuno tocchi col piede il fuoco caldo."^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in canonical.
+
+:TV_Line_620_IT a :TranslationVariant ;
+:text "Poiché con sapienza una parola dei famosi si è manifestata."^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_IT a :TranslationVariant ;
+:text "Che le cose cattive sembrino talvolta buone"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_IT a :TranslationVariant ;
+:text "a colui al quale le menti"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_IT a :TranslationVariant ;
+:text "un dio conduce verso la rovina;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 is commented out in canonical.
+
+:TV_Line_625_IT a :TranslationVariant ;
+:text "e agisce per brevissimo tempo fuori dalla rovina."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_IT a :TranslationVariant ;
+:text "Ecco dunque Emone, dei tuoi figli"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_IT a :TranslationVariant ;
+:text "il più giovane germoglio; forse viene addolorato"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_IT a :TranslationVariant ;
+:text "per la sorte della sua promessa, Antigone,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 is commented out in canonical.
+
+:TV_Line_630_IT a :TranslationVariant ;
+:text "profondamente afflitto dall’inganno del letto nuziale?"^^xsd:string ;
+:relatedTo :Line_630 .

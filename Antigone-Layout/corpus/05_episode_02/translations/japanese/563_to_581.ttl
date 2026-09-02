@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-japanese a owl:Ontology .
+# Japanese translation variants for 563_to_581.ttl
+
+:TV_Line_563_JA a :TranslationVariant ;
+:text "王よ、悪い境遇にある者たちには、たとえ芽生えた心でも"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_JA a :TranslationVariant ;
+:text "決して留まらず、外へ逸れてしまいます。"^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_JA a :TranslationVariant ;
+:text "お前には確かにそうだ、悪人たちと共に悪を行うことを選んだ時から。"^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_JA a :TranslationVariant ;
+:text "この女なしに、私一人にとって何が生きるに値するでしょう。"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_JA a :TranslationVariant ;
+:text "だが、この女については語るな。もはや存在しないからだ。"^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_JA a :TranslationVariant ;
+:text "しかしあなたは自分の子の花嫁を殺すのですか。"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_JA a :TranslationVariant ;
+:text "耕す畝は、他の女たちにもある。"^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_JA a :TranslationVariant ;
+:text "けれども彼にとって、この女に結ばれていたようにはありません。"^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_JA a :TranslationVariant ;
+:text "私は息子たちに悪い妻を憎む。"^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_JA a :TranslationVariant ;
+:text "おお最愛のハイモン、父はあなたを何と辱めることか。"^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_JA a :TranslationVariant ;
+:text "お前も、お前の婚床も、あまりに私を苦しめる。"^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_JA a :TranslationVariant ;
+:text "本当に、この女からあなた自身の子を奪うのですか。"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_JA a :TranslationVariant ;
+:text "ハデスこそ、この婚姻を終わらせる者として生まれている。"^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_JA a :TranslationVariant ;
+:text "この女が死ぬことは決められているようだ。"^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_JA a :TranslationVariant ;
+:text "お前にも私にもだ。もう遅らせるな、さあ彼女を"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_JA a :TranslationVariant ;
+:text "中へ連れて行け、召使いたちよ。これからは"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_JA a :TranslationVariant ;
+:text "これらの女たちは女であり、放たれていてはならない。"^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_JA a :TranslationVariant ;
+:text "というのも、大胆な者たちでさえ逃げるものだ、"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_JA a :TranslationVariant ;
+:text "生の近くにすでにハデスを見る時には。"^^xsd:string ;
+:relatedTo :Line_581 .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-563-581-arabic a owl:Ontology .
+# Arabic translation variants for 563_to_581.ttl
+
+:TV_Line_563_AR a :TranslationVariant ;
+:text "فليس أبدًا، أيها السيد، حتى العقل الذي ينبت يبقى"^^xsd:string ;
+:relatedTo :Line_563 .
+
+:TV_Line_564_AR a :TranslationVariant ;
+:text "العقل عند من تسوء حالهم، بل يخرج عن مكانه."^^xsd:string ;
+:relatedTo :Line_564 .
+
+:TV_Line_565_AR a :TranslationVariant ;
+:text "على الأقل عندك، حين اخترت أن تفعلي الشرور مع الأشرار."^^xsd:string ;
+:relatedTo :Line_565 .
+
+:TV_Line_566_AR a :TranslationVariant ;
+:text "فما حياة محتملة لي وحدي بدون هذه؟"^^xsd:string ;
+:relatedTo :Line_566 .
+
+:TV_Line_567_AR a :TranslationVariant ;
+:text "لكن لا تقولي هذه؛ فهي لم تعد موجودة."^^xsd:string ;
+:relatedTo :Line_567 .
+
+:TV_Line_568_AR a :TranslationVariant ;
+:text "لكن أتقتل عروس ابنك أنت؟"^^xsd:string ;
+:relatedTo :Line_568 .
+
+:TV_Line_569_AR a :TranslationVariant ;
+:text "فحقول الآخرين أيضًا صالحة للحرث."^^xsd:string ;
+:relatedTo :Line_569 .
+
+:TV_Line_570_AR a :TranslationVariant ;
+:text "لا كما كانت هذه ملائمة له."^^xsd:string ;
+:relatedTo :Line_570 .
+
+:TV_Line_571_AR a :TranslationVariant ;
+:text "أنا أمقت زوجات شريرات لأبنائي."^^xsd:string ;
+:relatedTo :Line_571 .
+
+:TV_Line_572_AR a :TranslationVariant ;
+:text "يا أعز هيمون، كيف يهينك أبوك."^^xsd:string ;
+:relatedTo :Line_572 .
+
+:TV_Line_573_AR a :TranslationVariant ;
+:text "إنك تؤلمينني كثيرًا، أنت وسريرك."^^xsd:string ;
+:relatedTo :Line_573 .
+
+:TV_Line_574_AR a :TranslationVariant ;
+:text "أحقًا ستحرم ابنك من هذه؟"^^xsd:string ;
+:relatedTo :Line_574 .
+
+:TV_Line_575_AR a :TranslationVariant ;
+:text "هاديس هو الذي وُجد ليوقف هذه الزيجات."^^xsd:string ;
+:relatedTo :Line_575 .
+
+:TV_Line_576_AR a :TranslationVariant ;
+:text "لقد تقرر، كما يبدو، أن تموت هذه."^^xsd:string ;
+:relatedTo :Line_576 .
+
+:TV_Line_577_AR a :TranslationVariant ;
+:text "ولك ولي أيضًا. لا مزيد من الإبطاء، بل خذوها"^^xsd:string ;
+:relatedTo :Line_577 .
+
+:TV_Line_578_AR a :TranslationVariant ;
+:text "إلى الداخل، أيها العبيد؛ ومن الآن يجب"^^xsd:string ;
+:relatedTo :Line_578 .
+
+:TV_Line_579_AR a :TranslationVariant ;
+:text "أن تكون هاتان المرأتان امرأتين، لا مطلقتين."^^xsd:string ;
+:relatedTo :Line_579 .
+
+:TV_Line_580_AR a :TranslationVariant ;
+:text "فحتى الجريئون يفرون، حقًّا، حين يرون قريبًا"^^xsd:string ;
+:relatedTo :Line_580 .
+
+:TV_Line_581_AR a :TranslationVariant ;
+:text "هاديس، عند نهاية الحياة."^^xsd:string ;
+:relatedTo :Line_581 .

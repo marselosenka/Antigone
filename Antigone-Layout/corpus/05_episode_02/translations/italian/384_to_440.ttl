@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-italian a owl:Ontology .
+# Italian translation variants for 384_to_440.ttl
+
+:TV_Line_384_IT a :TranslationVariant ;
+:text "È questa colei che ha compiuto l'opera;"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_IT a :TranslationVariant ;
+:text "questa prendemmo mentre seppelliva. Ma dov'è Creonte?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_IT a :TranslationVariant ;
+:text "Eccolo, torna dalla casa al momento opportuno."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_IT a :TranslationVariant ;
+:text "Che c'è? A quale sorte adatta sono uscito?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_IT a :TranslationVariant ;
+:text "Signore, per i mortali nulla è cosa da giurare mai."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_IT a :TranslationVariant ;
+:text "Infatti il pensiero successivo smentisce il proposito; poiché"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_IT a :TranslationVariant ;
+:text "a stento avrei vantato un giorno di venire qui"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_IT a :TranslationVariant ;
+:text "dopo le tue minacce, da cui allora fui tempestato."^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_IT a :TranslationVariant ;
+:text "Ma infatti la gioia che viene fuori e contro speranza"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_IT a :TranslationVariant ;
+:text "per grandezza non somiglia a nessun altro piacere,"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_IT a :TranslationVariant ;
+:text "vengo, pur avendo giurato di non venire,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_IT a :TranslationVariant ;
+:text "portando questa fanciulla, che fu presa a ornare"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_IT a :TranslationVariant ;
+:text "una tomba. Qui non si agitò alcun sorteggio,"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_IT a :TranslationVariant ;
+:text "ma questo colpo di fortuna è mio, non d'altri."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_IT a :TranslationVariant ;
+:text "E ora, signore, prendila tu stesso, come vuoi,"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_IT a :TranslationVariant ;
+:text "e giudicala e confutala; io invece, libero,"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_IT a :TranslationVariant ;
+:text "ho diritto di essere sciolto da questi mali."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_IT a :TranslationVariant ;
+:text "Porti costei? In che modo, e dove l'hai presa?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_IT a :TranslationVariant ;
+:text "Costei seppelliva l'uomo; sai tutto."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_IT a :TranslationVariant ;
+:text "Comprendi davvero e dici rettamente ciò che affermi?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_IT a :TranslationVariant ;
+:text "Avendo visto proprio questa seppellire il morto che tu"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_IT a :TranslationVariant ;
+:text "avevi vietato. Dico cose manifeste e chiare?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_IT a :TranslationVariant ;
+:text "E come fu vista e presa sul fatto?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_IT a :TranslationVariant ;
+:text "La cosa stava così. Quando infatti arrivammo,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_IT a :TranslationVariant ;
+:text "minacciati da te con quelle cose terribili,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_IT a :TranslationVariant ;
+:text "spazzando via tutta la polvere che copriva"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_IT a :TranslationVariant ;
+:text "il cadavere e scoprendo bene il corpo putrescente,"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_IT a :TranslationVariant ;
+:text "sedevamo sulle alture dei colli, sottovento,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_IT a :TranslationVariant ;
+:text "fuggendo che l'odore da lui ci colpisse,"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_IT a :TranslationVariant ;
+:text "ciascun uomo, risvegliando l'altro, lo spingeva con rimproveri"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_IT a :TranslationVariant ;
+:text "cattivi, se qualcuno trascurasse questa fatica."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_IT a :TranslationVariant ;
+:text "Per tanto tempo ciò durò, finché nell'etere"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_IT a :TranslationVariant ;
+:text "stette nel mezzo il cerchio luminoso del sole"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_IT a :TranslationVariant ;
+:text "e la calura ardeva; e allora d'improvviso dalla terra"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_IT a :TranslationVariant ;
+:text "un turbine, sollevando una tempesta, dolore celeste,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_IT a :TranslationVariant ;
+:text "riempì la pianura, maltrattando tutta la chioma"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_IT a :TranslationVariant ;
+:text "del bosco della pianura; e si riempì il grande"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_IT a :TranslationVariant ;
+:text "etere; chiusi gli occhi sopportavamo la malattia divina."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_IT a :TranslationVariant ;
+:text "E quando questo dopo lungo tempo fu passato,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_IT a :TranslationVariant ;
+:text "la fanciulla è vista, e grida acuto il suono"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_IT a :TranslationVariant ;
+:text "di un uccello amaro, come quando di un vuoto"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_IT a :TranslationVariant ;
+:text "letto vede il nido orfano dei piccoli."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_IT a :TranslationVariant ;
+:text "Così anche lei, quando vede nudo il cadavere,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_IT a :TranslationVariant ;
+:text "con lamenti gemeva forte, e maledizioni cattive"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_IT a :TranslationVariant ;
+:text "invocava contro quelli che avevano compiuto l'opera."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_IT a :TranslationVariant ;
+:text "E subito con le mani porta polvere assetata,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_IT a :TranslationVariant ;
+:text "e da un vaso bronzeo ben battuto, sollevato in alto,"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_IT a :TranslationVariant ;
+:text "con libagioni triple incorona il cadavere."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_IT a :TranslationVariant ;
+:text "E noi, vedendo, ci slanciammo, e insieme"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_IT a :TranslationVariant ;
+:text "la catturammo subito, per nulla spaventata,"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_IT a :TranslationVariant ;
+:text "e la accusavamo delle azioni di prima e di ora,"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_IT a :TranslationVariant ;
+:text "azioni; ma non si poneva a negare nulla,"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_IT a :TranslationVariant ;
+:text "per me insieme piacevole e doloroso insieme."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_IT a :TranslationVariant ;
+:text "Infatti l'essere io stesso fuggito dai mali"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_IT a :TranslationVariant ;
+:text "è cosa dolcissima, ma condurre gli amici nel male"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_IT a :TranslationVariant ;
+:text "è doloroso; ma tutte queste cose prenderle come inferiori"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_IT a :TranslationVariant ;
+:text "mi è naturale rispetto alla mia salvezza."^^xsd:string ;
+:relatedTo :Line_440 .

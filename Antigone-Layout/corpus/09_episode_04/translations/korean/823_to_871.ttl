@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-korean a owl:Ontology .
+# Korean translation variants for 823_to_871.ttl
+
+:TV_Line_823_KO a :TranslationVariant ;
+:text "저는 들었습니다, 가장 비참하게 죽었다는, 프뤼기아의 낯선 여인을,"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 does not exist in Antigone
+
+:TV_Line_825_KO a :TranslationVariant ;
+:text "탄탈로스의 딸을, 시퓔로스의 꼭대기에서, 집요한 담쟁이처럼"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_KO a :TranslationVariant ;
+:text "바위의 싹이 그녀를 제압했으며, 녹아내리는 그녀에게 비들이,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_KO a :TranslationVariant ;
+:text "사람들의 말처럼,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Lines 828 and 829 do not exist in Antigone
+
+:TV_Line_830_KO a :TranslationVariant ;
+:text "눈도 결코 떠나지 않고, 온통 울음 어린 눈썹 아래에서"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_KO a :TranslationVariant ;
+:text "목덜미를 적신다고. 그와 가장 비슷하게 신령은 저를 잠재웁니다."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Lines 832 and 833 do not exist in Antigone
+
+:TV_Line_834_KO a :TranslationVariant ;
+:text "그러나 그녀는 신이며 신에게서 태어난 자이고,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_KO a :TranslationVariant ;
+:text "우리는 죽을 인간이며 죽을 자에게서 태어난 자들이다."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_KO a :TranslationVariant ;
+:text "그래도 죽은 뒤에라도 위대한 일이고 들을 만한 일이다,"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_KO a :TranslationVariant ;
+:text "신과 같은 자들과 같은 몫을 얻는다는 것은,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_KO a :TranslationVariant ;
+:text "살아 있을 때도, 그리고 죽은 뒤에도."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_KO a :TranslationVariant ;
+:text "아아, 저는 조롱받고 있습니다. 조상들의 신들을 두고, 왜 저를,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_KO a :TranslationVariant ;
+:text "죽어서 떠난 뒤가 아니라 아직 눈앞에 있는 저를 모욕합니까?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_KO a :TranslationVariant ;
+:text "오 도시여, 오 도시의 많은 재산을 가진 사람들아,"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_KO a :TranslationVariant ;
+:text "아, 디르케의 샘들이여,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Lines 843 and 844 do not exist in Antigone
+
+:TV_Line_845_KO a :TranslationVariant ;
+:text "잘 무장한 테바이의 숲이여, 그래도 나는 너희를 함께 증인으로 얻습니다,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_KO a :TranslationVariant ;
+:text "친구들에게서 울음도 받지 못한 채, 어떤 법들 아래"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_KO a :TranslationVariant ;
+:text "흙으로 덮인 무덤의 가두리, 새로운 무덤으로 제가 가는지를."^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Lines 848 and 849 do not exist in Antigone
+
+:TV_Line_850_KO a :TranslationVariant ;
+:text "죽은 자로서 죽은 자들 사이에"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_KO a :TranslationVariant ;
+:text "사는 것도 아니고, 산 자들 사이에도, 죽은 자들 사이에도 아닙니다."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 does not exist in Antigone
+
+:TV_Line_853_KO a :TranslationVariant ;
+:text "대담함의 끝까지 나아가,"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_KO a :TranslationVariant ;
+:text "정의의 높은 기단에"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_KO a :TranslationVariant ;
+:text "너는 크게 부딪혔다, 아이야."^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_KO a :TranslationVariant ;
+:text "그리고 아버지에게서 온 어떤 시련을 갚고 있다."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 does not exist in Antigone
+
+:TV_Line_858_KO a :TranslationVariant ;
+:text "당신은 제게 가장 고통스러운 근심들을 건드렸습니다,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_KO a :TranslationVariant ;
+:text "아버지의 세 도시에 걸친 슬픔과, 우리 전체"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_KO a :TranslationVariant ;
+:text "운명의 슬픔, 이름 높은 라브다코스 가문을."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_KO a :TranslationVariant ;
+:text "아아, 어머니의 침상들의"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Lines 862, 863 and 864 do not exist in Antigone
+
+:TV_Line_865_KO a :TranslationVariant ;
+:text "파멸이여, 불행한 어머니가 제 아버지와 스스로 낳은 잠자리들이여,"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_KO a :TranslationVariant ;
+:text "그런 이들로부터 언젠가 가엾은 제가 태어났습니다."^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_KO a :TranslationVariant ;
+:text "그들에게로, 저주받은 채 혼인하지 못한 이 몸이 거류민처럼 갑니다."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Lines 868 and 869 do not exist in Antigone
+
+:TV_Line_870_KO a :TranslationVariant ;
+:text "오 불운한 혼인을 만난 형제여,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_KO a :TranslationVariant ;
+:text "죽어서도 아직 살아 있는 나를 네가 쓰러뜨렸구나."^^xsd:string ;
+:relatedTo :Line_871 .

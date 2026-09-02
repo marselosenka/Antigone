@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-korean a owl:Ontology .
+# Korean translation variants for 872_to_928.ttl
+
+:TV_Line_872_KO a :TranslationVariant ;
+:text "공경하는 일은 어떤 경건함이다,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_KO a :TranslationVariant ;
+:text "그러나 권력은, 권력을 돌보는 자에게,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_KO a :TranslationVariant ;
+:text "어떤 식으로도 넘어설 수 있는 것이 아니다."^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_KO a :TranslationVariant ;
+:text "너는 자기 판단의 성정이 멸망시켰다."^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_KO a :TranslationVariant ;
+:text "울음도 없이, 친구도 없이, 혼례 노래도 없이 가엾은 저는 끌려갑니다,"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_KO a :TranslationVariant ;
+:text "마지막 길을. 더 이상 저에게 이"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_KO a :TranslationVariant ;
+:text "횃불의 거룩한 눈을"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in Antigone
+
+:TV_Line_880_KO a :TranslationVariant ;
+:text "보는 것은 허락되지 않습니다, 가엾은 저에게."^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_KO a :TranslationVariant ;
+:text "내 운명을 위해서는, 눈물 없이,"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_KO a :TranslationVariant ;
+:text "친구들 중 아무도 탄식하지 않습니다."^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_KO a :TranslationVariant ;
+:text "너희는 알지 못하느냐, 죽기 전 노래와 통곡은"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_KO a :TranslationVariant ;
+:text "필요하다면 누구도 말하며 멈추게 할 수 없다는 것을?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_KO a :TranslationVariant ;
+:text "가장 빨리 데려가지 않겠느냐? 그리고 지붕 덮인"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_KO a :TranslationVariant ;
+:text "무덤으로 감싸서, 내가 말한 대로,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_KO a :TranslationVariant ;
+:text "홀로 버려두어라, 죽어야 한다면,"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_KO a :TranslationVariant ;
+:text "또는 그런 무덤 같은 집에서 산 채로 있어야 한다면."^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_KO a :TranslationVariant ;
+:text "우리는 이 소녀에게 관한 일에서는 깨끗하다."^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_KO a :TranslationVariant ;
+:text "그러나 위쪽에서의 거주지는 빼앗길 것이다."^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_KO a :TranslationVariant ;
+:text "오 무덤이여, 오 혼방이여, 오 파내려 간"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_KO a :TranslationVariant ;
+:text "거처여, 언제나 지키는 곳이여, 그곳으로 저는 갑니다,"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_KO a :TranslationVariant ;
+:text "제 가족들에게로. 그들 중 죽은 자들 가운데"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_KO a :TranslationVariant ;
+:text "가장 많은 수를 페르세파사가 받아들였습니다."^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_KO a :TranslationVariant ;
+:text "그들 중 마지막으로, 그리고 훨씬 가장 비참하게"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_KO a :TranslationVariant ;
+:text "저는 내려갑니다, 제 삶의 몫이 끝나기도 전에."^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_KO a :TranslationVariant ;
+:text "그러나 가서는, 저는 강한 희망 속에서 기릅니다,"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_KO a :TranslationVariant ;
+:text "아버지께 사랑스럽게 이를 것이라고, 또 당신께도 사랑스럽게,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_KO a :TranslationVariant ;
+:text "어머니여, 그리고 당신께도 사랑스럽게, 형제의 머리여."^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_KO a :TranslationVariant ;
+:text "당신들이 죽었을 때, 제 손으로 저는 당신들을"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_KO a :TranslationVariant ;
+:text "씻기고 장식했으며, 무덤 위의"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_KO a :TranslationVariant ;
+:text "제주를 드렸습니다. 그런데 이제, 폴뤼네이케스여, 당신의"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_KO a :TranslationVariant ;
+:text "몸을 덮어 주다가 이런 보상을 얻습니다."^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_KO a :TranslationVariant ;
+:text "그러나 저는 생각이 바른 이들에게는 당신을 공경했습니다."^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_KO a :TranslationVariant ;
+:text "왜냐하면 제가 자식들의 어머니였더라도 결코,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_KO a :TranslationVariant ;
+:text "또는 남편이 죽어 저를 녹게 했더라도,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_KO a :TranslationVariant ;
+:text "시민들의 힘을 무릅쓰고 이런 수고를 선택하지 않았을 것입니다."^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_KO a :TranslationVariant ;
+:text "대체 어떤 법 때문에, 누구를 위해 제가 이 말을 합니까?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_KO a :TranslationVariant ;
+:text "남편이 죽었다면 제게 다른 남편이 있었을 것이고,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_KO a :TranslationVariant ;
+:text "이 아이를 잃었다면 다른 남자에게서 아이도 있었을 것입니다."^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_KO a :TranslationVariant ;
+:text "그러나 어머니와 아버지가 하데스 안에 숨겨진 뒤에는,"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_KO a :TranslationVariant ;
+:text "언젠가 다시 돋아날 형제는 있을 수 없습니다."^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_KO a :TranslationVariant ;
+:text "이런 법으로 당신을 특별히 공경한 저를,"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_KO a :TranslationVariant ;
+:text "크레온에게는 이것들이 잘못으로 보였고,"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_KO a :TranslationVariant ;
+:text "두려운 일을 감행한 것으로 보였습니다, 오 형제의 머리여."^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_KO a :TranslationVariant ;
+:text "그리고 이제 그는 제 손을 이렇게 붙잡아 저를 끌고 갑니다,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_KO a :TranslationVariant ;
+:text "침상도 없이, 혼례 노래도 없이, 어떤 혼인의"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_KO a :TranslationVariant ;
+:text "몫도 얻지 못하고, 자식 양육의 몫도 얻지 못한 저를,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_KO a :TranslationVariant ;
+:text "이렇게 친구들에게 버려진 불운한 저는"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_KO a :TranslationVariant ;
+:text "살아서 죽은 자들의 파낸 곳으로 갑니다."^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_KO a :TranslationVariant ;
+:text "제가 신령들의 어떤 정의를 어긴 것입니까?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_KO a :TranslationVariant ;
+:text "무엇 때문에 가엾은 제가 아직 신들을"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_KO a :TranslationVariant ;
+:text "바라보아야 합니까? 어떤 동맹들을 불러야 합니까? 참으로"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_KO a :TranslationVariant ;
+:text "경건하게 행하여 불경함을 얻었으니."^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_KO a :TranslationVariant ;
+:text "그러나 만일 이것들이 신들 앞에서 아름다운 것이라면,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_KO a :TranslationVariant ;
+:text "고통을 겪은 뒤, 잘못한 자로서 우리는 깨닫게 될 것입니다."^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_KO a :TranslationVariant ;
+:text "그러나 이들이 잘못하고 있다면, 그들이 더 많은 재앙을"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_KO a :TranslationVariant ;
+:text "겪지 않기를, 그들이 부당하게 제게 행하는 것보다."^^xsd:string ;
+:relatedTo :Line_928 .

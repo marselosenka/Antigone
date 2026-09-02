@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-508-535-italian a owl:Ontology .
+# Italian translation variants for 508_to_535.ttl
+
+:TV_Line_508_IT a :TranslationVariant ;
+:text "Tu sola tra questi Cadmei vedi questo."^^xsd:string ;
+:relatedTo :Line_508 .
+
+:TV_Line_509_IT a :TranslationVariant ;
+:text "Anche costoro lo vedono, ma davanti a te chiudono la bocca."^^xsd:string ;
+:relatedTo :Line_509 .
+
+:TV_Line_510_IT a :TranslationVariant ;
+:text "E tu non ti vergogni, se pensi separatamente da questi?"^^xsd:string ;
+:relatedTo :Line_510 .
+
+:TV_Line_511_IT a :TranslationVariant ;
+:text "Infatti non è vergognoso venerare quelli dello stesso ventre."^^xsd:string ;
+:relatedTo :Line_511 .
+
+:TV_Line_512_IT a :TranslationVariant ;
+:text "Non era forse dello stesso sangue anche quello morto dall'altra parte?"^^xsd:string ;
+:relatedTo :Line_512 .
+
+:TV_Line_513_IT a :TranslationVariant ;
+:text "Dello stesso sangue, da una sola madre e dallo stesso padre."^^xsd:string ;
+:relatedTo :Line_513 .
+
+:TV_Line_514_IT a :TranslationVariant ;
+:text "Come dunque onori quello con favore empio verso l'altro?"^^xsd:string ;
+:relatedTo :Line_514 .
+
+:TV_Line_515_IT a :TranslationVariant ;
+:text "Il cadavere morto non testimonierà queste cose."^^xsd:string ;
+:relatedTo :Line_515 .
+
+:TV_Line_516_IT a :TranslationVariant ;
+:text "Se appunto lo onori allo stesso modo dell'empio."^^xsd:string ;
+:relatedTo :Line_516 .
+
+:TV_Line_517_IT a :TranslationVariant ;
+:text "Infatti non come schiavo, ma come fratello morì."^^xsd:string ;
+:relatedTo :Line_517 .
+
+:TV_Line_518_IT a :TranslationVariant ;
+:text "Devastando questa terra; l'altro invece resistendo in difesa."^^xsd:string ;
+:relatedTo :Line_518 .
+
+:TV_Line_519_IT a :TranslationVariant ;
+:text "Tuttavia Hades desidera queste leggi uguali."^^xsd:string ;
+:relatedTo :Line_519 .
+
+:TV_Line_520_IT a :TranslationVariant ;
+:text "Ma il buono non ha da ottenere sorte uguale al cattivo."^^xsd:string ;
+:relatedTo :Line_520 .
+
+:TV_Line_521_IT a :TranslationVariant ;
+:text "Chi sa se laggiù queste cose sono pure?"^^xsd:string ;
+:relatedTo :Line_521 .
+
+:TV_Line_522_IT a :TranslationVariant ;
+:text "Il nemico non diventa mai amico, neppure quando muore."^^xsd:string ;
+:relatedTo :Line_522 .
+
+:TV_Line_523_IT a :TranslationVariant ;
+:text "Non nacqui per condividere odio, ma per condividere amore."^^xsd:string ;
+:relatedTo :Line_523 .
+
+:TV_Line_524_IT a :TranslationVariant ;
+:text "Scendi dunque laggiù e, se bisogna amare, ama"^^xsd:string ;
+:relatedTo :Line_524 .
+
+:TV_Line_525_IT a :TranslationVariant ;
+:text "quelli; mentre io vivo, una donna non governerà."^^xsd:string ;
+:relatedTo :Line_525 .
+
+:TV_Line_526_IT a :TranslationVariant ;
+:text "E davvero davanti alle porte c'è questa Ismene,"^^xsd:string ;
+:relatedTo :Line_526 .
+
+:TV_Line_527_IT a :TranslationVariant ;
+:text "versando lacrime giù per amore della sorella;"^^xsd:string ;
+:relatedTo :Line_527 .
+
+:TV_Line_528_IT a :TranslationVariant ;
+:text "e una nube sopra le sopracciglia, sanguigna,"^^xsd:string ;
+:relatedTo :Line_528 .
+
+:TV_Line_529_IT a :TranslationVariant ;
+:text "deturpa il volto,"^^xsd:string ;
+:relatedTo :Line_529 .
+
+:TV_Line_530_IT a :TranslationVariant ;
+:text "bagnando la guancia dal bel viso."^^xsd:string ;
+:relatedTo :Line_530 .
+
+:TV_Line_531_IT a :TranslationVariant ;
+:text "Tu invece, che in casa come vipera nascosta"^^xsd:string ;
+:relatedTo :Line_531 .
+
+:TV_Line_532_IT a :TranslationVariant ;
+:text "mi bevevi di nascosto, e io non capivo,"^^xsd:string ;
+:relatedTo :Line_532 .
+
+:TV_Line_533_IT a :TranslationVariant ;
+:text "nutrendo due rovine e sollevazioni dei troni,"^^xsd:string ;
+:relatedTo :Line_533 .
+
+:TV_Line_534_IT a :TranslationVariant ;
+:text "su, dimmi ora: anche tu di questa sepoltura"^^xsd:string ;
+:relatedTo :Line_534 .
+
+:TV_Line_535_IT a :TranslationVariant ;
+:text "dirai di aver partecipato, o giurerai di non saperne nulla?"^^xsd:string ;
+:relatedTo :Line_535 .

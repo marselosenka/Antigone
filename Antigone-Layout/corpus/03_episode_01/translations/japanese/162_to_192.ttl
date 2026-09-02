@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-japanese a owl:Ontology .
+# Japanese translation variants for 162_to_192.ttl
+
+:TV_Line_162_JA a :TranslationVariant ;
+:text "男たちよ、町の事柄を、神々は確かに"^^xsd:string ;
+:relatedTo :Line_162 .
+
+:TV_Line_163_JA a :TranslationVariant ;
+:text "大きな波乱で揺さぶった後、再びまっすぐに立て直した。"^^xsd:string ;
+:relatedTo :Line_163 .
+
+:TV_Line_164_JA a :TranslationVariant ;
+:text "そして私は、すべての者から別に、使者たちによってあなた方を"^^xsd:string ;
+:relatedTo :Line_164 .
+
+:TV_Line_165_JA a :TranslationVariant ;
+:text "来させるために送った。第一に、ライオスの"^^xsd:string ;
+:relatedTo :Line_165 .
+
+:TV_Line_166_JA a :TranslationVariant ;
+:text "王座の権威をあなた方が常に敬っているとよく知っているから、"^^xsd:string ;
+:relatedTo :Line_166 .
+
+:TV_Line_167_JA a :TranslationVariant ;
+:text "また次に、オイディプスが町をまっすぐに立てた時にも、"^^xsd:string ;
+:relatedTo :Line_167 .
+
+:TV_Line_168_JA a :TranslationVariant ;
+:text "そして彼が滅びた後にも、なお彼らの子らのそばに"^^xsd:string ;
+:relatedTo :Line_168 .
+
+:TV_Line_169_JA a :TranslationVariant ;
+:text "揺るぎない心で留まっていたからだ。"^^xsd:string ;
+:relatedTo :Line_169 .
+
+:TV_Line_170_JA a :TranslationVariant ;
+:text "そこで、あの二人が二重の運命によって、一日のうちに"^^xsd:string ;
+:relatedTo :Line_170 .
+
+:TV_Line_171_JA a :TranslationVariant ;
+:text "滅びた時、打ち、そして"^^xsd:string ;
+:relatedTo :Line_171 .
+
+:TV_Line_172_JA a :TranslationVariant ;
+:text "自らの手による汚れとともに打たれて、"^^xsd:string ;
+:relatedTo :Line_172 .
+
+:TV_Line_173_JA a :TranslationVariant ;
+:text "今や私はすべての権力と王座を持っている、"^^xsd:string ;
+:relatedTo :Line_173 .
+
+:TV_Line_174_JA a :TranslationVariant ;
+:text "滅びた者たちとの血縁の近さによって。"^^xsd:string ;
+:relatedTo :Line_174 .
+
+:TV_Line_175_JA a :TranslationVariant ;
+:text "しかし、どんな男についても知り尽くすことは不可能だ、"^^xsd:string ;
+:relatedTo :Line_175 .
+
+:TV_Line_176_JA a :TranslationVariant ;
+:text "その魂も、思いも、判断も、"^^xsd:string ;
+:relatedTo :Line_176 .
+
+:TV_Line_177_JA a :TranslationVariant ;
+:text "彼が統治と法に慣れた者として現れるまでは。"^^xsd:string ;
+:relatedTo :Line_177 .
+
+:TV_Line_178_JA a :TranslationVariant ;
+:text "というのも私には、町全体を正しく導きながら"^^xsd:string ;
+:relatedTo :Line_178 .
+
+:TV_Line_179_JA a :TranslationVariant ;
+:text "最善の考えに触れず、"^^xsd:string ;
+:relatedTo :Line_179 .
+
+:TV_Line_180_JA a :TranslationVariant ;
+:text "何かの恐れから舌を閉じ込めている者は、"^^xsd:string ;
+:relatedTo :Line_180 .
+
+:TV_Line_181_JA a :TranslationVariant ;
+:text "今も昔も最悪の者であると思われる。"^^xsd:string ;
+:relatedTo :Line_181 .
+
+:TV_Line_182_JA a :TranslationVariant ;
+:text "また、自分の祖国よりも大きなものとして"^^xsd:string ;
+:relatedTo :Line_182 .
+
+:TV_Line_183_JA a :TranslationVariant ;
+:text "友を考える者を、私はどこにも数えない。"^^xsd:string ;
+:relatedTo :Line_183 .
+
+:TV_Line_184_JA a :TranslationVariant ;
+:text "というのも私なら、常にすべてを見るゼウスが知るように、"^^xsd:string ;
+:relatedTo :Line_184 .
+
+:TV_Line_185_JA a :TranslationVariant ;
+:text "救いの代わりに破滅が"^^xsd:string ;
+:relatedTo :Line_185 .
+
+:TV_Line_186_JA a :TranslationVariant ;
+:text "市民たちへ進んで来るのを見て、黙ってはいないだろう。"^^xsd:string ;
+:relatedTo :Line_186 .
+
+:TV_Line_187_JA a :TranslationVariant ;
+:text "また、国に敵対する男を"^^xsd:string ;
+:relatedTo :Line_187 .
+
+:TV_Line_188_JA a :TranslationVariant ;
+:text "決して自分の友とはしないだろう、このことを知っているからだ、"^^xsd:string ;
+:relatedTo :Line_188 .
+
+:TV_Line_189_JA a :TranslationVariant ;
+:text "この国こそが私たちを救うものであり、"^^xsd:string ;
+:relatedTo :Line_189 .
+
+:TV_Line_190_JA a :TranslationVariant ;
+:text "この国がまっすぐである上に航海してこそ、私たちは友を得るのだと。"^^xsd:string ;
+:relatedTo :Line_190 .
+
+:TV_Line_191_JA a :TranslationVariant ;
+:text "このような法によって、私はこの町を大きくする。"^^xsd:string ;
+:relatedTo :Line_191 .
+
+:TV_Line_192_JA a :TranslationVariant ;
+:text "そして今、これらと同族のことを、私は布告している、"^^xsd:string ;
+:relatedTo :Line_192 .

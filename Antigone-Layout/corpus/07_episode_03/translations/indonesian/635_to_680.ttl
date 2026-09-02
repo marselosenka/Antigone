@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-indonesian a owl:Ontology .
+# Indonesian translation variants for 635_to_680.ttl
+
+:TV_Line_635_ID a :TranslationVariant ;
+:text "Ayah, aku milikmu; dan engkau, dengan memiliki pertimbangan"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_ID a :TranslationVariant ;
+:text "yang baik bagiku, meluruskan jalanku; itulah yang akan kuikuti."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_ID a :TranslationVariant ;
+:text "Sebab bagiku tidak ada perkawinan yang akan dianggap"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_ID a :TranslationVariant ;
+:text "lebih besar daripada kepemimpinanmu yang baik."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_ID a :TranslationVariant ;
+:text "Begitulah, wahai anak, harus kausimpan di dalam dada,"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_ID a :TranslationVariant ;
+:text "untuk berdiri di belakang seluruh pendapat ayah."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_ID a :TranslationVariant ;
+:text "Sebab demi itulah para lelaki berdoa agar memiliki keturunan"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_ID a :TranslationVariant ;
+:text "yang patuh setelah melahirkannya di rumah,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_ID a :TranslationVariant ;
+:text "agar mereka membalas musuh dengan kejahatan"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_ID a :TranslationVariant ;
+:text "dan menghormati sahabat setara dengan ayahnya."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_ID a :TranslationVariant ;
+:text "Tetapi siapa pun yang menumbuhkan anak-anak yang tak berguna,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_ID a :TranslationVariant ;
+:text "apa lagi dapat kaukatakan tentang orang itu selain bahwa bagi dirinya"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_ID a :TranslationVariant ;
+:text "ia menumbuhkan kesusahan, dan banyak tawa bagi musuh-musuhnya?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_ID a :TranslationVariant ;
+:text "Maka jangan pernah, wahai anak, membuang pikiranmu karena kenikmatan"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_ID a :TranslationVariant ;
+:text "demi seorang perempuan, dengan mengetahui bahwa"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_ID a :TranslationVariant ;
+:text "pelukan seperti itu menjadi dingin,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_ID a :TranslationVariant ;
+:text "perempuan buruk yang berbagi ranjang di rumah. Sebab luka apa"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_ID a :TranslationVariant ;
+:text "yang dapat menjadi lebih besar daripada sahabat yang buruk?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_ID a :TranslationVariant ;
+:text "Tetapi ludahi dia seakan musuh,"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_ID a :TranslationVariant ;
+:text "dan biarkan gadis ini menikah dengan seseorang di Hades."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_ID a :TranslationVariant ;
+:text "Sebab karena aku menangkap dia sendiri dengan terang-terangan,"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_ID a :TranslationVariant ;
+:text "satu-satunya dari seluruh kota yang tidak patuh,"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_ID a :TranslationVariant ;
+:text "aku tidak akan menjadikan diriku pendusta di hadapan kota,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_ID a :TranslationVariant ;
+:text "melainkan akan membunuhnya. Mengenai ini, biarlah ia bernyanyi kepada Zeus"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_ID a :TranslationVariant ;
+:text "pelindung darah kerabat. Sebab jika orang-orang sedarah yang lahir di rumah"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_ID a :TranslationVariant ;
+:text "kubina dalam ketidakteraturan, terlebih lagi orang di luar keluarga."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_ID a :TranslationVariant ;
+:text "Sebab siapa pun yang di antara orang-orang rumahnya sendiri adalah lelaki"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_ID a :TranslationVariant ;
+:text "yang baik, akan tampak adil juga di kota."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_ID a :TranslationVariant ;
+:text "Tetapi siapa pun yang melampaui atau memaksa hukum-hukum,"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_ID a :TranslationVariant ;
+:text "atau berniat memberi perintah kepada mereka yang berkuasa,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_ID a :TranslationVariant ;
+:text "orang itu tidak akan memperoleh pujian dariku."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_ID a :TranslationVariant ;
+:text "Tetapi siapa pun yang ditetapkan kota, dia harus didengar,"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_ID a :TranslationVariant ;
+:text "dalam perkara kecil, perkara adil, maupun sebaliknya."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_ID a :TranslationVariant ;
+:text "Dan kepada lelaki semacam itu aku akan percaya"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_ID a :TranslationVariant ;
+:text "bahwa ia memerintah dengan baik dan mau diperintah dengan baik,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_ID a :TranslationVariant ;
+:text "dan dalam badai tombak, ketika ditempatkan,"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_ID a :TranslationVariant ;
+:text "ia tetap sebagai rekan seperjuangan yang adil dan baik."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_ID a :TranslationVariant ;
+:text "Tidak ada kejahatan yang lebih besar daripada tanpa pemerintahan."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_ID a :TranslationVariant ;
+:text "Inilah yang menghancurkan kota-kota, inilah yang membuat"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_ID a :TranslationVariant ;
+:text "rumah-rumah tercabut, inilah yang mematahkan pembalikan"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_ID a :TranslationVariant ;
+:text "tombak sekutu; tetapi dari mereka yang berdiri benar,"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_ID a :TranslationVariant ;
+:text "ketaatan menyelamatkan sebagian besar tubuh."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_ID a :TranslationVariant ;
+:text "Demikianlah orang harus membela mereka yang tertib,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_ID a :TranslationVariant ;
+:text "dan sama sekali tidak boleh kalah oleh perempuan."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_ID a :TranslationVariant ;
+:text "Sebab lebih baik, jika memang harus, jatuh oleh tangan lelaki,"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_ID a :TranslationVariant ;
+:text "dan kita tidak akan disebut lebih lemah daripada perempuan."^^xsd:string ;
+:relatedTo :Line_680 .

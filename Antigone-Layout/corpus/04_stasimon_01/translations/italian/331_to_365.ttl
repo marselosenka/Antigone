@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-italian a owl:Ontology .
+# Italian translation variants for 331_to_365.ttl
+
+:TV_Line_331_IT a :TranslationVariant ;
+:text "Salvato, devo agli dèi molta gratitudine."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_IT a :TranslationVariant ;
+:text "Molte sono le cose terribili, e nulla"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_IT a :TranslationVariant ;
+:text "è più terribile dell'uomo;"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_IT a :TranslationVariant ;
+:text "questo anche oltre il grigio"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_IT a :TranslationVariant ;
+:text "mare, col Noto invernale,"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_IT a :TranslationVariant ;
+:text "avanza, tra fragori che lo circondano,"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_IT a :TranslationVariant ;
+:text "passando sotto i flutti; e degli dèi"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_IT a :TranslationVariant ;
+:text "la suprema, la Terra,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_IT a :TranslationVariant ;
+:text "immortale, instancabile, egli consuma,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_IT a :TranslationVariant ;
+:text "mentre gli aratri si volgono anno dopo anno,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_IT a :TranslationVariant ;
+:text "lavorandola con la stirpe dei cavalli."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_IT a :TranslationVariant ;
+:text "E la stirpe leggera di mente degli uc-"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_IT a :TranslationVariant ;
+:text "celli, avvolgendola, cattura,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_IT a :TranslationVariant ;
+:text "e le razze delle fiere selvagge"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_IT a :TranslationVariant ;
+:text "e la natura marina del mare"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_IT a :TranslationVariant ;
+:text "con spire di reti intrecciate,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_IT a :TranslationVariant ;
+:text "l'uomo accortissimo; domina"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_IT a :TranslationVariant ;
+:text "con espedienti la selvatica"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 is commented out in canonical.
+
+:TV_Line_350_IT a :TranslationVariant ;
+:text "fiera che va sui monti, e il cavallo dal collo villoso"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_IT a :TranslationVariant ;
+:text "porta sotto il giogo che avvolge la criniera,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_IT a :TranslationVariant ;
+:text "e l'instancabile toro montano."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Lines 353 and 354 are commented out in canonical.
+
+:TV_Line_355_IT a :TranslationVariant ;
+:text "E parola, e pensiero ventoso, e civili"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_IT a :TranslationVariant ;
+:text "costumi insegnò a sé stesso, e dai cattivi alloggi"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_IT a :TranslationVariant ;
+:text "dei geli all'aperto e dai dardi piovosi a fuggire"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_IT a :TranslationVariant ;
+:text "pieno di vie; senza via verso nulla viene"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 is commented out in canonical.
+
+:TV_Line_360_IT a :TranslationVariant ;
+:text "del futuro; solo da Hades non procurerà fuga;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_IT a :TranslationVariant ;
+:text "ma contro malattie senza rimedio ha escogitato fughe."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364, and 365 do not exist in canonical.

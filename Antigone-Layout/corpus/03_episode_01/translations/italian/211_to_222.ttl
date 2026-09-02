@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-italian a owl:Ontology .
+# Italian translation variants for 211_to_222.ttl
+
+:TV_Line_211_IT a :TranslationVariant ;
+:text "A te piace fare queste cose, figlio di Menoiceo,"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_IT a :TranslationVariant ;
+:text "al maldisposto verso questa città e al benevolo;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_IT a :TranslationVariant ;
+:text "usare ogni legge, questo è in tuo potere"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_IT a :TranslationVariant ;
+:text "riguardo ai morti e a quanti viviamo."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_IT a :TranslationVariant ;
+:text "Perché dunque ora siate guardiani delle cose dette."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_IT a :TranslationVariant ;
+:text "Affida a qualcuno più giovane di portare questo."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_IT a :TranslationVariant ;
+:text "Ma ci sono già pronti sorveglianti del morto."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_IT a :TranslationVariant ;
+:text "Che altro dunque ancora comanderesti su questo?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_IT a :TranslationVariant ;
+:text "Di non cedere a quelli che disobbediscono a queste cose."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_IT a :TranslationVariant ;
+:text "Non c'è nessuno così stolto che ami morire."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_IT a :TranslationVariant ;
+:text "Eppure questa è appunto la paga; ma spesso, per speranze,"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_IT a :TranslationVariant ;
+:text "il guadagno distrusse uomini."^^xsd:string ;
+:relatedTo :Line_222 .

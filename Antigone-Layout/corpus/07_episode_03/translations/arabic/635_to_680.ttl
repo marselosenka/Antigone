@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-arabic a owl:Ontology .
+# Arabic translation variants for 635_to_680.ttl
+
+:TV_Line_635_AR a :TranslationVariant ;
+:text "يا أبي، أنا لك، وأنت، إذ تملك آراء"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_AR a :TranslationVariant ;
+:text "صالحة، تقوّمني، وأنا سأتبعها."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_AR a :TranslationVariant ;
+:text "فلا زواج عندي يُستحق أن يُحمل"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_AR a :TranslationVariant ;
+:text "أعظم من قيادتك الحسنة."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_AR a :TranslationVariant ;
+:text "هكذا، يا بني، ينبغي أن يكون الأمر في الصدر:"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_AR a :TranslationVariant ;
+:text "أن تقف كل الأشياء خلف رأي الأب."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_AR a :TranslationVariant ;
+:text "فمن أجل هذا يدعو الرجال أن تكون لهم ذرية"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_AR a :TranslationVariant ;
+:text "مطيعة في البيوت بعد أن ينجبوها،"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_AR a :TranslationVariant ;
+:text "حتى ترد الشرور على العدو،"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_AR a :TranslationVariant ;
+:text "وتكرم الصديق على قدم المساواة مع الأب."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_AR a :TranslationVariant ;
+:text "أما من ينبت أبناء لا نفع فيهم،"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_AR a :TranslationVariant ;
+:text "فماذا تقول إنه أنبت سوى متاعب لنفسه،"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_AR a :TranslationVariant ;
+:text "وضحكًا كثيرًا لأعدائه؟"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_AR a :TranslationVariant ;
+:text "فلا تطرح الآن، يا بني، عقلك من أجل اللذة،"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_AR a :TranslationVariant ;
+:text "بسبب امرأة، عارفًا أن"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_AR a :TranslationVariant ;
+:text "هذا يصبح عناقًا باردًا:"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_AR a :TranslationVariant ;
+:text "امرأة شريرة شريكة فراش في البيت. فأي"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_AR a :TranslationVariant ;
+:text "جرح يكون أعظم من صديق شرير؟"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_AR a :TranslationVariant ;
+:text "بل ابصق عليها كعدوة واتركها"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_AR a :TranslationVariant ;
+:text "هذه الفتاة، لتتزوج في هاديس من أحد."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_AR a :TranslationVariant ;
+:text "فمنذ أن أمسكتها أنا بوضوح،"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_AR a :TranslationVariant ;
+:text "وحدها من كل المدينة، وقد خانت،"^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_AR a :TranslationVariant ;
+:text "فلن أجعل نفسي كاذبًا أمام المدينة،"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_AR a :TranslationVariant ;
+:text "بل سأقتلها. فلتنشد بعد ذلك زيوس"^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_AR a :TranslationVariant ;
+:text "القريب بالدم. فإن كنت سأربي ما هو من أهلي"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_AR a :TranslationVariant ;
+:text "غير منظم بطبيعته، فكم بالحري من هم خارج النسب."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_AR a :TranslationVariant ;
+:text "ففي الشؤون البيتية من يكون رجلًا"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_AR a :TranslationVariant ;
+:text "صالحًا، سيظهر عادلًا في المدينة أيضًا."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_AR a :TranslationVariant ;
+:text "أما من يتجاوز أو يغتصب القوانين"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_AR a :TranslationVariant ;
+:text "أو ينوي أن يأمر من يملكون السلطان،"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_AR a :TranslationVariant ;
+:text "فليس له أن ينال مني مديحًا."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_AR a :TranslationVariant ;
+:text "بل من تقيمه المدينة، ينبغي أن يُسمع له"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_AR a :TranslationVariant ;
+:text "في الصغير والعادل وما يخالفهما."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_AR a :TranslationVariant ;
+:text "وبمثل هذا الرجل أستطيع أنا أن أثق"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_AR a :TranslationVariant ;
+:text "أنه يحكم حسنًا، وأن يريد أن يُحكم حسنًا،"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_AR a :TranslationVariant ;
+:text "وأنه، إذا وُضع في عاصفة الرمح،"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_AR a :TranslationVariant ;
+:text "يثبت رفيقًا عادلًا صالحًا إلى جانبه."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_AR a :TranslationVariant ;
+:text "أما الفوضى فلا شر أعظم منها."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_AR a :TranslationVariant ;
+:text "هذه تهلك المدن، وهذه تجعل"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_AR a :TranslationVariant ;
+:text "البيوت مقتلعة، وهذه تكسر"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_AR a :TranslationVariant ;
+:text "ارتدادات رمح الحليف؛ أما الذين يستقيمون،"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_AR a :TranslationVariant ;
+:text "فإن الطاعة تحفظ أكثر أجسادهم."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_AR a :TranslationVariant ;
+:text "هكذا يجب الدفاع عما هو منظم،"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_AR a :TranslationVariant ;
+:text "ولا ينبغي بأي حال أن نُغلب من امرأة."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_AR a :TranslationVariant ;
+:text "فخير، إن كان لا بد، أن يسقط المرء على يد رجل،"^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_AR a :TranslationVariant ;
+:text "ولا نُدعى أدنى من النساء."^^xsd:string ;
+:relatedTo :Line_680 .

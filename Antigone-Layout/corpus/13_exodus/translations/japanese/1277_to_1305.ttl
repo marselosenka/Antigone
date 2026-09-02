@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1277-1305-japanese a owl:Ontology .
+# Japanese translation variants for 1277_to_1305.ttl
+
+# Line 1277 does not exist in Antigone
+
+:TV_Line_1278_JA a :TranslationVariant ;
+:text "主よ、あなたがそのようにあり、また持っているものとして、"^^xsd:string ;
+:relatedTo :Line_1278 .
+
+:TV_Line_1279_JA a :TranslationVariant ;
+:text "目の前のこれらを手に持っているが、館の中には"^^xsd:string ;
+:relatedTo :Line_1279 .
+
+:TV_Line_1280_JA a :TranslationVariant ;
+:text "来てみれば、すぐにも見ることになる災いがあるようです。"^^xsd:string ;
+:relatedTo :Line_1280 .
+
+:TV_Line_1281_JA a :TranslationVariant ;
+:text "何だ。災いの中から、まださらに悪いものがあるのか。"^^xsd:string ;
+:relatedTo :Line_1281 .
+
+:TV_Line_1282_JA a :TranslationVariant ;
+:text "あなたの妻が死にました、この死者のまことの母が、"^^xsd:string ;
+:relatedTo :Line_1282 .
+
+:TV_Line_1283_JA a :TranslationVariant ;
+:text "哀れな女が、たった今、新しく刻まれた傷によって。"^^xsd:string ;
+:relatedTo :Line_1283 .
+
+:TV_Line_1284_JA a :TranslationVariant ;
+:text "ああ、ああ、清め難いハデスの港よ、"^^xsd:string ;
+:relatedTo :Line_1284 .
+
+:TV_Line_1285_JA a :TranslationVariant ;
+:text "なぜ私を、なぜ私を滅ぼすのか。"^^xsd:string ;
+:relatedTo :Line_1285 .
+
+:TV_Line_1286_JA a :TranslationVariant ;
+:text "おお、私に悪い知らせをもたらす者よ、"^^xsd:string ;
+:relatedTo :Line_1286 .
+
+:TV_Line_1287_JA a :TranslationVariant ;
+:text "苦しみを先に送った者よ、どんな言葉を叫ぶのか。"^^xsd:string ;
+:relatedTo :Line_1287 .
+
+:TV_Line_1288_JA a :TranslationVariant ;
+:text "ああ、すでに滅びた男をさらに仕上げて滅ぼした。"^^xsd:string ;
+:relatedTo :Line_1288 .
+
+:TV_Line_1289_JA a :TranslationVariant ;
+:text "何と言うのだ、若者よ。どんな新しいことを私に言うのか、"^^xsd:string ;
+:relatedTo :Line_1289 .
+
+:TV_Line_1290_JA a :TranslationVariant ;
+:text "ああ、ああ、"^^xsd:string ;
+:relatedTo :Line_1290 .
+
+:TV_Line_1291_JA a :TranslationVariant ;
+:text "破滅の上に犠牲が、"^^xsd:string ;
+:relatedTo :Line_1291 .
+
+:TV_Line_1292_JA a :TranslationVariant ;
+:text "女の死が私に重ねられているというのか。"^^xsd:string ;
+:relatedTo :Line_1292 .
+
+:TV_Line_1293_JA a :TranslationVariant ;
+:text "見ることができます。もはや奥に隠れてはいません。"^^xsd:string ;
+:relatedTo :Line_1293 .
+
+:TV_Line_1294_JA a :TranslationVariant ;
+:text "ああ、"^^xsd:string ;
+:relatedTo :Line_1294 .
+
+:TV_Line_1295_JA a :TranslationVariant ;
+:text "哀れな私は、この第二の災いも見る。"^^xsd:string ;
+:relatedTo :Line_1295 .
+
+:TV_Line_1296_JA a :TranslationVariant ;
+:text "どんな、どんな運命がまだ私を待っているのか。"^^xsd:string ;
+:relatedTo :Line_1296 .
+
+:TV_Line_1297_JA a :TranslationVariant ;
+:text "今しがた私は子を両手に抱いている、"^^xsd:string ;
+:relatedTo :Line_1297 .
+
+:TV_Line_1298_JA a :TranslationVariant ;
+:text "哀れな私は、目の前にもう一つの死体を見る。"^^xsd:string ;
+:relatedTo :Line_1298 .
+
+# Line 1299 does not exist in Antigone
+
+:TV_Line_1300_JA a :TranslationVariant ;
+:text "ああ、ああ、不幸な母よ、ああ、わが子よ。"^^xsd:string ;
+:relatedTo :Line_1300 .
+
+:TV_Line_1301_JA a :TranslationVariant ;
+:text "彼女は鋭く刺され、祭壇のそばに座ったまま、"^^xsd:string ;
+:relatedTo :Line_1301 .
+
+:TV_Line_1302_JA a :TranslationVariant ;
+:text "黒ずんだまぶたを閉じました、まず泣き叫んで"^^xsd:string ;
+:relatedTo :Line_1302 .
+
+:TV_Line_1303_JA a :TranslationVariant ;
+:text "以前に死んだメガレウスの空しい寝床を、"^^xsd:string ;
+:relatedTo :Line_1303 .
+
+:TV_Line_1304_JA a :TranslationVariant ;
+:text "次にこの者を、そして最後にあなたへ悪しき"^^xsd:string ;
+:relatedTo :Line_1304 .
+
+:TV_Line_1305_JA a :TranslationVariant ;
+:text "行いを歌いかけて、子殺しの者として。"^^xsd:string ;
+:relatedTo :Line_1305 .

@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-portuguese a owl:Ontology .
+# Portuguese translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_PT a :TranslationVariant ;
+:text "Ó velho, todos vós, como arqueiros contra um alvo,"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_PT a :TranslationVariant ;
+:text "atirais contra este homem; e nem da arte profética"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_PT a :TranslationVariant ;
+:text "estou livre para vós; e pela raça inteira"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_PT a :TranslationVariant ;
+:text "há muito fui vendido e carregado como mercadoria."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_PT a :TranslationVariant ;
+:text "Lucrai, negociai o electro de Sardes,"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_PT a :TranslationVariant ;
+:text "se quiserdes, e o ouro índico;"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_PT a :TranslationVariant ;
+:text "mas aquele não escondereis em sepultura,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_PT a :TranslationVariant ;
+:text "nem mesmo se as águias de Zeus quiserem, como alimento,"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_PT a :TranslationVariant ;
+:text "levá-lo, arrebatando-o, aos tronos de Zeus;"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_PT a :TranslationVariant ;
+:text "nem assim, temendo esta poluição,"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_PT a :TranslationVariant ;
+:text "permitirei que aquele seja sepultado; pois sei bem que"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_PT a :TranslationVariant ;
+:text "nenhum dos homens tem força para contaminar os deuses."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_PT a :TranslationVariant ;
+:text "Caem, velho Tirésias, entre os mortais,"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_PT a :TranslationVariant ;
+:text "também os muito hábeis, quedas vergonhosas, quando discursos"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_PT a :TranslationVariant ;
+:text "vergonhosos dizem bem, por causa do lucro."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_PT a :TranslationVariant ;
+:text "Ai; acaso algum dos homens sabe, acaso compreende,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_PT a :TranslationVariant ;
+:text "Que coisa? Que dito tão comum é esse que dizes?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_PT a :TranslationVariant ;
+:text "Quanto é o melhor dos bens a boa deliberação?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_PT a :TranslationVariant ;
+:text "Tanto quanto, penso, não pensar é o maior dano."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_PT a :TranslationVariant ;
+:text "Dessa doença, contudo, tu nasceste cheio."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_PT a :TranslationVariant ;
+:text "Não quero responder mal ao adivinho."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_PT a :TranslationVariant ;
+:text "E contudo o fazes, dizendo que profetizo falsidades."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_PT a :TranslationVariant ;
+:text "Pois toda a raça profética ama dinheiro."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_PT a :TranslationVariant ;
+:text "E a dos tiranos ama o ganho vergonhoso."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_PT a :TranslationVariant ;
+:text "Sabes que falas o que falas a governantes?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_PT a :TranslationVariant ;
+:text "Sei; pois por mim tens esta cidade salva."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_PT a :TranslationVariant ;
+:text "És sábio adivinho, mas amigo de cometer injustiça."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_PT a :TranslationVariant ;
+:text "Far-me-ás dizer as coisas imóveis em meu pensamento."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_PT a :TranslationVariant ;
+:text "Move-as, contanto que não fales por lucro."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_PT a :TranslationVariant ;
+:text "Pois assim já pareço também, no que toca à tua parte."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_PT a :TranslationVariant ;
+:text "Sabe que não comprarás meu pensamento."^^xsd:string ;
+:relatedTo :Line_1063 .

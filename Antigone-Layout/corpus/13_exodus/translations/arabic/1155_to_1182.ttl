@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-arabic a owl:Ontology .
+# Arabic translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_AR a :TranslationVariant ;
+:text "يا جيران كادموس وبيوت أمفيون،"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_AR a :TranslationVariant ;
+:text "ليس في حياة الإنسان حال قائم"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_AR a :TranslationVariant ;
+:text "أستطيع أن أمدحه أو ألومه أبدًا."^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_AR a :TranslationVariant ;
+:text "فالحظ يقيم، والحظ يهدم"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_AR a :TranslationVariant ;
+:text "السعيد والتعيس دائمًا؛"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_AR a :TranslationVariant ;
+:text "ولا عرّاف لأحوال البشر الثابتة."^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_AR a :TranslationVariant ;
+:text "فقد كان كريون مرةً، في رأيي، موضع غبطة،"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_AR a :TranslationVariant ;
+:text "إذ خلّص أرض كادموس هذه من الأعداء،"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_AR a :TranslationVariant ;
+:text "وتولى الحكم الكامل على البلاد،"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_AR a :TranslationVariant ;
+:text "وكان يسوسها مزدهرًا بنسل نبيل من الأبناء؛"^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_AR a :TranslationVariant ;
+:text "والآن فقد أُطلق منه كل شيء. فإن اللذات،"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_AR a :TranslationVariant ;
+:text "متى خانها الرجال، لا أعدّ أنا ذلك الرجل"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_AR a :TranslationVariant ;
+:text "حيًا، بل أحسبه ميتًا ذا نفس."^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_AR a :TranslationVariant ;
+:text "فليكن غنيًا في بيته، إن شئت، غنى عظيمًا،"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_AR a :TranslationVariant ;
+:text "وليحيَ في هيئة طاغية؛ ولكن إن غاب"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_AR a :TranslationVariant ;
+:text "عن هذه الأشياء الفرح، فما بقي لا أشتريه"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_AR a :TranslationVariant ;
+:text "من رجل بظل دخان، إذا قيس باللذة."^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_AR a :TranslationVariant ;
+:text "وأي عبء هذا من أعباء الملوك تأتي حاملًا؟"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_AR a :TranslationVariant ;
+:text "لقد ماتوا؛ والأحياء هم سبب موتهم."^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_AR a :TranslationVariant ;
+:text "ومن القاتل؟ ومن الراقد ميتًا؟ قل."^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_AR a :TranslationVariant ;
+:text "هيمون هلك؛ وبيده هو تلطخ بالدم."^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_AR a :TranslationVariant ;
+:text "أبيدِ أبيه أم بيد نفسه؟"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_AR a :TranslationVariant ;
+:text "بنفسه على نفسه، إذ غضب على أبيه بسبب القتل."^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_AR a :TranslationVariant ;
+:text "أيها العرّاف، ما أصدق الكلمة التي أتممتها."^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_AR a :TranslationVariant ;
+:text "وإذ إن الأمور هكذا، فالباقي متروك للتدبير."^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_AR a :TranslationVariant ;
+:text "وها أنا أرى في الوقت نفسه يوريديكه التعيسة،"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_AR a :TranslationVariant ;
+:text "زوجة كريون، خارجة من البيوت،"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_AR a :TranslationVariant ;
+:text "إما لأنها سمعت بأمر ابنها، أو مصادفةً."^^xsd:string ;
+:relatedTo :Line_1182 .

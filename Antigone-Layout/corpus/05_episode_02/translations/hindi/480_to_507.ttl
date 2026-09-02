@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-hindi a owl:Ontology .
+# Hindi translation variants for 480_to_507.ttl
+
+:TV_Line_480_HI a :TranslationVariant ;
+:text "यह तब उद्दंडता करना जानती थी,"^^xsd:string ;
+:relatedTo :Line_480 .
+
+:TV_Line_481_HI a :TranslationVariant ;
+:text "सामने रखे नियमों को लाँघते हुए;"^^xsd:string ;
+:relatedTo :Line_481 .
+
+:TV_Line_482_HI a :TranslationVariant ;
+:text "और यह दूसरी उद्दंडता है, जब कर चुकी है,"^^xsd:string ;
+:relatedTo :Line_482 .
+
+:TV_Line_483_HI a :TranslationVariant ;
+:text "इन बातों पर घमंड करना और करके हँसना।"^^xsd:string ;
+:relatedTo :Line_483 .
+
+:TV_Line_484_HI a :TranslationVariant ;
+:text "अब तो मैं पुरुष नहीं, और यह पुरुष है,"^^xsd:string ;
+:relatedTo :Line_484 .
+
+:TV_Line_485_HI a :TranslationVariant ;
+:text "यदि यह सत्ता इसके पास दंडहीन पड़ी रहेगी।"^^xsd:string ;
+:relatedTo :Line_485 .
+
+:TV_Line_486_HI a :TranslationVariant ;
+:text "पर चाहे वह बहन हो, चाहे रक्त से अधिक निकट"^^xsd:string ;
+:relatedTo :Line_486 .
+
+:TV_Line_487_HI a :TranslationVariant ;
+:text "हमारे संपूर्ण गृह-रक्षक ज़ीउस के निकट निकले,"^^xsd:string ;
+:relatedTo :Line_487 .
+
+:TV_Line_488_HI a :TranslationVariant ;
+:text "यह और इसकी रक्त-संबंधी दोनों"^^xsd:string ;
+:relatedTo :Line_488 .
+
+:TV_Line_489_HI a :TranslationVariant ;
+:text "सबसे बुरी मृत्यु से न बचेंगी; क्योंकि मैं उसे भी समान रूप से"^^xsd:string ;
+:relatedTo :Line_489 .
+
+:TV_Line_490_HI a :TranslationVariant ;
+:text "इस दफ़न की योजना बनाने का दोष देता हूँ।"^^xsd:string ;
+:relatedTo :Line_490 .
+
+:TV_Line_491_HI a :TranslationVariant ;
+:text "उसे भी बुलाओ; अभी मैंने उसे भीतर"^^xsd:string ;
+:relatedTo :Line_491 .
+
+:TV_Line_492_HI a :TranslationVariant ;
+:text "पागल और मन पर अधिकार न रखने वाली देखा।"^^xsd:string ;
+:relatedTo :Line_492 .
+
+:TV_Line_493_HI a :TranslationVariant ;
+:text "क्योंकि मन पहले ही चोर के रूप में पकड़े जाना पसंद करता है,"^^xsd:string ;
+:relatedTo :Line_493 .
+
+:TV_Line_494_HI a :TranslationVariant ;
+:text "जब अँधेरे में कुछ भी ठीक से नहीं रचा जाता;"^^xsd:string ;
+:relatedTo :Line_494 .
+
+:TV_Line_495_HI a :TranslationVariant ;
+:text "फिर भी मैं उससे घृणा करता हूँ, जब कोई बुराइयों में"^^xsd:string ;
+:relatedTo :Line_495 .
+
+:TV_Line_496_HI a :TranslationVariant ;
+:text "पकड़ा जाकर बाद में उसे सुंदर बनाना चाहता है।"^^xsd:string ;
+:relatedTo :Line_496 .
+
+:TV_Line_497_HI a :TranslationVariant ;
+:text "क्या तू मुझे पकड़कर मारने से बड़ा कुछ चाहता है?"^^xsd:string ;
+:relatedTo :Line_497 .
+
+:TV_Line_498_HI a :TranslationVariant ;
+:text "मैं कुछ नहीं चाहता; यह पाकर मैंने सब पा लिया।"^^xsd:string ;
+:relatedTo :Line_498 .
+
+:TV_Line_499_HI a :TranslationVariant ;
+:text "तो फिर देर क्यों करता है? क्योंकि मुझे तेरे शब्दों में"^^xsd:string ;
+:relatedTo :Line_499 .
+
+:TV_Line_500_HI a :TranslationVariant ;
+:text "कुछ भी प्रिय नहीं, न कभी प्रिय हो;"^^xsd:string ;
+:relatedTo :Line_500 .
+
+:TV_Line_501_HI a :TranslationVariant ;
+:text "और इसी तरह मेरे शब्द भी तुझे अप्रिय जन्मे हैं।"^^xsd:string ;
+:relatedTo :Line_501 .
+
+:TV_Line_502_HI a :TranslationVariant ;
+:text "फिर भी मैं इससे अधिक यशस्वी कीर्ति कहाँ पाती"^^xsd:string ;
+:relatedTo :Line_502 .
+
+:TV_Line_503_HI a :TranslationVariant ;
+:text "कि अपने सहोदर भाई को कब्र में"^^xsd:string ;
+:relatedTo :Line_503 .
+
+:TV_Line_504_HI a :TranslationVariant ;
+:text "रखती? ये सब लोग कह सकते थे कि यह उन्हें प्रिय है,"^^xsd:string ;
+:relatedTo :Line_504 .
+
+:TV_Line_505_HI a :TranslationVariant ;
+:text "यदि भय उनकी जीभ बंद न करता।"^^xsd:string ;
+:relatedTo :Line_505 .
+
+:TV_Line_506_HI a :TranslationVariant ;
+:text "पर तानाशाही अनेक बातों में धन्य है,"^^xsd:string ;
+:relatedTo :Line_506 .
+
+:TV_Line_507_HI a :TranslationVariant ;
+:text "और उसे जो चाहे करना और कहना मिलता है।"^^xsd:string ;
+:relatedTo :Line_507 .

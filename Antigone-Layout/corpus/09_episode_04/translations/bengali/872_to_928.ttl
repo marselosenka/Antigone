@@ -1,0 +1,232 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-872-928-bengali a owl:Ontology .
+# Bengali translation variants for 872_to_928.ttl
+
+:TV_Line_872_BN a :TranslationVariant ;
+:text "শ্রদ্ধা করা অবশ্যই এক ধরনের ধর্মনিষ্ঠা,"^^xsd:string ;
+:relatedTo :Line_872 .
+
+:TV_Line_873_BN a :TranslationVariant ;
+:text "কিন্তু ক্ষমতা, যার কাছে ক্ষমতা মুখ্য,"^^xsd:string ;
+:relatedTo :Line_873 .
+
+:TV_Line_874_BN a :TranslationVariant ;
+:text "কোনোভাবেই লঙ্ঘনীয় নয়;"^^xsd:string ;
+:relatedTo :Line_874 .
+
+:TV_Line_875_BN a :TranslationVariant ;
+:text "আর তোমার আত্মনির্ভর ক্রোধই তোমাকে ধ্বংস করেছে।"^^xsd:string ;
+:relatedTo :Line_875 .
+
+:TV_Line_876_BN a :TranslationVariant ;
+:text "অশ্রুহীন, বন্ধুহীন, বিবাহগীতহীন, হতভাগিনী, আমাকে নিয়ে যাওয়া হচ্ছে"^^xsd:string ;
+:relatedTo :Line_876 .
+
+:TV_Line_877_BN a :TranslationVariant ;
+:text "শেষ পথ ধরে। আর আমার জন্য নয় এই"^^xsd:string ;
+:relatedTo :Line_877 .
+
+:TV_Line_878_BN a :TranslationVariant ;
+:text "দীপশিখার পবিত্র চোখ"^^xsd:string ;
+:relatedTo :Line_878 .
+
+# Line 879 does not exist in Antigone
+
+:TV_Line_880_BN a :TranslationVariant ;
+:text "দেখা বিধিসম্মত নয়, আমার মতো হতভাগিনীর জন্য।"^^xsd:string ;
+:relatedTo :Line_880 .
+
+:TV_Line_881_BN a :TranslationVariant ;
+:text "আমার ভাগ্যের জন্য অশ্রুহীন,"^^xsd:string ;
+:relatedTo :Line_881 .
+
+:TV_Line_882_BN a :TranslationVariant ;
+:text "বন্ধুদের কেউ বিলাপ করে না।"^^xsd:string ;
+:relatedTo :Line_882 .
+
+:TV_Line_883_BN a :TranslationVariant ;
+:text "তোমরা কি জানো না, মৃত্যুর আগে গান ও বিলাপ"^^xsd:string ;
+:relatedTo :Line_883 .
+
+:TV_Line_884_BN a :TranslationVariant ;
+:text "যদি দরকার হত, তবে কেউ বলেও থামাতে পারত না?"^^xsd:string ;
+:relatedTo :Line_884 .
+
+:TV_Line_885_BN a :TranslationVariant ;
+:text "তোমরা কি তাকে যত দ্রুত সম্ভব নিয়ে যাবে না, এবং ছাদওয়ালা"^^xsd:string ;
+:relatedTo :Line_885 .
+
+:TV_Line_886_BN a :TranslationVariant ;
+:text "সমাধিতে ঘিরে রেখে, যেমন আমি বলেছি,"^^xsd:string ;
+:relatedTo :Line_886 .
+
+:TV_Line_887_BN a :TranslationVariant ;
+:text "তাকে একা, নির্জন ছেড়ে দেবে—মরতে হলে মরুক,"^^xsd:string ;
+:relatedTo :Line_887 .
+
+:TV_Line_888_BN a :TranslationVariant ;
+:text "অথবা এমন ঘরে জীবিত অবস্থায় সমাধিবদ্ধ থাকুক।"^^xsd:string ;
+:relatedTo :Line_888 .
+
+:TV_Line_889_BN a :TranslationVariant ;
+:text "এই কন্যার ব্যাপারে আমাদের হাত পবিত্র;"^^xsd:string ;
+:relatedTo :Line_889 .
+
+:TV_Line_890_BN a :TranslationVariant ;
+:text "তবে ওপরের বাসস্থান থেকে সে বঞ্চিত হবে।"^^xsd:string ;
+:relatedTo :Line_890 .
+
+:TV_Line_891_BN a :TranslationVariant ;
+:text "হে সমাধি, হে বিবাহকক্ষ, হে খনিত"^^xsd:string ;
+:relatedTo :Line_891 .
+
+:TV_Line_892_BN a :TranslationVariant ;
+:text "চিররক্ষিত বাসস্থান, যেখানে আমি যাচ্ছি"^^xsd:string ;
+:relatedTo :Line_892 .
+
+:TV_Line_893_BN a :TranslationVariant ;
+:text "নিজেদের লোকদের কাছে, যাদের মধ্যে মৃতদের সংখ্যায়"^^xsd:string ;
+:relatedTo :Line_893 .
+
+:TV_Line_894_BN a :TranslationVariant ;
+:text "ফেরসেফাসা সবচেয়ে বেশি বিনষ্টজনকে গ্রহণ করেছেন;"^^xsd:string ;
+:relatedTo :Line_894 .
+
+:TV_Line_895_BN a :TranslationVariant ;
+:text "তাদের সবার শেষে আমি, আর বহু দূরে সবচেয়ে শোচনীয়ভাবে,"^^xsd:string ;
+:relatedTo :Line_895 .
+
+:TV_Line_896_BN a :TranslationVariant ;
+:text "নেমে যাচ্ছি, আমার জীবনের ভাগ শেষ হওয়ার আগেই।"^^xsd:string ;
+:relatedTo :Line_896 .
+
+:TV_Line_897_BN a :TranslationVariant ;
+:text "তবু সেখানে গিয়ে আমি দৃঢ় আশায় পোষিত হই,"^^xsd:string ;
+:relatedTo :Line_897 .
+
+:TV_Line_898_BN a :TranslationVariant ;
+:text "পিতার কাছে প্রিয় হয়ে পৌঁছব, আর তোমার কাছেও প্রিয়,"^^xsd:string ;
+:relatedTo :Line_898 .
+
+:TV_Line_899_BN a :TranslationVariant ;
+:text "মা, আর তোমার কাছেও প্রিয়, হে ভ্রাতৃপ্রিয় মস্তক।"^^xsd:string ;
+:relatedTo :Line_899 .
+
+:TV_Line_900_BN a :TranslationVariant ;
+:text "কারণ তোমরা মারা গেলে আমি নিজের হাতে"^^xsd:string ;
+:relatedTo :Line_900 .
+
+:TV_Line_901_BN a :TranslationVariant ;
+:text "তোমাদের ধুইয়েছি, সাজিয়েছি, এবং সমাধির জন্য"^^xsd:string ;
+:relatedTo :Line_901 .
+
+:TV_Line_902_BN a :TranslationVariant ;
+:text "পানীয় নিবেদন দিয়েছি; আর এখন, পলিনেইকেস, তোমার"^^xsd:string ;
+:relatedTo :Line_902 .
+
+:TV_Line_903_BN a :TranslationVariant ;
+:text "দেহ আবৃত করে আমি এই ফল পাচ্ছি।"^^xsd:string ;
+:relatedTo :Line_903 .
+
+:TV_Line_904_BN a :TranslationVariant ;
+:text "তবু সু-বিবেচকদের কাছে আমি তোমাকে যথার্থ সম্মান করেছি।"^^xsd:string ;
+:relatedTo :Line_904 .
+
+:TV_Line_905_BN a :TranslationVariant ;
+:text "কারণ কখনও, আমি যদি সন্তানদের মা হতামও না,"^^xsd:string ;
+:relatedTo :Line_905 .
+
+:TV_Line_906_BN a :TranslationVariant ;
+:text "অথবা আমার স্বামী মরে পচে যেতও না,"^^xsd:string ;
+:relatedTo :Line_906 .
+
+:TV_Line_907_BN a :TranslationVariant ;
+:text "নাগরিকদের জোরের বিরুদ্ধে আমি এই কষ্ট বেছে নিতাম না।"^^xsd:string ;
+:relatedTo :Line_907 .
+
+:TV_Line_908_BN a :TranslationVariant ;
+:text "কোন আইনের কারণে আমি এ কথা বলছি?"^^xsd:string ;
+:relatedTo :Line_908 .
+
+:TV_Line_909_BN a :TranslationVariant ;
+:text "স্বামী মরলে আমার আরেক স্বামী হতে পারত,"^^xsd:string ;
+:relatedTo :Line_909 .
+
+:TV_Line_910_BN a :TranslationVariant ;
+:text "আর অন্য পুরুষ থেকে সন্তানও হতে পারত, যদি এ সন্তানে ব্যর্থ হতাম;"^^xsd:string ;
+:relatedTo :Line_910 .
+
+:TV_Line_911_BN a :TranslationVariant ;
+:text "কিন্তু মা ও পিতা হেডিসে লুকিয়ে থাকলে"^^xsd:string ;
+:relatedTo :Line_911 .
+
+:TV_Line_912_BN a :TranslationVariant ;
+:text "কখনও আর কোনো ভাই জন্মাতে পারে না।"^^xsd:string ;
+:relatedTo :Line_912 .
+
+:TV_Line_913_BN a :TranslationVariant ;
+:text "এমন আইনে তোমাকে সবার আগে সম্মান দিয়ে"^^xsd:string ;
+:relatedTo :Line_913 .
+
+:TV_Line_914_BN a :TranslationVariant ;
+:text "আমার এই কাজ ক্রেয়োনের কাছে ভুল বলে মনে হলো,"^^xsd:string ;
+:relatedTo :Line_914 .
+
+:TV_Line_915_BN a :TranslationVariant ;
+:text "আর ভয়ংকর দুঃসাহস বলে, হে ভ্রাতৃপ্রিয় মস্তক।"^^xsd:string ;
+:relatedTo :Line_915 .
+
+:TV_Line_916_BN a :TranslationVariant ;
+:text "আর এখন সে আমাকে হাতে ধরে এইভাবে নিয়ে যাচ্ছে,"^^xsd:string ;
+:relatedTo :Line_916 .
+
+:TV_Line_917_BN a :TranslationVariant ;
+:text "শয্যাহীন, বিবাহগীতহীন, বিবাহের"^^xsd:string ;
+:relatedTo :Line_917 .
+
+:TV_Line_918_BN a :TranslationVariant ;
+:text "কোনো অংশ না পেয়ে, সন্তানলালনেরও নয়,"^^xsd:string ;
+:relatedTo :Line_918 .
+
+:TV_Line_919_BN a :TranslationVariant ;
+:text "বরং এভাবে বন্ধুদের থেকে নির্জন, আমি দুর্ভাগিনী,"^^xsd:string ;
+:relatedTo :Line_919 .
+
+:TV_Line_920_BN a :TranslationVariant ;
+:text "জীবিত অবস্থায় মৃতদের খনিত গৃহে যাচ্ছি।"^^xsd:string ;
+:relatedTo :Line_920 .
+
+:TV_Line_921_BN a :TranslationVariant ;
+:text "দেবতাদের কোন ন্যায় আমি লঙ্ঘন করেছি?"^^xsd:string ;
+:relatedTo :Line_921 .
+
+:TV_Line_922_BN a :TranslationVariant ;
+:text "আমার মতো দুর্ভাগিনীকে আর কেন দেবতাদের দিকে"^^xsd:string ;
+:relatedTo :Line_922 .
+
+:TV_Line_923_BN a :TranslationVariant ;
+:text "তাকাতে হবে? কোন সহায়কে ডাকব? যেহেতু সত্যিই"^^xsd:string ;
+:relatedTo :Line_923 .
+
+:TV_Line_924_BN a :TranslationVariant ;
+:text "ধর্মনিষ্ঠা করেই আমি অধর্মের অভিযোগ অর্জন করেছি।"^^xsd:string ;
+:relatedTo :Line_924 .
+
+:TV_Line_925_BN a :TranslationVariant ;
+:text "তবে যদি এসব দেবতাদের কাছে সুন্দর হয়,"^^xsd:string ;
+:relatedTo :Line_925 .
+
+:TV_Line_926_BN a :TranslationVariant ;
+:text "কষ্ট ভোগ করে আমরা ভুল করেছি—এ কথা মেনে নেব;"^^xsd:string ;
+:relatedTo :Line_926 .
+
+:TV_Line_927_BN a :TranslationVariant ;
+:text "কিন্তু যদি এরা ভুল করে, তবে তারা যেন বেশি অমঙ্গল না ভোগ করে"^^xsd:string ;
+:relatedTo :Line_927 .
+
+:TV_Line_928_BN a :TranslationVariant ;
+:text "যতটা তারা অন্যায়ভাবে আমার উপর ঘটাচ্ছে।"^^xsd:string ;
+:relatedTo :Line_928 .

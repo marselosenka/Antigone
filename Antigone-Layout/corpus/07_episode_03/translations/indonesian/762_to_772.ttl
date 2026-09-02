@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-indonesian a owl:Ontology .
+# Indonesian translation variants for 762_to_772.ttl
+
+:TV_Line_762_ID a :TranslationVariant ;
+:text "Tidak di dekatku, jangan pernah pikirkan itu,"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_ID a :TranslationVariant ;
+:text "dan dia tidak akan binasa di dekatku; engkau pun tidak akan pernah"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_ID a :TranslationVariant ;
+:text "melihat kepalaku dengan matamu,"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_ID a :TranslationVariant ;
+:text "maka gilalah bersama sahabat-sahabatmu yang mau."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_ID a :TranslationVariant ;
+:text "Tuan, lelaki itu pergi cepat dalam kemarahan;"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_ID a :TranslationVariant ;
+:text "pikiran sebesar itu, ketika terluka, berat akibatnya."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_ID a :TranslationVariant ;
+:text "Biarlah ia bertindak; biarlah ia berpikir lebih besar daripada manusia;"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_ID a :TranslationVariant ;
+:text "namun kedua gadis ini tidak akan ia bebaskan dari maut."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_ID a :TranslationVariant ;
+:text "Apakah engkau benar-benar bermaksud membunuh keduanya?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_ID a :TranslationVariant ;
+:text "Tidak yang tidak menyentuhnya; sebab engkau benar dalam hal itu."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_ID a :TranslationVariant ;
+:text "Dengan kematian macam apa engkau merencanakan membunuhnya?"^^xsd:string ;
+:relatedTo :Line_772 .

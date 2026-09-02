@@ -1,0 +1,156 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-823-871-german a owl:Ontology .
+# German translation variants for 823_to_871.ttl
+
+:TV_Line_823_DE a :TranslationVariant ;
+:text "Ich habe ja gehört, dass die phrygische Fremde höchst jammervoll zugrunde ging,"^^xsd:string ;
+:relatedTo :Line_823 .
+
+# Line 824 is commented out in canonical.
+
+:TV_Line_825_DE a :TranslationVariant ;
+:text "die des Tantalos, nahe am Gipfel des Sipylos, die wie hartnäckiger Efeu"^^xsd:string ;
+:relatedTo :Line_825 .
+
+:TV_Line_826_DE a :TranslationVariant ;
+:text "felsiger Wuchs bezwang; und sie, die dahinschmilzt, benetzen die Regen,"^^xsd:string ;
+:relatedTo :Line_826 .
+
+:TV_Line_827_DE a :TranslationVariant ;
+:text "wie die Rede der Männer sagt,"^^xsd:string ;
+:relatedTo :Line_827 .
+
+# Lines 828 and 829 are commented out in canonical.
+
+:TV_Line_830_DE a :TranslationVariant ;
+:text "und Schnee verlässt sie niemals; unter den ganz beweinten Brauen benetzt er"^^xsd:string ;
+:relatedTo :Line_830 .
+
+:TV_Line_831_DE a :TranslationVariant ;
+:text "ihre Nacken; ihr macht mich ein Daimon am ähnlichsten zum Schlaf."^^xsd:string ;
+:relatedTo :Line_831 .
+
+# Lines 832 and 833 are commented out in canonical.
+
+:TV_Line_834_DE a :TranslationVariant ;
+:text "Aber sie ist ja Göttin und von Göttern geboren,"^^xsd:string ;
+:relatedTo :Line_834 .
+
+:TV_Line_835_DE a :TranslationVariant ;
+:text "wir aber sind Sterbliche und von Sterblichen geboren."^^xsd:string ;
+:relatedTo :Line_835 .
+
+:TV_Line_836_DE a :TranslationVariant ;
+:text "Dennoch ist es für eine Dahingeschiedene groß, auch zu hören,"^^xsd:string ;
+:relatedTo :Line_836 .
+
+:TV_Line_837_DE a :TranslationVariant ;
+:text "mit den Gottgleichen gleichen Anteil erlangt zu haben,"^^xsd:string ;
+:relatedTo :Line_837 .
+
+:TV_Line_838_DE a :TranslationVariant ;
+:text "lebend und danach gestorben."^^xsd:string ;
+:relatedTo :Line_838 .
+
+:TV_Line_839_DE a :TranslationVariant ;
+:text "Weh mir, ich werde verlacht. Warum, bei den väterlichen Göttern,"^^xsd:string ;
+:relatedTo :Line_839 .
+
+:TV_Line_840_DE a :TranslationVariant ;
+:text "misshandelst du mich nicht, wenn ich gegangen bin, sondern sichtbar hier?"^^xsd:string ;
+:relatedTo :Line_840 .
+
+:TV_Line_841_DE a :TranslationVariant ;
+:text "O Stadt, o Männer der Stadt mit vielen Besitztümern;"^^xsd:string ;
+:relatedTo :Line_841 .
+
+:TV_Line_842_DE a :TranslationVariant ;
+:text "io, dirkäische Quellen,"^^xsd:string ;
+:relatedTo :Line_842 .
+
+# Lines 843 and 844 are commented out in canonical.
+
+:TV_Line_845_DE a :TranslationVariant ;
+:text "und Hain des wagenreichen Theben, euch wenigstens gewinne ich als Mitzeugen,"^^xsd:string ;
+:relatedTo :Line_845 .
+
+:TV_Line_846_DE a :TranslationVariant ;
+:text "wie ich von Freunden unbeweint, nach welchen Gesetzen"^^xsd:string ;
+:relatedTo :Line_846 .
+
+:TV_Line_847_DE a :TranslationVariant ;
+:text "zur grabumwallten Einfriedung eines fremdartigen Grabes gehe;"^^xsd:string ;
+:relatedTo :Line_847 .
+
+# Lines 848 and 849 are commented out in canonical.
+
+:TV_Line_850_DE a :TranslationVariant ;
+:text "weder als Tote unter Toten"^^xsd:string ;
+:relatedTo :Line_850 .
+
+:TV_Line_851_DE a :TranslationVariant ;
+:text "wohne ich mit, nicht bei Lebenden, nicht bei Gestorbenen."^^xsd:string ;
+:relatedTo :Line_851 .
+
+# Line 852 is commented out in canonical.
+
+:TV_Line_853_DE a :TranslationVariant ;
+:text "Vorwärtsgehend bis zur äußersten Kühnheit"^^xsd:string ;
+:relatedTo :Line_853 .
+
+:TV_Line_854_DE a :TranslationVariant ;
+:text "auf den hohen Sockel der Dike"^^xsd:string ;
+:relatedTo :Line_854 .
+
+:TV_Line_855_DE a :TranslationVariant ;
+:text "bist du gestoßen, o Kind, sehr weit;"^^xsd:string ;
+:relatedTo :Line_855 .
+
+:TV_Line_856_DE a :TranslationVariant ;
+:text "und irgendeinen väterlichen Kampfpreis zahlst du ab."^^xsd:string ;
+:relatedTo :Line_856 .
+
+# Line 857 is commented out in canonical.
+
+:TV_Line_858_DE a :TranslationVariant ;
+:text "Du hast die schmerzlichsten Sorgen für mich berührt,"^^xsd:string ;
+:relatedTo :Line_858 .
+
+:TV_Line_859_DE a :TranslationVariant ;
+:text "das dreifach gepflügte Elend meines Vaters und das gesamte"^^xsd:string ;
+:relatedTo :Line_859 .
+
+:TV_Line_860_DE a :TranslationVariant ;
+:text "Schicksal von uns berühmten Labdakiden."^^xsd:string ;
+:relatedTo :Line_860 .
+
+:TV_Line_861_DE a :TranslationVariant ;
+:text "Io, mütterliche Betten"^^xsd:string ;
+:relatedTo :Line_861 .
+
+# Lines 862, 863, and 864 are commented out in canonical.
+
+:TV_Line_865_DE a :TranslationVariant ;
+:text "des Verderbens und selbstgezeugte Schlafstätten meines Vaters mit der unglücklichen Mutter,"^^xsd:string ;
+:relatedTo :Line_865 .
+
+:TV_Line_866_DE a :TranslationVariant ;
+:text "aus welchen ich einst, die Elende, geboren wurde;"^^xsd:string ;
+:relatedTo :Line_866 .
+
+:TV_Line_867_DE a :TranslationVariant ;
+:text "zu ihnen gehe ich, verflucht, unverheiratet, als Mitbewohnerin."^^xsd:string ;
+:relatedTo :Line_867 .
+
+# Lines 868 and 869 are commented out in canonical.
+
+:TV_Line_870_DE a :TranslationVariant ;
+:text "O Bruder, du, der du unglückselige Hochzeit erlangtest,"^^xsd:string ;
+:relatedTo :Line_870 .
+
+:TV_Line_871_DE a :TranslationVariant ;
+:text "gestorben hast du mich, die noch Lebende, getötet."^^xsd:string ;
+:relatedTo :Line_871 .

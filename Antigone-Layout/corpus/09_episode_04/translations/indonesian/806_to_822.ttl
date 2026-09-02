@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-indonesian a owl:Ontology .
+# Indonesian translation variants for 806_to_822.ttl
+
+:TV_Line_806_ID a :TranslationVariant ;
+:text "Lihatlah aku, warga tanah ayahku, sedang menempuh jalan terakhir"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_ID a :TranslationVariant ;
+:text "dan memandang cahaya matahari yang terakhir,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Line 808 and 809 do not exist in Antigone
+
+:TV_Line_810_ID a :TranslationVariant ;
+:text "dan tidak pernah lagi; melainkan Hades yang menidurkan semua orang membawaku hidup-hidup"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_ID a :TranslationVariant ;
+:text "ke tepi"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_ID a :TranslationVariant ;
+:text "Akheron, tanpa bagian dalam nyanyian kawin, dan tidak pula pada upacara pengantin,"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Line 813 and 814 do not exist in Antigone
+
+:TV_Line_815_ID a :TranslationVariant ;
+:text "belum pernah ada nyanyian menyanyikan pernikahanku, tetapi aku akan menikah dengan Akheron."^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in Antigone
+
+:TV_Line_817_ID a :TranslationVariant ;
+:text "Maka sungguh dengan kemasyhuran dan pujian"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_ID a :TranslationVariant ;
+:text "engkau pergi ke lubuk mayat-mayat ini,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_ID a :TranslationVariant ;
+:text "bukan dipukul penyakit yang membusukkan tubuh,"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_ID a :TranslationVariant ;
+:text "bukan pula memperoleh upah pedang,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_ID a :TranslationVariant ;
+:text "melainkan dengan hukummu sendiri, hidup, benar-benar sendiri,"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_ID a :TranslationVariant ;
+:text "engkau akan turun ke Hades, satu-satunya di antara manusia fana."^^xsd:string ;
+:relatedTo :Line_822 .

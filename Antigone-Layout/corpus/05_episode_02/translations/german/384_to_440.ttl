@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-german a owl:Ontology .
+# German translation variants for 384_to_440.ttl
+
+:TV_Line_384_DE a :TranslationVariant ;
+:text "Das ist jene, die das Werk vollbracht hat;"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_DE a :TranslationVariant ;
+:text "diese ergriffen wir, als sie begrub. Doch wo ist Kreon?"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_DE a :TranslationVariant ;
+:text "Da kommt er aus dem Haus zurück, zur rechten Zeit."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_DE a :TranslationVariant ;
+:text "Was ist es? Zu welchem passenden Geschick bin ich hervorgetreten?"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_DE a :TranslationVariant ;
+:text "Herr, für Sterbliche gibt es nichts, das abzuschwören wäre."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_DE a :TranslationVariant ;
+:text "Denn der nachträgliche Gedanke macht den Entschluss zur Lüge; denn"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_DE a :TranslationVariant ;
+:text "kaum hätte ich einst gerühmt, wieder hierher zu kommen,"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_DE a :TranslationVariant ;
+:text "nach deinen Drohungen, von denen ich damals gestürmt wurde."^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_DE a :TranslationVariant ;
+:text "Doch Freude, die außerhalb und wider Erwartung kommt,"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_DE a :TranslationVariant ;
+:text "gleicht an Größe keiner anderen Lust,"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_DE a :TranslationVariant ;
+:text "ich komme, obwohl ich durch Eide abgeschworen hatte,"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_DE a :TranslationVariant ;
+:text "und bringe dieses Mädchen, das ertappt wurde, ein Grab"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_DE a :TranslationVariant ;
+:text "zu schmücken. Ein Los wurde hier nicht geschüttelt,"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_DE a :TranslationVariant ;
+:text "sondern dieser Glücksfund ist meiner, keinem anderen."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_DE a :TranslationVariant ;
+:text "Und nun, Herr, nimm diese selbst, wie du willst,"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_DE a :TranslationVariant ;
+:text "und richte und überführe sie; ich aber bin frei"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_DE a :TranslationVariant ;
+:text "und habe recht, von diesen Übeln losgelöst zu sein."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_DE a :TranslationVariant ;
+:text "Du bringst diese? Auf welche Weise, wo hast du sie genommen?"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_DE a :TranslationVariant ;
+:text "Sie begrub den Mann; alles weißt du."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_DE a :TranslationVariant ;
+:text "Verstehst du auch und sagst richtig, was du behauptest?"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_DE a :TranslationVariant ;
+:text "Diese sah ich ja den Toten begraben, den du"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_DE a :TranslationVariant ;
+:text "verboten hast. Sage ich Sichtbares und Klares?"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_DE a :TranslationVariant ;
+:text "Und wie wurde sie gesehen und als ergriffen gefasst?"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_DE a :TranslationVariant ;
+:text "So war die Sache. Denn als wir gekommen waren,"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_DE a :TranslationVariant ;
+:text "von dir mit jenen furchtbaren Dingen bedroht,"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_DE a :TranslationVariant ;
+:text "fegten wir allen Staub weg, der den"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_DE a :TranslationVariant ;
+:text "Leichnam bedeckte, und entblößten den faulenden Körper gut,"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_DE a :TranslationVariant ;
+:text "saßen wir auf den Höhen der Hügel, windabgewandt,"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_DE a :TranslationVariant ;
+:text "dem Geruch von ihm entfliehend, damit er uns nicht träfe,"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_DE a :TranslationVariant ;
+:text "wachrüttelnd trieb Mann den Mann mit schimpfenden"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_DE a :TranslationVariant ;
+:text "bösen Worten an, falls einer diese Mühe vernachlässigen sollte."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_DE a :TranslationVariant ;
+:text "So lange war dies, bis im Äther"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_DE a :TranslationVariant ;
+:text "der leuchtende Kreis der Sonne in der Mitte stand"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_DE a :TranslationVariant ;
+:text "und die Hitze brannte; und dann plötzlich von der Erde"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_DE a :TranslationVariant ;
+:text "hob ein Wirbelwind einen Sturm auf, ein himmlisches Leid,"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_DE a :TranslationVariant ;
+:text "füllte das Feld und misshandelte die ganze Bewuchsdecke"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_DE a :TranslationVariant ;
+:text "des ebenen Waldes; und erfüllt wurde der große"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_DE a :TranslationVariant ;
+:text "Äther; mit geschlossenen Augen ertrugen wir die göttliche Krankheit."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_DE a :TranslationVariant ;
+:text "Und als dieses nach langer Zeit vergangen war,"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_DE a :TranslationVariant ;
+:text "wird das Mädchen gesehen, und sie schreit auf mit dem scharfen"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_DE a :TranslationVariant ;
+:text "Ton eines bitteren Vogels, wie wenn sie eines leeren"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_DE a :TranslationVariant ;
+:text "Nestes verwaistes Lager der Jungen erblickt."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_DE a :TranslationVariant ;
+:text "So auch sie: als sie den Leichnam bloß sieht,"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_DE a :TranslationVariant ;
+:text "stöhnte sie mit Klagen laut auf, und böse Flüche"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_DE a :TranslationVariant ;
+:text "verwünschte sie denen, die das Werk vollbracht hatten."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_DE a :TranslationVariant ;
+:text "Und sogleich trägt sie mit den Händen dürstenden Staub,"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_DE a :TranslationVariant ;
+:text "und aus einem schön getriebenen ehernen Krug, hoch erhoben,"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_DE a :TranslationVariant ;
+:text "kränzt sie mit dreifachen Spenden den Leichnam."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_DE a :TranslationVariant ;
+:text "Und wir, als wir es sahen, stürzten los, und zugleich"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_DE a :TranslationVariant ;
+:text "fingen wir sie sogleich, gar nicht erschrocken,"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_DE a :TranslationVariant ;
+:text "und klagten die früheren und die jetzigen"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_DE a :TranslationVariant ;
+:text "Taten an; leugnen aber wollte sie nichts,"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_DE a :TranslationVariant ;
+:text "mir zugleich erfreulich und schmerzlich zugleich."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_DE a :TranslationVariant ;
+:text "Denn selbst aus Übeln entkommen zu sein,"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_DE a :TranslationVariant ;
+:text "ist das Süßeste; Freunde aber ins Übel zu führen,"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_DE a :TranslationVariant ;
+:text "ist schmerzlich; doch all dies geringer zu nehmen"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_DE a :TranslationVariant ;
+:text "ist mir natürlich gegenüber meiner eigenen Rettung."^^xsd:string ;
+:relatedTo :Line_440 .

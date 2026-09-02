@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-hindi a owl:Ontology .
+# Hindi translation variants for 211_to_222.ttl
+
+:TV_Line_211_HI a :TranslationVariant ;
+:text "मेनोइकेउस के पुत्र, तुझे यही करना पसंद है,"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_HI a :TranslationVariant ;
+:text "इस नगर के शत्रु और शुभचिंतक के साथ;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_HI a :TranslationVariant ;
+:text "और हर नियम का प्रयोग करना तेरे अधिकार में है,"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_HI a :TranslationVariant ;
+:text "मृतकों और हम जितने जीवित हैं, सबके विषय में।"^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_HI a :TranslationVariant ;
+:text "अब तुम कही हुई बातों के रक्षक बनो।"^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_HI a :TranslationVariant ;
+:text "यह बोझ किसी छोटे आदमी को सौंप दे।"^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_HI a :TranslationVariant ;
+:text "पर मृतक के लिए तैयार पहरेदार हैं।"^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_HI a :TranslationVariant ;
+:text "तो फिर तू इसके अलावा और क्या आदेश देगा?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_HI a :TranslationVariant ;
+:text "कि इन बातों पर अविश्वास करने वालों को अवसर न दिया जाए।"^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_HI a :TranslationVariant ;
+:text "इतना मूर्ख कोई नहीं जो मरने से प्रेम करे।"^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_HI a :TranslationVariant ;
+:text "और सचमुच यही मजदूरी है; पर आशाओं के वश"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_HI a :TranslationVariant ;
+:text "लाभ ने अक्सर पुरुषों को नष्ट कर दिया है।"^^xsd:string ;
+:relatedTo :Line_222 .

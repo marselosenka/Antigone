@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-russian a owl:Ontology .
+# Russian translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_RU a :TranslationVariant ;
+:text "О все граждане, я восприняла эти слова,"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_RU a :TranslationVariant ;
+:text "к выходу направляясь, чтобы к богине Палладе"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_RU a :TranslationVariant ;
+:text "прийти с обращением молитв."^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_RU a :TranslationVariant ;
+:text "И случилось мне засовы распахиваемых ворот"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_RU a :TranslationVariant ;
+:text "ослаблять, и звук домашнего зла"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_RU a :TranslationVariant ;
+:text "ударяет меня через уши; навзничь же я склоняюсь,"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_RU a :TranslationVariant ;
+:text "испугавшись, к служанкам и поражаюсь."^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_RU a :TranslationVariant ;
+:text "Но какова была эта речь, скажите снова;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_RU a :TranslationVariant ;
+:text "ведь я, не неопытная в бедах, выслушаю."^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_RU a :TranslationVariant ;
+:text "Я, милая госпожа, и как присутствовавший скажу,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_RU a :TranslationVariant ;
+:text "и не опущу ни одного слова истины;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_RU a :TranslationVariant ;
+:text "зачем мне смягчать тебя тем, в чем позже"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_RU a :TranslationVariant ;
+:text "мы окажемся лжецами? Истина всегда пряма."^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_RU a :TranslationVariant ;
+:text "Я же, как проводник, следовал за твоим супругом"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_RU a :TranslationVariant ;
+:text "к крайней равнине, где лежало еще безжалостное,"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_RU a :TranslationVariant ;
+:text "растерзанное собаками тело Полиника;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_RU a :TranslationVariant ;
+:text "и его, попросив придорожную богиню"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_RU a :TranslationVariant ;
+:text "и Плутона удержать гнев благосклонным,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_RU a :TranslationVariant ;
+:text "омыли чистым омовением и свежесорванными"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_RU a :TranslationVariant ;
+:text "ветвями сожгли вместе то, что осталось,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_RU a :TranslationVariant ;
+:text "и, насыпав высокоглавый курган из родной земли,"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_RU a :TranslationVariant ;
+:text "затем к выстланному камнями девичьему"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_RU a :TranslationVariant ;
+:text "пустому брачному покою Аида мы входили."^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_RU a :TranslationVariant ;
+:text "И издали кто-то слышит голос высоких рыданий"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_RU a :TranslationVariant ;
+:text "вокруг погребального ложа без даров,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_RU a :TranslationVariant ;
+:text "и, придя, сообщает владыке Креонту;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_RU a :TranslationVariant ;
+:text "его же неясные звуки несчастного крика окружают,"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_RU a :TranslationVariant ;
+:text "когда он подползает все ближе, и, застонав, слово"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_RU a :TranslationVariant ;
+:text "издает, тяжкооплакиваемое: о я несчастный,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_RU a :TranslationVariant ;
+:text "не прорицатель ли я? Не самой ли несчастной"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_RU a :TranslationVariant ;
+:text "дорогой я ползу из всех прежних путей?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_RU a :TranslationVariant ;
+:text "Голос сына ласкает мне слух. Но, слуги,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_RU a :TranslationVariant ;
+:text "идите быстрее ближе и, став у могилы,"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_RU a :TranslationVariant ;
+:text "осмотрите камнем разорванный стык насыпи,"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_RU a :TranslationVariant ;
+:text "проникнув к самому устью, слышу ли я"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_RU a :TranslationVariant ;
+:text "голос Гемона, или боги меня обманывают."^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_RU a :TranslationVariant ;
+:text "Это по приказам бездушного от горя господина"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_RU a :TranslationVariant ;
+:text "мы осматривали; и в последней части гробницы"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_RU a :TranslationVariant ;
+:text "ее мы увидели повешенной за шею,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_RU a :TranslationVariant ;
+:text "прикрепленной нитяной петлей полотна,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_RU a :TranslationVariant ;
+:text "а его — упавшим рядом, обнимающим ее посередине,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_RU a :TranslationVariant ;
+:text "оплакивающим гибель нижнего брачного ложа,"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_RU a :TranslationVariant ;
+:text "и дела отца, и несчастное ложе."^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_RU a :TranslationVariant ;
+:text "А тот, когда видит их, издав страшный стон, внутрь"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_RU a :TranslationVariant ;
+:text "идет к нему и, громко зарыдав, зовет:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_RU a :TranslationVariant ;
+:text "О несчастный, какое дело ты совершил; какой"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_RU a :TranslationVariant ;
+:text "разум имел? В какой беде ты погиб?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_RU a :TranslationVariant ;
+:text "Выйди, дитя; как проситель я умоляю тебя."^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_RU a :TranslationVariant ;
+:text "А мальчик, взглянув на него дикими глазами,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_RU a :TranslationVariant ;
+:text "плюнув в лицо и ничего не ответив, меча"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_RU a :TranslationVariant ;
+:text "вытягивает двусторонние зубья; но когда отец бросился,"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_RU a :TranslationVariant ;
+:text "он промахнулся по бегущему; затем несчастный,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_RU a :TranslationVariant ;
+:text "разгневавшись на самого себя, как был, налегши"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_RU a :TranslationVariant ;
+:text "вонзил меч в середину бока, и влажной"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_RU a :TranslationVariant ;
+:text "рукой, еще в сознании, прижимается к деве;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_RU a :TranslationVariant ;
+:text "и, дыша тяжело, извергает резкий поток"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_RU a :TranslationVariant ;
+:text "кровавых капель на белую щеку."^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_RU a :TranslationVariant ;
+:text "И лежит мертвый возле мертвой, брачные"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_RU a :TranslationVariant ;
+:text "обряды получив, несчастный, в доме Аида,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_RU a :TranslationVariant ;
+:text "показав среди людей, что безрассудство"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_RU a :TranslationVariant ;
+:text "является величайшим злом, приставшим к человеку."^^xsd:string ;
+:relatedTo :Line_1243 .

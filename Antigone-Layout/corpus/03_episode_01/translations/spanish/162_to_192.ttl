@@ -1,0 +1,131 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-162-192-spanish a owl:Ontology .
+# Spanish translation variants for 162_to_192.ttl
+
+:TV_Line_162_ES a :TranslationVariant ;
+    :text "Hombres, los dioses han enderezado de nuevo con seguridad"^^xsd:string ;
+    :relatedTo :Line_162 .
+
+:TV_Line_163_ES a :TranslationVariant ;
+    :text "los asuntos de la ciudad, tras sacudirlos con gran oleaje."^^xsd:string ;
+    :relatedTo :Line_163 .
+
+:TV_Line_164_ES a :TranslationVariant ;
+    :text "A vosotros os mandé llamar con mensajeros, aparte de todos,"^^xsd:string ;
+    :relatedTo :Line_164 .
+
+:TV_Line_165_ES a :TranslationVariant ;
+    :text "primero porque sé que siempre habéis venerado"^^xsd:string ;
+    :relatedTo :Line_165 .
+
+:TV_Line_166_ES a :TranslationVariant ;
+    :text "bien el poder del trono de Layo,"^^xsd:string ;
+    :relatedTo :Line_166 .
+
+:TV_Line_167_ES a :TranslationVariant ;
+    :text "y luego, cuando Edipo puso en pie la ciudad,"^^xsd:string ;
+    :relatedTo :Line_167 .
+
+:TV_Line_168_ES a :TranslationVariant ;
+    :text "y después de su muerte, aún permanecisteis junto a sus hijos"^^xsd:string ;
+    :relatedTo :Line_168 .
+
+:TV_Line_169_ES a :TranslationVariant ;
+    :text "con pensamientos firmes."^^xsd:string ;
+    :relatedTo :Line_169 .
+
+:TV_Line_170_ES a :TranslationVariant ;
+    :text "Así pues, cuando aquellos dos, por doble destino,"^^xsd:string ;
+    :relatedTo :Line_170 .
+
+:TV_Line_171_ES a :TranslationVariant ;
+    :text "perecieron en un solo día, golpeando y"^^xsd:string ;
+    :relatedTo :Line_171 .
+
+:TV_Line_172_ES a :TranslationVariant ;
+    :text "golpeados por sus propias manos, con mutua mancha,"^^xsd:string ;
+    :relatedTo :Line_172 .
+
+:TV_Line_173_ES a :TranslationVariant ;
+    :text "yo tengo ahora todos los poderes y el trono"^^xsd:string ;
+    :relatedTo :Line_173 .
+
+:TV_Line_174_ES a :TranslationVariant ;
+    :text "por cercanía de sangre con los muertos."^^xsd:string ;
+    :relatedTo :Line_174 .
+
+:TV_Line_175_ES a :TranslationVariant ;
+    :text "Es imposible conocer de cualquier hombre"^^xsd:string ;
+    :relatedTo :Line_175 .
+
+:TV_Line_176_ES a :TranslationVariant ;
+    :text "el alma, el pensamiento y el juicio, antes de que"^^xsd:string ;
+    :relatedTo :Line_176 .
+
+:TV_Line_177_ES a :TranslationVariant ;
+    :text "se muestre probado en cargos y leyes."^^xsd:string ;
+    :relatedTo :Line_177 .
+
+:TV_Line_178_ES a :TranslationVariant ;
+    :text "Pues para mí, quien al dirigir toda una ciudad"^^xsd:string ;
+    :relatedTo :Line_178 .
+
+:TV_Line_179_ES a :TranslationVariant ;
+    :text "no se aferra a los mejores consejos,"^^xsd:string ;
+    :relatedTo :Line_179 .
+
+:TV_Line_180_ES a :TranslationVariant ;
+    :text "sino que por algún miedo mantiene cerrada la lengua,"^^xsd:string ;
+    :relatedTo :Line_180 .
+
+:TV_Line_181_ES a :TranslationVariant ;
+    :text "me parece el peor, ahora y desde siempre."^^xsd:string ;
+    :relatedTo :Line_181 .
+
+:TV_Line_182_ES a :TranslationVariant ;
+    :text "Y a quien considera a un amigo más grande"^^xsd:string ;
+    :relatedTo :Line_182 .
+
+:TV_Line_183_ES a :TranslationVariant ;
+    :text "que a su propia patria, a ese no lo tengo en nada."^^xsd:string ;
+    :relatedTo :Line_183 .
+
+:TV_Line_184_ES a :TranslationVariant ;
+    :text "Pues yo, sépalo Zeus que siempre todo lo ve,"^^xsd:string ;
+    :relatedTo :Line_184 .
+
+:TV_Line_185_ES a :TranslationVariant ;
+    :text "jamás callaría si viera la ruina"^^xsd:string ;
+    :relatedTo :Line_185 .
+
+:TV_Line_186_ES a :TranslationVariant ;
+    :text "avanzar contra los ciudadanos en lugar de la salvación,"^^xsd:string ;
+    :relatedTo :Line_186 .
+
+:TV_Line_187_ES a :TranslationVariant ;
+    :text "ni tendría jamás por amigo mío"^^xsd:string ;
+    :relatedTo :Line_187 .
+
+:TV_Line_188_ES a :TranslationVariant ;
+    :text "a un hombre enemigo de esta tierra, sabiendo esto:"^^xsd:string ;
+    :relatedTo :Line_188 .
+
+:TV_Line_189_ES a :TranslationVariant ;
+    :text "que ella es la que nos salva, y sobre ella,"^^xsd:string ;
+    :relatedTo :Line_189 .
+
+:TV_Line_190_ES a :TranslationVariant ;
+    :text "navegando rectos, hacemos nuestros amigos."^^xsd:string ;
+    :relatedTo :Line_190 .
+
+:TV_Line_191_ES a :TranslationVariant ;
+    :text "Con leyes como estas haré crecer esta ciudad."^^xsd:string ;
+    :relatedTo :Line_191 .
+
+:TV_Line_192_ES a :TranslationVariant ;
+    :text "Y ahora he proclamado órdenes hermanas de estas"^^xsd:string ;
+    :relatedTo :Line_192 .

@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-arabic a owl:Ontology .
+# Arabic translation variants for 223_to_252.ttl
+
+:TV_Line_223_AR a :TranslationVariant ;
+:text "أيها الملك، سأقول لا إنني من فرط السرعة"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_AR a :TranslationVariant ;
+:text "أتيت لاهثًا، رافعًا قدمًا خفيفة."^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_AR a :TranslationVariant ;
+:text "فقد كانت لي وقفات كثيرة من الأفكار،"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_AR a :TranslationVariant ;
+:text "أدور في الطرق بنفسي نحو الرجوع؛"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_AR a :TranslationVariant ;
+:text "فإن نفسي كانت تخاطبني كثيرًا قائلة:"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_AR a :TranslationVariant ;
+:text "يا تعيس، لم تمضي إلى حيث ستدفع العقوبة إذا وصلت؟"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_AR a :TranslationVariant ;
+:text "يا بائس، أتتوقف مرة أخرى؟ وإن علم كريون بهذه الأمور"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_AR a :TranslationVariant ;
+:text "من رجل آخر، فكيف لا تتألم أنت إذن؟"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_AR a :TranslationVariant ;
+:text "وأنا أقلب مثل هذه الأمور، كنت أتم ببطء متأنٍّ،"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_AR a :TranslationVariant ;
+:text "وهكذا يصير الطريق القصير طويلًا."^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_AR a :TranslationVariant ;
+:text "لكن في النهاية غلب المجيء إلى هنا"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_AR a :TranslationVariant ;
+:text "إليك؛ وحتى إن كنت سأقول لا شيء، فسأتكلم مع ذلك."^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_AR a :TranslationVariant ;
+:text "فإني آتي متمسكًا بالأمل،"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_AR a :TranslationVariant ;
+:text "ألا أعاني شيئًا غير ما هو مقدر."^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_AR a :TranslationVariant ;
+:text "وما الأمر الذي لأجله تحمل هذا الخور؟"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_AR a :TranslationVariant ;
+:text "أريد أن أخبرك أولًا بما يخصني؛ فإن"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_AR a :TranslationVariant ;
+:text "الأمر لم أفعله، ولا رأيت من كان الفاعل،"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_AR a :TranslationVariant ;
+:text "ولا ينبغي أن أقع بعدل في شر ما."^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_AR a :TranslationVariant ;
+:text "حسنًا تستهدف وتحصن حول"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_AR a :TranslationVariant ;
+:text "الأمر؛ وتظهر أنك ستدل على شيء جديد."^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_AR a :TranslationVariant ;
+:text "فالأمور الرهيبة تضيف ترددًا كثيرًا."^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_AR a :TranslationVariant ;
+:text "أفلن تقول يومًا، ثم تنصرف وقد تخلصت؟"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_AR a :TranslationVariant ;
+:text "والآن أقول لك: لقد دفن أحدهم الجثة لتوه"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_AR a :TranslationVariant ;
+:text "ومضى، وقد نثر على الجسد"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_AR a :TranslationVariant ;
+:text "ترابًا عطشان، وأدى الطقوس الطاهرة اللازمة."^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_AR a :TranslationVariant ;
+:text "ماذا تقول؟ أي رجل تجرأ على هذه الأمور؟"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_AR a :TranslationVariant ;
+:text "لا أعلم؛ فهناك لم تكن ضربة معول"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_AR a :TranslationVariant ;
+:text "ولا طرح فأس؛ بل كانت الأرض صلبة"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_AR a :TranslationVariant ;
+:text "ويابسة، غير مشقوقة ولا مطروقة"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_AR a :TranslationVariant ;
+:text "بعجلات، بل كان العامل مجهول الأثر."^^xsd:string ;
+:relatedTo :Line_252 .

@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-russian a owl:Ontology .
+# Russian translation variants for 441_to_479.ttl
+
+:TV_Line_441_RU a :TranslationVariant ;
+:text "Тебя, да, тебя, склонившую голову к земле,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_RU a :TranslationVariant ;
+:text "говоришь ли ты или отрицаешь, что не делала этого?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_RU a :TranslationVariant ;
+:text "И говорю, что сделала, и не отрицаю."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_RU a :TranslationVariant ;
+:text "Ты можешь увести себя куда хочешь,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_RU a :TranslationVariant ;
+:text "свободным от тяжелого обвинения;"^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_RU a :TranslationVariant ;
+:text "а ты скажи мне не пространно, но кратко:"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_RU a :TranslationVariant ;
+:text "знала ли ты, что было объявлено не делать этого?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_RU a :TranslationVariant ;
+:text "Знала; как же мне было не знать? Ведь это было явно."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_RU a :TranslationVariant ;
+:text "И все же ты дерзнула преступать эти законы?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_RU a :TranslationVariant ;
+:text "Ведь не Зевс был мне возвестившим это,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_RU a :TranslationVariant ;
+:text "и не живущая вместе с нижними богами Дика"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_RU a :TranslationVariant ;
+:text "такие законы установила среди людей."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_RU a :TranslationVariant ;
+:text "И я не думала, что твои"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_RU a :TranslationVariant ;
+:text "воззвания настолько сильны, чтобы неписаные и надежные божественные"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_RU a :TranslationVariant ;
+:text "законы мог смертный, будучи смертным, превзойти."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_RU a :TranslationVariant ;
+:text "Ведь они живут не сегодня и не вчера, но всегда,"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_RU a :TranslationVariant ;
+:text "и никто не знает, с какого времени они явились."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_RU a :TranslationVariant ;
+:text "За это я не собиралась, испугавшись мысли"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_RU a :TranslationVariant ;
+:text "никакого мужчины, перед богами дать ответ."^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_RU a :TranslationVariant ;
+:text "Ведь я знала, что умру; как же нет?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_RU a :TranslationVariant ;
+:text "даже если бы ты не провозгласил заранее. Если же раньше срока"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_RU a :TranslationVariant ;
+:text "я умру, это я называю выгодой."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_RU a :TranslationVariant ;
+:text "Ибо кто, как я, среди многих бед"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_RU a :TranslationVariant ;
+:text "живет, как не получает выгоду, умерев?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_RU a :TranslationVariant ;
+:text "Так для меня получить эту смерть"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_RU a :TranslationVariant ;
+:text "совсем не боль; но если бы того, кто от моей"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_RU a :TranslationVariant ;
+:text "матери умер, я вынесла непогребенным мертвецом,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_RU a :TranslationVariant ;
+:text "от того я страдала бы; от этого же не страдаю."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_RU a :TranslationVariant ;
+:text "А если тебе кажется, что я теперь совершаю глупое,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_RU a :TranslationVariant ;
+:text "то, пожалуй, глупостью я обязана глупцу."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_RU a :TranslationVariant ;
+:text "Жестокое порождение от жестокого отца"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_RU a :TranslationVariant ;
+:text "являет эта девушка; уступать бедам она не умеет."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_RU a :TranslationVariant ;
+:text "Но знай: слишком жесткие помыслы"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_RU a :TranslationVariant ;
+:text "чаще всего падают, и самый крепкий"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_RU a :TranslationVariant ;
+:text "железо, обожженное огнем до твердости,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_RU a :TranslationVariant ;
+:text "ты часто увидел бы разбитым и расколотым;"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_RU a :TranslationVariant ;
+:text "и малой уздой, я знаю, разгоряченных"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_RU a :TranslationVariant ;
+:text "коней укрощают; ведь не подобает"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_RU a :TranslationVariant ;
+:text "мыслить велико тому, кто раб ближних."^^xsd:string ;
+:relatedTo :Line_479 .

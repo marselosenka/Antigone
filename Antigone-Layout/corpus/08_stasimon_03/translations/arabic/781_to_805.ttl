@@ -1,0 +1,74 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_03-translations-781-805-arabic a owl:Ontology .
+# Arabic translation variants for 781_to_805.ttl
+
+:TV_Line_781_AR a :TranslationVariant ;
+:text "أيها الحب، يا من لا يُقهَر في القتال، أيها الحب، يا من ينقضّ على الممتلكات،"^^xsd:string ;
+:relatedTo :Line_781 .
+
+:TV_Line_782_AR a :TranslationVariant ;
+:text "يا من يبيت على الخدود اللينة للفتاة الشابة،"^^xsd:string ;
+:relatedTo :Line_782 .
+
+# Line 783 and 784 do not exist in Antigone
+
+:TV_Line_785_AR a :TranslationVariant ;
+:text "وتجوب عبر البحر، وفي الساحات الريفية؛"^^xsd:string ;
+:relatedTo :Line_785 .
+
+:TV_Line_786_AR a :TranslationVariant ;
+:text "ولا أحد من الخالدين يستطيع الإفلات منك،"^^xsd:string ;
+:relatedTo :Line_786 .
+
+# Line 787, 788 and 789 do not exist in Antigone
+
+:TV_Line_790_AR a :TranslationVariant ;
+:text "ولا أحد من البشر أبناء النهار؛ ومن يقع في قبضتك يجنّ."^^xsd:string ;
+:relatedTo :Line_790 .
+
+:TV_Line_791_AR a :TranslationVariant ;
+:text "أنت أيضًا تنتزع عقول العادلين إلى الظلم، جالبًا العار،"^^xsd:string ;
+:relatedTo :Line_791 .
+
+:TV_Line_792_AR a :TranslationVariant ;
+:text "وأنت أيضًا أثرت هذا النزاع بين رجال من الدم نفسه؛"^^xsd:string ;
+:relatedTo :Line_792 .
+
+# Line 793 and 794 do not exist in Antigone
+
+:TV_Line_795_AR a :TranslationVariant ;
+:text "وينتصر الشوق الجليّ اللامع من عيني العروس حسنة الفراش،"^^xsd:string ;
+:relatedTo :Line_795 .
+
+:TV_Line_796_AR a :TranslationVariant ;
+:text "جالسًا إلى جانب السنن العظمى في مبادئها،"^^xsd:string ;
+:relatedTo :Line_796 .
+
+# Line 797, 798 and 799 do not exist in Antigone
+
+:TV_Line_800_AR a :TranslationVariant ;
+:text "سننها؛ فإن الإلهة أفروديت التي لا تُقاوَم تعبث."^^xsd:string ;
+:relatedTo :Line_800 .
+
+:TV_Line_801_AR a :TranslationVariant ;
+:text "أما الآن، فأنا نفسي أيضًا أُحمَل خارج السنن،"^^xsd:string ;
+:relatedTo :Line_801 .
+
+:TV_Line_802_AR a :TranslationVariant ;
+:text "وأنا أرى هذه الأمور، ولم أعد أستطيع حبس"^^xsd:string ;
+:relatedTo :Line_802 .
+
+:TV_Line_803_AR a :TranslationVariant ;
+:text "ينابيع الدموع،"^^xsd:string ;
+:relatedTo :Line_803 .
+
+:TV_Line_804_AR a :TranslationVariant ;
+:text "حين أرى هذا المخدع الذي يضم الجميع"^^xsd:string ;
+:relatedTo :Line_804 .
+
+:TV_Line_805_AR a :TranslationVariant ;
+:text "وأنظر إلى أنتيغونه هذه سائرة إليه."^^xsd:string ;
+:relatedTo :Line_805 .

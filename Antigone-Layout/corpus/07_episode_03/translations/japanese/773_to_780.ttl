@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-japanese a owl:Ontology .
+# Japanese translation variants for 773_to_780.ttl
+
+:TV_Line_773_JA a :TranslationVariant ;
+:text "人間の足跡がない荒れた場所へ連れて行き、"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_JA a :TranslationVariant ;
+:text "岩の地下室の中に、生きたまま隠す。"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_JA a :TranslationVariant ;
+:text "食物は、ただ穢れを避けるだけの量を前に置き、"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_JA a :TranslationVariant ;
+:text "町全体が汚れを逃れるように。"^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_JA a :TranslationVariant ;
+:text "そしてそこで、彼女が神々のうちただ一人敬うハデスに"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_JA a :TranslationVariant ;
+:text "願えば、どこかで死なずにいることを得るだろう、"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_JA a :TranslationVariant ;
+:text "あるいは少なくとも、その時になって知るだろう、"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_JA a :TranslationVariant ;
+:text "ハデスにあるものを敬うのは過剰な苦労であると。"^^xsd:string ;
+:relatedTo :Line_780 .

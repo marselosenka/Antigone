@@ -1,0 +1,140 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:hyporchema-translations-1115-1154-french a owl:Ontology .
+# French translation variants for 1115_to_1154.ttl
+
+:TV_Line_1115_FR a :TranslationVariant ;
+:text "Ô toi aux nombreux noms, gloire de la nymphe cadméenne,"^^xsd:string ;
+:relatedTo :Line_1115 .
+
+:TV_Line_1116_FR a :TranslationVariant ;
+:text "et descendance de Zeus au lourd tonnerre,"^^xsd:string ;
+:relatedTo :Line_1116 .
+
+:TV_Line_1117_FR a :TranslationVariant ;
+:text "toi qui protèges l’illustre"^^xsd:string ;
+:relatedTo :Line_1117 .
+
+:TV_Line_1118_FR a :TranslationVariant ;
+:text "Italie, et qui règnes"^^xsd:string ;
+:relatedTo :Line_1118 .
+
+:TV_Line_1119_FR a :TranslationVariant ;
+:text "dans les vallons communs à tous de l’Éleusinienne"^^xsd:string ;
+:relatedTo :Line_1119 .
+
+:TV_Line_1120_FR a :TranslationVariant ;
+:text "Déo, Bacchos des Bacchantes,"^^xsd:string ;
+:relatedTo :Line_1120 .
+
+:TV_Line_1121_FR a :TranslationVariant ;
+:text "toi qui habites Thèbes, ville-mère,"^^xsd:string ;
+:relatedTo :Line_1121 .
+
+:TV_Line_1122_FR a :TranslationVariant ;
+:text "près des humides"^^xsd:string ;
+:relatedTo :Line_1122 .
+
+# Lines 1123 and 1124 do not exist in canonical.
+
+:TV_Line_1125_FR a :TranslationVariant ;
+:text "courants de l’Isménos et sur la semence du dragon sauvage."^^xsd:string ;
+:relatedTo :Line_1125 .
+
+:TV_Line_1126_FR a :TranslationVariant ;
+:text "La fumée éclatante t’a vu au-dessus du rocher à deux sommets,"^^xsd:string ;
+:relatedTo :Line_1126 .
+
+:TV_Line_1127_FR a :TranslationVariant ;
+:text "là où les Coryciennes"^^xsd:string ;
+:relatedTo :Line_1127 .
+
+:TV_Line_1128_FR a :TranslationVariant ;
+:text "nymphes bacchiques s’avancent,"^^xsd:string ;
+:relatedTo :Line_1128 .
+
+# Line 1129 does not exist in canonical.
+
+:TV_Line_1130_FR a :TranslationVariant ;
+:text "et la source de Castalie."^^xsd:string ;
+:relatedTo :Line_1130 .
+
+:TV_Line_1131_FR a :TranslationVariant ;
+:text "Et toi, les pentes couvertes de lierre"^^xsd:string ;
+:relatedTo :Line_1131 .
+
+:TV_Line_1132_FR a :TranslationVariant ;
+:text "des monts nyséens et le vert rivage"^^xsd:string ;
+:relatedTo :Line_1132 .
+
+:TV_Line_1133_FR a :TranslationVariant ;
+:text "riche en grappes t’envoient,"^^xsd:string ;
+:relatedTo :Line_1133 .
+
+:TV_Line_1134_FR a :TranslationVariant ;
+:text "tandis que des paroles immortelles"^^xsd:string ;
+:relatedTo :Line_1134 .
+
+:TV_Line_1135_FR a :TranslationVariant ;
+:text "criant euoi veillent sur les rues de Thèbes ;"^^xsd:string ;
+:relatedTo :Line_1135 .
+
+# Line 1136 does not exist in canonical.
+
+:TV_Line_1137_FR a :TranslationVariant ;
+:text "elle que, parmi toutes les cités, tu honores comme la plus haute"^^xsd:string ;
+:relatedTo :Line_1137 .
+
+:TV_Line_1138_FR a :TranslationVariant ;
+:text "avec ta mère frappée par la foudre ;"^^xsd:string ;
+:relatedTo :Line_1138 .
+
+# Line 1139 does not exist in canonical.
+
+:TV_Line_1140_FR a :TranslationVariant ;
+:text "et maintenant, puisque toute la cité"^^xsd:string ;
+:relatedTo :Line_1140 .
+
+:TV_Line_1141_FR a :TranslationVariant ;
+:text "du peuple est tenue par une maladie violente,"^^xsd:string ;
+:relatedTo :Line_1141 .
+
+:TV_Line_1142_FR a :TranslationVariant ;
+:text "viens d’un pied purificateur par-dessus la pente parnassienne"^^xsd:string ;
+:relatedTo :Line_1142 .
+
+# Lines 1143 and 1144 do not exist in canonical.
+
+:TV_Line_1145_FR a :TranslationVariant ;
+:text "ou par le détroit gémissant."^^xsd:string ;
+:relatedTo :Line_1145 .
+
+:TV_Line_1146_FR a :TranslationVariant ;
+:text "Io, guide du chœur des astres qui soufflent le feu, des voix nocturnes,"^^xsd:string ;
+:relatedTo :Line_1146 .
+
+:TV_Line_1147_FR a :TranslationVariant ;
+:text "surveillant,"^^xsd:string ;
+:relatedTo :Line_1147 .
+
+:TV_Line_1148_FR a :TranslationVariant ;
+:text "enfant né de Zeus,"^^xsd:string ;
+:relatedTo :Line_1148 .
+
+# Line 1149 does not exist in canonical.
+
+:TV_Line_1150_FR a :TranslationVariant ;
+:text "ô seigneur, avec tes suivantes"^^xsd:string ;
+:relatedTo :Line_1150 .
+
+:TV_Line_1151_FR a :TranslationVariant ;
+:text "Thyiades, qui, délirantes,"^^xsd:string ;
+:relatedTo :Line_1151 .
+
+:TV_Line_1152_FR a :TranslationVariant ;
+:text "dansent pour toi, Iacchos dispensateur."^^xsd:string ;
+:relatedTo :Line_1152 .
+
+# Lines 1153 and 1154 do not exist in canonical.

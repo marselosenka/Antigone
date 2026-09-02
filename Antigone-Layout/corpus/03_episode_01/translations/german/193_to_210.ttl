@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-193-210-german a owl:Ontology .
+# German translation variants for 193_to_210.ttl
+
+:TV_Line_193_DE a :TranslationVariant ;
+:text "über die Kinder aus Ödipus;"^^xsd:string ;
+:relatedTo :Line_193 .
+
+:TV_Line_194_DE a :TranslationVariant ;
+:text "Eteokles, der, für diese Stadt kämpfend,"^^xsd:string ;
+:relatedTo :Line_194 .
+
+:TV_Line_195_DE a :TranslationVariant ;
+:text "zugrunde ging, in allem durch den Speer hervorragend,"^^xsd:string ;
+:relatedTo :Line_195 .
+
+:TV_Line_196_DE a :TranslationVariant ;
+:text "ihn im Grab zu verbergen und alle Reinigungen zu vollziehen,"^^xsd:string ;
+:relatedTo :Line_196 .
+
+:TV_Line_197_DE a :TranslationVariant ;
+:text "die den besten Toten nach unten zukommen;"^^xsd:string ;
+:relatedTo :Line_197 .
+
+:TV_Line_198_DE a :TranslationVariant ;
+:text "den aber, den Blutsverwandten von diesem, Polyneikes meine ich,"^^xsd:string ;
+:relatedTo :Line_198 .
+
+:TV_Line_199_DE a :TranslationVariant ;
+:text "der das väterliche Land und die angeborenen Götter,"^^xsd:string ;
+:relatedTo :Line_199 .
+
+:TV_Line_200_DE a :TranslationVariant ;
+:text "aus der Verbannung zurückgekehrt, mit Feuer"^^xsd:string ;
+:relatedTo :Line_200 .
+
+:TV_Line_201_DE a :TranslationVariant ;
+:text "von Grund auf verbrennen wollte und von gemeinsamem Blut"^^xsd:string ;
+:relatedTo :Line_201 .
+
+:TV_Line_202_DE a :TranslationVariant ;
+:text "sich sättigen wollte und die anderen versklavt wegführen,"^^xsd:string ;
+:relatedTo :Line_202 .
+
+:TV_Line_203_DE a :TranslationVariant ;
+:text "für diesen ist dieser Stadt ausgerufen, dass niemand"^^xsd:string ;
+:relatedTo :Line_203 .
+
+:TV_Line_204_DE a :TranslationVariant ;
+:text "ihn mit Grabriten ehre noch ihn beweine,"^^xsd:string ;
+:relatedTo :Line_204 .
+
+:TV_Line_205_DE a :TranslationVariant ;
+:text "sondern ihn unbestattet lasse, den Leib für Vögel"^^xsd:string ;
+:relatedTo :Line_205 .
+
+:TV_Line_206_DE a :TranslationVariant ;
+:text "und für Hunde zum Fraß, als geschändeten Anblick."^^xsd:string ;
+:relatedTo :Line_206 .
+
+:TV_Line_207_DE a :TranslationVariant ;
+:text "Solcher Art ist meine Gesinnung, und niemals werden von mir"^^xsd:string ;
+:relatedTo :Line_207 .
+
+:TV_Line_208_DE a :TranslationVariant ;
+:text "die Schlechten mehr Ehre haben als die Gerechten."^^xsd:string ;
+:relatedTo :Line_208 .
+
+:TV_Line_209_DE a :TranslationVariant ;
+:text "Wer aber dieser Stadt wohlgesinnt ist, tot"^^xsd:string ;
+:relatedTo :Line_209 .
+
+:TV_Line_210_DE a :TranslationVariant ;
+:text "wie lebend, wird von mir gleichermaßen geehrt werden."^^xsd:string ;
+:relatedTo :Line_210 .

@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-japanese a owl:Ontology .
+# Japanese translation variants for 806_to_822.ttl
+
+:TV_Line_806_JA a :TranslationVariant ;
+:text "見よ、祖国の地の市民たちよ、私が最後の道を"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_JA a :TranslationVariant ;
+:text "進み、太陽の最後の光を見ているのを。"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Lines 808 and 809 do not exist in Antigone
+
+:TV_Line_810_JA a :TranslationVariant ;
+:text "そして二度と再びない。だが、すべてを眠らせるハデスが、生きたまま私を連れて行く、"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_JA a :TranslationVariant ;
+:text "アケロンの"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_JA a :TranslationVariant ;
+:text "岸へ。婚礼歌の分け前もなく、婚礼の上で"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Lines 813 and 814 do not exist in Antigone
+
+:TV_Line_815_JA a :TranslationVariant ;
+:text "まだ誰も私を歌でたたえたことはない。だが私はアケロンに嫁ぐのだ。"^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in Antigone
+
+:TV_Line_817_JA a :TranslationVariant ;
+:text "それなら、名高く、称賛を持ちながら、"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_JA a :TranslationVariant ;
+:text "あなたはこの死者たちの隠れ家へ去って行くのではないか、"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_JA a :TranslationVariant ;
+:text "衰える病に打たれたのでもなく、"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_JA a :TranslationVariant ;
+:text "剣の手にかかる運命を得たのでもなく、"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_JA a :TranslationVariant ;
+:text "ただ自分の法に従い、生きたまま、ただ一人"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_JA a :TranslationVariant ;
+:text "死すべき者たちのうちでハデスへ下って行くのだから。"^^xsd:string ;
+:relatedTo :Line_822 .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-hindi a owl:Ontology .
+# Hindi translation variants for 1_to_19.ttl
+
+:TV_Line_001_HI a :TranslationVariant ;
+:text "हे इस्मेने, मेरी अपनी सहोदर बहन, साझा सिर,"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_HI a :TranslationVariant ;
+:text "क्या तू जानती है कि ओइदिपुस से आई विपत्तियों में से ज़ीउस"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_HI a :TranslationVariant ;
+:text "ऐसी कौन-सी विपत्ति है जिसे हम दोनों के जीवित रहते अभी पूरा नहीं करता?"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_HI a :TranslationVariant ;
+:text "क्योंकि न कोई पीड़ादायक बात, न विनाश से रहित कोई बात,"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_HI a :TranslationVariant ;
+:text "न कोई लज्जाजनक, न कोई अपमानजनक बात ऐसी है"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_HI a :TranslationVariant ;
+:text "जिसे मैंने तेरी और अपनी विपत्तियों में न देखा हो।"^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_HI a :TranslationVariant ;
+:text "और अब यह क्या कहते हैं कि सेनापति ने अभी-अभी"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_HI a :TranslationVariant ;
+:text "सारे नगर के लिए कौन-सा नया घोषणापत्र रखा है?"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_HI a :TranslationVariant ;
+:text "क्या तूने कुछ सुना है? या तुझसे छिपा है"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_HI a :TranslationVariant ;
+:text "कि शत्रुओं की बुराइयाँ मित्रों की ओर बढ़ रही हैं?"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_HI a :TranslationVariant ;
+:text "मेरे पास, अन्तिगोने, मित्रों की कोई बात नहीं पहुँची,"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_HI a :TranslationVariant ;
+:text "न सुखद, न पीड़ादायक, उस समय से"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_HI a :TranslationVariant ;
+:text "जब हम दो भाइयों से वंचित हुईं,"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_HI a :TranslationVariant ;
+:text "एक ही दिन दोहरे हाथों से दोनों मर गए;"^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_HI a :TranslationVariant ;
+:text "और जब से आर्गोस की सेना"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_HI a :TranslationVariant ;
+:text "इसी रात चली गई है, मैं इससे अधिक कुछ नहीं जानती,"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_HI a :TranslationVariant ;
+:text "न अधिक सौभाग्यवती हूँ, न अधिक विनष्ट।"^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_HI a :TranslationVariant ;
+:text "मैं यह अच्छी तरह जानती थी; और इसी कारण तुझे महल-द्वारों से बाहर"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_HI a :TranslationVariant ;
+:text "भेज बुलाया, ताकि तू अकेली सुन सके।"^^xsd:string ;
+:relatedTo :Line_019 .

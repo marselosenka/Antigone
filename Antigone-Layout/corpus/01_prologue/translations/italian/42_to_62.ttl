@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-italian a owl:Ontology .
+# Italian translation variants for 42_to_62.ttl
+
+:TV_Line_42_IT a :TranslationVariant ;
+:text "Quale rischio? Dove mai è il tuo pensiero?"^^xsd:string ;
+:relatedTo :Line_42 .
+
+:TV_Line_43_IT a :TranslationVariant ;
+:text "Se solleverai il morto con questa mano."^^xsd:string ;
+:relatedTo :Line_43 .
+
+:TV_Line_44_IT a :TranslationVariant ;
+:text "Davvero pensi di seppellirlo, cosa proibita alla città?"^^xsd:string ;
+:relatedTo :Line_44 .
+
+:TV_Line_45_IT a :TranslationVariant ;
+:text "Il mio, almeno, e il tuo, anche se tu non vuoi,"^^xsd:string ;
+:relatedTo :Line_45 .
+
+:TV_Line_46_IT a :TranslationVariant ;
+:text "fratello; infatti non sarò presa a tradirlo."^^xsd:string ;
+:relatedTo :Line_46 .
+
+:TV_Line_47_IT a :TranslationVariant ;
+:text "O sventurata, mentre Creonte lo ha vietato?"^^xsd:string ;
+:relatedTo :Line_47 .
+
+:TV_Line_48_IT a :TranslationVariant ;
+:text "Ma a lui non spetta affatto impedirmi ciò che è mio."^^xsd:string ;
+:relatedTo :Line_48 .
+
+:TV_Line_49_IT a :TranslationVariant ;
+:text "Ahimè; rifletti, sorella, nostro padre"^^xsd:string ;
+:relatedTo :Line_49 .
+
+:TV_Line_50_IT a :TranslationVariant ;
+:text "come morì odioso a noi e senza gloria,"^^xsd:string ;
+:relatedTo :Line_50 .
+
+:TV_Line_51_IT a :TranslationVariant ;
+:text "per colpe scoperte da lui stesso, i due"^^xsd:string ;
+:relatedTo :Line_51 .
+
+:TV_Line_52_IT a :TranslationVariant ;
+:text "occhi colpendo con mano autrice di sé;"^^xsd:string ;
+:relatedTo :Line_52 .
+
+:TV_Line_53_IT a :TranslationVariant ;
+:text "poi la madre e moglie, doppia parola,"^^xsd:string ;
+:relatedTo :Line_53 .
+
+:TV_Line_54_IT a :TranslationVariant ;
+:text "oltraggia la vita con lacci intrecciati;"^^xsd:string ;
+:relatedTo :Line_54 .
+
+:TV_Line_55_IT a :TranslationVariant ;
+:text "terzo, i due fratelli in un solo giorno"^^xsd:string ;
+:relatedTo :Line_55 .
+
+:TV_Line_56_IT a :TranslationVariant ;
+:text "uccidendosi da sé, i due infelici, il destino"^^xsd:string ;
+:relatedTo :Line_56 .
+
+:TV_Line_57_IT a :TranslationVariant ;
+:text "comune compirono con mani reciproche."^^xsd:string ;
+:relatedTo :Line_57 .
+
+:TV_Line_58_IT a :TranslationVariant ;
+:text "Ora poi, rimaste noi due sole, considera"^^xsd:string ;
+:relatedTo :Line_58 .
+
+:TV_Line_59_IT a :TranslationVariant ;
+:text "quanto nel modo peggiore periremo, se con violenza contro la legge"^^xsd:string ;
+:relatedTo :Line_59 .
+
+:TV_Line_60_IT a :TranslationVariant ;
+:text "trasgrediremo il decreto o i poteri dei tiranni."^^xsd:string ;
+:relatedTo :Line_60 .
+
+:TV_Line_61_IT a :TranslationVariant ;
+:text "Ma bisogna pensare a questo: che siamo nate donne,"^^xsd:string ;
+:relatedTo :Line_61 .
+
+:TV_Line_62_IT a :TranslationVariant ;
+:text "così da non combattere contro uomini."^^xsd:string ;
+:relatedTo :Line_62 .

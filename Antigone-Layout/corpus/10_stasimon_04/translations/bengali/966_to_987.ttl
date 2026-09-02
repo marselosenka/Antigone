@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-966-987-bengali a owl:Ontology .
+# Bengali translation variants for 966_to_987.ttl
+
+:TV_Line_966_BN a :TranslationVariant ;
+:text "দ্বৈত সাগরের নীলাভ শিলাখণ্ডের পাশে"^^xsd:string ;
+:relatedTo :Line_966 .
+
+:TV_Line_967_BN a :TranslationVariant ;
+:text "বসপোরীয় তীর আর থ্রাকীয় উপকূল,"^^xsd:string ;
+:relatedTo :Line_967 .
+
+# Line 968 and 969 do not exist in Antigone
+
+:TV_Line_970_BN a :TranslationVariant ;
+:text "সালমিদেসোস, যেখানে নগরের নিকটবর্তী আরেস"^^xsd:string ;
+:relatedTo :Line_970 .
+
+:TV_Line_971_BN a :TranslationVariant ;
+:text "ফিনেয়ুসের দুই পুত্রের জন্য"^^xsd:string ;
+:relatedTo :Line_971 .
+
+:TV_Line_972_BN a :TranslationVariant ;
+:text "অভিশপ্ত ক্ষত দেখেছিল,"^^xsd:string ;
+:relatedTo :Line_972 .
+
+:TV_Line_973_BN a :TranslationVariant ;
+:text "নিষ্ঠুর স্ত্রীর দ্বারা অন্ধ করা,"^^xsd:string ;
+:relatedTo :Line_973 .
+
+:TV_Line_974_BN a :TranslationVariant ;
+:text "চোখের বৃত্তে অন্ধ, প্রতিহিংসাপরায়ণ আঘাতে,"^^xsd:string ;
+:relatedTo :Line_974 .
+
+:TV_Line_975_BN a :TranslationVariant ;
+:text "রক্তাক্ত"^^xsd:string ;
+:relatedTo :Line_975 .
+
+:TV_Line_976_BN a :TranslationVariant ;
+:text "হাত আর তাঁতের সূচালো দণ্ডের অগ্রভাগে বিদীর্ণ।"^^xsd:string ;
+:relatedTo :Line_976 .
+
+:TV_Line_977_BN a :TranslationVariant ;
+:text "আর তারা ক্ষয় হতে হতে, দুর্ভাগারা দুর্ভাগ্যজনক যন্ত্রণা"^^xsd:string ;
+:relatedTo :Line_977 .
+
+# Line 978 and 979 do not exist in Antigone
+
+:TV_Line_980_BN a :TranslationVariant ;
+:text "কেঁদেছিল, অবিবাহিত জন্মের মাকে ধারণ করে;"^^xsd:string ;
+:relatedTo :Line_980 .
+
+:TV_Line_981_BN a :TranslationVariant ;
+:text "আর সে প্রাচীনজাত"^^xsd:string ;
+:relatedTo :Line_981 .
+
+:TV_Line_982_BN a :TranslationVariant ;
+:text "এরেখথেউস-বংশীয়দের বীজের সামনে দাঁড়িয়েছিল,"^^xsd:string ;
+:relatedTo :Line_982 .
+
+:TV_Line_983_BN a :TranslationVariant ;
+:text "আর দূরবর্তী গুহাগুলিতে"^^xsd:string ;
+:relatedTo :Line_983 .
+
+:TV_Line_984_BN a :TranslationVariant ;
+:text "পিতার ঝড়ের মধ্যে সে লালিত হয়েছিল,"^^xsd:string ;
+:relatedTo :Line_984 .
+
+:TV_Line_985_BN a :TranslationVariant ;
+:text "বোরেয়াস, খাড়া শিলার ওপর ঘোড়াসঙ্গী,"^^xsd:string ;
+:relatedTo :Line_985 .
+
+:TV_Line_986_BN a :TranslationVariant ;
+:text "দেবতাদের সন্তান; তবু তার উপরও"^^xsd:string ;
+:relatedTo :Line_986 .
+
+:TV_Line_987_BN a :TranslationVariant ;
+:text "দীর্ঘজীবী ময়রাইরা অধিকার করেছিল, হে সন্তান।"^^xsd:string ;
+:relatedTo :Line_987 .

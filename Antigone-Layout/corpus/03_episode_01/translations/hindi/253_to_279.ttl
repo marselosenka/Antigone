@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-hindi a owl:Ontology .
+# Hindi translation variants for 253_to_279.ttl
+
+:TV_Line_253_HI a :TranslationVariant ;
+:text "और जब हमारे पहले दिन-पहरेदार ने"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_HI a :TranslationVariant ;
+:text "दिखाया, सबके लिए कठिन आश्चर्य उपस्थित था;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_HI a :TranslationVariant ;
+:text "क्योंकि वह अदृश्य किया गया था, पर पूर्ण समाधिकृत नहीं,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_HI a :TranslationVariant ;
+:text "बस पतली धूल पड़ी थी, जैसे कोई अपवित्रता से बच रहा हो।"^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_HI a :TranslationVariant ;
+:text "न किसी पशु के आने के चिह्न,"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_HI a :TranslationVariant ;
+:text "न किसी कुत्ते के, न घसीटने के दिखाई दिए।"^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_HI a :TranslationVariant ;
+:text "आपस में बुरे शब्द गरजने लगे,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_HI a :TranslationVariant ;
+:text "पहरेदार पहरेदार को दोष देता था, और अंत में"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_HI a :TranslationVariant ;
+:text "मारपीट होती, रोकने वाला भी कोई न था।"^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_HI a :TranslationVariant ;
+:text "क्योंकि हर एक किसी-न-किसी तरह किया हुआ था,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_HI a :TranslationVariant ;
+:text "पर कोई स्पष्ट नहीं; प्रत्येक न जानने में भागता था।"^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_HI a :TranslationVariant ;
+:text "हम हाथों में तपे लोहे उठाने को भी तैयार थे,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_HI a :TranslationVariant ;
+:text "और आग से गुजरने को, और देवताओं की शपथ खाने को"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_HI a :TranslationVariant ;
+:text "कि न हमने किया, न किसी को जानते हैं"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_HI a :TranslationVariant ;
+:text "जिसने यह काम सोचा या किया।"^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_HI a :TranslationVariant ;
+:text "अंत में जब जाँचने वालों को कुछ अधिक न मिला,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_HI a :TranslationVariant ;
+:text "एक ने कहा, जिसने डर से सबको अपना सिर"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_HI a :TranslationVariant ;
+:text "धरती की ओर झुकाने को विवश किया; क्योंकि हमारे पास"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_HI a :TranslationVariant ;
+:text "न उत्तर देने को था, न यह कि कैसे करके ठीक"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_HI a :TranslationVariant ;
+:text "कर सकते। बात यह थी कि यह काम"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_HI a :TranslationVariant ;
+:text "तुझे बताना चाहिए और छिपाना नहीं चाहिए।"^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_HI a :TranslationVariant ;
+:text "और यही जीत गया; और मुझ अभागे को"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_HI a :TranslationVariant ;
+:text "चिट्ठी ने यह भला भाग लेने को चुना।"^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_HI a :TranslationVariant ;
+:text "मैं अनिच्छा से आया हूँ, अनिच्छुकों के पास, जानता हूँ;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_HI a :TranslationVariant ;
+:text "क्योंकि कोई भी बुरी बातों के दूत से प्रेम नहीं करता।"^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_HI a :TranslationVariant ;
+:text "स्वामी, मेरे मन में बहुत पहले से यह विचार आता है"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_HI a :TranslationVariant ;
+:text "कि कहीं यह काम देव-प्रेरित तो नहीं।"^^xsd:string ;
+:relatedTo :Line_279 .

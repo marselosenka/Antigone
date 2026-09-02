@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-302-323-russian a owl:Ontology .
+# Russian translation variants for 302_to_323.ttl
+
+:TV_Line_302_RU a :TranslationVariant ;
+:text "А сколько людей, за плату совершив это,"^^xsd:string ;
+:relatedTo :Line_302 .
+
+:TV_Line_303_RU a :TranslationVariant ;
+:text "со временем добились того, чтобы дать ответ."^^xsd:string ;
+:relatedTo :Line_303 .
+
+:TV_Line_304_RU a :TranslationVariant ;
+:text "Но если Зевс еще получает от меня почитание,"^^xsd:string ;
+:relatedTo :Line_304 .
+
+:TV_Line_305_RU a :TranslationVariant ;
+:text "знай это хорошо, и клятвенно говорю тебе:"^^xsd:string ;
+:relatedTo :Line_305 .
+
+:TV_Line_306_RU a :TranslationVariant ;
+:text "если вы не найдете самого виновника этого погребения"^^xsd:string ;
+:relatedTo :Line_306 .
+
+:TV_Line_307_RU a :TranslationVariant ;
+:text "и не явите его перед моими глазами,"^^xsd:string ;
+:relatedTo :Line_307 .
+
+:TV_Line_308_RU a :TranslationVariant ;
+:text "одного Аида вам не будет достаточно, прежде чем"^^xsd:string ;
+:relatedTo :Line_308 .
+
+:TV_Line_309_RU a :TranslationVariant ;
+:text "живыми повешенные вы покажете эту дерзость,"^^xsd:string ;
+:relatedTo :Line_309 .
+
+:TV_Line_310_RU a :TranslationVariant ;
+:text "чтобы, зная, откуда следует брать прибыль,"^^xsd:string ;
+:relatedTo :Line_310 .
+
+:TV_Line_311_RU a :TranslationVariant ;
+:text "впредь хватали ее и научились, что"^^xsd:string ;
+:relatedTo :Line_311 .
+
+:TV_Line_312_RU a :TranslationVariant ;
+:text "не из всего нужно любить наживу."^^xsd:string ;
+:relatedTo :Line_312 .
+
+:TV_Line_313_RU a :TranslationVariant ;
+:text "Ведь от постыдных доходов ты увидел бы больше людей"^^xsd:string ;
+:relatedTo :Line_313 .
+
+:TV_Line_314_RU a :TranslationVariant ;
+:text "погубленными, чем спасенными."^^xsd:string ;
+:relatedTo :Line_314 .
+
+:TV_Line_315_RU a :TranslationVariant ;
+:text "Дашь ли сказать, или мне так повернувшись идти?"^^xsd:string ;
+:relatedTo :Line_315 .
+
+:TV_Line_316_RU a :TranslationVariant ;
+:text "Разве ты и теперь не знаешь, как мучительно говоришь?"^^xsd:string ;
+:relatedTo :Line_316 .
+
+:TV_Line_317_RU a :TranslationVariant ;
+:text "В ушах я кусаю или в душе?"^^xsd:string ;
+:relatedTo :Line_317 .
+
+:TV_Line_318_RU a :TranslationVariant ;
+:text "Зачем ты размеряешь, где моя боль?"^^xsd:string ;
+:relatedTo :Line_318 .
+
+:TV_Line_319_RU a :TranslationVariant ;
+:text "Сделавший мучит твой разум, а уши — я."^^xsd:string ;
+:relatedTo :Line_319 .
+
+:TV_Line_320_RU a :TranslationVariant ;
+:text "Увы, каким очевидным болтуном ты рожден."^^xsd:string ;
+:relatedTo :Line_320 .
+
+:TV_Line_321_RU a :TranslationVariant ;
+:text "Но ведь это дело я никогда не сделал."^^xsd:string ;
+:relatedTo :Line_321 .
+
+:TV_Line_322_RU a :TranslationVariant ;
+:text "И это тоже — продав душу за серебро."^^xsd:string ;
+:relatedTo :Line_322 .
+
+:TV_Line_323_RU a :TranslationVariant ;
+:text "Феу; поистине страшно, когда кому кажется, и кажется ложно."^^xsd:string ;
+:relatedTo :Line_323 .

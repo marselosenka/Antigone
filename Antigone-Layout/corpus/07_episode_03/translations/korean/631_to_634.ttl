@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-korean a owl:Ontology .
+# Korean translation variants for 631_to_634.ttl
+
+:TV_Line_631_KO a :TranslationVariant ;
+:text "곧 우리는 예언자들보다 더 잘 알게 될 것이다."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_KO a :TranslationVariant ;
+:text "아들아, 장차 네 신부에 대한 최종 판결을 듣고,"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_KO a :TranslationVariant ;
+:text "아버지에게 분노하여 왔느냐?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_KO a :TranslationVariant ;
+:text "아니면 우리가 무슨 일을 하든 너에게는 모든 면에서 사랑스러우냐?"^^xsd:string ;
+:relatedTo :Line_634 .

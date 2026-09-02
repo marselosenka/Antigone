@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-portuguese a owl:Ontology .
+# Portuguese translation variants for 253_to_279.ttl
+
+:TV_Line_253_PT a :TranslationVariant ;
+:text "Quando o primeiro vigia do dia nos mostrou,"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_PT a :TranslationVariant ;
+:text "a todos havia espanto difícil;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_PT a :TranslationVariant ;
+:text "pois ele tinha desaparecido, não coberto por túmulo,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_PT a :TranslationVariant ;
+:text "mas havia fino pó, como de quem foge de sacrilégio."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_PT a :TranslationVariant ;
+:text "E sinais nem de fera nem de algum dos cães"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_PT a :TranslationVariant ;
+:text "que tivesse vindo, nem que tivesse rasgado, apareciam."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_PT a :TranslationVariant ;
+:text "Palavras más rosnaram entre uns e outros,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_PT a :TranslationVariant ;
+:text "guarda acusando guarda; e teria havido"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_PT a :TranslationVariant ;
+:text "golpe ao fim, e ninguém estava presente para impedir."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_PT a :TranslationVariant ;
+:text "Pois cada um era, de algum modo, o autor,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_PT a :TranslationVariant ;
+:text "e ninguém era claro, mas fugia dizendo não saber."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_PT a :TranslationVariant ;
+:text "Estávamos prontos também para levantar ferros em brasa nas mãos,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_PT a :TranslationVariant ;
+:text "e atravessar fogo, e jurar pelos deuses"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_PT a :TranslationVariant ;
+:text "que nem fizemos nem sabíamos de alguém"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_PT a :TranslationVariant ;
+:text "que tivesse planejado o feito ou o executado."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_PT a :TranslationVariant ;
+:text "Por fim, quando nada havia de mais para os que investigavam,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_PT a :TranslationVariant ;
+:text "um disse algo que nos fez a todos para o chão"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_PT a :TranslationVariant ;
+:text "inclinar a cabeça de medo; pois não tínhamos"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_PT a :TranslationVariant ;
+:text "nem como responder nem como, agindo bem,"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_PT a :TranslationVariant ;
+:text "poderíamos sair-nos bem. Era a fala que"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_PT a :TranslationVariant ;
+:text "este ato devia ser levado a ti e não escondido."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_PT a :TranslationVariant ;
+:text "E isto venceu, e a mim, desgraçado,"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_PT a :TranslationVariant ;
+:text "a sorte escolhe para tomar este bem."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_PT a :TranslationVariant ;
+:text "Estou presente contra minha vontade, entre os que não querem, eu sei;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_PT a :TranslationVariant ;
+:text "pois ninguém ama o mensageiro de más palavras."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_PT a :TranslationVariant ;
+:text "Senhor, a mim, há muito, o pensamento aconselha"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_PT a :TranslationVariant ;
+:text "que talvez este feito seja movido por algum deus."^^xsd:string ;
+:relatedTo :Line_279 .

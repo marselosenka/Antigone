@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-hindi a owl:Ontology .
+# Hindi translation variants for 331_to_365.ttl
+
+:TV_Line_331_HI a :TranslationVariant ;
+:text "बचकर, मैं देवताओं का बहुत आभार मानता हूँ।"^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_HI a :TranslationVariant ;
+:text "बहुत हैं अद्भुत बातें, और कोई भी"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_HI a :TranslationVariant ;
+:text "मनुष्य से अधिक अद्भुत नहीं है;"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_HI a :TranslationVariant ;
+:text "वह धूसर"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_HI a :TranslationVariant ;
+:text "समुद्र के पार, शीतकालीन दक्षिणी हवा में,"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_HI a :TranslationVariant ;
+:text "आगे बढ़ता है, चारों ओर गरजती"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_HI a :TranslationVariant ;
+:text "लहरों के नीचे से गुजरता हुआ; और देवताओं में"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_HI a :TranslationVariant ;
+:text "सबसे उच्च, पृथ्वी को,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_HI a :TranslationVariant ;
+:text "अविनाशी, अक्लांत को, वह थका देता है,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_HI a :TranslationVariant ;
+:text "घूमते हलों से वर्ष पर वर्ष,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_HI a :TranslationVariant ;
+:text "घोड़ों की जाति से उसे जोतता हुआ।"^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_HI a :TranslationVariant ;
+:text "और हल्के-मन वाली"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_HI a :TranslationVariant ;
+:text "पक्षियों की जाति को जाल डालकर पकड़ता है,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_HI a :TranslationVariant ;
+:text "और जंगली पशुओं की जातियों को,"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_HI a :TranslationVariant ;
+:text "और समुद्र की नमकीन प्रकृति को,"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_HI a :TranslationVariant ;
+:text "बुने हुए जालों के फंदों में,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_HI a :TranslationVariant ;
+:text "चतुर मनुष्य; और वह वश में करता है"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_HI a :TranslationVariant ;
+:text "उपायों से खुले मैदान के"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in Antigone
+
+:TV_Line_350_HI a :TranslationVariant ;
+:text "पर्वतों पर चलने वाले पशु को, और रोएँदार-गर्दन वाले"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_HI a :TranslationVariant ;
+:text "घोड़े को, चारों ओर गर्दन बाँधने वाले जुए के नीचे लाता है,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_HI a :TranslationVariant ;
+:text "और अक्लांत पर्वतीय बैल को।"^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Line 353 and 354 do not exist in Antigone
+
+:TV_Line_355_HI a :TranslationVariant ;
+:text "वाणी, और हवा-सा विचार, और नगर-व्यवस्थापक"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_HI a :TranslationVariant ;
+:text "स्वभाव उसने सीखे, और दुर्गम निवासों से"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_HI a :TranslationVariant ;
+:text "खुले आकाश के पाले और वर्षा के कठिन बाणों से बचना भी।"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_HI a :TranslationVariant ;
+:text "हर मार्ग खोजने वाला; किसी बात में निरुपाय होकर नहीं आता"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in Antigone
+
+:TV_Line_360_HI a :TranslationVariant ;
+:text "भविष्य के सामने; केवल हेडिस से बच निकलना वह नहीं जुटा सकेगा;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_HI a :TranslationVariant ;
+:text "पर असाध्य रोगों से बचने के उपाय उसने खोज निकाले हैं।"^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Line 362, 363, 364 and 365 do not exist in Antigone

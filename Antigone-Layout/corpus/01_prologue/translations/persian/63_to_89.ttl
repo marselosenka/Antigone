@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-persian a owl:Ontology .
+# Persian translation variants for 63_to_89.ttl
+
+:TV_Line_063_FA a :TranslationVariant ;
+:text "سپس نیز، از آن رو که زیر فرمان نیرومندترانیم،"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_FA a :TranslationVariant ;
+:text "باید این فرمان‌ها را بشنویم، و حتی دردناک‌تر از اینها را."^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_FA a :TranslationVariant ;
+:text "پس من، در حالی که از آنان که زیر زمین‌اند"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_FA a :TranslationVariant ;
+:text "بخشش می‌طلبم، چون در این کار به زور واداشته می‌شوم،"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_FA a :TranslationVariant ;
+:text "از آنان که در قدرت ایستاده‌اند فرمان خواهم برد؛ زیرا"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_FA a :TranslationVariant ;
+:text "بیش از اندازه عمل کردن هیچ خردی در خود ندارد."^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_FA a :TranslationVariant ;
+:text "نه تو را فرمان می‌دهم، و نه اگر باز بخواهی"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_FA a :TranslationVariant ;
+:text "کاری کنی، با خشنودی همراه من آن را خواهی کرد."^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_FA a :TranslationVariant ;
+:text "اما بدان هر چه به نظرت می‌رسد؛ من او را"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_FA a :TranslationVariant ;
+:text "دفن خواهم کرد. برای من زیباست که با انجام این کار بمیرم."^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_FA a :TranslationVariant ;
+:text "دوست در کنار او خواهم آرمید، در کنار دوستی،"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_FA a :TranslationVariant ;
+:text "با جرمی مقدس؛ زیرا زمانی درازتر"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_FA a :TranslationVariant ;
+:text "باید آنان را که در زیرند خشنود کنم تا آنان را که اینجایند."^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_FA a :TranslationVariant ;
+:text "زیرا آنجا همیشه خواهم آرمید. اما تو، اگر به نظرت می‌رسد،"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_FA a :TranslationVariant ;
+:text "چیزهای گرامی نزد خدایان را بی‌حرمت بدار."^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_FA a :TranslationVariant ;
+:text "من آنها را بی‌حرمت نمی‌شمارم، اما"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_FA a :TranslationVariant ;
+:text "زاده شده‌ام که از انجام کار به زور در برابر شهروندان ناتوان باشم."^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_FA a :TranslationVariant ;
+:text "تو می‌توانی اینها را بهانه کنی؛ اما من"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_FA a :TranslationVariant ;
+:text "خواهم رفت تا برای عزیزترین برادرم گوری برآورم."^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_FA a :TranslationVariant ;
+:text "آه بر منِ بیچاره، چه بسیار برای تو می‌ترسم."^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_FA a :TranslationVariant ;
+:text "از پیش برای من مترس؛ سرنوشت خودت را راست گردان."^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_FA a :TranslationVariant ;
+:text "اما دست‌کم این کار را از پیش به هیچ کس آشکار مکن،"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_FA a :TranslationVariant ;
+:text "بلکه پنهانی آن را بپوشان؛ من نیز همین‌گونه خواهم کرد."^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_FA a :TranslationVariant ;
+:text "آه بر من، آشکارا بگو؛ اگر خاموش بمانی،"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_FA a :TranslationVariant ;
+:text "بسیار دشمن‌تر خواهی بود، اگر اینها را به همه اعلام نکنی."^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_FA a :TranslationVariant ;
+:text "دلی گرم بر چیزهای سرد داری."^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_FA a :TranslationVariant ;
+:text "اما می‌دانم که آنان را خشنود می‌کنم که بیش از همه باید خوشایندشان باشم."^^xsd:string ;
+:relatedTo :Line_089 .

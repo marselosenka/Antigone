@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-korean a owl:Ontology .
+# Korean translation variants for 331_to_365.ttl
+
+:TV_Line_331_KO a :TranslationVariant ;
+:text "구원받은 나는 신들에게 많은 감사를 빚지고 있다."^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_KO a :TranslationVariant ;
+:text "두려운 것들은 많지만, 아무것도"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_KO a :TranslationVariant ;
+:text "인간보다 더 두려운 것은 없다."^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_KO a :TranslationVariant ;
+:text "이것은 또한 잿빛"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_KO a :TranslationVariant ;
+:text "바다 너머로, 겨울 남풍 속에서"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_KO a :TranslationVariant ;
+:text "나아가며, 사방에서 으르렁대는"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_KO a :TranslationVariant ;
+:text "물결들 아래를 건너간다. 그리고 신들 가운데"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_KO a :TranslationVariant ;
+:text "가장 높은 것, 대지를,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_KO a :TranslationVariant ;
+:text "불멸하고 지치지 않는 것을, 그는 지치게 한다,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_KO a :TranslationVariant ;
+:text "해마다 되돌아오는 쟁기들로,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_KO a :TranslationVariant ;
+:text "말의 종족으로 갈아엎으면서."^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_KO a :TranslationVariant ;
+:text "또 가벼운 마음의 새들의"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_KO a :TranslationVariant ;
+:text "종족을 둘러싸 포획하고,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_KO a :TranslationVariant ;
+:text "야생 짐승들의 무리와"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_KO a :TranslationVariant ;
+:text "바다 속에 사는 생명도"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_KO a :TranslationVariant ;
+:text "그물로 꼰 올가미들로 잡는다,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_KO a :TranslationVariant ;
+:text "매우 영리한 인간은. 그리고 그는 지배한다,"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_KO a :TranslationVariant ;
+:text "기계 장치들로, 들에 사는"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in Antigone
+
+:TV_Line_350_KO a :TranslationVariant ;
+:text "산을 걷는 짐승과, 털 많은 목의"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_KO a :TranslationVariant ;
+:text "말을 양쪽 볏이 있는 멍에 아래로 이끌며,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_KO a :TranslationVariant ;
+:text "산의 지칠 줄 모르는 황소도."^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Lines 353 and 354 do not exist in Antigone
+
+:TV_Line_355_KO a :TranslationVariant ;
+:text "또 말과, 바람 같은 생각과, 도시를 다스리는"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_KO a :TranslationVariant ;
+:text "기질을 그는 스스로에게 가르쳤고, 살기 어려운"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_KO a :TranslationVariant ;
+:text "서리 낀 야외의 추위와 비바람의 화살을 피하는 법도 배웠다."^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_KO a :TranslationVariant ;
+:text "모든 길을 가진 자. 다가올 것에 대해 그는"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in Antigone
+
+:TV_Line_360_KO a :TranslationVariant ;
+:text "길 없는 자로 아무것에도 오지 않는다. 다만 하데스로부터의 도피만은 얻지 못할 것이다."^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_KO a :TranslationVariant ;
+:text "그러나 방도 없는 병들로부터의 도피는 함께 궁리해 냈다."^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Lines 362, 363, 364 and 365 do not exist in Antigone

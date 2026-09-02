@@ -1,0 +1,56 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_02-translations-616-630-german a owl:Ontology .
+# German translation variants for 616_to_630.ttl
+
+:TV_Line_616_DE a :TranslationVariant ;
+:text "vielen aber Täuschung leichtsinniger Begierden;"^^xsd:string ;
+:relatedTo :Line_616 .
+
+:TV_Line_617_DE a :TranslationVariant ;
+:text "zu dem Wissenden aber kriecht nichts, bevor einer mit dem Fuß heißes Feuer"^^xsd:string ;
+:relatedTo :Line_617 .
+
+# Lines 618 and 619 do not exist in canonical.
+
+:TV_Line_620_DE a :TranslationVariant ;
+:text "berührt. Denn in Weisheit ist aus den berühmten ein Wort erschienen."^^xsd:string ;
+:relatedTo :Line_620 .
+
+:TV_Line_621_DE a :TranslationVariant ;
+:text "Dass das Schlechte manchmal als gut scheint,"^^xsd:string ;
+:relatedTo :Line_621 .
+
+:TV_Line_622_DE a :TranslationVariant ;
+:text "diesem, dessen Sinne"^^xsd:string ;
+:relatedTo :Line_622 .
+
+:TV_Line_623_DE a :TranslationVariant ;
+:text "ein Gott zum Verderben führt;"^^xsd:string ;
+:relatedTo :Line_623 .
+
+# Line 624 is commented out in canonical.
+
+:TV_Line_625_DE a :TranslationVariant ;
+:text "und er handelt die geringste Zeit außerhalb des Verderbens."^^xsd:string ;
+:relatedTo :Line_625 .
+
+:TV_Line_626_DE a :TranslationVariant ;
+:text "Sieh doch, Haimon, von deinen Kindern"^^xsd:string ;
+:relatedTo :Line_626 .
+
+:TV_Line_627_DE a :TranslationVariant ;
+:text "der jüngste Spross; kommt er klagend"^^xsd:string ;
+:relatedTo :Line_627 .
+
+:TV_Line_628_DE a :TranslationVariant ;
+:text "über das Schicksal seiner Braut Antigone,"^^xsd:string ;
+:relatedTo :Line_628 .
+
+# Line 629 is commented out in canonical.
+
+:TV_Line_630_DE a :TranslationVariant ;
+:text "tief schmerzend über die Täuschung seiner Hochzeitsbetten?"^^xsd:string ;
+:relatedTo :Line_630 .

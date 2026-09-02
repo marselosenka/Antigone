@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-german a owl:Ontology .
+# German translation variants for 280_to_301.ttl
+
+:TV_Line_280_DE a :TranslationVariant ;
+:text "Hör auf, bevor du auch mich mit Zorn erfüllst durch dein Reden,"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_DE a :TranslationVariant ;
+:text "damit du nicht zugleich sinnlos und alt befunden wirst."^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_DE a :TranslationVariant ;
+:text "Denn du sagst Unerträgliches, indem du sagst, die Götter"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_DE a :TranslationVariant ;
+:text "hätten Fürsorge um diesen Toten."^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_DE a :TranslationVariant ;
+:text "Haben sie ihn, als Wohltäter übermäßig ehrend,"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_DE a :TranslationVariant ;
+:text "verborgen, ihn, der kam, die ringsum säuligen"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_DE a :TranslationVariant ;
+:text "Tempel und Weihgaben zu verbrennen"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_DE a :TranslationVariant ;
+:text "und ihr Land und die Gesetze zu zerstreuen?"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_DE a :TranslationVariant ;
+:text "Oder siehst du die Götter die Schlechten ehren?"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_DE a :TranslationVariant ;
+:text "Das ist nicht so; sondern schon lange murrten Männer der Stadt,"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_DE a :TranslationVariant ;
+:text "die diese Dinge schwer ertrugen, gegen mich"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_DE a :TranslationVariant ;
+:text "heimlich, den Kopf schüttelnd, und sie hielten unter dem Joch"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_DE a :TranslationVariant ;
+:text "den Nacken nicht gerecht, um mich zu lieben."^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_DE a :TranslationVariant ;
+:text "Daraus weiß ich diese sehr genau"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_DE a :TranslationVariant ;
+:text "durch Löhne verführt, dies getan zu haben."^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_DE a :TranslationVariant ;
+:text "Denn nichts ist den Menschen wie Silber"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_DE a :TranslationVariant ;
+:text "als schlimme Münze gewachsen; dies zerstört auch Städte,"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_DE a :TranslationVariant ;
+:text "dies treibt Männer aus den Häusern,"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_DE a :TranslationVariant ;
+:text "dies lehrt aus und verkehrt die guten"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_DE a :TranslationVariant ;
+:text "Sinne der Sterblichen, bei schändlichen Taten zu stehen;"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_DE a :TranslationVariant ;
+:text "es zeigte den Menschen, Verschlagenheiten zu besitzen"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_DE a :TranslationVariant ;
+:text "und die Gottlosigkeit jeder Tat zu kennen."^^xsd:string ;
+:relatedTo :Line_301 .

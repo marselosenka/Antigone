@@ -1,0 +1,186 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-988-1032-hindi a owl:Ontology .
+# Hindi translation variants for 988_to_1032.ttl
+
+:TV_Line_988_HI a :TranslationVariant ;
+:text "थीब्स के स्वामियो, हम एक साझा मार्ग से आए हैं,"^^xsd:string ;
+:relatedTo :Line_988 .
+
+:TV_Line_989_HI a :TranslationVariant ;
+:text "दो जन, एक की आँखों से देखते हुए; क्योंकि अंधों के लिए"^^xsd:string ;
+:relatedTo :Line_989 .
+
+:TV_Line_990_HI a :TranslationVariant ;
+:text "यही पथ मार्गदर्शक के द्वारा बनता है।"^^xsd:string ;
+:relatedTo :Line_990 .
+
+:TV_Line_991_HI a :TranslationVariant ;
+:text "क्या बात है, वृद्ध तेरिसियास, क्या नया है?"^^xsd:string ;
+:relatedTo :Line_991 .
+
+:TV_Line_992_HI a :TranslationVariant ;
+:text "मैं बताऊँगा; और तू भविष्यवक्ता की बात मान।"^^xsd:string ;
+:relatedTo :Line_992 .
+
+:TV_Line_993_HI a :TranslationVariant ;
+:text "निश्चय ही पहले कभी मैं तेरी बुद्धि से अलग नहीं हुआ।"^^xsd:string ;
+:relatedTo :Line_993 .
+
+:TV_Line_994_HI a :TranslationVariant ;
+:text "इसीलिए तू इस नगर को सीधे मार्ग से खेता रहा है।"^^xsd:string ;
+:relatedTo :Line_994 .
+
+:TV_Line_995_HI a :TranslationVariant ;
+:text "लाभ पा चुकने के कारण मैं इसकी गवाही दे सकता हूँ।"^^xsd:string ;
+:relatedTo :Line_995 .
+
+:TV_Line_996_HI a :TranslationVariant ;
+:text "अब फिर समझ रख: तू भाग्य के उस्तरे की धार पर खड़ा है।"^^xsd:string ;
+:relatedTo :Line_996 .
+
+:TV_Line_997_HI a :TranslationVariant ;
+:text "क्या बात है? क्योंकि मैं तेरे मुख से निकली बात से काँपता हूँ।"^^xsd:string ;
+:relatedTo :Line_997 .
+
+:TV_Line_998_HI a :TranslationVariant ;
+:text "तू जान जाएगा, जब मेरी कला के संकेत सुनेगा।"^^xsd:string ;
+:relatedTo :Line_998 .
+
+:TV_Line_999_HI a :TranslationVariant ;
+:text "क्योंकि जब मैं पक्षी-शकुन देखने वाले पुराने आसन पर"^^xsd:string ;
+:relatedTo :Line_999 .
+
+:TV_Line_1000_HI a :TranslationVariant ;
+:text "बैठा था, जहाँ मेरे लिए हर पक्षी का आश्रय था,"^^xsd:string ;
+:relatedTo :Line_1000 .
+
+:TV_Line_1001_HI a :TranslationVariant ;
+:text "मैंने पक्षियों की अनपहचानी आवाज़ सुनी,"^^xsd:string ;
+:relatedTo :Line_1001 .
+
+:TV_Line_1002_HI a :TranslationVariant ;
+:text "वे बुरे और असभ्य उन्माद में चीख रहे थे;"^^xsd:string ;
+:relatedTo :Line_1002 .
+
+:TV_Line_1003_HI a :TranslationVariant ;
+:text "और अपने घातक पंजों से एक-दूसरे को नोच रहे थे,"^^xsd:string ;
+:relatedTo :Line_1003 .
+
+:TV_Line_1004_HI a :TranslationVariant ;
+:text "मैंने जान लिया; क्योंकि पंखों की सनसनाहट अस्पष्ट नहीं थी।"^^xsd:string ;
+:relatedTo :Line_1004 .
+
+:TV_Line_1005_HI a :TranslationVariant ;
+:text "तुरंत भयभीत होकर मैंने अग्नि-बलियों को परखा"^^xsd:string ;
+:relatedTo :Line_1005 .
+
+:TV_Line_1006_HI a :TranslationVariant ;
+:text "चारों ओर जलती वेदियों पर; पर बलियों से"^^xsd:string ;
+:relatedTo :Line_1006 .
+
+:TV_Line_1007_HI a :TranslationVariant ;
+:text "हेफ़ाइस्टस नहीं चमका, बल्कि राख पर"^^xsd:string ;
+:relatedTo :Line_1007 .
+
+:TV_Line_1008_HI a :TranslationVariant ;
+:text "जाँघों की सड़ती चरबी की धारा पिघलती जाती थी"^^xsd:string ;
+:relatedTo :Line_1008 .
+
+:TV_Line_1009_HI a :TranslationVariant ;
+:text "और धुआँ देती और थूकती थी; और ऊपर हवा में"^^xsd:string ;
+:relatedTo :Line_1009 .
+
+:TV_Line_1010_HI a :TranslationVariant ;
+:text "पित्त बिखर रहे थे, और नीचे बहकर"^^xsd:string ;
+:relatedTo :Line_1010 .
+
+:TV_Line_1011_HI a :TranslationVariant ;
+:text "जाँघ की हड्डियाँ अपनी ढँकने वाली चरबी से अलग पड़ी थीं।"^^xsd:string ;
+:relatedTo :Line_1011 .
+
+:TV_Line_1012_HI a :TranslationVariant ;
+:text "ऐसी बातें मैंने इस बालक से जानीं,"^^xsd:string ;
+:relatedTo :Line_1012 .
+
+:TV_Line_1013_HI a :TranslationVariant ;
+:text "जब अस्पष्ट यज्ञों की भविष्यवाणियाँ क्षीण हो रही थीं;"^^xsd:string ;
+:relatedTo :Line_1013 .
+
+:TV_Line_1014_HI a :TranslationVariant ;
+:text "क्योंकि यह मेरा मार्गदर्शक है, और मैं दूसरों का।"^^xsd:string ;
+:relatedTo :Line_1014 .
+
+:TV_Line_1015_HI a :TranslationVariant ;
+:text "और ये बातें तेरी बुद्धि से नगर को रोगी बनाती हैं;"^^xsd:string ;
+:relatedTo :Line_1015 .
+
+:TV_Line_1016_HI a :TranslationVariant ;
+:text "क्योंकि हमारी वेदियाँ और सभी अग्नि-कुंड"^^xsd:string ;
+:relatedTo :Line_1016 .
+
+:TV_Line_1017_HI a :TranslationVariant ;
+:text "पक्षियों और कुत्तों के भोजन से भरे हैं,"^^xsd:string ;
+:relatedTo :Line_1017 .
+
+:TV_Line_1018_HI a :TranslationVariant ;
+:text "अभागे, गिरे हुए ओइदिपुस-पुत्र के शरीर से।"^^xsd:string ;
+:relatedTo :Line_1018 .
+
+:TV_Line_1019_HI a :TranslationVariant ;
+:text "इसलिए देवता अब हमसे बलि-प्रार्थनाएँ"^^xsd:string ;
+:relatedTo :Line_1019 .
+
+:TV_Line_1020_HI a :TranslationVariant ;
+:text "स्वीकार नहीं करते, न जाँघ-बलियों की ज्वाला,"^^xsd:string ;
+:relatedTo :Line_1020 .
+
+:TV_Line_1021_HI a :TranslationVariant ;
+:text "और न कोई पक्षी स्पष्ट संकेत देने वाली पुकारें निकालता है,"^^xsd:string ;
+:relatedTo :Line_1021 .
+
+:TV_Line_1022_HI a :TranslationVariant ;
+:text "क्योंकि वे मनुष्य-वधक रक्त की चरबी खा चुके हैं।"^^xsd:string ;
+:relatedTo :Line_1022 .
+
+:TV_Line_1023_HI a :TranslationVariant ;
+:text "इसलिए, हे पुत्र, इन बातों पर विचार कर।"^^xsd:string ;
+:relatedTo :Line_1023 .
+
+:TV_Line_1024_HI a :TranslationVariant ;
+:text "क्योंकि सभी मनुष्यों के लिए भूल करना सामान्य है;"^^xsd:string ;
+:relatedTo :Line_1024 .
+
+:TV_Line_1025_HI a :TranslationVariant ;
+:text "पर जब वह भूल कर चुका हो, तब वह मनुष्य अब भी अबुद्धिमान नहीं"^^xsd:string ;
+:relatedTo :Line_1025 .
+
+:TV_Line_1026_HI a :TranslationVariant ;
+:text "और न अभागा होता है, यदि बुराई में गिरकर"^^xsd:string ;
+:relatedTo :Line_1026 .
+
+:TV_Line_1027_HI a :TranslationVariant ;
+:text "वह उसका उपचार करे और अचल न बना रहे;"^^xsd:string ;
+:relatedTo :Line_1027 .
+
+:TV_Line_1028_HI a :TranslationVariant ;
+:text "हठ सचमुच मूर्खता का दोष उठाता है।"^^xsd:string ;
+:relatedTo :Line_1028 .
+
+:TV_Line_1029_HI a :TranslationVariant ;
+:text "पर मृतक के आगे झुक जा, और नष्ट हो चुके को मत चुभो;"^^xsd:string ;
+:relatedTo :Line_1029 .
+
+:TV_Line_1030_HI a :TranslationVariant ;
+:text "मरे हुए को फिर मारने में कौन-सा बल है?"^^xsd:string ;
+:relatedTo :Line_1030 .
+
+:TV_Line_1031_HI a :TranslationVariant ;
+:text "तेरे हित में सोचकर मैं अच्छा कहता हूँ; और सीखना"^^xsd:string ;
+:relatedTo :Line_1031 .
+
+:TV_Line_1032_HI a :TranslationVariant ;
+:text "अच्छा कहने वाले से सबसे मधुर है, यदि वह लाभ लाए।"^^xsd:string ;
+:relatedTo :Line_1032 .

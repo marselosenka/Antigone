@@ -1,0 +1,178 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-portuguese a owl:Ontology .
+# Portuguese translation variants for 681_to_723.ttl
+
+:TV_Line_681_PT a :TranslationVariant ;
+:text "Para nós, se não somos enganados pelo tempo,"^^xsd:string ;
+:relatedTo :Line_681 .
+
+:TV_Line_682_PT a :TranslationVariant ;
+:text "pareces falar sensatamente sobre o que dizes."^^xsd:string ;
+:relatedTo :Line_682 .
+
+:TV_Line_683_PT a :TranslationVariant ;
+:text "Pai, os deuses fazem nascer nos homens o juízo,"^^xsd:string ;
+:relatedTo :Line_683 .
+
+:TV_Line_684_PT a :TranslationVariant ;
+:text "o mais alto de todos os bens que existem."^^xsd:string ;
+:relatedTo :Line_684 .
+
+:TV_Line_685_PT a :TranslationVariant ;
+:text "Mas eu, que tu não dizes corretamente estas coisas,"^^xsd:string ;
+:relatedTo :Line_685 .
+
+:TV_Line_686_PT a :TranslationVariant ;
+:text "nem poderia nem saberia dizer."^^xsd:string ;
+:relatedTo :Line_686 .
+
+:TV_Line_687_PT a :TranslationVariant ;
+:text "Contudo também a outro poderia caber algo bom."^^xsd:string ;
+:relatedTo :Line_687 .
+
+:TV_Line_688_PT a :TranslationVariant ;
+:text "Eu, portanto, nasci para observar por ti tudo quanto"^^xsd:string ;
+:relatedTo :Line_688 .
+
+:TV_Line_689_PT a :TranslationVariant ;
+:text "alguém diz, ou faz, ou tem a censurar."^^xsd:string ;
+:relatedTo :Line_689 .
+
+:TV_Line_690_PT a :TranslationVariant ;
+:text "Pois teu olhar é terrível para o homem do povo"^^xsd:string ;
+:relatedTo :Line_690 .
+
+:TV_Line_691_PT a :TranslationVariant ;
+:text "com palavras tais que tu não te alegrarás ouvindo;"^^xsd:string ;
+:relatedTo :Line_691 .
+
+:TV_Line_692_PT a :TranslationVariant ;
+:text "mas a mim é possível ouvir estas coisas sob a sombra,"^^xsd:string ;
+:relatedTo :Line_692 .
+
+:TV_Line_693_PT a :TranslationVariant ;
+:text "como a cidade lamenta esta jovem,"^^xsd:string ;
+:relatedTo :Line_693 .
+
+:TV_Line_694_PT a :TranslationVariant ;
+:text "dizendo que, de todas as mulheres, ela é a menos digna"^^xsd:string ;
+:relatedTo :Line_694 .
+
+:TV_Line_695_PT a :TranslationVariant ;
+:text "de morrer do pior modo por obras gloriosíssimas."^^xsd:string ;
+:relatedTo :Line_695 .
+
+:TV_Line_696_PT a :TranslationVariant ;
+:text "Ela, que ao próprio irmão de mesmo sangue,"^^xsd:string ;
+:relatedTo :Line_696 .
+
+:TV_Line_697_PT a :TranslationVariant ;
+:text "caído nas mortes e insepulto, nem por cães comedores de carne"^^xsd:string ;
+:relatedTo :Line_697 .
+
+:TV_Line_698_PT a :TranslationVariant ;
+:text "deixou perecer, nem por alguma ave."^^xsd:string ;
+:relatedTo :Line_698 .
+
+:TV_Line_699_PT a :TranslationVariant ;
+:text "Não é ela digna de obter honra de ouro?"^^xsd:string ;
+:relatedTo :Line_699 .
+
+:TV_Line_700_PT a :TranslationVariant ;
+:text "Tal rumor sombrio avança em silêncio."^^xsd:string ;
+:relatedTo :Line_700 .
+
+:TV_Line_701_PT a :TranslationVariant ;
+:text "Para mim, pai, quando tu ages com sucesso,"^^xsd:string ;
+:relatedTo :Line_701 .
+
+:TV_Line_702_PT a :TranslationVariant ;
+:text "não há nenhum bem mais precioso;"^^xsd:string ;
+:relatedTo :Line_702 .
+
+:TV_Line_703_PT a :TranslationVariant ;
+:text "pois que ornamento maior há para os filhos"^^xsd:string ;
+:relatedTo :Line_703 .
+
+:TV_Line_704_PT a :TranslationVariant ;
+:text "que a boa fama do pai florescente, ou que há para o pai vindo dos filhos?"^^xsd:string ;
+:relatedTo :Line_704 .
+
+:TV_Line_705_PT a :TranslationVariant ;
+:text "Não carregues então em ti um só caráter apenas,"^^xsd:string ;
+:relatedTo :Line_705 .
+
+:TV_Line_706_PT a :TranslationVariant ;
+:text "como dizes tu, que isto, e nada mais, está correto."^^xsd:string ;
+:relatedTo :Line_706 .
+
+:TV_Line_707_PT a :TranslationVariant ;
+:text "Pois quem pensa ser ele próprio o único a pensar,"^^xsd:string ;
+:relatedTo :Line_707 .
+
+:TV_Line_708_PT a :TranslationVariant ;
+:text "ou ter língua que nenhum outro tem, ou alma,"^^xsd:string ;
+:relatedTo :Line_708 .
+
+:TV_Line_709_PT a :TranslationVariant ;
+:text "esses, quando abertos, revelam-se vazios."^^xsd:string ;
+:relatedTo :Line_709 .
+
+:TV_Line_710_PT a :TranslationVariant ;
+:text "Mas, para um homem, mesmo se é sábio, aprender"^^xsd:string ;
+:relatedTo :Line_710 .
+
+:TV_Line_711_PT a :TranslationVariant ;
+:text "muito não é vergonha alguma, nem o não se esticar demais."^^xsd:string ;
+:relatedTo :Line_711 .
+
+:TV_Line_712_PT a :TranslationVariant ;
+:text "Vês junto às correntes invernais quantas"^^xsd:string ;
+:relatedTo :Line_712 .
+
+:TV_Line_713_PT a :TranslationVariant ;
+:text "árvores cedem, e como salvam os ramos,"^^xsd:string ;
+:relatedTo :Line_713 .
+
+:TV_Line_714_PT a :TranslationVariant ;
+:text "enquanto as que resistem perecem com a própria raiz."^^xsd:string ;
+:relatedTo :Line_714 .
+
+:TV_Line_715_PT a :TranslationVariant ;
+:text "Assim também, quem na nau, tendo esticado firme a escota,"^^xsd:string ;
+:relatedTo :Line_715 .
+
+:TV_Line_716_PT a :TranslationVariant ;
+:text "não cede em nada, depois de virar para baixo"^^xsd:string ;
+:relatedTo :Line_716 .
+
+:TV_Line_717_PT a :TranslationVariant ;
+:text "o restante banco, navega com os bancos virados."^^xsd:string ;
+:relatedTo :Line_717 .
+
+:TV_Line_718_PT a :TranslationVariant ;
+:text "Mas cede, e dá mudança à ira."^^xsd:string ;
+:relatedTo :Line_718 .
+
+:TV_Line_719_PT a :TranslationVariant ;
+:text "Pois se há algum juízo também de mim, mais jovem,"^^xsd:string ;
+:relatedTo :Line_719 .
+
+:TV_Line_720_PT a :TranslationVariant ;
+:text "eu digo que é muito preferível"^^xsd:string ;
+:relatedTo :Line_720 .
+
+:TV_Line_721_PT a :TranslationVariant ;
+:text "que o homem nasça cheio de todo conhecimento;"^^xsd:string ;
+:relatedTo :Line_721 .
+
+:TV_Line_722_PT a :TranslationVariant ;
+:text "mas se, pois, isso costuma não inclinar assim,"^^xsd:string ;
+:relatedTo :Line_722 .
+
+:TV_Line_723_PT a :TranslationVariant ;
+:text "é belo aprender também dos que falam bem."^^xsd:string ;
+:relatedTo :Line_723 .

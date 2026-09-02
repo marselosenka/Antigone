@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1155-1182-italian a owl:Ontology .
+# Italian translation variants for 1155_to_1182.ttl
+
+:TV_Line_1155_IT a :TranslationVariant ;
+:text "Vicini di Cadmo e delle case di Anfione,"^^xsd:string ;
+:relatedTo :Line_1155 .
+
+:TV_Line_1156_IT a :TranslationVariant ;
+:text "non c’è vita d’uomo tale che, stando ferma,"^^xsd:string ;
+:relatedTo :Line_1156 .
+
+:TV_Line_1157_IT a :TranslationVariant ;
+:text "io possa mai lodarla né biasimarla."^^xsd:string ;
+:relatedTo :Line_1157 .
+
+:TV_Line_1158_IT a :TranslationVariant ;
+:text "La sorte infatti rialza e la sorte abbatte"^^xsd:string ;
+:relatedTo :Line_1158 .
+
+:TV_Line_1159_IT a :TranslationVariant ;
+:text "sempre chi ha fortuna e chi ha sventura;"^^xsd:string ;
+:relatedTo :Line_1159 .
+
+:TV_Line_1160_IT a :TranslationVariant ;
+:text "e nessun profeta c’è delle cose stabilite per i mortali."^^xsd:string ;
+:relatedTo :Line_1160 .
+
+:TV_Line_1161_IT a :TranslationVariant ;
+:text "Creonte infatti era un tempo invidiabile, almeno a mio parere,"^^xsd:string ;
+:relatedTo :Line_1161 .
+
+:TV_Line_1162_IT a :TranslationVariant ;
+:text "avendo salvato dai nemici questa terra cadmea"^^xsd:string ;
+:relatedTo :Line_1162 .
+
+:TV_Line_1163_IT a :TranslationVariant ;
+:text "e, avendo preso il pieno potere monarchico del paese,"^^xsd:string ;
+:relatedTo :Line_1163 .
+
+:TV_Line_1164_IT a :TranslationVariant ;
+:text "la governava, fiorendo in nobile seme di figli;"^^xsd:string ;
+:relatedTo :Line_1164 .
+
+:TV_Line_1165_IT a :TranslationVariant ;
+:text "e ora tutto gli è sfuggito. Infatti quando gli uomini"^^xsd:string ;
+:relatedTo :Line_1165 .
+
+:TV_Line_1166_IT a :TranslationVariant ;
+:text "tradiscono le gioie, io non considero"^^xsd:string ;
+:relatedTo :Line_1166 .
+
+:TV_Line_1167_IT a :TranslationVariant ;
+:text "che costui viva, ma lo ritengo un morto animato."^^xsd:string ;
+:relatedTo :Line_1167 .
+
+:TV_Line_1168_IT a :TranslationVariant ;
+:text "Sii pure ricco in casa, se vuoi, grandemente,"^^xsd:string ;
+:relatedTo :Line_1168 .
+
+:TV_Line_1169_IT a :TranslationVariant ;
+:text "e vivi avendo figura di tiranno; ma se manca"^^xsd:string ;
+:relatedTo :Line_1169 .
+
+:TV_Line_1170_IT a :TranslationVariant ;
+:text "il gioire di queste cose, tutto il resto, io, per un uomo,"^^xsd:string ;
+:relatedTo :Line_1170 .
+
+:TV_Line_1171_IT a :TranslationVariant ;
+:text "non lo comprerei al prezzo dell’ombra del fumo, rispetto alla gioia."^^xsd:string ;
+:relatedTo :Line_1171 .
+
+:TV_Line_1172_IT a :TranslationVariant ;
+:text "E quale peso dei re vieni portando qui?"^^xsd:string ;
+:relatedTo :Line_1172 .
+
+:TV_Line_1173_IT a :TranslationVariant ;
+:text "Sono morti; e i vivi sono responsabili della morte."^^xsd:string ;
+:relatedTo :Line_1173 .
+
+:TV_Line_1174_IT a :TranslationVariant ;
+:text "E chi uccide? E chi è quello che giace? Parla."^^xsd:string ;
+:relatedTo :Line_1174 .
+
+:TV_Line_1175_IT a :TranslationVariant ;
+:text "Emone è morto; si è insanguinato di propria mano."^^xsd:string ;
+:relatedTo :Line_1175 .
+
+:TV_Line_1176_IT a :TranslationVariant ;
+:text "Per mano paterna o per mano propria?"^^xsd:string ;
+:relatedTo :Line_1176 .
+
+:TV_Line_1177_IT a :TranslationVariant ;
+:text "Da sé contro sé stesso, adirato col padre per l’uccisione."^^xsd:string ;
+:relatedTo :Line_1177 .
+
+:TV_Line_1178_IT a :TranslationVariant ;
+:text "O veggente, come davvero hai compiuto una parola retta."^^xsd:string ;
+:relatedTo :Line_1178 .
+
+:TV_Line_1179_IT a :TranslationVariant ;
+:text "Poiché queste cose stanno così, resta da deliberare sul resto."^^xsd:string ;
+:relatedTo :Line_1179 .
+
+:TV_Line_1180_IT a :TranslationVariant ;
+:text "E infatti vedo insieme la misera Euridice,"^^xsd:string ;
+:relatedTo :Line_1180 .
+
+:TV_Line_1181_IT a :TranslationVariant ;
+:text "la moglie di Creonte. Dai palazzi"^^xsd:string ;
+:relatedTo :Line_1181 .
+
+:TV_Line_1182_IT a :TranslationVariant ;
+:text "viene o avendo udito del figlio, oppure per caso."^^xsd:string ;
+:relatedTo :Line_1182 .

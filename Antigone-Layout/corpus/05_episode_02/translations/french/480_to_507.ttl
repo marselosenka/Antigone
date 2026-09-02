@@ -1,0 +1,118 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-480-507-french a owl:Ontology .
+# French translation variants for 480_to_507.ttl
+
+:TV_Line_480_FR a :TranslationVariant ;
+:text "Celle-ci savait alors très bien être insolente,"^^xsd:string ;
+:relatedTo :Line_480 .
+
+:TV_Line_481_FR a :TranslationVariant ;
+:text "en transgressant les lois établies ;"^^xsd:string ;
+:relatedTo :Line_481 .
+
+:TV_Line_482_FR a :TranslationVariant ;
+:text "et, après avoir agi, voici une seconde insolence :"^^xsd:string ;
+:relatedTo :Line_482 .
+
+:TV_Line_483_FR a :TranslationVariant ;
+:text "se vanter de cela et rire de l’avoir fait."^^xsd:string ;
+:relatedTo :Line_483 .
+
+:TV_Line_484_FR a :TranslationVariant ;
+:text "Vraiment, maintenant, moi je ne suis pas un homme, mais elle est homme,"^^xsd:string ;
+:relatedTo :Line_484 .
+
+:TV_Line_485_FR a :TranslationVariant ;
+:text "si ces pouvoirs demeurent impunis pour elle."^^xsd:string ;
+:relatedTo :Line_485 .
+
+:TV_Line_486_FR a :TranslationVariant ;
+:text "Mais qu’elle soit fille de ma sœur, ou plus proche par le sang"^^xsd:string ;
+:relatedTo :Line_486 .
+
+:TV_Line_487_FR a :TranslationVariant ;
+:text "que tout notre Zeus protecteur du foyer,"^^xsd:string ;
+:relatedTo :Line_487 .
+
+:TV_Line_488_FR a :TranslationVariant ;
+:text "elle-même et sa sœur de même sang n’échapperont pas"^^xsd:string ;
+:relatedTo :Line_488 .
+
+:TV_Line_489_FR a :TranslationVariant ;
+:text "au pire destin ; car certes celle-là aussi, également,"^^xsd:string ;
+:relatedTo :Line_489 .
+
+:TV_Line_490_FR a :TranslationVariant ;
+:text "je l’accuse d’avoir conçu cette sépulture."^^xsd:string ;
+:relatedTo :Line_490 .
+
+:TV_Line_491_FR a :TranslationVariant ;
+:text "Et appelez-la ; car je l’ai vue tout récemment à l’intérieur,"^^xsd:string ;
+:relatedTo :Line_491 .
+
+:TV_Line_492_FR a :TranslationVariant ;
+:text "furieuse elle-même, et non maîtresse de son esprit."^^xsd:string ;
+:relatedTo :Line_492 .
+
+:TV_Line_493_FR a :TranslationVariant ;
+:text "L’âme aime d’avance être prise comme voleuse"^^xsd:string ;
+:relatedTo :Line_493 .
+
+:TV_Line_494_FR a :TranslationVariant ;
+:text "de ceux qui n’ourdissent rien correctement dans l’ombre ;"^^xsd:string ;
+:relatedTo :Line_494 .
+
+:TV_Line_495_FR a :TranslationVariant ;
+:text "mais certes je hais aussi, lorsqu’en des maux quelqu’un,"^^xsd:string ;
+:relatedTo :Line_495 .
+
+:TV_Line_496_FR a :TranslationVariant ;
+:text "pris, veut ensuite embellir cela."^^xsd:string ;
+:relatedTo :Line_496 .
+
+:TV_Line_497_FR a :TranslationVariant ;
+:text "Veux-tu quelque chose de plus que me tuer après m’avoir prise ?"^^xsd:string ;
+:relatedTo :Line_497 .
+
+:TV_Line_498_FR a :TranslationVariant ;
+:text "Moi, rien ; ayant cela, j’ai tout."^^xsd:string ;
+:relatedTo :Line_498 .
+
+:TV_Line_499_FR a :TranslationVariant ;
+:text "Pourquoi donc tardes-tu ? Car pour moi, de tes paroles,"^^xsd:string ;
+:relatedTo :Line_499 .
+
+:TV_Line_500_FR a :TranslationVariant ;
+:text "rien n’est agréable, et puisse rien ne l’être jamais ;"^^xsd:string ;
+:relatedTo :Line_500 .
+
+:TV_Line_501_FR a :TranslationVariant ;
+:text "ainsi aussi les miennes sont nées pour te déplaire."^^xsd:string ;
+:relatedTo :Line_501 .
+
+:TV_Line_502_FR a :TranslationVariant ;
+:text "Et pourtant d’où aurais-je obtenu une gloire plus glorieuse"^^xsd:string ;
+:relatedTo :Line_502 .
+
+:TV_Line_503_FR a :TranslationVariant ;
+:text "qu’en plaçant dans la tombe mon propre frère ?"^^xsd:string ;
+:relatedTo :Line_503 .
+
+:TV_Line_504_FR a :TranslationVariant ;
+:text "Que cela plaît à tous ceux-ci,"^^xsd:string ;
+:relatedTo :Line_504 .
+
+:TV_Line_505_FR a :TranslationVariant ;
+:text "on le dirait, si la peur n’enfermait pas leur langue."^^xsd:string ;
+:relatedTo :Line_505 .
+
+:TV_Line_506_FR a :TranslationVariant ;
+:text "Mais la tyrannie est heureuse en beaucoup d’autres choses,"^^xsd:string ;
+:relatedTo :Line_506 .
+
+:TV_Line_507_FR a :TranslationVariant ;
+:text "et il lui est permis de faire et de dire ce qu’elle veut."^^xsd:string ;
+:relatedTo :Line_507 .

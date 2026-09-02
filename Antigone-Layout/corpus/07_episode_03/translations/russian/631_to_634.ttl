@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-russian a owl:Ontology .
+# Russian translation variants for 631_to_634.ttl
+
+:TV_Line_631_RU a :TranslationVariant ;
+:text "Скоро мы узнаем лучше прорицателей."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_RU a :TranslationVariant ;
+:text "О сын, неужели, услышав окончательный приговор"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_RU a :TranslationVariant ;
+:text "о будущей невесте, ты явился, безумствуя против отца?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_RU a :TranslationVariant ;
+:text "Или тебе мы во всем, что делаем, милы?"^^xsd:string ;
+:relatedTo :Line_634 .

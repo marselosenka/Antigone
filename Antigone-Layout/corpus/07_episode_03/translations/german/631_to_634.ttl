@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-german a owl:Ontology .
+# German translation variants for 631_to_634.ttl
+
+:TV_Line_631_DE a :TranslationVariant ;
+:text "Bald werden wir es besser wissen als die Seher."^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_DE a :TranslationVariant ;
+:text "O Sohn, kommst du etwa, weil du den endgültigen Spruch"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_DE a :TranslationVariant ;
+:text "über deine künftige Braut hörst, gegen den Vater rasend her?"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_DE a :TranslationVariant ;
+:text "Oder sind wir dir überall, was wir auch tun, lieb?"^^xsd:string ;
+:relatedTo :Line_634 .

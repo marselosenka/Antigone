@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-italian a owl:Ontology .
+# Italian translation variants for 773_to_780.ttl
+
+:TV_Line_773_IT a :TranslationVariant ;
+:text "Conducendola dove sia deserta una traccia di mortali,"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_IT a :TranslationVariant ;
+:text "la nasconderò viva in una cavità rocciosa,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_IT a :TranslationVariant ;
+:text "ponendo davanti solo tanto cibo quanto basta per il sacrilegio,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_IT a :TranslationVariant ;
+:text "perché tutta la città sfugga alla contaminazione."^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_IT a :TranslationVariant ;
+:text "E là, chiedendo ad Ade, che solo tra gli dèi venera,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_IT a :TranslationVariant ;
+:text "forse otterrà di non morire,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_IT a :TranslationVariant ;
+:text "oppure almeno allora conoscerà che"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_IT a :TranslationVariant ;
+:text "è fatica eccessiva venerare le cose dell’Ade."^^xsd:string ;
+:relatedTo :Line_780 .

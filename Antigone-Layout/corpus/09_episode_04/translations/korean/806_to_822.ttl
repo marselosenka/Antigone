@@ -1,0 +1,60 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_04-translations-806-822-korean a owl:Ontology .
+# Korean translation variants for 806_to_822.ttl
+
+:TV_Line_806_KO a :TranslationVariant ;
+:text "보십시오, 조국 땅의 시민들이여, 제가 마지막 길을"^^xsd:string ;
+:relatedTo :Line_806 .
+
+:TV_Line_807_KO a :TranslationVariant ;
+:text "가고 있으며, 태양의 마지막 빛을 보고 있습니다,"^^xsd:string ;
+:relatedTo :Line_807 .
+
+# Lines 808 and 809 do not exist in Antigone
+
+:TV_Line_810_KO a :TranslationVariant ;
+:text "그리고 다시는 결코 보지 못합니다. 모든 이를 눕히는 하데스가 산 채로 저를 데려갑니다,"^^xsd:string ;
+:relatedTo :Line_810 .
+
+:TV_Line_811_KO a :TranslationVariant ;
+:text "아케론의"^^xsd:string ;
+:relatedTo :Line_811 .
+
+:TV_Line_812_KO a :TranslationVariant ;
+:text "강가로, 혼례 노래의 몫도 없이, 혼방 위에서"^^xsd:string ;
+:relatedTo :Line_812 .
+
+# Lines 813 and 814 do not exist in Antigone
+
+:TV_Line_815_KO a :TranslationVariant ;
+:text "아직 어떤 노래도 저를 위해 노래하지 않았지만, 저는 아케론과 혼인할 것입니다."^^xsd:string ;
+:relatedTo :Line_815 .
+
+# Line 816 does not exist in Antigone
+
+:TV_Line_817_KO a :TranslationVariant ;
+:text "그러니 너는 명성 있고 찬양을 지닌 채"^^xsd:string ;
+:relatedTo :Line_817 .
+
+:TV_Line_818_KO a :TranslationVariant ;
+:text "죽은 자들의 이 숨은 곳으로 떠나가는 것이 아니냐,"^^xsd:string ;
+:relatedTo :Line_818 .
+
+:TV_Line_819_KO a :TranslationVariant ;
+:text "소멸시키는 병들에 맞아 죽은 것도 아니고,"^^xsd:string ;
+:relatedTo :Line_819 .
+
+:TV_Line_820_KO a :TranslationVariant ;
+:text "칼들의 손에 의한 몫을 얻은 것도 아니며,"^^xsd:string ;
+:relatedTo :Line_820 .
+
+:TV_Line_821_KO a :TranslationVariant ;
+:text "오직 스스로의 법으로, 살아 있는 채 홀로,"^^xsd:string ;
+:relatedTo :Line_821 .
+
+:TV_Line_822_KO a :TranslationVariant ;
+:text "죽을 자들 가운데 하데스로 내려갈 것이니."^^xsd:string ;
+:relatedTo :Line_822 .

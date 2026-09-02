@@ -1,0 +1,122 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_01-translations-331-365-bengali a owl:Ontology .
+# Bengali translation variants for 331_to_365.ttl
+
+:TV_Line_331_BN a :TranslationVariant ;
+:text "রক্ষা পেয়ে দেবতাদের কাছে আমার অনেক কৃতজ্ঞতা ঋণ রইল।"^^xsd:string ;
+:relatedTo :Line_331 .
+
+:TV_Line_332_BN a :TranslationVariant ;
+:text "অনেক আশ্চর্য বস্তু আছে, কিন্তু কিছুই"^^xsd:string ;
+:relatedTo :Line_332 .
+
+:TV_Line_333_BN a :TranslationVariant ;
+:text "মানুষের চেয়ে আশ্চর্যতর নয়।"^^xsd:string ;
+:relatedTo :Line_333 .
+
+:TV_Line_334_BN a :TranslationVariant ;
+:text "এই সত্তাই ধূসর"^^xsd:string ;
+:relatedTo :Line_334 .
+
+:TV_Line_335_BN a :TranslationVariant ;
+:text "সমুদ্রের ওপারে, শীতের দক্ষিণা ঝড়ে,"^^xsd:string ;
+:relatedTo :Line_335 .
+
+:TV_Line_336_BN a :TranslationVariant ;
+:text "অগ্রসর হয়, চারদিক-গর্জনকারী"^^xsd:string ;
+:relatedTo :Line_336 .
+
+:TV_Line_337_BN a :TranslationVariant ;
+:text "তরঙ্গের নিচ দিয়ে পেরিয়ে; আর দেবতাদের"^^xsd:string ;
+:relatedTo :Line_337 .
+
+:TV_Line_338_BN a :TranslationVariant ;
+:text "মধ্যে সর্বোচ্চ পৃথিবীকে,"^^xsd:string ;
+:relatedTo :Line_338 .
+
+:TV_Line_339_BN a :TranslationVariant ;
+:text "অবিনশ্বর ও অক্লান্ত তাকে, সে ক্ষয় করে,"^^xsd:string ;
+:relatedTo :Line_339 .
+
+:TV_Line_340_BN a :TranslationVariant ;
+:text "বছর থেকে বছরে ঘূর্ণায়মান লাঙল দিয়ে,"^^xsd:string ;
+:relatedTo :Line_340 .
+
+:TV_Line_341_BN a :TranslationVariant ;
+:text "ঘোড়ার জাত দিয়ে চাষ করে।"^^xsd:string ;
+:relatedTo :Line_341 .
+
+:TV_Line_342_BN a :TranslationVariant ;
+:text "আর হালকা-মন"^^xsd:string ;
+:relatedTo :Line_342 .
+
+:TV_Line_343_BN a :TranslationVariant ;
+:text "পাখিদের জাতকে ঘিরে ধরে ধরে,"^^xsd:string ;
+:relatedTo :Line_343 .
+
+:TV_Line_344_BN a :TranslationVariant ;
+:text "আর বন্য পশুদের জাতিগুলিকে,"^^xsd:string ;
+:relatedTo :Line_344 .
+
+:TV_Line_345_BN a :TranslationVariant ;
+:text "আর সমুদ্রের নোনা জলের প্রকৃতিকেও"^^xsd:string ;
+:relatedTo :Line_345 .
+
+:TV_Line_346_BN a :TranslationVariant ;
+:text "জাল-বোনা ফাঁসের পাক দিয়ে ধরে,"^^xsd:string ;
+:relatedTo :Line_346 .
+
+:TV_Line_347_BN a :TranslationVariant ;
+:text "চতুর মানুষ; আর সে জয় করে"^^xsd:string ;
+:relatedTo :Line_347 .
+
+:TV_Line_348_BN a :TranslationVariant ;
+:text "কৌশল দিয়ে মাঠের বন্য"^^xsd:string ;
+:relatedTo :Line_348 .
+
+# Line 349 does not exist in Antigone
+
+:TV_Line_350_BN a :TranslationVariant ;
+:text "পর্বতচর পশুকে, আর লোমশ-ঘাড়"^^xsd:string ;
+:relatedTo :Line_350 .
+
+:TV_Line_351_BN a :TranslationVariant ;
+:text "ঘোড়াকে দ্বিপার্শ্বীয় জোয়ালের নিচে আনতে পারে,"^^xsd:string ;
+:relatedTo :Line_351 .
+
+:TV_Line_352_BN a :TranslationVariant ;
+:text "আর অক্লান্ত পাহাড়ি ষাঁড়কেও।"^^xsd:string ;
+:relatedTo :Line_352 .
+
+# Line 353 and 354 do not exist in Antigone
+
+:TV_Line_355_BN a :TranslationVariant ;
+:text "আর বাক্, আর বাতাসের মতো চলমান চিন্তা, আর নগর-নিয়ন্ত্রক"^^xsd:string ;
+:relatedTo :Line_355 .
+
+:TV_Line_356_BN a :TranslationVariant ;
+:text "প্রবৃত্তি সে নিজেকে শিখিয়েছে, আর আশ্রয়হীন"^^xsd:string ;
+:relatedTo :Line_356 .
+
+:TV_Line_357_BN a :TranslationVariant ;
+:text "তুষারপাত ও বৃষ্টি-কঠিন তীর এড়াতে শিখেছে;"^^xsd:string ;
+:relatedTo :Line_357 .
+
+:TV_Line_358_BN a :TranslationVariant ;
+:text "সর্বপথগামী সে; আসন্ন কোনো কিছুর সামনে"^^xsd:string ;
+:relatedTo :Line_358 .
+
+# Line 359 does not exist in Antigone
+
+:TV_Line_360_BN a :TranslationVariant ;
+:text "সে পথহীন হয়ে আসে না; কেবল হেডিস থেকে পালাবার পথ সে আনতে পারবে না;"^^xsd:string ;
+:relatedTo :Line_360 .
+
+:TV_Line_361_BN a :TranslationVariant ;
+:text "তবু দুরারোগ্য রোগ থেকেও পালাবার উপায় সে ভেবে পেয়েছে।"^^xsd:string ;
+:relatedTo :Line_361 .
+
+# Line 362, 363, 364 and 365 do not exist in Antigone

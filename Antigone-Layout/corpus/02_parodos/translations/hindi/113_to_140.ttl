@@ -1,0 +1,106 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:parodos-translations-113-140-hindi a owl:Ontology .
+# Hindi translation variants for 113_to_140.ttl
+
+:TV_Line_113_HI a :TranslationVariant ;
+:text "गरुड़ की तरह धरती के ऊपर उड़ गया,"^^xsd:string ;
+:relatedTo :Line_113 .
+
+:TV_Line_114_HI a :TranslationVariant ;
+:text "श्वेत हिम के पंख से ढका हुआ,"^^xsd:string ;
+:relatedTo :Line_114 .
+
+:TV_Line_115_HI a :TranslationVariant ;
+:text "अनेक हथियारों के साथ"^^xsd:string ;
+:relatedTo :Line_115 .
+
+:TV_Line_116_HI a :TranslationVariant ;
+:text "और घोड़े के बालों वाले शिरस्त्राणों के साथ।"^^xsd:string ;
+:relatedTo :Line_116 .
+
+:TV_Line_117_HI a :TranslationVariant ;
+:text "छतों के ऊपर खड़ा होकर, रक्त-पिपासु भालों से चारों ओर मुँह फैलाए,"^^xsd:string ;
+:relatedTo :Line_117 .
+
+:TV_Line_118_HI a :TranslationVariant ;
+:text "सात-द्वारी मुख पर"^^xsd:string ;
+:relatedTo :Line_118 .
+
+:TV_Line_119_HI a :TranslationVariant ;
+:text "वह आ गया, इससे पहले कि कभी हमारे"^^xsd:string ;
+:relatedTo :Line_119 .
+
+:TV_Line_120_HI a :TranslationVariant ;
+:text "रक्त से उसके जबड़े भरते, और मीनारों का मुकुट"^^xsd:string ;
+:relatedTo :Line_120 .
+
+:TV_Line_121_HI a :TranslationVariant ;
+:text "चीड़-ईंधन वाले हेफैस्टस से पकड़ता। ऐसा उसके पीछे फैला था"^^xsd:string ;
+:relatedTo :Line_121 .
+
+# Line 122, 123 and 124 do not exist in Antigone
+
+:TV_Line_125_HI a :TranslationVariant ;
+:text "एरेस का धमाका, विरोधी अजगर के लिए कठिन पकड़।"^^xsd:string ;
+:relatedTo :Line_125 .
+
+# Line 126 does not exist in Antigone
+
+:TV_Line_127_HI a :TranslationVariant ;
+:text "क्योंकि ज़ीउस बड़ी जीभ के घमंडों से"^^xsd:string ;
+:relatedTo :Line_127 .
+
+:TV_Line_128_HI a :TranslationVariant ;
+:text "अत्यंत घृणा करता है; और उन्हें देखकर"^^xsd:string ;
+:relatedTo :Line_128 .
+
+:TV_Line_129_HI a :TranslationVariant ;
+:text "बड़े प्रवाह में आगे बढ़ते हुए,"^^xsd:string ;
+:relatedTo :Line_129 .
+
+:TV_Line_130_HI a :TranslationVariant ;
+:text "सोने की झंकार में गर्वित,"^^xsd:string ;
+:relatedTo :Line_130 .
+
+:TV_Line_131_HI a :TranslationVariant ;
+:text "उसने उछलती आग से फेंक मारा,"^^xsd:string ;
+:relatedTo :Line_131 .
+
+:TV_Line_132_HI a :TranslationVariant ;
+:text "जब वह पहले ही ऊँचे किनारों पर"^^xsd:string ;
+:relatedTo :Line_132 .
+
+:TV_Line_133_HI a :TranslationVariant ;
+:text "विजय पुकारने को दौड़ रहा था;"^^xsd:string ;
+:relatedTo :Line_133 .
+
+:TV_Line_134_HI a :TranslationVariant ;
+:text "और प्रतिघाती धरती पर वह गिर पड़ा, झकझोर दिया गया,"^^xsd:string ;
+:relatedTo :Line_134 .
+
+:TV_Line_135_HI a :TranslationVariant ;
+:text "वह अग्नि-वहक, जो तब उन्मत्त वेग के साथ"^^xsd:string ;
+:relatedTo :Line_135 .
+
+:TV_Line_136_HI a :TranslationVariant ;
+:text "बाखिक उन्माद में साँस छोड़ता था"^^xsd:string ;
+:relatedTo :Line_136 .
+
+:TV_Line_137_HI a :TranslationVariant ;
+:text "सबसे घृणित हवाओं के झोंकों जैसी।"^^xsd:string ;
+:relatedTo :Line_137 .
+
+:TV_Line_138_HI a :TranslationVariant ;
+:text "पर कुछ बातें एक ओर रहीं,"^^xsd:string ;
+:relatedTo :Line_138 .
+
+:TV_Line_139_HI a :TranslationVariant ;
+:text "और कुछ पर वह दूसरों के ऊपर घूमता हुआ प्रहार करता रहा,"^^xsd:string ;
+:relatedTo :Line_139 .
+
+:TV_Line_140_HI a :TranslationVariant ;
+:text "महान एरेस, दाहिने हाथ से सहायक।"^^xsd:string ;
+:relatedTo :Line_140 .

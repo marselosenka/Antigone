@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-french a owl:Ontology .
+# French translation variants for 441_to_479.ttl
+
+:TV_Line_441_FR a :TranslationVariant ;
+:text "Toi donc, toi qui inclines la tête vers le sol,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_FR a :TranslationVariant ;
+:text "dis-tu ou nies-tu avoir fait ces choses ?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_FR a :TranslationVariant ;
+:text "Je dis les avoir faites, et je ne nie pas que non."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_FR a :TranslationVariant ;
+:text "Toi, tu peux t’emporter toi-même où tu veux,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_FR a :TranslationVariant ;
+:text "libre d’une lourde accusation ;"^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_FR a :TranslationVariant ;
+:text "mais toi, dis-moi, non longuement, mais brièvement :"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_FR a :TranslationVariant ;
+:text "savais-tu qu’il avait été proclamé de ne pas faire ces choses ?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_FR a :TranslationVariant ;
+:text "Je le savais ; comment ne l’aurais-je pas su ? Car c’était manifeste."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_FR a :TranslationVariant ;
+:text "Et alors tu as osé transgresser ces lois ?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_FR a :TranslationVariant ;
+:text "Car ce n’était pas Zeus, certes, qui m’avait proclamé ces choses,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_FR a :TranslationVariant ;
+:text "ni la Justice, compagne des dieux d’en bas,"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_FR a :TranslationVariant ;
+:text "qui a fixé de telles lois parmi les hommes."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_FR a :TranslationVariant ;
+:text "Je ne pensais pas non plus que tes proclamations"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_FR a :TranslationVariant ;
+:text "eussent tant de force que les lois non écrites et inébranlables des dieux,"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_FR a :TranslationVariant ;
+:text "toi, mortel, tu puisses les dépasser."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_FR a :TranslationVariant ;
+:text "Car ce n’est pas d’aujourd’hui ni d’hier, mais depuis toujours"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_FR a :TranslationVariant ;
+:text "qu’elles vivent, et personne ne sait depuis quand elles sont apparues."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_FR a :TranslationVariant ;
+:text "Pour celles-ci, je n’allais pas, craignant la pensée"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_FR a :TranslationVariant ;
+:text "d’aucun homme, payer devant les dieux"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_FR a :TranslationVariant ;
+:text "la justice ; car je savais bien que je mourrais, comment non ?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_FR a :TranslationVariant ;
+:text "même si tu ne l’avais pas proclamé d’avance. Mais si avant le temps"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_FR a :TranslationVariant ;
+:text "je meurs, moi, je dis que c’est encore un gain."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_FR a :TranslationVariant ;
+:text "Car quiconque vit, comme moi, dans beaucoup de maux,"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_FR a :TranslationVariant ;
+:text "comment celui-là ne porte-t-il pas un gain en mourant ?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_FR a :TranslationVariant ;
+:text "Ainsi, pour moi, rencontrer ce sort"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_FR a :TranslationVariant ;
+:text "n’est presque aucune douleur ; mais si celui qui est issu de ma"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_FR a :TranslationVariant ;
+:text "mère, mort, j’avais supporté qu’il fût un cadavre sans sépulture,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_FR a :TranslationVariant ;
+:text "de cela j’aurais souffert ; de ceci je ne souffre pas."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_FR a :TranslationVariant ;
+:text "Et si, à toi, il semble maintenant que j’agisse follement,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_FR a :TranslationVariant ;
+:text "c’est peut-être auprès d’un fou que j’encours la folie."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_FR a :TranslationVariant ;
+:text "La naissance sauvage issue d’un père sauvage se montre"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_FR a :TranslationVariant ;
+:text "dans la jeune fille. Elle ne sait pas céder aux maux."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_FR a :TranslationVariant ;
+:text "Mais sache bien que les pensées trop dures"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_FR a :TranslationVariant ;
+:text "tombent le plus souvent, et le fer le plus fort,"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_FR a :TranslationVariant ;
+:text "cuit au feu, tout durci,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_FR a :TranslationVariant ;
+:text "tu pourrais le voir très souvent brisé et fendu ;"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_FR a :TranslationVariant ;
+:text "et par un petit mors, je sais que les chevaux irrités"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_FR a :TranslationVariant ;
+:text "sont mis en ordre ; car il n’est pas possible"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_FR a :TranslationVariant ;
+:text "de penser grandement quand on est esclave de ceux d’à côté."^^xsd:string ;
+:relatedTo :Line_479 .

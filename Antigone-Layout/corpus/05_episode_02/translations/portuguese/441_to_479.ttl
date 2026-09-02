@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-portuguese a owl:Ontology .
+# Portuguese translation variants for 441_to_479.ttl
+
+:TV_Line_441_PT a :TranslationVariant ;
+:text "A ti, sim, a ti que inclinas a cabeça para o chão,"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_PT a :TranslationVariant ;
+:text "afirmas ou negas não ter feito isto?"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_PT a :TranslationVariant ;
+:text "Afirmo que fiz, e não nego que o fiz."^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_PT a :TranslationVariant ;
+:text "Tu podes levar-te a ti mesmo para onde quiseres,"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_PT a :TranslationVariant ;
+:text "livre de pesada acusação;"^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_PT a :TranslationVariant ;
+:text "mas tu, diz-me, não longamente, mas em breve,"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_PT a :TranslationVariant ;
+:text "sabias que fora proclamado não fazer isto?"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_PT a :TranslationVariant ;
+:text "Eu sabia; como não saberia? Era manifesto."^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_PT a :TranslationVariant ;
+:text "E então ousaste transgredir estas leis?"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_PT a :TranslationVariant ;
+:text "Pois não foi Zeus quem me proclamou estas coisas,"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_PT a :TranslationVariant ;
+:text "nem a Justiça, companheira dos deuses de baixo,"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_PT a :TranslationVariant ;
+:text "definiu tais leis entre os homens."^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_PT a :TranslationVariant ;
+:text "Nem eu pensava que teus decretos tivessem"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_PT a :TranslationVariant ;
+:text "tanta força que, sendo mortal, pudesses ultrapassar"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_PT a :TranslationVariant ;
+:text "as leis não escritas e seguras dos deuses."^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_PT a :TranslationVariant ;
+:text "Pois elas vivem não agora nem desde ontem, mas sempre,"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_PT a :TranslationVariant ;
+:text "e ninguém sabe desde quando apareceram."^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_PT a :TranslationVariant ;
+:text "Eu não haveria, por medo do pensamento de homem algum,"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_PT a :TranslationVariant ;
+:text "de pagar a pena diante dos deuses por estas coisas;"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_PT a :TranslationVariant ;
+:text "pois eu sabia que morreria, como não?"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_PT a :TranslationVariant ;
+:text "mesmo se tu não tivesses proclamado antes. Se antes do tempo"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_PT a :TranslationVariant ;
+:text "morro, digo eu que isso é ganho."^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_PT a :TranslationVariant ;
+:text "Pois quem vive, como eu, em muitos males,"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_PT a :TranslationVariant ;
+:text "como não traz ganho ao morrer?"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_PT a :TranslationVariant ;
+:text "Assim, para mim, obter esta sorte"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_PT a :TranslationVariant ;
+:text "não é dor alguma; mas se eu tivesse suportado"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_PT a :TranslationVariant ;
+:text "o cadáver do filho de minha mãe morto sem sepultura,"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_PT a :TranslationVariant ;
+:text "por aquilo sofreria; por isto não sofro."^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_PT a :TranslationVariant ;
+:text "E se agora te pareço agir como louca,"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_PT a :TranslationVariant ;
+:text "talvez seja a um louco que devo a acusação de loucura."^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_PT a :TranslationVariant ;
+:text "A geração crua de pai cru se revela"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_PT a :TranslationVariant ;
+:text "na jovem. Ela não sabe ceder aos males."^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_PT a :TranslationVariant ;
+:text "Mas sabe que os pensamentos duros demais"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_PT a :TranslationVariant ;
+:text "caem sobretudo, e o ferro mais forte,"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_PT a :TranslationVariant ;
+:text "cozido pelo fogo, muito rígido,"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_PT a :TranslationVariant ;
+:text "muitas vezes verias quebrado e rachado;"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_PT a :TranslationVariant ;
+:text "e sei que com pequeno freio os cavalos"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_PT a :TranslationVariant ;
+:text "irados são disciplinados; pois não cabe"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_PT a :TranslationVariant ;
+:text "pensar alto a quem é escravo dos próximos."^^xsd:string ;
+:relatedTo :Line_479 .

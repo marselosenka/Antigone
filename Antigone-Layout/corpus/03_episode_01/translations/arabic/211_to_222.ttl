@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-arabic a owl:Ontology .
+# Arabic translation variants for 211_to_222.ttl
+
+:TV_Line_211_AR a :TranslationVariant ;
+:text "يروق لك، يا ابن مينويكيوس، أن تفعل هذه الأمور"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_AR a :TranslationVariant ;
+:text "بمن عادى هذه المدينة وبمن كان محسنًا إليها؛"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_AR a :TranslationVariant ;
+:text "وأما استعمال كل قانون، فهذا لك"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_AR a :TranslationVariant ;
+:text "في شأن الموتى وكل من نحن أحياء."^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_AR a :TranslationVariant ;
+:text "إذن كونوا الآن حراسًا لما قيل."^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_AR a :TranslationVariant ;
+:text "كلّف بهذا رجلًا أصغر سنًّا يحمله."^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_AR a :TranslationVariant ;
+:text "بل هناك حراس مستعدون للجثة."^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_AR a :TranslationVariant ;
+:text "فماذا أيضًا تأمر بشأن هذا بعد؟"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_AR a :TranslationVariant ;
+:text "ألا تفسحوا لمن لا يصدقون هذه الأوامر."^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_AR a :TranslationVariant ;
+:text "ليس هناك من هو أحمق إلى هذا الحد حتى يعشق الموت."^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_AR a :TranslationVariant ;
+:text "ومع ذلك فهذا هو الأجر؛ لكن تحت الآمال"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_AR a :TranslationVariant ;
+:text "أهلك الربح رجالًا كثيرين مرارًا."^^xsd:string ;
+:relatedTo :Line_222 .

@@ -1,0 +1,94 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-280-301-japanese a owl:Ontology .
+# Japanese translation variants for 280_to_301.ttl
+
+:TV_Line_280_JA a :TranslationVariant ;
+:text "やめよ、言葉で私まで怒りで満たす前に、"^^xsd:string ;
+:relatedTo :Line_280 .
+
+:TV_Line_281_JA a :TranslationVariant ;
+:text "お前が愚かであり、同時に老人でもあると見出されぬように。"^^xsd:string ;
+:relatedTo :Line_281 .
+
+:TV_Line_282_JA a :TranslationVariant ;
+:text "お前は耐えがたいことを言っている、神々が"^^xsd:string ;
+:relatedTo :Line_282 .
+
+:TV_Line_283_JA a :TranslationVariant ;
+:text "この死体について配慮を持つと言っているのだから。"^^xsd:string ;
+:relatedTo :Line_283 .
+
+:TV_Line_284_JA a :TranslationVariant ;
+:text "神々は彼を恩人として過度に敬い、"^^xsd:string ;
+:relatedTo :Line_284 .
+
+:TV_Line_285_JA a :TranslationVariant ;
+:text "葬ったというのか。この者は列柱に囲まれた"^^xsd:string ;
+:relatedTo :Line_285 .
+
+:TV_Line_286_JA a :TranslationVariant ;
+:text "神殿を焼こうとして来た者であり、奉納物も、"^^xsd:string ;
+:relatedTo :Line_286 .
+
+:TV_Line_287_JA a :TranslationVariant ;
+:text "彼らの地も、法も散らそうとして来た者ではないか。"^^xsd:string ;
+:relatedTo :Line_287 .
+
+:TV_Line_288_JA a :TranslationVariant ;
+:text "それとも神々が悪人を尊ぶのを、お前は見ているのか。"^^xsd:string ;
+:relatedTo :Line_288 .
+
+:TV_Line_289_JA a :TranslationVariant ;
+:text "そんなことはない。むしろ、これらのことについて、以前から町の"^^xsd:string ;
+:relatedTo :Line_289 .
+
+:TV_Line_290_JA a :TranslationVariant ;
+:text "男たちが、かろうじて耐えながら、私に対してざわめいていた、"^^xsd:string ;
+:relatedTo :Line_290 .
+
+:TV_Line_291_JA a :TranslationVariant ;
+:text "ひそかに頭を振り、くびきの下に"^^xsd:string ;
+:relatedTo :Line_291 .
+
+:TV_Line_292_JA a :TranslationVariant ;
+:text "首を正しく保って私を受け入れようとはしなかった。"^^xsd:string ;
+:relatedTo :Line_292 .
+
+:TV_Line_293_JA a :TranslationVariant ;
+:text "これらのことから、私は彼らがよく"^^xsd:string ;
+:relatedTo :Line_293 .
+
+:TV_Line_294_JA a :TranslationVariant ;
+:text "賃金に誘われてこれを行ったのだと知っている。"^^xsd:string ;
+:relatedTo :Line_294 .
+
+:TV_Line_295_JA a :TranslationVariant ;
+:text "というのも、人間たちにとって銀ほどの"^^xsd:string ;
+:relatedTo :Line_295 .
+
+:TV_Line_296_JA a :TranslationVariant ;
+:text "悪い通貨は何も芽生えなかった。これは町々を"^^xsd:string ;
+:relatedTo :Line_296 .
+
+:TV_Line_297_JA a :TranslationVariant ;
+:text "滅ぼし、これは男たちを家々から立ち去らせ、"^^xsd:string ;
+:relatedTo :Line_297 .
+
+:TV_Line_298_JA a :TranslationVariant ;
+:text "これは人間たちの有益な心を教え変え、"^^xsd:string ;
+:relatedTo :Line_298 .
+
+:TV_Line_299_JA a :TranslationVariant ;
+:text "恥ずべき行いへと立つように変えてしまう。"^^xsd:string ;
+:relatedTo :Line_299 .
+
+:TV_Line_300_JA a :TranslationVariant ;
+:text "またそれは人間たちに悪事を持つことを示し、"^^xsd:string ;
+:relatedTo :Line_300 .
+
+:TV_Line_301_JA a :TranslationVariant ;
+:text "あらゆる行いの不敬を知ることを示した。"^^xsd:string ;
+:relatedTo :Line_301 .

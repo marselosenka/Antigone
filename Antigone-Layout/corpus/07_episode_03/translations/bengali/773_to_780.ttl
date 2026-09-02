@@ -1,0 +1,38 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-773-780-bengali a owl:Ontology .
+# Bengali translation variants for 773_to_780.ttl
+
+:TV_Line_773_BN a :TranslationVariant ;
+:text "যেখানে মানুষের পদচিহ্নহীন নির্জন স্থান থাকবে, সেখানে নিয়ে গিয়ে"^^xsd:string ;
+:relatedTo :Line_773 .
+
+:TV_Line_774_BN a :TranslationVariant ;
+:text "আমি তাকে জীবন্ত পাথুরে ভূগর্ভস্থ কুঠুরিতে লুকিয়ে রাখব,"^^xsd:string ;
+:relatedTo :Line_774 .
+
+:TV_Line_775_BN a :TranslationVariant ;
+:text "শুধু পাপ এড়ানোর জন্য যতটুকু খাদ্য দরকার, ততটুকু সামনে রেখে,"^^xsd:string ;
+:relatedTo :Line_775 .
+
+:TV_Line_776_BN a :TranslationVariant ;
+:text "যাতে সমগ্র নগর কলুষতা থেকে পালিয়ে বাঁচে।"^^xsd:string ;
+:relatedTo :Line_776 .
+
+:TV_Line_777_BN a :TranslationVariant ;
+:text "আর সেখানে হেডিসের কাছে, দেবতাদের মধ্যে যাকে সে একাই মানে,"^^xsd:string ;
+:relatedTo :Line_777 .
+
+:TV_Line_778_BN a :TranslationVariant ;
+:text "প্রার্থনা করে হয়তো সে না-মরার ফল পাবে,"^^xsd:string ;
+:relatedTo :Line_778 .
+
+:TV_Line_779_BN a :TranslationVariant ;
+:text "অথবা অন্তত তখন সে বুঝবে যে"^^xsd:string ;
+:relatedTo :Line_779 .
+
+:TV_Line_780_BN a :TranslationVariant ;
+:text "হেডিসের জিনিসকে পূজা করা অতিরিক্ত কষ্ট।"^^xsd:string ;
+:relatedTo :Line_780 .

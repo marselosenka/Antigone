@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-63-89-russian a owl:Ontology .
+# Russian translation variants for 63_to_89.ttl
+
+:TV_Line_063_RU a :TranslationVariant ;
+:text "затем еще, что нами правят более сильные,"^^xsd:string ;
+:relatedTo :Line_063 .
+
+:TV_Line_064_RU a :TranslationVariant ;
+:text "и надо слушаться этого и еще более мучительного, чем это."^^xsd:string ;
+:relatedTo :Line_064 .
+
+:TV_Line_065_RU a :TranslationVariant ;
+:text "Я же, прося тех, кто под землей,"^^xsd:string ;
+:relatedTo :Line_065 .
+
+:TV_Line_066_RU a :TranslationVariant ;
+:text "иметь ко мне прощение, поскольку меня принуждают к этому,"^^xsd:string ;
+:relatedTo :Line_066 .
+
+:TV_Line_067_RU a :TranslationVariant ;
+:text "повинуюсь тем, кто стоит у власти; ведь"^^xsd:string ;
+:relatedTo :Line_067 .
+
+:TV_Line_068_RU a :TranslationVariant ;
+:text "делать лишнее не имеет никакого смысла."^^xsd:string ;
+:relatedTo :Line_068 .
+
+:TV_Line_069_RU a :TranslationVariant ;
+:text "Я не стала бы ни приказывать, ни, если бы ты еще захотела"^^xsd:string ;
+:relatedTo :Line_069 .
+
+:TV_Line_070_RU a :TranslationVariant ;
+:text "делать это, охотно принять тебя в соучастницы."^^xsd:string ;
+:relatedTo :Line_070 .
+
+:TV_Line_071_RU a :TranslationVariant ;
+:text "Но знай, как тебе кажется нужным; а его я"^^xsd:string ;
+:relatedTo :Line_071 .
+
+:TV_Line_072_RU a :TranslationVariant ;
+:text "похороню; прекрасно для меня умереть, делая это."^^xsd:string ;
+:relatedTo :Line_072 .
+
+:TV_Line_073_RU a :TranslationVariant ;
+:text "Любимая с ним я лягу, с любимым,"^^xsd:string ;
+:relatedTo :Line_073 .
+
+:TV_Line_074_RU a :TranslationVariant ;
+:text "совершив святое преступление; ведь больше времени"^^xsd:string ;
+:relatedTo :Line_074 .
+
+:TV_Line_075_RU a :TranslationVariant ;
+:text "мне нужно угождать тем, кто внизу, чем тем, кто здесь."^^xsd:string ;
+:relatedTo :Line_075 .
+
+:TV_Line_076_RU a :TranslationVariant ;
+:text "Ибо там я буду лежать всегда; а ты, если тебе угодно,"^^xsd:string ;
+:relatedTo :Line_076 .
+
+:TV_Line_077_RU a :TranslationVariant ;
+:text "держи в бесчестии почтенное у богов."^^xsd:string ;
+:relatedTo :Line_077 .
+
+:TV_Line_078_RU a :TranslationVariant ;
+:text "Я не считаю это бесчестным, но"^^xsd:string ;
+:relatedTo :Line_078 .
+
+:TV_Line_079_RU a :TranslationVariant ;
+:text "действовать силой против граждан я рождена неспособной."^^xsd:string ;
+:relatedTo :Line_079 .
+
+:TV_Line_080_RU a :TranslationVariant ;
+:text "Ты могла бы выдвигать это как предлог; а я пойду"^^xsd:string ;
+:relatedTo :Line_080 .
+
+:TV_Line_081_RU a :TranslationVariant ;
+:text "насыпать могилу любимейшему брату."^^xsd:string ;
+:relatedTo :Line_081 .
+
+:TV_Line_082_RU a :TranslationVariant ;
+:text "Увы мне, несчастной, как я чрезмерно боюсь за тебя."^^xsd:string ;
+:relatedTo :Line_082 .
+
+:TV_Line_083_RU a :TranslationVariant ;
+:text "Не бойся заранее за меня; исправляй свою судьбу."^^xsd:string ;
+:relatedTo :Line_083 .
+
+:TV_Line_084_RU a :TranslationVariant ;
+:text "Но все же не объявляй никому заранее"^^xsd:string ;
+:relatedTo :Line_084 .
+
+:TV_Line_085_RU a :TranslationVariant ;
+:text "это дело, а скрывай тайно; так же и я."^^xsd:string ;
+:relatedTo :Line_085 .
+
+:TV_Line_086_RU a :TranslationVariant ;
+:text "Увы, говори открыто; гораздо ненавистнее ты будешь,"^^xsd:string ;
+:relatedTo :Line_086 .
+
+:TV_Line_087_RU a :TranslationVariant ;
+:text "если будешь молчать, не провозгласив это всем."^^xsd:string ;
+:relatedTo :Line_087 .
+
+:TV_Line_088_RU a :TranslationVariant ;
+:text "У тебя горячее сердце при холодных делах."^^xsd:string ;
+:relatedTo :Line_088 .
+
+:TV_Line_089_RU a :TranslationVariant ;
+:text "Но я знаю, что угождаю тем, кому более всего должна угождать."^^xsd:string ;
+:relatedTo :Line_089 .

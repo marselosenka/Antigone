@@ -1,0 +1,114 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-253-279-german a owl:Ontology .
+# German translation variants for 253_to_279.ttl
+
+:TV_Line_253_DE a :TranslationVariant ;
+:text "Als aber der erste Tageswächter es uns"^^xsd:string ;
+:relatedTo :Line_253 .
+
+:TV_Line_254_DE a :TranslationVariant ;
+:text "zeigte, war für alle ein schweres Wunder da;"^^xsd:string ;
+:relatedTo :Line_254 .
+
+:TV_Line_255_DE a :TranslationVariant ;
+:text "denn er war verschwunden, aber nicht von einem Grabhügel bedeckt,"^^xsd:string ;
+:relatedTo :Line_255 .
+
+:TV_Line_256_DE a :TranslationVariant ;
+:text "sondern feiner Staub lag darauf, wie von einem, der einen Frevel meidet."^^xsd:string ;
+:relatedTo :Line_256 .
+
+:TV_Line_257_DE a :TranslationVariant ;
+:text "Zeichen aber weder eines wilden Tieres noch irgendeines Hundes,"^^xsd:string ;
+:relatedTo :Line_257 .
+
+:TV_Line_258_DE a :TranslationVariant ;
+:text "der gekommen wäre oder gerissen hätte, zeigten sich."^^xsd:string ;
+:relatedTo :Line_258 .
+
+:TV_Line_259_DE a :TranslationVariant ;
+:text "Böse Worte rauschten untereinander,"^^xsd:string ;
+:relatedTo :Line_259 .
+
+:TV_Line_260_DE a :TranslationVariant ;
+:text "Wächter beschuldigte Wächter, und schließlich wäre"^^xsd:string ;
+:relatedTo :Line_260 .
+
+:TV_Line_261_DE a :TranslationVariant ;
+:text "es zu einem Schlag gekommen, und niemand war da, der hinderte."^^xsd:string ;
+:relatedTo :Line_261 .
+
+:TV_Line_262_DE a :TranslationVariant ;
+:text "Denn jeder einzelne war irgendwie der, der die Tat vollbracht hatte,"^^xsd:string ;
+:relatedTo :Line_262 .
+
+:TV_Line_263_DE a :TranslationVariant ;
+:text "und niemand war offenbar, sondern jeder wich aus, nichts zu wissen."^^xsd:string ;
+:relatedTo :Line_263 .
+
+:TV_Line_264_DE a :TranslationVariant ;
+:text "Wir waren auch bereit, glühende Eisen mit den Händen zu heben,"^^xsd:string ;
+:relatedTo :Line_264 .
+
+:TV_Line_265_DE a :TranslationVariant ;
+:text "durch Feuer zu gehen und bei den Göttern zu schwören,"^^xsd:string ;
+:relatedTo :Line_265 .
+
+:TV_Line_266_DE a :TranslationVariant ;
+:text "die Sache weder getan noch von jemandem gewusst zu haben,"^^xsd:string ;
+:relatedTo :Line_266 .
+
+:TV_Line_267_DE a :TranslationVariant ;
+:text "der sie geplant oder ausgeführt hatte."^^xsd:string ;
+:relatedTo :Line_267 .
+
+:TV_Line_268_DE a :TranslationVariant ;
+:text "Am Ende aber, als den Suchenden nichts weiter blieb,"^^xsd:string ;
+:relatedTo :Line_268 .
+
+:TV_Line_269_DE a :TranslationVariant ;
+:text "spricht einer, der alle Köpfe zu Boden"^^xsd:string ;
+:relatedTo :Line_269 .
+
+:TV_Line_270_DE a :TranslationVariant ;
+:text "aus Furcht zu neigen veranlasste; denn wir hatten"^^xsd:string ;
+:relatedTo :Line_270 .
+
+:TV_Line_271_DE a :TranslationVariant ;
+:text "weder zu widersprechen noch zu sehen, wie wir handelnd gut"^^xsd:string ;
+:relatedTo :Line_271 .
+
+:TV_Line_272_DE a :TranslationVariant ;
+:text "verfahren könnten. Die Rede war, dass diese Tat"^^xsd:string ;
+:relatedTo :Line_272 .
+
+:TV_Line_273_DE a :TranslationVariant ;
+:text "dir gemeldet werden müsse und nicht zu verbergen sei."^^xsd:string ;
+:relatedTo :Line_273 .
+
+:TV_Line_274_DE a :TranslationVariant ;
+:text "Und dies siegte, und mich Unglücklichen"^^xsd:string ;
+:relatedTo :Line_274 .
+
+:TV_Line_275_DE a :TranslationVariant ;
+:text "wählte das Los aus, dieses Gute zu empfangen."^^xsd:string ;
+:relatedTo :Line_275 .
+
+:TV_Line_276_DE a :TranslationVariant ;
+:text "Ich bin gegen meinen Willen da, nicht bei Willigen, das weiß ich;"^^xsd:string ;
+:relatedTo :Line_276 .
+
+:TV_Line_277_DE a :TranslationVariant ;
+:text "denn niemand liebt den Boten schlechter Worte."^^xsd:string ;
+:relatedTo :Line_277 .
+
+:TV_Line_278_DE a :TranslationVariant ;
+:text "Herr, mir denkt schon lange die Überlegung,"^^xsd:string ;
+:relatedTo :Line_278 .
+
+:TV_Line_279_DE a :TranslationVariant ;
+:text "dass diese Tat vielleicht auch von den Göttern getrieben sei."^^xsd:string ;
+:relatedTo :Line_279 .

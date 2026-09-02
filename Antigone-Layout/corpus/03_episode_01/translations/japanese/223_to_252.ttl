@@ -1,0 +1,126 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-223-252-japanese a owl:Ontology .
+# Japanese translation variants for 223_to_252.ttl
+
+:TV_Line_223_JA a :TranslationVariant ;
+:text "王よ、私は速さに迫られて"^^xsd:string ;
+:relatedTo :Line_223 .
+
+:TV_Line_224_JA a :TranslationVariant ;
+:text "息を切らし、軽い足を上げて来たとは言いません。"^^xsd:string ;
+:relatedTo :Line_224 .
+
+:TV_Line_225_JA a :TranslationVariant ;
+:text "というのも、思いの中断を何度も受け、"^^xsd:string ;
+:relatedTo :Line_225 .
+
+:TV_Line_226_JA a :TranslationVariant ;
+:text "道々、自分自身を引き返す方へ回していたからです。"^^xsd:string ;
+:relatedTo :Line_226 .
+
+:TV_Line_227_JA a :TranslationVariant ;
+:text "魂が私に多く語りかけていたのです、"^^xsd:string ;
+:relatedTo :Line_227 .
+
+:TV_Line_228_JA a :TranslationVariant ;
+:text "哀れな者よ、なぜ罰を受けに行く場所へ進むのか、と。"^^xsd:string ;
+:relatedTo :Line_228 .
+
+:TV_Line_229_JA a :TranslationVariant ;
+:text "惨めな者よ、また留まるのか。もしクレオンがこれを"^^xsd:string ;
+:relatedTo :Line_229 .
+
+:TV_Line_230_JA a :TranslationVariant ;
+:text "別の男から知ったなら、その時お前は苦しまないのか、と。"^^xsd:string ;
+:relatedTo :Line_230 .
+
+:TV_Line_231_JA a :TranslationVariant ;
+:text "このようなことを巡らしながら、私は暇をかけて遅く進み、"^^xsd:string ;
+:relatedTo :Line_231 .
+
+:TV_Line_232_JA a :TranslationVariant ;
+:text "こうして短い道が長くなるのです。"^^xsd:string ;
+:relatedTo :Line_232 .
+
+:TV_Line_233_JA a :TranslationVariant ;
+:text "しかし最後には、ここへ来ることが勝ちました、"^^xsd:string ;
+:relatedTo :Line_233 .
+
+:TV_Line_234_JA a :TranslationVariant ;
+:text "あなたのもとへ。たとえ何もないことを言うにしても、それでも話します。"^^xsd:string ;
+:relatedTo :Line_234 .
+
+:TV_Line_235_JA a :TranslationVariant ;
+:text "というのも、私は希望にしがみついて来たのです、"^^xsd:string ;
+:relatedTo :Line_235 .
+
+:TV_Line_236_JA a :TranslationVariant ;
+:text "定められたこと以外は受けないだろうという希望に。"^^xsd:string ;
+:relatedTo :Line_236 .
+
+:TV_Line_237_JA a :TranslationVariant ;
+:text "何があって、そのような落胆を抱いているのか。"^^xsd:string ;
+:relatedTo :Line_237 .
+
+:TV_Line_238_JA a :TranslationVariant ;
+:text "まず自分のことをあなたに話したいのです。というのも、"^^xsd:string ;
+:relatedTo :Line_238 .
+
+:TV_Line_239_JA a :TranslationVariant ;
+:text "その事を私は行いもせず、行った者が誰かを見もせず、"^^xsd:string ;
+:relatedTo :Line_239 .
+
+:TV_Line_240_JA a :TranslationVariant ;
+:text "正当に何かの災いへ落ちるべきでもないからです。"^^xsd:string ;
+:relatedTo :Line_240 .
+
+:TV_Line_241_JA a :TranslationVariant ;
+:text "うまく狙いを定めて、事の周りを"^^xsd:string ;
+:relatedTo :Line_241 .
+
+:TV_Line_242_JA a :TranslationVariant ;
+:text "囲い固めているな。何か新しいことを告げようとしているのは明らかだ。"^^xsd:string ;
+:relatedTo :Line_242 .
+
+:TV_Line_243_JA a :TranslationVariant ;
+:text "恐ろしい事柄は、実に多くのためらいを加えるのです。"^^xsd:string ;
+:relatedTo :Line_243 .
+
+:TV_Line_244_JA a :TranslationVariant ;
+:text "では、いつか言うのか。それから解放されて去るのか。"^^xsd:string ;
+:relatedTo :Line_244 .
+
+:TV_Line_245_JA a :TranslationVariant ;
+:text "もう申します。誰かがたった今、死体を"^^xsd:string ;
+:relatedTo :Line_245 .
+
+:TV_Line_246_JA a :TranslationVariant ;
+:text "葬って去りました。そして肌の上に乾いた"^^xsd:string ;
+:relatedTo :Line_246 .
+
+:TV_Line_247_JA a :TranslationVariant ;
+:text "塵をまき、必要な清めを施して。"^^xsd:string ;
+:relatedTo :Line_247 .
+
+:TV_Line_248_JA a :TranslationVariant ;
+:text "何と言うのか。どの男がこれをあえてしたのか。"^^xsd:string ;
+:relatedTo :Line_248 .
+
+:TV_Line_249_JA a :TranslationVariant ;
+:text "知りません。あそこには鍬の"^^xsd:string ;
+:relatedTo :Line_249 .
+
+:TV_Line_250_JA a :TranslationVariant ;
+:text "打ち跡も、つるはしの掘り出しもありませんでした。固い地面は"^^xsd:string ;
+:relatedTo :Line_250 .
+
+:TV_Line_251_JA a :TranslationVariant ;
+:text "乾いて、割れ目もなく、車輪によって"^^xsd:string ;
+:relatedTo :Line_251 .
+
+:TV_Line_252_JA a :TranslationVariant ;
+:text "轍をつけられてもいませんでした。働いた者は跡を残さぬ誰かでした。"^^xsd:string ;
+:relatedTo :Line_252 .

@@ -1,0 +1,82 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-1-19-portuguese a owl:Ontology .
+# Portuguese translation variants for 1_to_19.ttl
+
+:TV_Line_001_PT a :TranslationVariant ;
+:text "Ó cabeça comum, irmã de sangue de Ismene,"^^xsd:string ;
+:relatedTo :Line_001 .
+
+:TV_Line_002_PT a :TranslationVariant ;
+:text "sabes que mal, dos males vindos de Édipo,"^^xsd:string ;
+:relatedTo :Line_002 .
+
+:TV_Line_003_PT a :TranslationVariant ;
+:text "Zeus não cumprirá ainda em nós duas, enquanto vivas?"^^xsd:string ;
+:relatedTo :Line_003 .
+
+:TV_Line_004_PT a :TranslationVariant ;
+:text "Pois nada há de doloroso, nem sem ruína,"^^xsd:string ;
+:relatedTo :Line_004 .
+
+:TV_Line_005_PT a :TranslationVariant ;
+:text "nem vergonhoso, nem desonrado,"^^xsd:string ;
+:relatedTo :Line_005 .
+
+:TV_Line_006_PT a :TranslationVariant ;
+:text "que eu não tenha visto entre os teus males e os meus."^^xsd:string ;
+:relatedTo :Line_006 .
+
+:TV_Line_007_PT a :TranslationVariant ;
+:text "E agora, que decreto é este que dizem novamente"^^xsd:string ;
+:relatedTo :Line_007 .
+
+:TV_Line_008_PT a :TranslationVariant ;
+:text "que o general acaba de impor à cidade inteira?"^^xsd:string ;
+:relatedTo :Line_008 .
+
+:TV_Line_009_PT a :TranslationVariant ;
+:text "Sabes algo e ouviste? Ou te escapa"^^xsd:string ;
+:relatedTo :Line_009 .
+
+:TV_Line_010_PT a :TranslationVariant ;
+:text "que males dos inimigos avançam contra os amigos?"^^xsd:string ;
+:relatedTo :Line_010 .
+
+:TV_Line_011_PT a :TranslationVariant ;
+:text "A mim, Antígona, nenhuma notícia dos amigos"^^xsd:string ;
+:relatedTo :Line_011 .
+
+:TV_Line_012_PT a :TranslationVariant ;
+:text "chegou, nem doce nem dolorosa, desde que"^^xsd:string ;
+:relatedTo :Line_012 .
+
+:TV_Line_013_PT a :TranslationVariant ;
+:text "nós duas fomos privadas de dois irmãos,"^^xsd:string ;
+:relatedTo :Line_013 .
+
+:TV_Line_014_PT a :TranslationVariant ;
+:text "mortos ambos num só dia por mão dupla;"^^xsd:string ;
+:relatedTo :Line_014 .
+
+:TV_Line_015_PT a :TranslationVariant ;
+:text "e desde que o exército dos argivos se foi"^^xsd:string ;
+:relatedTo :Line_015 .
+
+:TV_Line_016_PT a :TranslationVariant ;
+:text "nesta noite presente, nada sei de superior,"^^xsd:string ;
+:relatedTo :Line_016 .
+
+:TV_Line_017_PT a :TranslationVariant ;
+:text "nem que eu seja mais afortunada nem mais arruinada."^^xsd:string ;
+:relatedTo :Line_017 .
+
+:TV_Line_018_PT a :TranslationVariant ;
+:text "Eu bem sabia; e por isso te mandei sair"^^xsd:string ;
+:relatedTo :Line_018 .
+
+:TV_Line_019_PT a :TranslationVariant ;
+:text "para fora dos portões do pátio, para que ouvisses sozinha."^^xsd:string ;
+:relatedTo :Line_019 .

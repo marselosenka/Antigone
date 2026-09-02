@@ -1,0 +1,250 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:exodus-translations-1183-1243-bengali a owl:Ontology .
+# Bengali translation variants for 1183_to_1243.ttl
+
+:TV_Line_1183_BN a :TranslationVariant ;
+:text "হে সকল নাগরিক, আমি কথাগুলি শুনেছি"^^xsd:string ;
+:relatedTo :Line_1183 .
+
+:TV_Line_1184_BN a :TranslationVariant ;
+:text "বেরোতে বেরোতে, দেবী পাল্লাসের দিকে যাচ্ছিলাম,"^^xsd:string ;
+:relatedTo :Line_1184 .
+
+:TV_Line_1185_BN a :TranslationVariant ;
+:text "প্রার্থনার আবেদনকারী হয়ে যেন তার কাছে পৌঁছাই।"^^xsd:string ;
+:relatedTo :Line_1185 .
+
+:TV_Line_1186_BN a :TranslationVariant ;
+:text "আর ঠিক তখনই আমি টানা দরজার"^^xsd:string ;
+:relatedTo :Line_1186 .
+
+:TV_Line_1187_BN a :TranslationVariant ;
+:text "কপাটের বন্ধনী খুলছিলাম, আর ঘরোয়া অমঙ্গলের শব্দ"^^xsd:string ;
+:relatedTo :Line_1187 .
+
+:TV_Line_1188_BN a :TranslationVariant ;
+:text "আমার কানে আঘাত করল; ভয়ে আমি পেছনে হেলে পড়লাম"^^xsd:string ;
+:relatedTo :Line_1188 .
+
+:TV_Line_1189_BN a :TranslationVariant ;
+:text "দাসীদের কাছে, আর স্তব্ধ হয়ে গেলাম।"^^xsd:string ;
+:relatedTo :Line_1189 .
+
+:TV_Line_1190_BN a :TranslationVariant ;
+:text "কিন্তু ঘটনাটি যা ছিল, আবার বলো;"^^xsd:string ;
+:relatedTo :Line_1190 .
+
+:TV_Line_1191_BN a :TranslationVariant ;
+:text "কারণ অমঙ্গলে অনভিজ্ঞ নই—আমি শুনব।"^^xsd:string ;
+:relatedTo :Line_1191 .
+
+:TV_Line_1192_BN a :TranslationVariant ;
+:text "দূত: আমি বলব, প্রিয় গৃহস্বামিনী, কারণ আমি নিজে উপস্থিত ছিলাম,"^^xsd:string ;
+:relatedTo :Line_1192 .
+
+:TV_Line_1193_BN a :TranslationVariant ;
+:text "আর সত্যের একটি কথাও বাদ দেব না;"^^xsd:string ;
+:relatedTo :Line_1193 .
+
+:TV_Line_1194_BN a :TranslationVariant ;
+:text "কারণ পরে যার ব্যাপারে"^^xsd:string ;
+:relatedTo :Line_1194 .
+
+:TV_Line_1195_BN a :TranslationVariant ;
+:text "আমরা মিথ্যাবাদী বলে প্রকাশ হব, তা কেন নরম করে বলব? সত্য সর্বদা সোজা।"^^xsd:string ;
+:relatedTo :Line_1195 .
+
+:TV_Line_1196_BN a :TranslationVariant ;
+:text "আমি তোমার স্বামীর পদনেতা হয়ে তার অনুসরণ করেছিলাম"^^xsd:string ;
+:relatedTo :Line_1196 .
+
+:TV_Line_1197_BN a :TranslationVariant ;
+:text "সমতলের প্রান্তে, যেখানে তখনও পড়ে ছিল"^^xsd:string ;
+:relatedTo :Line_1197 .
+
+:TV_Line_1198_BN a :TranslationVariant ;
+:text "পলিনেইকেসের নির্মম, কুকুরে-ছিন্ন দেহ;"^^xsd:string ;
+:relatedTo :Line_1198 .
+
+:TV_Line_1199_BN a :TranslationVariant ;
+:text "আর প্রথমে পথদেবীকে"^^xsd:string ;
+:relatedTo :Line_1199 .
+
+:TV_Line_1200_BN a :TranslationVariant ;
+:text "ও প্লুটোনকে অনুরোধ করে, যেন তাদের ক্রোধ সদয়ভাবে সংযত হয়,"^^xsd:string ;
+:relatedTo :Line_1200 .
+
+:TV_Line_1201_BN a :TranslationVariant ;
+:text "আমরা তাকে পবিত্র স্নানে ধুইয়ে, সদ্য-কাটা"^^xsd:string ;
+:relatedTo :Line_1201 .
+
+:TV_Line_1202_BN a :TranslationVariant ;
+:text "ডালপালায় যা অবশিষ্ট ছিল তা একসঙ্গে দাহ করলাম,"^^xsd:string ;
+:relatedTo :Line_1202 .
+
+:TV_Line_1203_BN a :TranslationVariant ;
+:text "আর নিজ ভূমির মাটি তুলে সোজা-মাথা সমাধি বানিয়ে,"^^xsd:string ;
+:relatedTo :Line_1203 .
+
+:TV_Line_1204_BN a :TranslationVariant ;
+:text "আবার পাথর-বিছানো কন্যার"^^xsd:string ;
+:relatedTo :Line_1204 .
+
+:TV_Line_1205_BN a :TranslationVariant ;
+:text "হেডিসীয় বিবাহকক্ষ, ফাঁপা গুহার দিকে ঢুকলাম।"^^xsd:string ;
+:relatedTo :Line_1205 .
+
+:TV_Line_1206_BN a :TranslationVariant ;
+:text "দূর থেকে কেউ তীক্ষ্ণ বিলাপধ্বনি"^^xsd:string ;
+:relatedTo :Line_1206 .
+
+:TV_Line_1207_BN a :TranslationVariant ;
+:text "অন্ত্যেষ্টিহীন কক্ষের চারদিকে শুনল,"^^xsd:string ;
+:relatedTo :Line_1207 .
+
+:TV_Line_1208_BN a :TranslationVariant ;
+:text "আর এসে প্রভু ক্রেয়োনকে জানাল;"^^xsd:string ;
+:relatedTo :Line_1208 .
+
+:TV_Line_1209_BN a :TranslationVariant ;
+:text "তিনি আরও কাছে এগোতেই অস্পষ্ট দুর্দশার ডাক"^^xsd:string ;
+:relatedTo :Line_1209 .
+
+:TV_Line_1210_BN a :TranslationVariant ;
+:text "তার চারপাশে ছড়িয়ে এল; আর ক্রন্দন করে তিনি"^^xsd:string ;
+:relatedTo :Line_1210 .
+
+:TV_Line_1211_BN a :TranslationVariant ;
+:text "এক শোকপূর্ণ বাক্য ছুড়ে দিলেন: হে হতভাগা আমি,"^^xsd:string ;
+:relatedTo :Line_1211 .
+
+:TV_Line_1212_BN a :TranslationVariant ;
+:text "আমি কি তবে দ্রষ্টা? আমি কি হাঁটছি"^^xsd:string ;
+:relatedTo :Line_1212 .
+
+:TV_Line_1213_BN a :TranslationVariant ;
+:text "অতীত সব পথের মধ্যে সবচেয়ে দুর্ভাগ্যপূর্ণ পথে?"^^xsd:string ;
+:relatedTo :Line_1213 .
+
+:TV_Line_1214_BN a :TranslationVariant ;
+:text "পুত্রের কণ্ঠ আমাকে স্পর্শ করছে। কিন্তু, পরিচারকেরা,"^^xsd:string ;
+:relatedTo :Line_1214 .
+
+:TV_Line_1215_BN a :TranslationVariant ;
+:text "দ্রুত আরও কাছে যাও, আর সমাধির পাশে দাঁড়িয়ে"^^xsd:string ;
+:relatedTo :Line_1215 .
+
+:TV_Line_1216_BN a :TranslationVariant ;
+:text "পাথর-সরানো মাটির সংযোগস্থল দেখো,"^^xsd:string ;
+:relatedTo :Line_1216 .
+
+:TV_Line_1217_BN a :TranslationVariant ;
+:text "ঠিক মুখ পর্যন্ত ঢুকে দেখে নাও, আমি হাইমনের"^^xsd:string ;
+:relatedTo :Line_1217 .
+
+:TV_Line_1218_BN a :TranslationVariant ;
+:text "কণ্ঠ বুঝছি কি না, নাকি দেবতারা আমাকে প্রতারণা করছেন।"^^xsd:string ;
+:relatedTo :Line_1218 .
+
+:TV_Line_1219_BN a :TranslationVariant ;
+:text "নিরুৎসাহ প্রভুর এই আদেশে"^^xsd:string ;
+:relatedTo :Line_1219 .
+
+:TV_Line_1220_BN a :TranslationVariant ;
+:text "আমরা দেখছিলাম; আর সমাধির একেবারে শেষ অংশে"^^xsd:string ;
+:relatedTo :Line_1220 .
+
+:TV_Line_1221_BN a :TranslationVariant ;
+:text "তাকে গলায় ঝুলন্ত অবস্থায় দেখলাম,"^^xsd:string ;
+:relatedTo :Line_1221 .
+
+:TV_Line_1222_BN a :TranslationVariant ;
+:text "সূক্ষ্ম কাপড়ের বোনা ফাঁসিতে বাঁধা,"^^xsd:string ;
+:relatedTo :Line_1222 .
+
+:TV_Line_1223_BN a :TranslationVariant ;
+:text "আর তাকে তার কোমরের চারপাশে লুটিয়ে লেগে থাকতে,"^^xsd:string ;
+:relatedTo :Line_1223 .
+
+:TV_Line_1224_BN a :TranslationVariant ;
+:text "নিচের শয্যার ধ্বংসের জন্য বিলাপ করছে,"^^xsd:string ;
+:relatedTo :Line_1224 .
+
+:TV_Line_1225_BN a :TranslationVariant ;
+:text "আর পিতার কাজগুলির জন্য, আর দুর্ভাগা বিবাহশয্যার জন্য।"^^xsd:string ;
+:relatedTo :Line_1225 .
+
+:TV_Line_1226_BN a :TranslationVariant ;
+:text "আর তিনি যখন তাকে দেখলেন, ঘৃণাভরা বিলাপ করে ভেতরে"^^xsd:string ;
+:relatedTo :Line_1226 .
+
+:TV_Line_1227_BN a :TranslationVariant ;
+:text "তার দিকে গেলেন, আর হাহাকার করে ডাকলেন:"^^xsd:string ;
+:relatedTo :Line_1227 .
+
+:TV_Line_1228_BN a :TranslationVariant ;
+:text "হে সহিষ্ণু দুর্ভাগা, কেমন কাজ করেছ? কোন"^^xsd:string ;
+:relatedTo :Line_1228 .
+
+:TV_Line_1229_BN a :TranslationVariant ;
+:text "বুদ্ধি ছিল তোমার? কোন বিপর্যয়ে তুমি নষ্ট হলে?"^^xsd:string ;
+:relatedTo :Line_1229 .
+
+:TV_Line_1230_BN a :TranslationVariant ;
+:text "বেরিয়ে এসো, সন্তান; প্রার্থনাকারী হয়ে তোমাকে মিনতি করছি।"^^xsd:string ;
+:relatedTo :Line_1230 .
+
+:TV_Line_1231_BN a :TranslationVariant ;
+:text "কিন্তু ছেলে বন্য চোখে তার দিকে তাকিয়ে,"^^xsd:string ;
+:relatedTo :Line_1231 .
+
+:TV_Line_1232_BN a :TranslationVariant ;
+:text "তার মুখে থুথু ফেলে, কোনো জবাব না দিয়ে, তলোয়ারের"^^xsd:string ;
+:relatedTo :Line_1232 .
+
+:TV_Line_1233_BN a :TranslationVariant ;
+:text "দ্বিগুণ দাঁত টেনে বের করল; আর ধেয়ে-আসা"^^xsd:string ;
+:relatedTo :Line_1233 .
+
+:TV_Line_1234_BN a :TranslationVariant ;
+:text "পিতা পালিয়ে যাওয়ায় তাকে মিস করল; তারপর হতভাগা,"^^xsd:string ;
+:relatedTo :Line_1234 .
+
+:TV_Line_1235_BN a :TranslationVariant ;
+:text "নিজের উপর ক্রুদ্ধ হয়ে, যেমন ছিল, নিজের দিকে ঝুঁকে"^^xsd:string ;
+:relatedTo :Line_1235 .
+
+:TV_Line_1236_BN a :TranslationVariant ;
+:text "তলোয়ারটি নিজের পাশের মাঝখানে গেঁথে দিল; আর ভেজা"^^xsd:string ;
+:relatedTo :Line_1236 .
+
+:TV_Line_1237_BN a :TranslationVariant ;
+:text "বাহুতে এখনও সচেতন অবস্থায় কুমারীকে জড়িয়ে ধরল;"^^xsd:string ;
+:relatedTo :Line_1237 .
+
+:TV_Line_1238_BN a :TranslationVariant ;
+:text "আর হাঁপাতে হাঁপাতে তীব্র স্রোত ছুড়ে দিল"^^xsd:string ;
+:relatedTo :Line_1238 .
+
+:TV_Line_1239_BN a :TranslationVariant ;
+:text "রক্তাক্ত ফোঁটার, তার শুভ্র গালে।"^^xsd:string ;
+:relatedTo :Line_1239 .
+
+:TV_Line_1240_BN a :TranslationVariant ;
+:text "মৃত হয়ে সে মৃতের পাশে পড়ে আছে, হতভাগা,"^^xsd:string ;
+:relatedTo :Line_1240 .
+
+:TV_Line_1241_BN a :TranslationVariant ;
+:text "হেডিসের গৃহে বিবাহের পূর্ণতা পেয়ে,"^^xsd:string ;
+:relatedTo :Line_1241 .
+
+:TV_Line_1242_BN a :TranslationVariant ;
+:text "মানুষদের মধ্যে দেখিয়ে দিয়ে যে অবিবেচনা"^^xsd:string ;
+:relatedTo :Line_1242 .
+
+:TV_Line_1243_BN a :TranslationVariant ;
+:text "মানুষের সঙ্গে যুক্ত সবচেয়ে বড় অমঙ্গল।"^^xsd:string ;
+:relatedTo :Line_1243 .

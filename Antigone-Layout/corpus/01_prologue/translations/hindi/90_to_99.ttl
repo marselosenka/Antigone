@@ -1,0 +1,46 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-90-99-hindi a owl:Ontology .
+# Hindi translation variants for 90_to_99.ttl
+
+:TV_Line_090_HI a :TranslationVariant ;
+:text "यदि तू कर भी सके; पर तू असंभव चीज़ों से प्रेम करती है।"^^xsd:string ;
+:relatedTo :Line_090 .
+
+:TV_Line_091_HI a :TranslationVariant ;
+:text "तो जब मैं सचमुच सामर्थ्य न रखूँगी, रुक जाऊँगी।"^^xsd:string ;
+:relatedTo :Line_091 .
+
+:TV_Line_092_HI a :TranslationVariant ;
+:text "आरम्भ से ही असंभव चीज़ों का पीछा करना उचित नहीं।"^^xsd:string ;
+:relatedTo :Line_092 .
+
+:TV_Line_093_HI a :TranslationVariant ;
+:text "यदि तू ये बातें कहेगी, तो मेरी ओर से घृणित होगी,"^^xsd:string ;
+:relatedTo :Line_093 .
+
+:TV_Line_094_HI a :TranslationVariant ;
+:text "और मृतक के लिए भी न्यायपूर्वक घृणित पड़ी रहेगी।"^^xsd:string ;
+:relatedTo :Line_094 .
+
+:TV_Line_095_HI a :TranslationVariant ;
+:text "पर मुझे और मेरी मूर्खता को छोड़ दे"^^xsd:string ;
+:relatedTo :Line_095 .
+
+:TV_Line_096_HI a :TranslationVariant ;
+:text "यह भयानक चीज़ सहने के लिए; क्योंकि मैं ऐसा कुछ नहीं सहूँगी"^^xsd:string ;
+:relatedTo :Line_096 .
+
+:TV_Line_097_HI a :TranslationVariant ;
+:text "जो इतना बड़ा हो कि मैं सुंदर ढंग से मर न सकूँ।"^^xsd:string ;
+:relatedTo :Line_097 .
+
+:TV_Line_098_HI a :TranslationVariant ;
+:text "तो यदि तुझे उचित लगता है, जा; पर यह जान कि"^^xsd:string ;
+:relatedTo :Line_098 .
+
+:TV_Line_099_HI a :TranslationVariant ;
+:text "तू अबुद्धि होकर जा रही है, पर मित्रों के लिए ठीक ही प्रिय है।"^^xsd:string ;
+:relatedTo :Line_099 .

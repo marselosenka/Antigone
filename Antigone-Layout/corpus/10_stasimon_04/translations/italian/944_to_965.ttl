@@ -1,0 +1,78 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:stasimon_04-translations-944-965-italian a owl:Ontology .
+# Italian translation variants for 944_to_965.ttl
+
+:TV_Line_944_IT a :TranslationVariant ;
+:text "Sopportò anche Danae di mutare la luce celeste"^^xsd:string ;
+:relatedTo :Line_944 .
+
+:TV_Line_945_IT a :TranslationVariant ;
+:text "con il corpo in cortili legati di bronzo;"^^xsd:string ;
+:relatedTo :Line_945 .
+
+:TV_Line_946_IT a :TranslationVariant ;
+:text "nascosta in una camera simile a tomba, fu aggiogata;"^^xsd:string ;
+:relatedTo :Line_946 .
+
+:TV_Line_947_IT a :TranslationVariant ;
+:text "eppure anche per stirpe era onorata, o figlia, figlia,"^^xsd:string ;
+:relatedTo :Line_947 .
+
+# Lines 948 and 949 do not exist in canonical.
+
+:TV_Line_950_IT a :TranslationVariant ;
+:text "e custodiva il seme di Zeus, fluente d’oro."^^xsd:string ;
+:relatedTo :Line_950 .
+
+:TV_Line_951_IT a :TranslationVariant ;
+:text "Ma una certa potenza del destino è terribile;"^^xsd:string ;
+:relatedTo :Line_951 .
+
+:TV_Line_952_IT a :TranslationVariant ;
+:text "né ricchezza, né Ares, né torre, né nere navi"^^xsd:string ;
+:relatedTo :Line_952 .
+
+:TV_Line_953_IT a :TranslationVariant ;
+:text "battute dal mare potrebbero sfuggirle."^^xsd:string ;
+:relatedTo :Line_953 .
+
+# Line 954 does not exist in canonical.
+
+:TV_Line_955_IT a :TranslationVariant ;
+:text "Fu aggiogato anche il figlio iracondo di Driante,"^^xsd:string ;
+:relatedTo :Line_955 .
+
+:TV_Line_956_IT a :TranslationVariant ;
+:text "re degli Edoni, per le sue collere beffarde,"^^xsd:string ;
+:relatedTo :Line_956 .
+
+:TV_Line_957_IT a :TranslationVariant ;
+:text "da Dioniso, rinchiuso in un vincolo roccioso."^^xsd:string ;
+:relatedTo :Line_957 .
+
+:TV_Line_958_IT a :TranslationVariant ;
+:text "Così stilla via la terribile forza della follia"^^xsd:string ;
+:relatedTo :Line_958 .
+
+# Line 959 does not exist in canonical.
+
+:TV_Line_960_IT a :TranslationVariant ;
+:text "e il vigore fiorente. Quello riconobbe, nelle follie,"^^xsd:string ;
+:relatedTo :Line_960 .
+
+:TV_Line_961_IT a :TranslationVariant ;
+:text "di aver toccato il dio con lingue beffarde."^^xsd:string ;
+:relatedTo :Line_961 .
+
+:TV_Line_962_IT a :TranslationVariant ;
+:text "Infatti tratteneva le donne invasate e il fuoco euio,"^^xsd:string ;
+:relatedTo :Line_962 .
+
+# Lines 963 and 964 do not exist in canonical.
+
+:TV_Line_965_IT a :TranslationVariant ;
+:text "e irritava le Muse amanti del flauto."^^xsd:string ;
+:relatedTo :Line_965 .

@@ -1,0 +1,22 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-631-634-japanese a owl:Ontology .
+# Japanese translation variants for 631_to_634.ttl
+
+:TV_Line_631_JA a :TranslationVariant ;
+:text "まもなく私たちは、予言者たちよりも確かに知るだろう。"^^xsd:string ;
+:relatedTo :Line_631 .
+
+:TV_Line_632_JA a :TranslationVariant ;
+:text "おお、息子よ、まだ花嫁となるべき女についての"^^xsd:string ;
+:relatedTo :Line_632 .
+
+:TV_Line_633_JA a :TranslationVariant ;
+:text "最終の決定を聞いて、父に怒り狂って来たのか。"^^xsd:string ;
+:relatedTo :Line_633 .
+
+:TV_Line_634_JA a :TranslationVariant ;
+:text "それとも、私たちはどこでも、何をしても、お前には友なのか。"^^xsd:string ;
+:relatedTo :Line_634 .

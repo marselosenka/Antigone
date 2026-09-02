@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-bengali a owl:Ontology .
+# Bengali translation variants for 211_to_222.ttl
+
+:TV_Line_211_BN a :TranslationVariant ;
+:text "মেনোইকেউসের পুত্র, তোমার কাছে এ কাজই ভালো লাগে,"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_BN a :TranslationVariant ;
+:text "এই নগরের প্রতি শত্রুভাবাপন্ন ও শুভভাবাপন্ন লোকের সঙ্গে করা;"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_BN a :TranslationVariant ;
+:text "আর সব আইন ব্যবহার করা তোমার ক্ষমতার মধ্যেই আছে,"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_BN a :TranslationVariant ;
+:text "মৃতদের বিষয়েও, আর আমরা যারা বেঁচে আছি তাদের বিষয়েও।"^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_BN a :TranslationVariant ;
+:text "তাহলে এখন তোমরা বলা কথাগুলির প্রহরী হও।"^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_BN a :TranslationVariant ;
+:text "এ কাজ বহন করার ভার কোনো তরুণের উপর দাও।"^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_BN a :TranslationVariant ;
+:text "কিন্তু মৃতদেহের জন্য প্রস্তুত প্রহরী আছে।"^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_BN a :TranslationVariant ;
+:text "তবে এর বাইরে আর কী আদেশ দেবে?"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_BN a :TranslationVariant ;
+:text "এই আদেশ অমান্যকারীদের পক্ষ নিতে দিও না।"^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_BN a :TranslationVariant ;
+:text "এত মূর্খ কেউ নেই যে মরতে ভালোবাসে।"^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_BN a :TranslationVariant ;
+:text "তবু এ-ই মজুরি; কিন্তু আশার দ্বারা"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_BN a :TranslationVariant ;
+:text "লাভের লোভ বহুবার মানুষকে ধ্বংস করেছে।"^^xsd:string ;
+:relatedTo :Line_222 .

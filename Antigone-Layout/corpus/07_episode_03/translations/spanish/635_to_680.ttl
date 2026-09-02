@@ -1,0 +1,53 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-spanish a owl:Ontology .
+# Spanish translation variants for 635_to_680.ttl
+
+:TV_Line_635_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_635 ; :text "Padre, soy tuyo, y tú, con buenos juicios,"^^xsd:string .
+:TV_Line_636_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_636 ; :text "enderezas mi camino; yo los seguiré."^^xsd:string .
+:TV_Line_637_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_637 ; :text "Para mí, ningún matrimonio será considerado"^^xsd:string .
+:TV_Line_638_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_638 ; :text "más valioso que tu buena guía."^^xsd:string .
+:TV_Line_639_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_639 ; :text "Así, hijo, conviene guardarlo dentro del pecho:"^^xsd:string .
+:TV_Line_640_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_640 ; :text "estar siempre detrás del juicio del padre."^^xsd:string .
+:TV_Line_641_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_641 ; :text "Por eso los hombres ruegan engendrar hijos"^^xsd:string .
+:TV_Line_642_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_642 ; :text "obedientes y tenerlos en sus casas,"^^xsd:string .
+:TV_Line_643_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_643 ; :text "para que paguen al enemigo con males"^^xsd:string .
+:TV_Line_644_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_644 ; :text "y honren al amigo igual que a su padre."^^xsd:string .
+:TV_Line_645_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_645 ; :text "Pero quien cría hijos inútiles,"^^xsd:string .
+:TV_Line_646_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_646 ; :text "¿qué dirías que engendra sino penas para sí mismo"^^xsd:string .
+:TV_Line_647_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_647 ; :text "y mucha risa para sus enemigos?"^^xsd:string .
+:TV_Line_648_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_648 ; :text "No expulses nunca, hijo, tu sensatez por placer,"^^xsd:string .
+:TV_Line_649_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_649 ; :text "a causa de una mujer, sabiendo que"^^xsd:string .
+:TV_Line_650_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_650 ; :text "eso se vuelve un abrazo frío:"^^xsd:string .
+:TV_Line_651_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_651 ; :text "una mala esposa compartiendo el lecho en casa. Pues ¿qué"^^xsd:string .
+:TV_Line_652_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_652 ; :text "herida podría ser mayor que un mal amigo?"^^xsd:string .
+:TV_Line_653_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_653 ; :text "Así que escúpela, como a una enemiga, y déjala"^^xsd:string .
+:TV_Line_654_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_654 ; :text "casarse con alguien allá en el Hades."^^xsd:string .
+:TV_Line_655_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_655 ; :text "Pues ya que yo la sorprendí claramente"^^xsd:string .
+:TV_Line_656_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_656 ; :text "desobedeciendo, ella sola entre toda la ciudad,"^^xsd:string .
+:TV_Line_657_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_657 ; :text "no me convertiré en mentiroso ante la ciudad,"^^xsd:string .
+:TV_Line_658_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_658 ; :text "sino que la mataré. Ante eso, que invoque a Zeus,"^^xsd:string .
+:TV_Line_659_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_659 ; :text "dios de la sangre común. Pues si a los nacidos en mi propia casa"^^xsd:string .
+:TV_Line_660_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_660 ; :text "los crío indisciplinados, mucho más a los de fuera del linaje."^^xsd:string .
+:TV_Line_661_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_661 ; :text "Pues quien es hombre recto entre los suyos"^^xsd:string .
+:TV_Line_662_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_662 ; :text "también aparecerá justo en la ciudad."^^xsd:string .
+:TV_Line_663_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_663 ; :text "Pero quien, transgrediendo, violenta las leyes"^^xsd:string .
+:TV_Line_664_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_664 ; :text "o piensa dar órdenes a quienes gobiernan,"^^xsd:string .
+:TV_Line_665_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_665 ; :text "ese no recibirá alabanza de mí."^^xsd:string .
+:TV_Line_666_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_666 ; :text "Al contrario, a quien la ciudad coloque en el poder, a ese hay que obedecerlo"^^xsd:string .
+:TV_Line_667_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_667 ; :text "en lo pequeño, en lo justo y en lo contrario."^^xsd:string .
+:TV_Line_668_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_668 ; :text "Y yo confiaría en que ese hombre"^^xsd:string .
+:TV_Line_669_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_669 ; :text "gobernara bien y quisiera ser bien gobernado,"^^xsd:string .
+:TV_Line_670_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_670 ; :text "y que, puesto en la tormenta de las lanzas,"^^xsd:string .
+:TV_Line_671_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_671 ; :text "permaneciera como compañero justo y valiente."^^xsd:string .
+:TV_Line_672_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_672 ; :text "No hay mal mayor que la falta de mando."^^xsd:string .
+:TV_Line_673_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_673 ; :text "Ella destruye ciudades; ella deja desiertas"^^xsd:string .
+:TV_Line_674_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_674 ; :text "las casas; ella, en la lanza aliada,"^^xsd:string .
+:TV_Line_675_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_675 ; :text "rompe las líneas y causa derrotas; pero de quienes se mantienen firmes"^^xsd:string .
+:TV_Line_676_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_676 ; :text "la obediencia salva la mayoría de los cuerpos."^^xsd:string .
+:TV_Line_677_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_677 ; :text "Así hay que defender a quienes guardan el orden,"^^xsd:string .
+:TV_Line_678_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_678 ; :text "y de ningún modo ser vencidos por una mujer."^^xsd:string .
+:TV_Line_679_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_679 ; :text "Es mejor, si hace falta, caer a manos de un hombre,"^^xsd:string .
+:TV_Line_680_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_680 ; :text "y no ser llamados inferiores a las mujeres."^^xsd:string .

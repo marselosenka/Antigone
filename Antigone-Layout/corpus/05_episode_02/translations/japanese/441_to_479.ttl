@@ -1,0 +1,162 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-441-479-japanese a owl:Ontology .
+# Japanese translation variants for 441_to_479.ttl
+
+:TV_Line_441_JA a :TranslationVariant ;
+:text "お前だ、お前、頭を地面へうなだれている女よ、"^^xsd:string ;
+:relatedTo :Line_441 .
+
+:TV_Line_442_JA a :TranslationVariant ;
+:text "これを行ったと言うのか、それとも行っていないと否認するのか。"^^xsd:string ;
+:relatedTo :Line_442 .
+
+:TV_Line_443_JA a :TranslationVariant ;
+:text "私は行ったと言い、行っていないとは否認しません。"^^xsd:string ;
+:relatedTo :Line_443 .
+
+:TV_Line_444_JA a :TranslationVariant ;
+:text "お前は望む所へ自分自身を運んで行ってよい、"^^xsd:string ;
+:relatedTo :Line_444 .
+
+:TV_Line_445_JA a :TranslationVariant ;
+:text "重い責めから自由になって外へ。"^^xsd:string ;
+:relatedTo :Line_445 .
+
+:TV_Line_446_JA a :TranslationVariant ;
+:text "だがお前は私に言え、長くではなく、簡潔に、"^^xsd:string ;
+:relatedTo :Line_446 .
+
+:TV_Line_447_JA a :TranslationVariant ;
+:text "これをしてはならぬと布告されていたことを知っていたのか。"^^xsd:string ;
+:relatedTo :Line_447 .
+
+:TV_Line_448_JA a :TranslationVariant ;
+:text "知っていました。どうして知らずにいられたでしょう。明白だったのですから。"^^xsd:string ;
+:relatedTo :Line_448 .
+
+:TV_Line_449_JA a :TranslationVariant ;
+:text "それでなお、その法を踏み越えることをあえてしたのか。"^^xsd:string ;
+:relatedTo :Line_449 .
+
+:TV_Line_450_JA a :TranslationVariant ;
+:text "ゼウスが私にこれを布告したのではありません。"^^xsd:string ;
+:relatedTo :Line_450 .
+
+:TV_Line_451_JA a :TranslationVariant ;
+:text "また下の神々と同居するディケーも"^^xsd:string ;
+:relatedTo :Line_451 .
+
+:TV_Line_452_JA a :TranslationVariant ;
+:text "人間たちの間にそのような法を定めませんでした。"^^xsd:string ;
+:relatedTo :Line_452 .
+
+:TV_Line_453_JA a :TranslationVariant ;
+:text "また、あなたの布告がそれほどの力を持つとは思いませんでした、"^^xsd:string ;
+:relatedTo :Line_453 .
+
+:TV_Line_454_JA a :TranslationVariant ;
+:text "書かれておらず確かな神々の"^^xsd:string ;
+:relatedTo :Line_454 .
+
+:TV_Line_455_JA a :TranslationVariant ;
+:text "掟を、死すべき者であるあなたが踏み越えられるほどに。"^^xsd:string ;
+:relatedTo :Line_455 .
+
+:TV_Line_456_JA a :TranslationVariant ;
+:text "それらは今や昨日のものではなく、いつも常に"^^xsd:string ;
+:relatedTo :Line_456 .
+
+:TV_Line_457_JA a :TranslationVariant ;
+:text "生きています。そして誰も、いつから現れたかを知りません。"^^xsd:string ;
+:relatedTo :Line_457 .
+
+:TV_Line_458_JA a :TranslationVariant ;
+:text "これらについて、私はどんな男の"^^xsd:string ;
+:relatedTo :Line_458 .
+
+:TV_Line_459_JA a :TranslationVariant ;
+:text "考えを恐れて、神々の前で罰を"^^xsd:string ;
+:relatedTo :Line_459 .
+
+:TV_Line_460_JA a :TranslationVariant ;
+:text "払うつもりはありませんでした。死ぬことはよく知っていました、どうして知らないでしょう。"^^xsd:string ;
+:relatedTo :Line_460 .
+
+:TV_Line_461_JA a :TranslationVariant ;
+:text "たとえあなたが前もって布告していなかったとしても。もし定められた時より"^^xsd:string ;
+:relatedTo :Line_461 .
+
+:TV_Line_462_JA a :TranslationVariant ;
+:text "先に死ぬなら、私はそれを利益と言います。"^^xsd:string ;
+:relatedTo :Line_462 .
+
+:TV_Line_463_JA a :TranslationVariant ;
+:text "というのも、私のように多くの災いの中で"^^xsd:string ;
+:relatedTo :Line_463 .
+
+:TV_Line_464_JA a :TranslationVariant ;
+:text "生きる者にとって、死ぬことがどうして利益をもたらさないでしょう。"^^xsd:string ;
+:relatedTo :Line_464 .
+
+:TV_Line_465_JA a :TranslationVariant ;
+:text "そのように私には、この死の運命に出会うことは"^^xsd:string ;
+:relatedTo :Line_465 .
+
+:TV_Line_466_JA a :TranslationVariant ;
+:text "少しの苦痛でもありません。しかし、もし私の"^^xsd:string ;
+:relatedTo :Line_466 .
+
+:TV_Line_467_JA a :TranslationVariant ;
+:text "母から生まれて死んだ者の屍を葬られぬまま耐えたなら、"^^xsd:string ;
+:relatedTo :Line_467 .
+
+:TV_Line_468_JA a :TranslationVariant ;
+:text "そのことには苦しんだでしょう。これらのことには苦しみません。"^^xsd:string ;
+:relatedTo :Line_468 .
+
+:TV_Line_469_JA a :TranslationVariant ;
+:text "そしてもし私が今、愚かなことをしていると思われるなら、"^^xsd:string ;
+:relatedTo :Line_469 .
+
+:TV_Line_470_JA a :TranslationVariant ;
+:text "おそらく愚かな者に、愚かさの罪を負っているのでしょう。"^^xsd:string ;
+:relatedTo :Line_470 .
+
+:TV_Line_471_JA a :TranslationVariant ;
+:text "その子の生まれは、荒々しい父からの荒々しさを示している。"^^xsd:string ;
+:relatedTo :Line_471 .
+
+:TV_Line_472_JA a :TranslationVariant ;
+:text "災いに譲ることを彼女は知らない。"^^xsd:string ;
+:relatedTo :Line_472 .
+
+:TV_Line_473_JA a :TranslationVariant ;
+:text "だがよく知れ、あまりに堅い考えは"^^xsd:string ;
+:relatedTo :Line_473 .
+
+:TV_Line_474_JA a :TranslationVariant ;
+:text "最もよく倒れる。そして最も強い"^^xsd:string ;
+:relatedTo :Line_474 .
+
+:TV_Line_475_JA a :TranslationVariant ;
+:text "鉄が、火で焼かれ、硬くなりすぎると、"^^xsd:string ;
+:relatedTo :Line_475 .
+
+:TV_Line_476_JA a :TranslationVariant ;
+:text "砕け、裂けるのを数多く見るだろう。"^^xsd:string ;
+:relatedTo :Line_476 .
+
+:TV_Line_477_JA a :TranslationVariant ;
+:text "小さな轡で、怒り立つ"^^xsd:string ;
+:relatedTo :Line_477 .
+
+:TV_Line_478_JA a :TranslationVariant ;
+:text "馬たちが整えられるのを私は知っている。というのも、"^^xsd:string ;
+:relatedTo :Line_478 .
+
+:TV_Line_479_JA a :TranslationVariant ;
+:text "隣人たちの奴隷である者が大きく考えることはできないからだ。"^^xsd:string ;
+:relatedTo :Line_479 .

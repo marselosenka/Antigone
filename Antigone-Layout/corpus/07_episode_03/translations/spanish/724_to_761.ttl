@@ -1,0 +1,45 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-spanish a owl:Ontology .
+# Spanish translation variants for 724_to_761.ttl
+
+:TV_Line_724_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_724 ; :text "Señor, es justo que tú, si él dice algo oportuno,"^^xsd:string .
+:TV_Line_725_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_725 ; :text "aprendas, y tú a tu vez de este; pues se ha hablado bien por ambas partes."^^xsd:string .
+:TV_Line_726_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_726 ; :text "¿Nosotros, a nuestra edad, tendremos que aprender"^^xsd:string .
+:TV_Line_727_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_727 ; :text "a razonar de un hombre tan joven por naturaleza?"^^xsd:string .
+:TV_Line_728_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_728 ; :text "Nada que no sea justo; y si yo soy joven,"^^xsd:string .
+:TV_Line_729_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_729 ; :text "hay que mirar más a los hechos que al tiempo."^^xsd:string .
+:TV_Line_730_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_730 ; :text "¿Acaso es una obra honrar a quienes desordenan?"^^xsd:string .
+:TV_Line_731_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_731 ; :text "Ni siquiera ordenaría venerar a los malvados."^^xsd:string .
+:TV_Line_732_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_732 ; :text "¿No ha sido ella tomada por una enfermedad semejante?"^^xsd:string .
+:TV_Line_733_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_733 ; :text "No lo dice el pueblo que comparte esta ciudad de Tebas."^^xsd:string .
+:TV_Line_734_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_734 ; :text "¿La ciudad me dirá cómo debo gobernar?"^^xsd:string .
+:TV_Line_735_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_735 ; :text "¿Ves cómo has hablado demasiado como joven?"^^xsd:string .
+:TV_Line_736_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_736 ; :text "¿Debo gobernar esta tierra para otro y no para mí?"^^xsd:string .
+:TV_Line_737_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_737 ; :text "No existe ciudad que pertenezca a un solo hombre."^^xsd:string .
+:TV_Line_738_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_738 ; :text "¿No se considera que la ciudad pertenece a quien manda?"^^xsd:string .
+:TV_Line_739_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_739 ; :text "Muy bien gobernarías tú solo una tierra desierta."^^xsd:string .
+:TV_Line_740_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_740 ; :text "Este, según parece, combate como aliado de la mujer."^^xsd:string .
+:TV_Line_741_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_741 ; :text "Si tú eres una mujer; pues por ti me preocupo."^^xsd:string .
+:TV_Line_742_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_742 ; :text "¡Malvado total, entras en juicio contra tu padre!"^^xsd:string .
+:TV_Line_743_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_743 ; :text "Porque veo que te equivocas contra la justicia."^^xsd:string .
+:TV_Line_744_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_744 ; :text "¿Me equivoco al venerar mi propia autoridad?"^^xsd:string .
+:TV_Line_745_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_745 ; :text "No la veneras, pues pisoteas los honores de los dioses."^^xsd:string .
+:TV_Line_746_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_746 ; :text "¡Carácter impuro, inferior a una mujer!"^^xsd:string .
+:TV_Line_747_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_747 ; :text "No me hallarías vencido por cosas vergonzosas."^^xsd:string .
+:TV_Line_748_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_748 ; :text "Al menos todo tu discurso es en favor de ella."^^xsd:string .
+:TV_Line_749_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_749 ; :text "Y también de ti, de mí y de los dioses de abajo."^^xsd:string .
+:TV_Line_750_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_750 ; :text "Jamás te casarás con ella mientras siga viva."^^xsd:string .
+:TV_Line_751_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_751 ; :text "Ella morirá, sí, y al morir destruirá a alguien."^^xsd:string .
+:TV_Line_752_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_752 ; :text "¿Así, amenazando, avanzas con tanta audacia?"^^xsd:string .
+:TV_Line_753_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_753 ; :text "¿Qué amenaza hay en hablar contra opiniones vacías?"^^xsd:string .
+:TV_Line_754_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_754 ; :text "Aprenderás cordura llorando, estando tú mismo vacío de razón."^^xsd:string .
+:TV_Line_755_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_755 ; :text "Si no fueras mi padre, diría que no razonas bien."^^xsd:string .
+:TV_Line_756_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_756 ; :text "Siervo de una mujer, no me halagues con charla."^^xsd:string .
+:TV_Line_757_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_757 ; :text "¿Quieres hablar algo y, hablando, no escuchar nada?"^^xsd:string .
+:TV_Line_758_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_758 ; :text "¿De verdad? Pues por este Olimpo, sábelo,"^^xsd:string .
+:TV_Line_759_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_759 ; :text "no me insultarás alegremente con reproches."^^xsd:string .
+:TV_Line_760_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_760 ; :text "Trae a esa cosa odiosa, para que ante sus ojos, al instante,"^^xsd:string .
+:TV_Line_761_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_761 ; :text "muera estando él presente, cerca de su novio."^^xsd:string .

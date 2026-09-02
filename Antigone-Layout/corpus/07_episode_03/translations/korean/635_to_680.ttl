@@ -1,0 +1,190 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-635-680-korean a owl:Ontology .
+# Korean translation variants for 635_to_680.ttl
+
+:TV_Line_635_KO a :TranslationVariant ;
+:text "아버지, 저는 아버지의 것입니다. 아버지는 제게 훌륭한"^^xsd:string ;
+:relatedTo :Line_635 .
+
+:TV_Line_636_KO a :TranslationVariant ;
+:text "판단들을 가지고 저를 바로잡으시며, 저는 그것들을 따르겠습니다."^^xsd:string ;
+:relatedTo :Line_636 .
+
+:TV_Line_637_KO a :TranslationVariant ;
+:text "제게는 어떤 혼인도"^^xsd:string ;
+:relatedTo :Line_637 .
+
+:TV_Line_638_KO a :TranslationVariant ;
+:text "아버지께서 훌륭하게 이끄시는 것보다 더 크게 여겨지지 않을 것입니다."^^xsd:string ;
+:relatedTo :Line_638 .
+
+:TV_Line_639_KO a :TranslationVariant ;
+:text "그렇게, 아들아, 가슴속에 두어야 한다,"^^xsd:string ;
+:relatedTo :Line_639 .
+
+:TV_Line_640_KO a :TranslationVariant ;
+:text "아버지의 판단 뒤에 모든 것을 세워야 한다고."^^xsd:string ;
+:relatedTo :Line_640 .
+
+:TV_Line_641_KO a :TranslationVariant ;
+:text "이 때문에 남자들은 집 안에 순종하는"^^xsd:string ;
+:relatedTo :Line_641 .
+
+:TV_Line_642_KO a :TranslationVariant ;
+:text "자식들을 낳아 가지기를 기도한다,"^^xsd:string ;
+:relatedTo :Line_642 .
+
+:TV_Line_643_KO a :TranslationVariant ;
+:text "적에게는 악으로 맞서 갚고,"^^xsd:string ;
+:relatedTo :Line_643 .
+
+:TV_Line_644_KO a :TranslationVariant ;
+:text "친구는 아버지와 똑같이 공경하게 하려고."^^xsd:string ;
+:relatedTo :Line_644 .
+
+:TV_Line_645_KO a :TranslationVariant ;
+:text "그러나 쓸모없는 자식들을 낳는 자를,"^^xsd:string ;
+:relatedTo :Line_645 .
+
+:TV_Line_646_KO a :TranslationVariant ;
+:text "그에게 무엇을 말하겠느냐, 자기 자신에게 고통들을"^^xsd:string ;
+:relatedTo :Line_646 .
+
+:TV_Line_647_KO a :TranslationVariant ;
+:text "낳고, 적들에게 많은 웃음을 낳는 것 말고?"^^xsd:string ;
+:relatedTo :Line_647 .
+
+:TV_Line_648_KO a :TranslationVariant ;
+:text "그러니 결코, 아들아, 쾌락 때문에 네 마음을"^^xsd:string ;
+:relatedTo :Line_648 .
+
+:TV_Line_649_KO a :TranslationVariant ;
+:text "여자 때문에 내던지지 마라. 이것을 알고서,"^^xsd:string ;
+:relatedTo :Line_649 .
+
+:TV_Line_650_KO a :TranslationVariant ;
+:text "그런 포옹은 차갑게 되는 법이다,"^^xsd:string ;
+:relatedTo :Line_650 .
+
+:TV_Line_651_KO a :TranslationVariant ;
+:text "집 안의 침상을 같이하는 나쁜 여자는. 무엇이"^^xsd:string ;
+:relatedTo :Line_651 .
+
+:TV_Line_652_KO a :TranslationVariant ;
+:text "나쁜 친구보다 더 큰 상처가 될 수 있겠느냐?"^^xsd:string ;
+:relatedTo :Line_652 .
+
+:TV_Line_653_KO a :TranslationVariant ;
+:text "그러니 적처럼 침 뱉고 그 아이를 버려라,"^^xsd:string ;
+:relatedTo :Line_653 .
+
+:TV_Line_654_KO a :TranslationVariant ;
+:text "하데스 안에서 어떤 자와 혼인하게 하도록."^^xsd:string ;
+:relatedTo :Line_654 .
+
+:TV_Line_655_KO a :TranslationVariant ;
+:text "내가 그녀를 명백히 붙잡았기 때문이다,"^^xsd:string ;
+:relatedTo :Line_655 .
+
+:TV_Line_656_KO a :TranslationVariant ;
+:text "온 도시 가운데 홀로 불복종한 자로."^^xsd:string ;
+:relatedTo :Line_656 .
+
+:TV_Line_657_KO a :TranslationVariant ;
+:text "나는 나 자신을 도시 앞에서 거짓된 자로 세우지 않고,"^^xsd:string ;
+:relatedTo :Line_657 .
+
+:TV_Line_658_KO a :TranslationVariant ;
+:text "그녀를 죽일 것이다. 이에 대해 그녀는 혈족의 제우스를 찬송하게 하라."^^xsd:string ;
+:relatedTo :Line_658 .
+
+:TV_Line_659_KO a :TranslationVariant ;
+:text "참으로 혈족으로 태어난 자들을"^^xsd:string ;
+:relatedTo :Line_659 .
+
+:TV_Line_660_KO a :TranslationVariant ;
+:text "무질서하게 기른다면, 가문 밖의 자들은 훨씬 더할 것이다."^^xsd:string ;
+:relatedTo :Line_660 .
+
+:TV_Line_661_KO a :TranslationVariant ;
+:text "자기 집안일에서 훌륭한 남자인 자는"^^xsd:string ;
+:relatedTo :Line_661 .
+
+:TV_Line_662_KO a :TranslationVariant ;
+:text "도시 안에서도 정의로운 자임이 드러날 것이기 때문이다."^^xsd:string ;
+:relatedTo :Line_662 .
+
+:TV_Line_663_KO a :TranslationVariant ;
+:text "그러나 누구든 넘어가서 법들을 폭행하거나,"^^xsd:string ;
+:relatedTo :Line_663 .
+
+:TV_Line_664_KO a :TranslationVariant ;
+:text "권세 잡은 자들에게 명령할 생각을 품는다면,"^^xsd:string ;
+:relatedTo :Line_664 .
+
+:TV_Line_665_KO a :TranslationVariant ;
+:text "그는 나에게서 칭찬을 얻을 수 없다."^^xsd:string ;
+:relatedTo :Line_665 .
+
+:TV_Line_666_KO a :TranslationVariant ;
+:text "도시가 세운 자, 그 사람의 말을 들어야 한다,"^^xsd:string ;
+:relatedTo :Line_666 .
+
+:TV_Line_667_KO a :TranslationVariant ;
+:text "작은 일과 정의로운 일과 그 반대의 일에서도."^^xsd:string ;
+:relatedTo :Line_667 .
+
+:TV_Line_668_KO a :TranslationVariant ;
+:text "그리고 나는 그런 남자를 믿을 것이다,"^^xsd:string ;
+:relatedTo :Line_668 .
+
+:TV_Line_669_KO a :TranslationVariant ;
+:text "잘 다스리고, 또한 잘 다스림받기를 원할 자로,"^^xsd:string ;
+:relatedTo :Line_669 .
+
+:TV_Line_670_KO a :TranslationVariant ;
+:text "창의 폭풍 속에서도 배치된 곳에서"^^xsd:string ;
+:relatedTo :Line_670 .
+
+:TV_Line_671_KO a :TranslationVariant ;
+:text "정의롭고 훌륭한 동료로 머물 자로."^^xsd:string ;
+:relatedTo :Line_671 .
+
+:TV_Line_672_KO a :TranslationVariant ;
+:text "무정부보다 더 큰 재앙은 없다."^^xsd:string ;
+:relatedTo :Line_672 .
+
+:TV_Line_673_KO a :TranslationVariant ;
+:text "이것이 도시들을 멸망시키고, 이것이 집들을"^^xsd:string ;
+:relatedTo :Line_673 .
+
+:TV_Line_674_KO a :TranslationVariant ;
+:text "폐허로 만들며, 이것이 동맹군의 창을"^^xsd:string ;
+:relatedTo :Line_674 .
+
+:TV_Line_675_KO a :TranslationVariant ;
+:text "돌아 달아나게 찢어 놓는다. 그러나 바로 서 있는 이들의"^^xsd:string ;
+:relatedTo :Line_675 .
+
+:TV_Line_676_KO a :TranslationVariant ;
+:text "많은 몸들은 복종이 구한다."^^xsd:string ;
+:relatedTo :Line_676 .
+
+:TV_Line_677_KO a :TranslationVariant ;
+:text "그러므로 질서 잡힌 것들을 지켜야 한다,"^^xsd:string ;
+:relatedTo :Line_677 .
+
+:TV_Line_678_KO a :TranslationVariant ;
+:text "결코 여자에게 져서는 안 된다."^^xsd:string ;
+:relatedTo :Line_678 .
+
+:TV_Line_679_KO a :TranslationVariant ;
+:text "필요하다면, 남자에게 떨어지는 편이 더 낫다."^^xsd:string ;
+:relatedTo :Line_679 .
+
+:TV_Line_680_KO a :TranslationVariant ;
+:text "그리고 우리는 여자들에게 진 자들이라 불리지 않을 것이다."^^xsd:string ;
+:relatedTo :Line_680 .

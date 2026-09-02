@@ -1,0 +1,158 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-724-761-german a owl:Ontology .
+# German translation variants for 724_to_761.ttl
+
+:TV_Line_724_DE a :TranslationVariant ;
+:text "Herr, dir ist es angemessen, wenn er etwas Zeitgemäßes sagt,"^^xsd:string ;
+:relatedTo :Line_724 .
+
+:TV_Line_725_DE a :TranslationVariant ;
+:text "zu lernen, und dir wiederum von diesem; denn gut ist auf beiden Seiten gesprochen."^^xsd:string ;
+:relatedTo :Line_725 .
+
+:TV_Line_726_DE a :TranslationVariant ;
+:text "Wir in diesem Alter sollen also noch gelehrt werden,"^^xsd:string ;
+:relatedTo :Line_726 .
+
+:TV_Line_727_DE a :TranslationVariant ;
+:text "zu denken von einem Mann, der seiner Natur nach so jung ist?"^^xsd:string ;
+:relatedTo :Line_727 .
+
+:TV_Line_728_DE a :TranslationVariant ;
+:text "Nichts, was nicht gerecht ist; wenn ich aber jung bin,"^^xsd:string ;
+:relatedTo :Line_728 .
+
+:TV_Line_729_DE a :TranslationVariant ;
+:text "muss man mehr die Taten als die Zeit betrachten."^^xsd:string ;
+:relatedTo :Line_729 .
+
+:TV_Line_730_DE a :TranslationVariant ;
+:text "Denn ist es eine Tat, die Ungeordneten zu ehren?"^^xsd:string ;
+:relatedTo :Line_730 .
+
+:TV_Line_731_DE a :TranslationVariant ;
+:text "Nicht einmal würde ich befehlen, gegen die Schlechten fromm zu sein."^^xsd:string ;
+:relatedTo :Line_731 .
+
+:TV_Line_732_DE a :TranslationVariant ;
+:text "Ist diese denn nicht von solcher Krankheit ergriffen?"^^xsd:string ;
+:relatedTo :Line_732 .
+
+:TV_Line_733_DE a :TranslationVariant ;
+:text "Das sagt das mitwohnende Volk dieses Theben nicht."^^xsd:string ;
+:relatedTo :Line_733 .
+
+:TV_Line_734_DE a :TranslationVariant ;
+:text "Wird denn die Stadt uns sagen, was ich anordnen muss?"^^xsd:string ;
+:relatedTo :Line_734 .
+
+:TV_Line_735_DE a :TranslationVariant ;
+:text "Siehst du, wie du dies gesprochen hast, wie allzu jung?"^^xsd:string ;
+:relatedTo :Line_735 .
+
+:TV_Line_736_DE a :TranslationVariant ;
+:text "Muss ich denn für einen anderen als für mich über dieses Land herrschen?"^^xsd:string ;
+:relatedTo :Line_736 .
+
+:TV_Line_737_DE a :TranslationVariant ;
+:text "Denn es gibt keine Stadt, die einem einzigen Mann gehört."^^xsd:string ;
+:relatedTo :Line_737 .
+
+:TV_Line_738_DE a :TranslationVariant ;
+:text "Gilt die Stadt nicht als die des Herrschenden?"^^xsd:string ;
+:relatedTo :Line_738 .
+
+:TV_Line_739_DE a :TranslationVariant ;
+:text "Schön würdest du allein über ein ödes Land herrschen."^^xsd:string ;
+:relatedTo :Line_739 .
+
+:TV_Line_740_DE a :TranslationVariant ;
+:text "Dieser, wie es scheint, kämpft auf Seiten der Frau."^^xsd:string ;
+:relatedTo :Line_740 .
+
+:TV_Line_741_DE a :TranslationVariant ;
+:text "Wenn du ja eine Frau bist; denn um dich sorge ich."^^xsd:string ;
+:relatedTo :Line_741 .
+
+:TV_Line_742_DE a :TranslationVariant ;
+:text "O ganz Schlechter, gehst du durch Recht gegen den Vater?"^^xsd:string ;
+:relatedTo :Line_742 .
+
+:TV_Line_743_DE a :TranslationVariant ;
+:text "Denn ich sehe, dass du vom Gerechten abirrst."^^xsd:string ;
+:relatedTo :Line_743 .
+
+:TV_Line_744_DE a :TranslationVariant ;
+:text "Verfehle ich denn, indem ich meine Herrschaften ehre?"^^xsd:string ;
+:relatedTo :Line_744 .
+
+:TV_Line_745_DE a :TranslationVariant ;
+:text "Denn du ehrst sie nicht, da du die Ehren der Götter zertrittst."^^xsd:string ;
+:relatedTo :Line_745 .
+
+:TV_Line_746_DE a :TranslationVariant ;
+:text "O befleckter Charakter und einer Frau nachstehend."^^xsd:string ;
+:relatedTo :Line_746 .
+
+:TV_Line_747_DE a :TranslationVariant ;
+:text "Du würdest mich doch nicht als geringer in den schändlichen Dingen finden."^^xsd:string ;
+:relatedTo :Line_747 .
+
+:TV_Line_748_DE a :TranslationVariant ;
+:text "Deine ganze Rede jedenfalls ist hier für jene."^^xsd:string ;
+:relatedTo :Line_748 .
+
+:TV_Line_749_DE a :TranslationVariant ;
+:text "Und für dich ja und für mich und für die unteren Götter."^^xsd:string ;
+:relatedTo :Line_749 .
+
+:TV_Line_750_DE a :TranslationVariant ;
+:text "Diese wirst du niemals, solange sie noch lebt, heiraten."^^xsd:string ;
+:relatedTo :Line_750 .
+
+:TV_Line_751_DE a :TranslationVariant ;
+:text "Sie wird also sterben, und sterbend wird sie jemanden vernichten."^^xsd:string ;
+:relatedTo :Line_751 .
+
+:TV_Line_752_DE a :TranslationVariant ;
+:text "Kommst du so, auch drohend, kühn gegen mich heraus?"^^xsd:string ;
+:relatedTo :Line_752 .
+
+:TV_Line_753_DE a :TranslationVariant ;
+:text "Was ist Drohung daran, gegen leere Meinungen zu sprechen?"^^xsd:string ;
+:relatedTo :Line_753 .
+
+:TV_Line_754_DE a :TranslationVariant ;
+:text "Weinend wirst du vernünftig machen, selbst leer an Verstand."^^xsd:string ;
+:relatedTo :Line_754 .
+
+:TV_Line_755_DE a :TranslationVariant ;
+:text "Wenn du nicht Vater wärst, sagte ich, du habest keinen guten Verstand."^^xsd:string ;
+:relatedTo :Line_755 .
+
+:TV_Line_756_DE a :TranslationVariant ;
+:text "Als Diener einer Frau schmeichle mir nicht."^^xsd:string ;
+:relatedTo :Line_756 .
+
+:TV_Line_757_DE a :TranslationVariant ;
+:text "Willst du etwas sagen und beim Sagen nichts hören?"^^xsd:string ;
+:relatedTo :Line_757 .
+
+:TV_Line_758_DE a :TranslationVariant ;
+:text "Wahrhaftig? Doch nicht bei diesem Olymp, wisse,"^^xsd:string ;
+:relatedTo :Line_758 .
+
+:TV_Line_759_DE a :TranslationVariant ;
+:text "wirst du dich freuend an Vorwürfen mich verhöhnen."^^xsd:string ;
+:relatedTo :Line_759 .
+
+:TV_Line_760_DE a :TranslationVariant ;
+:text "Bringt das Hassstück, damit sogleich vor seinen Augen,"^^xsd:string ;
+:relatedTo :Line_760 .
+
+:TV_Line_761_DE a :TranslationVariant ;
+:text "in seiner Gegenwart, nahe beim Bräutigam, sie stirbt."^^xsd:string ;
+:relatedTo :Line_761 .

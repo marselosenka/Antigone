@@ -1,0 +1,234 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_02-translations-384-440-arabic a owl:Ontology .
+# Arabic translation variants for 384_to_440.ttl
+
+:TV_Line_384_AR a :TranslationVariant ;
+:text "هذه هي التي أنجزت ذلك العمل؛"^^xsd:string ;
+:relatedTo :Line_384 .
+
+:TV_Line_385_AR a :TranslationVariant ;
+:text "أخذناها وهي تدفن. لكن أين كريون؟"^^xsd:string ;
+:relatedTo :Line_385 .
+
+:TV_Line_386_AR a :TranslationVariant ;
+:text "ها هو ذا عائد من الدار في الوقت المناسب."^^xsd:string ;
+:relatedTo :Line_386 .
+
+:TV_Line_387_AR a :TranslationVariant ;
+:text "وما الأمر؟ لأي حادث خرجت في وقته؟"^^xsd:string ;
+:relatedTo :Line_387 .
+
+:TV_Line_388_AR a :TranslationVariant ;
+:text "أيها الملك، ليس بين البشر شيء يمكن إنكاره بالقسم."^^xsd:string ;
+:relatedTo :Line_388 .
+
+:TV_Line_389_AR a :TranslationVariant ;
+:text "فالفكر اللاحق يكذب الرأي؛ إذ"^^xsd:string ;
+:relatedTo :Line_389 .
+
+:TV_Line_390_AR a :TranslationVariant ;
+:text "كنت أتمنى أنني لن آتي إلى هنا ببطء أبدًا،"^^xsd:string ;
+:relatedTo :Line_390 .
+
+:TV_Line_391_AR a :TranslationVariant ;
+:text "بسبب تهديداتك التي عصفت بي آنذاك؛"^^xsd:string ;
+:relatedTo :Line_391 .
+
+:TV_Line_392_AR a :TranslationVariant ;
+:text "لكن الفرح الخارج عن التوقع وخلاف الأمل"^^xsd:string ;
+:relatedTo :Line_392 .
+
+:TV_Line_393_AR a :TranslationVariant ;
+:text "لا يشبه أي لذة أخرى في امتداده،"^^xsd:string ;
+:relatedTo :Line_393 .
+
+:TV_Line_394_AR a :TranslationVariant ;
+:text "فأتيت، مع أنني كنت قد أقسمت ألا آتي،"^^xsd:string ;
+:relatedTo :Line_394 .
+
+:TV_Line_395_AR a :TranslationVariant ;
+:text "سائقًا هذه الفتاة، التي ضُبطت وهي"^^xsd:string ;
+:relatedTo :Line_395 .
+
+:TV_Line_396_AR a :TranslationVariant ;
+:text "تزين القبر. لم تقفز القرعة هنا،"^^xsd:string ;
+:relatedTo :Line_396 .
+
+:TV_Line_397_AR a :TranslationVariant ;
+:text "بل هذا غنمي وكنزي أنا، لا غيري."^^xsd:string ;
+:relatedTo :Line_397 .
+
+:TV_Line_398_AR a :TranslationVariant ;
+:text "والآن، أيها الملك، خذها أنت بنفسك كما تريد،"^^xsd:string ;
+:relatedTo :Line_398 .
+
+:TV_Line_399_AR a :TranslationVariant ;
+:text "واحكم وافحص؛ أما أنا فحرّ،"^^xsd:string ;
+:relatedTo :Line_399 .
+
+:TV_Line_400_AR a :TranslationVariant ;
+:text "ومن العدل أن أتخلص من هذه الشرور."^^xsd:string ;
+:relatedTo :Line_400 .
+
+:TV_Line_401_AR a :TranslationVariant ;
+:text "ومن أين أخذتها، وبأي طريقة تأتي بها؟"^^xsd:string ;
+:relatedTo :Line_401 .
+
+:TV_Line_402_AR a :TranslationVariant ;
+:text "هذه كانت تدفن الرجل؛ أنت تعرف كل شيء."^^xsd:string ;
+:relatedTo :Line_402 .
+
+:TV_Line_403_AR a :TranslationVariant ;
+:text "أحقًّا تفهم وتقول بحق ما تقول؟"^^xsd:string ;
+:relatedTo :Line_403 .
+
+:TV_Line_404_AR a :TranslationVariant ;
+:text "رأيتها هي بعينها تدفن ذاك الميت"^^xsd:string ;
+:relatedTo :Line_404 .
+
+:TV_Line_405_AR a :TranslationVariant ;
+:text "الذي منعت أنت دفنه. أأتكلم بأمور بينة واضحة؟"^^xsd:string ;
+:relatedTo :Line_405 .
+
+:TV_Line_406_AR a :TranslationVariant ;
+:text "وكيف رُئيت وأُخذت متلبسة؟"^^xsd:string ;
+:relatedTo :Line_406 .
+
+:TV_Line_407_AR a :TranslationVariant ;
+:text "كان الأمر على هذا النحو. فلما وصلنا،"^^xsd:string ;
+:relatedTo :Line_407 .
+
+:TV_Line_408_AR a :TranslationVariant ;
+:text "وقد هُددنا منك بتلك الأمور الرهيبة،"^^xsd:string ;
+:relatedTo :Line_408 .
+
+:TV_Line_409_AR a :TranslationVariant ;
+:text "كنسنا كل التراب الذي كان يغطي"^^xsd:string ;
+:relatedTo :Line_409 .
+
+:TV_Line_410_AR a :TranslationVariant ;
+:text "الميت، وعرّينا الجسد المتعفن جيدًا،"^^xsd:string ;
+:relatedTo :Line_410 .
+
+:TV_Line_411_AR a :TranslationVariant ;
+:text "وجلسنا على رؤوس التلال، في جهة الريح،"^^xsd:string ;
+:relatedTo :Line_411 .
+
+:TV_Line_412_AR a :TranslationVariant ;
+:text "هاربين من أن تضربنا رائحته،"^^xsd:string ;
+:relatedTo :Line_412 .
+
+:TV_Line_413_AR a :TranslationVariant ;
+:text "وكان رجل يوقظ رجلًا بهتافات"^^xsd:string ;
+:relatedTo :Line_413 .
+
+:TV_Line_414_AR a :TranslationVariant ;
+:text "سيئة، إن أهمل أحد هذا العناء."^^xsd:string ;
+:relatedTo :Line_414 .
+
+:TV_Line_415_AR a :TranslationVariant ;
+:text "دامت هذه الأمور زمنًا بهذا القدر، حتى في وسط الأثير"^^xsd:string ;
+:relatedTo :Line_415 .
+
+:TV_Line_416_AR a :TranslationVariant ;
+:text "استقر قرص الشمس اللامع"^^xsd:string ;
+:relatedTo :Line_416 .
+
+:TV_Line_417_AR a :TranslationVariant ;
+:text "وألهب الحر؛ وحينئذٍ فجأة من الأرض"^^xsd:string ;
+:relatedTo :Line_417 .
+
+:TV_Line_418_AR a :TranslationVariant ;
+:text "إذ رفع إعصار بلية سماوية عاصفة،"^^xsd:string ;
+:relatedTo :Line_418 .
+
+:TV_Line_419_AR a :TranslationVariant ;
+:text "ملأ السهل، مشوهًا كل شعر"^^xsd:string ;
+:relatedTo :Line_419 .
+
+:TV_Line_420_AR a :TranslationVariant ;
+:text "الغابة السهلية، وامتلأ به"^^xsd:string ;
+:relatedTo :Line_420 .
+
+:TV_Line_421_AR a :TranslationVariant ;
+:text "الأثير العظيم؛ فأغمضنا العيون واحتملنا البلاء الإلهي."^^xsd:string ;
+:relatedTo :Line_421 .
+
+:TV_Line_422_AR a :TranslationVariant ;
+:text "وبعد أن زال هذا بعد زمن طويل،"^^xsd:string ;
+:relatedTo :Line_422 .
+
+:TV_Line_423_AR a :TranslationVariant ;
+:text "تُرى الفتاة، وتطلق صرخة عالية حادة،"^^xsd:string ;
+:relatedTo :Line_423 .
+
+:TV_Line_424_AR a :TranslationVariant ;
+:text "صوت طائر مرير، كما حين يرى"^^xsd:string ;
+:relatedTo :Line_424 .
+
+:TV_Line_425_AR a :TranslationVariant ;
+:text "مهد فراخه خاليًا يتيمًا من الفراخ."^^xsd:string ;
+:relatedTo :Line_425 .
+
+:TV_Line_426_AR a :TranslationVariant ;
+:text "هكذا هي أيضًا، حين رأت الجثة عارية،"^^xsd:string ;
+:relatedTo :Line_426 .
+
+:TV_Line_427_AR a :TranslationVariant ;
+:text "صرخت بأنّات، ومن فمها أطلقت لعنات شريرة"^^xsd:string ;
+:relatedTo :Line_427 .
+
+:TV_Line_428_AR a :TranslationVariant ;
+:text "على الذين أنجزوا ذلك العمل."^^xsd:string ;
+:relatedTo :Line_428 .
+
+:TV_Line_429_AR a :TranslationVariant ;
+:text "وبيديها تحمل فورًا ترابًا عطشان،"^^xsd:string ;
+:relatedTo :Line_429 .
+
+:TV_Line_430_AR a :TranslationVariant ;
+:text "ومن إبريق نحاسي حسن الطرق، مرفوعًا،"^^xsd:string ;
+:relatedTo :Line_430 .
+
+:TV_Line_431_AR a :TranslationVariant ;
+:text "تكلل الجثة بسكائب ثلاثية."^^xsd:string ;
+:relatedTo :Line_431 .
+
+:TV_Line_432_AR a :TranslationVariant ;
+:text "ونحن، إذ رأينا، اندفعنا، ومعًا"^^xsd:string ;
+:relatedTo :Line_432 .
+
+:TV_Line_433_AR a :TranslationVariant ;
+:text "اصطدناها فورًا، غير مذعورة بشيء،"^^xsd:string ;
+:relatedTo :Line_433 .
+
+:TV_Line_434_AR a :TranslationVariant ;
+:text "وفحصنا أفعالها السابقة والحاضرة،"^^xsd:string ;
+:relatedTo :Line_434 .
+
+:TV_Line_435_AR a :TranslationVariant ;
+:text "فلم تكن تنكر شيئًا،"^^xsd:string ;
+:relatedTo :Line_435 .
+
+:TV_Line_436_AR a :TranslationVariant ;
+:text "وهذا كان في الوقت نفسه مفرحًا لي ومؤلمًا."^^xsd:string ;
+:relatedTo :Line_436 .
+
+:TV_Line_437_AR a :TranslationVariant ;
+:text "فأن ينجو المرء نفسه من الشرور"^^xsd:string ;
+:relatedTo :Line_437 .
+
+:TV_Line_438_AR a :TranslationVariant ;
+:text "ألذ شيء، أما أن يسوق الأحبة إلى الشر"^^xsd:string ;
+:relatedTo :Line_438 .
+
+:TV_Line_439_AR a :TranslationVariant ;
+:text "فمؤلم؛ لكن طبيعتي أن آخذ كل هذه الأشياء"^^xsd:string ;
+:relatedTo :Line_439 .
+
+:TV_Line_440_AR a :TranslationVariant ;
+:text "أدنى من خلاصي أنا."^^xsd:string ;
+:relatedTo :Line_440 .

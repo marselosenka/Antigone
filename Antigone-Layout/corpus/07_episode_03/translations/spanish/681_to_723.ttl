@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-681-723-spanish a owl:Ontology .
+# Spanish translation variants for 681_to_723.ttl
+
+:TV_Line_681_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_681 ; :text "A nosotros, si el tiempo no nos ha engañado,"^^xsd:string .
+:TV_Line_682_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_682 ; :text "nos parece que hablas con sensatez sobre lo que dices."^^xsd:string .
+:TV_Line_683_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_683 ; :text "Padre, los dioses hacen nacer la razón en los hombres,"^^xsd:string .
+:TV_Line_684_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_684 ; :text "el más alto de todos los bienes que existen."^^xsd:string .
+:TV_Line_685_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_685 ; :text "Que tú no hablas rectamente en estas cosas,"^^xsd:string .
+:TV_Line_686_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_686 ; :text "ni podría ni sabría decirlo."^^xsd:string .
+:TV_Line_687_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_687 ; :text "Sin embargo, también otro parecer podría estar bien."^^xsd:string .
+:TV_Line_688_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_688 ; :text "Pues por naturaleza me toca observar por ti todo cuanto"^^xsd:string .
+:TV_Line_689_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_689 ; :text "alguien dice, hace, o tiene para reprochar."^^xsd:string .
+:TV_Line_690_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_690 ; :text "Tu mirada es temible para un ciudadano común"^^xsd:string .
+:TV_Line_691_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_691 ; :text "ante palabras tales que no te agradaría oír."^^xsd:string .
+:TV_Line_692_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_692 ; :text "Pero a mí me es posible oír estas cosas en la sombra:"^^xsd:string .
+:TV_Line_693_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_693 ; :text "cómo la ciudad se lamenta por esta muchacha,"^^xsd:string .
+:TV_Line_694_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_694 ; :text "diciendo que, de todas las mujeres, es la menos digna"^^xsd:string .
+:TV_Line_695_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_695 ; :text "de morir de la peor forma por las obras más gloriosas."^^xsd:string .
+:TV_Line_696_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_696 ; :text "Ella, a su propio hermano, caído entre matanzas"^^xsd:string .
+:TV_Line_697_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_697 ; :text "e insepulto, no permitió que fuera destruido por perros voraces"^^xsd:string .
+:TV_Line_698_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_698 ; :text "ni por ave alguna."^^xsd:string .
+:TV_Line_699_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_699 ; :text "¿No merece ella recibir una honra de oro?"^^xsd:string .
+:TV_Line_700_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_700 ; :text "Tal rumor oscuro avanza en silencio."^^xsd:string .
+:TV_Line_701_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_701 ; :text "Para mí, padre, cuando tú prosperas,"^^xsd:string .
+:TV_Line_702_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_702 ; :text "no hay posesión alguna más preciosa."^^xsd:string .
+:TV_Line_703_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_703 ; :text "Pues ¿qué ornamento mayor para los hijos"^^xsd:string .
+:TV_Line_704_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_704 ; :text "que la gloria floreciente del padre, o qué para un padre de parte de sus hijos?"^^xsd:string .
+:TV_Line_705_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_705 ; :text "No lleves ahora en ti un solo carácter,"^^xsd:string .
+:TV_Line_706_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_706 ; :text "como si solo lo que tú dices, y nada más, fuera correcto."^^xsd:string .
+:TV_Line_707_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_707 ; :text "Pues quienes creen que solo ellos piensan,"^^xsd:string .
+:TV_Line_708_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_708 ; :text "o que poseen una lengua o un alma que ningún otro tiene,"^^xsd:string .
+:TV_Line_709_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_709 ; :text "cuando se los abre, se muestran vacíos."^^xsd:string .
+:TV_Line_710_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_710 ; :text "Pero para un hombre, aunque sea sabio, aprender"^^xsd:string .
+:TV_Line_711_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_711 ; :text "muchas cosas no es vergonzoso, y tampoco lo es no tensarse demasiado."^^xsd:string .
+:TV_Line_712_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_712 ; :text "Ves junto a las corrientes de invierno cómo todos los árboles"^^xsd:string .
+:TV_Line_713_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_713 ; :text "que ceden salvan sus ramas,"^^xsd:string .
+:TV_Line_714_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_714 ; :text "mientras los que se resisten perecen arrancados de raíz."^^xsd:string .
+:TV_Line_715_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_715 ; :text "Del mismo modo, quien en una nave mantiene tensa"^^xsd:string .
+:TV_Line_716_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_716 ; :text "la escota y no cede en nada,"^^xsd:string .
+:TV_Line_717_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_717 ; :text "navega después con los bancos volcados hacia abajo."^^xsd:string .
+:TV_Line_718_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_718 ; :text "Cede, pues, y concede un cambio a tu ánimo."^^xsd:string .
+:TV_Line_719_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_719 ; :text "Porque si hay algún juicio también de mí, más joven,"^^xsd:string .
+:TV_Line_720_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_720 ; :text "yo digo que es, con mucho, lo mejor"^^xsd:string .
+:TV_Line_721_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_721 ; :text "nacer hombre lleno de todo conocimiento."^^xsd:string .
+:TV_Line_722_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_722 ; :text "Pero si no —pues esto no suele inclinarse así—,"^^xsd:string .
+:TV_Line_723_ES a owl:NamedIndividual, :TranslationVariant ; :relatedTo :Line_723 ; :text "también es noble aprender de quienes hablan bien."^^xsd:string .

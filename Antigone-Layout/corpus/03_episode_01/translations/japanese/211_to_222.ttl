@@ -1,0 +1,54 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_01-translations-211-222-japanese a owl:Ontology .
+# Japanese translation variants for 211_to_222.ttl
+
+:TV_Line_211_JA a :TranslationVariant ;
+:text "メノイケウスの子よ、町に敵意を持つ者と好意を持つ者に"^^xsd:string ;
+:relatedTo :Line_211 .
+
+:TV_Line_212_JA a :TranslationVariant ;
+:text "このように行うことは、あなたの気に入っている。"^^xsd:string ;
+:relatedTo :Line_212 .
+
+:TV_Line_213_JA a :TranslationVariant ;
+:text "そしてあらゆる法を用いること、これはあなたに許されている、"^^xsd:string ;
+:relatedTo :Line_213 .
+
+:TV_Line_214_JA a :TranslationVariant ;
+:text "死んだ者たちについても、私たち生きている者がどれほどいようとも。"^^xsd:string ;
+:relatedTo :Line_214 .
+
+:TV_Line_215_JA a :TranslationVariant ;
+:text "では今、あなた方が言われたことの監視者であるように。"^^xsd:string ;
+:relatedTo :Line_215 .
+
+:TV_Line_216_JA a :TranslationVariant ;
+:text "このことを担うのは、もっと若い誰かに命じなさい。"^^xsd:string ;
+:relatedTo :Line_216 .
+
+:TV_Line_217_JA a :TranslationVariant ;
+:text "いや、すでにその死体の監視者たちは用意されている。"^^xsd:string ;
+:relatedTo :Line_217 .
+
+:TV_Line_218_JA a :TranslationVariant ;
+:text "では、これ以上ほかに何をまだ命じるというのか。"^^xsd:string ;
+:relatedTo :Line_218 .
+
+:TV_Line_219_JA a :TranslationVariant ;
+:text "これらを信じない者たちに譲歩しないことだ。"^^xsd:string ;
+:relatedTo :Line_219 .
+
+:TV_Line_220_JA a :TranslationVariant ;
+:text "死を愛するほど愚かな者はいない。"^^xsd:string ;
+:relatedTo :Line_220 .
+
+:TV_Line_221_JA a :TranslationVariant ;
+:text "確かに報酬はそれだ。だが希望に動かされて、"^^xsd:string ;
+:relatedTo :Line_221 .
+
+:TV_Line_222_JA a :TranslationVariant ;
+:text "利益はしばしば男たちを滅ぼした。"^^xsd:string ;
+:relatedTo :Line_222 .

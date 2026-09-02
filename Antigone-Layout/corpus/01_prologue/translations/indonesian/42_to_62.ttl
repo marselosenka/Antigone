@@ -1,0 +1,90 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:prologue-translations-42-62-indonesian a owl:Ontology .
+# Indonesian translation variants for 42_to_62.ttl
+
+:TV_Line_042_ID a :TranslationVariant ;
+:text "Bahaya macam apa? Ke mana pikiranmu tertuju?"^^xsd:string ;
+:relatedTo :Line_042 .
+
+:TV_Line_043_ID a :TranslationVariant ;
+:text "Apakah kau akan mengangkat mayat itu bersama tangan ini?"^^xsd:string ;
+:relatedTo :Line_043 .
+
+:TV_Line_044_ID a :TranslationVariant ;
+:text "Sungguhkah engkau berniat menguburnya, padahal itu terlarang bagi kota?"^^xsd:string ;
+:relatedTo :Line_044 .
+
+:TV_Line_045_ID a :TranslationVariant ;
+:text "Setidaknya saudaraku, dan saudaramu juga, jika engkau tidak mau,"^^xsd:string ;
+:relatedTo :Line_045 .
+
+:TV_Line_046_ID a :TranslationVariant ;
+:text "sebab aku tidak akan tertangkap sebagai pengkhianat."^^xsd:string ;
+:relatedTo :Line_046 .
+
+:TV_Line_047_ID a :TranslationVariant ;
+:text "Wahai celaka, padahal Kreon sudah melarangnya?"^^xsd:string ;
+:relatedTo :Line_047 .
+
+:TV_Line_048_ID a :TranslationVariant ;
+:text "Namun ia tidak punya bagian untuk menahanku dari milikku sendiri."^^xsd:string ;
+:relatedTo :Line_048 .
+
+:TV_Line_049_ID a :TranslationVariant ;
+:text "Aduhai; pikirkanlah, wahai saudari, bagaimana ayah kita"^^xsd:string ;
+:relatedTo :Line_049 .
+
+:TV_Line_050_ID a :TranslationVariant ;
+:text "mati dibenci dan bernama buruk,"^^xsd:string ;
+:relatedTo :Line_050 .
+
+:TV_Line_051_ID a :TranslationVariant ;
+:text "ketika ia sendiri, karena kesalahan yang tertangkap basah,"^^xsd:string ;
+:relatedTo :Line_051 .
+
+:TV_Line_052_ID a :TranslationVariant ;
+:text "menghantam kedua matanya dengan tangannya sendiri yang bekerja sendiri;"^^xsd:string ;
+:relatedTo :Line_052 .
+
+:TV_Line_053_ID a :TranslationVariant ;
+:text "lalu ibu sekaligus istri, sebutan ganda,"^^xsd:string ;
+:relatedTo :Line_053 .
+
+:TV_Line_054_ID a :TranslationVariant ;
+:text "merusak hidupnya dengan tali-tali jerat yang teranyam;"^^xsd:string ;
+:relatedTo :Line_054 .
+
+:TV_Line_055_ID a :TranslationVariant ;
+:text "ketiga, dua saudara kita dalam satu hari"^^xsd:string ;
+:relatedTo :Line_055 .
+
+:TV_Line_056_ID a :TranslationVariant ;
+:text "dengan saling membunuh, kedua orang malang itu,"^^xsd:string ;
+:relatedTo :Line_056 .
+
+:TV_Line_057_ID a :TranslationVariant ;
+:text "menyelesaikan nasib maut bersama oleh tangan satu sama lain."^^xsd:string ;
+:relatedTo :Line_057 .
+
+:TV_Line_058_ID a :TranslationVariant ;
+:text "Dan sekarang, kita berdua saja yang tertinggal; pertimbangkanlah"^^xsd:string ;
+:relatedTo :Line_058 .
+
+:TV_Line_059_ID a :TranslationVariant ;
+:text "betapa paling buruk kita akan binasa, jika dengan kekerasan terhadap hukum"^^xsd:string ;
+:relatedTo :Line_059 .
+
+:TV_Line_060_ID a :TranslationVariant ;
+:text "kita melanggar keputusan atau kuasa para penguasa."^^xsd:string ;
+:relatedTo :Line_060 .
+
+:TV_Line_061_ID a :TranslationVariant ;
+:text "Tetapi harus kita pikirkan ini: pertama, bahwa kita lahir"^^xsd:string ;
+:relatedTo :Line_061 .
+
+:TV_Line_062_ID a :TranslationVariant ;
+:text "sebagai perempuan, sehingga tidak untuk berperang melawan laki-laki;"^^xsd:string ;
+:relatedTo :Line_062 .

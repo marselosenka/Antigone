@@ -1,0 +1,130 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_05-translations-1033-1063-korean a owl:Ontology .
+# Korean translation variants for 1033_to_1063.ttl
+
+:TV_Line_1033_KO a :TranslationVariant ;
+:text "오 노인이여, 모두가 과녁을 향한 궁수들처럼"^^xsd:string ;
+:relatedTo :Line_1033 .
+
+:TV_Line_1034_KO a :TranslationVariant ;
+:text "이 사람을 향해 활을 쏘는구나. 너희에게 나는 예언술에서도"^^xsd:string ;
+:relatedTo :Line_1034 .
+
+:TV_Line_1035_KO a :TranslationVariant ;
+:text "손대지 않은 자가 아니며, 그 무리 아래에서"^^xsd:string ;
+:relatedTo :Line_1035 .
+
+:TV_Line_1036_KO a :TranslationVariant ;
+:text "오래전부터 팔려 넘겨지고 짐을 지고 있었다."^^xsd:string ;
+:relatedTo :Line_1036 .
+
+:TV_Line_1037_KO a :TranslationVariant ;
+:text "이익을 얻어라, 사르데이스에서 온"^^xsd:string ;
+:relatedTo :Line_1037 .
+
+:TV_Line_1038_KO a :TranslationVariant ;
+:text "호박금을 사고팔아라, 원한다면, 그리고 인도의"^^xsd:string ;
+:relatedTo :Line_1038 .
+
+:TV_Line_1039_KO a :TranslationVariant ;
+:text "금도. 그러나 너희는 그를 무덤으로 덮지 못할 것이다,"^^xsd:string ;
+:relatedTo :Line_1039 .
+
+:TV_Line_1040_KO a :TranslationVariant ;
+:text "제우스의 독수리들이 먹이로 삼으려고"^^xsd:string ;
+:relatedTo :Line_1040 .
+
+:TV_Line_1041_KO a :TranslationVariant ;
+:text "그를 낚아채 제우스의 왕좌까지 데려가려 하더라도,"^^xsd:string ;
+:relatedTo :Line_1041 .
+
+:TV_Line_1042_KO a :TranslationVariant ;
+:text "그렇다 해도 나는 이 오염을 두려워하지 않고"^^xsd:string ;
+:relatedTo :Line_1042 .
+
+:TV_Line_1043_KO a :TranslationVariant ;
+:text "그를 묻게 허락하지 않을 것이다. 나는 잘 알기 때문이다,"^^xsd:string ;
+:relatedTo :Line_1043 .
+
+:TV_Line_1044_KO a :TranslationVariant ;
+:text "인간들 중 누구도 신들을 더럽힐 힘은 없다는 것을."^^xsd:string ;
+:relatedTo :Line_1044 .
+
+:TV_Line_1045_KO a :TranslationVariant ;
+:text "그러나 쓰러진다, 늙은 테이레시아스여, 죽을 자들 가운데"^^xsd:string ;
+:relatedTo :Line_1045 .
+
+:TV_Line_1046_KO a :TranslationVariant ;
+:text "많이 영리한 자들도 수치스러운 추락으로, 그들이"^^xsd:string ;
+:relatedTo :Line_1046 .
+
+:TV_Line_1047_KO a :TranslationVariant ;
+:text "이익 때문에 수치스러운 말을 아름답게 말할 때."^^xsd:string ;
+:relatedTo :Line_1047 .
+
+:TV_Line_1048_KO a :TranslationVariant ;
+:text "아아, 인간들 중 누가 알고, 누가 생각하는가,"^^xsd:string ;
+:relatedTo :Line_1048 .
+
+:TV_Line_1049_KO a :TranslationVariant ;
+:text "무슨 말인가? 어떤 모두에게 공통된 것을 말하는가?"^^xsd:string ;
+:relatedTo :Line_1049 .
+
+:TV_Line_1050_KO a :TranslationVariant ;
+:text "훌륭한 판단이 재산들 가운데 얼마나 가장 좋은지를?"^^xsd:string ;
+:relatedTo :Line_1050 .
+
+:TV_Line_1051_KO a :TranslationVariant ;
+:text "생각하지 않음이 가장 큰 해악인 만큼, 나는 생각한다."^^xsd:string ;
+:relatedTo :Line_1051 .
+
+:TV_Line_1052_KO a :TranslationVariant ;
+:text "그러나 너는 바로 이 병으로 가득 차 태어났다."^^xsd:string ;
+:relatedTo :Line_1052 .
+
+:TV_Line_1053_KO a :TranslationVariant ;
+:text "나는 예언자에게 나쁘게 맞말하고 싶지 않다."^^xsd:string ;
+:relatedTo :Line_1053 .
+
+:TV_Line_1054_KO a :TranslationVariant ;
+:text "그런데도 너는 말하고 있다, 내가 거짓 예언한다고 말하면서."^^xsd:string ;
+:relatedTo :Line_1054 .
+
+:TV_Line_1055_KO a :TranslationVariant ;
+:text "예언자들의 모든 족속은 은을 사랑하기 때문이다."^^xsd:string ;
+:relatedTo :Line_1055 .
+
+:TV_Line_1056_KO a :TranslationVariant ;
+:text "참주들의 족속은 수치스러운 이익을 사랑한다."^^xsd:string ;
+:relatedTo :Line_1056 .
+
+:TV_Line_1057_KO a :TranslationVariant ;
+:text "네가 말하는 것을 말하면서, 내가 통치자임을 알고 있느냐?"^^xsd:string ;
+:relatedTo :Line_1057 .
+
+:TV_Line_1058_KO a :TranslationVariant ;
+:text "알고 있다. 네가 이 도시를 구해 가진 것은 나로부터였기 때문이다."^^xsd:string ;
+:relatedTo :Line_1058 .
+
+:TV_Line_1059_KO a :TranslationVariant ;
+:text "너는 지혜로운 예언자이나, 불의를 사랑하는 자다."^^xsd:string ;
+:relatedTo :Line_1059 .
+
+:TV_Line_1060_KO a :TranslationVariant ;
+:text "너는 내 마음속 움직이지 않는 것들을 말하게 자극할 것이다."^^xsd:string ;
+:relatedTo :Line_1060 .
+
+:TV_Line_1061_KO a :TranslationVariant ;
+:text "움직여라, 다만 이익을 위해 말하지는 말라."^^xsd:string ;
+:relatedTo :Line_1061 .
+
+:TV_Line_1062_KO a :TranslationVariant ;
+:text "그렇게라면 이미 내가 네 편을 위한다고 보이는구나."^^xsd:string ;
+:relatedTo :Line_1062 .
+
+:TV_Line_1063_KO a :TranslationVariant ;
+:text "내 마음을 사들이지는 못하리라는 것을 알아라."^^xsd:string ;
+:relatedTo :Line_1063 .

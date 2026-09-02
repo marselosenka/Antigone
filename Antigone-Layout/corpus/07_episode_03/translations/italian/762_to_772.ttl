@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-italian a owl:Ontology .
+# Italian translation variants for 762_to_772.ttl
+
+:TV_Line_762_IT a :TranslationVariant ;
+:text "No davvero, almeno presso di me; non pensarlo mai,"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_IT a :TranslationVariant ;
+:text "né costei morirà vicina, e tu mai più"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_IT a :TranslationVariant ;
+:text "vedrai il mio capo guardandolo con i tuoi occhi,"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_IT a :TranslationVariant ;
+:text "così che tu possa impazzire insieme agli amici che lo vogliono."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_IT a :TranslationVariant ;
+:text "L’uomo, signore, se n’è andato rapido per ira;"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_IT a :TranslationVariant ;
+:text "una mente di tale età, quando soffre, è pesante."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_IT a :TranslationVariant ;
+:text "Agisca pure; pensi qualcosa più grande che secondo un uomo;"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_IT a :TranslationVariant ;
+:text "ma certo non libererà queste due fanciulle dalla sorte."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_IT a :TranslationVariant ;
+:text "Pensi dunque di ucciderle entrambe?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_IT a :TranslationVariant ;
+:text "Non quella che non ha toccato; infatti dici bene."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_IT a :TranslationVariant ;
+:text "E con quale sorte medita di uccidere l’altra?"^^xsd:string ;
+:relatedTo :Line_772 .

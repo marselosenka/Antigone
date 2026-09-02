@@ -1,0 +1,50 @@
+@prefix : <http://example.org/antigone#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:episode_03-translations-762-772-portuguese a owl:Ontology .
+# Portuguese translation variants for 762_to_772.ttl
+
+:TV_Line_762_PT a :TranslationVariant ;
+:text "Não, certamente não junto a mim; nunca penses isso,"^^xsd:string ;
+:relatedTo :Line_762 .
+
+:TV_Line_763_PT a :TranslationVariant ;
+:text "nem esta morrerá perto, e tu jamais"^^xsd:string ;
+:relatedTo :Line_763 .
+
+:TV_Line_764_PT a :TranslationVariant ;
+:text "verás minha cabeça olhando-a com teus olhos,"^^xsd:string ;
+:relatedTo :Line_764 .
+
+:TV_Line_765_PT a :TranslationVariant ;
+:text "para que enlouqueças convivendo com os amigos que quiserem."^^xsd:string ;
+:relatedTo :Line_765 .
+
+:TV_Line_766_PT a :TranslationVariant ;
+:text "O homem, senhor, partiu rápido por ira;"^^xsd:string ;
+:relatedTo :Line_766 .
+
+:TV_Line_767_PT a :TranslationVariant ;
+:text "uma mente dessa idade, quando sofre, é pesada."^^xsd:string ;
+:relatedTo :Line_767 .
+
+:TV_Line_768_PT a :TranslationVariant ;
+:text "Que aja; que pense algo maior que segundo homem;"^^xsd:string ;
+:relatedTo :Line_768 .
+
+:TV_Line_769_PT a :TranslationVariant ;
+:text "mas não libertará estas duas jovens da sorte."^^xsd:string ;
+:relatedTo :Line_769 .
+
+:TV_Line_770_PT a :TranslationVariant ;
+:text "Então pensas matar ambas?"^^xsd:string ;
+:relatedTo :Line_770 .
+
+:TV_Line_771_PT a :TranslationVariant ;
+:text "Não a que não tocou; pois nisso falas bem."^^xsd:string ;
+:relatedTo :Line_771 .
+
+:TV_Line_772_PT a :TranslationVariant ;
+:text "E com que sorte ele planeja matar a outra?"^^xsd:string ;
+:relatedTo :Line_772 .
